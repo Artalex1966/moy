@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:0,Любимое кино
+http://178.57.59.236:81/udp/239.195.1.31:1234
+#EXTINF:0,Любимое кино 2
+http://188.128.15.118:8080/play/a53
+#EXTINF:0,Любимое.TV
+http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
+#EXTINF:0,Родное кино
+http://86.57.225.245:7015/play/a00j
+#EXTINF:0,Родное кино2
+http://178.57.59.236:81/udp/239.195.1.114:1234
+#EXTINF:0,Родное кино3
+http://ygk.info/stream/5ZX39WWQSZ8E4A/126/index.m3u8
+#EXTINF:0,Дом Кино
+http://212.112.101.69:8081/stream62/output.m3u8
+#EXTINF:0,Дом Кино 2
+http://91.205.131.7:80/dom_kino/tracks-v1a1/index.m3u8
+#EXTINF:0,Кино 24
+http://82.193.71.93:80/Kino24LV/video.m3u8
+#EXTINF:0,Кино ТВ
+http://91.205.131.7:80/kino-tv/tracks-v1a1/index.m3u8
+#EXTINF:0,СССР
+http://v3.catcast.me/contentv2/36506/tracks-v1a1/index.m3u8
+#EXTINF:0,СССР 2
+http://v3.myowntv.org/content/36506/tracks-v1a1/index.m3u8
+#EXTINF:0,Советское кино
+http://v3.myowntv.org/content/36506/tracks-v1a1/index.m3u8
+#EXTINF:0,Кинозал! СССР
+http://mhd.limehd.tv/p/L4E5f0beEWaDapsjBW9z7w,1567344808/streaming/sovietmovs/324/1/index.m3u8
+#EXTINF:0,TOP USSR
+http://topchantv.net:3456/FREEmegamakc51/cT8o8nPsUI/1993
+#EXTINF:0,Звезда
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:0,Звезда +2
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ZVEZDA_2/variant.m3u8
+#EXTINF:0,Звезда +4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/bw2000000/variant.m3u8?version=2
+#EXTINF:0,Звезда +7
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8?version=2
+#EXTINF:0,Победа
+http://ott-cdn.ucom.am/s47/index.m3u8
+#EXTINF:0,Красная линия ТВ
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:0,ФАНТАСТИКА
+http://v3.catcast.me/contentv2/36487/index.m3u8
+#EXTINF:0, Боевик
+https://v3.catcast.me/content/36511/tracks-v1a1/index.m3u8
+#EXTINF:0,В гостях у сказки
+http://109.248.236.41:4433/udp/238.1.1.98:1234
+#EXTINF:0,Discovery Science
+http://188.128.15.118:8080/play/a37
+#EXTINF:0,Discovery
+http://188.128.15.118:8080/play/a88
+#EXTINF:0,Техно 24
+http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:0,Наука 2.0
+http://ott-cdn.ucom.am/s98/index.m3u8
+#EXTINF:0, TV1000 Русское кино
+http://188.128.15.118:8080/play/a35
+#EXTINF:0, TV1000 Русское кино 2
+http://212.112.101.69:8081/stream57/output.m3u8
+#EXTINF:0, TV1000
+http://212.112.101.69:8081/stream56/output.m3u8
+#EXTINF:0,КИНОСВИДАНИЕ
+http://91.205.131.7:80/kinosvidanie/tracks-v1a1/index.m3u8
+#EXTINF:0,Кинокомедия
+http://91.205.131.7:80/kinosvidanie/tracks-v1a1/index.m3u8
+#EXTINF:0,Комедийное(t.me/iptv6)
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+#EXTINF:0,Русская комедия
+http://188.128.15.118:8080/play/a253
+#EXTINF:0,Киносемья
+http://109.248.236.41:4433/udp/238.1.1.52:1234
+#EXTINF:0,Киносемья 2
+http://tvport.it-tele.net:8000/cfc3c309093aab200c4767dac5163849
+#EXTINF:0,Комедия
+http://188.128.15.118:8080/play/a253
+#EXTINF:0,Киносерия
+http://46.18.202.220:8879/MnogoTV/ch1.m3u8
+#EXTINF:0,Кинохит
+http://91.205.131.7:80/kinohit/tracks-v1a1/index.m3u8
+#EXTINF:0,Классика кино HD
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:0,Наше кино
+http://91.205.131.7:80/nashe-kino/tracks-v1a1/index.m3u8
+#EXTINF:0, Наше новое кино
+http://109.248.236.41:4433/udp/238.1.1.54:1234?em9uYS1pcHR2LnJ1
+#EXTINF:0, ViP Megahit
+http://188.35.9.11:2016
+#EXTINF:0, Ностальгия
+http://46.18.202.220:8879/Nostalgiya/ch1.m3u8
+#EXTINF:0,Кинозал_1
+http://v3.catcast.me/contentv2/35026/index.m3u8
+#EXTINF:0,Кинозал 2
+http://v3.catcast.me/content2/36487/index.m3u8
+#EXTINF:0,Кинозал_3
+http://v3.catcast.me/contentv2/35448/index.m3u8
+#EXTINF:0,Кинозал_4
+http://v3.catcast.me/contentv2/35525/index.m3u8
+#EXTINF:0,Кино Potokovoe
+http://95.188.107.89/home/kino/index.m3u8
+#EXTINF:0,Cinema
+http://109.248.236.41:4433/udp/238.1.1.125:1234
+#EXTINF:0,TOP BUDO
+http://bezbe.my1.ru/tv/kinzal.m3u
+#EXTINF:0,КиноЗаказ 2
+http://hls.goodgame.ru/hls/5346.m3u8
