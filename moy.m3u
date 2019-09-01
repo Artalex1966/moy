@@ -3,6 +3,10 @@
 http://178.57.59.236:81/udp/239.195.1.31:1234
 #EXTINF:0,Любимое кино 2
 http://188.128.15.118:8080/play/a53
+#EXTINF:0,Любимое кино 3
+http://2ecba0eb.iptvzone.net/iptv/2ZLDABX44EUZ6Z/722/index.m3u8
+#EXTINF:0,Любимое кино 4
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/722/index.m3u8
 #EXTINF:0,Любимое.TV
 http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
 #EXTINF:0,Родное кино
@@ -47,6 +51,8 @@ http://v3.catcast.me/contentv2/36487/index.m3u8
 https://v3.catcast.me/content/36511/tracks-v1a1/index.m3u8
 #EXTINF:0,В гостях у сказки
 http://109.248.236.41:4433/udp/238.1.1.98:1234
+#EXTINF:0,В гостях у сказки 2
+http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/737/index.m3u8
 #EXTINF:0,Discovery Science
 http://188.128.15.118:8080/play/a37
 #EXTINF:0,Discovery
@@ -73,6 +79,8 @@ http://188.128.15.118:8080/play/a253
 http://109.248.236.41:4433/udp/238.1.1.52:1234
 #EXTINF:0,Киносемья 2
 http://tvport.it-tele.net:8000/cfc3c309093aab200c4767dac5163849
+#EXTINF:0,Киносемья 3
+http://2ecba0eb.iptvzone.net/iptv/2ZLDABX44EUZ6Z/125/index.m3u8
 #EXTINF:0,Комедия
 http://188.128.15.118:8080/play/a253
 #EXTINF:0,Киносерия
