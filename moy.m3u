@@ -19,6 +19,8 @@ http://ygk.info/stream/5ZX39WWQSZ8E4A/126/index.m3u8
 http://212.112.101.69:8081/stream62/output.m3u8
 #EXTINF:0,Дом Кино 2
 http://91.205.131.7:80/dom_kino/tracks-v1a1/index.m3u8
+#EXTINF:0,Дом Кино 3
+http://159.253.174.43:999/udp/239.191.254.117:13343
 #EXTINF:0,Кино 24
 http://82.193.71.93:80/Kino24LV/video.m3u8
 #EXTINF:0,Кино ТВ
@@ -114,7 +116,15 @@ http://95.188.107.89/home/kino/index.m3u8
 #EXTINF:0,Cinema
 http://109.248.236.41:4433/udp/238.1.1.125:1234
 #EXTINF:0,TOP BUDO
-http://bezbe.my1.ru/tv/kinzal.m3u
+http://topchantv.net:3456/FREEmegamakc51/cT8o8nPsUI/1845
 #EXTINF:0,КиноЗаказ 2
 http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:0,Супер
+http://178.163.35.76:81/udp/234.0.0.100:2000
 
+#EXTINF:-1,Время
+http://178.163.35.76:81/udp/234.0.0.225:2000
+#EXTINF:-1,24_Doc
+http://178.163.35.76:81/udp/234.0.0.232:2000
+#EXTINF:-1,Любимое Кино
+http://178.163.35.76:81/udp/234.0.0.177:2000
