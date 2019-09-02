@@ -119,3 +119,46 @@ http://109.248.236.41:4433/udp/238.1.1.125:1234
 http://topchantv.net:3456/FREEmegamakc51/cT8o8nPsUI/1845
 #EXTINF:0,КиноЗаказ 2
 http://hls.goodgame.ru/hls/12949.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://plex.ucoz.com/_ph/4/2/683467963.png", Фантастика
+https://v3.catcast.me/contentv2/36487/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://plex.ucoz.com/_ph/4/2/683467963.png", 312 Кино HD
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://plex.ucoz.com/_ph/4/2/683467963.png",TOP BUDO
+http://topchantv.net:3456/FREEmegamakc51/cT8o8nPsUI/1845
+#EXTINF:-1 tvg-name="" tvg-logo="https://plex.ucoz.com/_ph/4/2/683467963.png",TOP Sevimli
+http://topchantv.net:3456/FREEmegamakc51/cT8o8nPsUI/1843
+#EXTINF:-1 tvg-name="" tvg-logo="https://plex.ucoz.com/_ph/4/2/683467963.png",Docent 13
+https://hls.goodgame.ru/hls/64556_480.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://plex.ucoz.com/_ph/4/2/683467963.png",Films TV
+https://hls.goodgame.ru/hls/165462.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://plex.ucoz.com/_ph/4/2/683467963.png",Pznstreams
+http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://plex.ucoz.com/_ph/4/2/683467963.png",STR TV
+http://hls.goodgame.ru:80/hls/130048.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://plex.ucoz.com/_ph/4/2/683467963.png",AKUDJI
+https://hls.goodgame.ru/hls/5346.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://plex.ucoz.com/_ph/4/2/683467963.png",ATV Kinoman
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://plex.ucoz.com/_ph/4/2/683467963.png",ATV Filmzone
+http://ott-cdn.ucom.am/s48/04.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://plex.ucoz.com/_ph/4/2/683467963.png",Sineman
+http://ott-cdn.ucom.am/s66/04.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://plex.ucoz.com/_ph/4/2/683467963.png",ATV 3
+http://ott-cdn.ucom.am/s74/04.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://plex.ucoz.com/_ph/4/2/683467963.png",TOP CINEMA
+http://topchantv.net:3456/FREEmegamakc51/cT8o8nPsUI/1846
+#EXTINF:-1 tvg-name="" tvg-logo="https://plex.ucoz.com/_ph/4/2/683467963.png",TOP USSR
+http://topchantv.net:3456/FREEmegamakc51/cT8o8nPsUI/1993
+#EXTINF:-1 tvg-name="" tvg-logo="https://plex.ucoz.com/_ph/4/2/683467963.png",Совок Кино
+http://v3.myowntv.org/content/36506/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://plex.ucoz.com/_ph/4/2/683467963.png",KINO 24
+http://82.193.71.93/Kino24LV/video.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://plex.ucoz.com/_ph/4/2/683467963.png", Семейный
+http://212.112.101.69:8081/stream25/output.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://plex.ucoz.com/_ph/4/2/683467963.png", Cinemax
+http://212.112.101.69:8081/stream42/output.m3u8
