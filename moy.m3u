@@ -21,12 +21,14 @@ http://86.57.225.245:7015/play/a00j
 http://178.57.59.236:81/udp/239.195.1.114:1234
 #EXTINF:0,Родное кино3
 http://ygk.info/stream/5ZX39WWQSZ8E4A/126/index.m3u8
+#EXTINF:0,Родное кино4
+http://193.23.58.251:7088/udp/239.192.2.49:2121/
 #EXTINF:0,Дом Кино
 http://212.112.101.69:8081/stream62/output.m3u8
 #EXTINF:0,Дом Кино 2
 http://91.205.131.7:80/dom_kino/tracks-v1a1/index.m3u8
 #EXTINF:0,Дом Кино 3
-http://159.253.174.43:999/udp/239.191.254.117:13343
+http://193.23.58.251:7088/udp/239.192.2.2:2121/
 #EXTINF:0,Кино 24
 http://82.193.71.93:80/Kino24LV/video.m3u8
 #EXTINF:0, KINO 24
@@ -37,16 +39,18 @@ http://91.205.131.7:80/kino-tv/tracks-v1a1/index.m3u8
 http://v3.catcast.me/contentv2/36506/tracks-v1a1/index.m3u8
 #EXTINF:0,СССР 2
 http://v3.myowntv.org/content/36506/tracks-v1a1/index.m3u8
+#EXTINF:0,СССР 3
+http://v3.myowntv.org/content/36506/index.m3u8
 #EXTINF:0,Советское кино
 http://v3.myowntv.org/content/36506/tracks-v1a1/index.m3u8
 #EXTINF:0,Кинозал! СССР
 http://mhd.limehd.tv/p/L4E5f0beEWaDapsjBW9z7w,1567344808/streaming/sovietmovs/324/1/index.m3u8
 #EXTINF:0,TOP USSR
 http://topchantv.net:3456/FREEmegamakc51/cT8o8nPsUI/1993
-#EXTINF:0, TOP USSR 2
-http://topchantv.net:3456/FREEmegamakc51/cT8o8nPsUI/1993
-#EXTINF:0, Совок Кино
-http://v3.myowntv.org/content/36506/index.m3u8
+#EXTINF:0,Русская комедия
+http://188.128.15.118:8080/play/a253
+#EXTINF:0,Русская комедия 2
+http://193.23.58.251:7088/udp/239.192.3.148:2121/
 #EXTINF:0,Супер
 http://178.22.44.45:4022/udp/239.0.10.76:1234
 #EXTINF:0,Звезда
@@ -61,16 +65,18 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8?versi
 http://ott-cdn.ucom.am/s47/index.m3u8
 #EXTINF:0,Красная линия ТВ
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
-#EXTINF:0,ФАНТАСТИКА
-http://v3.catcast.me/contentv2/36487/index.m3u8
-#EXTINF:0, Боевик
-https://v3.catcast.me/content/36511/tracks-v1a1/index.m3u8
+#EXTINF:0,Новороссия ТВ
+http://193.23.58.251:7088/udp/239.192.0.25:2121/
+#EXTINF:0,Оплот
+http://193.23.58.251:7088/udp/239.192.0.27:2121/
+#EXTINF:0,Оплот 2
+http://193.23.58.251:7088/udp/239.192.0.24:2121/
 #EXTINF:0,В гостях у сказки
 http://109.248.236.41:4433/udp/238.1.1.98:1234
 #EXTINF:0,В гостях у сказки 2
 http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/737/index.m3u8
 #EXTINF:0,Discovery Science
-http://188.128.15.118:8080/play/a37
+http://193.23.58.251:7088/udp/239.192.3.115:2121/
 #EXTINF:0,Discovery
 http://188.128.15.118:8080/play/a88
 #EXTINF:0,Техно 24
@@ -93,8 +99,7 @@ http://91.205.131.7:80/kinosvidanie/tracks-v1a1/index.m3u8
 http://91.205.131.7:80/kinosvidanie/tracks-v1a1/index.m3u8
 #EXTINF:0,Комедийное(t.me/iptv6)
 http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
-#EXTINF:0,Русская комедия
-http://188.128.15.118:8080/play/a253
+
 #EXTINF:0,Киносемья
 http://109.248.236.41:4433/udp/238.1.1.52:1234
 #EXTINF:0,Киносемья 2
@@ -131,7 +136,10 @@ http://topchantv.net:3456/FREEmegamakc51/cT8o8nPsUI/1845
 #EXTINF:0,КиноЗаказ 2
 http://hls.goodgame.ru/hls/12949.m3u8
 
-
+#EXTINF:0,ФАНТАСТИКА
+http://v3.catcast.me/contentv2/36487/index.m3u8
+#EXTINF:0, Боевик
+https://v3.catcast.me/content/36511/tracks-v1a1/index.m3u8
 #EXTINF:0Фантастика
 https://v3.catcast.me/contentv2/36487/index.m3u8
 #EXTINF:0, 312 Кино HD
