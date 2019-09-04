@@ -1,12 +1,18 @@
 #EXTM3U
 #EXTINF:0,Любимое кино
-http://178.57.59.236:81/udp/239.195.1.31:1234
+http://178.124.183.5/hls/CH_NASHEKINO/variant.m3u8?version=2?seg-user-4pda-denms-ru-v1-a1
 #EXTINF:0,Любимое кино 2
 http://188.128.15.118:8080/play/a53
 #EXTINF:0,Любимое кино 3
 http://2ecba0eb.iptvzone.net/iptv/2ZLDABX44EUZ6Z/722/index.m3u8
 #EXTINF:0,Любимое кино 4
 http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/722/index.m3u8
+#EXTINF:0,Любимое кино 5
+http://91.205.131.7:80/nashe-kino/tracks-v1a1/index.m3u8
+#EXTINF:0,Любимое кино 6
+http://tvport.it-tele.net:8000/accb1212ec898e9e50d2be059689199e
+#EXTINF:0, Наше новое кино
+http://109.248.236.41:4433/udp/238.1.1.54:1234?em9uYS1pcHR2LnJ1
 #EXTINF:0,Любимое.TV
 http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
 #EXTINF:0,Родное кино
@@ -103,12 +109,7 @@ http://46.18.202.220:8879/MnogoTV/ch1.m3u8
 http://91.205.131.7:80/kinohit/tracks-v1a1/index.m3u8
 #EXTINF:0,Классика кино HD
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-#EXTINF:0,Наше кино
-http://91.205.131.7:80/nashe-kino/tracks-v1a1/index.m3u8
-#EXTINF:0,Наше кино 2
-http://tvport.it-tele.net:8000/accb1212ec898e9e50d2be059689199e
-#EXTINF:0, Наше новое кино
-http://109.248.236.41:4433/udp/238.1.1.54:1234?em9uYS1pcHR2LnJ1
+
 #EXTINF:0, ViP Megahit
 http://188.35.9.11:2016
 #EXTINF:0, Ностальгия
@@ -129,6 +130,7 @@ http://109.248.236.41:4433/udp/238.1.1.125:1234
 http://topchantv.net:3456/FREEmegamakc51/cT8o8nPsUI/1845
 #EXTINF:0,КиноЗаказ 2
 http://hls.goodgame.ru/hls/12949.m3u8
+
 
 #EXTINF:0Фантастика
 https://v3.catcast.me/contentv2/36487/index.m3u8
