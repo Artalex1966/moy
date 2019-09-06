@@ -1,10 +1,21 @@
 #EXTM3U
-#EXTINF:0,Джон Уик 3  (2019)
+#EXTINF:0,Стекло  (2019)
+#EXTGRP:Ноые
+https://vs2.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/hd_30/Glass.2019.D.iTunes.BDRip.1080p_720.mp4
+#EXTINF:0,Джон Уик 1  (2014)
+#EXTGRP:Боевик
+https://vs1.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/uhd_4k/john_wick_Ultra-HD.new_720.mp4
+#EXTINF:0,Джон Уик 2  (2017)
+#EXTGRP:Боевик
+https://vs1.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/uhd_4k/John.Wick.CHapter.2.2017.2160p.4K.BluRay.UHD.x265_720.mp4
+#EXTINF:0,Джон Уик 3  (2019)
 #EXTGRP:Ноые
 https://vs2.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/hd_30/John.Wick.Chapter.3.Parabellum.2019.D.iTunes.BDRip.1080p_720.mp4
-#EXTINF:0,Тайная жизнь домашних животных 2
+#EXTINF:0,Тайная жизнь домашних животных 2
 #EXTGRP:Разное
 https://vs1.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/hd_30/The.Secret.Life.of.Pets.2.2019.BDRip.1080p_720.mp4
 #EXTINF:0,Промитей    2012
 #EXTGRP:Фантастика
 https://vs1.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/uhd_4k/Prometheus.2012.2160p_720.mp4
+#EXTINF:0,
+#EXTGRP:Детские
