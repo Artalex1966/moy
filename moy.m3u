@@ -43,9 +43,9 @@ http://v3.myowntv.org/content/36506/tracks-v1a1/index.m3u8
 #EXTINF:0,СССР 3
 http://v3.myowntv.org/content/36506/index.m3u8
 #EXTINF:0,Советское кино
-http://v3.myowntv.org/content/36506/tracks-v1a1/index.m3u8
+https://s3.catcast.me/live/what.flv
 #EXTINF:0,Кинозал! СССР
-http://mhd.limehd.tv/p/L4E5f0beEWaDapsjBW9z7w,1567344808/streaming/sovietmovs/324/1/index.m3u8
+http://s3.catcast.me/live/what.flv
 #EXTINF:0,TOP USSR
 http://topchantv.net:3456/FREEmegamakc51/cT8o8nPsUI/1993
 #EXTINF:0,Русская комедия
@@ -145,7 +145,7 @@ http://hls.goodgame.ru/hls/5346.m3u8
 http://v3.catcast.me/contentv2/36487/index.m3u8
 #EXTINF:0, Боевик
 https://v3.catcast.me/content/36511/tracks-v1a1/index.m3u8
-#EXTINF:0Фантастика
+#EXTINF:0,Фантастика
 https://v3.catcast.me/contentv2/36487/index.m3u8
 #EXTINF:0, 312 Кино HD
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
@@ -153,8 +153,6 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 http://topchantv.net:3456/FREEmegamakc51/cT8o8nPsUI/1845
 #EXTINF:0, TOP Sevimli
 http://topchantv.net:3456/FREEmegamakc51/cT8o8nPsUI/1843
-#EXTINF:0, Docent 13
-https://hls.goodgame.ru/hls/64556_480.m3u8
 #EXTINF:0, Films TV
 https://hls.goodgame.ru/hls/165462.m3u8
 #EXTINF:0, Pznstreams
@@ -173,7 +171,5 @@ http://ott-cdn.ucom.am/s66/04.m3u8
 http://ott-cdn.ucom.am/s74/04.m3u8
 #EXTINF:0, TOP CINEMA
 http://topchantv.net:3456/FREEmegamakc51/cT8o8nPsUI/1846
-#EXTINF:0, Семейный
-http://212.112.101.69:8081/stream25/output.m3u8
-#EXTINF:0, Cinemax
-http://212.112.101.69:8081/stream42/output.m3u8
+#EXTINF:0, Mars 17
+https://v3.catcast.me/content/37033/index.m3u8
