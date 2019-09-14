@@ -10,6 +10,8 @@ http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/722/index.m3u8
 
 #EXTINF:0, Наше новое кино
 http://109.248.236.41:4433/udp/238.1.1.54:1234?em9uYS1pcHR2LnJ1
+#EXTINF:0, Наше новое кино 2
+http://persik.by/stream/3477/395381/260.m3u8
 #EXTINF:0,Любимое.TV
 http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
 #EXTINF:0,Родное кино
@@ -32,8 +34,8 @@ http://persik.by/stream/3477/395381/10228.m3u8
 http://193.23.58.251:7088/udp/239.192.2.2:2121/
 #EXTINF:0,Кино 24
 http://82.193.71.93:80/Kino24LV/video.m3u8
-#EXTINF:0, KINO 24
-http://82.193.71.93/Kino24LV/video.m3u8
+#EXTINF:0,Кинохит
+http://persik.by/stream/3477/395381/213.m3u8
 #EXTINF:0,Кино ТВ
 http://91.205.131.7:80/kino-tv/tracks-v1a1/index.m3u8
 #EXTINF:0,СССР
@@ -109,8 +111,7 @@ http://2ecba0eb.iptvzone.net/iptv/2ZLDABX44EUZ6Z/125/index.m3u8
 http://188.128.15.118:8080/play/a253
 #EXTINF:0,Киносерия
 http://46.18.202.220:8879/MnogoTV/ch1.m3u8
-#EXTINF:0,Кинохит
-http://91.205.131.7:80/kinohit/tracks-v1a1/index.m3u8
+
 #EXTINF:0,Классика кино HD
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 
