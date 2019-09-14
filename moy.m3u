@@ -96,8 +96,8 @@ http://212.112.101.69:8081/stream56/output.m3u8
 http://tvport.it-tele.net:8000/e96504953aa8605d43dfe234b0bbc2b2
 #EXTINF:0,КИНОСВИДАНИЕ
 http://91.205.131.7:80/kinosvidanie/tracks-v1a1/index.m3u8
-#EXTINF:0,Кинокомедия
-http://91.205.131.7:80/kinosvidanie/tracks-v1a1/index.m3u8
+#EXTINF:0,COMEDY
+http://persik.by/stream/3477/395381/10235.m3u8
 #EXTINF:0,Комедийное(t.me/iptv6)
 http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
 
