@@ -98,8 +98,8 @@ http://212.112.101.69:8081/stream56/output.m3u8
 http://tvport.it-tele.net:8000/e96504953aa8605d43dfe234b0bbc2b2
 #EXTINF:0,COMEDY
 http://persik.by/stream/3477/395381/10235.m3u8
-#EXTINF:0,Комедийное(t.me/iptv6)
-http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+#EXTINF:0,Комедия
+http://persik.by/stream/3477/395381/10333.m3u8
 
 #EXTINF:0,Киносемья
 http://109.248.236.41:4433/udp/238.1.1.52:1234
@@ -108,7 +108,7 @@ http://tvport.it-tele.net:8000/cfc3c309093aab200c4767dac5163849
 #EXTINF:0,Киносемья 3
 http://2ecba0eb.iptvzone.net/iptv/2ZLDABX44EUZ6Z/125/index.m3u8
 #EXTINF:0,Комедия
-http://188.128.15.118:8080/play/a253
+http://persik.by/stream/3477/395381/10333.m3u8
 #EXTINF:0,Киносерия
 http://46.18.202.220:8879/MnogoTV/ch1.m3u8
 
