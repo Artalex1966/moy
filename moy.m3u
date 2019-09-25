@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,Любимое кино
 #EXTGRP: Хорошее
-http://188.128.15.118:8080/play/a53
+http://tv.pbx.kiev.ua/tv1/0.46
 #EXTINF:0,Любимое кино 2
 #EXTGRP: Хорошее
 http://188.128.15.118:8080/play/a53
@@ -21,7 +21,7 @@ http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
 
 #EXTINF:0,Родное кино
 #EXTGRP: Хорошее
-http://86.57.225.245:7015/play/a00j
+http://91.190.177.168:81/udp/239.195.5.10:1234
 #EXTINF:0,Родное кино2
 #EXTGRP: Хорошее
 http://persik.by/stream/3477/395381/312.m3u8
@@ -71,10 +71,40 @@ http://v3.myowntv.org/content/36506/index.m3u8
 https://s3.catcast.me/live/what.flv
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: Хорошее
-http://s3.catcast.me/live/what.flv
+http://online.karapuztv.ru:4001/play/05/index.m3u8
 #EXTINF:0,TOP USSR
 #EXTGRP: Хорошее
 http://topchantv.net:3456/FREEmegamakc51/cT8o8nPsUI/1993
+
+
+#EXTINF:0,Best Films HD
+#EXTGRP: Хорошее
+http://online.karapuztv.ru:4001/play/01/index.m3u8
+#EXTINF:0,Фантастика HD 
+#EXTGRP: Хорошее
+http://online.karapuztv.ru:4001/play/03/index.m3u8
+#EXTINF:0,Кинозал ХИТ HD
+#EXTGRP: Хорошее
+http://online.karapuztv.ru:4001/play/04/index.m3u8
+
+#EXTINF:0,Lost HD
+#EXTGRP: Хорошее
+http://online.karapuztv.ru:4001/play/09/index.m3u8
+#EXTINF:0,Страх HD 
+#EXTGRP: Хорошее
+http://online.karapuztv.ru:4001/play/06/index.m3u8
+#EXTINF:0,Ералаш HD 
+#EXTGRP: Хорошее
+http://online.karapuztv.ru:4001/play/02/index.m3u8
+#EXTINF:0,Карусель 
+#EXTGRP: Хорошее
+http://online.karapuztv.ru:4001/play/08/index.m3u8
+#EXTINF:0,Ералаш HD 
+#EXTGRP: Хорошее
+http://online.karapuztv.ru:4001/play/02/index.m3u8
+#EXTINF:0,Кроха TV 
+#EXTGRP: Хорошее
+http://online.karapuztv.ru:4001/play/07/index.m3u8
 
 #EXTINF:0,ТВЦ
 #EXTGRP: Хорошее
@@ -89,10 +119,10 @@ http://188.128.15.118:8080/play/a253
 http://193.23.58.251:7088/udp/239.192.3.148:2121/
 #EXTINF:0,Супер
 #EXTGRP: Хорошее
-http://37.235.186.238:81/udp/225.50.66.6:1234
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
 #EXTINF:0,Супер 2
 #EXTGRP: Хорошее
-http://188.128.15.118:8080/play/a269
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8?version=2
 #EXTINF:0,Звезда
 #EXTGRP: Хорошее
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ZVEZDA/variant.m3u8
