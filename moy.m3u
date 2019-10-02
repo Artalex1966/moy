@@ -19,38 +19,19 @@ http://486032Vir.melpakomn.ru/iptv/WESVTQAXDA7Q8N/517/index.m3u8
 http://486032Vir.melpakomn.ru/iptv/WESVTQAXDA7Q8N/126/index.m3u8
 #EXTINF:0,Родное кино2
 #EXTGRP: Хорошее
-http://persik.by/stream/3477/395381/312.m3u8
-#EXTINF:0,Родное кино3
-#EXTGRP: Хорошее
-http://ygk.info/stream/5ZX39WWQSZ8E4A/126/index.m3u8
-#EXTINF:0,Родное кино4
-#EXTGRP: Хорошее
-http://2ecba0eb.iptvzone.net/iptv/2ZLDABX44EUZ6Z/126/index.m3u8
-#EXTINF:0,Родное кино 5
-#EXTGRP: Хорошее
-http://91.205.131.7:80/nashe-kino/tracks-v1a1/index.m3u8
-#EXTINF:0,Родное кино 6
-#EXTGRP: Хорошее
-http://tvport.it-tele.net:8Кинозал/accb1212ec898e9e50d2be059689199e
+http://aa826ad7.iptvspy.me/iptv/AUWAUBYRPMAHLZ/126/index.m3u8
+
 #EXTINF:0,Дом Кино
 #EXTGRP: Хорошее
-http://178.163.34.131:81/udp/234.0.0.219:2Кинозал
+http://486032Vir.melpakomn.ru/iptv/WESVTQAXDA7Q8N/154/index.m3u8
 #EXTINF:0,Дом Кино 2
-#EXTGRP: Хорошее
-http://persik.by/stream/3477/395381/10228.m3u8
-#EXTINF:0,Дом Кино 3
-#EXTGRP: Хорошее
-http://188.128.15.118:8080/play/a118
-#EXTINF:0,Дом Кино 4
 #EXTGRP: Хорошее
 http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/154/index.m3u8
 
 #EXTINF:0,Кинохит
 #EXTGRP: Хорошее
-http://persik.by/stream/3477/395381/213.m3u8
-#EXTINF:0,Кинохит 2
-#EXTGRP: Хорошее
 http://2ecba0eb.iptvzone.net/iptv/2ZLDABX44EUZ6Z/516/index.m3u8
+
 
 #EXTINF:0,СССР
 #EXTGRP: Хорошее
@@ -129,10 +110,10 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_ZVEZDA/variant.m3u8
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ZVEZDA_2/variant.m3u8
 #EXTINF:0,Звезда +4
 #EXTGRP: Хорошее
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/bw2КинозалКинозал/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/bw2000000/variant.m3u8?version=2
 #EXTINF:0,Звезда +7
 #EXTGRP: Хорошее
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2КинозалКинозал/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8?version=2
 #EXTINF:0,Победа
 #EXTGRP: Хорошее
 http://ott-cdn.ucom.am/s47/index.m3u8
@@ -160,10 +141,10 @@ http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/737/index.m3u8
 
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
-http://193.23.58.251:7088/udp/239.192.3.115:2121/
+http://aa826ad7.iptvspy.me/iptv/AUWAUBYRPMAHLZ/136/index.m3u8
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
-http://188.128.15.118:8080/play/a88
+http://213.174.8.7:8000/play/24/index.m3u8
 #EXTINF:0,Техно 24
 #EXTGRP: Познавательное
 http://ott-cdn.ucom.am/s68/index.m3u8
@@ -176,67 +157,22 @@ http://ott-cdn.ucom.am/s40/04.m3u8
 #EXTINF:0,RT Документальный HD
 #EXTGRP: Познавательное
 https://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:0,GruzdoV
-#EXTGRP: Познавательное
-http://persik.by/stream/3477/395381/10608.m3u8
 
-#EXTINF:0,Serega Master HD
-#EXTGRP: Познавательное
-http://persik.by/stream/3477/395381/10536.m3u8
 
-#EXTINF:0, TV1Кинозал Русское кино
-#EXTGRP: Хорошее 2
-http://188.128.15.118:8080/play/a35
-#EXTINF:0, TV1Кинозал Русское кино 2
-#EXTGRP: Хорошее 2
-http://212.112.101.69:8081/stream57/output.m3u8
-#EXTINF:0, TV1Кинозал
-#EXTGRP: Хорошее 2
-http://212.112.101.69:8081/stream56/output.m3u8
-#EXTINF:0, TV1Кинозал 2
-#EXTGRP: Хорошее 2
-http://tvport.it-tele.net:8Кинозал/e96504953aa8605d43dfe234b0bbc2b2
-#EXTINF:0, TV 1Кинозал Action
-#EXTGRP: Хорошее 2
-http://iptvmaster.ru/iptv/iptv-sentyabr-2019.m3u
-#EXTINF:0,COMEDY
-#EXTGRP: Хорошее 2
-http://persik.by/stream/3477/395381/10235.m3u8
-#EXTINF:0,Комедия
-#EXTGRP: Хорошее 2
-http://persik.by/stream/3477/395381/10333.m3u8
-#EXTINF:0,КИНОКОМЕДИЯ
-#EXTGRP: Хорошее 2
-http://188.128.15.118:8080/play/a128
+
 
 #EXTINF:0,Киносемья
 #EXTGRP: Хорошее 2
 http://2ecba0eb.iptvzone.net/iptv/2ZLDABX44EUZ6Z/125/index.m3u8
-#EXTINF:0,Киносемья 2
-#EXTGRP: Хорошее 2
-http://tvport.it-tele.net:8Кинозал/cfc3c309093aab200c4767dac5163849
-#EXTINF:0,Киносемья 3
-#EXTGRP: Хорошее 2
-http://2ecba0eb.iptvzone.net/iptv/2ZLDABX44EUZ6Z/125/index.m3u8
-#EXTINF:0,Комедия
-#EXTGRP: Хорошее 2
-http://persik.by/stream/3477/395381/10333.m3u8
 #EXTINF:0,Киносерия
 #EXTGRP: Хорошее 2
-http://46.18.202.220:8879/MnogoTV/ch1.m3u8
-#EXTINF:0,Киносерия 2
-#EXTGRP: Хорошее 2
 http://2ecba0eb.iptvzone.net/iptv/2ZLDABX44EUZ6Z/145/index.m3u8
+
 
 #EXTINF:0,Кино 24
 #EXTGRP: Кинозал
 http://82.193.71.93/Kino24LV/video.m3u8
-
-
 #EXTINF:0,Кино ТВ
-#EXTGRP: Кинозал
-http://tvport.it-tele.net:8Кинозал/ca11d23839ef9e958ff6a6cd020f6e7d
-#EXTINF:0,Кино ТВ 2
 #EXTGRP: Кинозал
 http://2ecba0eb.iptvzone.net/iptv/2ZLDABX44EUZ6Z/732/index.m3u8
 #EXTINF:0,Классика кино HD
@@ -268,34 +204,9 @@ http://v3.catcast.me/contentv2/35448/index.m3u8
 #EXTINF:0,Кинозал_4
 #EXTGRP: Кинозал
 http://v3.catcast.me/contentv2/35525/index.m3u8
-#EXTINF:0,Кино Potokovoe
-#EXTGRP: Кинозал
-http://95.188.107.89/home/kino/index.m3u8
-#EXTINF:0,Cinema
-#EXTGRP: Кинозал
-http://109.248.236.41:4433/udp/238.1.1.125:1234
-#EXTINF:0,TOP BUDO
-#EXTGRP: Кинозал
-http://topchantv.net:3456/FREEmegamakc51/cT8o8nPsUI/1845
-#EXTINF:0,КиноЗаказ 1
-#EXTGRP: Кинозал
-http://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:0,КиноЗаказ 2
-#EXTGRP: Кинозал
-http://hls.goodgame.ru/hls/5346.m3u8
 
-#EXTINF:0,ФАНТАСТИКА
-#EXTGRP: Кинозал
-http://v3.catcast.me/contentv2/36487/index.m3u8
-#EXTINF:0, Боевик
-#EXTGRP: Кинозал
-https://v3.catcast.me/content/36511/tracks-v1a1/index.m3u8
-#EXTINF:0,Фантастика
-#EXTGRP: Кинозал
-https://v3.catcast.me/contentv2/36487/index.m3u8
-#EXTINF:0, 312 Кино HD
-#EXTGRP: Кинозал
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
+
+
 #EXTINF:0,  Мужское кино
 #EXTGRP: Кинозал
 http://188.35.9.10:2022
@@ -305,33 +216,6 @@ http://188.35.9.10:2015
 #EXTINF:0, Films TV
 #EXTGRP: Кинозал
 https://hls.goodgame.ru/hls/165462.m3u8
-#EXTINF:0, Pznstreams
-#EXTGRP: Кинозал
-http://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:0, STR TV
-#EXTGRP: Кинозал
-http://hls.goodgame.ru:80/hls/130048.m3u8
-#EXTINF:0, AKUDJI
-#EXTGRP: Кинозал
-https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:0, ATV Kinoman
-#EXTGRP: Кинозал
-http://ott-cdn.ucom.am/s94/04.m3u8
-#EXTINF:0, ATV Filmzone
-#EXTGRP: Кинозал
-http://ott-cdn.ucom.am/s48/04.m3u8
-#EXTINF:0, Sineman
-#EXTGRP: Кинозал
-http://ott-cdn.ucom.am/s66/04.m3u8
-#EXTINF:0, ATV 3
-#EXTGRP: Кинозал
-http://ott-cdn.ucom.am/s74/04.m3u8
-#EXTINF:0, TOP CINEMA
-#EXTGRP: Кинозал
-http://topchantv.net:3456/FREEmegamakc51/cT8o8nPsUI/1846
-#EXTINF:0, Mars 17
-#EXTGRP: Кинозал
-https://v3.catcast.me/content/37033/index.m3u8
 
 
 #EXTINF:0, Россия 1
