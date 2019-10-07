@@ -19,7 +19,7 @@ http://486032Vir.melpakomn.ru/iptv/WESVTQAXDA7Q8N/517/index.m3u8
 http://486032Vir.melpakomn.ru/iptv/WESVTQAXDA7Q8N/126/index.m3u8
 #EXTINF:0,Родное кино2
 #EXTGRP: Хорошее
-http://server1.life-tv.eu/ch0228/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+http://109.248.236.41:4433/udp/238.1.1.77:1234
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Хорошее
@@ -51,15 +51,7 @@ http://online.karapuztv.ru:4001/play/05/index.m3u8
 #EXTINF:0,Сделано в СССР
 #EXTGRP: Хорошее
 http://cdn-a0pn7wmu.playlist-24.club/vFrwZBu0/p19YTcSe/playlist.m3u8
-#EXTINF:0,VHS Фантастика
-#EXTGRP: Хорошее
-http://server1.life-tv.eu/ch0464/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:0,Киноклассика 90-х
-#EXTGRP: Хорошее
-http://server1.life-tv.eu/ch0445/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:0,MAXVideo Союзмультфильм
-#EXTGRP: Хорошее
-http://server1.life-tv.eu/ch0456/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+
 
 
 
@@ -116,7 +108,7 @@ http://193.23.58.251:7088/udp/239.192.3.148:2121/
 https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565110210/5a3ca6e737ed0c5f7ad9867e6f2bb135/playlist.m3u8
 #EXTINF:0,Супер 2
 #EXTGRP: Хорошее
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2КинозалКинозал/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
 #EXTINF:0,Звезда
 #EXTGRP: Хорошее
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ZVEZDA/variant.m3u8
@@ -153,12 +145,7 @@ http://109.248.236.41:4433/udp/238.1.1.98:1234
 #EXTINF:0,В гостях у сказки 2
 #EXTGRP: Хорошее
 http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/737/index.m3u8
-#EXTINF:0,Детский мир
-#EXTGRP: Хорошее
-http://server1.life-tv.eu/ch0137/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:0,Детский
-#EXTGRP: Хорошее
-http://server1.life-tv.eu/ch0136/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+
 
 
 
@@ -281,3 +268,4 @@ http://cooltv.dyndns.tv:8200/udp/239.255.4.40:1234
 #EXTINF:0, Кинозал 12
 #EXTGRP: Кинозал
 http://cooltv.dyndns.tv:8200/udp/239.255.4.41:1234
+
