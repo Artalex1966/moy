@@ -103,7 +103,14 @@ http://tv.bitnet.dn.ua/tv/225.1.6.253
 #EXTINF:0,Кто есть кто
 #EXTGRP: Хорошее
 http://tv.bitnet.dn.ua/tv/225.1.6.128
+#EXTINF:0,Оружие
+#EXTGRP: Хорошее
+http://cooltv.dyndns.tv:8200/udp/239.255.4.151:1234
 
+
+#EXTINF:0,Кинокомедия
+#EXTGRP: Хорошее
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/145/index.m3u8
 #EXTINF:0,Русская комедия
 #EXTGRP: Хорошее
 http://188.128.15.118:8080/play/a253
@@ -221,6 +228,13 @@ http://v3.catcast.me/contentv2/35448/index.m3u8
 #EXTINF:0,Кинозал_4
 #EXTGRP: Кинозал
 http://v3.catcast.me/contentv2/35525/index.m3u8
+#EXTINF:0, Кинопоказ 3 HD
+#EXTGRP: Кинозал
+http://autopilot.myowntv.org:80/content/35525/index.m3u8
+#EXTINF:0,  HD КИНО
+#EXTGRP: Кинозал
+https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
+
 
 
 
@@ -275,3 +289,4 @@ http://cooltv.dyndns.tv:8200/udp/239.255.4.40:1234
 #EXTINF:0, Кинозал 12
 #EXTGRP: Кинозал
 http://cooltv.dyndns.tv:8200/udp/239.255.4.41:1234
+
