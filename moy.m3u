@@ -44,7 +44,7 @@ http://v3.myowntv.org/content/36506/tracks-v1a1/index.m3u8
 http://server1.life-tv.eu/ch0441/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 #EXTINF:0,Советское кино
 #EXTGRP: Хорошее
-http://server1.life-tv.eu/ch0361/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
+http://178.124.183.5/hls/CH_SOVKINO/variant.m3u8?version=2
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: Хорошее
 http://online.karapuztv.ru:4001/play/05/index.m3u8
@@ -54,7 +54,13 @@ http://cdn-a0pn7wmu.playlist-24.club/vFrwZBu0/p19YTcSe/playlist.m3u8
 #EXTINF:0,Сделано в СССР 2
 #EXTGRP: Хорошее
 https://cccp.travelin.icu/online/cccp/chunks.m3u8?nimblesessionid=816043&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDE5IDQ6MDg6MzIgQU0maGFzaF92YWx1ZT1JcjY5ZXhTL2lXZ1RlbHVwa2hKQ3h3PT0mdmFsaWRtaW51dGVzPTMw&__fvd__
+#EXTINF:0,Советские Мультфильмы
+#EXTGRP: Хорошее
+http://178.124.183.5/hls/CH_SOVMULT/variant.m3u8?version=2
 
+#EXTINF:0,Kosmo
+#EXTGRP: Хорошее
+http://persik.by/stream/7544/418760/10509.m3u8
 
 #EXTINF:0,Best Films HD
 #EXTGRP: Хорошее
