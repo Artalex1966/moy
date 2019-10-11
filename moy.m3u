@@ -113,7 +113,7 @@ http://cooltv.dyndns.tv:8200/udp/239.255.4.151:1234
 http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/145/index.m3u8
 #EXTINF:0,Русская комедия
 #EXTGRP: Хорошее
-http://188.128.15.118:8080/play/a253
+http://cooltv.dyndns.tv:8200/udp/239.255.4.220:1234
 #EXTINF:0,Русская комедия 2
 #EXTGRP: Хорошее
 http://193.23.58.251:7088/udp/239.192.3.148:2121/
