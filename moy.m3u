@@ -47,7 +47,7 @@ http://server1.life-tv.eu/ch0441/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 http://178.124.183.5/hls/CH_SOVKINO/variant.m3u8?version=2
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: Хорошее
-http://online.karapuztv.ru:4001/play/05/index.m3u8
+http://cdn-a0pn7wmu.playlist-24.club/vFrwZBu0/p19YTcSe/playlist.m3u8
 #EXTINF:0,Сделано в СССР
 #EXTGRP: Хорошее
 http://cdn-a0pn7wmu.playlist-24.club/vFrwZBu0/p19YTcSe/playlist.m3u8
@@ -62,22 +62,22 @@ http://178.124.183.5/hls/CH_SOVMULT/variant.m3u8?version=2
 #EXTGRP: Хорошее
 http://persik.by/stream/7544/418760/10509.m3u8
 
-#EXTINF:0,Best Films HD
+#EXTINF:0,Классика кино HD
 #EXTGRP: Хорошее
-http://online.karapuztv.ru:4001/play/01/index.m3u8
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 #EXTINF:0,Фантастика HD 
 #EXTGRP: Хорошее
-http://online.karapuztv.ru:4001/play/03/index.m3u8
-#EXTINF:0,Кинозал ХИТ HD
+http://s2.myowntv.org/hls/what.m3u8
+#EXTINF:0,HD КИНО
 #EXTGRP: Хорошее
-http://online.karapuztv.ru:4001/play/04/index.m3u8
+https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
 
-#EXTINF:0,Lost HD
+#EXTINF:0,VHS TV HD
 #EXTGRP: Хорошее
-http://online.karapuztv.ru:4001/play/09/index.m3u8
-#EXTINF:0,Страх HD 
+http://51.254.59.155/hls/vhstv.m3u8
+#EXTINF:0,Кинопремьера HD
 #EXTGRP: Хорошее
-http://online.karapuztv.ru:4001/play/06/index.m3u8
+http://34e9081d.ulkakak.pw/iptv/V2WA58LPZ5LXKZ/224/index.m3u8
 #EXTINF:0,Ералаш HD 
 #EXTGRP: Хорошее
 http://online.karapuztv.ru:4001/play/02/index.m3u8
@@ -289,4 +289,3 @@ http://cooltv.dyndns.tv:8200/udp/239.255.4.40:1234
 #EXTINF:0, Кинозал 12
 #EXTGRP: Кинозал
 http://cooltv.dyndns.tv:8200/udp/239.255.4.41:1234
-
