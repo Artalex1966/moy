@@ -9,7 +9,7 @@ http://486032Vir.melpakomn.ru/iptv/WESVTQAXDA7Q8N/722/index.m3u8
 
 #EXTINF:0, Наше новое кино
 #EXTGRP: Хорошее
-http://109.248.236.41:4433/udp/238.1.1.54:1234?em9uYS1pcHR2LnJ1
+http://178.124.183.14:80/hls/UVPWPN2KTN/variant.m3u8
 #EXTINF:0, Наше новое кино 2
 #EXTGRP: Хорошее
 http://486032Vir.melpakomn.ru/iptv/WESVTQAXDA7Q8N/517/index.m3u8
