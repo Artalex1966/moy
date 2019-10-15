@@ -1,14 +1,13 @@
 #EXTM3U
 #EXTINF:0,Любимое кино
 #EXTGRP: Хорошее
-http://109.248.90.251:4044/udp/239.195.1.114:1234
+http://178.124.183.5/hls/CH_NASHEKINO/variant.m3u8?version=2
 #EXTINF:0,Любимое кино 2
 #EXTGRP: Хорошее
-http://109.248.90.69:4044/udp/239.195.1.31:1234
+http://109.95.47.249:55055/udp/239.0.0.61:4000
 #EXTINF:0,Любимое кино 3
 #EXTGRP: Хорошее
 http://persik.by/stream/7403/419477/10452.m3u8
-
 
 #EXTINF:0, Наше новое кино
 #EXTGRP: Хорошее
@@ -19,7 +18,7 @@ http://178.124.183.13/hls/UVPWPN2KTN/bw1200000/playlist.m3u8
 
 #EXTINF:0,Родное кино
 #EXTGRP: Хорошее
-http://86.57.225.245:7015/play/a00j
+http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
 #EXTINF:0,Родное кино2
 #EXTGRP: Хорошее
 http://109.248.236.41:4433/udp/238.1.1.77:1234
@@ -37,7 +36,9 @@ http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/154/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: Хорошее
 http://178.124.183.5/hls/HDOHSSZQCP/variant.m3u8?version=2
-
+#EXTINF:0,Фантастика HD 
+#EXTGRP: Хорошее
+http://s2.myowntv.org/hls/what.m3u8
 
 #EXTINF:0,СССР
 #EXTGRP: Хорошее
@@ -51,6 +52,9 @@ http://server1.life-tv.eu/ch0441/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 #EXTINF:0,Советское кино
 #EXTGRP: Хорошее
 http://178.124.183.5/hls/CH_SOVKINO/variant.m3u8?version=2
+#EXTINF:0,Советское кино2
+#EXTGRP: Хорошее
+http://178.124.183.4:80/hls/CH_SOVKINO/variant.m3u8
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: Хорошее
 http://cdn-a0pn7wmu.playlist-24.club/vFrwZBu0/p19YTcSe/playlist.m3u8
@@ -64,71 +68,6 @@ https://cccp.travelin.icu/online/cccp/chunks.m3u8?nimblesessionid=816043&wmsAuth
 #EXTGRP: Хорошее
 http://178.124.183.5/hls/CH_SOVMULT/variant.m3u8?version=2
 
-#EXTINF:0,Kosmo
-#EXTGRP: Хорошее
-http://persik.by/stream/7544/418760/10509.m3u8
-
-#EXTINF:0,Классика кино HD
-#EXTGRP: Хорошее
-http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-#EXTINF:0,Фантастика HD 
-#EXTGRP: Хорошее
-http://s2.myowntv.org/hls/what.m3u8
-#EXTINF:0,HD КИНО
-#EXTGRP: Хорошее
-https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
-
-#EXTINF:0,VHS TV HD
-#EXTGRP: Хорошее
-http://51.254.59.155/hls/vhstv.m3u8
-#EXTINF:0,Кинопремьера HD
-#EXTGRP: Хорошее
-http://34e9081d.ulkakak.pw/iptv/V2WA58LPZ5LXKZ/224/index.m3u8
-#EXTINF:0,Ералаш HD 
-#EXTGRP: Хорошее
-http://online.karapuztv.ru:4001/play/02/index.m3u8
-#EXTINF:0,Карусель 
-#EXTGRP: Хорошее
-http://online.karapuztv.ru:4001/play/08/index.m3u8
-#EXTINF:0,Ералаш HD 
-#EXTGRP: Хорошее
-http://online.karapuztv.ru:4001/play/02/index.m3u8
-#EXTINF:0,Кроха TV 
-#EXTGRP: Хорошее
-http://online.karapuztv.ru:4001/play/07/index.m3u8
-#EXTINF:0,Любимое.TV
-#EXTGRP: Хорошее
-http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
-
-#EXTINF:0,ТВЦ
-#EXTGRP: Хорошее
-http://ott-cdn.ucom.am/s54/index.m3u8
-#EXTINF:0,Тайна
-#EXTGRP: Хорошее
-http://tv.bitnet.dn.ua/tv/225.1.6.253
-#EXTINF:0,Кто есть кто
-#EXTGRP: Хорошее
-http://tv.bitnet.dn.ua/tv/225.1.6.128
-#EXTINF:0,Оружие
-#EXTGRP: Хорошее
-http://cooltv.dyndns.tv:8200/udp/239.255.4.151:1234
-
-
-#EXTINF:0,Кинокомедия
-#EXTGRP: Хорошее
-http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/145/index.m3u8
-#EXTINF:0,Русская комедия
-#EXTGRP: Хорошее
-http://cooltv.dyndns.tv:8200/udp/239.255.4.220:1234
-#EXTINF:0,Русская комедия 2
-#EXTGRP: Хорошее
-http://193.23.58.251:7088/udp/239.192.3.148:2121/
-#EXTINF:0,Супер
-#EXTGRP: Хорошее
-https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565110210/5a3ca6e737ed0c5f7ad9867e6f2bb135/playlist.m3u8
-#EXTINF:0,Супер 2
-#EXTGRP: Хорошее
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
 #EXTINF:0,Звезда
 #EXTGRP: Хорошее
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ZVEZDA/variant.m3u8
@@ -150,15 +89,38 @@ http://ott-cdn.ucom.am/s47/04.m3u8
 #EXTINF:0,Красная линия ТВ
 #EXTGRP: Хорошее
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
-#EXTINF:0,Новороссия ТВ
+#EXTINF:0,Ностальгия 
 #EXTGRP: Хорошее
-http://193.23.58.251:7088/udp/239.192.0.25:2121/
-#EXTINF:0,Оплот
+http://178.124.183.5/hls/SWPQU2UFKD/variant.m3u8?version=2
+
+
+#EXTINF:0,Классика кино HD
 #EXTGRP: Хорошее
-http://193.23.58.251:7088/udp/239.192.0.27:2121/
-#EXTINF:0,Оплот 2
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+
+
+
+#EXTINF:0,HD КИНО
 #EXTGRP: Хорошее
-http://193.23.58.251:7088/udp/239.192.0.24:2121/
+https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
+
+#EXTINF:0,VHS TV HD
+#EXTGRP: Хорошее
+http://51.254.59.155/hls/vhstv.m3u8
+
+
+#EXTINF:0,ТВЦ
+#EXTGRP: Хорошее
+http://ott-cdn.ucom.am/s54/index.m3u8
+
+#EXTINF:0,Супер
+#EXTGRP: Хорошее
+https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565110210/5a3ca6e737ed0c5f7ad9867e6f2bb135/playlist.m3u8
+#EXTINF:0,Супер 2
+#EXTGRP: Хорошее
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
+
+
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Хорошее
 http://109.248.236.41:4433/udp/238.1.1.98:1234
@@ -187,16 +149,13 @@ http://ott-cdn.ucom.am/s40/04.m3u8
 #EXTINF:0,RT Документальный HD
 #EXTGRP: Познавательное
 https://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:0,Kosmo
+#EXTGRP: Познавательное
+http://persik.by/stream/7544/418760/10509.m3u8
+#EXTINF:0,Оружие
+#EXTGRP: Познавательное
+http://178.124.183.5/hls/EWEXU8FWAZ/variant.m3u8?version=2
 
-
-
-
-#EXTINF:0,Киносемья
-#EXTGRP: Хорошее 2
-http://2ecba0eb.iptvzone.net/iptv/2ZLDABX44EUZ6Z/125/index.m3u8
-#EXTINF:0,Киносерия
-#EXTGRP: Хорошее 2
-http://2ecba0eb.iptvzone.net/iptv/2ZLDABX44EUZ6Z/145/index.m3u8
 
 
 #EXTINF:0,Кино 24
@@ -209,41 +168,6 @@ http://2ecba0eb.iptvzone.net/iptv/2ZLDABX44EUZ6Z/732/index.m3u8
 #EXTGRP: Хорошее 2
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 
-#EXTINF:0, ViP Megahit
-#EXTGRP: Хорошее 2
-http://188.35.9.11:2016
-#EXTINF:0, ViP Megahit 2
-#EXTGRP: Хорошее 2
-http://212.29.231.242:8080/btv_201/index.m3u8
-#EXTINF:0, Ностальгия
-#EXTGRP: Хорошее
-http://109.248.236.41:4433/udp/238.1.1.83:1234
-#EXTINF:0, Россия 1
-#EXTGRP: Хорошее
-http://tv.pbx.kiev.ua/tv1/5.17
-
-#EXTINF:0,Кинозал_1
-#EXTGRP: Кинозал
-http://v3.catcast.me/contentv2/35026/index.m3u8
-#EXTINF:0,Кинозал 2
-#EXTGRP: Кинозал
-http://v3.catcast.me/content2/36487/index.m3u8
-#EXTINF:0,Кинозал_3
-#EXTGRP: Кинозал
-http://v3.catcast.me/contentv2/35448/index.m3u8
-#EXTINF:0,Кинозал_4
-#EXTGRP: Кинозал
-http://v3.catcast.me/contentv2/35525/index.m3u8
-#EXTINF:0, Кинопоказ 3 HD
-#EXTGRP: Кинозал
-http://autopilot.myowntv.org:80/content/35525/index.m3u8
-#EXTINF:0,  HD КИНО
-#EXTGRP: Кинозал
-https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
-
-
-
-
 #EXTINF:0,  Мужское кино
 #EXTGRP: Кинозал
 http://188.35.9.10:2022
@@ -255,9 +179,13 @@ http://188.35.9.10:2015
 https://hls.goodgame.ru/hls/165462.m3u8
 
 
-#EXTINF:0, Россия 1
+#EXTINF:0,КиноЗаказ 1
 #EXTGRP: Кинозал
-http://online.karapuztv.ru:4001/play/010/index.m3u8
+http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:0,КиноЗаказ 2
+#EXTGRP: Кинозал
+http://hls.goodgame.ru/hls/5346.m3u8
+
 
 #EXTINF:0, Кинозал 1
 #EXTGRP: Кинозал
