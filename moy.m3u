@@ -4,7 +4,7 @@
 http://178.124.183.5/hls/CH_NASHEKINO/variant.m3u8?version=2
 #EXTINF:0,Любимое кино 2
 #EXTGRP: Хорошее
-http://109.95.47.249:55055/udp/239.0.0.61:4000
+http://fae285a8.iptvbot.biz/iptv/D76PCW8BZ47S3B/722/index.m3u8
 #EXTINF:0,Любимое кино 3
 #EXTGRP: Хорошее
 http://persik.by/stream/7403/419477/10452.m3u8
@@ -21,14 +21,14 @@ http://178.124.183.13/hls/UVPWPN2KTN/bw1200000/playlist.m3u8
 http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
 #EXTINF:0,Родное кино2
 #EXTGRP: Хорошее
-http://109.248.236.41:4433/udp/238.1.1.77:1234
+http://fae285a8.iptvbot.biz/iptv/D76PCW8BZ47S3B/126/index.m3u8
 #EXTINF:0,Родное кино3
 #EXTGRP: Хорошее
 http://persik.by/stream/7403/419477/312.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Хорошее
-http://46.32.68.167/s/live/207/86.169.51.136/1/0.m3u8
+http://fae285a8.iptvbot.biz/iptv/D76PCW8BZ47S3B/154/index.m3u8
 #EXTINF:0,Дом Кино 2
 #EXTGRP: Хорошее
 http://109.248.236.41:4433/udp/238.1.1.32:1234
@@ -230,4 +230,3 @@ http://cooltv.dyndns.tv:8200/udp/239.255.4.40:1234
 #EXTINF:0, Кинозал 12
 #EXTGRP: Кинозал
 http://cooltv.dyndns.tv:8200/udp/239.255.4.41:1234
-
