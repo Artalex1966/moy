@@ -71,6 +71,10 @@ https://cccp.travelin.icu/online/cccp/chunks.m3u8?nimblesessionid=816043&wmsAuth
 #EXTGRP: Хорошее
 http://178.124.183.5/hls/CH_SOVMULT/variant.m3u8?version=2
 
+#EXTINF:0, Ретро
+#EXTGRP: Хорошее
+http://188.113.190.12/67/video.m3u8
+
 #EXTINF:0,Звезда
 #EXTGRP: Хорошее
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ZVEZDA/variant.m3u8
