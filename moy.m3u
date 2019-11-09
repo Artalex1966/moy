@@ -4,7 +4,7 @@
 http://178.124.183.5/hls/CH_NASHEKINO/variant.m3u8?version=2
 #EXTINF:0,Любимое кино 2
 #EXTGRP: Хорошее
-http://fae285a8.iptvbot.biz/iptv/D76PCW8BZ47S3B/722/index.m3u8
+http://34629b73.iptvbot.biz/iptv/DP7EMM36ECANW3/722/index.m3u8
 #EXTINF:0,Любимое кино 3
 #EXTGRP: Хорошее
 http://persik.by/stream/7403/419477/10452.m3u8
@@ -21,10 +21,10 @@ http://178.124.183.13/hls/UVPWPN2KTN/bw1200000/playlist.m3u8
 http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
 #EXTINF:0,Родное кино2
 #EXTGRP: Хорошее
-http://fae285a8.iptvbot.biz/iptv/D76PCW8BZ47S3B/126/index.m3u8
+http://34629b73.iptvbot.biz/iptv/DP7EMM36ECANW3/126/index.m3u8
 #EXTINF:0,Родное кино3
 #EXTGRP: Хорошее
-http://persik.by/stream/7403/419477/312.m3u8
+http://86.57.225.245:7015/play/a00j
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Хорошее
@@ -39,13 +39,33 @@ http://109.248.236.41:4433/udp/238.1.1.33:1234
 #EXTINF:0,Кинохит
 #EXTGRP: Хорошее
 http://178.124.183.5/hls/HDOHSSZQCP/variant.m3u8?version=2
+#EXTINF:0,КИНОМИКС
+#EXTGRP: Хорошее
+http://34629b73.iptvbot.biz/iptv/DP7EMM36ECANW3/509/index.m3u8
+#EXTINF:0,КИНОСЕМЬЯ
+#EXTGRP: Хорошее
+http://34629b73.iptvbot.biz/iptv/DP7EMM36ECANW3/125/index.m3u8
+#EXTINF:0,МУЖСКОЕ КИНО
+#EXTGRP: Хорошее
+http://34629b73.iptvbot.biz/iptv/DP7EMM36ECANW3/164/index.m3u8
+#EXTINF:0,КИНО ТВ
+#EXTGRP: Хорошее
+http://34629b73.iptvbot.biz/iptv/DP7EMM36ECANW3/732/index.m3u8
+
+#EXTINF:0,ULTO
+#EXTGRP: Хорошее
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+
+
+
+
 #EXTINF:0,Фантастика HD 
 #EXTGRP: Хорошее
 http://s2.myowntv.org/hls/what.m3u8
 
 #EXTINF:0,СССР
 #EXTGRP: Хорошее
-http://v3.catcast.me/contentv2/36506/tracks-v1a1/index.m3u8
+http://autopilot.myowntv.org/content/36506/index.m3u8
 #EXTINF:0,TOP USSR
 #EXTGRP: Хорошее
 http://topchantv.net:3456//live//911site//iSSthIh1vg8JolUjEbTxqz/6641.m3u8
@@ -152,7 +172,7 @@ http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/737/index.m3u8
 
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
-http://aa826ad7.iptvspy.me/iptv/AUWAUBYRPMAHLZ/136/index.m3u8
+http://188.35.9.11:21151/udp/188k
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
 http://213.174.8.7:8000/play/24/index.m3u8
