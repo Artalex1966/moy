@@ -59,8 +59,9 @@ http://34629b73.iptvbot.biz/iptv/DP7EMM36ECANW3/732/index.m3u8
 #EXTGRP: Хорошее
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
 
-
-
+#EXTINF:0,Видеосалон VHS
+#EXTGRP: Хорошее
+https://s2.catcast.me/hls/vhstv.m3u8
 
 #EXTINF:0,Фантастика HD 
 #EXTGRP: Хорошее
@@ -89,7 +90,16 @@ http://cdn-a0pn7wmu.playlist-24.club/vFrwZBu0/p19YTcSe/playlist.m3u8
 http://tv.ussr.icu/vFrwZBu0/p19YTcSe/playlist.m3u8
 #EXTINF:0,Сделано в СССР 2
 #EXTGRP: Хорошее
-https://cccp.travelin.icu/online/cccp/chunks.m3u8?nimblesessionid=816043&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDE5IDQ6MDg6MzIgQU0maGFzaF92YWx1ZT1JcjY5ZXhTL2lXZ1RlbHVwa2hKQ3h3PT0mdmFsaWRtaW51dGVzPTMw&__fvd__
+http://tv.ussr.icu/vFrwZBu0/p19YTcSe/manifest.mpd
+#EXTINF:0,Сделано в СССР 3
+#EXTGRP: Хорошее
+http://s2.catcast.me/hls/made_in_ussr.m3u8
+#EXTINF:0,Сделано в СССР 4
+#EXTGRP: Хорошее
+https://hls.goodgame.ru/hls/167886.m3u8
+
+
+
 #EXTINF:0,Советские Мультфильмы
 #EXTGRP: Хорошее
 http://178.124.183.5/hls/CH_SOVMULT/variant.m3u8?version=2
@@ -266,4 +276,5 @@ http://cooltv.dyndns.tv:8200/udp/239.255.4.40:1234
 #EXTINF:0, Кинозал 12
 #EXTGRP: Кинозал
 http://cooltv.dyndns.tv:8200/udp/239.255.4.41:1234
+
 
