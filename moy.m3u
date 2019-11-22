@@ -63,7 +63,10 @@ http://ultotv.ru:8888/live/uhd/playlist.m3u8
 #EXTGRP: Хорошее
 https://s2.catcast.me/hls/vhstv.m3u8
 
-#EXTINF:0,Фантастика HD 
+#EXTINF:0,Фантастика/Страх
+#EXTGRP: Хорошее
+http://what.strah.video/hls/what.m3u8
+#EXTINF:0,Серах HD 
 #EXTGRP: Хорошее
 http://s2.myowntv.org/hls/what.m3u8
 
