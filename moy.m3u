@@ -21,7 +21,7 @@ http://178.124.183.13/hls/UVPWPN2KTN/bw1200000/playlist.m3u8
 http://109.248.236.41:4433/udp/238.1.1.77:1234
 #EXTINF:0,Родное кино2
 #EXTGRP: Хорошее
-http://34629b73.iptvbot.biz/iptv/DP7EMM36ECANW3/126/index.m3u8
+http://88.216.48.147/flussonic/Rodnoe_Kino/index.m3u8
 #EXTINF:0,Родное кино3
 #EXTGRP: Хорошее
 http://86.57.225.245:7015/play/a00j
@@ -70,6 +70,7 @@ http://what.strah.video/hls/what.m3u8
 #EXTGRP: Хорошее
 http://s2.myowntv.org/hls/what.m3u8
 
+
 #EXTINF:0,СССР
 #EXTGRP: Хорошее
 http://autopilot.myowntv.org/content/36506/index.m3u8
@@ -100,21 +101,9 @@ http://s2.catcast.me/hls/made_in_ussr.m3u8
 #EXTINF:0,Сделано в СССР 4
 #EXTGRP: Хорошее
 https://hls.goodgame.ru/hls/167886.m3u8
-
-
-
-#EXTINF:0,Советские Мультфильмы
+#EXTINF:0,Красная линия ТВ
 #EXTGRP: Хорошее
-http://178.124.183.5/hls/CH_SOVMULT/variant.m3u8?version=2
-
-#EXTINF:0,TOP 80
-#EXTGRP: Хорошее
-http://topchantv.net:3456//live//911site//iSSthIh1vg8JolUjEbTxqz//277.m3u8
-
-#EXTINF:0,TOP Cinema HD
-#EXTGRP: Хорошее
-http://topchantv.net:3456//live//911site//iSSthIh1vg8JolUjEbTxqz/1611.m3u8
-
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
 
 #EXTINF:0, Ретро
 #EXTGRP: Хорошее
@@ -138,9 +127,7 @@ http://ott-cdn.ucom.am/s47/index.m3u8
 #EXTINF:0,Победа 2
 #EXTGRP: Хорошее
 http://ott-cdn.ucom.am/s47/04.m3u8
-#EXTINF:0,Красная линия ТВ
-#EXTGRP: Хорошее
-http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+
 #EXTINF:0,Ностальгия 
 #EXTGRP: Хорошее
 http://178.124.183.5/hls/SWPQU2UFKD/variant.m3u8?version=2
@@ -279,5 +266,3 @@ http://cooltv.dyndns.tv:8200/udp/239.255.4.40:1234
 #EXTINF:0, Кинозал 12
 #EXTGRP: Кинозал
 http://cooltv.dyndns.tv:8200/udp/239.255.4.41:1234
-
-
