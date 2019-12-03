@@ -25,13 +25,20 @@ http://88.216.48.147/flussonic/Rodnoe_Kino/index.m3u8
 #EXTINF:0,Родное кино3
 #EXTGRP: Хорошее
 http://86.57.225.245:7015/play/a00j
+#EXTINF:0,Родное кино4
+#EXTGRP: Хорошее
+http://151.0.48.26:8080/ch0163
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Хорошее
-http://fae285a8.iptvbot.biz/iptv/D76PCW8BZ47S3B/154/index.m3u8
+http://46.32.68.167/s/live/207/86.169.51.136/0/0.m3u8
 #EXTINF:0,Дом Кино 2
 #EXTGRP: Хорошее
 http://109.248.236.41:4433/udp/238.1.1.32:1234
+#EXTINF:0,Дом Кино 3
+#EXTGRP: Хорошее
+http://151.0.48.26:8080/ch0153
+
 #EXTINF:0,ВРЕМЯ
 #EXTGRP: Хорошее
 http://109.248.236.41:4433/udp/238.1.1.33:1234
@@ -48,12 +55,15 @@ http://178.124.183.5/hls/VVG76MWUGX/variant.m3u8?version=2
 #EXTINF:0,КИНОСЕМЬЯ
 #EXTGRP: Хорошее
 http://46.32.68.167/s/live/266/86.169.51.136/0/0.m3u8
+#EXTINF:0,Кинопремьера
+#EXTGRP: Хорошее
+http://persik.by/stream/2102/351000/34.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Хорошее
 http://46.32.68.167/s/live/255/86.169.51.136/0/0.m3u8
 #EXTINF:0,КИНО ТВ
 #EXTGRP: Хорошее
-http://34629b73.iptvbot.biz/iptv/DP7EMM36ECANW3/732/index.m3u8
+http://46.32.68.167/s/live/207/86.169.51.136/0/0.m3u8
 
 #EXTINF:0,ULTO
 #EXTGRP: Хорошее
@@ -65,7 +75,7 @@ https://s2.catcast.me/hls/vhstv.m3u8
 
 #EXTINF:0,Фантастика/Страх
 #EXTGRP: Хорошее
-http://what.strah.video/hls/what.m3u8
+http://persik.by/stream/2102/351000/10715.m3u8
 #EXTINF:0,Серах HD 
 #EXTGRP: Хорошее
 http://s2.myowntv.org/hls/what.m3u8
