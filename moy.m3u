@@ -18,7 +18,7 @@ http://178.124.183.13/hls/UVPWPN2KTN/bw1200000/playlist.m3u8
 
 #EXTINF:0,Родное кино
 #EXTGRP: Хорошее
-http://93.190.17.14:8000/play/rodnoekino/index.m3u8
+https://mfe.svc.ott.zala.by/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8
 #EXTINF:0,Родное кино2
 #EXTGRP: Хорошее
 http://88.216.48.147/flussonic/Rodnoe_Kino/index.m3u8
@@ -90,7 +90,7 @@ https://fr.strah.video:4444/live/strahhd/chunks.m3u8?nimblesessionid=2215904&wms
 http://autopilot.myowntv.org/content/36506/index.m3u8
 #EXTINF:0,TOP USSR
 #EXTGRP: Хорошее
-http://topchantv.net:3456//live//911site//iSSthIh1vg8JolUjEbTxqz/6641.m3u8
+https://v2.catcast.me/content/36506/index.m3u8
 #EXTINF:0,Кинокласика СССР
 #EXTGRP: Хорошее
 http://server1.life-tv.eu/ch0441/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
@@ -247,39 +247,87 @@ http://hls.goodgame.ru/hls/12949.m3u8
 http://hls.goodgame.ru/hls/5346.m3u8
 
 
-#EXTINF:0, Кинозал 1
-#EXTGRP: Кинозал
-http://cooltv.dyndns.tv:8200/udp/239.255.3.161:1234
-#EXTINF:0, Кинозал 2
-#EXTGRP: Кинозал
-http://cooltv.dyndns.tv:8200/udp/239.255.4.30:1234
-#EXTINF:0, Кинозал 3
-#EXTGRP: Кинозал
-http://cooltv.dyndns.tv:8200/udp/239.255.4.31:1234
-#EXTINF:0, Кинозал 4
-#EXTGRP: Кинозал
-http://cooltv.dyndns.tv:8200/udp/239.255.4.32:1234
-#EXTINF:0, Кинозал 5
-#EXTGRP: Кинозал
-http://cooltv.dyndns.tv:8200/udp/239.255.4.33:1234
-#EXTINF:0, Кинозал 6
-#EXTGRP: Кинозал
-http://cooltv.dyndns.tv:8200/udp/239.255.4.34:1234
-#EXTINF:0, Кинозал 7
-#EXTGRP: Кинозал
-http://cooltv.dyndns.tv:8200/udp/239.255.4.35:1234
-#EXTINF:0, Кинозал 8
-#EXTGRP: Кинозал
-http://cooltv.dyndns.tv:8200/udp/239.255.4.36:1234
-#EXTINF:0, Кинозал 9
-#EXTGRP: Кинозал
-http://cooltv.dyndns.tv:8200/udp/239.255.4.38:1234
-#EXTINF:0, Кинозал 10
-#EXTGRP: Кинозал
-http://cooltv.dyndns.tv:8200/udp/239.255.4.39:1234
-#EXTINF:0, Кинозал 11
-#EXTGRP: Кинозал
-http://cooltv.dyndns.tv:8200/udp/239.255.4.40:1234
-#EXTINF:0, Кинозал 12
-#EXTGRP: Кинозал
-http://cooltv.dyndns.tv:8200/udp/239.255.4.41:1234
+#EXTINF:-1,ULTRA HD CINEMA
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1,ULTRA HD CINEMA (7200)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1,ULTRA HD CINEMA (14400)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1,ULTRA HD CINEMA (21600)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1,ULTRA HD CINEMA (28800)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1,ULTRA HD CINEMA (36000)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1,ULTRA HD CINEMA (43200)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1,ULTRA HD CINEMA (50400)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1,ULTRA HD CINEMA (57600)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1,ULTRA HD CINEMA (64800)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-64800
+#EXTINF:-1,ULTRA HD CINEMA (72000)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-72000
+#EXTINF:-1,ULTRA HD CINEMA (79200)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-79200
+#EXTINF:-1,ULTRA HD CINEMA (86400)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-86400
+#EXTINF:-1,ULTRA HD CINEMA (93600)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-93600
+#EXTINF:-1,ULTRA HD CINEMA (97200)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-97200
+#EXTINF:-1,ULTRA HD CINEMA (104400)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-104400
+#EXTINF:-1,ULTRA HD CINEMA (111600)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-111600
+#EXTINF:-1,ULTRA HD CINEMA (118800)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-118800
+#EXTINF:-1,ULTRA HD CINEMA (126000)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-126000
+#EXTINF:-1,ULTRA HD CINEMA (133200)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-133200
+#EXTINF:-1,ULTRA HD CINEMA (140400)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-140400
+#EXTINF:-1,ULTRA HD CINEMA (147600)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
+#EXTINF:-1,ULTRA HD CINEMA (154800)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-154800
+#EXTINF:-1,ULTRA HD CINEMA (162000)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-162000
+#EXTINF:-1,ULTRA HD CINEMA (169200)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-169200
+#EXTINF:-1,ULTRA HD CINEMA (176400)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-176400
+#EXTINF:-1,ULTRA HD CINEMA (183600)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-183600
+#EXTINF:-1,ULTRA HD CINEMA (109800)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-190800
