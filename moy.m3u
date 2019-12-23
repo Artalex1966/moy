@@ -18,7 +18,7 @@ http://178.124.183.13/hls/UVPWPN2KTN/bw1200000/playlist.m3u8
 
 #EXTINF:0,Родное кино
 #EXTGRP: Хорошее
-https://mfe.svc.ott.zala.by/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8
+http://45.143.205.112:1000/play/rodnoe-kino/index.m3u8
 #EXTINF:0,Родное кино2
 #EXTGRP: Хорошее
 http://88.216.48.147/flussonic/Rodnoe_Kino/index.m3u8
