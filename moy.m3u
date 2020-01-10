@@ -21,10 +21,10 @@ http://178.124.183.13/hls/UVPWPN2KTN/bw1200000/playlist.m3u8
 http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8?version=2
 #EXTINF:0,Родное кино2
 #EXTGRP: Хорошее
-http://88.216.48.147/flussonic/Rodnoe_Kino/index.m3u8
+http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8?version=2&offset=-28800
 #EXTINF:0,Родное кино3
 #EXTGRP: Хорошее
-http://86.57.225.245:7015/play/a00j
+http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8?version=2
 #EXTINF:0,Родное кино4
 #EXTGRP: Хорошее
 http://151.0.48.26:8080/ch0163
@@ -37,7 +37,7 @@ http://46.32.68.167/s/live/207/86.169.51.136/0/0.m3u8
 http://109.248.236.41:4433/udp/238.1.1.32:1234
 #EXTINF:0,Дом Кино 3
 #EXTGRP: Хорошее
-http://151.0.48.26:8080/ch0153
+http://46.32.68.167/s/live/207/816951136/819088191919/0.m3u8
 
 #EXTINF:0,ВРЕМЯ
 #EXTGRP: Хорошее
@@ -86,6 +86,9 @@ http://persik.by/stream/2102/351000/10715.m3u8
 #EXTGRP: Хорошее
 http://s2.myowntv.org/hls/what.m3u8
 https://v2.catcast.me/content/36277/index.m3u8
+#EXTINF:0,Фантастика???
+#EXTGRP: Хорошее
+https://hls.goodgame.ru/hls/12949_720.m3u8
 
 #EXTINF:0,СССР
 #EXTGRP: Хорошее
@@ -116,7 +119,7 @@ http://tv.ussr.icu/yufxiRZE/vl8SQzev/playlist.m3u8
 http://s2.catcast.me/hls/made_in_ussr.m3u8
 #EXTINF:0,Сделано в СССР 4
 #EXTGRP: Хорошее
-https://hls.goodgame.ru/hls/167886.m3u8
+http://tv.ussr.icu/yufxiRZE/vl8SQzev/playlist.m3u8
 #EXTINF:0,Красная линия ТВ
 #EXTGRP: Хорошее
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
@@ -333,6 +336,7 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?v
 #EXTINF:-1,ULTRA HD CINEMA (109800)
 #EXTVLCOPT:http-user-agent=smartlabs
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-190800
+
 
 #EXTINF:0, Большой кошачий побег
 #EXTGRP: Кинозал
