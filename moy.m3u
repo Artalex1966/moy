@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,Любимое кино
 #EXTGRP: Хорошее
-http://178.124.183.5/hls/CH_NASHEKINO/variant.m3u8?version=2
+http://178.124.183.5/hls/CH_NASHEKINO_HLS/variant.m3u8?version=2
 #EXTINF:0,Любимое кино 2
 #EXTGRP: Хорошее
 http://182.73.122.74:10000/bysid/310
@@ -11,7 +11,7 @@ http://182.73.122.74:10000/bysid/310
 
 #EXTINF:0, Наше новое кино
 #EXTGRP: Хорошее
-http://178.124.183.14:80/hls/UVPWPN2KTN/variant.m3u8
+http://178.124.183.5/hls/UVPWPN2KTN_HLS/variant.m3u8?version=2
 #EXTINF:0, Наше новое кино 2
 #EXTGRP: Хорошее
 http://178.124.183.13/hls/UVPWPN2KTN/bw1200000/playlist.m3u8
@@ -45,10 +45,10 @@ http://109.248.236.41:4433/udp/238.1.1.33:1234
 
 #EXTINF:0,Кинохит
 #EXTGRP: Хорошее
-http://178.124.183.5/hls/HDOHSSZQCP/variant.m3u8?version=2
+http://178.124.183.5/hls/HDOHSSZQCP_HLS/variant.m3u8?version=2
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Хорошее
-http://46.32.68.167/s/live/265/86.169.51.136/0/0.m3u8
+http://178.124.183.5/hls/VVG76MWUGX_HLS/variant.m3u8?version=2
 #EXTINF:0,КИНОМИКС 2
 #EXTGRP: Хорошее
 http://178.124.183.5/hls/VVG76MWUGX/variant.m3u8?version=2
@@ -57,7 +57,7 @@ http://178.124.183.5/hls/VVG76MWUGX/variant.m3u8?version=2
 http://46.32.68.167/s/live/266/86.169.51.136/0/0.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: Хорошее
-http://persik.by/stream/2102/351000/34.m3u8
+http://178.124.183.5/hls/CH_KINOPREMERA_HLS/variant.m3u8?version=2
 #EXTINF:0,Кинопремьера 2
 #EXTGRP: Хорошее
 http://tviptv.iptv-channel.ru:8000/live/j1IWa4tkMj/fWHb5wDIwB/26.ts
@@ -130,6 +130,9 @@ http://188.113.190.12/67/video.m3u8
 #EXTINF:0, Классика кино HD
 #EXTGRP: Хорошее
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:0, Вектор ТВ (Звязда)
+#EXTGRP: Хорошее
+http://178.124.183.5/hls/CH_VECTOR_HLS/variant.m3u8?version=2
 
 #EXTINF:0,Звезда
 #EXTGRP: Хорошее
@@ -172,7 +175,7 @@ http://51.254.59.155/hls/vhstv.m3u8
 
 #EXTINF:0,ТВЦ
 #EXTGRP: Хорошее
-http://ott-cdn.ucom.am/s54/index.m3u8
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
 #EXTINF:0,ТВЦ2
 #EXTGRP: Хорошее
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
@@ -338,6 +341,20 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?v
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-190800
 
 
-#EXTINF:0, Большой кошачий побег
-#EXTGRP: Кинозал
-http://vs2.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/hd_01/Cats.and.Peachtopia.2018.WEBDL.1080p_480.mp4
+#EXTINF:0, Русская Ночь
+#EXTGRP: 
+http://178.124.183.5/hls/F7UMYQMCGB_HLS/variant.m3u8?version=2
+#EXTINF:0, Blue Hustler
+#EXTGRP: 
+http://178.124.183.5/hls/CH_BLUEHUSTLER_HLS/variant.m3u8?version=2
+#EXTINF:0, Nuart TV
+#EXTGRP: 
+http://178.124.183.5/hls/CH_NYARTTV_HLS/variant.m3u8?version=2
+#EXTINF:0, RedTraffic Big Dick HD 18+
+#EXTGRP: 
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:0, RedTraffic MILF HD 18+
+#EXTGRP: 
+http://live.redtraffic.xyz/milf.m3u8
+
+
