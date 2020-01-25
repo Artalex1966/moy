@@ -1,138 +1,127 @@
 #EXTM3U
 #EXTINF:0,Любимое кино
-#EXTGRP: Хорошее
+#EXTGRP: Кино
 http://178.124.183.5/hls/CH_NASHEKINO_HLS/variant.m3u8?version=2
-#EXTINF:0,Любимое кино 2
-#EXTGRP: Хорошее
-http://182.73.122.74:10000/bysid/310
-#EXTINF:0,Любимое кино 3
-#EXTGRP: Хорошее
-http://182.73.122.74:10000/bysid/310
-
-#EXTINF:0, Наше новое кино
-#EXTGRP: Хорошее
-http://178.124.183.5/hls/UVPWPN2KTN_HLS/variant.m3u8?version=2
-#EXTINF:0, Наше новое кино 2
-#EXTGRP: Хорошее
-http://178.124.183.13/hls/UVPWPN2KTN/bw1200000/playlist.m3u8
+#EXTM3U
+#EXTINF:0,Любимое кино2
+#EXTGRP: Кино
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/722/index.m3u8
 
 #EXTINF:0,Родное кино
-#EXTGRP: Хорошее
+#EXTGRP: Кино
 http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8?version=2
 #EXTINF:0,Родное кино2
-#EXTGRP: Хорошее
+#EXTGRP: Кино
 http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8?version=2&offset=-28800
-#EXTINF:0,Родное кино3
-#EXTGRP: Хорошее
-http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8?version=2
-#EXTINF:0,Родное кино4
-#EXTGRP: Хорошее
-http://151.0.48.26:8080/ch0163
+
+#EXTINF:0, Наше новое кино
+#EXTGRP: Кино
+http://178.124.183.5/hls/UVPWPN2KTN_HLS/variant.m3u8?version=2
 
 #EXTINF:0,Дом Кино
-#EXTGRP: Хорошее
-http://46.32.68.167/s/live/207/86.169.51.136/0/0.m3u8
+#EXTGRP: Кино
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/154/index.m3u8
 #EXTINF:0,Дом Кино 2
-#EXTGRP: Хорошее
+#EXTGRP: Кино
 http://109.248.236.41:4433/udp/238.1.1.32:1234
-#EXTINF:0,Дом Кино 3
-#EXTGRP: Хорошее
-http://46.32.68.167/s/live/207/816951136/819088191919/0.m3u8
+#EXTINF:0,Дом Кино Премиум HD
+#EXTGRP: Кино
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/911/index.m3u8
 
-#EXTINF:0,ВРЕМЯ
-#EXTGRP: Хорошее
-http://109.248.236.41:4433/udp/238.1.1.33:1234
+#EXTINF:0,Капитан Фантастика
+#EXTGRP: Кино
+http://cn04.iptv.monster/play/384/2D6E866C992891C/video.m3u8
+
+#EXTINF:0,СССР
+#EXTGRP: Кино
+http://autopilot.myowntv.org/content/36506/index.m3u8
+#EXTINF:0,TOP USSR
+#EXTGRP: Кино
+https://v2.catcast.me/content/36506/index.m3u8
+
+
+#EXTINF:0,Сделано в СССР
+#EXTGRP: Кино
+http://tv.ussr.icu/yufxiRZE/vl8SQzev/playlist.m3u8
 
 #EXTINF:0,Кинохит
-#EXTGRP: Хорошее
+#EXTGRP: Кино
 http://178.124.183.5/hls/HDOHSSZQCP_HLS/variant.m3u8?version=2
 #EXTINF:0,КИНОМИКС
-#EXTGRP: Хорошее
+#EXTGRP: Кино
 http://178.124.183.5/hls/VVG76MWUGX_HLS/variant.m3u8?version=2
 #EXTINF:0,КИНОМИКС 2
-#EXTGRP: Хорошее
+#EXTGRP: Кино
 http://178.124.183.5/hls/VVG76MWUGX/variant.m3u8?version=2
 #EXTINF:0,КИНОСЕМЬЯ
-#EXTGRP: Хорошее
+#EXTGRP: Кино
 http://46.32.68.167/s/live/266/86.169.51.136/0/0.m3u8
 #EXTINF:0,Кинопремьера
-#EXTGRP: Хорошее
+#EXTGRP: Кино
 http://178.124.183.5/hls/CH_KINOPREMERA_HLS/variant.m3u8?version=2
 #EXTINF:0,Кинопремьера 2
-#EXTGRP: Хорошее
+#EXTGRP: Кино
 http://tviptv.iptv-channel.ru:8000/live/j1IWa4tkMj/fWHb5wDIwB/26.ts
 #EXTINF:0,МУЖСКОЕ КИНО
-#EXTGRP: Хорошее
+#EXTGRP: Кино
 http://46.32.68.167/s/live/255/86.169.51.136/0/0.m3u8
-#EXTINF:0,КИНО ТВ
-#EXTGRP: Хорошее
-http://46.32.68.167/s/live/207/86.169.51.136/0/0.m3u8
+#EXTINF:0,FilmBox
+#EXTGRP: Кино
+http://5.61.48.23/IOcm1vQdNXVkLiKOKwdXL99w/167/stream.m3u8
+
+
 
 #EXTINF:0,ULTO
-#EXTGRP: Хорошее
+#EXTGRP: Кино
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
 
 #EXTINF:0,Видеосалон VHS
-#EXTGRP: Хорошее
+#EXTGRP: Кино
 https://v2.catcast.me/content/36251/index.m3u8
 #EXTINF:0,Видеосалон VHS 2
-#EXTGRP: Хорошее
+#EXTGRP: Кино
 https://hls.myvideocontent.ru/hls2/vhs_tv/index.m3u8
 
 #EXTINF:0,Фантастика/Страх
-#EXTGRP: Хорошее
+#EXTGRP: Кино
 http://persik.by/stream/2102/351000/10715.m3u8
-#EXTINF:0,Серах HD 
-#EXTGRP: Хорошее
-http://s2.myowntv.org/hls/what.m3u8
-https://v2.catcast.me/content/36277/index.m3u8
+
 #EXTINF:0,Фантастика???
-#EXTGRP: Хорошее
+#EXTGRP: Кино
 https://hls.goodgame.ru/hls/12949_720.m3u8
 
-#EXTINF:0,СССР
-#EXTGRP: Хорошее
-http://autopilot.myowntv.org/content/36506/index.m3u8
-#EXTINF:0,TOP USSR
-#EXTGRP: Хорошее
-https://v2.catcast.me/content/36506/index.m3u8
-#EXTINF:0,Кинокласика СССР
-#EXTGRP: Хорошее
-http://server1.life-tv.eu/ch0441/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:0,Советское кино
-#EXTGRP: Хорошее
-https://v2.catcast.me/content/36506/index.m3u8
-#EXTINF:0,Советское кино2
-#EXTGRP: Хорошее
-http://178.124.183.4:80/hls/CH_SOVKINO/variant.m3u8
-#EXTINF:0,Кинозал! СССР
-#EXTGRP: Хорошее
-http://cdn-a0pn7wmu.playlist-24.club/vFrwZBu0/p19YTcSe/playlist.m3u8
-#EXTINF:0,Сделано в СССР
-#EXTGRP: Хорошее
-http://tv.ussr.icu/yufxiRZE/vl8SQzev/playlist.m3u8
-#EXTINF:0,Сделано в СССР 2
-#EXTGRP: Хорошее
-http://tv.ussr.icu/yufxiRZE/vl8SQzev/playlist.m3u8
-#EXTINF:0,Сделано в СССР 3
-#EXTGRP: Хорошее
-http://s2.catcast.me/hls/made_in_ussr.m3u8
-#EXTINF:0,Сделано в СССР 4
-#EXTGRP: Хорошее
-http://tv.ussr.icu/yufxiRZE/vl8SQzev/playlist.m3u8
-#EXTINF:0,Красная линия ТВ
-#EXTGRP: Хорошее
-http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
-
-#EXTINF:0, Ретро
-#EXTGRP: Хорошее
-http://188.113.190.12/67/video.m3u8
 #EXTINF:0, Классика кино HD
-#EXTGRP: Хорошее
+#EXTGRP: Кино
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-#EXTINF:0, Вектор ТВ (Звязда)
+
+#EXTINF:0,В гостях у сказки
+#EXTGRP: Кино
+http://109.248.236.41:4433/udp/238.1.1.98:1234
+#EXTINF:0,В гостях у сказки 2
+#EXTGRP: Кино
+http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/737/index.m3u8
+
+
+#EXTINF:0,ВРЕМЯ
 #EXTGRP: Хорошее
-http://178.124.183.5/hls/CH_VECTOR_HLS/variant.m3u8?version=2
+http://cn04.iptv.monster/play/131/2D6E866C992891C/video.m3u8
+
+#EXTINF:0,CTC
+#EXTGRP: Хорошее
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/506/index.m3u8
+#EXTINF:0,СТС International
+#EXTGRP: Хорошее
+http://sc.id-tv.kz/STS_36_37.m3u8
+#EXTINF:0,СТС Love
+#EXTGRP: Хорошее
+http://dmitry-tv.ru/his/itv_zabava/CH_STSLOVE.m3u8
+
+#EXTINF:0, Рен ТВ 
+#EXTGRP: Хорошее
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:0, РЕН HD 
+#EXTGRP: Хорошее
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/2024/index.m3u8
 
 #EXTINF:0,Звезда
 #EXTGRP: Хорошее
@@ -146,6 +135,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/bw2000000/variant.m3u8?versi
 #EXTINF:0,Звезда +7
 #EXTGRP: Хорошее
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8?version=2
+
 #EXTINF:0,Победа
 #EXTGRP: Хорошее
 http://ott-cdn.ucom.am/s47/index.m3u8
@@ -156,22 +146,6 @@ http://ott-cdn.ucom.am/s47/04.m3u8
 #EXTINF:0,Ностальгия 
 #EXTGRP: Хорошее
 http://178.124.183.5/hls/SWPQU2UFKD/variant.m3u8?version=2
-
-
-#EXTINF:0,Классика кино HD
-#EXTGRP: Хорошее
-http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-
-
-
-#EXTINF:0,HD КИНО
-#EXTGRP: Хорошее
-https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
-
-#EXTINF:0,VHS TV HD
-#EXTGRP: Хорошее
-http://51.254.59.155/hls/vhstv.m3u8
-
 
 #EXTINF:0,ТВЦ
 #EXTGRP: Хорошее
@@ -186,17 +160,9 @@ https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565110210/5a3ca
 #EXTINF:0,Супер 2
 #EXTGRP: Хорошее
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
-
-
-#EXTINF:0,В гостях у сказки
+#EXTINF:0,Ностальгия
 #EXTGRP: Хорошее
-http://109.248.236.41:4433/udp/238.1.1.98:1234
-#EXTINF:0,В гостях у сказки 2
-#EXTGRP: Хорошее
-http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/737/index.m3u8
-
-
-
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/102/index.m3u8
 
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
@@ -221,140 +187,116 @@ https://rtmp.api.rt.com/hls/rtdru.m3u8
 http://persik.by/stream/7544/418760/10509.m3u8
 #EXTINF:0,Оружие
 #EXTGRP: Познавательное
-http://178.124.183.5/hls/EWEXU8FWAZ/variant.m3u8?version=2
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/2087/index.m3u8
 #EXTINF:0,Оружие2
 #EXTGRP: Познавательное
 http://109.248.236.41:4433/udp/238.1.1.34:1234
 
-#EXTINF:0,Кино 24
-#EXTGRP: Кинозал
-http://82.193.71.93/Kino24LV/video.m3u8
-#EXTINF:0,Кино ТВ
-#EXTGRP: Кинозал
-http://178.163.16.154:4022/udp/234.0.0.154:2000
-#EXTINF:0,Классика кино HD
-#EXTGRP: Хорошее 2
-http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 
-#EXTINF:0,  Мужское кино
 #EXTGRP: Кинозал
 http://188.35.9.10:2022
 #EXTINF:0, Остросюжетное
-#EXTGRP: Кинозал
+#EXTGRP: Кино
 http://188.35.9.10:2015
 #EXTINF:0, Films TV
-#EXTGRP: Кинозал
+#EXTGRP: Кино
 https://hls.goodgame.ru/hls/165462.m3u8
 
 
 #EXTINF:0,КиноЗаказ 1
-#EXTGRP: Кинозал
+#EXTGRP: Кино
 http://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:0,КиноЗаказ 2
-#EXTGRP: Кинозал
+#EXTGRP: Кино
 http://hls.goodgame.ru/hls/5346.m3u8
 
 
-#EXTINF:-1,ULTRA HD CINEMA
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
-#EXTINF:-1,ULTRA HD CINEMA (7200)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (7200)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-7200
-#EXTINF:-1,ULTRA HD CINEMA (14400)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (14400)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-14400
-#EXTINF:-1,ULTRA HD CINEMA (21600)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (21600)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-21600
-#EXTINF:-1,ULTRA HD CINEMA (28800)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (28800)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-28800
-#EXTINF:-1,ULTRA HD CINEMA (36000)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (36000)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-36000
-#EXTINF:-1,ULTRA HD CINEMA (43200)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (43200)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-43200
-#EXTINF:-1,ULTRA HD CINEMA (50400)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (50400)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-50400
-#EXTINF:-1,ULTRA HD CINEMA (57600)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (57600)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-57600
-#EXTINF:-1,ULTRA HD CINEMA (64800)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (64800)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-64800
-#EXTINF:-1,ULTRA HD CINEMA (72000)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (72000)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-72000
-#EXTINF:-1,ULTRA HD CINEMA (79200)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (79200)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-79200
-#EXTINF:-1,ULTRA HD CINEMA (86400)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (86400)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-86400
-#EXTINF:-1,ULTRA HD CINEMA (93600)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (93600)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-93600
-#EXTINF:-1,ULTRA HD CINEMA (97200)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (97200)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-97200
-#EXTINF:-1,ULTRA HD CINEMA (104400)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (104400)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-104400
-#EXTINF:-1,ULTRA HD CINEMA (111600)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (111600)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-111600
-#EXTINF:-1,ULTRA HD CINEMA (118800)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (118800)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-118800
-#EXTINF:-1,ULTRA HD CINEMA (126000)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (126000)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-126000
-#EXTINF:-1,ULTRA HD CINEMA (133200)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (133200)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-133200
-#EXTINF:-1,ULTRA HD CINEMA (140400)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (140400)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-140400
-#EXTINF:-1,ULTRA HD CINEMA (147600)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (147600)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
-#EXTINF:-1,ULTRA HD CINEMA (154800)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (154800)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-154800
-#EXTINF:-1,ULTRA HD CINEMA (162000)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (162000)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-162000
-#EXTINF:-1,ULTRA HD CINEMA (169200)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (169200)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-169200
-#EXTINF:-1,ULTRA HD CINEMA (176400)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (176400)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-176400
-#EXTINF:-1,ULTRA HD CINEMA (183600)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (183600)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-183600
-#EXTINF:-1,ULTRA HD CINEMA (109800)
-#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:0,ULTRA HD CINEMA (109800)
+#EXTGRP: Кино HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-190800
 
 
-#EXTINF:0, Русская Ночь
-#EXTGRP: 
-http://178.124.183.5/hls/F7UMYQMCGB_HLS/variant.m3u8?version=2
-#EXTINF:0, Blue Hustler
-#EXTGRP: 
-http://178.124.183.5/hls/CH_BLUEHUSTLER_HLS/variant.m3u8?version=2
-#EXTINF:0, Nuart TV
-#EXTGRP: 
-http://178.124.183.5/hls/CH_NYARTTV_HLS/variant.m3u8?version=2
-#EXTINF:0, RedTraffic Big Dick HD 18+
-#EXTGRP: 
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:0, RedTraffic MILF HD 18+
-#EXTGRP: 
-http://live.redtraffic.xyz/milf.m3u8
+
 
 
