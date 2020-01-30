@@ -37,10 +37,16 @@ http://autopilot.myowntv.org/content/36506/index.m3u8
 #EXTGRP: Кино
 http://v2.catcast.me/content/36506/index.m3u8
 
-
 #EXTINF:0,Сделано в СССР
 #EXTGRP: Кино
 http://tv.ussr.icu/yufxiRZE/vl8SQzev/playlist.m3u8
+
+#EXTINF:0,Красная линия 
+#EXTGRP: Кино
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:0,Москва Доверие
+#EXTGRP: Кино
+http://dmitry-tv.ru/his/itv_zabava/CH_MOSKVADOVERIE.m3u8
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
@@ -200,7 +206,7 @@ http://persik.by/stream/7544/418760/10509.m3u8
 http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/2087/index.m3u8
 #EXTINF:0,Оружие2
 #EXTGRP: Познавательное
-http://109.248.236.41:4433/udp/238.1.1.34:1234
+http://178.124.183.5/hls/EWEXU8FWAZ/variant.m3u8?version=2
 
 
 #EXTGRP: Кинозал
@@ -245,7 +251,7 @@ http://playlist.hmara.tv:80/4a8a78be/da7da9dc3b01b4a0d95d581e92d90217abea9de5.m3
 http://playlist.hmara.tv:80/4a8a78be/d24333874f92f9af05959efbf15ee7311bbf38bd.m3u8
 #EXTINF:0,НТН
 #EXTGRP: Украина
-http://lb1.macc.com.ua/img/ntn_3/index.m3u8
+https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
 #EXTINF:0,1+1
 #EXTGRP: Украина
 http://playlist.hmara.tv:80/4a8a78be/77a39785a7c5fafaeaecb2d640666baa54f048ec.m3u8
