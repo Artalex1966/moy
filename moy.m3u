@@ -20,10 +20,10 @@ http://178.124.183.5/hls/UVPWPN2KTN_HLS/variant.m3u8?version=2
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
-http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/154/index.m3u8
+http://qj2dptwy.ottclub.xyz/iptv/URF2WBP5GR4FQP/154/index.m3u
 #EXTINF:0,Дом Кино 2
 #EXTGRP: Кино
-http://109.248.236.41:4433/udp/238.1.1.32:1234
+http://178.163.33.171:4022/udp/234.0.0.219:2000
 #EXTINF:0,Дом Кино Премиум HD
 #EXTGRP: Кино
 http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/911/index.m3u8
@@ -36,7 +36,9 @@ http://autopilot.myowntv.org/content/36506/index.m3u8
 #EXTINF:0,TOP USSR
 #EXTGRP: Кино
 http://v2.catcast.me/content/36506/index.m3u8
-
+#EXTINF:0,Советское кино
+#EXTGRP: Кино
+http://109.233.192.88:8006/play/67/index.m3u8
 #EXTINF:0,Сделано в СССР
 #EXTGRP: Кино
 http://tv.ussr.icu/yufxiRZE/vl8SQzev/playlist.m3u8
@@ -230,7 +232,7 @@ http://hls.goodgame.ru/hls/5346.m3u8
 
 #EXTINF:0,Бигуди
 #EXTGRP: Украина
-http://playlist.hmara.tv:80/4a8a78be/3ce0bf78c681a6e676e7fdb2393d5f91c482cfa0.m3u8
+http://109.95.47.229:809/Bigudi/index.m3u8
 #EXTINF:0,Бигуди2
 #EXTGRP: Украина
 http://qj2dptwy.ottclub.xyz/iptv/URF2WBP5GR4FQP/989/index.m3u
@@ -239,13 +241,16 @@ http://qj2dptwy.ottclub.xyz/iptv/URF2WBP5GR4FQP/989/index.m3u
 http://playlist.hmara.tv:80/4a8a78be/2f92a83294c4d56f2c163101c7098ffdfe8a450c.m3u8
 #EXTINF:0,ICTV
 #EXTGRP: Украина
-http://playlist.hmara.tv:80/4a8a78be/09eaa83b67d7a2e1eefd45c61b38f506b624ed5a.m3u8
-#EXTINF:0,Интер
+http://109.95.47.229:809/ICTV/index.m3u8
+#EXTINF:0,Интер+
+#EXTGRP: Украина
+http://109.233.192.88:8010/play/122/index.m3u8
+#EXTINF:0,Интер 
+#EXTGRP: Украина
+http://109.95.47.229:809/Inter/index.m3u8
+#EXTINF:0,Интер 2
 #EXTGRP: Украина
 http://lb1.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:0,Интер (2)
-#EXTGRP: Украина
-http://playlist.hmara.tv:80/4a8a78be/da7da9dc3b01b4a0d95d581e92d90217abea9de5.m3u8
 #EXTINF:0,Украина
 #EXTGRP: Украина
 http://playlist.hmara.tv:80/4a8a78be/d24333874f92f9af05959efbf15ee7311bbf38bd.m3u8
@@ -254,5 +259,4 @@ http://playlist.hmara.tv:80/4a8a78be/d24333874f92f9af05959efbf15ee7311bbf38bd.m3
 http://qj2dptwy.ottclub.xyz/iptv/URF2WBP5GR4FQP/936/index.m3u
 #EXTINF:0,1+1
 #EXTGRP: Украина
-http://playlist.hmara.tv:80/4a8a78be/77a39785a7c5fafaeaecb2d640666baa54f048ec.m3u8
-
+http://109.95.47.229:809/1+1/index.m3u8
