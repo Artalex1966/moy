@@ -23,10 +23,10 @@ http://178.124.183.5/hls/UVPWPN2KTN_HLS/variant.m3u8?version=2
 http://qj2dptwy.ottclub.xyz/iptv/URF2WBP5GR4FQP/154/index.m3u
 #EXTINF:0,Дом Кино 2
 #EXTGRP: Кино
-http://178.163.33.171:4022/udp/234.0.0.219:2000
+http://178.124.183.150/hls/CH_DOMKINO_HLS/bw1200000/playlist.m3u8
 #EXTINF:0,Дом Кино Премиум HD
 #EXTGRP: Кино
-http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/911/index.m3u8
+http://37.235.191.107:81/udp/225.50.64.3:1234
 
 
 
@@ -260,3 +260,4 @@ http://qj2dptwy.ottclub.xyz/iptv/URF2WBP5GR4FQP/936/index.m3u
 #EXTINF:0,1+1
 #EXTGRP: Украина
 http://109.95.47.229:809/1+1/index.m3u8
+
