@@ -23,7 +23,7 @@ http://178.124.183.5/hls/UVPWPN2KTN_HLS/variant.m3u8?version=2
 http://myott.tv/stream/E4NBLH19Y5/236.m3u8
 #EXTINF:0,Дом Кино 2
 #EXTGRP: Кино
-http://178.124.183.150/hls/CH_DOMKINO_HLS/bw1200000/playlist.m3u8
+http://195.18.23.20:8000/play/23/index.m3u8
 #EXTINF:0,Дом Кино Премиум HD
 #EXTGRP: Кино
 http://37.235.191.107:81/udp/225.50.64.3:1234
