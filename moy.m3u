@@ -84,9 +84,9 @@ https://v2.catcast.me/content/36251/index.m3u8
 #EXTGRP: Кино
 https://hls.myvideocontent.ru/hls2/vhs_tv/index.m3u8
 
-#EXTINF:0,Фантастика/Страх
+#EXTINF:0,КИНОПАБ Фантастика
 #EXTGRP: Кино
-http://persik.by/stream/2102/351000/10715.m3u8
+https://or-be-01.mycdn.video/pub/scifi/index.m3u8
 
 #EXTINF:0,Фантастика???
 #EXTGRP: Кино
@@ -118,7 +118,12 @@ http://109.248.236.41:4433/udp/238.1.1.98:1234
 #EXTINF:0,В гостях у сказки 2
 #EXTGRP: Кино
 http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/737/index.m3u8
-
+#EXTINF:0,МУЛЬТИМАНИЯ
+#EXTGRP: Кино
+https://mfe.svc.ott.zala.by/hls/FBYQ8KG5HM_HLS/variant.m3u8
+#EXTINF:0,ДЕТСКИЙ МИР
+#EXTGRP: Кино
+https://mfe.svc.ott.zala.by/hls/9F67L3DGIF_HLS/variant.m3u8
 
 #EXTINF:0,ВРЕМЯ
 #EXTGRP: Хорошее
@@ -235,7 +240,7 @@ http://hls.goodgame.ru/hls/5346.m3u8
 http://109.95.47.229:809/Bigudi/index.m3u8
 #EXTINF:0,Бигуди2
 #EXTGRP: Украина
-http://qj2dptwy.ottclub.xyz/iptv/URF2WBP5GR4FQP/989/index.m3u
+http://195.5.108.7/hls/Bigudi/index.m3u8
 #EXTINF:0,Enter Фильм
 #EXTGRP: Украина
 http://playlist.hmara.tv:80/4a8a78be/2f92a83294c4d56f2c163101c7098ffdfe8a450c.m3u8
@@ -256,7 +261,7 @@ http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 http://playlist.hmara.tv:80/4a8a78be/d24333874f92f9af05959efbf15ee7311bbf38bd.m3u8
 #EXTINF:0,НТН
 #EXTGRP: Украина
-http://qj2dptwy.ottclub.xyz/iptv/URF2WBP5GR4FQP/936/index.m3u
+http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
 #EXTINF:0,1+1
 #EXTGRP: Украина
 http://smile-tv.live:5000/113744/843288/119
