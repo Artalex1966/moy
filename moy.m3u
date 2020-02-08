@@ -33,9 +33,12 @@ http://37.235.191.107:81/udp/225.50.64.3:1234
 #EXTINF:0,СССР
 #EXTGRP: Кино
 http://autopilot.myowntv.org/content/36506/index.m3u8
-#EXTINF:0,TOP USSR
+#EXTINF:0,СССР2
 #EXTGRP: Кино
 http://v2.catcast.me/content/36506/index.m3u8
+#EXTINF:0,TOP USSR
+#EXTGRP: Кино
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTOPSSSR&login=taras777&key=3pp54ZC
 #EXTINF:0,Советское кино
 #EXTGRP: Кино
 http://109.233.192.88:8006/play/67/index.m3u8
@@ -243,10 +246,10 @@ http://195.5.108.7/hls/Bigudi/index.m3u8
 http://195.5.108.7/hls/Bigudi/index.m3u8
 #EXTINF:0,Enter Фильм
 #EXTGRP: Украина
-http://195.5.108.7/hls/E_FIL_M/index.m3u8
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEnterFilm&login=taras777&key=3pp54ZC
 #EXTINF:0,ICTV
 #EXTGRP: Украина
-http://195.5.108.7/hls/ICTV/index.m3u8
+http://cdn.ottg.tv/5886/video.m3u8?username=begemota&password=777888&token=ad33de2554618b6f045a6c22701f026d&ch_id=167
 #EXTINF:0,Интер+
 #EXTGRP: Украина
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
