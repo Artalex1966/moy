@@ -243,7 +243,7 @@ http://hls.goodgame.ru/hls/5346.m3u8
 http://195.5.108.7/hls/Bigudi/index.m3u8
 #EXTINF:0,Бигуди2
 #EXTGRP: Украина
-http://195.138.78.76:8811/hls_get/239.33.60.61-.m3u8?md5=DIEL7WUXtc48WNO1SYXefQ&expires=1581249765
+kbp.1plus1.video/335987/smil:335987.smil/chunklist_b2928000.m3u8
 #EXTINF:0,Enter Фильм
 #EXTGRP: Украина
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEnterFilm&login=taras777&key=3pp54ZC
