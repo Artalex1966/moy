@@ -97,6 +97,9 @@ https://hls.goodgame.ru/hls/12949_720.m3u8
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
 http://v2.catcast.me/content/37388/index.m3u8
+#EXTINF:0,КРУТЫЕ ТРАНСЛЯЦИИ КАНАЛОВ в HD
+#EXTGRP: Кино
+https://s3.catcast.me/live/what.flv
 #EXTINF:0,БОЕВИК TV
 #EXTGRP: Кино
 http://v2.catcast.me/content/37493/index.m3u8
