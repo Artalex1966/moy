@@ -246,28 +246,25 @@ http://hls.goodgame.ru/hls/5346.m3u8
 
 #EXTINF:0,Бигуди
 #EXTGRP: Украина
-https://live-k2301-kbp.1plus1.video/335987/smil:335987.smil/chunklist_b2928000.m3u8
+http://79.135.200.15:10012/http/79.135.200.15:5015/udp/238.39.40.84:5000
 #EXTINF:0,Бигуди2
 #EXTGRP: Украина
-kbp.1plus1.video/335987/smil:335987.smil/chunklist_b2928000.m3u8
+http://79.135.200.15:10012/http/79.135.200.15:5015/udp/238.39.40.84:5000
 #EXTINF:0,Enter Фильм
 #EXTGRP: Украина
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEnterFilm&login=taras777&key=3pp54ZC
 #EXTINF:0,ICTV
 #EXTGRP: Украина
 http://cdn.ottg.tv/5886/video.m3u8?username=begemota&password=777888&token=ad33de2554618b6f045a6c22701f026d&ch_id=167
-#EXTINF:0,Интер
+#EXTINF:0,Интер+
 #EXTGRP: Украина
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:0,Интер 1
+#EXTINF:0,Интер 
 #EXTGRP: Украина
-http://188.35.9.11:11031/z
+http://smile-tv.live:5000/113744/843288/90
 #EXTINF:0,Интер 2
 #EXTGRP: Украина
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:0,Интер+
-#EXTGRP: Украина
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FInterplus&login=Martyn&key=CBxWefH
 #EXTINF:0,Украина
 #EXTGRP: Украина
 http://playlist.hmara.tv:80/4a8a78be/d24333874f92f9af05959efbf15ee7311bbf38bd.m3u8
@@ -276,4 +273,4 @@ http://playlist.hmara.tv:80/4a8a78be/d24333874f92f9af05959efbf15ee7311bbf38bd.m3
 http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
 #EXTINF:0,1+1
 #EXTGRP: Украина
-http://188.35.9.26:1050/udp/238.0.1.1:69000
+https://live-k2310-kbp.1plus1.video/184723/smil:184723.smil/chunklist_b6360000.m3u8
