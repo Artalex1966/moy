@@ -5,7 +5,7 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FN
 #EXTM3U
 #EXTINF:0,Любимое кино2
 #EXTGRP: Кино
-http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/722/index.m3u8
+http://176.110.251.21:7782/udp/238.1.2.7:1234
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
@@ -20,7 +20,7 @@ http://178.124.183.5/hls/UVPWPN2KTN_HLS/variant.m3u8?version=2
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
-http://195.18.23.20:8000/play/23/index.m3u8
+http://178.124.183.150/hls/CH_DOMKINO_HLS/bw1200000/playlist.m3u8
 #EXTINF:0,Дом Кино 2
 #EXTGRP: Кино
 http://195.18.23.20:8000/play/23/index.m3u8
@@ -240,10 +240,10 @@ http://hls.goodgame.ru/hls/5346.m3u8
 
 #EXTINF:0,Бигуди
 #EXTGRP: Украина
-http://79.135.200.15:10012/http/79.135.200.15:5015/udp/238.39.40.84:5000
+http://79.135.212.152:4022/udp/238.39.40.84:5000
 #EXTINF:0,Бигуди2
 #EXTGRP: Украина
-http://79.135.200.15:10012/http/79.135.200.15:5015/udp/238.39.40.84:5000
+http://79.135.212.152:4022/udp/238.39.40.84:5000
 #EXTINF:0,Enter Фильм
 #EXTGRP: Украина
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEnterFilm&login=taras777&key=3pp54ZC
