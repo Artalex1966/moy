@@ -16,7 +16,7 @@ http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8?version=2&offset=-
 
 #EXTINF:0, Наше новое кино
 #EXTGRP: Кино
-http://178.124.183.5/hls/UVPWPN2KTN_HLS/variant.m3u8?version=2
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNashenovoekino&login=Martyn&key=CBxWefH
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
@@ -74,8 +74,9 @@ http://178.124.183.5/hls/W7LNWHFGTB_HLS/variant.m3u8?version=2
 #EXTGRP: Кино
 http://178.124.183.5/hls/CH_BOLT_HLS/variant.m3u8?version=2
 
-
-
+#EXTINF:0,TOP 80s
+#EXTGRP: Кино
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTOP80s&login=Martyn&key=CBxWefH
 #EXTINF:0,ULTO
 #EXTGRP: Кино
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
@@ -243,19 +244,19 @@ http://hls.goodgame.ru/hls/5346.m3u8
 http://79.135.212.152:4022/udp/238.39.40.84:5000
 #EXTINF:0,Бигуди2
 #EXTGRP: Украина
-http://79.135.212.152:4022/udp/238.39.40.84:5000
+http://playlist.hmara.tv:80/4a8a78be/3ce0bf78c681a6e676e7fdb2393d5f91c482cfa0.m3u8
 #EXTINF:0,Enter Фильм
 #EXTGRP: Украина
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEnterFilm&login=taras777&key=3pp54ZC
+http://79.135.212.152:4022/udp/238.39.40.94:5000
 #EXTINF:0,ICTV
 #EXTGRP: Украина
-http://cdn.ottg.tv/5886/video.m3u8?username=begemota&password=777888&token=ad33de2554618b6f045a6c22701f026d&ch_id=167
+http://playlist.hmara.tv:80/4a8a78be/09eaa83b67d7a2e1eefd45c61b38f506b624ed5a.m3u8
 #EXTINF:0,Интер+
 #EXTGRP: Украина
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:0,Интер 
 #EXTGRP: Украина
-http://smile-tv.live:5000/113744/843288/90
+http://playlist.hmara.tv:80/4a8a78be/da7da9dc3b01b4a0d95d581e92d90217abea9de5.m3u8
 #EXTINF:0,Интер 2
 #EXTGRP: Украина
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
