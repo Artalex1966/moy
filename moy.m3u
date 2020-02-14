@@ -17,16 +17,19 @@ http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8?version=2&offset=-
 #EXTINF:0, Наше новое кино
 #EXTGRP: Кино
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNashenovoekino&login=Martyn&key=CBxWefH
+#EXTINF:0, Наше новое кино 2
+#EXTGRP: Кино
+https://rt-cache1.peers.tv/streaming/nashe_novoe_kino/16/copy/playlist.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
-http://178.124.183.150/hls/CH_DOMKINO_HLS/bw1200000/playlist.m3u8
+https://rt-cache1.peers.tv/streaming/dom_kino/16/tvrecw/playlist.m3u8
 #EXTINF:0,Дом Кино 2
 #EXTGRP: Кино
 http://195.18.23.20:8000/play/23/index.m3u8
 #EXTINF:0,Дом Кино Премиум HD
 #EXTGRP: Кино
-http://37.235.191.107:81/udp/225.50.64.3:1234
+https://rt-cache1.peers.tv/streaming/dom_kino_premium/16/variable.m3u8
 
 
 
@@ -55,10 +58,10 @@ http://dmitry-tv.ru/his/itv_zabava/CH_MOSKVADOVERIE.m3u8
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://178.124.183.5/hls/HDOHSSZQCP_HLS/variant.m3u8?version=2
+https://rt-cache1.peers.tv/streaming/kinohit/16/variable.m3u8
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://178.124.183.5/hls/VVG76MWUGX_HLS/variant.m3u8?version=2
+https://rt-cache1.peers.tv/streaming/ntv_kino_plyus/16/tvrec/playlist.m3u8
 
 #EXTINF:0,КИНОСЕМЬЯ
 #EXTGRP: Кино
@@ -69,7 +72,7 @@ http://178.124.183.5/hls/CH_KINOPREMERA_HLS/variant.m3u8?version=2
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://178.124.183.5/hls/W7LNWHFGTB_HLS/variant.m3u8?version=2
+https://rt-cache1.peers.tv/streaming/interesnoe_tv/16/variable.m3u8
 #EXTINF:0,BOLT
 #EXTGRP: Кино
 http://178.124.183.5/hls/CH_BOLT_HLS/variant.m3u8?version=2
@@ -168,7 +171,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8?versi
 http://5.61.48.23/42/d78706886f2980a7548cd40a6cd5c30eb678b76f/171/stream.m3u8
 #EXTINF:0,Победа 2
 #EXTGRP: Хорошее
-http://ott-cdn.ucom.am/s47/04.m3u8
+https://rt-cache1.peers.tv/streaming/pobeda/16/variable.m3u8
 
 #EXTINF:0,Ностальгия 
 #EXTGRP: Хорошее
@@ -245,6 +248,9 @@ http://79.135.212.152:4022/udp/238.39.40.84:5000
 #EXTINF:0,Бигуди2
 #EXTGRP: Украина
 http://playlist.hmara.tv:80/4a8a78be/3ce0bf78c681a6e676e7fdb2393d5f91c482cfa0.m3u8
+#EXTINF:0,Бигуди3
+#EXTGRP: Украина
+http://ott.flix-tv.ru:2082/pioner/smurf12/17
 #EXTINF:0,Enter Фильм
 #EXTGRP: Украина
 http://79.135.212.152:4022/udp/238.39.40.94:5000
@@ -263,6 +269,9 @@ http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:0,Украина
 #EXTGRP: Украина
 http://playlist.hmara.tv:80/4a8a78be/d24333874f92f9af05959efbf15ee7311bbf38bd.m3u8
+#EXTINF:0,Украина 2
+#EXTGRP: Украина
+http://178.165.68.39:7781/udp/239.2.1.14:1234
 #EXTINF:0,НТН
 #EXTGRP: Украина
 http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
