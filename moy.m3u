@@ -44,7 +44,7 @@ http://v2.catcast.me/content/36506/index.m3u8
 http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTOPSSSR&login=taras777&key=3pp54ZC
 #EXTINF:0,Советское кино
 #EXTGRP: Кино
-http://109.233.192.88:8006/play/67/index.m3u8
+http://persik.tv/stream/234/408000/10711.m3u8
 #EXTINF:0,Сделано в СССР
 #EXTGRP: Кино
 http://tv.ussr.icu/yufxiRZE/vl8SQzev/playlist.m3u8
@@ -65,10 +65,14 @@ https://rt-cache1.peers.tv/streaming/ntv_kino_plyus/16/tvrec/playlist.m3u8
 
 #EXTINF:0,КИНОСЕМЬЯ
 #EXTGRP: Кино
-http://178.124.183.5/hls/FEDXG8XPOR_HLS/variant.m3u8?version=2
+http://217.25.216.4:8085/udp/238.2.18.16:1234
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
 http://178.124.183.5/hls/CH_KINOPREMERA_HLS/variant.m3u8?version=2
+
+#EXTINF:0,КИНОКОМЕДИЯ
+#EXTGRP: Кино
+http://telesfor.kartoshkaka.ru/iptv/FBTD4P2R5Q8KFE/145/index.m3u8
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
@@ -97,7 +101,7 @@ https://or-be-01.mycdn.video/pub/scifi/index.m3u8
 
 #EXTINF:0,Фантастика???
 #EXTGRP: Кино
-https://hls.goodgame.ru/hls/12949_720.m3u8
+http://persik.tv/stream/234/408000/10715.m3u8
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
 http://v2.catcast.me/content/37388/index.m3u8
@@ -132,6 +136,14 @@ https://mfe.svc.ott.zala.by/hls/FBYQ8KG5HM_HLS/variant.m3u8
 #EXTGRP: Кино
 https://mfe.svc.ott.zala.by/hls/9F67L3DGIF_HLS/variant.m3u8
 
+
+#EXTINF:0,Первый канал
+#EXTGRP: Хорошее
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+#EXTINF:0,Россия 1
+#EXTGRP: Хорошее
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA1/variant.m3u8?version=2
+
 #EXTINF:0,ВРЕМЯ
 #EXTGRP: Хорошее
 http://cn04.iptv.monster/play/131/2D6E866C992891C/video.m3u8
@@ -149,9 +161,9 @@ http://dmitry-tv.ru/his/itv_zabava/CH_STSLOVE.m3u8
 #EXTINF:0, Рен ТВ 
 #EXTGRP: Хорошее
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:0, РЕН HD 
+#EXTINF:0, РЕН ТВ (+2) 
 #EXTGRP: Хорошее
-http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/2024/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
 
 #EXTINF:0,Звезда
 #EXTGRP: Хорошее
@@ -217,10 +229,10 @@ https://rtmp.api.rt.com/hls/rtdru.m3u8
 http://persik.by/stream/7544/418760/10509.m3u8
 #EXTINF:0,Оружие
 #EXTGRP: Познавательное
-http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/2087/index.m3u8
+https://rt-cache1.peers.tv/streaming/oruzhie/16/tvrec/playlist.m3u8
 #EXTINF:0,Оружие2
 #EXTGRP: Познавательное
-http://178.124.183.5/hls/EWEXU8FWAZ/variant.m3u8?version=2
+http://217.25.216.4:8085/udp/225.1.2.82:2020
 
 
 #EXTGRP: Кинозал
