@@ -5,18 +5,18 @@ http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FN
 #EXTM3U
 #EXTINF:0,Любимое кино2
 #EXTGRP: Кино
-http://176.110.251.21:7782/udp/238.1.2.7:1234
+http://134.255.159.194:1213/udp/239.255.0.119:1234
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRodnoekino&login=Martyn&key=CBxWefH
+http://134.255.159.194:1213/udp/239.255.0.101:1234
 #EXTINF:0,Родное кино2
 #EXTGRP: Кино
 http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8?version=2&offset=-28800
 
 #EXTINF:0, Наше новое кино
 #EXTGRP: Кино
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNashenovoekino&login=Martyn&key=CBxWefH
+http://134.255.159.194:1213/udp/239.255.0.199:1234
 #EXTINF:0, Наше новое кино 2
 #EXTGRP: Кино
 https://rt-cache1.peers.tv/streaming/nashe_novoe_kino/16/copy/playlist.m3u8
@@ -29,7 +29,7 @@ https://rt-cache1.peers.tv/streaming/dom_kino/16/tvrecw/playlist.m3u8
 http://195.18.23.20:8000/play/23/index.m3u8
 #EXTINF:0,Дом Кино Премиум HD
 #EXTGRP: Кино
-https://rt-cache1.peers.tv/streaming/dom_kino_premium/16/variable.m3u8
+http://134.255.159.194:1213/udp/239.255.0.162:1234
 
 
 
@@ -265,7 +265,7 @@ http://playlist.hmara.tv:80/4a8a78be/3ce0bf78c681a6e676e7fdb2393d5f91c482cfa0.m3
 http://ott.flix-tv.ru:2082/pioner/smurf12/17
 #EXTINF:0,Enter Фильм
 #EXTGRP: Украина
-http://79.135.212.152:4022/udp/238.39.40.94:5000
+http://78.141.211.61:4000/28
 #EXTINF:0,ICTV
 #EXTGRP: Украина
 http://playlist.hmara.tv:80/4a8a78be/09eaa83b67d7a2e1eefd45c61b38f506b624ed5a.m3u8
@@ -290,6 +290,7 @@ http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
 #EXTINF:0,1+1
 #EXTGRP: Украина
 http://188.35.9.11:2001/index.m3u8
+
 
 #EXTINF:0,«Плутовство» / «Хвост виляет собакой»
 #EXTGRP: Украина
