@@ -41,7 +41,7 @@ http://russia.livetv.az/russia/dom_kino/playlist.m3u8
 http://50.7.172.58:8081/555/index.m3u8?wmsAuthSign=1582772860p031i85i702i28Sab18e06b9f5964228e2dc195e9c17585
 #EXTINF:0,Дом Кино Премиум HD
 #EXTGRP: Кино
-http://134.255.159.194:1213/udp/239.255.0.162:1234
+http://50.7.231.220:8081/187/index.m3u8?wmsAuthSign=1582773618p031i85i702i28Sb45e86265c0c42a214b4d170a4feed50
 
 
 
@@ -83,11 +83,11 @@ https://rt-cache1.peers.tv/streaming/ntv_kino_plyus/16/tvrec/playlist.m3u8
 http://217.25.216.4:8085/udp/238.2.18.16:1234
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
-http://178.124.183.5/hls/CH_KINOPREMERA_HLS/variant.m3u8?version=2
+http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1582773502p031i85i702i28S751d3d4200ad40e9d4feca8424d5cbff
 
 #EXTINF:0,КИНОКОМЕДИЯ
 #EXTGRP: Кино
-http://telesfor.kartoshkaka.ru/iptv/FBTD4P2R5Q8KFE/145/index.m3u8
+http://50.7.231.220:8081/129/index.m3u8?wmsAuthSign=1582773756p031i85i702i28S8cdf1fc88020a8543a8d3f0577cce4f4
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
