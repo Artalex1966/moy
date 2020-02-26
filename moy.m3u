@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://ed2e017c.cbilant.com/iptv/3TFFXE9EC4GQG7/722/index.m3u
+https://plbl.m9.lfstrm.tv/love_kino/normal/0/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr2&provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTM3U
 #EXTINF:0,Любимое кино2
 #EXTGRP: Кино
@@ -259,7 +259,7 @@ http://hls.goodgame.ru/hls/5346.m3u8
 
 #EXTINF:0,Бигуди
 #EXTGRP: Украина
-http://79.135.212.152:4022/udp/238.39.40.84:5000
+http://193.46.210.28/stream/ja6tx3y37jd7v6882a9g5tc9wj4775vuf466fvp6kgcx4uaxtki8rzs85k3xgitipgin8x5u2pbskpkank7nngmjhaj79f3ejmxsixmrbmjzu7r2faw77qgd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
 #EXTINF:0,Бигуди2
 #EXTGRP: Украина
 http://playlist.hmara.tv:80/4a8a78be/3ce0bf78c681a6e676e7fdb2393d5f91c482cfa0.m3u8
@@ -271,16 +271,19 @@ http://ed2e017c.cbilant.com/iptv/3TFFXE9EC4GQG7/989/index.m3u
 http://78.141.211.61:4000/28
 #EXTINF:0,ICTV
 #EXTGRP: Украина
-http://playlist.hmara.tv:80/4a8a78be/09eaa83b67d7a2e1eefd45c61b38f506b624ed5a.m3u8
+http://193.46.210.28/stream/7vzrgggqh9hi27shrnvecmyp9kduw789bgsrm5ak34mwjxhj3grg5a39tk3tc9pm2d4z8jz9dyi2bfpmeax3j75wc3ctwzpjq6xrkupf6hiaxm2447agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
 #EXTINF:0,Интер+
 #EXTGRP: Украина
-https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+http://193.46.210.28/stream/z2zrrzw6qjgdqdufy8ht53n948ud3uixn5cdktc8ainqanr4c5g2d7c8xt4c2nt6k2ybdmfz2y75qqbrrh2wsawefi76v8ewbqm3hjfq4vb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
 #EXTINF:0,Интер 
 #EXTGRP: Украина
-http://playlist.hmara.tv:80/4a8a78be/da7da9dc3b01b4a0d95d581e92d90217abea9de5.m3u8
+http://lb1.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:0,Интер 2
 #EXTGRP: Украина
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:0,Интер 3
+#EXTGRP: Украина
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:0,Украина
 #EXTGRP: Украина
 http://playlist.hmara.tv:80/4a8a78be/d24333874f92f9af05959efbf15ee7311bbf38bd.m3u8
