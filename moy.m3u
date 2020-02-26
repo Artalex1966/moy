@@ -13,6 +13,9 @@ http://ed2e017c.cbilant.com/iptv/3TFFXE9EC4GQG7/126/index.m3u
 #EXTINF:0,Родное кино2
 #EXTGRP: Кино
 http://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
+#EXTINF:0,Родное кино 22
+#EXTGRP: Кино
+http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=1582772992p031i85i702i28S1cfa1d1fac9b1f0276428848ef3583da
 
 #EXTINF:0, Наше новое кино
 #EXTGRP: Кино
@@ -20,6 +23,9 @@ http://ed2e017c.cbilant.com/iptv/3TFFXE9EC4GQG7/517/index.m3u
 #EXTINF:0, Наше новое кино 2
 #EXTGRP: Кино
 https://rt-cache1.peers.tv/streaming/nashe_novoe_kino/16/copy/playlist.m3u8
+#EXTINF:0, Наше новое кино 22
+#EXTGRP: Кино
+http://50.7.231.220:8081/197/index.m3u8?wmsAuthSign=1582773104p031i85i702i28S217619ea2c6fc0497ead0e56211374cc
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
@@ -30,6 +36,9 @@ http://195.18.23.20:8000/play/23/index.m3u8
 #EXTINF:0,Дом Кино 3
 #EXTGRP: Кино
 http://russia.livetv.az/russia/dom_kino/playlist.m3u8
+#EXTINF:0,Дом Кино 33
+#EXTGRP: Кино
+http://50.7.172.58:8081/555/index.m3u8?wmsAuthSign=1582772860p031i85i702i28Sab18e06b9f5964228e2dc195e9c17585
 #EXTINF:0,Дом Кино Премиум HD
 #EXTGRP: Кино
 http://134.255.159.194:1213/udp/239.255.0.162:1234
@@ -62,6 +71,9 @@ http://dmitry-tv.ru/his/itv_zabava/CH_MOSKVADOVERIE.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
 https://rt-cache1.peers.tv/streaming/kinohit/16/variable.m3u8
+#EXTINF:0,Кинохит 22
+#EXTGRP: Кино
+http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1582773266p031i85i702i28Sc71c02c9dd604f65621c652c401974b3
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
 https://rt-cache1.peers.tv/streaming/ntv_kino_plyus/16/tvrec/playlist.m3u8
