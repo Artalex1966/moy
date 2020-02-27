@@ -92,9 +92,9 @@ http://50.7.231.220:8081/129/index.m3u8?wmsAuthSign=1582773756p031i85i702i28S8cd
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
 https://rt-cache1.peers.tv/streaming/interesnoe_tv/16/variable.m3u8
-#EXTINF:0,BOLT
+#EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
-http://178.124.183.5/hls/CH_BOLT_HLS/variant.m3u8?version=2
+http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1582793351p031i85i702i28Sd0d2c1b8be8846118ce43ab2214a9467
 
 #EXTINF:0,TOP 80s
 #EXTGRP: Кино
@@ -126,29 +126,54 @@ http://v2.catcast.me/content/37493/index.m3u8
 
 #EXTINF:0,TV1000
 #EXTGRP: Кино
-http://178.124.183.5/hls/6WMZMUEWGN_HLS/variant.m3u8?version=2
+http://50.7.231.220:8081/137/index.m3u8?wmsAuthSign=1582792142p031i85i702i28S63fe9c44c4bee541fe8b3ad9316aad55
 #EXTINF:0,TV1000 Русское кино
 #EXTGRP: Кино
-http://178.124.183.5/hls/PWIKICZUYF_HLS/variant.m3u8?version=2
+http://50.7.231.220:8081/139/index.m3u8?wmsAuthSign=1582792192p031i85i702i28Sbcc22e47ba3edfb02a13dda8b254b33f
 #EXTINF:0,TV1000 Action
 #EXTGRP: Кино
-http://178.124.183.5/hls/9X9NUEEKGW_HLS/variant.m3u8?version=2
+http://50.7.231.220:8081/138/index.m3u8?wmsAuthSign=1582792243p031i85i702i28S30ce37c962e3782afab9d0cb0f944cce
+
+#EXTINF:0,VIP Premiere HD
+#EXTGRP: Кино
+http://50.7.231.220:8081/140/index.m3u8?wmsAuthSign=1582792284p031i85i702i28Scc2ca06167de177327eab78885345121
+#EXTINF:0,VIP Megahit HD
+#EXTGRP: Кино
+http://50.7.231.220:8081/141/index.m3u8?wmsAuthSign=1582792391p031i85i702i28Sbe32fd7020c4c5adbde2cdc91a637d99
+#EXTINF:0,VIP Comedy HD
+#EXTGRP: Кино
+http://50.7.231.220:8081/142/index.m3u8?wmsAuthSign=1582792438p031i85i702i28S252e9718cd18f1e29ad54b684661ac23
+#EXTINF:0,Кинопоказ HD 1
+#EXTGRP: Кино
+http://50.7.231.220:8081/169/index.m3u8?wmsAuthSign=1582792489p031i85i702i28S6e621cd26a9338e0b0e61ac382773443
+#EXTINF:0,Кинопоказ HD 2
+#EXTGRP: Кино
+http://50.7.231.220:8081/170/index.m3u8?wmsAuthSign=1582792530p031i85i702i28S2bb8480b7fd2b28906a6646558e94132
 
 #EXTINF:0, Классика кино HD
 #EXTGRP: Кино
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 
 #EXTINF:0,В гостях у сказки
-#EXTGRP: Кино
+#EXTGRP: Детям
 http://109.248.236.41:4433/udp/238.1.1.98:1234
 #EXTINF:0,В гостях у сказки 2
-#EXTGRP: Кино
+#EXTGRP: Детям
 http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/737/index.m3u8
-#EXTINF:0,МУЛЬТИМАНИЯ
-#EXTGRP: Кино
-https://mfe.svc.ott.zala.by/hls/FBYQ8KG5HM_HLS/variant.m3u8
+#EXTINF:0,Мульт
+#EXTGRP: Детям
+http://50.7.231.220:8081/206/index.m3u8?wmsAuthSign=1582793189p031i85i702i28S868dc80d613ed0fd56d2d63a4aee9321
+#EXTINF:0,Карусель
+#EXTGRP: Детям
+http://50.7.231.220:8081/157/index.m3u8?wmsAuthSign=1582793018p031i85i702i28S07367c91491d859411f9c22b918beac6
+#EXTINF:0,Disney Channel
+#EXTGRP: Детям
+http://50.7.231.220:8081/154/index.m3u8?wmsAuthSign=1582793268p031i85i702i28Sa35067925f9d2d1c163f0db216cb668c
+#EXTINF:0,ДЕТСКИЙ
+#EXTGRP: Детям
+http://50.7.231.220:8081/156/index.m3u8?wmsAuthSign=1582792929p031i85i702i28Sab1f446bb6d9907691317cb2bdc710c0
 #EXTINF:0,ДЕТСКИЙ МИР
-#EXTGRP: Кино
+#EXTGRP: Детям
 https://mfe.svc.ott.zala.by/hls/9F67L3DGIF_HLS/variant.m3u8
 
 
