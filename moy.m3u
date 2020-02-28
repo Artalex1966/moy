@@ -53,7 +53,7 @@ http://autopilot.myowntv.org/content/36506/index.m3u8
 http://v2.catcast.me/content/36506/index.m3u8
 #EXTINF:0,TOP USSR
 #EXTGRP: Кино
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTOPSSSR&login=taras777&key=3pp54ZC
+https://streaming.spbtv.com/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzIwMmI4NjQ0LTgzMjgtNGZkMi1iZWU3LWY3NmI4NDg1MzlmNSIsInByb3RvY29sIjoiZGFzaCIsImRybSI6InNwYnR2Y2FzIiwic2Vzc2lvbl9pZCI6ImM0YWQ4M2MzLTc0MjktNGNlMi04MzI1LTEzYzk3YjEzNjdjZCIsImRvbWFpbl9uYW1lIjoic3RyZWFtaW5nLnNwYnR2LmNvbSIsImlwX2FkZHJlc3MiOiI4Mi4yMDcuNTguMTMwIiwiZXhwaXJhdGlvbl9kYXRlIjoiMjAyMC0wMi0yOVQxMzowNjoyOVoiLCJzdHJlYW1fbmFtZSI6IjEwNTQiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJtc2sifQ%3D%3D/MCwCFCnhGo9LBhpL4cC7-sB1RhUubqQMAhRVIoidULb2AzG1wp8QyIc1A9uAPA%3D%3D/ip_v5/1054.mpd?b_app_channel_id=6d4f5d52-4da0-41ac-814c-7d5abcac088f&b_app_id=spbtv_china&b_device_platform=Windows&b_device_uid=5d121b20-a461-474a-a697-b0c202f2d206&b_stream_sid=c4ad83c3-7429-4ce2-8325-13c97b1367cd&b_strmr_channel_id=1054
 #EXTINF:0,Советское кино
 #EXTGRP: Кино
 http://persik.tv/stream/234/408000/10711.m3u8
@@ -96,9 +96,9 @@ https://rt-cache1.peers.tv/streaming/interesnoe_tv/16/variable.m3u8
 #EXTGRP: Кино
 http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1582793351p031i85i702i28Sd0d2c1b8be8846118ce43ab2214a9467
 
-#EXTINF:0,TOP 80s
+#EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTOP80s&login=Martyn&key=CBxWefH
+http://50.7.144.155:8081/kino_tv/index.m3u8?wmsAuthSign=1582912859S40177d466eddc4afc5a137ca506af7ccS031h85h702h28
 #EXTINF:0,ULTO
 #EXTGRP: Кино
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
@@ -157,9 +157,9 @@ http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детям
 http://109.248.236.41:4433/udp/238.1.1.98:1234
-#EXTINF:0,В гостях у сказки 2
+#EXTINF:0,СоюзМультфильм
 #EXTGRP: Детям
-http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/737/index.m3u8
+http://50.7.144.155:8081/souzmult/index.m3u8?wmsAuthSign=1582913510Sdfffe2287199d3d7dd059fe996da56ddS031h85h702h28
 #EXTINF:0,Мульт
 #EXTGRP: Детям
 http://50.7.231.220:8081/206/index.m3u8?wmsAuthSign=1582793189p031i85i702i28S868dc80d613ed0fd56d2d63a4aee9321
@@ -172,9 +172,12 @@ http://50.7.231.220:8081/154/index.m3u8?wmsAuthSign=1582793268p031i85i702i28Sa35
 #EXTINF:0,ДЕТСКИЙ
 #EXTGRP: Детям
 http://50.7.231.220:8081/156/index.m3u8?wmsAuthSign=1582792929p031i85i702i28Sab1f446bb6d9907691317cb2bdc710c0
+#EXTINF:0,Мультимания
+#EXTGRP: Детям
+http://45.10.140.200:81/udp/230.3.4.228:5678
 #EXTINF:0,ДЕТСКИЙ МИР
 #EXTGRP: Детям
-https://mfe.svc.ott.zala.by/hls/9F67L3DGIF_HLS/variant.m3u8
+https://s20585.glaz.tv:8082/liveg/dmir.stream/chunks.m3u8?nimblesessionid=1451784644&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOC8yMDIwIDEyOjU3OjExIFBNJmhhc2hfdmFsdWU9aHRieWJvOGg4SG05MkhtSHJ2ZDNwUT09JnZhbGlkbWludXRlcz0yMDA=
 
 
 #EXTINF:0,Первый канал
@@ -183,6 +186,9 @@ http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP: Хорошее
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA1/variant.m3u8?version=2
+#EXTINF:0,РТР Планета
+#EXTGRP: Хорошее
+https://s20585.glaz.tv:8082/liveg/rtrpl.stream/chunks.m3u8?nimblesessionid=1451782161&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOC8yMDIwIDEyOjUzOjQ5IFBNJmhhc2hfdmFsdWU9S3dLaG9xS1dyOGc2ak11R3V0dnZTQT09JnZhbGlkbWludXRlcz0yMDA=
 
 #EXTINF:0,ВРЕМЯ
 #EXTGRP: Хорошее
