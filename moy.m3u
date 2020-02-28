@@ -159,7 +159,7 @@ http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 http://109.248.236.41:4433/udp/238.1.1.98:1234
 #EXTINF:0,СоюзМультфильм
 #EXTGRP: Детям
-http://50.7.144.155:8081/souzmult/index.m3u8?wmsAuthSign=1582916721S6a2de8d34476da774adbbfa14f706304S031h85h702h28
+http://50.7.144.155:8081/souzmult/index.m3u8?wmsAuthSign=1582920899Sbd9dc7ab4e230eaf464d5e8b1786630cS031h85h702h28
 #EXTINF:0,Мульт
 #EXTGRP: Детям
 http://50.7.231.220:8081/206/index.m3u8?wmsAuthSign=1582793189p031i85i702i28S868dc80d613ed0fd56d2d63a4aee9321
