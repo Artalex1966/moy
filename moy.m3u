@@ -62,7 +62,7 @@ https://fr.strah.video:4444/live/sssrfilms/chunks.m3u8?nimblesessionid=4056905&w
 http://tv.ussr.icu/yufxiRZE/vl8SQzev/playlist.m3u8
 #EXTINF:0,Ностальгия
 #EXTGRP: Кино
-http://163.172.180.208:8081/tv/nostalgiya/chunks.m3u8?nimblesessionid=23463705&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOS8yMDIwIDEwOjQxOjIzIEFNJmhhc2hfdmFsdWU9enIveUdFZ0pKUXkwUGVYZHR6NWdVdz09JnZhbGlkbWludXRlcz03MjA=&__fvd__
+http://163.172.180.208:8081/tv/nostalgiya/chunks.m3u8?nimblesessionid=23463559&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOS8yMDIwIDEwOjMzOjUxIEFNJmhhc2hfdmFsdWU9Ym9vQlVnU2lyNThmNVlubDRNSXlGQT09JnZhbGlkbWludXRlcz03MjA=&__fvd__
 #EXTINF:0,Красная линия 
 #EXTGRP: Кино
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
@@ -193,7 +193,7 @@ https://s20585.glaz.tv:8082/liveg/rtrpl.stream/chunks.m3u8?nimblesessionid=14517
 
 #EXTINF:0,ВРЕМЯ
 #EXTGRP: Хорошее
-http://cn04.iptv.monster/play/131/2D6E866C992891C/video.m3u8
+http://188.113.190.12/118/video.m3u8
 
 #EXTINF:0,CTC
 #EXTGRP: Хорошее
@@ -232,9 +232,7 @@ http://5.61.48.23/42/d78706886f2980a7548cd40a6cd5c30eb678b76f/171/stream.m3u8
 #EXTGRP: Хорошее
 https://rt-cache1.peers.tv/streaming/pobeda/16/variable.m3u8
 
-#EXTINF:0,Ностальгия 
-#EXTGRP: Хорошее
-http://178.124.183.5/hls/SWPQU2UFKD/variant.m3u8?version=2
+
 
 #EXTINF:0,ТВЦ
 #EXTGRP: Хорошее
@@ -249,9 +247,7 @@ https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565110210/5a3ca
 #EXTINF:0,Супер 2
 #EXTGRP: Хорошее
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
-#EXTINF:0,Ностальгия
-#EXTGRP: Хорошее
-http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/102/index.m3u8
+
 
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
