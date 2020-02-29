@@ -5,11 +5,11 @@ https://plbl.m9.lfstrm.tv/love_kino/normal/0/index.m3u8?account=3f378f7832e53c10
 #EXTM3U
 #EXTINF:0,Любимое кино2
 #EXTGRP: Кино
-http://ed2e017c.cbilant.com/iptv/3TFFXE9EC4GQG7/722/index.m3u
+http://50.7.120.165:8081/nashe_lub_kino/index.m3u8?wmsAuthSign=325a629627edc042bdefa432a90680c0-1582989906-031i85i702i28
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://ed2e017c.cbilant.com/iptv/3TFFXE9EC4GQG7/126/index.m3u
+http://163.172.180.208:8081/tv/rodnoe-kino/chunks.m3u8?nimblesessionid=23463447&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOS8yMDIwIDEwOjI3OjE2IEFNJmhhc2hfdmFsdWU9SGV6T2xhaXNhM0hzWFU0cG1MYTh1UT09JnZhbGlkbWludXRlcz03MjA=&__fvd__
 #EXTINF:0,Родное кино2
 #EXTGRP: Кино
 http://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
@@ -19,7 +19,7 @@ http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=1582772992p031i85i702i28S1cf
 
 #EXTINF:0, Наше новое кино
 #EXTGRP: Кино
-http://ed2e017c.cbilant.com/iptv/3TFFXE9EC4GQG7/517/index.m3u
+http://51.15.78.31:8081/tv/nashe-novoe-kino/chunks.m3u8?nimblesessionid=11109635&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOS8yMDIwIDEwOjMwOjMyIEFNJmhhc2hfdmFsdWU9QU9yckFTUDQwL0hzdmVidGIvdmw2QT09JnZhbGlkbWludXRlcz03MjA=
 #EXTINF:0, Наше новое кино 2
 #EXTGRP: Кино
 https://rt-cache1.peers.tv/streaming/nashe_novoe_kino/16/copy/playlist.m3u8
@@ -56,11 +56,13 @@ http://v2.catcast.me/content/36506/index.m3u8
 https://streaming.spbtv.com/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzIwMmI4NjQ0LTgzMjgtNGZkMi1iZWU3LWY3NmI4NDg1MzlmNSIsInByb3RvY29sIjoiZGFzaCIsImRybSI6InNwYnR2Y2FzIiwic2Vzc2lvbl9pZCI6ImM0YWQ4M2MzLTc0MjktNGNlMi04MzI1LTEzYzk3YjEzNjdjZCIsImRvbWFpbl9uYW1lIjoic3RyZWFtaW5nLnNwYnR2LmNvbSIsImlwX2FkZHJlc3MiOiI4Mi4yMDcuNTguMTMwIiwiZXhwaXJhdGlvbl9kYXRlIjoiMjAyMC0wMi0yOVQxMzowNjoyOVoiLCJzdHJlYW1fbmFtZSI6IjEwNTQiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJtc2sifQ%3D%3D/MCwCFCnhGo9LBhpL4cC7-sB1RhUubqQMAhRVIoidULb2AzG1wp8QyIc1A9uAPA%3D%3D/ip_v5/1054.mpd?b_app_channel_id=6d4f5d52-4da0-41ac-814c-7d5abcac088f&b_app_id=spbtv_china&b_device_platform=Windows&b_device_uid=5d121b20-a461-474a-a697-b0c202f2d206&b_stream_sid=c4ad83c3-7429-4ce2-8325-13c97b1367cd&b_strmr_channel_id=1054
 #EXTINF:0,Советское кино
 #EXTGRP: Кино
-http://persik.tv/stream/234/408000/10711.m3u8
+https://fr.strah.video:4444/live/sssrfilms/chunks.m3u8?nimblesessionid=4056905&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOC8yMDIwIDM6Mzg6NDggUE0maGFzaF92YWx1ZT1jVkdVbmNWVE9CZmZweDdQK0VOa1BRPT0mdmFsaWRtaW51dGVzPTMmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0JmlkPTU=&__fvd__
 #EXTINF:0,Сделано в СССР
 #EXTGRP: Кино
 http://tv.ussr.icu/yufxiRZE/vl8SQzev/playlist.m3u8
-
+#EXTINF:0,Ностальгия
+#EXTGRP: Кино
+http://51.15.78.31:8081/tv/nashe-novoe-kino/chunks.m3u8?nimblesessionid=11109634&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOS8yMDIwIDEwOjMwOjMyIEFNJmhhc2hfdmFsdWU9QU9yckFTUDQwL0hzdmVidGIvdmw2QT09JnZhbGlkbWludXRlcz03MjA=
 #EXTINF:0,Красная линия 
 #EXTGRP: Кино
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
@@ -112,11 +114,10 @@ https://hls.myvideocontent.ru/hls2/vhs_tv/index.m3u8
 
 #EXTINF:0,КИНОПАБ Фантастика
 #EXTGRP: Кино
-https://or-be-01.mycdn.video/pub/scifi/index.m3u8
-
+https://or-be-01.mycdn.video/watch/scifi/index.m3u8?token=NJAZAMYQLP
 #EXTINF:0,Фантастика???
 #EXTGRP: Кино
-http://persik.tv/stream/234/408000/10715.m3u8
+https://fr.strah.video:4444/live/fantastikahd/chunks.m3u8?nimblesessionid=4056861&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOC8yMDIwIDM6MzE6MzMgUE0maGFzaF92YWx1ZT15YVJoZk5uWWRIZy95WFArR01TdUlnPT0mdmFsaWRtaW51dGVzPTMmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3JmlkPTI=&__fvd__
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
 http://v2.catcast.me/content/37388/index.m3u8
@@ -159,7 +160,7 @@ http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 http://109.248.236.41:4433/udp/238.1.1.98:1234
 #EXTINF:0,СоюзМультфильм
 #EXTGRP: Детям
-http://50.7.144.155:8081/souzmult/index.m3u8?wmsAuthSign=1582920899Sbd9dc7ab4e230eaf464d5e8b1786630cS031h85h702h28
+http://50.7.144.155:8081/souzmult/index.m3u8?wmsAuthSign=1582915982S75d9475894af93990f825b5ebc4b512cS031h85h702h28
 #EXTINF:0,Мульт
 #EXTGRP: Детям
 http://50.7.231.220:8081/206/index.m3u8?wmsAuthSign=1582793189p031i85i702i28S868dc80d613ed0fd56d2d63a4aee9321
