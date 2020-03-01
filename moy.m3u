@@ -78,7 +78,7 @@ https://rt-cache1.peers.tv/streaming/kinohit/16/variable.m3u8
 http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1582773266p031i85i702i28Sc71c02c9dd604f65621c652c401974b3
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-https://rt-cache1.peers.tv/streaming/ntv_kino_plyus/16/tvrec/playlist.m3u8
+http://50.7.231.220:8081/181/index.m3u8?wmsAuthSign=1583067636p031i85i702i28S68a87b575332ad20ab17b86cf26f534d
 
 #EXTINF:0,КИНОСЕМЬЯ
 #EXTGRP: Кино
@@ -90,10 +90,13 @@ http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1582773502p031i85i702i28S751
 #EXTINF:0,КИНОКОМЕДИЯ
 #EXTGRP: Кино
 http://50.7.231.220:8081/129/index.m3u8?wmsAuthSign=1582773756p031i85i702i28S8cdf1fc88020a8543a8d3f0577cce4f4
+#EXTINF:0,КИНОКОМЕДИЯ 2
+#EXTGRP: Кино
+http://50.7.231.220:8081/129/index.m3u8?wmsAuthSign=1583067408p031i85i702i28Sb63a07e7c733172c1f7e9f1697ecc6cc
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-https://rt-cache1.peers.tv/streaming/interesnoe_tv/16/variable.m3u8
+http://50.7.172.58:8081/593/index.m3u8?wmsAuthSign=1583067754p031i85i702i28S374212c1afeb175159fce02330a593fc
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
 http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1582793351p031i85i702i28Sd0d2c1b8be8846118ce43ab2214a9467
@@ -255,21 +258,21 @@ http://188.35.9.11:21151/udp/188k
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
 http://213.174.8.7:8000/play/24/index.m3u8
-#EXTINF:0,Техно 24
+#EXTINF:0,Т24
 #EXTGRP: Познавательное
-http://ott-cdn.ucom.am/s68/index.m3u8
+http://50.7.231.220:8081/116/index.m3u8?wmsAuthSign=1583068325p031i85i702i28Scb52662d2963579ab8fdcd8605ec8f9e
 #EXTINF:0,Наука 2.0
 #EXTGRP: Познавательное
-http://ott-cdn.ucom.am/s98/index.m3u8
+http://50.7.231.220:8081/115/index.m3u8?wmsAuthSign=1583068279p031i85i702i28Sf9be642726e19a30de1d54ac449b5c62
 #EXTINF:0,История
 #EXTGRP: Познавательное
-http://46.32.68.167/s/live/419/86.169.51.136/0/0.m3u8
+http://50.7.231.220:8081/212/index.m3u8?wmsAuthSign=1583068116p031i85i702i28Sa907009275c53c0438e606ce988651b6
 #EXTINF:0,RT Документальный HD
 #EXTGRP: Познавательное
 https://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:0,Kosmo
+#EXTINF:0,Моя планета
 #EXTGRP: Познавательное
-http://persik.by/stream/7544/418760/10509.m3u8
+http://50.7.231.220:8081/118/index.m3u8?wmsAuthSign=1583068513p031i85i702i28S37df2f8d87307b1bb533f2751bfe769b
 #EXTINF:0,Оружие
 #EXTGRP: Познавательное
 https://rt-cache1.peers.tv/streaming/oruzhie/16/tvrec/playlist.m3u8
