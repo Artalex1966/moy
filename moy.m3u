@@ -2,18 +2,23 @@
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
 https://plbl.m9.lfstrm.tv/love_kino/normal/0/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr2&provider_id=5bbf1e6e7bf7c4facb5e43e8
-#EXTM3U
 #EXTINF:0,Любимое кино2
 #EXTGRP: Кино
 http://50.7.120.165:8081/nashe_lub_kino/index.m3u8?wmsAuthSign=325a629627edc042bdefa432a90680c0-1582989906-031i85i702i28
+#EXTINF:0,Любимое кино3
+#EXTGRP: Кино
+http://39dw.only4.tv/722/video.m3u8?token=M1bxsI3oZw
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=1582772992p031i85i702i28S1cfa1d1fac9b1f0276428848ef3583da
+http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 #EXTINF:0,Родное кино2
 #EXTGRP: Кино
 http://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
-#EXTINF:0,Родное кино 22
+#EXTINF:0,Родное кино3
+#EXTGRP: Кино
+http://39dw.only4.tv/115/video.m3u8?token=M1bxsI3oZw
+#EXTINF:0,Родное кино22
 #EXTGRP: Кино
 http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=1582772992p031i85i702i28S1cfa1d1fac9b1f0276428848ef3583da
 
@@ -82,7 +87,7 @@ http://50.7.231.220:8081/181/index.m3u8?wmsAuthSign=1583067636p031i85i702i28S68a
 
 #EXTINF:0,КИНОСЕМЬЯ
 #EXTGRP: Кино
-http://217.25.216.4:8085/udp/238.2.18.16:1234
+http://39dw.only4.tv/119/video.m3u8?token=M1bxsI3oZw
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
 http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1582773502p031i85i702i28S751d3d4200ad40e9d4feca8424d5cbff
@@ -90,13 +95,16 @@ http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1582773502p031i85i702i28S751
 #EXTINF:0,КИНОКОМЕДИЯ
 #EXTGRP: Кино
 http://50.7.231.220:8081/129/index.m3u8?wmsAuthSign=1582773756p031i85i702i28S8cdf1fc88020a8543a8d3f0577cce4f4
-#EXTINF:0,КИНОКОМЕДИЯ 2
+#EXTINF:0,КИНОСВИДАНИЕ
 #EXTGRP: Кино
-http://50.7.231.220:8081/129/index.m3u8?wmsAuthSign=1583067408p031i85i702i28Sb63a07e7c733172c1f7e9f1697ecc6cc
+http://39dw.only4.tv/106/video.m3u8?token=M1bxsI3oZw
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
 http://50.7.172.58:8081/593/index.m3u8?wmsAuthSign=1583067754p031i85i702i28S374212c1afeb175159fce02330a593fc
+#EXTINF:0,МУЖСКОЕ КИНО 2
+#EXTGRP: Кино
+http://51.15.209.76:8081/video/muzh-kino/chunks.m3u8?nimblesessionid=3874515&wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjAgODo0MDowNSBBTSZoYXNoX3ZhbHVlPUhrK1FuN0h2K2lsbWVjVmNjRUJLR2c9PSZ2YWxpZG1pbnV0ZXM9MjU=&__fvd__
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
 http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1582793351p031i85i702i28Sd0d2c1b8be8846118ce43ab2214a9467
@@ -113,7 +121,7 @@ http://ultotv.ru:8888/live/uhd/playlist.m3u8
 https://v2.catcast.me/content/36251/index.m3u8
 #EXTINF:0,Видеосалон VHS 2
 #EXTGRP: Кино
-https://hls.myvideocontent.ru/hls2/vhs_tv/index.m3u8
+http://mnogotv.club/hls/channel-1/index.m3u8
 
 #EXTINF:0,КИНОПАБ Фантастика
 #EXTGRP: Кино
@@ -181,7 +189,7 @@ http://50.7.231.220:8081/156/index.m3u8?wmsAuthSign=1582792929p031i85i702i28Sab1
 http://45.10.140.200:81/udp/230.3.4.228:5678
 #EXTINF:0,ДЕТСКИЙ МИР
 #EXTGRP: Детям
-https://s20585.glaz.tv:8082/liveg/dmir.stream/chunks.m3u8?nimblesessionid=1451784644&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOC8yMDIwIDEyOjU3OjExIFBNJmhhc2hfdmFsdWU9aHRieWJvOGg4SG05MkhtSHJ2ZDNwUT09JnZhbGlkbWludXRlcz0yMDA=
+http://188.113.190.12/153/video.m3u8
 
 
 #EXTINF:0,Первый канал
@@ -257,7 +265,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?versio
 http://188.35.9.11:21151/udp/188k
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
-http://213.174.8.7:8000/play/24/index.m3u8
+http://188.113.190.12/88/video.m3u8
 #EXTINF:0,Т24
 #EXTGRP: Познавательное
 http://50.7.231.220:8081/116/index.m3u8?wmsAuthSign=1583068325p031i85i702i28Scb52662d2963579ab8fdcd8605ec8f9e
@@ -342,5 +350,11 @@ http://188.35.9.11:2001/index.m3u8
 
 
 #EXTINF:0,«Плутовство» / «Хвост виляет собакой»
-#EXTGRP: Украина
+#EXTGRP: Фильмы
 https://vs1.cdnlast.com/s/379ea1ad822297e08cbc26d44f2c69d4/hd_720v/Wag.the.Dog_480.mp4
+#EXTINF:0,Собачья жизнь (2017)
+#EXTGRP: Фильмы
+https://nl3.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/hd_01/A.Dogs.Purpose.2017.BDRip.1080p_480.mp4
+#EXTINF:0,Собачья жизнь 2 (2019)
+#EXTGRP: Фильмы
+https://nl8.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/hd_30/A.Dogs.Journey.2019.BDRip.1080p_480.mp4
