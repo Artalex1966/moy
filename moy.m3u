@@ -61,7 +61,7 @@ http://v2.catcast.me/content/36506/index.m3u8
 https://streaming.spbtv.com/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzIwMmI4NjQ0LTgzMjgtNGZkMi1iZWU3LWY3NmI4NDg1MzlmNSIsInByb3RvY29sIjoiZGFzaCIsImRybSI6InNwYnR2Y2FzIiwic2Vzc2lvbl9pZCI6ImM0YWQ4M2MzLTc0MjktNGNlMi04MzI1LTEzYzk3YjEzNjdjZCIsImRvbWFpbl9uYW1lIjoic3RyZWFtaW5nLnNwYnR2LmNvbSIsImlwX2FkZHJlc3MiOiI4Mi4yMDcuNTguMTMwIiwiZXhwaXJhdGlvbl9kYXRlIjoiMjAyMC0wMi0yOVQxMzowNjoyOVoiLCJzdHJlYW1fbmFtZSI6IjEwNTQiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJtc2sifQ%3D%3D/MCwCFCnhGo9LBhpL4cC7-sB1RhUubqQMAhRVIoidULb2AzG1wp8QyIc1A9uAPA%3D%3D/ip_v5/1054.mpd?b_app_channel_id=6d4f5d52-4da0-41ac-814c-7d5abcac088f&b_app_id=spbtv_china&b_device_platform=Windows&b_device_uid=5d121b20-a461-474a-a697-b0c202f2d206&b_stream_sid=c4ad83c3-7429-4ce2-8325-13c97b1367cd&b_strmr_channel_id=1054
 #EXTINF:0,Советское кино
 #EXTGRP: Кино
-https://fr.strah.video:4444/live/sssrfilms/chunks.m3u8?nimblesessionid=4056905&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOC8yMDIwIDM6Mzg6NDggUE0maGFzaF92YWx1ZT1jVkdVbmNWVE9CZmZweDdQK0VOa1BRPT0mdmFsaWRtaW51dGVzPTMmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0JmlkPTU=&__fvd__
+http://re.strah.video:1234/play/sovkino?auth=zarin:RJsKR
 #EXTINF:0,Сделано в СССР
 #EXTGRP: Кино
 http://tv.ussr.icu/yufxiRZE/vl8SQzev/playlist.m3u8
@@ -121,14 +121,14 @@ http://ultotv.ru:8888/live/uhd/playlist.m3u8
 https://v2.catcast.me/content/36251/index.m3u8
 #EXTINF:0,Видеосалон VHS 2
 #EXTGRP: Кино
-http://mnogotv.club/hls/channel-1/index.m3u8
+http://re.strah.video:1234/play/kinozalvhshd?auth=zarin:RJsKR
 
 #EXTINF:0,КИНОПАБ Фантастика
 #EXTGRP: Кино
 https://or-be-01.mycdn.video/watch/scifi/index.m3u8?token=NJAZAMYQLP
 #EXTINF:0,Фантастика???
 #EXTGRP: Кино
-https://fr.strah.video:4444/live/fantastikahd/chunks.m3u8?nimblesessionid=4056861&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOC8yMDIwIDM6MzE6MzMgUE0maGFzaF92YWx1ZT15YVJoZk5uWWRIZy95WFArR01TdUlnPT0mdmFsaWRtaW51dGVzPTMmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3JmlkPTI=&__fvd__
+http://re.strah.video:1234/play/fantastikahd?auth=zarin:RJsKR
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
 http://v2.catcast.me/content/37388/index.m3u8
@@ -313,7 +313,7 @@ http://hls.goodgame.ru/hls/5346.m3u8
 http://193.46.210.28/stream/ja6tx3y37jd7v6882a9g5tc9wj4775vuf466fvp6kgcx4uaxtki8rzs85k3xgitipgin8x5u2pbskpkank7nngmjhaj79f3ejmxsixmrbmjzu7r2faw77qgd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
 #EXTINF:0,Бигуди2
 #EXTGRP: Украина
-http://playlist.hmara.tv:80/4a8a78be/3ce0bf78c681a6e676e7fdb2393d5f91c482cfa0.m3u8
+http://ru.flix-tv.ru:80/537893/948207/17
 #EXTINF:0,Бигуди3
 #EXTGRP: Украина
 http://ed2e017c.cbilant.com/iptv/3TFFXE9EC4GQG7/989/index.m3u
