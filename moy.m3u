@@ -61,13 +61,13 @@ http://v2.catcast.me/content/36506/index.m3u8
 https://streaming.spbtv.com/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzIwMmI4NjQ0LTgzMjgtNGZkMi1iZWU3LWY3NmI4NDg1MzlmNSIsInByb3RvY29sIjoiZGFzaCIsImRybSI6InNwYnR2Y2FzIiwic2Vzc2lvbl9pZCI6ImM0YWQ4M2MzLTc0MjktNGNlMi04MzI1LTEzYzk3YjEzNjdjZCIsImRvbWFpbl9uYW1lIjoic3RyZWFtaW5nLnNwYnR2LmNvbSIsImlwX2FkZHJlc3MiOiI4Mi4yMDcuNTguMTMwIiwiZXhwaXJhdGlvbl9kYXRlIjoiMjAyMC0wMi0yOVQxMzowNjoyOVoiLCJzdHJlYW1fbmFtZSI6IjEwNTQiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJtc2sifQ%3D%3D/MCwCFCnhGo9LBhpL4cC7-sB1RhUubqQMAhRVIoidULb2AzG1wp8QyIc1A9uAPA%3D%3D/ip_v5/1054.mpd?b_app_channel_id=6d4f5d52-4da0-41ac-814c-7d5abcac088f&b_app_id=spbtv_china&b_device_platform=Windows&b_device_uid=5d121b20-a461-474a-a697-b0c202f2d206&b_stream_sid=c4ad83c3-7429-4ce2-8325-13c97b1367cd&b_strmr_channel_id=1054
 #EXTINF:0,Советское кино
 #EXTGRP: Кино
-http://re.strah.video:1234/play/sovkino?auth=zarin:RJsKR
+https://fr.strah.video:4444/live/sssrfilms/chunks.m3u8?nimblesessionid=4123368&wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjAgMzowNzoxOSBQTSZoYXNoX3ZhbHVlPXRvTzFrc01jUWJCY0YwcTNsazg0U0E9PSZ2YWxpZG1pbnV0ZXM9MyZjaGVja2lwPXRydWUmc3RybV9sZW49MTQmaWQ9NQ==
 #EXTINF:0,Сделано в СССР
 #EXTGRP: Кино
 http://tv.ussr.icu/yufxiRZE/vl8SQzev/playlist.m3u8
 #EXTINF:0,Ностальгия
 #EXTGRP: Кино
-http://163.172.180.208:8081/tv/nostalgiya/chunks.m3u8?nimblesessionid=23463559&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOS8yMDIwIDEwOjMzOjUxIEFNJmhhc2hfdmFsdWU9Ym9vQlVnU2lyNThmNVlubDRNSXlGQT09JnZhbGlkbWludXRlcz03MjA=&__fvd__
+http://178.163.127.248:4022/udp/234.0.0.190:2000
 #EXTINF:0,Красная линия 
 #EXTGRP: Кино
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
@@ -104,7 +104,7 @@ http://39dw.only4.tv/106/video.m3u8?token=M1bxsI3oZw
 http://50.7.172.58:8081/593/index.m3u8?wmsAuthSign=1583067754p031i85i702i28S374212c1afeb175159fce02330a593fc
 #EXTINF:0,МУЖСКОЕ КИНО 2
 #EXTGRP: Кино
-http://51.15.209.76:8081/video/muzh-kino/chunks.m3u8?nimblesessionid=3874515&wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjAgODo0MDowNSBBTSZoYXNoX3ZhbHVlPUhrK1FuN0h2K2lsbWVjVmNjRUJLR2c9PSZ2YWxpZG1pbnV0ZXM9MjU=&__fvd__
+http://flussonic.azfiber.net:8080/RU-mujskoekino/index.m3u8
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
 http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1582793351p031i85i702i28Sd0d2c1b8be8846118ce43ab2214a9467
@@ -128,7 +128,7 @@ http://re.strah.video:1234/play/kinozalvhshd?auth=zarin:RJsKR
 https://or-be-01.mycdn.video/watch/scifi/index.m3u8?token=NJAZAMYQLP
 #EXTINF:0,Фантастика???
 #EXTGRP: Кино
-http://re.strah.video:1234/play/fantastikahd?auth=zarin:RJsKR
+https://fr.strah.video:4444/live/fantastikahd/chunks.m3u8?nimblesessionid=4123394&wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjAgMzowOTozNyBQTSZoYXNoX3ZhbHVlPWdycXQzRHBROTVXVDhpQVVFOVd0Ync9PSZ2YWxpZG1pbnV0ZXM9MyZjaGVja2lwPXRydWUmc3RybV9sZW49MTcmaWQ9Mg==
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
 http://v2.catcast.me/content/37388/index.m3u8
@@ -316,7 +316,7 @@ http://193.46.210.28/stream/ja6tx3y37jd7v6882a9g5tc9wj4775vuf466fvp6kgcx4uaxtki8
 http://ru.flix-tv.ru:80/537893/948207/17
 #EXTINF:0,Бигуди3
 #EXTGRP: Украина
-http://ed2e017c.cbilant.com/iptv/3TFFXE9EC4GQG7/989/index.m3u
+http://185.189.184.7:8888/Bigudi/index.m3u8?token=test
 #EXTINF:0,Enter Фильм
 #EXTGRP: Украина
 http://78.141.211.61:4000/28
