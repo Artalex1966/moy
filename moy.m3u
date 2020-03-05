@@ -87,7 +87,7 @@ http://50.7.231.220:8081/181/index.m3u8?wmsAuthSign=1583067636p031i85i702i28S68a
 
 #EXTINF:0,КИНОСЕМЬЯ
 #EXTGRP: Кино
-http://39dw.only4.tv/119/video.m3u8?token=M1bxsI3oZw
+http://ru.flix-tv.ru:80/537893/948207/80
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
 http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1582773502p031i85i702i28S751d3d4200ad40e9d4feca8424d5cbff
@@ -105,6 +105,8 @@ http://50.7.172.58:8081/593/index.m3u8?wmsAuthSign=1583067754p031i85i702i28S3742
 #EXTINF:0,МУЖСКОЕ КИНО 2
 #EXTGRP: Кино
 http://flussonic.azfiber.net:8080/RU-mujskoekino/index.m3u8
+#EXTINF:0,МУЖСКОЕ КИНО 3
+http://ru.flix-tv.ru:80/537893/948207/84
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
 http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1582793351p031i85i702i28Sd0d2c1b8be8846118ce43ab2214a9467
@@ -168,7 +170,7 @@ http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детям
-http://109.248.236.41:4433/udp/238.1.1.98:1234
+http://37.235.158.42:81/udp/225.50.64.45:1234
 #EXTINF:0,СоюзМультфильм
 #EXTGRP: Детям
 http://50.7.144.155:8081/souzmult/index.m3u8?wmsAuthSign=1582915982S75d9475894af93990f825b5ebc4b512cS031h85h702h28
@@ -200,7 +202,7 @@ http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA1/variant.m3u8?version=2
 #EXTINF:0,РТР Планета
 #EXTGRP: Хорошее
-https://s20585.glaz.tv:8082/liveg/rtrpl.stream/chunks.m3u8?nimblesessionid=1451782161&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOC8yMDIwIDEyOjUzOjQ5IFBNJmhhc2hfdmFsdWU9S3dLaG9xS1dyOGc2ak11R3V0dnZTQT09JnZhbGlkbWludXRlcz0yMDA=
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 
 #EXTINF:0,ВРЕМЯ
 #EXTGRP: Хорошее
@@ -262,10 +264,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?versio
 
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
-http://188.35.9.11:21151/udp/188k
+http://ru.flix-tv.ru:80/537893/948207/107
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
-http://188.113.190.12/88/video.m3u8
+http://ru.flix-tv.ru:80/537893/948207/106
 #EXTINF:0,Т24
 #EXTGRP: Познавательное
 http://50.7.231.220:8081/116/index.m3u8?wmsAuthSign=1583068325p031i85i702i28Scb52662d2963579ab8fdcd8605ec8f9e
@@ -288,12 +290,20 @@ https://rt-cache1.peers.tv/streaming/oruzhie/16/tvrec/playlist.m3u8
 #EXTGRP: Познавательное
 http://217.25.216.4:8085/udp/225.1.2.82:2020
 
+#EXTINF:0,Babes TV HD
+#EXTGRP: Познавательное
+http://ru.flix-tv.ru:80/537893/948207/213
+#EXTINF:0,Brazzers TV Europe
+#EXTGRP: Познавательное
+http://ru.flix-tv.ru:80/537893/948207/214
+#EXTINF:0,Русская ночь
+#EXTGRP: Познавательное
+http://ru.flix-tv.ru:80/537893/948207/217
+#EXTINF:0,Шалун HD
+#EXTGRP: Познавательное
+http://ru.flix-tv.ru:80/537893/948207/218
 
-#EXTGRP: Кинозал
-http://188.35.9.10:2022
-#EXTINF:0, Остросюжетное
-#EXTGRP: Кино
-http://188.35.9.10:2015
+
 #EXTINF:0, Films TV
 #EXTGRP: Кино
 https://hls.goodgame.ru/hls/165462.m3u8
