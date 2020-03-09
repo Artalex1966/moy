@@ -5,27 +5,17 @@ https://plbl.m9.lfstrm.tv/love_kino/normal/0/index.m3u8?account=3f378f7832e53c10
 #EXTINF:0,Любимое кино2
 #EXTGRP: Кино
 http://50.7.120.165:8081/nashe_lub_kino/index.m3u8?wmsAuthSign=325a629627edc042bdefa432a90680c0-1582989906-031i85i702i28
-#EXTINF:0,Любимое кино3
-#EXTGRP: Кино
-http://39dw.only4.tv/722/video.m3u8?token=M1bxsI3oZw
-
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
 http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 #EXTINF:0,Родное кино2
 #EXTGRP: Кино
 http://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
-#EXTINF:0,Родное кино3
-#EXTGRP: Кино
-http://39dw.only4.tv/115/video.m3u8?token=M1bxsI3oZw
 #EXTINF:0,Родное кино22
 #EXTGRP: Кино
 http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=1582772992p031i85i702i28S1cfa1d1fac9b1f0276428848ef3583da
 
 #EXTINF:0, Наше новое кино
-#EXTGRP: Кино
-http://51.15.78.31:8081/tv/nashe-novoe-kino/chunks.m3u8?nimblesessionid=11109635&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOS8yMDIwIDEwOjMwOjMyIEFNJmhhc2hfdmFsdWU9QU9yckFTUDQwL0hzdmVidGIvdmw2QT09JnZhbGlkbWludXRlcz03MjA=
-#EXTINF:0, Наше новое кино 2
 #EXTGRP: Кино
 https://rt-cache1.peers.tv/streaming/nashe_novoe_kino/16/copy/playlist.m3u8
 #EXTINF:0, Наше новое кино 22
@@ -35,12 +25,6 @@ http://50.7.231.220:8081/197/index.m3u8?wmsAuthSign=1582773104p031i85i702i28S217
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
 https://rt-cache1.peers.tv/streaming/dom_kino/16/tvrecw/playlist.m3u8
-#EXTINF:0,Дом Кино 2
-#EXTGRP: Кино
-http://195.18.23.20:8000/play/23/index.m3u8
-#EXTINF:0,Дом Кино 3
-#EXTGRP: Кино
-http://russia.livetv.az/russia/dom_kino/playlist.m3u8
 #EXTINF:0,Дом Кино 33
 #EXTGRP: Кино
 http://50.7.172.58:8081/555/index.m3u8?wmsAuthSign=1582772860p031i85i702i28Sab18e06b9f5964228e2dc195e9c17585
@@ -97,7 +81,7 @@ http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1582773502p031i85i702i28S751
 http://50.7.231.220:8081/129/index.m3u8?wmsAuthSign=1582773756p031i85i702i28S8cdf1fc88020a8543a8d3f0577cce4f4
 #EXTINF:0,КИНОСВИДАНИЕ
 #EXTGRP: Кино
-http://39dw.only4.tv/106/video.m3u8?token=M1bxsI3oZw
+
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
@@ -105,8 +89,7 @@ http://50.7.172.58:8081/593/index.m3u8?wmsAuthSign=1583067754p031i85i702i28S3742
 #EXTINF:0,МУЖСКОЕ КИНО 2
 #EXTGRP: Кино
 http://flussonic.azfiber.net:8080/RU-mujskoekino/index.m3u8
-#EXTINF:0,МУЖСКОЕ КИНО 3
-http://ru.flix-tv.ru:80/537893/948207/84
+
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
 http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1582793351p031i85i702i28Sd0d2c1b8be8846118ce43ab2214a9467
@@ -118,12 +101,7 @@ http://50.7.144.155:8081/kino_tv/index.m3u8?wmsAuthSign=1582912859S40177d466eddc
 #EXTGRP: Кино
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
 
-#EXTINF:0,Видеосалон VHS
-#EXTGRP: Кино
-https://v2.catcast.me/content/36251/index.m3u8
-#EXTINF:0,Видеосалон VHS 2
-#EXTGRP: Кино
-http://re.strah.video:1234/play/kinozalvhshd?auth=zarin:RJsKR
+
 
 #EXTINF:0,КИНОПАБ Фантастика
 #EXTGRP: Кино
@@ -167,6 +145,12 @@ http://50.7.231.220:8081/170/index.m3u8?wmsAuthSign=1582792530p031i85i702i28S2bb
 #EXTINF:0, Классика кино HD
 #EXTGRP: Кино
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:0,Видеосалон VHS
+#EXTGRP: Кино
+https://v2.catcast.me/content/36251/index.m3u8
+#EXTINF:0,Видеосалон VHS 2
+#EXTGRP: Кино
+http://re.strah.video:1234/play/kinozalvhshd?auth=zarin:RJsKR
 
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детям
