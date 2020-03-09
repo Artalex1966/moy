@@ -81,7 +81,7 @@ http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1582773502p031i85i702i28S751
 http://50.7.231.220:8081/129/index.m3u8?wmsAuthSign=1582773756p031i85i702i28S8cdf1fc88020a8543a8d3f0577cce4f4
 #EXTINF:0,КИНОСВИДАНИЕ
 #EXTGRP: Кино
-
+http://85.143.191.135/42/9918c515f2c700ffb78c5ab3110c07b5bdeec93a/251/stream.m3u8
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
@@ -108,7 +108,7 @@ http://ultotv.ru:8888/live/uhd/playlist.m3u8
 https://or-be-01.mycdn.video/watch/scifi/index.m3u8?token=NJAZAMYQLP
 #EXTINF:0,Фантастика???
 #EXTGRP: Кино
-https://fr.strah.video:4444/live/fantastikahd/chunks.m3u8?nimblesessionid=4123394&wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjAgMzowOTozNyBQTSZoYXNoX3ZhbHVlPWdycXQzRHBROTVXVDhpQVVFOVd0Ync9PSZ2YWxpZG1pbnV0ZXM9MyZjaGVja2lwPXRydWUmc3RybV9sZW49MTcmaWQ9Mg==
+https;//dl.dropbox.com/s/u93z5bdl6vpk9xc/compilation058.m3u
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
 http://v2.catcast.me/content/37388/index.m3u8
@@ -150,7 +150,7 @@ http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 https://v2.catcast.me/content/36251/index.m3u8
 #EXTINF:0,Видеосалон VHS 2
 #EXTGRP: Кино
-http://re.strah.video:1234/play/kinozalvhshd?auth=zarin:RJsKR
+https://cdn-maxplanck.wasd.tv/live/302913/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детям
