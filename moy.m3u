@@ -42,7 +42,7 @@ http://autopilot.myowntv.org/content/36506/index.m3u8
 http://v2.catcast.me/content/36506/index.m3u8
 #EXTINF:0,TOP USSR
 #EXTGRP: Кино
-https://streaming.spbtv.com/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzIwMmI4NjQ0LTgzMjgtNGZkMi1iZWU3LWY3NmI4NDg1MzlmNSIsInByb3RvY29sIjoiZGFzaCIsImRybSI6InNwYnR2Y2FzIiwic2Vzc2lvbl9pZCI6ImM0YWQ4M2MzLTc0MjktNGNlMi04MzI1LTEzYzk3YjEzNjdjZCIsImRvbWFpbl9uYW1lIjoic3RyZWFtaW5nLnNwYnR2LmNvbSIsImlwX2FkZHJlc3MiOiI4Mi4yMDcuNTguMTMwIiwiZXhwaXJhdGlvbl9kYXRlIjoiMjAyMC0wMi0yOVQxMzowNjoyOVoiLCJzdHJlYW1fbmFtZSI6IjEwNTQiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJtc2sifQ%3D%3D/MCwCFCnhGo9LBhpL4cC7-sB1RhUubqQMAhRVIoidULb2AzG1wp8QyIc1A9uAPA%3D%3D/ip_v5/1054.mpd?b_app_channel_id=6d4f5d52-4da0-41ac-814c-7d5abcac088f&b_app_id=spbtv_china&b_device_platform=Windows&b_device_uid=5d121b20-a461-474a-a697-b0c202f2d206&b_stream_sid=c4ad83c3-7429-4ce2-8325-13c97b1367cd&b_strmr_channel_id=1054
+http://erp.toppro.xyz:8816/play/sssr?auth=kinoboom1806:kinoboom1806
 #EXTINF:0,Советское кино
 #EXTGRP: Кино
 https://fr.strah.video:4444/live/sssrfilms/chunks.m3u8?nimblesessionid=4123368&wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjAgMzowNzoxOSBQTSZoYXNoX3ZhbHVlPXRvTzFrc01jUWJCY0YwcTNsazg0U0E9PSZ2YWxpZG1pbnV0ZXM9MyZjaGVja2lwPXRydWUmc3RybV9sZW49MTQmaWQ9NQ==
@@ -90,6 +90,12 @@ http://50.7.172.58:8081/593/index.m3u8?wmsAuthSign=1583067754p031i85i702i28S3742
 #EXTGRP: Кино
 http://flussonic.azfiber.net:8080/RU-mujskoekino/index.m3u8
 
+#EXTINF:0,Боевик
+#EXTGRP: Кино
+https://tinyurl.com/v8777xz/action/index.m3u8?token=BO6ZXW40RH
+#EXTINF:0,KINO Хит
+#EXTGRP: Кино
+https://tinyurl.com/v8777xz/hit/index.m3u8?token=BO6ZXW40RH
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
 http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1582793351p031i85i702i28Sd0d2c1b8be8846118ce43ab2214a9467
@@ -106,6 +112,9 @@ http://ultotv.ru:8888/live/uhd/playlist.m3u8
 #EXTINF:0,КИНОПАБ Фантастика
 #EXTGRP: Кино
 https://or-be-01.mycdn.video/watch/scifi/index.m3u8?token=NJAZAMYQLP
+#EXTINF:0,Фантастика 1
+#EXTGRP: Кино
+https://tinyurl.com/v8777xz/scifi/index.m3u8?token=BO6ZXW40RH
 #EXTINF:0,Фантастика???
 #EXTGRP: Кино
 https;//dl.dropbox.com/s/u93z5bdl6vpk9xc/compilation058.m3u
@@ -147,10 +156,16 @@ http://50.7.231.220:8081/170/index.m3u8?wmsAuthSign=1582792530p031i85i702i28S2bb
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 #EXTINF:0,Видеосалон VHS
 #EXTGRP: Кино
-https://v2.catcast.me/content/36251/index.m3u8
+https://tinyurl.com/v8777xz/vhs/index.m3u8?token=BO6ZXW40RH
 #EXTINF:0,Видеосалон VHS 2
 #EXTGRP: Кино
 https://cdn-maxplanck.wasd.tv/live/302913/tracks-v1a1/mono.m3u8
+#EXTINF:0,Видеосалон VHS 3
+#EXTGRP: Кино
+https://v2.catcast.me/content/36251/index.m3u8
+#EXTINF:0,Музыка из прошлого (зарубежное)
+#EXTGRP: Кино
+http://95.188.107.89:1330/play/musicfrompasteng/index.m3u8?token=BnxG48_tZx54
 
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детям
@@ -341,6 +356,23 @@ http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
 #EXTINF:0,1+1
 #EXTGRP: Украина
 http://188.35.9.11:2001/index.m3u8
+
+#EXTINF:0,90er Hits
+#EXTGRP: Радио
+https://str.pcradio.ru/bayern_90er-hi
+#EXTINF:0,Cafe 80s FM
+#EXTGRP: Радио
+https://str.pcradio.ru/cafe80s_de-hi
+#EXTINF:0,FFH Die 80er
+#EXTGRP: Радио
+https://str.pcradio.ru/ffh_80er-hi
+#EXTINF:0,RMC Italia
+#EXTGRP: Радио
+https://str.pcradio.ru/rmc_italia-hi
+#EXTINF:0,RMN Relax
+#EXTGRP: Радио
+https://str.pcradio.ru/rmn_relax-hi
+
 
 
 #EXTINF:0,«Плутовство» / «Хвост виляет собакой»
