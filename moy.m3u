@@ -370,16 +370,16 @@ http://101.ru/api/channel/getServers/267/channel/MP3/128/dataFormat/mobile
 #EXTINF:0,Relax Nature
 #EXTGRP: Радио
 http://101.ru/api/channel/getServers/263/channel/MP3/128/dataFormat/mobile
-#EXTINF:0,Фоновая - Instrumental
+#EXTINF:0,Фон-Instrumental
 #EXTGRP: Радио
 http://101.ru/api/channel/getServers/28/channel/AAC/128/dataFormat/mobile
-#EXTINF:0,Фоновая - Sex
+#EXTINF:0,Фон-Sex
 #EXTGRP: Радио
 http://101.ru/api/channel/getServers/27/channel/AAC/128/dataFormat/mobile
-#EXTINF:0,Фоновая - Саундтреки
+#EXTINF:0,Фон-Саундтреки
 #EXTGRP: Радио
 http://101.ru/api/channel/getServers/25/channel/AAC/128/dataFormat/mobile
-#EXTINF:0,Электроника - Trance
+#EXTINF:0,Электр-Trance
 #EXTGRP: Радио
 http://101.ru/api/channel/getServers/19/channel/MP3/128/dataFormat/mobile
 
