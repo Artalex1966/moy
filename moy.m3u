@@ -357,6 +357,32 @@ http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
 #EXTGRP: Украина
 http://188.35.9.11:2001/index.m3u8
 
+
+#EXTINF:0,Relax Gold
+#EXTGRP: Радио
+http://101.ru/api/channel/getServers/266/channel/MP3/128/dataFormat/mobile
+#EXTINF:0,Relax Jazz
+#EXTGRP: Радио
+http://101.ru/api/channel/getServers/264/channel/MP3/128/dataFormat/mobile
+#EXTINF:0,Relax Life
+#EXTGRP: Радио
+http://101.ru/api/channel/getServers/267/channel/MP3/128/dataFormat/mobile
+#EXTINF:0,Relax Nature
+#EXTGRP: Радио
+http://101.ru/api/channel/getServers/263/channel/MP3/128/dataFormat/mobile
+#EXTINF:0,Фоновая - Instrumental
+#EXTGRP: Радио
+http://101.ru/api/channel/getServers/28/channel/AAC/128/dataFormat/mobile
+#EXTINF:0,Фоновая - Sex
+#EXTGRP: Радио
+http://101.ru/api/channel/getServers/27/channel/AAC/128/dataFormat/mobile
+#EXTINF:0,Фоновая - Саундтреки
+#EXTGRP: Радио
+http://101.ru/api/channel/getServers/25/channel/AAC/128/dataFormat/mobile
+#EXTINF:0,Электроника - Trance
+#EXTGRP: Радио
+http://101.ru/api/channel/getServers/19/channel/MP3/128/dataFormat/mobile
+
 #EXTINF:0,90er Hits
 #EXTGRP: Радио
 https://str.pcradio.ru/bayern_90er-hi
