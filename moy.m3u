@@ -108,6 +108,9 @@ http://50.7.144.155:8081/kino_tv/index.m3u8?wmsAuthSign=1582912859S40177d466eddc
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
 
 
+#EXTINF:0,КИНОПАБ Фантастика
+#EXTGRP: Кино
+https://or-be-01.mycdn.video:443/watch/scifi/tracks-v1a1/mono.m3u8?token=NSIKKQILJF
 #EXTINF:0,Фантастика 1
 #EXTGRP: Кино
 https://tinyurl.com/v8777xz/scifi/index.m3u8?token=BO6ZXW40RH
