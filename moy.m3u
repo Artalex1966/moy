@@ -108,22 +108,22 @@ http://50.7.144.155:8081/kino_tv/index.m3u8?wmsAuthSign=1582912859S40177d466eddc
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
 
 
-
-#EXTINF:0,КИНОПАБ Фантастика
-#EXTGRP: Кино
-https://or-be-01.mycdn.video/watch/scifi/index.m3u8?token=NJAZAMYQLP
 #EXTINF:0,Фантастика 1
 #EXTGRP: Кино
 https://tinyurl.com/v8777xz/scifi/index.m3u8?token=BO6ZXW40RH
-#EXTINF:0,Фантастика???
+#EXTINF:0,KINO.Фантастика
 #EXTGRP: Кино
-https;//dl.dropbox.com/s/u93z5bdl6vpk9xc/compilation058.m3u
+https://or-be-01.mycdn.video/watch/scifi/index.m3u8?token=NJAZAMYQLP
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
 http://v2.catcast.me/content/37388/index.m3u8
+
 #EXTINF:0,БОЕВИК TV
 #EXTGRP: Кино
 http://v2.catcast.me/content/37493/index.m3u8
+#EXTINF:0,KINO.Боевик
+#EXTGRP: Кино
+https://or-be-01.mycdn.video/watch/action/index.m3u8?token=NJAZAMYQLP
 
 #EXTINF:0,TV1000
 #EXTGRP: Кино
@@ -319,7 +319,7 @@ http://hls.goodgame.ru/hls/5346.m3u8
 
 #EXTINF:0,Бигуди
 #EXTGRP: Украина
-http://cdn.iptv.monster/play/2625/DB07206E889B4DB/mpegts
+http://185.189.184.7:8888/Bigudi/index.m3u8?token=test
 #EXTINF:0,Бигуди2
 #EXTGRP: Украина
 http://ru.flix-tv.ru:80/537893/948207/17
