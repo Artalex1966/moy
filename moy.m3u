@@ -2,24 +2,43 @@
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
 https://plbl.m9.lfstrm.tv/love_kino/normal/0/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr2&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:0,Любимое кино000
+#EXTGRP: Кино
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/lubimoe-kino.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
 http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=1582772992p031i85i702i28S1cfa1d1fac9b1f0276428848ef3583da
+#EXTINF:0,Родное кино
+#EXTGRP: Кино
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/rodnoje_kino.m3u8
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
 http://50.7.172.58:8081/555/index.m3u8?wmsAuthSign=1582772860p031i85i702i28Sab18e06b9f5964228e2dc195e9c17585
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
 http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1582773266p031i85i702i28Sc71c02c9dd604f65621c652c401974b3
+#EXTINF:0,Кинохит000
+#EXTGRP: Кино
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinohit.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
 http://50.7.172.58:8081/593/index.m3u8?wmsAuthSign=1583067754p031i85i702i28S374212c1afeb175159fce02330a593fc
+#EXTINF:0,МУЖСКОЕ КИНО000
+#EXTGRP: Кино
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/muzhskoe-kino.m3u8
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
 http://v2.catcast.me/content/37388/index.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
 http://50.7.144.155:8081/kino_tv/index.m3u8?wmsAuthSign=1582912859S40177d466eddc4afc5a137ca506af7ccS031h85h702h28
+#EXTINF:0,Кино ТВ000
+#EXTGRP: Кино
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kino-tv.m3u8
+#EXTINF:0,Кинопоказ 000
+#EXTGRP: Кино
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinopokaz.m3u8
+
 #EXTINF:0,БОЕВИК TV
 #EXTGRP: Кино
 http://v2.catcast.me/content/37493/index.m3u8
@@ -161,7 +180,7 @@ http://95.188.107.89:1330/play/musicfrompasteng/index.m3u8?token=BnxG48_tZx54
 
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детям
-http://37.235.158.42:81/udp/225.50.64.45:1234
+http://164.138.95.49:81/udp/239.191.255.29:13343
 #EXTINF:0,СоюзМультфильм
 #EXTGRP: Детям
 http://50.7.144.155:8081/souzmult/index.m3u8?wmsAuthSign=1582915982S75d9475894af93990f825b5ebc4b512cS031h85h702h28
@@ -215,6 +234,15 @@ http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:0, РЕН ТВ (+2) 
 #EXTGRP: Хорошее
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
+#EXTINF:0, РЕН ТВ (+4) 
+#EXTGRP: Хорошее
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_4.m3u8
+#EXTINF:0, РЕН ТВ (+6) 
+#EXTGRP: Хорошее
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_6.m3u8
+#EXTINF:0, РЕН ТВ (+7) 
+#EXTGRP: Хорошее
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_7.m3u8
 
 #EXTINF:0,Звезда
 #EXTGRP: Хорошее
@@ -280,8 +308,9 @@ https://rt-cache1.peers.tv/streaming/oruzhie/16/tvrec/playlist.m3u8
 #EXTINF:0,Оружие2
 #EXTGRP: Познавательное
 http://217.25.216.4:8085/udp/225.1.2.82:2020
-
-
+#EXTINF:0,Adult Channel [Russian]
+#EXTGRP: Познавательное
+http://live.redtraffic.xyz/russian.m3u8
 
 
 #EXTINF:0,КиноЗаказ 1
@@ -298,7 +327,7 @@ http://hls.goodgame.ru/hls/5346.m3u8
 http://185.189.184.7:8888/Bigudi/index.m3u8?token=test
 #EXTINF:0,Бигуди2
 #EXTGRP: Украина
-http://ru.flix-tv.ru:80/537893/948207/17
+http://185.189.184.7:8888/Bigudi/index.m3u8?token=test
 #EXTINF:0,Бигуди3
 #EXTGRP: Украина
 http://185.189.184.7:8888/Bigudi/index.m3u8?token=test
