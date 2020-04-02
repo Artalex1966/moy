@@ -31,7 +31,7 @@ http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/muzhskoe-kino.m3u8
 http://v2.catcast.me/content/37388/index.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://50.7.144.155:8081/kino_tv/index.m3u8?wmsAuthSign=1582912859S40177d466eddc4afc5a137ca506af7ccS031h85h702h28
+http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1585807154p261i001i87i591S048b1aa7d7b5fca4485eb965f9308761
 #EXTINF:0,Кино ТВ000
 #EXTGRP: Кино
 http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kino-tv.m3u8
