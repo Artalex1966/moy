@@ -54,6 +54,9 @@ http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1586031851p261i001i87i591Sc6
 #EXTINF:0,КИНОКОМЕДИЯ
 #EXTGRP: Кино
 http://50.7.231.220:8081/129/index.m3u8?wmsAuthSign=1586031668p261i001i87i591S95237cb6a798b82af27f3157eb68f159
+#EXTINF:0, Киносвидание
+#EXTGRP: Кино
+https://plbl.m9.lfstrm.tv/ntv_plus_kinoklub_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:0,Видеосалон VHS 3
 #EXTGRP: Кино
 https://v2.catcast.me/content/36251/index.m3u8
@@ -223,10 +226,12 @@ https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565110210/5a3ca
 #EXTGRP: Хорошее
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
 
-
+#EXTINF:0, Министерство идей
+#EXTGRP: Познавательное
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
-https://user11183.clients-cdnnow.ru/hls/Discovery_Science_HD/master.m3u8
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
 http://50.7.172.58:8081/520/index.m3u8?wmsAuthSign=1586031306p261i001i87i591S0781064e9e5a7d97756ee6e3eefc32f6
@@ -268,6 +273,9 @@ http://tjdl9ny5.ottclub.xyz/iptv/HEGT9LBYSSCDRW/1073/index.m3u8
 http://tjdl9ny5.ottclub.xyz/iptv/HEGT9LBYSSCDRW/1064/index.m3u8
 
 
+#EXTINF:0,RETRO М
+#EXTGRP: МУЗЫКА
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 
 #EXTINF:0,МУЖСКОЕ КИНО000
@@ -351,9 +359,5 @@ https://vs1.cdnlast.com/s/379ea1ad822297e08cbc26d44f2c69d4/hd_720v/Wag.the.Dog_4
 https://nl3.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/hd_01/A.Dogs.Purpose.2017.BDRip.1080p_480.mp4
 #EXTINF:0,Собачья жизнь 2 (2019)
 #EXTGRP: Фильмы
-https://nl8.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/hd_30/A.Dogs.Journey.2019.BDRip.1080p_480.mp4
-
-
-
 
 
