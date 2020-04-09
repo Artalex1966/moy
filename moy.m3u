@@ -5,6 +5,9 @@ https://plbl.m9.lfstrm.tv/love_kino/normal/0/index.m3u8?account=3f378f7832e53c10
 #EXTINF:0,Наше любимое HD
 #EXTGRP: Кино
 http://tjdl9ny5.ottclub.xyz/iptv/HEGT9LBYSSCDRW/2106/index.m3u8
+#EXTINF:0,Наше любимое HD2
+#EXTGRP: Кино
+http://78.129.228.178/iptv/8PAVMVMRNKW859/2106/index.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
 http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=1585952870p261i001i87i591S7083e72e4896931310af550b5ad61927
@@ -29,7 +32,9 @@ http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1585807154p261i001i87i591S048
 #EXTINF:0,Капитан Фантастика
 #EXTGRP: Кино
 http://tjdl9ny5.ottclub.xyz/iptv/HEGT9LBYSSCDRW/2098/index.m3u8
-
+#EXTINF:0,Победа
+#EXTGRP: Кино
+http://39dw.only4.tv/5534/video.m3u8?token=3TzgjoCHjt
 #EXTINF:0,БОЕВИК TV
 #EXTGRP: Кино
 http://v2.catcast.me/content/37493/index.m3u8
@@ -68,6 +73,75 @@ http://50.7.231.220:8081/187/index.m3u8?wmsAuthSign=1585726486p261i001i87i591S5b
 http://50.7.172.58:8081/510/index.m3u8?wmsAuthSign=1586032139p261i001i87i591S5cb85c745795b804574967af3b11c4e1
 
 
+#EXTINF:-1,Кинозал 1 (Марс-ТВ) 
+https://v2.catcast.tv/content/37033/index.m3u8
+#EXTINF:-1,Кинозал 2 (Сатурн-ТВ) 
+https://v2.catcast.tv/content/38118/index.m3u8
+#EXTINF:-1,Кинозал 3 (Луна-ТВ) 
+https://v2.catcast.tv/content/37032/index.m3u8
+#EXTINF:-1,Кинозал 4 (pznstreams) 
+https://hls.goodgame.ru/hls/12949_720.m3u8
+#EXTINF:-1,Кинозал 5 (ULTO) 
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1,Кинозал 6 (STR TV) 
+https://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:-1,Кинозал 7 (Film TV) 
+http://195.9.195.3:8080/hls/165462.m3u8
+#EXTINF:-1,Кинозал 8 (Фантастика) 
+https://v2.catcast.tv/content/37388/index.m3u8
+#EXTINF:-1,Кинозал 9 (Боевик TV) 
+https://v2.catcast.tv/content/37493/index.m3u8
+#EXTINF:-1,Кинозал 10 (KVN-HD) 
+http://hls.goodgame.ru:8080/hls/172148.m3u8
+#EXTINF:-1,Кинозал 11 (Zigfreed TV) 
+https://v2.catcast.tv/content/37713/index.m3u8
+#EXTINF:-1,Кинозал 12 (СССР EVGENIY) 
+https://v2.catcast.tv/content/36506/index.m3u8
+#EXTINF:-1,Кинозал 13 (Любимое индийское кино) 
+https://v2.catcast.tv/content/37353/index.m3u8
+#EXTINF:-1,Кинозал 14 (Сити Эдем TV) 
+https://v2.catcast.tv/content/34246/index.m3u8
+#EXTINF:-1,Кинозал 15 (Гал ТВ) 
+http://clients.apsny.camera/tv_gal_tv_hd_online/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Кинозал 16 (Дежавю) 
+https://v2.catcast.tv/content/37913/index.m3u8
+#EXTINF:-1,Кинозал 17 (Сити Эдем киноклассика) 
+https://v2.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1,Кинозал 18 (VHS 90s) 
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1,Кинозал 19 (VHS EVGENIY) 
+https://v2.catcast.tv/content/36251/index.m3u8
+#EXTINF:-1,Кинозал 20 (Ужасы EVGENIY)
+https://v2.catcast.tv/content/36277/index.m3u8
+#EXTINF:-1,Кинозал 21 (Russian Комедии EVGENIY)
+https://v2.catcast.tv/content/36168/index.m3u8
+#EXTINF:-1,Кинозал 22 (Кинорейс 1)
+http://timeshift.arpinet.am/228/tracks-v1a1/index.m3u8
+#EXTINF:-1,Кинозал 23 (Страшное BCHD)
+http://195.9.195.3:8080/hls/158135.m3u8
+#EXTINF:-1,Кинозал 24 (akudji) 
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,Кинозал 25 (Киносезон 1)
+https://5656.ga/ch1.m3u8
+#EXTINF:-1,Кинозал 26 (Киносезон 2)
+https://5656.ga/ch2.m3u8
+#EXTINF:-1,Кинозал 27 (Киносезон 3)
+https://5656.ga/ch3.m3u8
+#EXTINF:-1,Кинозал 28 (Киносезон 4)
+https://5656.ga/ch4.m3u8
+#EXTINF:-1,Кинозал 29 (Киносезон 5)
+https://5656.ga/ch5.m3u8
+#EXTINF:-1,Кинозал 30 (Киносезон 6)
+https://5656.ga/ch6.m3u8
+#EXTINF:-1,Кинозал 31 (SCTV)
+http://195.9.195.3:8080/hls/61358.m3u8
+#EXTINF:-1,Кинозал 32 (Eurodance Hits 90)
+https://autopilot.catcast.me/content/37614/index.m3u8
+
+
+
+
+
 
 
 #EXTINF:0,Красная линия 
@@ -75,7 +149,7 @@ http://50.7.172.58:8081/510/index.m3u8?wmsAuthSign=1586032139p261i001i87i591S5cb
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: Кино
-http://dmitry-tv.ru/his/itv_zabava/CH_MOSKVADOVERIE.m3u8
+http://78.129.228.178/iptv/8PAVMVMRNKW859/869/index.m3u8
 
 
 
@@ -120,9 +194,9 @@ https://tinyurl.com/v8777xz/vhs/index.m3u8?token=BO6ZXW40RH
 #EXTGRP: Кино
 https://cdn-maxplanck.wasd.tv/live/302913/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,Музыка из прошлого (зарубежное)
+#EXTINF:0,Ностальгия
 #EXTGRP: Кино
-http://95.188.107.89:1330/play/musicfrompasteng/index.m3u8?token=BnxG48_tZx54
+http://s1.only4.tv:82/117/video.m3u8?token=3TzgjoCHjt
 
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детям
@@ -359,5 +433,6 @@ https://vs1.cdnlast.com/s/379ea1ad822297e08cbc26d44f2c69d4/hd_720v/Wag.the.Dog_4
 https://nl3.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/hd_01/A.Dogs.Purpose.2017.BDRip.1080p_480.mp4
 #EXTINF:0,Собачья жизнь 2 (2019)
 #EXTGRP: Фильмы
+https://nl8.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/hd_30/A.Dogs.Journey.2019.BDRip.1080p_480.mp4
 
 
