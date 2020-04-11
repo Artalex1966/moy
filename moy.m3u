@@ -97,8 +97,8 @@ http://hls.goodgame.ru:8080/hls/172148.m3u8
 https://v2.catcast.tv/content/37713/index.m3u8
 #EXTINF:-1,Кинозал 12 (СССР EVGENIY) 
 https://v2.catcast.tv/content/36506/index.m3u8
-#EXTINF:-1,Кинозал 13 (Любимое индийское кино) 
-https://v2.catcast.tv/content/37353/index.m3u8
+#EXTINF:-1,Кинозал Антимайдан 
+http://hls.goodgame.ru/hls/6147.m3u8
 #EXTINF:-1,Кинозал 14 (Сити Эдем TV) 
 https://v2.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1,Кинозал 15 (Гал ТВ) 
@@ -137,8 +137,16 @@ https://5656.ga/ch6.m3u8
 http://195.9.195.3:8080/hls/61358.m3u8
 #EXTINF:-1,Кинозал 32 (Eurodance Hits 90)
 https://autopilot.catcast.me/content/37614/index.m3u8
-
-
+#EXTINF:-1,Кинозал Шарий
+http://hls.goodgame.ru/hls/71852.m3u8
+#EXTINF:-1,Кинозал Дядя Ваня HD
+http://hls.goodgame.ru/hls/54105.m3u8
+#EXTINF:-1,Кинозал NarodDip
+http://hls.goodgame.ru/hls/33226.m3u8
+#EXTINF:-1,Кинозал 36168. Evgen SERIAL
+http://v2.catcast.me/content/36168/index.m3u8
+#EXTINF:-1,Кинозал 36251. Evgen VHS
+http://v2.catcast.me/content/36251/index.m3u8
 
 
 
@@ -149,8 +157,7 @@ https://autopilot.catcast.me/content/37614/index.m3u8
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: Кино
-http://78.129.228.178/iptv/8PAVMVMRNKW859/869/index.m3u8
-
+http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 
 
 
@@ -277,12 +284,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/bw2000000/variant.m3u8?versi
 #EXTGRP: Хорошее
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8?version=2
 
-#EXTINF:0,Победа
-#EXTGRP: Хорошее
-http://5.61.48.23/42/d78706886f2980a7548cd40a6cd5c30eb678b76f/171/stream.m3u8
-#EXTINF:0,Победа 2
-#EXTGRP: Хорошее
-https://rt-cache1.peers.tv/streaming/pobeda/16/variable.m3u8
 
 
 
@@ -306,6 +307,9 @@ http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
 http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+#EXTINF:0,Discovery Science2
+#EXTGRP: Познавательное
+http://85.143.191.135/18/452e791b741394fbaba4a969/81/stream.m3u8
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
 http://50.7.172.58:8081/520/index.m3u8?wmsAuthSign=1586031306p261i001i87i591S0781064e9e5a7d97756ee6e3eefc32f6
