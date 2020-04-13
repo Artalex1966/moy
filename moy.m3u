@@ -22,6 +22,9 @@ http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1586031825p261i001i87i591S2c
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
 http://50.7.172.58:8081/593/index.m3u8?wmsAuthSign=1585726424p261i001i87i591S027b66eac574a3afe7d57b1b86c0f8d7
+#EXTINF:0,МУЖСКОЕ КИНО2
+#EXTGRP: Кино
+http://188.113.190.12/316/video.m3u8
 
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
@@ -29,9 +32,7 @@ http://v2.catcast.me/content/37388/index.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
 http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1585807154p261i001i87i591S048b1aa7d7b5fca4485eb965f9308761
-#EXTINF:0,Капитан Фантастика
-#EXTGRP: Кино
-http://tjdl9ny5.ottclub.xyz/iptv/HEGT9LBYSSCDRW/2098/index.m3u8
+
 #EXTINF:0,Победа
 #EXTGRP: Кино
 http://39dw.only4.tv/5534/video.m3u8?token=3TzgjoCHjt
@@ -229,6 +230,10 @@ http://45.10.140.200:81/udp/230.3.4.228:5678
 #EXTINF:0,ДЕТСКИЙ МИР
 #EXTGRP: Детям
 http://tjdl9ny5.ottclub.xyz/iptv/HEGT9LBYSSCDRW/543/index.m3u8
+#EXTINF:0,Капитан Фантастика
+#EXTGRP: Детям
+http://tjdl9ny5.ottclub.xyz/iptv/HEGT9LBYSSCDRW/2098/index.m3u8
+
 
 
 #EXTINF:0,Первый канал
@@ -438,5 +443,3 @@ https://nl3.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/hd_01/A.Dogs.Pu
 #EXTINF:0,Собачья жизнь 2 (2019)
 #EXTGRP: Фильмы
 https://nl8.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/hd_30/A.Dogs.Journey.2019.BDRip.1080p_480.mp4
-
-
