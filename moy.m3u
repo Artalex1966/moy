@@ -51,6 +51,21 @@ http://autopilot.myowntv.org/content/36506/index.m3u8
 #EXTINF:0,СССР2
 #EXTGRP: Кино
 http://v2.catcast.me/content/36506/index.m3u8
+#EXTINF:0,Сделано в СССР
+#EXTGRP: Кино
+http://cdn-xdux85qh.ott-iptv.club/5u6l7yon/ussr/playlist.m3u8
+#EXTINF:0,TOP USSR HD
+#EXTGRP: Кино
+http://topchantv.net:3456/sidimdoma1/sidimdoma1/6641
+#EXTINF:0,TOP 80s HD
+#EXTGRP: Кино
+http://topchantv.net:3456/sidimdoma1/sidimdoma1/277
+#EXTINF:0,TOP Cinema HD
+#EXTGRP: Кино
+http://topchantv.net:3456/sidimdoma1/sidimdoma1/1611
+#EXTINF:0,TOP ДЕЖАВЮ
+#EXTGRP: Кино
+http://v2.catcast.me/content/37913/index.m3u8
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
 http://50.7.231.220:8081/181/index.m3u8?wmsAuthSign=1586031721p261i001i87i591S8818b7a1801afb0b6e9edc9c8d47dec0
@@ -443,3 +458,6 @@ https://nl3.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/hd_01/A.Dogs.Pu
 #EXTINF:0,Собачья жизнь 2 (2019)
 #EXTGRP: Фильмы
 https://nl8.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/hd_30/A.Dogs.Journey.2019.BDRip.1080p_480.mp4
+
+
+
