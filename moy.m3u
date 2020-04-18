@@ -28,7 +28,7 @@ http://v2.catcast.me/content/37388/index.m3u8
 http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1585807154p261i001i87i591S048b1aa7d7b5fca4485eb965f9308761
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
-http://50.7.120.165:8081/rain/index.m3u8?wmsAuthSign=3e423694ac2a5d8923c76e2fe3c58499-1587198297-261i001i87i591
+http://50.7.222.90:8081/kinopokaz/index.m3u8?wmsAuthSign=2aa8a81f80062286b5db5bcfcd1385c9-1587242085-261i001i87i591
 
 #EXTINF:0,Победа
 #EXTGRP: Кино
