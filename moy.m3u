@@ -45,9 +45,6 @@ http://50.7.231.220:8081/197/index.m3u8?wmsAuthSign=1586031748p261i001i87i591S8d
 #EXTINF:0,СССР
 #EXTGRP: Кино
 http://autopilot.myowntv.org/content/36506/index.m3u8
-#EXTINF:0,Советское
-#EXTGRP: Кино
-https://fr.strah.video:4444/live/sssrfilms/chunks.m3u8?nimblesessionid=4509935&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIwIDM6NDM6NDUgUE0maGFzaF92YWx1ZT1TUVZNeTMvaDI4aUhqOXNLVi84eUV3PT0mdmFsaWRtaW51dGVzPTMmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0JmlkPTU=&__fvd__
 #EXTINF:0,СССР2
 #EXTGRP: Кино
 http://v2.catcast.me/content/36506/index.m3u8
