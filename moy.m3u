@@ -2,6 +2,7 @@
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
 https://plbl.m9.lfstrm.tv/love_kino/normal/0/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr2&provider_id=5bbf1e6e7bf7c4facb5e43e8
+
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
 http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=1585952870p261i001i87i591S7083e72e4896931310af550b5ad61927
@@ -20,6 +21,7 @@ http://50.7.172.58:8081/593/index.m3u8?wmsAuthSign=1585726424p261i001i87i591S027
 #EXTGRP: Кино
 http://188.113.190.12/316/video.m3u8
 
+
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
 http://v2.catcast.me/content/37388/index.m3u8
@@ -30,9 +32,9 @@ http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1585807154p261i001i87i591S048
 #EXTGRP: Кино
 http://50.7.222.90:8081/kinopokaz/index.m3u8?wmsAuthSign=2aa8a81f80062286b5db5bcfcd1385c9-1587242085-261i001i87i591
 
-#EXTINF:0,Победа
+#EXTINF:0,VHS 90s
 #EXTGRP: Кино
-http://109.95.47.249:12265/1015
+http://v2.catcast.me/content/37925/index.m3u8
 #EXTINF:0,БОЕВИК TV
 #EXTGRP: Кино
 http://v2.catcast.me/content/37493/index.m3u8
@@ -45,6 +47,7 @@ http://50.7.231.220:8081/197/index.m3u8?wmsAuthSign=1586031748p261i001i87i591S8d
 #EXTINF:0,СССР
 #EXTGRP: Кино
 http://autopilot.myowntv.org/content/36506/index.m3u8
+
 #EXTINF:0,СССР2
 #EXTGRP: Кино
 http://v2.catcast.me/content/36506/index.m3u8
@@ -63,6 +66,9 @@ http://topchantv.net:3456/sidimdoma1/sidimdoma1/1611
 #EXTINF:0,TOP ДЕЖАВЮ
 #EXTGRP: Кино
 http://v2.catcast.me/content/37913/index.m3u8
+#EXTINF:0,BEST Films HD
+#EXTGRP: Кино
+https://fr.strah.video:4444/live/bestfilmshd/chunks.m3u8?nimblesessionid=4509978&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIwIDM6NDc6MDYgUE0maGFzaF92YWx1ZT1WUVE3R2hzRmRDam54QlhPMkxEZXdBPT0mdmFsaWRtaW51dGVzPTMmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE2JmlkPTM=&__fvd__
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
 http://50.7.231.220:8081/181/index.m3u8?wmsAuthSign=1586031721p261i001i87i591S8818b7a1801afb0b6e9edc9c8d47dec0
@@ -84,6 +90,10 @@ http://50.7.231.220:8081/187/index.m3u8?wmsAuthSign=1585726486p261i001i87i591S5b
 #EXTINF:0,Комедия
 #EXTGRP: Кино
 http://50.7.172.58:8081/510/index.m3u8?wmsAuthSign=1586032139p261i001i87i591S5cb85c745795b804574967af3b11c4e1
+#EXTINF:0,Ностальгия
+#EXTGRP: Кино
+http://50.7.222.90:8081/nostalgiya/index.m3u8?wmsAuthSign=7f0f13476c76823e87f65831ece19fcf-1587242423-261i001i87i591
+
 
 
 #EXTINF:-1,Кинозал 1 (Марс-ТВ) 
@@ -458,3 +468,5 @@ https://nl3.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/hd_01/A.Dogs.Pu
 #EXTINF:0,Собачья жизнь 2 (2019)
 #EXTGRP: Фильмы
 https://nl8.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/hd_30/A.Dogs.Journey.2019.BDRip.1080p_480.mp4
+
+
