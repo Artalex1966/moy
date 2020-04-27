@@ -16,11 +16,10 @@ http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1586031825p261i001i87i591S2c
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://50.7.172.58:8081/593/index.m3u8?wmsAuthSign=1585726424p261i001i87i591S027b66eac574a3afe7d57b1b86c0f8d7
+http://50.7.222.90:8081/myz_kino/index.m3u8?wmsAuthSign=07ece68b59daf128f860d3041fde4ef6-1588020411-261i001i87i591
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
-http://188.113.190.12/316/video.m3u8
-
+http://50.7.172.20:8081/s4g_myz_kino/index.m3u8?wmsAuthSign=1588020594S9d0bb5c905f7869e603af7e3fd108abfS261h001h87h591
 
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
@@ -453,20 +452,4 @@ http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
 #EXTINF:0,1+1
 #EXTGRP: Украина
 http://188.35.9.11:2001/index.m3u8
-
-
-
-
-
-
-#EXTINF:0,«Плутовство» / «Хвост виляет собакой»
-#EXTGRP: Фильмы
-https://vs1.cdnlast.com/s/379ea1ad822297e08cbc26d44f2c69d4/hd_720v/Wag.the.Dog_480.mp4
-#EXTINF:0,Собачья жизнь (2017)
-#EXTGRP: Фильмы
-https://nl3.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/hd_01/A.Dogs.Purpose.2017.BDRip.1080p_480.mp4
-#EXTINF:0,Собачья жизнь 2 (2019)
-#EXTGRP: Фильмы
-https://nl8.cdnlast.com/s/52379ea1ad822297e0cf8cbc26d44f2c69d43a/hd_30/A.Dogs.Journey.2019.BDRip.1080p_480.mp4
-
 
