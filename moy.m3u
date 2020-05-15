@@ -59,23 +59,20 @@ http://v2.catcast.me/content/36506/index.m3u8
 http://cdn-xdux85qh.ott-iptv.club/5u6l7yon/ussr/playlist.m3u8
 #EXTINF:0,TOP USSR HD
 #EXTGRP: Кино
-http://topchantv.net:3456/Sidimdoma100/p2ZSYH2JKP/6641
+http://topchantv.net:3456/cdn911_chanks/6UFdOv3dfc/6641
 #EXTINF:0,TOP 80s HD
 #EXTGRP: Кино
-http://topchantv.net:3456/Sidimdoma100/p2ZSYH2JKP/277
+http://topchantv.net:3456/cdn911_chanks/6UFdOv3dfc/277
 #EXTINF:0,TOP Cinema HD
 #EXTGRP: Кино
 http://topchantv.net:3456/Sidimdoma100/p2ZSYH2JKP/1611
 #EXTINF:0,TOP BUDO HD
 #EXTGRP: Кино
-http://topchantv.net:3456/Sidimdoma100/p2ZSYH2JKP/428
+http://topchantv.net:3456/cdn911_chanks/6UFdOv3dfc/428
 
 #EXTINF:0,TOP ДЕЖАВЮ
 #EXTGRP: Кино
 http://v2.catcast.me/content/37913/index.m3u8
-#EXTINF:0,BEST Films HD
-#EXTGRP: Кино
-https://fr.strah.video:4444/live/bestfilmshd/chunks.m3u8?nimblesessionid=4509978&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIwIDM6NDc6MDYgUE0maGFzaF92YWx1ZT1WUVE3R2hzRmRDam54QlhPMkxEZXdBPT0mdmFsaWRtaW51dGVzPTMmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE2JmlkPTM=&__fvd__
 
 #EXTINF:0,Красная линия 
 #EXTGRP: Кино
@@ -460,6 +457,8 @@ http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
 #EXTINF:0,1+1
 #EXTGRP: Украина
 http://188.35.9.11:2001/index.m3u8
+
+
 
 
 
