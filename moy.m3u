@@ -15,6 +15,9 @@ http://50.7.172.58:8081/179/index.m3u8?wmsAuthSign=1589751793p261i001i87i591S9ae
 #EXTINF:0,Родное кино 2
 #EXTGRP: Кино
 http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
+#EXTINF:0,Родное кино 3
+#EXTGRP: Кино
+http://cdn.ottg.tv/7965/video.m3u8?username=gggx&password=gfkiteorfc&token=6060c0d569919ca6841471453c586bc2&ch_id=240&req_host=pkjX3BL
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
