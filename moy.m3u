@@ -2,31 +2,68 @@
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
 http://50.7.172.58:8081/534/index.m3u8?wmsAuthSign=1589750887p261i001i87i591S1fbb469b6f1d78687e661233f2889002
+#EXTINF:0,Любимое кино2
+#EXTGRP: Кино
+http://88.216.80.254/nashe_kino/index.m3u8?token=test
+#EXTINF:0,Любимое кино3
+#EXTGRP: Кино
+http://cdn.ottg.tv/8314/video.m3u8?username=gggx&password=gfkiteorfc&token=6060c0d569919ca6841471453c586bc2&ch_id=405&req_host=pkjX3BL
+
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
 http://50.7.172.58:8081/179/index.m3u8?wmsAuthSign=1589751793p261i001i87i591S9ae1470f979c8740a98b67776c6d3517
+#EXTINF:0,Родное кино 2
+#EXTGRP: Кино
+http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
 http://50.7.172.58:8081/555/index.m3u8?wmsAuthSign=1585725796p261i001i87i591S7a4ee94f05e87938f63b0d9b6f1d3793
+#EXTINF:0,Дом Кино2
+#EXTGRP: Кино
+http://185.22.183.152:8085/media/hls_183_152/domkino_hq/index.m3u8
+
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
 http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1589751902p261i001i87i591Sd37e459d2a841e4f1ecdb8fc00a5fff3
+#EXTINF:0,Кинохит 2
+#EXTGRP: Кино
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:0,Кинохит 3
+#EXTGRP: Кино
+http://cdn.ottg.tv/3955/video.m3u8?username=gggx&password=gfkiteorfc&token=6060c0d569919ca6841471453c586bc2&ch_id=237&req_host=pkjX3BL
+
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
 http://50.7.231.220:8081/593/index.m3u8?wmsAuthSign=1589751850p261i001i87i591S745755cbfa81d11053d9711b4c0ff1d6
+#EXTINF:0,МУЖСКОЕ КИНО 2
+#EXTGRP: Кино
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
 http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1585726197p261i001i87i591Sb118c509c5c56c0315491bfe65c3474d
+#EXTINF:0,Остросюжетное Кино2
+#EXTGRP: Кино
+http://cdn.ottg.tv/4999/video.m3u8?username=gggx&password=gfkiteorfc&token=6060c0d569919ca6841471453c586bc2&ch_id=692&req_host=pkjX3BL
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
 http://v2.catcast.me/content/37388/index.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
 http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1585807154p261i001i87i591S048b1aa7d7b5fca4485eb965f9308761
+#EXTINF:0,Кино ТВ2
+#EXTGRP: Кино
+http://cdn.ottg.tv/8409/video.m3u8?username=gggx&password=gfkiteorfc&token=6060c0d569919ca6841471453c586bc2&ch_id=770&req_host=pkjX3BL
+
+
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
 http://50.7.222.90:8081/kinopokaz/index.m3u8?wmsAuthSign=2aa8a81f80062286b5db5bcfcd1385c9-1587242085-261i001i87i591
+#EXTINF:0,КиноПоказ2
+#EXTGRP: Кино
+http://185.22.183.147:8085/media/hls_183_147/kinopokaz/index.m3u8
+
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
 http://50.7.231.220:8081/181/index.m3u8?wmsAuthSign=1586031721p261i001i87i591S8818b7a1801afb0b6e9edc9c8d47dec0
@@ -48,7 +85,9 @@ http://50.7.231.220:8081/197/index.m3u8?wmsAuthSign=1586031748p261i001i87i591S8d
 #EXTINF:0,СССР
 #EXTGRP: Кино
 http://autopilot.myowntv.org/content/36506/index.m3u8
-
+#EXTINF:0,СССР3
+#EXTGRP: Кино
+https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
 #EXTINF:0,СССР2
 #EXTGRP: Кино
 http://v2.catcast.me/content/36506/index.m3u8
@@ -455,11 +494,4 @@ http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
 #EXTINF:0,1+1
 #EXTGRP: Украина
 http://188.35.9.11:2001/index.m3u8
-
-
-
-
-
-
-
 
