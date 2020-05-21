@@ -115,9 +115,9 @@ http://50.7.231.220:8081/187/index.m3u8?wmsAuthSign=1585726486p261i001i87i591S5b
 #EXTINF:0,Комедия
 #EXTGRP: Кино
 http://50.7.172.58:8081/510/index.m3u8?wmsAuthSign=1586032139p261i001i87i591S5cb85c745795b804574967af3b11c4e1
-#EXTINF:0,Ностальгия
+#EXTINF:0,Победа
 #EXTGRP: Кино
-http://50.7.222.90:8081/nostalgiya/index.m3u8?wmsAuthSign=7f0f13476c76823e87f65831ece19fcf-1587242423-261i001i87i591
+http://185.22.183.157:8085/media/hls_183_157/pobeda/index.m3u8
 
 #EXTINF:0, Рен ТВ 
 #EXTGRP: Хорошее
