@@ -2,6 +2,10 @@
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
 http://50.7.172.58:8081/534/index.m3u8?wmsAuthSign=1589750887p261i001i87i591S1fbb469b6f1d78687e661233f2889002
+#EXTINF:0,Любимое кино2
+#EXTGRP: Кино
+http://109.248.63.9:1029/lubimoe_kino/index.m3u8
+
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
@@ -10,7 +14,9 @@ http://50.7.172.58:8081/179/index.m3u8?wmsAuthSign=1589751793p261i001i87i591S9ae
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
 http://50.7.172.58:8081/555/index.m3u8?wmsAuthSign=1585725796p261i001i87i591S7a4ee94f05e87938f63b0d9b6f1d3793
-
+#EXTINF:0,Дом Кино2
+#EXTGRP: Кино
+http://185.22.183.152:8085/media/hls_183_152/domkino_hq/index.m3u8
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
@@ -19,6 +25,10 @@ http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1589751902p261i001i87i591Sd3
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
 http://50.7.231.220:8081/593/index.m3u8?wmsAuthSign=1589751850p261i001i87i591S745755cbfa81d11053d9711b4c0ff1d6
+#EXTINF:0,МУЖСКОЕ КИНО2
+#EXTGRP: Кино
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+
 
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
@@ -34,7 +44,9 @@ http://50.7.231.220:8081/504/index.m3u8?wmsAuthSign=1589873530p261i001i87i591S2d
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
 http://50.7.222.90:8081/kinopokaz/index.m3u8?wmsAuthSign=6413cb45ef374c761b3f4c219c97c084-1589873577-261i001i87i591
-
+#EXTINF:0,КиноПоказ2
+#EXTGRP: Кино
+http://185.22.183.147:8085/media/hls_183_147/kinopokaz/index.m3u8
 
 
 #EXTINF:0,КИНОМИКС
@@ -383,16 +395,19 @@ http://217.25.216.4:8085/udp/225.1.2.82:2020
 http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:0,Brazzers TV Europe
 #EXTGRP: Познавательное
-http://tjdl9ny5.ottclub.xyz/iptv/HEGT9LBYSSCDRW/910/index.m3u8
-#EXTINF:0,Brazzers TV Europe2
+http://50.7.222.90:8081/brazzers_eu/index.m3u8?wmsAuthSign=ce7f6d6afe52e592178865ca04e855ea-1590047275-261i001i87i591
+#EXTINF:0,Sextosenso
 #EXTGRP: Познавательное
-http://tjdl9ny5.ottclub.xyz/iptv/HEGT9LBYSSCDRW/872/index.m3u8
-#EXTINF:0,Penthouse TV
+http://50.7.222.90:8081/sextosenso/index.m3u8?wmsAuthSign=1032326de502b53bab4c5b0b33612e8f-1590047385-261i001i87i591
+#EXTINF:0,Private TV
 #EXTGRP: Познавательное
-http://tjdl9ny5.ottclub.xyz/iptv/HEGT9LBYSSCDRW/1073/index.m3u8
-#EXTINF:0,Blue Hustler
+http://50.7.222.90:8081/private_hd/index.m3u8?wmsAuthSign=c7cdb266e066700187186b908ed5ff92-1590047451-261i001i87i591
+#EXTINF:0,Hustler HD
 #EXTGRP: Познавательное
-http://tjdl9ny5.ottclub.xyz/iptv/HEGT9LBYSSCDRW/1064/index.m3u8
+http://50.7.222.90:8081/hustlerhd/index.m3u8?wmsAuthSign=47ad9fc0b6857074c2b7bb85f65d187f-1590047150-261i001i87i591
+EXTINF:0,Playboy TV
+#EXTGRP: Познавательное
+http://50.7.222.90:8081/playboy/index.m3u8?wmsAuthSign=cc6e6db007f9a6121dc76642becf94d7-1590047313-261i001i87i591
 
 
 #EXTINF:0,RETRO М
