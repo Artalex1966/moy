@@ -6,10 +6,17 @@ http://50.7.172.58:8081/534/index.m3u8?wmsAuthSign=1589750887p261i001i87i591S1fb
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
 http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=1590083988p261i001i87i591Sb03379b8f81d53a46c3ae1e8c0342a3a
+#EXTINF:0,Родное кино2
+#EXTGRP: Кино
+http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
+
+#EXTINF:0,Любимое.TV (hd)
+#EXTGRP: Кино
+https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
-http://50.7.172.58:8081/555/index.m3u8?wmsAuthSign=1585725796p261i001i87i591S7a4ee94f05e87938f63b0d9b6f1d3793
+http://50.7.172.58:8081/555/index.m3u8?wmsAuthSign=1590212520p261i001i87i591Sce6f2edce19168e54212570646b49fad
 #EXTINF:0,Дом Кино2
 #EXTGRP: Кино
 http://185.22.183.152:8085/media/hls_183_152/domkino_hq/index.m3u8
@@ -17,6 +24,9 @@ http://185.22.183.152:8085/media/hls_183_152/domkino_hq/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
 http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1589751902p261i001i87i591Sd37e459d2a841e4f1ecdb8fc00a5fff3
+#EXTINF:0,Кинохит2
+#EXTGRP: Кино
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
@@ -28,14 +38,17 @@ https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
-http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1590086470p261i001i87i591S26fa87a12fe8b891f3050858c1ced132
+http://50.7.172.60:8081/578/index.m3u8?wmsAuthSign=1590212637p261i001i87i591S58201cfa2387a917cf90635bdb8b440f
+#EXTINF:0,Остросюжетное Кино2
+#EXTGRP: Кино
+http://188.35.9.11:2015
 
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
 http://v2.catcast.me/content/37388/index.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1590084143p261i001i87i591S4159fb9abac19503079a943ad18a9d46
+http://50.7.172.60:8081/504/index.m3u8?wmsAuthSign=1590212589p261i001i87i591S9fa531b231ea6b8c92f960db72bd3dd6
 
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
@@ -43,6 +56,9 @@ http://50.7.222.90:8081/kinopokaz/index.m3u8?wmsAuthSign=6413cb45ef374c761b3f4c2
 #EXTINF:0,КиноПоказ2
 #EXTGRP: Кино
 http://185.22.183.147:8085/media/hls_183_147/kinopokaz/index.m3u8
+#EXTINF:0,КиноПоказ3
+#EXTGRP: Кино
+http://188.35.9.11:2021
 
 
 #EXTINF:0,КИНОМИКС
