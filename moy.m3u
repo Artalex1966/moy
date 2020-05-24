@@ -6,6 +6,7 @@ http://50.7.172.58:8081/534/index.m3u8?wmsAuthSign=1589750887p261i001i87i591S1fb
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
 http://163.172.180.208:8081/tv/rodnoe-kino/chunks.m3u8?nimblesessionid=25685558&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIwIDEyOjU0OjA4IFBNJmhhc2hfdmFsdWU9dFlsN0x3d1F1dkJ0SjVKckxWZUtQQT09JnZhbGlkbWludXRlcz03MjA=&__fvd__
+
 #EXTINF:0,Родное кино2
 #EXTGRP: Кино
 http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
