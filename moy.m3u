@@ -14,7 +14,6 @@ http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 #EXTGRP: Кино
 http://185.162.8.175:6878/ace/manifest.m3u8?id=d0ca319ff96f596771f3f8ef887528eea95120de
 
-
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
 http://50.7.172.58:8081/555/index.m3u8?wmsAuthSign=1590212520p261i001i87i591Sce6f2edce19168e54212570646b49fad
