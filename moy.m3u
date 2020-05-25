@@ -11,10 +11,6 @@ http://83.172.32.25:8012/tv/nashekino
 #EXTGRP: Кино
 http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 
-#EXTINF:0,Любимое.TV (hd)
-#EXTGRP: Кино
-https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
-
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
 http://50.7.172.58:8081/555/index.m3u8?wmsAuthSign=1590212520p261i001i87i591Sce6f2edce19168e54212570646b49fad
