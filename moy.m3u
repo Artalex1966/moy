@@ -5,7 +5,7 @@ http://50.7.172.58:8081/534/index.m3u8?wmsAuthSign=1589750887p261i001i87i591S1fb
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://178.248.80.165/239.211.211.144/stream.m3u8
+http://83.172.32.25:8012/tv/nashekino
 
 #EXTINF:0,Родное кино2
 #EXTGRP: Кино
