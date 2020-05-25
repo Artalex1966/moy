@@ -48,7 +48,7 @@ http://v2.catcast.me/content/37388/index.m3u8
 http://50.7.172.60:8081/504/index.m3u8?wmsAuthSign=1590212589p261i001i87i591S9fa531b231ea6b8c92f960db72bd3dd6
 #EXTINF:0,Кино ТВ2
 #EXTGRP: Кино
-http://51.15.124.76:8081/video/kino-tv/chunks.m3u8?nimblesessionid=4613062&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIwIDE6MDM6NTcgUE0maGFzaF92YWx1ZT1MVGNLaHcwUXkxZGM1R2VSUVM2N3BnPT0mdmFsaWRtaW51dGVzPTI1&__fvd__
+http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1590393038p261i001i87i591S75a3475cadc34126e931bfddc196e604
 
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
