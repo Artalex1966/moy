@@ -60,6 +60,9 @@ http://185.22.183.147:8085/media/hls_183_147/kinopokaz/index.m3u8
 #EXTGRP: Кино
 http://188.35.9.11:2021
 
+#EXTINF:0,KVN-HD
+#EXTGRP: Кино
+http://hls.goodgame.ru:8080/hls/172148.m3u8
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
