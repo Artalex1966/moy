@@ -13,6 +13,9 @@ http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 #EXTINF:0,Родное кино3
 #EXTGRP: Кино
 http://185.162.8.175:6878/ace/manifest.m3u8?id=d0ca319ff96f596771f3f8ef887528eea95120de
+#EXTINF:0,Родное кино4
+#EXTGRP: Кино
+http://178.217.72.66/225.201.2.56/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
