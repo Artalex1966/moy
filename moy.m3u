@@ -5,7 +5,7 @@ http://50.7.172.58:8081/534/index.m3u8?wmsAuthSign=1589750887p261i001i87i591S1fb
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://hlstv.kem.211.ru/239.211.211.144/stream.m3u8
+http://178.248.80.165/239.211.211.144/stream.m3u8
 
 #EXTINF:0,Родное кино2
 #EXTGRP: Кино
@@ -29,7 +29,7 @@ http://185.22.183.152:8085/media/hls_183_152/domkino_hq/index.m3u8
 http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1589751902p261i001i87i591Sd37e459d2a841e4f1ecdb8fc00a5fff3
 #EXTINF:0,Кинохит2
 #EXTGRP: Кино
-http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+http://50.7.222.90:8081/kinoxit/index.m3u8?wmsAuthSign=642bccc07b542d71ecfd1fb8821abb2f-1590472870-261i001i87i591
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
