@@ -33,7 +33,7 @@ http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://50.7.172.58:8081/593/index.m3u8?wmsAuthSign=1590086573p261i001i87i591S3b2357bfffe541251b8a237b00b95961
+http://50.7.172.58:8081/593/index.m3u8?wmsAuthSign=1590471995p261i001i87i591S7a045c665e691703be864147e78da404
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
 https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
