@@ -51,10 +51,7 @@ http://188.35.9.11:2015
 http://v2.catcast.me/content/37388/index.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://50.7.172.60:8081/504/index.m3u8?wmsAuthSign=1590212589p261i001i87i591S9fa531b231ea6b8c92f960db72bd3dd6
-#EXTINF:0,Кино ТВ2
-#EXTGRP: Кино
-http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1590393038p261i001i87i591S75a3475cadc34126e931bfddc196e604
+http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1590472102p261i001i87i591S5b1096477050e1d12939b1ee8a49769c
 
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
@@ -69,6 +66,10 @@ http://188.35.9.11:2021
 #EXTINF:0,KVN-HD
 #EXTGRP: Кино
 http://hls.goodgame.ru:8080/hls/172148.m3u8
+#EXTINF:0,Иллюзион+
+#EXTGRP: Кино
+http://50.7.231.220:8081/130/index.m3u8?wmsAuthSign=1590472386p261i001i87i591S7594bd76a8d8c8bf6c6ae4cf99d87e92
+
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
@@ -88,6 +89,11 @@ http://50.7.231.220:8081/170/index.m3u8?wmsAuthSign=1588436228p261i001i87i591S56
 #EXTINF:0, Наше новое кино
 #EXTGRP: Кино
 http://50.7.231.220:8081/197/index.m3u8?wmsAuthSign=1586031748p261i001i87i591S8d38efd1db86713a87d9fe5510051f5e
+
+#EXTINF:0, Наше крутое
+#EXTGRP: Кино
+http://50.7.231.220:8081/171/index.m3u8?wmsAuthSign=1590472238p261i001i87i591S3ca761758d953929485c78a787d0fa68
+
 #EXTINF:0,СССР
 #EXTGRP: Кино
 http://v2.catcast.me/content/36506/index.m3u8
