@@ -1,56 +1,36 @@
 #EXTM3U
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://50.7.172.58:8081/534/index.m3u8?wmsAuthSign=1590564106p261i001i87i591S22039304d90edceb2703401982f9d5ca
+http://50.7.172.60:8081/534/index.m3u8?wmsAuthSign=1590600977p261i001i87i591S1c7efdba4fd73df6dbb5672a4321d35f
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=1590563578p261i001i87i591S9066ae900748aaac7349b688386bb803
-
-#EXTINF:0,Родное кино2
-#EXTGRP: Кино
-http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
-#EXTINF:0,Родное кино3
-#EXTGRP: Кино
-http://178.248.80.165/239.211.211.144/stream.m3u8
-#EXTINF:0,Родное кино4
-#EXTGRP: Кино
-http://178.217.72.66/225.201.2.56/tracks-v1a1/mono.m3u8
+http://50.7.231.221:8081/179/index.m3u8?wmsAuthSign=1590600640p261i001i87i591S5c0ada68e1551b4b159f9291c64aa0bb
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
-http://50.7.172.58:8081/555/index.m3u8?wmsAuthSign=1590563086p261i001i87i591Se07561fdead7cf6092656ec4c4012b4a
-#EXTINF:0,Дом Кино2
-#EXTGRP: Кино
-http://185.22.183.152:8085/media/hls_183_152/domkino_hq/index.m3u8
+http://50.7.172.58:8081/555/index.m3u8?wmsAuthSign=1590600589p261i001i87i591Seea81daa3d82e84af9eab6b17556ded5
+
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1590563903p261i001i87i591S4f5ba9021b10cbb9ba42114332f5ab06
-#EXTINF:0,Кинохит2
-#EXTGRP: Кино
-http://50.7.222.90:8081/kinoxit/index.m3u8?wmsAuthSign=642bccc07b542d71ecfd1fb8821abb2f-1590472870-261i001i87i591
+http://50.7.231.221:8081/200/index.m3u8?wmsAuthSign=1590600895p261i001i87i591Sb70710673333472d94df1af503b0cf5d
+
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://50.7.231.220:8081/181/index.m3u8?wmsAuthSign=1590563692p261i001i87i591S0eb8e6259f0a082a5cdc56afea8aa901
+http://50.7.231.221:8081/181/index.m3u8?wmsAuthSign=1590600865p261i001i87i591S5674524c32d85c14c649b399d1a006c1
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
-http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1590563844p261i001i87i591Sfd92214016aecd9a752dbb046490ecb1
+http://50.7.231.221:8081/203/index.m3u8?wmsAuthSign=1590600939p261i001i87i591Saab8d64eaa3ca3c6ff943678db4c5450
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://50.7.172.58:8081/593/index.m3u8?wmsAuthSign=1590563726p261i001i87i591S8c80a5ce46ed4eb60e9147af766bcea8
-#EXTINF:0,МУЖСКОЕ КИНО2
-#EXTGRP: Кино
-https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+http://50.7.172.60:8081/593/index.m3u8?wmsAuthSign=1590600813p261i001i87i591S2c2cc4b38dd3e1841cb1c816a9298eae
 
 
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
-http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1590563541p261i001i87i591S36ad39905370d663797be9b71b91f62c
-#EXTINF:0,Остросюжетное Кино2
-#EXTGRP: Кино
-http://188.35.9.11:2015
+http://50.7.172.60:8081/578/index.m3u8?wmsAuthSign=1590600686p261i001i87i591S484fb06907083c90e08e67d661865664
 
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
@@ -58,24 +38,19 @@ http://v2.catcast.me/content/37388/index.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1590564010p261i001i87i591Sf0da36fe05995b35cac7b37c5f0f83c3
+http://50.7.172.60:8081/504/index.m3u8?wmsAuthSign=1590600733p261i001i87i591S51b3e0371bb3d86c0a134d88546fb12f
 
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
 http://50.7.222.90:8081/kinopokaz/index.m3u8?wmsAuthSign=6413cb45ef374c761b3f4c219c97c084-1589873577-261i001i87i591
-#EXTINF:0,КиноПоказ2
-#EXTGRP: Кино
-http://185.22.183.147:8085/media/hls_183_147/kinopokaz/index.m3u8
-#EXTINF:0,КиноПоказ3
-#EXTGRP: Кино
-http://188.35.9.11:2021
+
 
 #EXTINF:0,KVN-HD
 #EXTGRP: Кино
 http://hls.goodgame.ru:8080/hls/172148.m3u8
 #EXTINF:0,Иллюзион+
 #EXTGRP: Кино
-http://50.7.231.220:8081/130/index.m3u8?wmsAuthSign=1590563619p261i001i87i591S09b32e6cd8c3e6db19da8080a67c2e0c
+http://50.7.231.221:8081/130/index.m3u8?wmsAuthSign=1590600765p261i001i87i591Sb79ee6a23b15a5a0d7a24f8b6821de9c
 
 
 
@@ -443,6 +418,33 @@ http://50.7.222.90:8081/playboy/index.m3u8?wmsAuthSign=cc6e6db007f9a6121dc76642b
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 
+#EXTINF:0,Родное кино2
+#EXTGRP: Кино
+http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
+#EXTINF:0,Родное кино3
+#EXTGRP: Кино
+http://178.248.80.165/239.211.211.144/stream.m3u8
+#EXTINF:0,Родное кино4
+#EXTGRP: Кино
+http://178.217.72.66/225.201.2.56/tracks-v1a1/mono.m3u8
+#EXTINF:0,КиноПоказ2
+#EXTGRP: Кино
+http://185.22.183.147:8085/media/hls_183_147/kinopokaz/index.m3u8
+#EXTINF:0,КиноПоказ3
+#EXTGRP: Кино
+http://188.35.9.11:2021
+#EXTINF:0,Дом Кино2
+#EXTGRP: Кино
+http://185.22.183.152:8085/media/hls_183_152/domkino_hq/index.m3u8
+#EXTINF:0,Кинохит2
+#EXTGRP: Кино
+http://50.7.222.90:8081/kinoxit/index.m3u8?wmsAuthSign=642bccc07b542d71ecfd1fb8821abb2f-1590472870-261i001i87i591
+#EXTINF:0,МУЖСКОЕ КИНО2
+#EXTGRP: Кино
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+#EXTINF:0,Остросюжетное Кино2
+#EXTGRP: Кино
+http://188.35.9.11:2015
 #EXTINF:0,МУЖСКОЕ КИНО000
 #EXTGRP: Кино
 http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/muzhskoe-kino.m3u8
@@ -461,6 +463,9 @@ http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kino-tv.m3u8
 #EXTINF:0,Кинопоказ 000
 #EXTGRP: Кино
 http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kinopokaz.m3u8
+
+
+
 
 #EXTINF:0,КиноЗаказ 1
 #EXTGRP: Кино
@@ -510,4 +515,3 @@ http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
 #EXTINF:0,1+1
 #EXTGRP: Украина
 http://188.35.9.11:2001/index.m3u8
-
