@@ -63,16 +63,16 @@ http://v2.catcast.me/content/37493/index.m3u8
 
 #EXTINF:0,Кинопоказ HD 2
 #EXTGRP: Кино
-http://50.7.231.220:8081/170/index.m3u8?wmsAuthSign=1588436228p261i001i87i591S5642105d5eb85290dbcfa4dd52dcf697
+http://50.7.231.221:8081/170/index.m3u8?wmsAuthSign=1590601658p261i001i87i591S7f93c213a836c5f3c451a0eb010c7c6f
 
 
 #EXTINF:0, Наше новое кино
 #EXTGRP: Кино
-http://50.7.231.220:8081/197/index.m3u8?wmsAuthSign=1590563322p261i001i87i591S18582b40dafb12f46897c56097ed24c6
+http://50.7.231.221:8081/197/index.m3u8?wmsAuthSign=1590601610p261i001i87i591Sc9dbbb0382435b709c1ebf2f79a2bae1
 
 #EXTINF:0, Наше крутое
 #EXTGRP: Кино
-http://50.7.231.220:8081/171/index.m3u8?wmsAuthSign=1590564064p261i001i87i591Sa88bd3a80be7cff75df4b1e306c47ef8
+http://50.7.231.221:8081/171/index.m3u8?wmsAuthSign=1590601528p261i001i87i591S6822eefe85cc49c8f9197edafb27818d
 
 #EXTINF:0,СССР
 #EXTGRP: Кино
@@ -374,22 +374,22 @@ http://85.143.191.135/18/452e791b741394fbaba4a969/81/stream.m3u8
 http://50.7.172.58:8081/520/index.m3u8?wmsAuthSign=1586031306p261i001i87i591S0781064e9e5a7d97756ee6e3eefc32f6
 #EXTINF:0,Т24
 #EXTGRP: Познавательное
-http://50.7.231.220:8081/116/index.m3u8?wmsAuthSign=1586031102p261i001i87i591Sd1b1d4abd2011a7943451869ef422dc3
+http://50.7.231.221:8081/116/index.m3u8?wmsAuthSign=1590602300p261i001i87i591Se8db73e30edbc334d6884cdfb82fd38e
 #EXTINF:0,Наука 2.0
 #EXTGRP: Познавательное
-http://50.7.231.220:8081/115/index.m3u8?wmsAuthSign=1586031037p261i001i87i591S233abb9e1d5d34386d77e55597f96eae
+http://50.7.231.221:8081/115/index.m3u8?wmsAuthSign=1590602263p261i001i87i591S15f27367dc6b932d51454526b2227749
 #EXTINF:0,История
 #EXTGRP: Познавательное
-http://50.7.231.220:8081/212/index.m3u8?wmsAuthSign=1586031070p261i001i87i591S74aec72ea1d36e577055859e820033d2
+http://50.7.231.221:8081/212/index.m3u8?wmsAuthSign=1590602459p261i001i87i591Sf4f42da27abc3437cc2d95f6b6d7e306
 #EXTINF:0,RT Документальный HD
 #EXTGRP: Познавательное
 https://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:0,Моя планета
 #EXTGRP: Познавательное
-http://50.7.231.220:8081/118/index.m3u8?wmsAuthSign=1585726730p261i001i87i591S30aa99ac74e8d1992189e0e49885488e
+http://50.7.231.221:8081/118/index.m3u8?wmsAuthSign=1590602374p261i001i87i591S4a3a09b66ba427c3bd048a7cd8993260
 #EXTINF:0,Оружие
 #EXTGRP: Познавательное
-http://50.7.231.220:8081/117/index.m3u8?wmsAuthSign=1586031151p261i001i87i591Sa843e239a97b2232a6eb229bb3822ac0
+http://50.7.231.221:8081/117/index.m3u8?wmsAuthSign=1590602345p261i001i87i591Sed9ffd6b7c519be83615f3d9df3ccd6f
 #EXTINF:0,Оружие2
 #EXTGRP: Познавательное
 http://217.25.216.4:8085/udp/225.1.2.82:2020
