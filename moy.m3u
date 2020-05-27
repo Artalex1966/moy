@@ -1,36 +1,36 @@
 #EXTM3U
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://50.7.172.60:8081/534/index.m3u8?wmsAuthSign=1590612216p261i001i87i591Sc9b990942a63767e36b7c4010d04a729
+http://50.7.172.60:8081/534/index.m3u8?wmsAuthSign=1590633378p261i001i87i591Sa6a0ed4207d5b4b5d68cabd005527a14
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://50.7.231.221:8081/179/index.m3u8?wmsAuthSign=1590600640p261i001i87i591S5c0ada68e1551b4b159f9291c64aa0bb
+http://50.7.231.221:8081/179/index.m3u8?wmsAuthSign=1590633342p261i001i87i591S16e62e8c7f8e7b6ff8e96c065768b836
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
-http://50.7.172.58:8081/555/index.m3u8?wmsAuthSign=1590600589p261i001i87i591Seea81daa3d82e84af9eab6b17556ded5
+http://50.7.172.60:8081/555/index.m3u8?wmsAuthSign=1590633055p261i001i87i591S493764b61150153cd9e28647c52f42fd
 
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://50.7.231.221:8081/200/index.m3u8?wmsAuthSign=1590600895p261i001i87i591Sb70710673333472d94df1af503b0cf5d
+http://50.7.231.221:8081/200/index.m3u8?wmsAuthSign=1590633306p261i001i87i591Sd41abc8fc3f91f5bdab7a0e8cf6d796d
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://50.7.231.221:8081/181/index.m3u8?wmsAuthSign=1590600865p261i001i87i591S5674524c32d85c14c649b399d1a006c1
+http://50.7.231.221:8081/181/index.m3u8?wmsAuthSign=1590633273p261i001i87i591Sf92537537e5543934a1f4df3c9dc55b0
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
-http://50.7.231.221:8081/203/index.m3u8?wmsAuthSign=1590600939p261i001i87i591Saab8d64eaa3ca3c6ff943678db4c5450
+http://50.7.231.221:8081/203/index.m3u8?wmsAuthSign=1590633245p261i001i87i591Sa28bcda9ba221cd7b61c4f17960ee292
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://50.7.172.60:8081/593/index.m3u8?wmsAuthSign=1590600813p261i001i87i591S2c2cc4b38dd3e1841cb1c816a9298eae
+http://50.7.172.60:8081/593/index.m3u8?wmsAuthSign=1590633214p261i001i87i591S0219144f166033e191e9b0f10cf03edc
 
 
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
-http://50.7.172.60:8081/578/index.m3u8?wmsAuthSign=1590600686p261i001i87i591S484fb06907083c90e08e67d661865664
+http://50.7.172.60:8081/578/index.m3u8?wmsAuthSign=1590633135p261i001i87i591S7a1f7741a76b60a9cfeacefbe46eb867
 
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
@@ -38,7 +38,7 @@ http://v2.catcast.me/content/37388/index.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://50.7.172.60:8081/504/index.m3u8?wmsAuthSign=1590600733p261i001i87i591S51b3e0371bb3d86c0a134d88546fb12f
+http://50.7.172.60:8081/504/index.m3u8?wmsAuthSign=1590633012p261i001i87i591S49eb6057dc46efea06761fe0e80f8239
 
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
@@ -50,16 +50,16 @@ http://50.7.222.90:8081/kinopokaz/index.m3u8?wmsAuthSign=6413cb45ef374c761b3f4c2
 http://hls.goodgame.ru:8080/hls/172148.m3u8
 #EXTINF:0,Иллюзион+
 #EXTGRP: Кино
-http://50.7.231.221:8081/130/index.m3u8?wmsAuthSign=1590600765p261i001i87i591Sb79ee6a23b15a5a0d7a24f8b6821de9c
+http://50.7.231.221:8081/130/index.m3u8?wmsAuthSign=1590633102p261i001i87i591S4ec79cc2883ba5e2c74474628e14c146
 
 
 
 #EXTINF:0,VHS 90s
 #EXTGRP: Кино
-http://v2.catcast.me/content/37925/index.m3u8
+http://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:0,БОЕВИК TV
 #EXTGRP: Кино
-http://v2.catcast.me/content/37493/index.m3u8
+https://v2.catcast.tv/content/37493/index.m3u8
 
 #EXTINF:0,Кинопоказ HD 2
 #EXTGRP: Кино
@@ -72,11 +72,14 @@ http://50.7.231.221:8081/197/index.m3u8?wmsAuthSign=1590601610p261i001i87i591Sc9
 
 #EXTINF:0, Наше крутое
 #EXTGRP: Кино
-http://50.7.231.221:8081/171/index.m3u8?wmsAuthSign=1590601528p261i001i87i591S6822eefe85cc49c8f9197edafb27818d
+http://50.7.231.221:8081/171/index.m3u8?wmsAuthSign=1590633176p261i001i87i591Sf22da5531ed8f2490a97a8e436365846
 
 #EXTINF:0,СССР
 #EXTGRP: Кино
 http://v2.catcast.me/content/36506/index.m3u8
+#EXTINF:0,СССР 01
+#EXTGRP: Кино
+https://v2.catcast.tv/content/36506/index.m3u8
 #EXTINF:0,СССР 222
 #EXTGRP: Кино
 https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
@@ -111,19 +114,19 @@ http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 
 #EXTINF:0,КИНОКОМЕДИЯ
 #EXTGRP: Кино
-http://50.7.231.220:8081/129/index.m3u8?wmsAuthSign=1590564198p261i001i87i591S6240f11b1cc21c7d6d9065f7b2e7da43
+http://50.7.231.221:8081/129/index.m3u8?wmsAuthSign=1590633541p261i001i87i591S5c5138386687d726a484356883821177
 #EXTINF:0, Киносвидание
 #EXTGRP: Кино
-http://50.7.172.58:8081/532/index.m3u8?wmsAuthSign=1590564147p261i001i87i591S37772f2a8109a6aa5b2845b08512aa34
+http://50.7.172.60:8081/532/index.m3u8?wmsAuthSign=1590633575p261i001i87i591S970d8f3fd16692964159545e149343a6
 #EXTINF:0,Видеосалон VHS 3
 #EXTGRP: Кино
 https://v2.catcast.me/content/36251/index.m3u8
 #EXTINF:0,Дом Кино Премиум HD
 #EXTGRP: Кино
-http://50.7.231.220:8081/187/index.m3u8?wmsAuthSign=1590563754p261i001i87i591S6d956cf7b1412243dec81d95c04daa9a
+http://50.7.231.221:8081/187/index.m3u8?wmsAuthSign=1590633480p261i001i87i591S63d82f0dba9baf7ff1a0adae0a9720db
 #EXTINF:0,Комедия
 #EXTGRP: Кино
-http://50.7.172.58:8081/510/index.m3u8?wmsAuthSign=1590564228p261i001i87i591S844a6880322635ed392ea1a3d01b2db9
+http://50.7.172.60:8081/510/index.m3u8?wmsAuthSign=1590633618p261i001i87i591Scb41e8f238285e6dbd52550351934a96
 #EXTINF:0,Победа
 #EXTGRP: Кино
 http://185.22.183.157:8085/media/hls_183_157/pobeda/index.m3u8
@@ -231,6 +234,8 @@ http://hls.goodgame.ru/hls/33226.m3u8
 http://v2.catcast.me/content/36168/index.m3u8
 #EXTINF:-1,Кинозал 36251. Evgen VHS
 http://v2.catcast.me/content/36251/index.m3u8
+
+
 
 
 
