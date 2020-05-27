@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://50.7.172.58:8081/534/index.m3u8?wmsAuthSign=1589750887p261i001i87i591S1fbb469b6f1d78687e661233f2889002
+http://50.7.172.58:8081/534/index.m3u8?wmsAuthSign=1590564106p261i001i87i591S22039304d90edceb2703401982f9d5ca
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://178.248.80.165/239.211.211.144/stream.m3u8
+http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=1590563578p261i001i87i591S9066ae900748aaac7349b688386bb803
 
 #EXTINF:0,Родное кино2
 #EXTGRP: Кино
@@ -19,21 +19,27 @@ http://178.217.72.66/225.201.2.56/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
-http://50.7.172.58:8081/555/index.m3u8?wmsAuthSign=1590212520p261i001i87i591Sce6f2edce19168e54212570646b49fad
+http://50.7.172.58:8081/555/index.m3u8?wmsAuthSign=1590563086p261i001i87i591Se07561fdead7cf6092656ec4c4012b4a
 #EXTINF:0,Дом Кино2
 #EXTGRP: Кино
 http://185.22.183.152:8085/media/hls_183_152/domkino_hq/index.m3u8
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1589751902p261i001i87i591Sd37e459d2a841e4f1ecdb8fc00a5fff3
+http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1590563903p261i001i87i591S4f5ba9021b10cbb9ba42114332f5ab06
 #EXTINF:0,Кинохит2
 #EXTGRP: Кино
 http://50.7.222.90:8081/kinoxit/index.m3u8?wmsAuthSign=642bccc07b542d71ecfd1fb8821abb2f-1590472870-261i001i87i591
+#EXTINF:0,КИНОМИКС
+#EXTGRP: Кино
+http://50.7.231.220:8081/181/index.m3u8?wmsAuthSign=1590563692p261i001i87i591S0eb8e6259f0a082a5cdc56afea8aa901
+#EXTINF:0,Кинопремьера
+#EXTGRP: Кино
+http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1590563844p261i001i87i591Sfd92214016aecd9a752dbb046490ecb1
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://50.7.172.58:8081/593/index.m3u8?wmsAuthSign=1590471995p261i001i87i591S7a045c665e691703be864147e78da404
+http://50.7.172.58:8081/593/index.m3u8?wmsAuthSign=1590563726p261i001i87i591S8c80a5ce46ed4eb60e9147af766bcea8
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
 https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
@@ -41,7 +47,7 @@ https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
-http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1590471908p261i001i87i591S276014440fb98e917fff17fc035e1801
+http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1590563541p261i001i87i591S36ad39905370d663797be9b71b91f62c
 #EXTINF:0,Остросюжетное Кино2
 #EXTGRP: Кино
 http://188.35.9.11:2015
@@ -49,9 +55,10 @@ http://188.35.9.11:2015
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
 http://v2.catcast.me/content/37388/index.m3u8
+
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1590472102p261i001i87i591S5b1096477050e1d12939b1ee8a49769c
+http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1590564010p261i001i87i591Sf0da36fe05995b35cac7b37c5f0f83c3
 
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
@@ -68,12 +75,10 @@ http://188.35.9.11:2021
 http://hls.goodgame.ru:8080/hls/172148.m3u8
 #EXTINF:0,Иллюзион+
 #EXTGRP: Кино
-http://50.7.231.220:8081/130/index.m3u8?wmsAuthSign=1590472386p261i001i87i591S7594bd76a8d8c8bf6c6ae4cf99d87e92
+http://50.7.231.220:8081/130/index.m3u8?wmsAuthSign=1590563619p261i001i87i591S09b32e6cd8c3e6db19da8080a67c2e0c
 
 
-#EXTINF:0,КИНОМИКС
-#EXTGRP: Кино
-http://50.7.231.220:8081/181/index.m3u8?wmsAuthSign=1586031721p261i001i87i591S8818b7a1801afb0b6e9edc9c8d47dec0
+
 #EXTINF:0,VHS 90s
 #EXTGRP: Кино
 http://v2.catcast.me/content/37925/index.m3u8
@@ -88,11 +93,11 @@ http://50.7.231.220:8081/170/index.m3u8?wmsAuthSign=1588436228p261i001i87i591S56
 
 #EXTINF:0, Наше новое кино
 #EXTGRP: Кино
-http://50.7.231.220:8081/197/index.m3u8?wmsAuthSign=1586031748p261i001i87i591S8d38efd1db86713a87d9fe5510051f5e
+http://50.7.231.220:8081/197/index.m3u8?wmsAuthSign=1590563322p261i001i87i591S18582b40dafb12f46897c56097ed24c6
 
 #EXTINF:0, Наше крутое
 #EXTGRP: Кино
-http://50.7.231.220:8081/171/index.m3u8?wmsAuthSign=1590472238p261i001i87i591S3ca761758d953929485c78a787d0fa68
+http://50.7.231.220:8081/171/index.m3u8?wmsAuthSign=1590564064p261i001i87i591Sa88bd3a80be7cff75df4b1e306c47ef8
 
 #EXTINF:0,СССР
 #EXTGRP: Кино
@@ -128,24 +133,22 @@ https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTGRP: Кино
 http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 
-#EXTINF:0,Кинопремьера
-#EXTGRP: Кино
-http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1586031851p261i001i87i591Sc63032b8f5f31a5542f7bd68597247e6
+
 #EXTINF:0,КИНОКОМЕДИЯ
 #EXTGRP: Кино
-http://50.7.231.220:8081/129/index.m3u8?wmsAuthSign=1586031668p261i001i87i591S95237cb6a798b82af27f3157eb68f159
+http://50.7.231.220:8081/129/index.m3u8?wmsAuthSign=1590564198p261i001i87i591S6240f11b1cc21c7d6d9065f7b2e7da43
 #EXTINF:0, Киносвидание
 #EXTGRP: Кино
-https://plbl.m9.lfstrm.tv/ntv_plus_kinoklub_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+http://50.7.172.58:8081/532/index.m3u8?wmsAuthSign=1590564147p261i001i87i591S37772f2a8109a6aa5b2845b08512aa34
 #EXTINF:0,Видеосалон VHS 3
 #EXTGRP: Кино
 https://v2.catcast.me/content/36251/index.m3u8
 #EXTINF:0,Дом Кино Премиум HD
 #EXTGRP: Кино
-http://50.7.231.220:8081/187/index.m3u8?wmsAuthSign=1585726486p261i001i87i591S5be00c3fe3feb90ca1a4b9a51341f09d
+http://50.7.231.220:8081/187/index.m3u8?wmsAuthSign=1590563754p261i001i87i591S6d956cf7b1412243dec81d95c04daa9a
 #EXTINF:0,Комедия
 #EXTGRP: Кино
-http://50.7.172.58:8081/510/index.m3u8?wmsAuthSign=1586032139p261i001i87i591S5cb85c745795b804574967af3b11c4e1
+http://50.7.172.58:8081/510/index.m3u8?wmsAuthSign=1590564228p261i001i87i591S844a6880322635ed392ea1a3d01b2db9
 #EXTINF:0,Победа
 #EXTGRP: Кино
 http://185.22.183.157:8085/media/hls_183_157/pobeda/index.m3u8
