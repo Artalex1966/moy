@@ -2,6 +2,10 @@
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
 http://50.7.172.60:8081/534/index.m3u8?wmsAuthSign=1590633378p261i001i87i591Sa6a0ed4207d5b4b5d68cabd005527a14
+#EXTM3U
+#EXTINF:0,Любимое кино Л
+#EXTGRP: Кино
+http://91.212.248.181:82/play/125/index.m3u8
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
@@ -89,16 +93,20 @@ https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
 http://cdn-xdux85qh.ott-iptv.club/5u6l7yon/ussr/playlist.m3u8
 #EXTINF:0,TOP USSR HD
 #EXTGRP: Кино
-http://topchantv.net:3456/cdn911_chanks/6UFdOv3dfc/6641
+http://topchantv.net:3456/top911tvinfo/KzblOQPfkB/6641
 #EXTINF:0,TOP 80s HD
 #EXTGRP: Кино
-http://topchantv.net:3456/cdn911_chanks/6UFdOv3dfc/277
+http://topchantv.net:3456/top911tvinfo/KzblOQPfkB/277
 #EXTINF:0,TOP Cinema HD
 #EXTGRP: Кино
-http://topchantv.net:3456/Sidimdoma100/p2ZSYH2JKP/1611
+http://topchantv.net:3456/top911tvinfo/KzblOQPfkB/1611
 #EXTINF:0,TOP BUDO HD
 #EXTGRP: Кино
-http://topchantv.net:3456/cdn911_chanks/6UFdOv3dfc/428
+http://topchantv.net:3456/top911tvinfo/KzblOQPfkB/428
+#EXTINF:0,TOP: Великолепный Век
+#EXTGRP: Кино
+http://topchantv.net:3456/top911tvinfo/KzblOQPfkB/6
+
 
 #EXTINF:0,TOP ДЕЖАВЮ
 #EXTGRP: Кино
