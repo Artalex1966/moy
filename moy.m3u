@@ -286,25 +286,25 @@ http://s1.only4.tv:82/117/video.m3u8?token=3TzgjoCHjt
 
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детям
-http://50.7.172.58:8081/550/index.m3u8?wmsAuthSign=1587137222p261i001i87i591S853ddcf87fc5ba479596f25365bcaa3f
+http://50.7.172.60:8081/550/index.m3u8?wmsAuthSign=1590602812p261i001i87i591Sa16915b2065185a7da98e848cb3d549c
 #EXTINF:0,СоюзМультфильм
 #EXTGRP: Детям
-http://50.7.172.58:8081/511/index.m3u8?wmsAuthSign=1587137081p261i001i87i591S7e5508aa4fd71b9d53f05f61dad78ab3
+http://50.7.172.60:8081/511/index.m3u8?wmsAuthSign=1590602657p261i001i87i591S49f477054a66746cd3dd1fcfe3d9b40c
 #EXTINF:0,Ералаш
 #EXTGRP: Детям
-http://50.7.172.58:8081/512/index.m3u8?wmsAuthSign=1587137137p261i001i87i591See22b35c0df1ff3b83a3632b69e4a8e5
+http://50.7.172.60:8081/512/index.m3u8?wmsAuthSign=1590602706p261i001i87i591S896f5afb305e878ec012f570e20528d0
 #EXTINF:0,Мульт
 #EXTGRP: Детям
-http://50.7.231.220:8081/206/index.m3u8?wmsAuthSign=1586030999p261i001i87i591S1f31ad6af4cefa966cb2ac27c5772367
+http://50.7.231.221:8081/206/index.m3u8?wmsAuthSign=1590602730p261i001i87i591Sce510bcea769823aa0ebbedbfc194e6e
 #EXTINF:0,Карусель
 #EXTGRP: Детям
-http://50.7.231.220:8081/157/index.m3u8?wmsAuthSign=1586030974p261i001i87i591Sad0beebfc2f476213f7ffa098424086e
+http://50.7.231.221:8081/157/index.m3u8?wmsAuthSign=1590602759p261i001i87i591S6a8bd0b4ab83cfa466c12e48d801ca93
 #EXTINF:0,Disney Channel
 #EXTGRP: Детям
-http://50.7.231.220:8081/154/index.m3u8?wmsAuthSign=1586030915p261i001i87i591S227eae588a3ec18f9b4b8892fbd04bec
+http://50.7.231.221:8081/154/index.m3u8?wmsAuthSign=1590602785p261i001i87i591S54f5fe354505bd44a50d7dedc060a15f
 #EXTINF:0,ДЕТСКИЙ
 #EXTGRP: Детям
-http://50.7.231.220:8081/156/index.m3u8?wmsAuthSign=1586030949p261i001i87i591S5cb55fd711ed51a457b100c24de49a48
+http://50.7.231.221:8081/156/index.m3u8?wmsAuthSign=1590602868p261i001i87i591S4e22b89f63bfaacd4c0f5c47f0c2f150
 #EXTINF:0,Мультимания
 #EXTGRP: Детям
 http://45.10.140.200:81/udp/230.3.4.228:5678
