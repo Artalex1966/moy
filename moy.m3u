@@ -411,7 +411,15 @@ http://50.7.222.90:8081/hustlerhd/index.m3u8?wmsAuthSign=47ad9fc0b6857074c2b7bb8
 EXTINF:0,Playboy TV
 #EXTGRP: Познавательное
 http://50.7.222.90:8081/playboy/index.m3u8?wmsAuthSign=cc6e6db007f9a6121dc76642becf94d7-1590047313-261i001i87i591
-
+EXTINF:0,FAP TV 2
+#EXTGRP: Познавательное
+http://50.7.220.130:8081/faptv2/index.m3u8?wmsAuthSign=f497d5a7a8c66bd23ef48f56b2c46a07-1590604441-261i001i87i591
+EXTINF:0,FAP TV Parody
+#EXTGRP: Познавательное
+http://50.7.220.130:8081/fap_parody/index.m3u8?wmsAuthSign=a5162d4d1376fc4391d5b291a95a2cc4-1590604533-261i001i87i591
+EXTINF:0,PENTHOUSE HD 2
+#EXTGRP: Познавательное
+http://50.7.220.130:8081/penthouse2/index.m3u8?wmsAuthSign=ae1d4a52b7b9e4417bfe170cc8e935c9-1590604289-261i001i87i591
 
 #EXTINF:0,RETRO М
 #EXTGRP: МУЗЫКА
