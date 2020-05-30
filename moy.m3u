@@ -37,7 +37,7 @@ http://50.7.222.90:8081/kinoprem/index.m3u8?wmsAuthSign=8bdbb8fedde4a66e98e9d64f
 
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
-http://50.7.222.90:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=efff0dc4553e954bd725a7d495e9b127-1590820241-261i001i87i591
+http://50.7.222.90:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=7986e4d3a05406ffc61ab9088f346b12-1590894175-261i001i87i591
 
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
