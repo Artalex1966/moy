@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://50.7.120.165:8081/nashe_lub_kino/index.m3u8?wmsAuthSign=ecf065fe9327069ac42267fcb11b36c3-1590819912-261i001i87i591
+http://50.7.120.165:8081/nashe_lub_kino/index.m3u8?wmsAuthSign=a2a24bdccb3af4595a4afc9e45c6db09-1590955648-261i001i87i591
 #EXTM3U
 #EXTINF:0,Любимое кино Л
 #EXTGRP: Кино
@@ -9,23 +9,23 @@ https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?versi
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://50.7.120.165:8081/rodnoekino/index.m3u8?wmsAuthSign=193a98472efe8c315aa6fa52a905d572-1590820200-261i001i87i591
+http://50.7.120.165:8081/rodnoekino/index.m3u8?wmsAuthSign=dd3a987d290fb701a5b2f58fc43a125f-1590955944-261i001i87i591
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
-http://50.7.222.90:8081/domkino/index.m3u8?wmsAuthSign=e48a8966d5d89c64e8c2c5a7bcfffa4c-1590820153-261i001i87i591
+http://50.7.172.60:8081/555/index.m3u8?wmsAuthSign=1590955609p261i001i87i591Sc134c31310e05c86b811ae2e88a9ee29
 
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://50.7.222.90:8081/kinoxit/index.m3u8?wmsAuthSign=a906ef7e5bce8408211553abb76caf72-1590820436-261i001i87i591
+http://50.7.222.90:8081/kinoxit/index.m3u8?wmsAuthSign=15e1806be0270a26b1d0764ac645bb5e-1590955762-261i001i87i591
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
 http://50.7.120.165:8081/kinomiks/index.m3u8?wmsAuthSign=e095ae19d01c3598f30228fdd6019e4f-1590821119-261i001i87i591
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
-http://50.7.120.165:8081/kinopremera/index.m3u8?wmsAuthSign=ebb22a1938f6fc47a6add427d43095a8-1590820402-261i001i87i591
+http://50.7.120.165:8081/kinopremera/index.m3u8?wmsAuthSign=86a8dc46ad0ad45ba2a9c0694c5de8d8-1590955795-261i001i87i591
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
@@ -37,7 +37,7 @@ http://50.7.222.90:8081/kinoprem/index.m3u8?wmsAuthSign=8bdbb8fedde4a66e98e9d64f
 
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
-http://50.7.222.90:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=7986e4d3a05406ffc61ab9088f346b12-1590894175-261i001i87i591
+http://50.7.222.90:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=efff0dc4553e954bd725a7d495e9b127-1590820241-261i001i87i591
 
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
@@ -49,7 +49,7 @@ http://50.7.222.90:8081/tv_kino/index.m3u8?wmsAuthSign=d286025aa31cef6e89d2d8224
 
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
-http://50.7.222.90:8081/kinopokaz/index.m3u8?wmsAuthSign=6413cb45ef374c761b3f4c219c97c084-1589873577-261i001i87i591
+http://50.7.222.90:8081/kinopokaz/index.m3u8?wmsAuthSign=95cf29069cd680254b92eddf2af5fa28-1590955861-261i001i87i591
 
 
 #EXTINF:0,KVN-HD
@@ -75,7 +75,7 @@ http://50.7.222.90:8081/kinopokaz2/index.m3u8?wmsAuthSign=f0e03648ddc5eac7c9169f
 
 #EXTINF:0, Наше новое кино
 #EXTGRP: Кино
-http://50.7.120.165:8081/nashe_nov_kino/index.m3u8?wmsAuthSign=b9e8d534bef7df95ad17081b1829d3b0-1590820834-261i001i87i591
+http://50.7.120.165:8081/nashe_nov_kino/index.m3u8?wmsAuthSign=7e5d4ae85b7deba10edb6cf88a614ffc-1590955829-261i001i87i591
 
 #EXTINF:0, Наше крутое
 #EXTGRP: Кино
