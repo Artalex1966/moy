@@ -22,22 +22,22 @@ http://50.7.222.90:8081/kinoxit/index.m3u8?wmsAuthSign=15e1806be0270a26b1d0764ac
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://50.7.120.165:8081/kinomiks/index.m3u8?wmsAuthSign=e095ae19d01c3598f30228fdd6019e4f-1590821119-261i001i87i591
+http://50.7.120.165:8081/kinomiks/index.m3u8?wmsAuthSign=a88a3c88fd1c5aff839607dbe593de35-1590956243-261i001i87i591
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
 http://50.7.120.165:8081/kinopremera/index.m3u8?wmsAuthSign=86a8dc46ad0ad45ba2a9c0694c5de8d8-1590955795-261i001i87i591
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://s2.ttranslit.com:8081/s4g_myz_kino/index.m3u8?wmsAuthSign=1590821233S6f2948b9617744ce0b121b431c8abf9aS261h001h87h591
+http://s2.ttranslit.com:8081/s4g_myz_kino/index.m3u8?wmsAuthSign=1590956539Sd8f65f7d5328c3a951d86dc125627687S261h001h87h591
 
 #EXTINF:0,КиноПремиум HD
 #EXTGRP: Кино
-http://50.7.222.90:8081/kinoprem/index.m3u8?wmsAuthSign=8bdbb8fedde4a66e98e9d64ffe9c4b22-1590820013-261i001i87i591
+http://50.7.222.90:8081/kinoprem/index.m3u8?wmsAuthSign=e815d5017f63f2c0ba6d4ef560af5b28-1590956700-261i001i87i591
 
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
-http://50.7.222.90:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=efff0dc4553e954bd725a7d495e9b127-1590820241-261i001i87i591
+http://50.7.222.90:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=cb6154bb47658aa185e1194c8576c4aa-1590956328-261i001i87i591
 
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
@@ -45,7 +45,7 @@ http://v2.catcast.me/content/37388/index.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://50.7.222.90:8081/tv_kino/index.m3u8?wmsAuthSign=d286025aa31cef6e89d2d822495b6546-1590821319-261i001i87i591
+http://50.7.222.90:8081/tv_kino/index.m3u8?wmsAuthSign=ab8adb49c94677e46530e93cbde0cb87-1590956188-261i001i87i591
 
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
@@ -57,7 +57,7 @@ http://50.7.222.90:8081/kinopokaz/index.m3u8?wmsAuthSign=95cf29069cd680254b92edd
 http://hls.goodgame.ru:8080/hls/172148.m3u8
 #EXTINF:0,Иллюзион+
 #EXTGRP: Кино
-http://50.7.120.165:8081/illyuzion_pl/index.m3u8?wmsAuthSign=369ee9981ce9056c5eb3d9fc7d7c8eaf-1590820602-261i001i87i591
+http://50.7.120.165:8081/illyuzion_pl/index.m3u8?wmsAuthSign=6d97443dc0f8a438a344a0a3b23c7454-1590956264-261i001i87i591
 
 
 
@@ -70,7 +70,7 @@ https://v2.catcast.tv/content/37493/index.m3u8
 
 #EXTINF:0,Кинопоказ HD 2
 #EXTGRP: Кино
-http://50.7.222.90:8081/kinopokaz2/index.m3u8?wmsAuthSign=f0e03648ddc5eac7c9169f262e26aaca-1590820778-261i001i87i591
+http://50.7.231.221:8081/170/index.m3u8?wmsAuthSign=1590956826p261i001i87i591Sf7ef5d2b7f2410ddfd831f3f9c09449e
 
 
 #EXTINF:0, Наше новое кино
@@ -79,7 +79,7 @@ http://50.7.120.165:8081/nashe_nov_kino/index.m3u8?wmsAuthSign=7e5d4ae85b7deba10
 
 #EXTINF:0, Наше крутое
 #EXTGRP: Кино
-http://50.7.231.221:8081/171/index.m3u8?wmsAuthSign=1590784155p261i001i87i591S032dd82b11fb3254e668c2c75d2f1b58
+http://50.7.231.221:8081/171/index.m3u8?wmsAuthSign=1590956882p261i001i87i591Se521545cc200fea6824ff6851d7f8ada
 
 #EXTINF:0,СССР
 #EXTGRP: Кино
@@ -106,9 +106,6 @@ http://topchantv.net:3456/top911tvinfo/KzblOQPfkB/1611
 #EXTINF:0,TOP BUDO HD
 #EXTGRP: Кино
 http://topchantv.net:3456/top911tvinfo/KzblOQPfkB/428
-#EXTINF:0,TOP: Великолепный Век
-#EXTGRP: Кино
-http://topchantv.net:3456/top911tvinfo/KzblOQPfkB/6
 
 
 #EXTINF:0,TOP ДЕЖАВЮ
@@ -125,19 +122,19 @@ http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 
 #EXTINF:0,КИНОКОМЕДИЯ
 #EXTGRP: Кино
-http://50.7.231.221:8081/129/index.m3u8?wmsAuthSign=1590733491p261i001i87i591S2fc8cc246baedf3778865ec2278ffff8
+http://50.7.231.221:8081/129/index.m3u8?wmsAuthSign=1590956916p261i001i87i591S0e45e6ee6c95b0d3ddd10b3dec4ddf9c
 #EXTINF:0, Киносвидание
 #EXTGRP: Кино
-http://s1.ttranslit.com:8081/126/index.m3u8?wmsAuthSign=1590821771S9c622562d3e61c1b59ea298fc5afeba6S261h001h87h591
+http://s1.ttranslit.com:8081/126/index.m3u8?wmsAuthSign=1590956955S1607f5d5155288ea623d11f0e96f131cS261h001h87h591
 #EXTINF:0,Видеосалон VHS 3
 #EXTGRP: Кино
 https://v2.catcast.me/content/36251/index.m3u8
 #EXTINF:0,Дом Кино Премиум HD
 #EXTGRP: Кино
-http://50.7.120.165:8081/dom_prem/index.m3u8?wmsAuthSign=ef9cee7d52934a9f49cbbe8fe1b9220e-1590820296-261i001i87i591
+http://50.7.120.165:8081/dom_prem/index.m3u8?wmsAuthSign=31bdc631933c89cdf5655c0917c96656-1590956298-261i001i87i591
 #EXTINF:0,Комедия
 #EXTGRP: Кино
-http://s2.ttranslit.com:8081/ryskomedi/index.m3u8?wmsAuthSign=1590821722Scbadae585448622f82ae56d73077c8aeS261h001h87h591
+http://s2.ttranslit.com:8081/ryskomedi/index.m3u8?wmsAuthSign=1590957006S7f9ff7dbcd8e0edf5879d8af4f8bb380S261h001h87h591
 #EXTINF:0,Победа
 #EXTGRP: Кино
 http://185.22.183.157:8085/media/hls_183_157/pobeda/index.m3u8
