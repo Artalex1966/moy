@@ -18,7 +18,7 @@ http://persik.by/stream/6606/411484/213.m3u8
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://persik.by/stream/6606/411484/608.m3u8
+http://50.7.231.221:8081/181/index.m3u8?wmsAuthSign=1591157637p261i001i87i591Sf54ba4d62b1097b41a3b53c4def9cdce
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
 http://persik.by/stream/6606/411484/34.m3u8
