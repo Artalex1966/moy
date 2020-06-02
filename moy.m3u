@@ -7,7 +7,7 @@ http://s1.ttranslit.com:8081/ljubimoe_kino/index.m3u8?wmsAuthSign=1591084167S1e9
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://50.7.231.221:8081/179/index.m3u8?wmsAuthSign=1591084175p261i001i87i591S7af4fb2f6d3dfa9a971b819b3b15c7c2
+http://persik.tv/stream/6299/10/312.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
@@ -16,11 +16,11 @@ http://50.7.172.60:8081/555/index.m3u8?wmsAuthSign=1591084134p261i001i87i591S74d
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://s1.ttranslit.com:8081/118/index.m3u8?wmsAuthSign=1591084243S4cbc424e07a664282f233648341e7a73S261h001h87h591
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://50.7.120.165:8081/kinomiks/index.m3u8?wmsAuthSign=2a4580760ff349760e2b1ee3154c246c-1591084515-261i001i87i591
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
 http://50.7.120.165:8081/kinopremera/index.m3u8?wmsAuthSign=fb82c815bde9e52880e86baca9228abb-1591084481-261i001i87i591
@@ -127,7 +127,7 @@ http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 http://50.7.231.221:8081/129/index.m3u8?wmsAuthSign=1590995415p261i001i87i591S69eb4ce6d8107b1c5c05c20c51d170f5
 #EXTINF:0, Киносвидание
 #EXTGRP: Кино
-http://50.7.172.60:8081/532/index.m3u8?wmsAuthSign=1590995438p261i001i87i591S7188ea5fe947e3fbeebf9828ce0f43dd
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 #EXTINF:0,Видеосалон VHS 3
 #EXTGRP: Кино
 https://v2.catcast.me/content/36251/index.m3u8
