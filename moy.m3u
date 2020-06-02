@@ -1,31 +1,31 @@
 #EXTM3U
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://50.7.172.60:8081/534/index.m3u8?wmsAuthSign=1591133740p261i001i87i591Sfc06aaf3bd0aa8e366fd10be13b49280
+http://persik.by/stream/6606/411484/10452.m3u8
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://persik.tv/stream/6299/10/312.m3u8
+http://persik.by/stream/6606/411484/312.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
-http://77.89.204.107:8000/play/a0bl/index.m3u8
+http://persik.by/stream/6606/411484/10228.m3u8
 
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://50.7.231.221:8081/200/index.m3u8?wmsAuthSign=1591135244p261i001i87i591S517de9039c74528a4b7c400eabfc1fd6
+http://persik.by/stream/6606/411484/213.m3u8
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://50.7.231.221:8081/181/index.m3u8?wmsAuthSign=1591135216p261i001i87i591Sc9419cc814d64b241ff9a2d77eebe4d6
+http://persik.by/stream/6606/411484/608.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
-http://50.7.231.221:8081/203/index.m3u8?wmsAuthSign=1591128569p261i001i87i591Sb9c644470fe689268712e1336f66e9c6
+http://persik.by/stream/6606/411484/34.m3u8
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://50.7.172.60:8081/593/index.m3u8?wmsAuthSign=1591133858p261i001i87i591S53c86b021e2a9b5cb3975d2f0e3cbc21
+http://persik.by/stream/6606/411484/10025.m3u8
 
 #EXTINF:0,КиноПремиум HD
 #EXTGRP: Кино
@@ -34,10 +34,6 @@ http://50.7.231.221:8081/134/index.m3u8?wmsAuthSign=1591128044p261i001i87i591S48
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
 http://50.7.172.60:8081/578/index.m3u8?wmsAuthSign=1591128137p261i001i87i591S1d6a6e89196f2cbca6f23b49554a3618
-
-#EXTINF:0,Кинозал PZNstreams
-#EXTGRP: Кино
-http://hls.goodgame.ru/hls/12949.m3u8
 
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
@@ -114,7 +110,6 @@ http://topchantv.net:3456/911TVinfo/hhlIxtfvgd/428
 
 
 
-
 #EXTINF:0,TOP ДЕЖАВЮ
 #EXTGRP: Кино
 http://v2.catcast.me/content/37913/index.m3u8
@@ -129,7 +124,7 @@ http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 
 #EXTINF:0,КИНОКОМЕДИЯ
 #EXTGRP: Кино
-http://185.22.183.154:8085/media/hls_183_154/komedia/index.m3u8
+http://persik.by/stream/6606/411484/292.m3u8
 #EXTINF:0, Киносвидание
 #EXTGRP: Кино
 http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
@@ -305,7 +300,9 @@ http://50.7.172.60:8081/550/index.m3u8?wmsAuthSign=1590995822p261i001i87i591S3cc
 #EXTINF:0,СоюзМультфильм
 #EXTGRP: Детям
 http://50.7.172.60:8081/511/index.m3u8?wmsAuthSign=1591128467p261i001i87i591Sdfb714c75d249c1873783b2f2c78bcb0
-
+#EXTINF:0,TOM & JERRY HD
+#EXTGRP: Детям
+http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 #EXTINF:0,Ералаш
 #EXTGRP: Детям
 http://50.7.172.60:8081/512/index.m3u8?wmsAuthSign=1591128507p261i001i87i591S85d1b7a34ded7c1d9c738c8cfca6b1a8
