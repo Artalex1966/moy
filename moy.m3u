@@ -14,11 +14,11 @@ http://77.89.204.107:8000/play/a0bl/index.m3u8
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+http://50.7.231.221:8081/200/index.m3u8?wmsAuthSign=1591135244p261i001i87i591S517de9039c74528a4b7c400eabfc1fd6
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-https://sc.id-tv.kz/Kinomix_hd_38_39.m3u8
+http://50.7.231.221:8081/181/index.m3u8?wmsAuthSign=1591135216p261i001i87i591Sc9419cc814d64b241ff9a2d77eebe4d6
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
 http://50.7.231.221:8081/203/index.m3u8?wmsAuthSign=1591128569p261i001i87i591Sb9c644470fe689268712e1336f66e9c6
