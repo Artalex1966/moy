@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://178.217.72.66/225.201.2.204/tracks-v1a1/mono.m3u8
+http://50.7.172.60:8081/534/index.m3u8?wmsAuthSign=1591133740p261i001i87i591Sfc06aaf3bd0aa8e366fd10be13b49280
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
@@ -25,7 +25,7 @@ http://50.7.231.221:8081/203/index.m3u8?wmsAuthSign=1591128569p261i001i87i591Sb9
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://persik.tv/stream/6299/10/10368.m3u8
+http://50.7.172.60:8081/593/index.m3u8?wmsAuthSign=1591133858p261i001i87i591S53c86b021e2a9b5cb3975d2f0e3cbc21
 
 #EXTINF:0,КиноПремиум HD
 #EXTGRP: Кино
@@ -45,7 +45,7 @@ http://v2.catcast.me/content/37388/index.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://hlstv.kem.211.ru/239.211.211.86/stream.m3u8
+http://50.7.172.60:8081/504/index.m3u8?wmsAuthSign=1591133965p261i001i87i591S4baddee70000f500a04793a679385ae4
 
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
@@ -58,7 +58,7 @@ http://hls.goodgame.ru:8080/hls/172148.m3u8
 
 #EXTINF:0,Иллюзион+
 #EXTGRP: Кино
-http://hlstv.kem.211.ru/239.211.211.89/stream.m3u8
+http://50.7.231.221:8081/130/index.m3u8?wmsAuthSign=1591134023p261i001i87i591Se2eaa5962e24765a7321bf9dd60fdb9b
 
 #EXTINF:0,VHS 90s
 #EXTGRP: Кино
@@ -89,7 +89,9 @@ https://v2.catcast.tv/content/36506/index.m3u8
 #EXTINF:0,СССР 222
 #EXTGRP: Кино
 https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
-
+#EXTINF:0,Советские
+#EXTGRP: Кино
+http://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Любимое кино Л
 #EXTGRP: Кино
 https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
@@ -302,10 +304,6 @@ http://50.7.172.60:8081/550/index.m3u8?wmsAuthSign=1590995822p261i001i87i591S3cc
 #EXTINF:0,СоюзМультфильм
 #EXTGRP: Детям
 http://50.7.172.60:8081/511/index.m3u8?wmsAuthSign=1591128467p261i001i87i591Sdfb714c75d249c1873783b2f2c78bcb0
-
-#EXTINF:0,Советские Мультфильмы
-#EXTGRP: Детям
-http://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Ералаш
 #EXTGRP: Детям
