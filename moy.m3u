@@ -42,13 +42,17 @@ http://persik.by/stream/6606/411484/10330.m3u8
 #EXTGRP: Кино
 http://persik.by/stream/6606/411484/10025.m3u8
 
+#EXTINF:0,Ultra HD cinema
+#EXTGRP: Кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
+
 #EXTINF:0,КиноПремиум HD
 #EXTGRP: Кино
 http://50.7.231.221:8081/134/index.m3u8?wmsAuthSign=1591173580p261i001i87i591Sa63c1b19cb3a404e30d1f92526f360f3
 
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
-http://50.7.172.60:8081/578/index.m3u8?wmsAuthSign=1591128137p261i001i87i591S1d6a6e89196f2cbca6f23b49554a3618
+http://50.7.172.60:8081/578/index.m3u8?wmsAuthSign=1591177737p261i001i87i591S271240692ac5ed401794785e46b9cba4
 #EXTINF:0,Остросюжетное Кино2
 #EXTGRP: Кино
 http://50.7.222.90:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=caab518aa3a45bf9f6db12417169087f-1591173266-261i001i87i591
@@ -59,7 +63,7 @@ http://v2.catcast.me/content/37388/index.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://50.7.172.60:8081/578/index.m3u8?wmsAuthSign=1591173416p261i001i87i591Seb27605d5c12df308a422ec0654404ae
+http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1591177783p261i001i87i591S9fccf12469ebe773a0fc5df5ef22f97a
 #EXTINF:0,Кино ТВ2
 #EXTGRP: Кино
 http://50.7.222.90:8081/tv_kino/index.m3u8?wmsAuthSign=563906a6630d87411125371c0c03eec7-1591166466-261i001i87i591
@@ -72,6 +76,10 @@ http://185.22.183.147:8085/media/hls_183_147/kinopokaz/index.m3u8
 #EXTINF:0,KVN-HD
 #EXTGRP: Кино
 http://hls.goodgame.ru:8080/hls/172148.m3u8
+
+#EXTINF:0,Кинозал-ФИЛЬМ 1
+#EXTGRP: Кино
+http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
 
 #EXTINF:0,Иллюзион+
 #EXTGRP: Кино
@@ -154,7 +162,7 @@ http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 https://v2.catcast.me/content/36251/index.m3u8
 #EXTINF:0,Дом Кино Премиум HD
 #EXTGRP: Кино
-http://50.7.231.221:8081/187/index.m3u8?wmsAuthSign=1591128436p261i001i87i591Sbfe04d51dae47862ff88b23e55ec18e0
+http://astra.realcrimea.net:8000/play/a05g
 #EXTINF:0,Комедия
 #EXTGRP: Кино
 http://50.7.172.60:8081/510/index.m3u8?wmsAuthSign=1590995374p261i001i87i591S9aa702bd3e7ae0e792fc71a437530846
@@ -317,7 +325,7 @@ http://s1.only4.tv:82/117/video.m3u8?token=3TzgjoCHjt
 
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детям
-http://50.7.172.60:8081/550/index.m3u8?wmsAuthSign=1590995822p261i001i87i591S3cc6e7c64916874f837b07c9a48a3777
+http://astra.realcrimea.net:8000/play/a08m
 #EXTINF:0,СоюзМультфильм
 #EXTGRP: Детям
 http://50.7.172.60:8081/511/index.m3u8?wmsAuthSign=1591128467p261i001i87i591Sdfb714c75d249c1873783b2f2c78bcb0
