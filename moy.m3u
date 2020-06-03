@@ -25,10 +25,18 @@ http://persik.by/stream/6606/411484/213.m3u8
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://50.7.231.221:8081/181/index.m3u8?wmsAuthSign=1591157637p261i001i87i591Sf54ba4d62b1097b41a3b53c4def9cdce
+http://persik.by/stream/6606/411484/608.m3u8
+#EXTINF:0,КИНОМИКС2
+#EXTGRP: Кино
+http://50.7.120.165:8081/kinomiks/index.m3u8?wmsAuthSign=0586f869bf5d7bc0da53570a8890c3ff-1591173965-261i001i87i591
+
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
 http://persik.by/stream/6606/411484/34.m3u8
+
+#EXTINF:0,Киносемья
+#EXTGRP: Кино
+http://persik.by/stream/6606/411484/10330.m3u8
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
@@ -36,14 +44,14 @@ http://persik.by/stream/6606/411484/10025.m3u8
 
 #EXTINF:0,КиноПремиум HD
 #EXTGRP: Кино
-http://50.7.231.221:8081/134/index.m3u8?wmsAuthSign=1591128044p261i001i87i591S48e0075bcce5362dc47bffbfac153081
+http://50.7.231.221:8081/134/index.m3u8?wmsAuthSign=1591173580p261i001i87i591Sa63c1b19cb3a404e30d1f92526f360f3
 
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
 http://50.7.172.60:8081/578/index.m3u8?wmsAuthSign=1591128137p261i001i87i591S1d6a6e89196f2cbca6f23b49554a3618
 #EXTINF:0,Остросюжетное Кино2
 #EXTGRP: Кино
-http://50.7.222.90:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=2b9f8c8ca8d44615fd30a2e4d8d886fb-1591166265-261i001i87i591
+http://50.7.222.90:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=caab518aa3a45bf9f6db12417169087f-1591173266-261i001i87i591
 
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
@@ -51,7 +59,7 @@ http://v2.catcast.me/content/37388/index.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://50.7.172.60:8081/504/index.m3u8?wmsAuthSign=1591133965p261i001i87i591S4baddee70000f500a04793a679385ae4
+http://50.7.172.60:8081/578/index.m3u8?wmsAuthSign=1591173416p261i001i87i591Seb27605d5c12df308a422ec0654404ae
 #EXTINF:0,Кино ТВ2
 #EXTGRP: Кино
 http://50.7.222.90:8081/tv_kino/index.m3u8?wmsAuthSign=563906a6630d87411125371c0c03eec7-1591166466-261i001i87i591
@@ -67,7 +75,7 @@ http://hls.goodgame.ru:8080/hls/172148.m3u8
 
 #EXTINF:0,Иллюзион+
 #EXTGRP: Кино
-http://50.7.231.221:8081/130/index.m3u8?wmsAuthSign=1591134023p261i001i87i591Se2eaa5962e24765a7321bf9dd60fdb9b
+http://persik.by/stream/6606/411484/327.m3u8
 
 #EXTINF:0,VHS 90s
 #EXTGRP: Кино
@@ -78,12 +86,12 @@ https://v2.catcast.tv/content/37493/index.m3u8
 
 #EXTINF:0,Кинопоказ HD 2
 #EXTGRP: Кино
-http://50.7.231.221:8081/170/index.m3u8?wmsAuthSign=1591128340p261i001i87i591Sb67169862606f3686021956d70b1dab1
+http://50.7.231.221:8081/170/index.m3u8?wmsAuthSign=1591173486p261i001i87i591S09523c231db0d523bfe6634da77c6a69
 
 
 #EXTINF:0, Наше новое кино
 #EXTGRP: Кино
-http://50.7.231.221:8081/197/index.m3u8?wmsAuthSign=1591128384p261i001i87i591S78a411172bab64d5c39a0b708c46c302
+http://persik.by/stream/6606/411484/260.m3u8
 
 #EXTINF:0, Наше крутое
 #EXTGRP: Кино
