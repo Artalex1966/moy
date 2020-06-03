@@ -2,6 +2,10 @@
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
 http://persik.by/stream/6606/411484/10452.m3u8
+#EXTM3U
+#EXTINF:0,Любимое кино2
+#EXTGRP: Кино
+http://50.7.220.130:8081/nashe_lub_kino/index.m3u8?wmsAuthSign=6f5f8cdd6b6c4a7106577178076a2ec4-1591155829-261i001i87i591
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
@@ -10,6 +14,9 @@ http://persik.by/stream/6606/411484/312.m3u8
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
 http://persik.by/stream/6606/411484/10228.m3u8
+#EXTINF:0,Дом Кино2
+#EXTGRP: Кино
+https://s119.glaz.tv:8082/liveg/domkino.stream/chunks.m3u8?nimblesessionid=585427855&wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMjAgMTozMzoxNyBBTSZoYXNoX3ZhbHVlPWQwbVlwUTdPWGZCODFWVVNJSHJUbkE9PSZ2YWxpZG1pbnV0ZXM9MjAw
 
 
 #EXTINF:0,Кинохит
@@ -34,6 +41,9 @@ http://50.7.231.221:8081/134/index.m3u8?wmsAuthSign=1591128044p261i001i87i591S48
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
 http://50.7.172.60:8081/578/index.m3u8?wmsAuthSign=1591128137p261i001i87i591S1d6a6e89196f2cbca6f23b49554a3618
+#EXTINF:0,Остросюжетное Кино2
+#EXTGRP: Кино
+http://50.7.222.90:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=2b9f8c8ca8d44615fd30a2e4d8d886fb-1591166265-261i001i87i591
 
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
@@ -42,6 +52,9 @@ http://v2.catcast.me/content/37388/index.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
 http://50.7.172.60:8081/504/index.m3u8?wmsAuthSign=1591133965p261i001i87i591S4baddee70000f500a04793a679385ae4
+#EXTINF:0,Кино ТВ2
+#EXTGRP: Кино
+http://50.7.222.90:8081/tv_kino/index.m3u8?wmsAuthSign=563906a6630d87411125371c0c03eec7-1591166466-261i001i87i591
 
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
