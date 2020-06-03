@@ -2,45 +2,58 @@
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
 http://persik.by/stream/6606/411484/10452.m3u8
-#EXTM3U
 #EXTINF:0,Любимое кино2
 #EXTGRP: Кино
-http://50.7.220.130:8081/nashe_lub_kino/index.m3u8?wmsAuthSign=6f5f8cdd6b6c4a7106577178076a2ec4-1591155829-261i001i87i591
+http://50.7.172.60:8081/534/index.m3u8?wmsAuthSign=1591232682p261i001i87i591S56862bade4ed2921ecf3c948268c4486
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
 http://persik.by/stream/6606/411484/312.m3u8
+#EXTINF:0,Родное кино2
+#EXTGRP: Кино
+http://50.7.231.221:8081/179/index.m3u8?wmsAuthSign=1591232475p261i001i87i591S48c82d0993657c55d8c2b76cc45755fc
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
 http://persik.by/stream/6606/411484/10228.m3u8
 #EXTINF:0,Дом Кино2
 #EXTGRP: Кино
-https://s119.glaz.tv:8082/liveg/domkino.stream/chunks.m3u8?nimblesessionid=585427855&wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMjAgMTozMzoxNyBBTSZoYXNoX3ZhbHVlPWQwbVlwUTdPWGZCODFWVVNJSHJUbkE9PSZ2YWxpZG1pbnV0ZXM9MjAw
-
+http://50.7.172.60:8081/555/index.m3u8?wmsAuthSign=1591232310p261i001i87i591Sa6b02cf936c7c3e9b3638083c5b4f111
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
 http://persik.by/stream/6606/411484/213.m3u8
+#EXTINF:0,Кинохит2
+#EXTGRP: Кино
+http://50.7.231.221:8081/200/index.m3u8?wmsAuthSign=1591232377p261i001i87i591S746cd10b698e728ba26bf43a2cdac358
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
 http://persik.by/stream/6606/411484/608.m3u8
 #EXTINF:0,КИНОМИКС2
 #EXTGRP: Кино
-http://50.7.120.165:8081/kinomiks/index.m3u8?wmsAuthSign=0586f869bf5d7bc0da53570a8890c3ff-1591173965-261i001i87i591
+http://50.7.231.221:8081/181/index.m3u8?wmsAuthSign=1591233751p261i001i87i591Sc455c6a9a75fccc81ee7af087556ac51
 
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
 http://persik.by/stream/6606/411484/34.m3u8
+#EXTINF:0,Кинопремьера2
+#EXTGRP: Кино
+http://50.7.231.221:8081/203/index.m3u8?wmsAuthSign=1591233780p261i001i87i591S597beba78200d4727041d4ea366e2029
 
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
 http://persik.by/stream/6606/411484/10330.m3u8
+#EXTINF:0,Киносемья2
+#EXTGRP: Кино
+http://50.7.172.60:8081/531/index.m3u8?wmsAuthSign=1591233809p261i001i87i591S61c1e3e7e762debe62b58f1a88aff5d9
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
 http://persik.by/stream/6606/411484/10025.m3u8
+#EXTINF:0,МУЖСКОЕ КИНО2
+#EXTGRP: Кино
+http://50.7.172.60:8081/593/index.m3u8?wmsAuthSign=1591233843p261i001i87i591S35dfc4a26db49fbbc8e44f99707263f9
 
 #EXTINF:0,Ultra HD cinema
 #EXTGRP: Кино
@@ -52,7 +65,7 @@ http://50.7.231.221:8081/134/index.m3u8?wmsAuthSign=1591173580p261i001i87i591Sa6
 
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
-http://50.7.172.60:8081/578/index.m3u8?wmsAuthSign=1591177737p261i001i87i591S271240692ac5ed401794785e46b9cba4
+http://50.7.172.60:8081/578/index.m3u8?wmsAuthSign=1591232584p261i001i87i591S9cb2914ea75db8e9834294ac7062fa53
 #EXTINF:0,Остросюжетное Кино2
 #EXTGRP: Кино
 http://50.7.222.90:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=caab518aa3a45bf9f6db12417169087f-1591173266-261i001i87i591
@@ -63,14 +76,14 @@ http://v2.catcast.me/content/37388/index.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1591177783p261i001i87i591S9fccf12469ebe773a0fc5df5ef22f97a
+http://50.7.172.60:8081/504/index.m3u8?wmsAuthSign=1591232522p261i001i87i591Se3cbcd22968a01337eb5cce4f2cb144c
 #EXTINF:0,Кино ТВ2
 #EXTGRP: Кино
 http://50.7.222.90:8081/tv_kino/index.m3u8?wmsAuthSign=563906a6630d87411125371c0c03eec7-1591166466-261i001i87i591
 
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
-http://185.22.183.147:8085/media/hls_183_147/kinopokaz/index.m3u8
+http://50.7.231.221:8081/161/index.m3u8?wmsAuthSign=1591232640p261i001i87i591S8087d05a8fbafd402475e86a3a0822ef
 
 
 #EXTINF:0,KVN-HD
@@ -83,7 +96,7 @@ http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
 
 #EXTINF:0,Иллюзион+
 #EXTGRP: Кино
-http://persik.by/stream/6606/411484/327.m3u8
+http://50.7.231.221:8081/130/index.m3u8?wmsAuthSign=1591232825p261i001i87i591S029c28250682d9e51b99eae0d04d5f63
 
 #EXTINF:0,VHS 90s
 #EXTGRP: Кино
@@ -94,16 +107,16 @@ https://v2.catcast.tv/content/37493/index.m3u8
 
 #EXTINF:0,Кинопоказ HD 2
 #EXTGRP: Кино
-http://50.7.231.221:8081/170/index.m3u8?wmsAuthSign=1591173486p261i001i87i591S09523c231db0d523bfe6634da77c6a69
+http://50.7.231.221:8081/170/index.m3u8?wmsAuthSign=1591232868p261i001i87i591S18a536fa99803f949e3cc9cc2f0784de
 
 
 #EXTINF:0, Наше новое кино
 #EXTGRP: Кино
-http://persik.by/stream/6606/411484/260.m3u8
+http://50.7.231.221:8081/197/index.m3u8?wmsAuthSign=1591232914p261i001i87i591S8d96c156541fb3b9269b281465f37de3
 
 #EXTINF:0, Наше крутое
 #EXTGRP: Кино
-http://50.7.231.221:8081/171/index.m3u8?wmsAuthSign=1591128167p261i001i87i591S19b576f587475b74936f0128dddeab01
+http://50.7.231.221:8081/171/index.m3u8?wmsAuthSign=1591232968p261i001i87i591Sdce8031c497c6d52d2bbba1fe0933082
 
 #EXTINF:0,СССР
 #EXTGRP: Кино
