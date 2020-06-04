@@ -55,13 +55,9 @@ http://persik.by/stream/6606/411484/10025.m3u8
 #EXTGRP: Кино
 http://50.7.172.60:8081/593/index.m3u8?wmsAuthSign=1591233843p261i001i87i591S35dfc4a26db49fbbc8e44f99707263f9
 
-#EXTINF:0,Ultra HD cinema
-#EXTGRP: Кино
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
-
 #EXTINF:0,КиноПремиум HD
 #EXTGRP: Кино
-http://50.7.231.221:8081/134/index.m3u8?wmsAuthSign=1591173580p261i001i87i591Sa63c1b19cb3a404e30d1f92526f360f3
+http://50.7.231.221:8081/134/index.m3u8?wmsAuthSign=1591247372p261i001i87i591S1e9c76dbac48cb062ee53b32c8d5fa19
 
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
@@ -179,6 +175,7 @@ http://astra.realcrimea.net:8000/play/a05g
 #EXTINF:0,Комедия
 #EXTGRP: Кино
 http://50.7.172.60:8081/510/index.m3u8?wmsAuthSign=1590995374p261i001i87i591S9aa702bd3e7ae0e792fc71a437530846
+
 #EXTINF:0,Победа
 #EXTGRP: Кино
 http://185.22.183.157:8085/media/hls_183_157/pobeda/index.m3u8
