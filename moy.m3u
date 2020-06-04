@@ -61,7 +61,7 @@ http://50.7.231.220:8081/134/index.m3u8?wmsAuthSign=1591254812p261i001i87i591S78
 
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
-http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1591254749p261i001i87i591S599b0c8320fce3752e40bc07542f66d0
+http://188.35.9.26:14050/udp/238.0.14.3:69000
 #EXTINF:0,Остросюжетное Кино2
 #EXTGRP: Кино
 http://50.7.222.90:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=caab518aa3a45bf9f6db12417169087f-1591173266-261i001i87i591
