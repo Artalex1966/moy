@@ -4,14 +4,14 @@
 http://persik.by/stream/6606/411484/10452.m3u8
 #EXTINF:0,Любимое кино2
 #EXTGRP: Кино
-http://50.7.172.58:8081/534/index.m3u8?wmsAuthSign=1591255042p261i001i87i591S15d8946ce976111607ef16eeaea64ffe
+http://50.7.172.58:8081/534/index.m3u8?wmsAuthSign=1591374771p261i001i87i591S756c72d38163ea9b0b056a5071359588
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
 http://persik.by/stream/6606/411484/312.m3u8
 #EXTINF:0,Родное кино2
 #EXTGRP: Кино
-http://50.7.231.221:8081/179/index.m3u8?wmsAuthSign=1591255004p261i001i87i591S30a8711ad4d45dfa0a054091285596a4
+http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
@@ -39,32 +39,32 @@ http://178.163.39.204:4022/udp/234.0.0.222:2000
 http://persik.by/stream/6606/411484/34.m3u8
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
-http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1591254893p261i001i87i591S3c72a277e2db96e8124e1756ebb36815
+http://hlstv.kem.211.ru/239.211.200.28/stream.m3u8
 
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
 http://persik.by/stream/6606/411484/10330.m3u8
 #EXTINF:0,Киносемья2
 #EXTGRP: Кино
-http://50.7.172.60:8081/531/index.m3u8?wmsAuthSign=1591233809p261i001i87i591S61c1e3e7e762debe62b58f1a88aff5d9
+http://50.7.172.60:8081/531/index.m3u8?wmsAuthSign=1591374878p261i001i87i591S04bb0068a7c9830ed5c9a5e2064f208b
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://persik.by/stream/6606/411484/10025.m3u8
+http://persik.by/stream/6606/411484/10334.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
-http://50.7.172.58:8081/593/index.m3u8?wmsAuthSign=1591254867p261i001i87i591Safdd35c4f5178e1c4a35c83a33cf8f26
+http://hlstv.kem.211.ru/239.211.211.145/stream.m3u8
 
 #EXTINF:0,КиноПремиум HD
 #EXTGRP: Кино
-http://50.7.231.220:8081/134/index.m3u8?wmsAuthSign=1591254812p261i001i87i591S78b5bcc44feb4ee176be3995375a94f6
+http://50.7.231.221:8081/134/index.m3u8?wmsAuthSign=1591374841p261i001i87i591S2098f07544f59e14a280109a10aa28b7
 
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
-http://188.35.9.26:14050/udp/238.0.14.3:69000
+http://50.7.172.60:8081/578/index.m3u8?wmsAuthSign=1591293323p261i001i87i591Sbb9ed7871dd2302f0c715004e60ef07b
 #EXTINF:0,Остросюжетное Кино2
 #EXTGRP: Кино
-http://50.7.172.60:8081/578/index.m3u8?wmsAuthSign=1591293323p261i001i87i591Sbb9ed7871dd2302f0c715004e60ef07b
+http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1591374918p261i001i87i591Sff1fb053d72f0f1292a487787f2b39fc
 
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
@@ -79,7 +79,7 @@ http://astra.realcrimea.net:8000/play/a01d
 
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
-http://50.7.231.220:8081/161/index.m3u8?wmsAuthSign=1591254841p261i001i87i591S6305354d25b3da6c2e431a68e6d06da3
+http://50.7.231.221:8081/161/index.m3u8?wmsAuthSign=1591377898p261i001i87i591S730b851e5e4808d6deda6bb4797c04bd
 
 
 #EXTINF:0,KVN-HD
@@ -89,7 +89,7 @@ http://hls.goodgame.ru:8080/hls/172148.m3u8
 
 #EXTINF:0,Иллюзион+
 #EXTGRP: Кино
-http://50.7.231.220:8081/130/index.m3u8?wmsAuthSign=1591254783p261i001i87i591S57f1f7cedea588a43fc4a9f39c63ce76
+http://50.7.231.221:8081/130/index.m3u8?wmsAuthSign=1591377930p261i001i87i591S5592c14c72d15286423bc0f5ac5b81d1
 
 #EXTINF:0,VHS 90s
 #EXTGRP: Кино
@@ -100,16 +100,16 @@ https://v2.catcast.tv/content/37493/index.m3u8
 
 #EXTINF:0,Кинопоказ HD 2
 #EXTGRP: Кино
-http://50.7.231.221:8081/170/index.m3u8?wmsAuthSign=1591232868p261i001i87i591S18a536fa99803f949e3cc9cc2f0784de
+http://50.7.231.221:8081/170/index.m3u8?wmsAuthSign=1591378019p261i001i87i591S15754c14778a73c7bccdd69456f42b6f
 
 
 #EXTINF:0, Наше новое кино
 #EXTGRP: Кино
-http://50.7.231.221:8081/197/index.m3u8?wmsAuthSign=1591232914p261i001i87i591S8d96c156541fb3b9269b281465f37de3
+http://persik.by/stream/6606/411484/10334.m3u8
 
 #EXTINF:0, Наше крутое
 #EXTGRP: Кино
-http://50.7.231.221:8081/171/index.m3u8?wmsAuthSign=1591232968p261i001i87i591Sdce8031c497c6d52d2bbba1fe0933082
+http://50.7.231.221:8081/171/index.m3u8?wmsAuthSign=1591378054p261i001i87i591S97aaeb555e4f0bf092042bdaa4e1fe06
 
 #EXTINF:0,СССР
 #EXTGRP: Кино
@@ -278,8 +278,8 @@ http://hls.goodgame.ru/hls/54105.m3u8
 http://hls.goodgame.ru/hls/33226.m3u8
 #EXTINF:-1,Кинозал 36168. Evgen SERIAL
 http://v2.catcast.me/content/36168/index.m3u8
-#EXTINF:-1,Кинозал 36251. Evgen VHS
-http://v2.catcast.me/content/36251/index.m3u8
+#EXTINF:-1,Кинозал Антимайдан
+http://hls.goodgame.ru/hls/6147.m3u8
 
 
 
@@ -420,7 +420,7 @@ http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
 http://85.143.191.135/18/452e791b741394fbaba4a969/81/stream.m3u8
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
-http://50.7.172.58:8081/520/index.m3u8?wmsAuthSign=1586031306p261i001i87i591S0781064e9e5a7d97756ee6e3eefc32f6
+http://83.172.32.25:8012/tv/discoveryhd
 #EXTINF:0,Т24
 #EXTGRP: Познавательное
 http://50.7.231.221:8081/116/index.m3u8?wmsAuthSign=1590602300p261i001i87i591Se8db73e30edbc334d6884cdfb82fd38e
