@@ -64,7 +64,7 @@ http://50.7.231.221:8081/134/index.m3u8?wmsAuthSign=1591374841p261i001i87i591S20
 http://188.35.9.26:14050/udp/238.0.14.3:69000?codec=mpeg4
 #EXTINF:0,Остросюжетное Кино2
 #EXTGRP: Кино
-http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1591374918p261i001i87i591Sff1fb053d72f0f1292a487787f2b39fc
+http://50.7.172.60:8081/578/index.m3u8?wmsAuthSign=1591488271p261i001i87i591Sf68d9153ff6825de40f2ed2aca6ff440
 
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
