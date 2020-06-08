@@ -64,7 +64,7 @@ http://50.7.231.221:8081/134/index.m3u8?wmsAuthSign=1591374841p261i001i87i591S20
 http://s1.ttranslit.com:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=1591488652S54ffc2e8fc2e26b84b9e19401dd683deS261h001h87h591
 #EXTINF:0,Остросюжетное Кино2
 #EXTGRP: Кино
-http://50.7.172.60:8081/578/index.m3u8?wmsAuthSign=1591488516p261i001i87i591S70184b4f5dcad8a101e4f013dc267cc3
+http://188.35.9.11:2015
 
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
