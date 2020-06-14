@@ -25,8 +25,12 @@ https://v2.catcast.tv/content/36506/index.m3u8
 #EXTINF:0,Советские
 #EXTGRP: Кино
 http://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:0,TOP USSR HD
+#EXTGRP: Кино
+http://topchantv.net:3456/911TVINFO/infoCDN/6641
+#EXTINF:0,Любимое кино Л
+#EXTGRP: Кино
+https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
 
 #EXTINF:0,Победа
 #EXTGRP: Кино
@@ -134,7 +138,7 @@ http://live02-cdn.tv.ti.ru:80/dtv/id1264_NBN_SG--KinohitHD_wflite/04/plst.m3u8
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://178.69.23.26:8000/play/36-ntv-kinomiks-936c4f8
+http://vs-msk-02.tv.ti.ru:80/dtv/id411_NBN_SG--NTVKinoPlus/01/plst.m3u8
 #EXTINF:0,КИНОМИКС2
 #EXTGRP: Кино
 http://live02-cdn.tv.ti.ru:80/dtv/id411_NBN_SG--NTVKinoPlus/01/plst.m3u8
@@ -177,7 +181,7 @@ http://v2.catcast.me/content/37388/index.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://178.163.39.204:4022/udp/234.0.0.154:2000
+http://vs-msk-02.tv.ti.ru:80/dtv/id1282_NBN_SG--KinoTVHD/04/plst.m3u8
 #EXTINF:0,Кино ТВ2
 #EXTGRP: Кино
 http://astra.realcrimea.net:8000/play/a01d
