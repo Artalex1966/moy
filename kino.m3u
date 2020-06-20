@@ -81,6 +81,9 @@ http://astra.realcrimea.net:8000/play/a01d
 #EXTGRP: Кино
 http://50.7.231.221:8081/161/index.m3u8?wmsAuthSign=1591377898p261i001i87i591S730b851e5e4808d6deda6bb4797c04bd
 
+#EXTINF:0,Победа
+#EXTGRP: Кино
+https://sc.id-tv.kz/Pobeda_36_37.m3u8
 
 #EXTINF:0,KVN-HD
 #EXTGRP: Кино
@@ -172,10 +175,6 @@ http://astra.realcrimea.net:8000/play/a05g
 #EXTINF:0,Комедия
 #EXTGRP: Кино
 http://50.7.172.60:8081/510/index.m3u8?wmsAuthSign=1590995374p261i001i87i591S9aa702bd3e7ae0e792fc71a437530846
-
-#EXTINF:0,Победа
-#EXTGRP: Кино
-http://185.22.183.157:8085/media/hls_183_157/pobeda/index.m3u8
 
 
 
