@@ -69,9 +69,12 @@ http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/904/index.m3u8
 #EXTGRP: Кино
 http://188.35.9.11:2015
 
-#EXTINF:0,Фантастика
+#EXTINF:0,Красная линия 
 #EXTGRP: Кино
-http://v2.catcast.me/content/37388/index.m3u8
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:0,Москва Доверие
+#EXTGRP: Кино
+http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
