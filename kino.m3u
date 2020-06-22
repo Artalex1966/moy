@@ -1,42 +1,3 @@
-#EXTM3U
-#EXTINF:0,Любимое кино
-#EXTGRP: Кино
-http://50.7.172.58:8081/534/index.m3u8?wmsAuthSign=1592762421p261i001i87i591S6e7470fbb49265554e0a806becd1f7c8
-#EXTINF:0,Любимое кино2
-#EXTGRP: Кино
-https://int10.divan.tv:8081/tv260/preview.mp4
-
-#EXTINF:0,Родное кино
-#EXTGRP: Кино
-http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=1592762362p261i001i87i591Sda895b6ec7e09e25f44e3851d5911a49
-#EXTINF:0,Родное кино2
-#EXTGRP: Кино
-http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
-#EXTINF:0,Родное кино3
-#EXTGRP: Кино
-http://live03-cdn.tv.ti.ru:80/dtv/id1230_NBN_SG--RodnoeKino/03/plst.m3u8
-
-#EXTINF:0,Дом Кино
-#EXTGRP: Кино
-http://50.7.172.58:8081/555/index.m3u8?wmsAuthSign=1592762325p261i001i87i591S030f8299aecf1a7390990bb62ec41f7d
-#EXTINF:0,Дом Кино2
-#EXTGRP: Кино
-http://178.217.72.66:80/225.201.2.161/tracks-v1a1/mono.m3u8
-
-#EXTINF:0,Кинохит
-#EXTGRP: Кино
-http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1592762465p261i001i87i591Sc2cfb647bdbff3b238ce6d2397d44abb
-#EXTINF:0,Кинохит2
-#EXTGRP: Кино
-http://live02-cdn.tv.ti.ru:80/dtv/id1264_NBN_SG--KinohitHD_wflite/04/plst.m3u8
-
-#EXTINF:0,КИНОМИКС
-#EXTGRP: Кино
-http://50.7.231.220:8081/181/index.m3u8?wmsAuthSign=1592762502p261i001i87i591S52da815c37fac5bda73dea0d3b7be58c
-#EXTINF:0,КИНОМИКС2
-#EXTGRP: Кино
-http://178.163.39.204:4022/udp/234.0.0.222:2000
-
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
 http://persik.by/stream/6606/411484/34.m3u8
@@ -53,7 +14,7 @@ http://178.217.72.66:80/225.201.2.54/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://persik.by/stream/6606/411484/10334.m3u8
+http://hlstv.kem.211.ru/239.211.211.145/stream.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
 http://hlstv.kem.211.ru/239.211.211.145/stream.m3u8
@@ -64,7 +25,7 @@ http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/2410/index.m3u8
 
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
-http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/904/index.m3u8
+http://s1.ttranslit.com:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=1592840142S802b9e652a7caba77f0b8d0a092dfa41S261h001h87h591
 #EXTINF:0,Остросюжетное Кино2
 #EXTGRP: Кино
 http://188.35.9.11:2015
@@ -86,27 +47,6 @@ http://astra.realcrimea.net:8000/play/a01d
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
 http://50.7.231.221:8081/161/index.m3u8?wmsAuthSign=1591377898p261i001i87i591S730b851e5e4808d6deda6bb4797c04bd
-
-
-#EXTINF:0,KVN-HD
-#EXTGRP: Кино
-http://hls.goodgame.ru:8080/hls/172148.m3u8
-
-
-#EXTINF:0,Иллюзион+
-#EXTGRP: Кино
-http://50.7.231.221:8081/130/index.m3u8?wmsAuthSign=1591377930p261i001i87i591S5592c14c72d15286423bc0f5ac5b81d1
-
-#EXTINF:0,VHS 90s
-#EXTGRP: Кино
-http://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:0,БОЕВИК TV
-#EXTGRP: Кино
-https://v2.catcast.tv/content/37493/index.m3u8
-
-#EXTINF:0,Кинопоказ HD 2
-#EXTGRP: Кино
-http://50.7.231.221:8081/170/index.m3u8?wmsAuthSign=1591378019p261i001i87i591S15754c14778a73c7bccdd69456f42b6f
 
 
 #EXTINF:0, Наше новое кино
@@ -151,16 +91,6 @@ http://topchantv.net:3456/911TVinfo/hhlIxtfvgd/428
 
 
 
-#EXTINF:0,TOP ДЕЖАВЮ
-#EXTGRP: Кино
-http://v2.catcast.me/content/37913/index.m3u8
-
-#EXTINF:0,Красная линия 
-#EXTGRP: Кино
-https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:0,Москва Доверие
-#EXTGRP: Кино
-http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 
 
 #EXTINF:0,КИНОКОМЕДИЯ
@@ -198,20 +128,11 @@ https://tinyurl.com/v8777xz/vhs/index.m3u8?token=BO6ZXW40RH
 #EXTGRP: Кино
 https://cdn-maxplanck.wasd.tv/live/302913/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,Ностальгия
+#EXTINF:0,RenTV
 #EXTGRP: Кино
-http://s1.only4.tv:82/117/video.m3u8?token=3TzgjoCHjt
+https://hzv5.sysnet.top/video/LAo3qduEZRq5vo2M_BYfjw/8/playlist.m3u8
 
 
-#EXTINF:0,Первый канал
-#EXTGRP: Хорошее
-http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
-#EXTINF:0,Россия 1
-#EXTGRP: Хорошее
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA1/variant.m3u8?version=2
-#EXTINF:0,РТР Планета
-#EXTGRP: Хорошее
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 
 #EXTINF:0,ВРЕМЯ
 #EXTGRP: Хорошее
@@ -290,4 +211,14 @@ https://v2.catcast.tv/content/38135/index.m3u8
 #EXTINF:-1,Кинозал 31 (KVN-HD) 
 https://hls.goodgame.ru/hls/172148.m3u8
 
+
+#EXTINF:0,Первый канал
+#EXTGRP: Хорошее
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+#EXTINF:0,Россия 1
+#EXTGRP: Хорошее
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA1/variant.m3u8?version=2
+#EXTINF:0,РТР Планета
+#EXTGRP: Хорошее
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 
