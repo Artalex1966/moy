@@ -11,7 +11,7 @@ https://int10.divan.tv:8081/tv260/preview.mp4
 http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=1592762362p261i001i87i591Sda895b6ec7e09e25f44e3851d5911a49
 #EXTINF:0,Родное кино2
 #EXTGRP: Кино
-http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
+http://83.172.32.25:8012/tv/nashekino
 #EXTINF:0,Родное кино3
 #EXTGRP: Кино
 http://live03-cdn.tv.ti.ru:80/dtv/id1230_NBN_SG--RodnoeKino/03/plst.m3u8
@@ -32,14 +32,14 @@ http://live02-cdn.tv.ti.ru:80/dtv/id1264_NBN_SG--KinohitHD_wflite/04/plst.m3u8
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://50.7.231.220:8081/181/index.m3u8?wmsAuthSign=1592762502p261i001i87i591S52da815c37fac5bda73dea0d3b7be58c
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 #EXTINF:0,КИНОМИКС2
 #EXTGRP: Кино
 http://178.163.39.204:4022/udp/234.0.0.222:2000
 
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
-http://persik.by/stream/6606/411484/34.m3u8
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.46/tracks-v1a1/mono.m3u8
@@ -78,7 +78,7 @@ http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://178.163.39.204:4022/udp/234.0.0.154:2000
+http://hlstv.kem.211.ru/239.211.211.86/stream.m3u8
 #EXTINF:0,Кино ТВ2
 #EXTGRP: Кино
 http://astra.realcrimea.net:8000/play/a01d
