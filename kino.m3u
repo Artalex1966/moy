@@ -1,41 +1,23 @@
 #EXTM3U
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://s1.ttranslit.com:8081/ljubimoe_kino/index.m3u8?wmsAuthSign=1592839835S12de85aa3e2b5aab96b036ffa9fc127aS261h001h87h591
-#EXTINF:0,Любимое кино2
-#EXTGRP: Кино
-https://int10.divan.tv:8081/tv260/preview.mp4
+http://dmitry-tv.my1.ru/his/blrus/CH_LUBIMOEKINO.m3u8
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=1592762362p261i001i87i591Sda895b6ec7e09e25f44e3851d5911a49
-#EXTINF:0,Родное кино2
-#EXTGRP: Кино
-http://83.172.32.25:8012/tv/nashekino
-#EXTINF:0,Родное кино3
-#EXTGRP: Кино
-http://live03-cdn.tv.ti.ru:80/dtv/id1230_NBN_SG--RodnoeKino/03/plst.m3u8
+http://dmitry-tv.my1.ru/his/blrus/CH_RODNOEKINO.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
-http://77.89.204.107:8000/play/a0bl/index.m3u8
-#EXTINF:0,Дом Кино2
-#EXTGRP: Кино
-http://50.7.222.90:8081/domkino/index.m3u8?wmsAuthSign=5476bb28a731df8c2f31698333243b3e-1592839328-261i001i87i591
+http://dmitry-tv.my1.ru/his/blrus/CH_DOMKINO.m3u8
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://hlstv.kem.211.ru/239.211.211.142/stream.m3u8
-#EXTINF:0,Кинохит2
-#EXTGRP: Кино
-http://live02-cdn.tv.ti.ru:80/dtv/id1264_NBN_SG--KinohitHD_wflite/04/plst.m3u8
+http://dmitry-tv.my1.ru/his/blrus/CH_KINOHIT.m3u8
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
-#EXTINF:0,КИНОМИКС2
-#EXTGRP: Кино
-http://178.163.39.204:4022/udp/234.0.0.222:2000
+http://dmitry-tv.my1.ru/his/blrus/CH_KINOMIKS.m3u8
 
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
@@ -47,9 +29,12 @@ http://178.217.72.66:80/225.201.2.46/tracks-v1a1/mono.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
 http://persik.by/stream/6606/411484/10330.m3u8
-#EXTINF:0,Киносемья2
+#EXTINF:0,КИНОКОМЕДИЯ
 #EXTGRP: Кино
-http://178.217.72.66:80/225.201.2.54/tracks-v1a1/mono.m3u8
+http://dmitry-tv.my1.ru/his/blrus/CH_KINOKOMEDIA.m3u8
+#EXTINF:0, Киносвидание
+#EXTGRP: Кино
+http://dmitry-tv.my1.ru/his/blrus/CH_KINOSVIDANIE.m3u8
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
@@ -129,15 +114,15 @@ http://topchantv.net:3456/911TVinfo/hhlIxtfvgd/1611
 http://topchantv.net:3456/911TVinfo/hhlIxtfvgd/428
 
 
+#EXTINF:-1,National Geographic HD
+http://dmitry-tv.my1.ru/his/blrus/CH_NATGEOHD.m3u8
+#EXTINF:-1,Discovery Channel
+http://dmitry-tv.my1.ru/his/blrus/CH_DISCOVERYCHANNEL.m3u8
+#EXTINF:-1,Discovery Science
+http://dmitry-tv.my1.ru/his/blrus/CH_DISCOVERYSCIENCE.m3u8
 
 
 
-#EXTINF:0,КИНОКОМЕДИЯ
-#EXTGRP: Кино
-http://persik.by/stream/6606/411484/292.m3u8
-#EXTINF:0, Киносвидание
-#EXTGRP: Кино
-http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 #EXTINF:0,Видеосалон VHS 3
 #EXTGRP: Кино
 https://v2.catcast.me/content/36251/index.m3u8
