@@ -43,7 +43,7 @@ http://dmitry-tv.my1.ru/his/blrus/CH_KINOMIKS.m3u8
 http://persik.by/stream/6606/411484/34.m3u8
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
-http://178.217.72.66:80/225.201.2.46/tracks-v1a1/mono.m3u8
+https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
 
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
@@ -79,7 +79,7 @@ http://v2.catcast.me/content/37388/index.m3u8
 http://178.163.39.204:4022/udp/234.0.0.154:2000
 #EXTINF:0,Кино ТВ2
 #EXTGRP: Кино
-http://astra.realcrimea.net:8000/play/a01d
+http://hlstv.kem.211.ru/239.211.211.86/stream.m3u8
 
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
@@ -88,7 +88,7 @@ http://50.7.231.221:8081/161/index.m3u8?wmsAuthSign=1591377898p261i001i87i591S73
 
 #EXTINF:0,KVN-HD
 #EXTGRP: Кино
-http://hls.goodgame.ru:8080/hls/172148.m3u8
+http://hls.goodgame.ru/hls/172148.m3u8
 
 
 #EXTINF:0,Иллюзион+
@@ -339,7 +339,7 @@ http://s1.only4.tv:82/117/video.m3u8?token=3TzgjoCHjt
 http://astra.realcrimea.net:8000/play/a08m
 #EXTINF:0,СоюзМультфильм
 #EXTGRP: Детям
-http://50.7.172.60:8081/511/index.m3u8?wmsAuthSign=1591128467p261i001i87i591Sdfb714c75d249c1873783b2f2c78bcb0
+http://serv30.vintera.tv:8081/obninsk_rusmult/rusmult/playlist.m3u8
 #EXTINF:0,TOM & JERRY HD
 #EXTGRP: Детям
 http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
