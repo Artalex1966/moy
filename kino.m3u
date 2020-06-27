@@ -246,3 +246,148 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA1/variant.m3u8?version=2
 #EXTGRP: Хорошее
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 
+
+#EXTINF:-1 group-title="unsorted",AKUDJI TV HD
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 group-title="unsorted",FAN HD
+http://hls.goodgame.ru/hls/157239.m3u8
+#EXTINF:-1 group-title="unsorted",KVN HD
+http://hls.goodgame.ru/hls/172148.m3u8
+#EXTINF:-1 group-title="unsorted",PznStreams HD
+http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1 group-title="unsorted",Кинозал 1 HD
+http://hls.goodgame.ru/hls/54516.m3u8
+#EXTINF:-1 group-title="unsorted",Кинозал 4 (ULTO)
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1 group-title="unsorted",Кинозал 11 (СССР EVGENIY)
+https://v2.catcast.tv/content/36506/index.m3u8
+#EXTINF:-1 group-title="unsorted",Кинозал 17 (VHS 90s)
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 group-title="unsorted",Кинозал 18 (VHS EVGENIY)
+https://v2.catcast.tv/content/36251/index.m3u8
+#EXTINF:-1 group-title="unsorted",Кинозал 19 (Ужасы EVGENIY)
+https://v2.catcast.tv/content/36277/index.m3u8
+#EXTINF:-1 group-title="unsorted",Kino.watch
+https://or-be-01.mycdn.video/watch/hit/index.m3u8?token=SVG4MFQOEW
+#EXTINF:-1 group-title="unsorted",ВИДЕОСАЛОН VHS
+http://hls.goodgame.ru/hls/175764.m3u8
+#EXTINF:-1 group-title="unsorted",VHS 90s
+http://v2.catcast.me/content/37925/index.m3u8
+#EXTINF:-1 group-title="unsorted",NateRou
+http://hls.goodgame.ru/hls/61358.m3u8
+#EXTINF:-1 group-title="unsorted",MUZ.PLAY
+http://hls.goodgame.ru/hls/154446.m3u8
+#EXTINF:-1 group-title="unsorted",Фильмы СССР
+https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
+#EXTINF:-1 group-title="unsorted",Дом Кино Премиум HD
+https://sc.id-tv.kz/domkino_hd_38_39.m3u8
+#EXTINF:-1 group-title="unsorted",Кино UHD
+http://188.35.9.26:16050/udp/238.0.16.1:69000
+#EXTINF:-1 group-title="unsorted",Советские Мультфильмы
+http://serv30.vintera.tv:8081/obninsk_rusmult/rusmult/playlist.m3u8
+#EXTINF:-1 group-title="unsorted",Русский Роман HD
+http://93.94.155.151:8080/russkiy_roman/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="unsorted",Дом кино
+http://178.217.72.66:80/225.201.2.161/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="unsorted",Киносемья HD
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 group-title="unsorted",Дом Кино Премиум HD
+http://188.35.9.26:12030/udp/160l
+#EXTINF:-1 group-title="unsorted",Hollywood
+http://178.217.72.66:80/225.201.2.76/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="unsorted",Кино ТВ
+http://hlstv.kem.211.ru/239.211.211.86/stream.m3u8
+#EXTINF:-1 group-title="unsorted",Кино ТВ HD
+http://astra.realcrimea.net:8000/play/a01e
+#EXTINF:-1 group-title="unsorted",Кинозал  (Zigfreed TV)
+https://v2.catcast.tv/content/37713/index.m3u8
+#EXTINF:-1 group-title="unsorted",Кинозал  (Russian Комедии EVGENIY)
+https://v2.catcast.tv/content/36168/index.m3u8
+#EXTINF:-1 group-title="unsorted",MINIMAXкомедия
+http://autopilot.catcast.tv/content/38579/index.m3u8
+#EXTINF:-1 group-title="unsorted",MINIMAXэкшен
+https://autopilot.catcast.tv/content/38580/index.m3u8
+#EXTINF:-1 group-title="unsorted",MINIMAXужасы
+http://autopilot.catcast.tv/content/38569/index.m3u8
+#EXTINF:-1 group-title="unsorted",Кинозал (Yosso ТВ)
+https://v2.catcast.tv/content/38136/index.m3u8
+#EXTINF:-1 group-title="unsorted",Travel Guide TV [FHD]
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1 group-title="unsorted",Известия ТВ FHD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="unsorted",Ultra HD Cinema
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
+#EXTINF:-1 group-title="unsorted",Кинохит HD
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1 group-title="unsorted",Киномикс HD
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1 group-title="unsorted",Киносемья HD
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 group-title="unsorted",Киносвидание HD
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 group-title="unsorted",Кинокомедия HD
+http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:-1 group-title="unsorted",КИНОПРЕМЬЕРА
+https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
+#EXTINF:-1 group-title="unsorted",Музыка 80-90s
+http://hls.clubplus.eu/ch09/index.m3u8
+#EXTINF:-1 group-title="unsorted",Ultra HD Cinema HD
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULTRAHDCINEMA_HLSHD.m3u8
+#EXTINF:-1 group-title="unsorted",Ultra REX HD
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIANEXTREMEULTRA_HLSHD.m3u8
+#EXTINF:-1 group-title="unsorted",КИНОПРЕМЬЕРА HD
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1 group-title="unsorted",FANTASTIC FLIGHT
+http://v2.catcast.tv/content/38135/index.m3u8
+#EXTINF:-1 group-title="unsorted",кино с плюсом
+http://v2.catcast.tv/content/37353/index.m3u8
+#EXTINF:-1 group-title="unsorted",HIT DOSUG TV
+http://v2.catcast.tv/content/38419/index.m3u8
+#EXTINF:-1 group-title="unsorted",MayerIP
+http://v2.catcast.tv/content/38505/index.m3u8
+#EXTINF:-1 group-title="unsorted",Смарт портал
+http://v2.catcast.tv/content/38401/index.m3u8
+#EXTINF:-1 group-title="unsorted",FILM TV HD
+http://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:-1 group-title="unsorted",Видеосервис
+http://v2.catcast.tv/content/38563/index.m3u8
+#EXTINF:-1 group-title="unsorted",СССР EVGENIY
+http://v2.catcast.me/content/36506/index.m3u8
+#EXTINF:-1 group-title="unsorted",Сити Эдем TV RU
+http://v2.catcast.tv/content/34246/index.m3u8
+#EXTINF:-1 group-title="unsorted",Сити Эдем КиноКлассика
+http://v2.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 group-title="unsorted",Сити Эдем Play
+http://v2.catcast.tv/content/34100/index.m3u8
+#EXTINF:-1 group-title="unsorted",Музыка Кино
+http://v2.catcast.me/content/37739/index.m3u8
+#EXTINF:-1 group-title="unsorted",Broadcast 1 HD
+https://v2.catcast.tv/content/35525/index.m3u8
+#EXTINF:-1 group-title="unsorted",Broadcast 2 HD
+https://v2.catcast.tv/content/35448/index.m3u8
+#EXTINF:-1 group-title="http://Кино",1Nur HD
+http://185.57.68.33:8091/228/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="http://Кино",Бригада (сериал)
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/5004
+#EXTINF:-1 group-title="http://Кино",Видеокассета
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 group-title="http://Мужские",Арсенал
+http://45.88.104.104/play/387/test/index.m3u8
+#EXTINF:-1 group-title="http://Телеканалы",Супер (+1)
+http://tinyurl.com/wgryht4/CH_SUPER/bw2000000/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 group-title="http://Телеканалы",Тимон и Пумба HD
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4792
+#EXTINF:-1 group-title="http://Телеканалы",ТВ 1
+http://autopilot.catcast.tv/content/38579/index.m3u8
+#EXTINF:-1 group-title="http://Телеканалы",ТВ 2
+http://autopilot.catcast.tv/content/38580/index.m3u8
+#EXTINF:-1 group-title="http://Телеканалы",ТВ 3
+http://autopilot.catcast.tv/content/38569/index.m3u8
+#EXTINF:-1 ,VHS EVGENIY
+https://v2.catcast.tv/content/36251/index.m3u8
+#EXTINF:-1 ,Fear (УЖАСЫ) EVGENIY
+https://v2.catcast.tv/content/36277/index.m3u8
+#EXTINF:-1 ,ДРАМА TIC EVGENIY
+https://v2.catcast.tv/content/36732/index.m3u8
+#EXTINF:-1 ,СССР EVGENIY
+https://v2.catcast.tv/content/36506/index.m3u8
