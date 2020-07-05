@@ -58,6 +58,9 @@ http://persik.by/stream/6606/411484/10334.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
 http://hlstv.kem.211.ru/239.211.211.145/stream.m3u8
+#EXTINF:0,МУЖСКОЕ КИНО3
+#EXTGRP: Кино
+http://vs-msk-02.tv.ti.ru:80/dtv/id653_NBN_SG--MuzskoeKino/03/plst.m3u8
 
 #EXTINF:0,КиноПремиум HD
 #EXTGRP: Кино
@@ -73,9 +76,6 @@ http://188.35.9.11:2015
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
 http://v2.catcast.me/content/37388/index.m3u8
-#EXTINF:0,Страх
-#EXTGRP: Кино
-http://xiptv.site/strahvideo
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
@@ -84,19 +84,9 @@ http://178.163.39.204:4022/udp/234.0.0.154:2000
 #EXTGRP: Кино
 http://astra.realcrimea.net:8000/play/a01d
 
-#EXTINF:0,КиноПоказ
+#EXTINF:0,TV Like
 #EXTGRP: Кино
-http://50.7.231.221:8081/161/index.m3u8?wmsAuthSign=1591377898p261i001i87i591S730b851e5e4808d6deda6bb4797c04bd
-
-
-#EXTINF:0,KVN-HD
-#EXTGRP: Кино
-http://hls.goodgame.ru:8080/hls/172148.m3u8
-
-
-#EXTINF:0,Иллюзион+
-#EXTGRP: Кино
-http://50.7.231.221:8081/130/index.m3u8?wmsAuthSign=1591377930p261i001i87i591S5592c14c72d15286423bc0f5ac5b81d1
+http://cdn-lc9nyc5z.playlist-24.xyz/tv_like/playlist.m3u8?token=besbwSOWExruZGimb9mee3lrRroezuxb4xBkMZ8ac3dR58apTpwlM82qdaRy6_BhfUctpyLM_nd9RS_TynCrb7g_hRbzmDMwD9KNAiCRxyM
 
 #EXTINF:0,VHS 90s
 #EXTGRP: Кино
@@ -105,18 +95,11 @@ http://v2.catcast.tv/content/37925/index.m3u8
 #EXTGRP: Кино
 https://v2.catcast.tv/content/37493/index.m3u8
 
-#EXTINF:0,Кинопоказ HD 2
-#EXTGRP: Кино
-http://50.7.231.221:8081/170/index.m3u8?wmsAuthSign=1591378019p261i001i87i591S15754c14778a73c7bccdd69456f42b6f
-
 
 #EXTINF:0, Наше новое кино
 #EXTGRP: Кино
 http://persik.by/stream/6606/411484/10334.m3u8
 
-#EXTINF:0, Наше крутое
-#EXTGRP: Кино
-http://50.7.231.221:8081/171/index.m3u8?wmsAuthSign=1591378054p261i001i87i591S97aaeb555e4f0bf092042bdaa4e1fe06
 
 #EXTINF:0,СССР
 #EXTGRP: Кино
@@ -136,10 +119,10 @@ https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?versi
 
 #EXTINF:0,Сделано в СССР
 #EXTGRP: Кино
-http://cdn-xdux85qh.ott-iptv.club/5u6l7yon/ussr/playlist.m3u8
+http://cdn-lc9nyc5z.playlist-24.xyz/ussr/playlist.m3u8?token=besbwSOWExruZGimb9mee3lrRroezuxb4xBkMZ8ac3dR58apTpwlM82qdaRy6_BhfUctpyLM_nd9RS_TynCrb7g_hRbzmDMwD9KNAiCRxyM
 #EXTINF:0,TOP USSR HD
 #EXTGRP: Кино
-http://topchantv.net:3456/911TVinfo/hhlIxtfvgd/6641
+http://topchantv.net:3456/tv91info1/911tvinfo/6641
 
 
 #EXTINF:-1,Кинозал 1 (Марс-ТВ) 
@@ -231,9 +214,6 @@ https://v2.catcast.me/content/36251/index.m3u8
 #EXTINF:0,Дом Кино Премиум HD
 #EXTGRP: Кино
 http://astra.realcrimea.net:8000/play/a05g
-#EXTINF:0,Комедия
-#EXTGRP: Кино
-http://50.7.172.60:8081/510/index.m3u8?wmsAuthSign=1590995374p261i001i87i591S9aa702bd3e7ae0e792fc71a437530846
 
 #EXTINF:0,Победа
 #EXTGRP: Кино
@@ -334,6 +314,8 @@ http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP: Хорошее
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA1/variant.m3u8?version=2
+#EXTINF:0,Россия 1 (+6)
+http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
 #EXTINF:0,РТР Планета
 #EXTGRP: Хорошее
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
