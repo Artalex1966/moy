@@ -82,7 +82,10 @@ http://v2.catcast.me/content/37388/index.m3u8
 http://178.163.39.204:4022/udp/234.0.0.154:2000
 #EXTINF:0,Кино ТВ2
 #EXTGRP: Кино
-http://astra.realcrimea.net:8000/play/a01d
+http://astra.realcrimea.net:8000/play/a09x
+#EXTINF:0,Кино ТВ2hd
+#EXTGRP: Кино
+http://astra.realcrimea.net:8000/play/a01e
 
 #EXTINF:0,TV Like
 #EXTGRP: Кино
@@ -389,24 +392,56 @@ http://217.25.216.4:8085/udp/225.1.2.82:2020
 #EXTINF:0,Adult Channel [Russian]
 #EXTGRP: Познавательное
 http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:0,Brazzers TV Europe
-#EXTGRP: Познавательное
-http://50.7.222.90:8081/brazzers_eu/index.m3u8?wmsAuthSign=ce7f6d6afe52e592178865ca04e855ea-1590047275-261i001i87i591
-#EXTINF:0,Sextosenso
-#EXTGRP: Познавательное
-http://50.7.222.90:8081/sextosenso/index.m3u8?wmsAuthSign=1032326de502b53bab4c5b0b33612e8f-1590047385-261i001i87i591
-#EXTINF:0,Private TV
-#EXTGRP: Познавательное
-http://50.7.222.90:8081/private_hd/index.m3u8?wmsAuthSign=c7cdb266e066700187186b908ed5ff92-1590047451-261i001i87i591
-#EXTINF:0,Hustler HD
-#EXTGRP: Познавательное
-http://178.217.72.66:80/225.201.2.61/tracks-v1a1/mono.m3u8
-#EXTINF:0,Playboy TV
-#EXTGRP: Познавательное
-http://50.7.222.90:8081/playboy/index.m3u8?wmsAuthSign=cc6e6db007f9a6121dc76642becf94d7-1590047313-261i001i87i591
-#EXTINF:0,Русская Ночь
-#EXTGRP: Познавательное
-http://astra.realcrimea.net:8000/play/a0ak
+
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Anal (18+)
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Big Ass (18+)
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Big Dick (18+)
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Big Tits (18+)
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Blonde (18+)
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Blowjob (18+)
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Brunette (18+)
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Compilation (18+)
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Cuckold (18+)
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Fetish (18+)
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Gangbang (18+)
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Gay (18+)
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Hardcore (18+)
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Interracial (18+)
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Latina (18+)
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Lesbian (18+)
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Livecams (18+)
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV MILF (18+)
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV POV (18+)
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Pornstar (18+)
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Rough (18+)
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Russian (18+)
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Teen (18+)
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="Для взрослых",Adult IPTV Threesome (18+)
+http://cdn.adultiptv.net/threesome.m3u8
+
 #EXTINF:0,AST TV 2
 #EXTGRP: Познавательное
 https://www.ast.tv/stream/2/cellular.m3u8
@@ -467,4 +502,6 @@ http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
 #EXTINF:0,1+1
 #EXTGRP: Украина
 http://188.35.9.11:2001/index.m3u8
+
+
 
