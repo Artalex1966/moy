@@ -186,3 +186,8 @@ http://astra.realcrimea.net:8000/play/a01d
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
 http://50.7.231.220:8081/161/index.m3u8?wmsAuthSign=1594659102p261i001i87i591S500f72975cf9a4627453e1b6eafeeac5
+
+
+#EXTINF:0,Министерство идей
+#EXTGRP: Хорошее
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.minidey
