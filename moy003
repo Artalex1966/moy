@@ -131,14 +131,14 @@ http://178.217.72.66:80/225.201.2.161/tracks-v1a1/mono.m3u8
 http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1594659213p261i001i87i591Sc0e30eeee78e753d95be54d8e95f8300
 #EXTINF:0,Кинохит2
 #EXTGRP: Кино
-http://live02-cdn.tv.ti.ru:80/dtv/id1264_NBN_SG--KinohitHD_wflite/04/plst.m3u8
+http://178.217.72.66:80/225.201.2.44/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
 http://50.7.231.220:8081/181/index.m3u8?wmsAuthSign=1594659174p261i001i87i591S402bb013db53234d6c6293eff122b427
 #EXTINF:0,КИНОМИКС2
 #EXTGRP: Кино
-http://live02-cdn.tv.ti.ru:80/dtv/id411_NBN_SG--NTVKinoPlus/01/plst.m3u8
+http://178.217.72.66:80/225.201.2.60/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
