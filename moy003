@@ -107,24 +107,27 @@ http://hlstv.kem.211.ru/239.211.211.86/stream.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://50.7.172.58:8081/534/index.m3u8?wmsAuthSign=1594659284p261i001i87i591S6998a156841f4505fe7a75ddc26e084b
+http://s1.ttranslit.com:8081/ljubimoe_kino/index.m3u8?wmsAuthSign=1594715075S33e84821c20d99f70c7c9426ca5fdcabS261h001h87h591
 #EXTINF:0,Любимое кино2
 #EXTGRP: Кино
 https://int10.divan.tv:8081/tv260/preview.mp4
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=1594659255p261i001i87i591S39b0c0d41b3043f96fe64d64450dee16
+http://s1.ttranslit.com:8081/122/index.m3u8?wmsAuthSign=1594714977S6dcd1e44add440e2823ac7658c999cd1S261h001h87h591
 #EXTINF:0,Родное кино2
 #EXTGRP: Кино
 http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
-http://50.7.231.220:8081/186/index.m3u8?wmsAuthSign=1594658943p261i001i87i591Sc81b55bf630549639c21b439fe3b6291
+http://s2.ttranslit.com:8081/domkino/index.m3u8?wmsAuthSign=1594714899S1a2821b4bff8168cdb1ca271253fe491S261h001h87h591
 #EXTINF:0,Дом Кино2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.161/tracks-v1a1/mono.m3u8
+#EXTINF:0,Дом Кино3
+#EXTGRP: Кино
+https://s119.glaz.tv:8082/liveg/domkino.stream/chunks.m3u8?nimblesessionid=23227692&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDEyOjU0OjI5IFBNJmhhc2hfdmFsdWU9cy9JMzNBZlZNSFFJc2JsTDhkTGpzQT09JnZhbGlkbWludXRlcz0yMDA=
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
@@ -135,7 +138,7 @@ http://178.217.72.66:80/225.201.2.44/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://50.7.231.220:8081/181/index.m3u8?wmsAuthSign=1594659174p261i001i87i591S402bb013db53234d6c6293eff122b427
+http://s1.ttranslit.com:8081/ki1/index.m3u8?wmsAuthSign=1594715033S0846d1b5c0c9d2bef96550be5747290dS261h001h87h591
 #EXTINF:0,КИНОМИКС2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.60/tracks-v1a1/mono.m3u8
@@ -156,7 +159,7 @@ http://178.217.72.66:80/225.201.2.54/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://50.7.172.58:8081/593/index.m3u8?wmsAuthSign=1594659065p261i001i87i591S2e4ab5c0ed4a7b2d0e7a43a22badd98f
+http://s2.ttranslit.com:8081/s4g_myz_kino/index.m3u8?wmsAuthSign=1594715153S1f64f9c10dec723d8819b6a402692831S261h001h87h591
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
 http://hlstv.kem.211.ru/239.211.211.145/stream.m3u8
@@ -167,7 +170,7 @@ http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/2410/index.m3u8
 
 #EXTINF:0,Остросюжетное Кино1
 #EXTGRP: Кино
-http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1594659037p261i001i87i591Se72656a9bd995499f7b580113a1806bd
+http://s1.ttranslit.com:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=1594715191Scfb32a3f280ae1892aaf6e3bb5d0f7aeS261h001h87h591
 #EXTINF:0,Остросюжетное Кино2
 #EXTGRP: Кино
 http://188.35.9.11:2015
@@ -195,3 +198,4 @@ http://50.7.231.220:8081/161/index.m3u8?wmsAuthSign=1594659102p261i001i87i591S50
 #EXTINF:0,Министерство идей
 #EXTGRP: Хорошее
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.minidey
+
