@@ -175,6 +175,10 @@ http://188.35.9.11:2015
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
 http://v2.catcast.me/content/37388/index.m3u8
+#EXTINF:0,Фантастика HD
+#EXTGRP: Кино
+http://xiptv.site/iptvteam.m3u8
+
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
