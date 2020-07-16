@@ -35,7 +35,7 @@ https://s102.ontvtime.ru/stream/FFA0945BCCDF67161820222426283041/f87bea57faacc38
 
 #EXTINF:0, Рен ТВ 
 #EXTGRP: Хорошее
-https://s107.ontvtime.ru/stream/FFA0945BCCDF6716182022242628304C/f87bea57faacc389c89a95438688fd0a6sMseInit
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:0, РЕН ТВ (+2) 
 #EXTGRP: Хорошее
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
@@ -80,7 +80,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8?vers
 
 #EXTINF:0,ТВЦ
 #EXTGRP: Хорошее
-https://s102.ontvtime.ru/stream/FFA0945BCCDF67161820222426283053/f87bea57faacc389c89a95438688fd0a6sMseInit
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
 #EXTINF:0,ТВЦ2
 #EXTGRP: Хорошее
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
@@ -92,36 +92,57 @@ https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565110210/5a3ca
 #EXTGRP: Хорошее
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
 
-#EXTINF:0,Остросюжетное Кино
-#EXTGRP: Кино
-http://188.35.9.26:14050/udp/238.0.14.3:69000?codec=mpeg4
+#EXTINF:-1,Антимайдан HD
+#EXTGRP: Хорошее
+http://hls.goodgame.ru/hls/6147_720.m3u8
+#EXTINF:-1,Антимайдан 2
+http://hls.goodgame.ru/hls/54105.m3u8
+#EXTINF:-1,КиноЗаказ 1
+http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1,КиноЗаказ 2
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,Кинозал Pzn streams HD
+http://hls.goodgame.ru/hls/12949.m3u8
 
-#EXTINF:0,КиноTV
-#EXTGRP: Кино
-http://hlstv.kem.211.ru/239.211.211.86/stream.m3u8
 
-
-
-
+#EXTINF:-1 group-title="музыка",101.RU - Italia
+http://193.232.148.43:8000/a65
+#EXTINF:-1 group-title="музыка",Итальянская музыка
+http://myradio.ua:8000/italjanskaja-muzyka192.mp3
+#EXTINF:-1 group-title="музыка",Лучшие песни 70-80х
+http://myradio.ua:8000/Old192.mp3
+#EXTINF:-1 group-title="музыка",Дискотека 80х
+http://myradio.ua:8000/Disco192.mp3
+#EXTINF:-1 group-title="музыка",Дискотека 90х
+http://myradio.ua:8000/disco90192.mp3
+#EXTINF:-1 group-title="музыка",Мелодичный Рок
+http://myradio.ua:8000/melodicrock192.mp3
+#EXTINF:-1 group-title="музыка",Мировые хиты
+http://myradio.ua:8000/world-hit192.mp3
+#EXTINF:-1 group-title="музыка",Музыка для сна
+http://music.myradio.ua:8000/sleepmusic192.mp3
+#EXTINF:-1 group-title="музыка",Детские песни
+http://radio-stream-2.obozrevatel.com:80/kids-songs128.mp3
+#EXTINF:-1 group-title="музыка",Детские сказки
 
 
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://50.7.172.58:8081/534/index.m3u8?wmsAuthSign=1594894406p261i001i87i591S6829f6fcbf99f110b056c1a92354847c
+http://s1.ttranslit.com:8081/ljubimoe_kino/index.m3u8?wmsAuthSign=1594715075S33e84821c20d99f70c7c9426ca5fdcabS261h001h87h591
 #EXTINF:0,Любимое кино2
 #EXTGRP: Кино
 https://int10.divan.tv:8081/tv260/preview.mp4
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=1594894472p261i001i87i591S815136038e90c95e7ed8c23b3372a8c2
+http://s1.ttranslit.com:8081/122/index.m3u8?wmsAuthSign=1594714977S6dcd1e44add440e2823ac7658c999cd1S261h001h87h591
 #EXTINF:0,Родное кино2
 #EXTGRP: Кино
 http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
-http://50.7.231.220:8081/186/index.m3u8?wmsAuthSign=1594894517p261i001i87i591S0fe9ede4218a14c0246186c4cdcf6b5c
+http://s2.ttranslit.com:8081/domkino/index.m3u8?wmsAuthSign=1594714899S1a2821b4bff8168cdb1ca271253fe491S261h001h87h591
 #EXTINF:0,Дом Кино2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.161/tracks-v1a1/mono.m3u8
@@ -131,21 +152,21 @@ https://s119.glaz.tv:8082/liveg/domkino.stream/chunks.m3u8?nimblesessionid=23227
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1594894559p261i001i87i591Sa311a390a74e6f937bc0781f02d27469
+http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1594659213p261i001i87i591Sc0e30eeee78e753d95be54d8e95f8300
 #EXTINF:0,Кинохит2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.44/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://50.7.231.220:8081/181/index.m3u8?wmsAuthSign=1594894595p261i001i87i591S531373dd2b1dfe756f8fbed4336efaca
+http://s1.ttranslit.com:8081/ki1/index.m3u8?wmsAuthSign=1594715033S0846d1b5c0c9d2bef96550be5747290dS261h001h87h591
 #EXTINF:0,КИНОМИКС2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.60/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
-http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1594894628p261i001i87i591Saa60f31937078315d6930cfa5be12b6e
+http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1594659137p261i001i87i591Sfd1e68f7afdb0ee5cb5ddd23259fde0b
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.46/tracks-v1a1/mono.m3u8
@@ -159,18 +180,18 @@ http://178.217.72.66:80/225.201.2.54/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://50.7.172.58:8081/593/index.m3u8?wmsAuthSign=1594894659p261i001i87i591S56f58c94c59c4d8cdb78add2f3b4e709
+http://s2.ttranslit.com:8081/s4g_myz_kino/index.m3u8?wmsAuthSign=1594715153S1f64f9c10dec723d8819b6a402692831S261h001h87h591
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
 http://hlstv.kem.211.ru/239.211.211.145/stream.m3u8
 
 #EXTINF:0,КиноПремиум HD
 #EXTGRP: Кино
-http://50.7.231.220:8081/134/index.m3u8?wmsAuthSign=1594894692p261i001i87i591S391301d8e49eedd4e843ce311ea3311b
+http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/2410/index.m3u8
 
 #EXTINF:0,Остросюжетное Кино1
 #EXTGRP: Кино
-http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1594894722p261i001i87i591S168464550c500b874c3d82e466027c04
+http://s1.ttranslit.com:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=1594715191Scfb32a3f280ae1892aaf6e3bb5d0f7aeS261h001h87h591
 #EXTINF:0,Остросюжетное Кино2
 #EXTGRP: Кино
 http://188.35.9.11:2015
@@ -185,17 +206,16 @@ http://xiptv.site/iptvteam.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1594894756p261i001i87i591Sfb4c4366e14101f28f6564f1da9b4711
+http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1594658977p261i001i87i591Sf15192dd9f526ef99df35d99cf54733b
 #EXTINF:0,Кино ТВ2
 #EXTGRP: Кино
 http://astra.realcrimea.net:8000/play/a01d
 
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
-http://50.7.231.220:8081/161/index.m3u8?wmsAuthSign=1594894783p261i001i87i591S0a7586d28205688df808dd72c5d7fa45
+http://50.7.231.220:8081/161/index.m3u8?wmsAuthSign=1594659102p261i001i87i591S500f72975cf9a4627453e1b6eafeeac5
 
 
-#EXTINF:0,Министерство идей
-#EXTGRP: Хорошее
-http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.minidey
+#EXTINF:-1,Евроновости
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 
