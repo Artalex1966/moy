@@ -32,6 +32,10 @@ http://cdn-lc9nyc5z.playlist-24.xyz/ussr/playlist.m3u8?token=besbwSOWExruZGimb9m
 #EXTINF:0, НТВ 
 #EXTGRP: Хорошее
 https://s102.ontvtime.ru/stream/FFA0945BCCDF67161820222426283041/f87bea57faacc389c89a95438688fd0a6sMseInit
+#EXTINF:0, НТВ2
+#EXTGRP: Хорошее
+http://persik.by/stream/6606/411484/10.m3u8
+
 
 #EXTINF:0, Рен ТВ 
 #EXTGRP: Хорошее
@@ -62,7 +66,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/bw2000000/variant.m3u8?versi
 #EXTGRP: Хорошее
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8?version=2
 
-
+#EXTINF:0,Победа
+#EXTGRP: Хорошее
+http://151.252.74.92:4545/udp/236.0.6.242:1120
 
 #EXTINF:0,ТНТ4 +2
 #EXTGRP: Хорошее
@@ -128,21 +134,21 @@ http://radio-stream-2.obozrevatel.com:80/kids-songs128.mp3
 
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://s1.ttranslit.com:8081/ljubimoe_kino/index.m3u8?wmsAuthSign=1594715075S33e84821c20d99f70c7c9426ca5fdcabS261h001h87h591
+http://persik.by/stream/6606/411484/10452.m3u8
 #EXTINF:0,Любимое кино2
 #EXTGRP: Кино
 https://int10.divan.tv:8081/tv260/preview.mp4
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://s1.ttranslit.com:8081/122/index.m3u8?wmsAuthSign=1594714977S6dcd1e44add440e2823ac7658c999cd1S261h001h87h591
+http://persik.by/stream/6606/411484/312.m3u8
 #EXTINF:0,Родное кино2
 #EXTGRP: Кино
 http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
-http://s2.ttranslit.com:8081/domkino/index.m3u8?wmsAuthSign=1594714899S1a2821b4bff8168cdb1ca271253fe491S261h001h87h591
+http://persik.by/stream/6606/411484/10228.m3u8
 #EXTINF:0,Дом Кино2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.161/tracks-v1a1/mono.m3u8
@@ -152,35 +158,35 @@ https://s119.glaz.tv:8082/liveg/domkino.stream/chunks.m3u8?nimblesessionid=23227
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1594659213p261i001i87i591Sc0e30eeee78e753d95be54d8e95f8300
+http://persik.by/stream/6606/411484/213.m3u8
 #EXTINF:0,Кинохит2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.44/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://s1.ttranslit.com:8081/ki1/index.m3u8?wmsAuthSign=1594715033S0846d1b5c0c9d2bef96550be5747290dS261h001h87h591
+http://persik.by/stream/6606/411484/608.m3u8
 #EXTINF:0,КИНОМИКС2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.60/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
-http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1594659137p261i001i87i591Sfd1e68f7afdb0ee5cb5ddd23259fde0b
+http://persik.by/stream/6606/411484/10328.m3u8
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.46/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
-http://50.7.172.58:8081/531/index.m3u8?wmsAuthSign=1594632660p261i001i87i591S4ffbb80f5a9e1440dc45f9f84238879d
+http://persik.by/stream/6606/411484/590.m3u8
 #EXTINF:0,Киносемья2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.54/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://s2.ttranslit.com:8081/s4g_myz_kino/index.m3u8?wmsAuthSign=1594715153S1f64f9c10dec723d8819b6a402692831S261h001h87h591
+http://persik.by/stream/6606/411484/10025.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
 http://hlstv.kem.211.ru/239.211.211.145/stream.m3u8
