@@ -39,7 +39,7 @@ http://persik.by/stream/6606/411484/10.m3u8
 
 #EXTINF:0, Рен ТВ 
 #EXTGRP: Хорошее
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:0, РЕН ТВ (+2) 
 #EXTGRP: Хорошее
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
@@ -110,26 +110,6 @@ http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,Кинозал Pzn streams HD
 http://hls.goodgame.ru/hls/12949.m3u8
 
-
-#EXTINF:-1 group-title="музыка",101.RU - Italia
-http://193.232.148.43:8000/a65
-#EXTINF:-1 group-title="музыка",Итальянская музыка
-http://myradio.ua:8000/italjanskaja-muzyka192.mp3
-#EXTINF:-1 group-title="музыка",Лучшие песни 70-80х
-http://myradio.ua:8000/Old192.mp3
-#EXTINF:-1 group-title="музыка",Дискотека 80х
-http://myradio.ua:8000/Disco192.mp3
-#EXTINF:-1 group-title="музыка",Дискотека 90х
-http://myradio.ua:8000/disco90192.mp3
-#EXTINF:-1 group-title="музыка",Мелодичный Рок
-http://myradio.ua:8000/melodicrock192.mp3
-#EXTINF:-1 group-title="музыка",Мировые хиты
-http://myradio.ua:8000/world-hit192.mp3
-#EXTINF:-1 group-title="музыка",Музыка для сна
-http://music.myradio.ua:8000/sleepmusic192.mp3
-#EXTINF:-1 group-title="музыка",Детские песни
-http://radio-stream-2.obozrevatel.com:80/kids-songs128.mp3
-#EXTINF:-1 group-title="музыка",Детские сказки
 
 
 #EXTINF:0,Любимое кино
