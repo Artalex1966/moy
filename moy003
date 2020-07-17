@@ -31,18 +31,18 @@ http://cdn-lc9nyc5z.playlist-24.xyz/ussr/playlist.m3u8?token=besbwSOWExruZGimb9m
 
 #EXTINF:0, НТВ 
 #EXTGRP: Хорошее
-https://s102.ontvtime.ru/stream/FFA0945BCCDF67161820222426283041/f87bea57faacc389c89a95438688fd0a6sMseInit
-#EXTINF:0, НТВ2
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTV.m3u8
+#EXTINF:0, НТВ +2
 #EXTGRP: Хорошее
-http://persik.by/stream/6606/411484/10.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTV_2.m3u8
 
 
 #EXTINF:0, Рен ТВ 
 #EXTGRP: Хорошее
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV.m3u8
 #EXTINF:0, РЕН ТВ (+2) 
 #EXTGRP: Хорошее
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_2.m3u8
 #EXTINF:0, РЕН ТВ (+4) 
 #EXTGRP: Хорошее
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_4.m3u8
@@ -70,33 +70,36 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8?versi
 #EXTGRP: Хорошее
 http://151.252.74.92:4545/udp/236.0.6.242:1120
 
-#EXTINF:0,ТНТ4 +2
+#EXTINF:0,ТНТ
 #EXTGRP: Хорошее
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/bw2000000/variant.m3u8?version=2
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT.m3u8
+#EXTINF:0,ТНТ4
+#EXTGRP: Хорошее
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT4.m3u8
 
 #EXTINF:0,CTC
 #EXTGRP: Хорошее
-http://178.69.23.26:8000/play/36-ntv-sts-36e9af6
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS.m3u8
 #EXTINF:0,СТС International
 #EXTGRP: Хорошее
 http://sc.id-tv.kz/STS_36_37.m3u8
 #EXTINF:0,СТС Love
 #EXTGRP: Хорошее
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8?version=2
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE.m3u8
 
 #EXTINF:0,ТВЦ
 #EXTGRP: Хорошее
-http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
-#EXTINF:0,ТВЦ2
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVC.m3u8
+#EXTINF:0,ТВЦ +2
 #EXTGRP: Хорошее
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVC_2.m3u8
 
 #EXTINF:0,Супер
 #EXTGRP: Хорошее
-https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565110210/5a3ca6e737ed0c5f7ad9867e6f2bb135/playlist.m3u8
-#EXTINF:0,Супер 2
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER.m3u8
+#EXTINF:0,Супер +2
 #EXTGRP: Хорошее
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER_2.m3u8
 
 #EXTINF:-1,Антимайдан HD
 #EXTGRP: Хорошее
@@ -109,7 +112,6 @@ http://hls.goodgame.ru/hls/12949.m3u8
 http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,Кинозал Pzn streams HD
 http://hls.goodgame.ru/hls/12949.m3u8
-
 
 
 #EXTINF:0,Любимое кино
@@ -204,4 +206,6 @@ http://50.7.231.220:8081/161/index.m3u8?wmsAuthSign=1594659102p261i001i87i591S50
 
 #EXTINF:-1,Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+
+
 
