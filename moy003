@@ -116,59 +116,41 @@ http://hls.goodgame.ru/hls/12949.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://persik.by/stream/6606/411484/10452.m3u8
-#EXTINF:0,Любимое кино2
-#EXTGRP: Кино
-https://int10.divan.tv:8081/tv260/preview.mp4
+http://zigfreed.ru/H4i/180.m3u8
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://persik.by/stream/6606/411484/312.m3u8
-#EXTINF:0,Родное кино2
-#EXTGRP: Кино
-http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
+http://zigfreed.ru/H4i/209.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
 http://main.simpletv.eu:8080/ru-dom-kino/index.m3u8?token=054c1ad5e8860feaf54c4ecf9424e5d5
-#EXTINF:0,Дом Кино2
-#EXTGRP: Кино
-http://178.217.72.66:80/225.201.2.161/tracks-v1a1/mono.m3u8
-#EXTINF:0,Дом Кино3
-#EXTGRP: Кино
-https://s119.glaz.tv:8082/liveg/domkino.stream/chunks.m3u8?nimblesessionid=23227692&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIwIDEyOjU0OjI5IFBNJmhhc2hfdmFsdWU9cy9JMzNBZlZNSFFJc2JsTDhkTGpzQT09JnZhbGlkbWludXRlcz0yMDA=
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
-#EXTINF:0,Кинохит2
-#EXTGRP: Кино
-http://178.217.72.66:80/225.201.2.44/tracks-v1a1/mono.m3u8
+http://zigfreed.ru/H4i/155.m3u8
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+http://zigfreed.ru/H4i/142.m3u8
 #EXTINF:0,КИНОМИКС2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.60/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
-http://persik.by/stream/6606/411484/10328.m3u8
+http://zigfreed.ru/H4i/147.m3u8
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.46/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
-http://persik.by/stream/6606/411484/590.m3u8
-#EXTINF:0,Киносемья2
-#EXTGRP: Кино
-http://178.217.72.66:80/225.201.2.54/tracks-v1a1/mono.m3u8
+http://zigfreed.ru/H4i/151.m3u8
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://188.113.190.12/316/video.m3u8
+http://zigfreed.ru/H4i/173.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
 http://hlstv.kem.211.ru/239.211.211.145/stream.m3u8
@@ -179,7 +161,7 @@ http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/2410/index.m3u8
 
 #EXTINF:0,Остросюжетное Кино1
 #EXTGRP: Кино
-http://s1.ttranslit.com:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=1594715191Scfb32a3f280ae1892aaf6e3bb5d0f7aeS261h001h87h591
+http://zigfreed.ru/H4i/191.m3u8
 #EXTINF:0,Остросюжетное Кино2
 #EXTGRP: Кино
 http://188.35.9.11:2015
@@ -201,7 +183,7 @@ http://astra.realcrimea.net:8000/play/a01d
 
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
-http://50.7.231.220:8081/161/index.m3u8?wmsAuthSign=1594659102p261i001i87i591S500f72975cf9a4627453e1b6eafeeac5
+http://zigfreed.ru/H4i/144.m3u8
 
 
 #EXTINF:-1,Евроновости
