@@ -502,6 +502,8 @@ http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
 #EXTGRP: Украина
 http://188.35.9.11:2001/index.m3u8
 
-
+#EXTINF:0,Великий уравнитель 2
+#EXTGRP: Кино
+https://am1.cdnlast.com/s/c3521b3d451d5462334e8466ca9ea012f5db64/uhd/The.Equalizer.2.2018.BDRip.x265.10bit.SDR.Master5_480.mp4
 
 
