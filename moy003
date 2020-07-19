@@ -130,7 +130,7 @@ http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
-http://persik.by/stream/6606/411484/10228.m3u8
+http://main.simpletv.eu:8080/ru-dom-kino/index.m3u8?token=054c1ad5e8860feaf54c4ecf9424e5d5
 #EXTINF:0,Дом Кино2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.161/tracks-v1a1/mono.m3u8
@@ -140,14 +140,14 @@ https://s119.glaz.tv:8082/liveg/domkino.stream/chunks.m3u8?nimblesessionid=23227
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://persik.by/stream/6606/411484/213.m3u8
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #EXTINF:0,Кинохит2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.44/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://persik.by/stream/6606/411484/608.m3u8
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 #EXTINF:0,КИНОМИКС2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.60/tracks-v1a1/mono.m3u8
@@ -168,7 +168,7 @@ http://178.217.72.66:80/225.201.2.54/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://persik.by/stream/6606/411484/10025.m3u8
+http://188.113.190.12/316/video.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
 http://hlstv.kem.211.ru/239.211.211.145/stream.m3u8
@@ -194,7 +194,7 @@ http://xiptv.site/iptvteam.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1594658977p261i001i87i591Sf15192dd9f526ef99df35d99cf54733b
+http://hlstv.kem.211.ru/239.211.211.86/stream.m3u8
 #EXTINF:0,Кино ТВ2
 #EXTGRP: Кино
 http://astra.realcrimea.net:8000/play/a01d
@@ -206,6 +206,4 @@ http://50.7.231.220:8081/161/index.m3u8?wmsAuthSign=1594659102p261i001i87i591S50
 
 #EXTINF:-1,Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-
-
 
