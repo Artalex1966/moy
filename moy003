@@ -189,3 +189,8 @@ http://zigfreed.ru/H4i/144.m3u8
 #EXTINF:-1,Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 
+
+#EXTINF:0,Великий уравнитель 2
+#EXTGRP: Кино
+https://am1.cdnlast.com/s/c3521b3d451d5462334e8466ca9ea012f5db64/uhd/The.Equalizer.2.2018.BDRip.x265.10bit.SDR.Master5_480.mp4
+
