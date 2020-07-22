@@ -68,7 +68,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8?versi
 
 #EXTINF:0,Победа
 #EXTGRP: Хорошее
-http://151.252.74.92:4545/udp/236.0.6.242:1120
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
 
 #EXTINF:0,ТНТ
 #EXTGRP: Хорошее
@@ -116,11 +116,11 @@ http://hls.goodgame.ru/hls/12949.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://zigfreed.ru/H4i/180.m3u8
+http://50.7.172.58:8081/534/index.m3u8?wmsAuthSign=1595401062p261i001i87i591S9c313c6a6fceb189b16b281e0bd871f4
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://zigfreed.ru/H4i/209.m3u8
+http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=1595400993p261i001i87i591S00f0ac9cb38c212f0bfec5e8e9888dc2
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
@@ -128,40 +128,40 @@ http://main.simpletv.eu:8080/ru-dom-kino/index.m3u8?token=054c1ad5e8860feaf54c4e
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://zigfreed.ru/H4i/155.m3u8
+http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1595401090p261i001i87i591S81cd56d6499910fe0170444cee7afbe3
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://zigfreed.ru/H4i/142.m3u8
+http://50.7.231.220:8081/181/index.m3u8?wmsAuthSign=1595401127p261i001i87i591S21101ae16427b8cd9c0b00759d39ec1f
 #EXTINF:0,КИНОМИКС2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.60/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
-http://zigfreed.ru/H4i/147.m3u8
+http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1595401197p261i001i87i591Sac310c1d4d1dabc79cbf497d14905778
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.46/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
-http://zigfreed.ru/H4i/151.m3u8
+http://50.7.172.58:8081/531/index.m3u8?wmsAuthSign=1595401240p261i001i87i591Sb6f7b3708d5c39000b40e41039df36a5
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://zigfreed.ru/H4i/173.m3u8
+http://50.7.172.58:8081/593/index.m3u8?wmsAuthSign=1595401280p261i001i87i591Sf07cdada4900f3afbfdd787be3493dd3
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
 http://hlstv.kem.211.ru/239.211.211.145/stream.m3u8
 
 #EXTINF:0,КиноПремиум HD
 #EXTGRP: Кино
-http://6fckghsr.ottclub.xyz/iptv/8SB4RFT68DLVCR/2410/index.m3u8
+http://50.7.231.220:8081/134/index.m3u8?wmsAuthSign=1595401310p261i001i87i591Sc1b9aaff61fe12f4821d20d9c43207be
 
 #EXTINF:0,Остросюжетное Кино1
 #EXTGRP: Кино
-http://zigfreed.ru/H4i/191.m3u8
+http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1595401384p261i001i87i591S18b2b818943ce5f06a32a84ad31abc25
 #EXTINF:0,Остросюжетное Кино2
 #EXTGRP: Кино
 http://188.35.9.11:2015
@@ -176,21 +176,17 @@ http://xiptv.site/iptvteam.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://hlstv.kem.211.ru/239.211.211.86/stream.m3u8
+http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1595401458p261i001i87i591Sd29166b9d0d8e884df3567a09fbb9f4d
 #EXTINF:0,Кино ТВ2
 #EXTGRP: Кино
 http://astra.realcrimea.net:8000/play/a01d
 
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
-http://zigfreed.ru/H4i/144.m3u8
+http://50.7.231.220:8081/161/index.m3u8?wmsAuthSign=1595402010p261i001i87i591S1d17c50a38c6c971329288b65379fe9c
 
 
 #EXTINF:-1,Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 
-
-#EXTINF:0,Великий уравнитель 2
-#EXTGRP: Кино
-https://am1.cdnlast.com/s/c3521b3d451d5462334e8466ca9ea012f5db64/uhd/The.Equalizer.2.2018.BDRip.x265.10bit.SDR.Master5_480.mp4
 
