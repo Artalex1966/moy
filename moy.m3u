@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://persik.by/stream/6606/411484/10452.m3u8
+http://185.162.8.175:6878/ace/manifest.m3u8?id=955cd1b27127af159b087aad0dc4ec5342401dcb
 #EXTINF:0,Любимое кино2
 #EXTGRP: Кино
 https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
@@ -11,11 +11,11 @@ https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?versi
 http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 #EXTINF:0,Родное кино2
 #EXTGRP: Кино
-http://zigfreed.ru/H4i/209.m3u8
+http://185.162.8.175:6878/ace/manifest.m3u8?id=d0ca319ff96f596771f3f8ef887528eea95120de
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
-http://178.217.72.66:80/225.201.2.161/tracks-v1a1/mono.m3u8
+http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
 #EXTINF:0,Дом Кино2
 #EXTGRP: Кино
 http://main.simpletv.eu:8080/ru-dom-kino/index.m3u8?token=054c1ad5e8860feaf54c4ecf9424e5d5
@@ -36,7 +36,7 @@ http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
-http://178.217.72.66:80/225.201.2.46/tracks-v1a1/mono.m3u8
+https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
@@ -50,7 +50,7 @@ http://178.217.72.66:80/225.201.2.54/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://178.217.72.66:80/225.201.2.182/tracks-v1a1/mono.m3u8
+http://188.35.9.11:2022
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
 http://hlstv.kem.211.ru/239.211.211.145/stream.m3u8
@@ -121,13 +121,48 @@ http://zigfreed.ru/H4i/217.m3u8
 #EXTINF:0,Любимое кино Л
 #EXTGRP: Кино
 https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
-
+#EXTINF:0,Фильмы СССР-tva.in.ua
+#EXTGRP: Кино
+https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
 #EXTINF:0,Сделано в СССР
 #EXTGRP: Кино
 http://cdn-lc9nyc5z.playlist-24.xyz/ussr/playlist.m3u8?token=besbwSOWExruZGimb9mee3lrRroezuxb4xBkMZ8ac3dR58apTpwlM82qdaRy6_BhfUctpyLM_nd9RS_TynCrb7g_hRbzmDMwD9KNAiCRxyM
 #EXTINF:0,TOP USSR HD
 #EXTGRP: Кино
 http://topchantv.net:3456/tv91info1/911tvinfo/6641
+
+#EXTINF:-1 ,5656 ТВ Друзья
+https://5656.ga//ch10.m3u8
+
+#EXTINF:-1 ,5656 ТВ Фильмы полный метр
+https://5656.ga//ch13.m3u8
+#EXTINF:-1 ,5656 ТВ Фильмы полный метр
+https://5656.ga//ch14.m3u8
+#EXTINF:-1 ,5656 ТВ Фильмы полный метр
+https://5656.ga//ch5.m3u8
+#EXTINF:-1 ,5656 ТВ Фильмы полный метр
+https://5656.ga//ch6.m3u8
+#EXTINF:-1 ,5656 ТВ Фильмы полный метр
+https://5656.ga//ch7.m3u8
+#EXTINF:-1 ,5656 ТВ Фильмы полный метр
+https://5656.ga//ch8.m3u8
+#EXTINF:-1 ,Канал 9
+https://5656.ga/ch9.m3u8
+#EXTINF:-1 ,Канал 10
+https://5656.ga/ch10.m3u8
+#EXTINF:-1 ,Канал 11
+https://5656.ga/ch11.m3u8
+#EXTINF:-1 ,Канал 12
+https://5656.ga/ch12.m3u8
+#EXTINF:-1 ,Канал 13
+https://5656.ga/ch13.m3u8
+#EXTINF:-1 ,Канал 14
+https://5656.ga/ch14.m3u8
+#EXTINF:-1 ,Канал 15
+https://5656.ga/ch15.m3u8
+#EXTINF:-1 ,Канал 16
+https://5656.ga/ch16.m3u8
+
 
 
 #EXTINF:-1,Кинозал 1 (Марс-ТВ) 
