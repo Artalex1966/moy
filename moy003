@@ -153,7 +153,7 @@ http://hls.goodgame.ru/hls/12949.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://90.188.5.19:6879/ace/manifest.m3u8?id=76dba6f9ac67300ef94b693af84f193a5e39aa29
+http://50.7.172.58:8081/534/index.m3u8?wmsAuthSign=1595577272p261i001i87i591Saf46d05550dec393847246eedd201888
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
