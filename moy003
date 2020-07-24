@@ -153,52 +153,52 @@ http://hls.goodgame.ru/hls/12949.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://50.7.172.58:8081/534/index.m3u8?wmsAuthSign=1595401062p261i001i87i591S9c313c6a6fceb189b16b281e0bd871f4
+http://90.188.5.19:6879/ace/manifest.m3u8?id=76dba6f9ac67300ef94b693af84f193a5e39aa29
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=1595400993p261i001i87i591S00f0ac9cb38c212f0bfec5e8e9888dc2
+http://185.162.8.175:6878/ace/manifest.m3u8?id=d0ca319ff96f596771f3f8ef887528eea95120de
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
-http://main.simpletv.eu:8080/ru-dom-kino/index.m3u8?token=054c1ad5e8860feaf54c4ecf9424e5d5
+http://185.162.8.175:6878/ace/manifest.m3u8?id=76dba6f9ac67300ef94b693af84f193a5e39aa29
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1595401090p261i001i87i591S81cd56d6499910fe0170444cee7afbe3
+http://185.162.8.175:6878/ace/manifest.m3u8?id=17a7bdf381d98ea110654d230a22b08136cc6d7b
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://50.7.231.220:8081/181/index.m3u8?wmsAuthSign=1595401127p261i001i87i591S21101ae16427b8cd9c0b00759d39ec1f
+http://185.162.8.175:6878/ace/manifest.m3u8?id=bfa49750d8153978629b6dcffcd13d0a59cb35a0
 #EXTINF:0,КИНОМИКС2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.60/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
-http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1595401197p261i001i87i591Sac310c1d4d1dabc79cbf497d14905778
+http://185.162.8.175:6878/ace/manifest.m3u8?id=be5599ac4112e2d0a4765f6e05a42aa683d6dd31
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.46/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
-http://50.7.172.58:8081/531/index.m3u8?wmsAuthSign=1595401240p261i001i87i591Sb6f7b3708d5c39000b40e41039df36a5
+http://185.162.8.175:6878/ace/manifest.m3u8?id=8e41521482e2daf70b032dea8348abc06f58192a
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://50.7.172.58:8081/593/index.m3u8?wmsAuthSign=1595401280p261i001i87i591Sf07cdada4900f3afbfdd787be3493dd3
+http://90.188.5.19:6879/ace/manifest.m3u8?id=6976c8024012ae13de8cd5003d463983f398a9df
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
 http://hlstv.kem.211.ru/239.211.211.145/stream.m3u8
 
 #EXTINF:0,КиноПремиум HD
 #EXTGRP: Кино
-http://50.7.231.220:8081/134/index.m3u8?wmsAuthSign=1595401310p261i001i87i591Sc1b9aaff61fe12f4821d20d9c43207be
+http://90.188.5.19:6879/ace/manifest.m3u8?id=6a45f49f6cb3f271cf28d94bd0a6c61897134c61
 
 #EXTINF:0,Остросюжетное Кино1
 #EXTGRP: Кино
-http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1595401384p261i001i87i591S18b2b818943ce5f06a32a84ad31abc25
+http://90.188.5.19:6879/ace/manifest.m3u8?id=84b27b33a6e7b057904e667684136bc108371f6c
 #EXTINF:0,Остросюжетное Кино2
 #EXTGRP: Кино
 http://188.35.9.11:2015
@@ -213,17 +213,18 @@ http://xiptv.site/iptvteam.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1595401458p261i001i87i591Sd29166b9d0d8e884df3567a09fbb9f4d
+http://a3569458686-zabava-htlive.cdn.ngenix.net/hls/CH_KINOTVHD/bw5000000/playlist.m3u8?__fvd__=&utcstart=1595556000
 #EXTINF:0,Кино ТВ2
 #EXTGRP: Кино
 http://astra.realcrimea.net:8000/play/a01d
 
 #EXTINF:0,КиноПоказ
 #EXTGRP: Кино
-http://50.7.231.220:8081/161/index.m3u8?wmsAuthSign=1595402010p261i001i87i591S1d17c50a38c6c971329288b65379fe9c
+http://185.162.8.175:6878/ace/manifest.m3u8?id=5fa0a903f6d4e10adf1603a050e1f77eb3a2ad09
 
 
 #EXTINF:-1,Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+
 
 
