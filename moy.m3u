@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://185.162.8.175:6878/ace/manifest.m3u8?id=955cd1b27127af159b087aad0dc4ec5342401dcb
+http://185.162.8.175:6878/ace/manifest.m3u8?id=6dad8aa3a6a5461a5f7d8a5502f18747390d695a
 #EXTINF:0,Любимое кино2
 #EXTGRP: Кино
 https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
@@ -46,17 +46,17 @@ https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 http://89.106.234.4:80/Kinosemiya_hd_34_35.m3u8
 #EXTINF:0,Киносемья2
 #EXTGRP: Кино
-http://178.217.72.66:80/225.201.2.54/tracks-v1a1/mono.m3u8
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
 http://188.35.9.11:2022
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
-http://hlstv.kem.211.ru/239.211.211.145/stream.m3u8
+http://188.113.190.12/316/video.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО3
 #EXTGRP: Кино
-http://zigfreed.ru/H4i/173.m3u8
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 
 #EXTINF:0,КиноПремиум HD
 #EXTGRP: Кино
@@ -131,37 +131,34 @@ http://cdn-lc9nyc5z.playlist-24.xyz/ussr/playlist.m3u8?token=besbwSOWExruZGimb9m
 #EXTGRP: Кино
 http://topchantv.net:3456/tv91info1/911tvinfo/6641
 
-#EXTINF:-1 ,5656 ТВ Друзья
-https://5656.ga//ch10.m3u8
-
-#EXTINF:-1 ,5656 ТВ Фильмы полный метр
-https://5656.ga//ch13.m3u8
-#EXTINF:-1 ,5656 ТВ Фильмы полный метр
-https://5656.ga//ch14.m3u8
-#EXTINF:-1 ,5656 ТВ Фильмы полный метр
-https://5656.ga//ch5.m3u8
-#EXTINF:-1 ,5656 ТВ Фильмы полный метр
-https://5656.ga//ch6.m3u8
-#EXTINF:-1 ,5656 ТВ Фильмы полный метр
-https://5656.ga//ch7.m3u8
-#EXTINF:-1 ,5656 ТВ Фильмы полный метр
-https://5656.ga//ch8.m3u8
-#EXTINF:-1 ,Канал 9
-https://5656.ga/ch9.m3u8
-#EXTINF:-1 ,Канал 10
-https://5656.ga/ch10.m3u8
-#EXTINF:-1 ,Канал 11
-https://5656.ga/ch11.m3u8
-#EXTINF:-1 ,Канал 12
-https://5656.ga/ch12.m3u8
-#EXTINF:-1 ,Канал 13
-https://5656.ga/ch13.m3u8
-#EXTINF:-1 ,Канал 14
-https://5656.ga/ch14.m3u8
-#EXTINF:-1 ,Канал 15
-https://5656.ga/ch15.m3u8
-#EXTINF:-1 ,Канал 16
-https://5656.ga/ch16.m3u8
+#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Познавательные",Viasat Nature
+http://mystrah.online/iptv/XZRBCCH/channel/630.m3u8
+#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Кино",BACKUSTV HD
+http://mystrah.online/iptv/XZRBCCH/channel/780.m3u8
+#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Кино",Кино 1 HD
+http://mystrah.online/iptv/XZRBCCH/channel/1175.m3u8
+#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Кино",Кинозал! ХИТ HD
+http://mystrah.online/iptv/XZRBCCH/channel/1071.m3u8
+#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Познавательные",Первый космический HD
+http://mystrah.online/iptv/XZRBCCH/channel/1064.m3u8
+#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Игры",Game Show HD
+http://mystrah.online/iptv/XZRBCCH/channel/204.m3u8
+#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Детские",Кроха ТВ
+http://mystrah.online/iptv/XZRBCCH/channel/737.m3u8
+#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Детские",Ералаш HD
+http://mystrah.online/iptv/XZRBCCH/channel/187.m3u8
+#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Кино",ViP Comedy HD
+http://mystrah.online/iptv/XZRBCCH/channel/588.m3u8
+#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Спорт",WWE Russian
+http://mystrah.online/iptv/XZRBCCH/channel/1163.m3u8
+#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Музыка",CMC TV HD
+http://mystrah.online/iptv/XZRBCCH/channel/255.m3u8
+#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Кино",Илья ТВ HD
+http://mystrah.online/iptv/XZRBCCH/channel/1182.m3u8
+#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Кино",Страх HD
+http://xiptv.site/iptvteam.flv
+#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Кино",Фантастика HD
+http://xiptv.site/iptvteam.m3u8
 
 
 
@@ -171,65 +168,100 @@ https://v2.catcast.tv/content/37033/index.m3u8
 https://hls.goodgame.ru/hls/12949_720.m3u8
 #EXTINF:-1,Кинозал 3 (ULTO) 
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
-#EXTINF:-1,Кинозал 4 (STR TV) 
-https://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF:-1,Кинозал 5 (Zigfreed TV) 
-https://v2.catcast.tv/content/37713/index.m3u8
-#EXTINF:-1,Кинозал 6 (СССР EVGENIY) 
+#EXTINF:-1,Кинозал 4 (СССР EVGENIY) 
 https://v2.catcast.tv/content/36506/index.m3u8
-#EXTINF:-1,Кинозал 7 (Сити Эдем TV) 
-https://v2.catcast.tv/content/34246/index.m3u8
-#EXTINF:-1,Кинозал 8 (Гал ТВ) 
+#EXTINF:-1,Кинозал 5 (Гал ТВ) 
 http://clients.apsny.camera/tv_gal_tv_hd_online/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозал 9 (Сити Эдем киноклассика) 
-https://v2.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1,Кинозал 10 (Видеокассета) 
+#EXTINF:-1,Кинозал 6 (Видеокассета) 
 https://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1,Кинозал 11 (VHS EVGENIY) 
+#EXTINF:-1,Кинозал 7 (VHS EVGENIY) 
 https://v2.catcast.tv/content/36251/index.m3u8
-#EXTINF:-1,Кинозал 12 (Ужасы EVGENIY)
+#EXTINF:-1,Кинозал 8 (Ужасы EVGENIY)
 https://v2.catcast.tv/content/36277/index.m3u8
-#EXTINF:-1,Кинозал 13 (Russian Комедии EVGENIY)
+#EXTINF:-1,Кинозал 9 (Russian Комедии EVGENIY)
 https://v2.catcast.tv/content/36168/index.m3u8
-#EXTINF:-1,Кинозал 14 (Кинорейс 1)
-http://timeshift.arpinet.am/228/tracks-v1a1/index.m3u8
-#EXTINF:-1,Кинозал 15 (akudji) 
+#EXTINF:-1,Кинозал 10 (akudji) 
 https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1,Кинозал 16 (Киносезон 1)
+#EXTINF:-1,Кинозал 11 (Киносезон 1)
 https://5656.ga/ch1.m3u8
-#EXTINF:-1,Кинозал 17 (Киносезон 2)
+#EXTINF:-1,Кинозал 12 (Киносезон 2)
 https://5656.ga/ch2.m3u8
-#EXTINF:-1,Кинозал 18 (Киносезон 3)
+#EXTINF:-1,Кинозал 13 (Киносезон 3)
 https://5656.ga/ch3.m3u8
-#EXTINF:-1,Кинозал 19 (Киносезон 4)
+#EXTINF:-1,Кинозал 14 (Киносезон 4)
 https://5656.ga/ch4.m3u8
-#EXTINF:-1,Кинозал 20 (Киносезон 5)
+#EXTINF:-1,Кинозал 15 (Киносезон 5)
 https://5656.ga/ch5.m3u8
-#EXTINF:-1,Кинозал 21 (Киносезон 6)
+#EXTINF:-1,Кинозал 16 (Киносезон 6)
 https://5656.ga/ch6.m3u8
-#EXTINF:-1,Кинозал 22 (Movie Classic)
+#EXTINF:-1,Кинозал 17 (Киносезон 7)
+https://5656.ga/ch7.m3u8
+#EXTINF:-1,Кинозал 18 (Киносезон 8)
+https://5656.ga/ch8.m3u8
+#EXTINF:-1,Кинозал 19 (Киносезон 9)
+https://5656.ga/ch9.m3u8
+#EXTINF:-1,Кинозал 20 (Киносезон 10)
+https://5656.ga/ch10.m3u8
+#EXTINF:-1,Кинозал 21 (Киносезон 11)
+https://5656.ga/ch11.m3u8
+#EXTINF:-1,Кинозал 22 (Киносезон 12)
+https://5656.ga/ch12.m3u8
+#EXTINF:-1,Кинозал 23 (Киносезон 13)
+https://5656.ga/ch13.m3u8
+#EXTINF:-1,Кинозал 24 (Киносезон 14)
+https://5656.ga/ch14.m3u8
+#EXTINF:-1,Кинозал 25 (Киносезон 15)
+https://5656.ga/ch15.m3u8
+#EXTINF:-1,Кинозал 26 (Киносезон 16)
+https://5656.ga/ch16.m3u8
+#EXTINF:-1,Кинозал 27 (Movie Classic)
 https://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1,Кинозал 23 (SVHS TV)
-https://v2.catcast.tv/content/37301/index.m3u8
-#EXTINF:-1,Кинозал 24 (SeverTV)
-https://hls.goodgame.ru/hls/146065.m3u8
-#EXTINF:-1,Кинозал 25 (Музыка 1)
+#EXTINF:-1,Кинозал 28 (Музыка 1)
 https://v2.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1,Кинозал 26 (Музыка 2)
+#EXTINF:-1,Кинозал 29 (Музыка 2)
 https://v2.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1,Кинозал 27 (Видеосалон VHS)
-https://hls.goodgame.ru/hls/175764.m3u8
-#EXTINF:-1,Кинозал 28 (Кино с плюсом)
-https://v2.catcast.tv/content/37353/index.m3u8
-#EXTINF:-1,Кинозал 29 (Yosso ТВ)
-https://v2.catcast.tv/content/38136/index.m3u8
-#EXTINF:-1,Кинозал 30 (Yosso ТВ HD)
-https://v2.catcast.tv/content/38135/index.m3u8
-#EXTINF:-1,Кинозал 31 (KVN-HD) 
+#EXTINF:-1,Кинозал 30 (KVN-HD) 
 https://hls.goodgame.ru/hls/172148.m3u8
-
-
-
+#EXTINF:-1,Кинозал 31 (ДРАМА TIC EVGENIY)
+https://v2.catcast.tv/content/36732/index.m3u8
+#EXTINF:-1,Кинозал 32 (кино с плюсом) 
+https://v2.catcast.tv/content/37388/index.m3u8
+#EXTINF:-1,Кинозал 33 (bollywood кино)
+https://v2.catcast.tv/content/37353/index.m3u8
+#EXTINF:-1,Кинозал 34 (STR TV) 
+https://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:-1,Кинозал 35 (Film TV) 
+https://hls.goodgame.ru/hls/177617.m3u8
+#EXTINF:-1,Кинозал 36 (KinoBroadcast 1)
+https://v2.catcast.tv/content/35525/index.m3u8
+#EXTINF:-1,Кинозал 37 (KinoBroadcast 2)
+https://v2.catcast.tv/content/35448/index.m3u8
+#EXTINF:-1,Кинозал 38 (Eurodance Hits 90)
+https://v2.catcast.tv/content/36987/index.m3u8
+#EXTINF:-1,Кинозал 39 (Ужасы 90х)
+https://v2.catcast.tv/content/38563/index.m3u8
+#EXTINF:-1,Кинозал 40 (SeleCaoTV)
+https://hls.goodgame.ru/hls/163253.m3u8
+#EXTINF:-1,Кинозал 41 (Docent13) 
+https://hls.goodgame.ru/hls/64556.m3u8
+#EXTINF:-1,Кинозал 42 (Онлайн ужасы)
+https://v2.catcast.tv/content/38590/index.m3u8
+#EXTINF:-1,Кинозал 43 (Сити Эдем TV) 
+https://v2.catcast.tv/content/34246/index.m3u8
+#EXTINF:-1,Кинозал 44 (Сити Эдем киноклассика) 
+https://v2.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1,Кинозал 45
+https://hls.goodgame.ru/hls/54516.m3u8
+#EXTINF:-1,Кинозал 46 (Фантастика SCIFI)
+https://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1,Кинозал 47 (Кино VHS)
+https://v2.catcast.tv/content/38794/index.m3u8
+#EXTINF:-1,Кинозал 48 (ПАМЯТЬ)
+https://v2.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1,Кинозал 49 (Фантом ТВ)
+https://karapuztv.fenixplustv.xyz/content/36622/index.m3u8
+#EXTINF:-1,Кинозал 50 (Видеокино 90 е)
+https://v2.catcast.tv/content/38798/index.m3u8
 #EXTINF:0,TOP ДЕЖАВЮ
 #EXTGRP: Кино
 http://v2.catcast.me/content/37913/index.m3u8
