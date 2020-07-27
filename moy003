@@ -74,136 +74,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8?versi
 #EXTGRP: Хорошее
 https://sc.id-tv.kz/Pobeda_34_35.m3u8
 
-#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Познавательные",Viasat Nature
-http://mystrah.online/iptv/XZRBCCH/channel/630.m3u8
-#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Кино",BACKUSTV HD
-http://mystrah.online/iptv/XZRBCCH/channel/780.m3u8
-#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Кино",Кино 1 HD
-http://mystrah.online/iptv/XZRBCCH/channel/1175.m3u8
-#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Кино",Кинозал! ХИТ HD
-http://mystrah.online/iptv/XZRBCCH/channel/1071.m3u8
-#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Познавательные",Первый космический HD
-http://mystrah.online/iptv/XZRBCCH/channel/1064.m3u8
-#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Игры",Game Show HD
-http://mystrah.online/iptv/XZRBCCH/channel/204.m3u8
-#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Детские",Кроха ТВ
-http://mystrah.online/iptv/XZRBCCH/channel/737.m3u8
-#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Детские",Ералаш HD
-http://mystrah.online/iptv/XZRBCCH/channel/187.m3u8
-#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Кино",ViP Comedy HD
-http://mystrah.online/iptv/XZRBCCH/channel/588.m3u8
-#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Спорт",WWE Russian
-http://mystrah.online/iptv/XZRBCCH/channel/1163.m3u8
-#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Музыка",CMC TV HD
-http://mystrah.online/iptv/XZRBCCH/channel/255.m3u8
-#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Кино",Илья ТВ HD
-http://mystrah.online/iptv/XZRBCCH/channel/1182.m3u8
-#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Кино",Страх HD
-http://xiptv.site/iptvteam.flv
-#EXTINF:-1 audio-track="ru" aspect-ratio="None" group-title="Кино",Фантастика HD
-http://xiptv.site/iptvteam.m3u8
-
-
-#EXTINF:-1,Кинозал 1 (Марс-ТВ) 
-https://v2.catcast.tv/content/37033/index.m3u8
-#EXTINF:-1,Кинозал 2 (pznstreams) 
-https://hls.goodgame.ru/hls/12949_720.m3u8
-#EXTINF:-1,Кинозал 3 (ULTO) 
-http://ultotv.ru:8888/live/uhd/playlist.m3u8
-#EXTINF:-1,Кинозал 4 (СССР EVGENIY) 
-https://v2.catcast.tv/content/36506/index.m3u8
-#EXTINF:-1,Кинозал 5 (Гал ТВ) 
-http://clients.apsny.camera/tv_gal_tv_hd_online/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозал 6 (Видеокассета) 
-https://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1,Кинозал 7 (VHS EVGENIY) 
-https://v2.catcast.tv/content/36251/index.m3u8
-#EXTINF:-1,Кинозал 8 (Ужасы EVGENIY)
-https://v2.catcast.tv/content/36277/index.m3u8
-#EXTINF:-1,Кинозал 9 (Russian Комедии EVGENIY)
-https://v2.catcast.tv/content/36168/index.m3u8
-#EXTINF:-1,Кинозал 10 (akudji) 
-https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1,Кинозал 11 (Киносезон 1)
-https://5656.ga/ch1.m3u8
-#EXTINF:-1,Кинозал 12 (Киносезон 2)
-https://5656.ga/ch2.m3u8
-#EXTINF:-1,Кинозал 13 (Киносезон 3)
-https://5656.ga/ch3.m3u8
-#EXTINF:-1,Кинозал 14 (Киносезон 4)
-https://5656.ga/ch4.m3u8
-#EXTINF:-1,Кинозал 15 (Киносезон 5)
-https://5656.ga/ch5.m3u8
-#EXTINF:-1,Кинозал 16 (Киносезон 6)
-https://5656.ga/ch6.m3u8
-#EXTINF:-1,Кинозал 17 (Киносезон 7)
-https://5656.ga/ch7.m3u8
-#EXTINF:-1,Кинозал 18 (Киносезон 8)
-https://5656.ga/ch8.m3u8
-#EXTINF:-1,Кинозал 19 (Киносезон 9)
-https://5656.ga/ch9.m3u8
-#EXTINF:-1,Кинозал 20 (Киносезон 10)
-https://5656.ga/ch10.m3u8
-#EXTINF:-1,Кинозал 21 (Киносезон 11)
-https://5656.ga/ch11.m3u8
-#EXTINF:-1,Кинозал 22 (Киносезон 12)
-https://5656.ga/ch12.m3u8
-#EXTINF:-1,Кинозал 23 (Киносезон 13)
-https://5656.ga/ch13.m3u8
-#EXTINF:-1,Кинозал 24 (Киносезон 14)
-https://5656.ga/ch14.m3u8
-#EXTINF:-1,Кинозал 25 (Киносезон 15)
-https://5656.ga/ch15.m3u8
-#EXTINF:-1,Кинозал 26 (Киносезон 16)
-https://5656.ga/ch16.m3u8
-#EXTINF:-1,Кинозал 27 (Movie Classic)
-https://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1,Кинозал 28 (Музыка 1)
-https://v2.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1,Кинозал 29 (Музыка 2)
-https://v2.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1,Кинозал 30 (KVN-HD) 
-https://hls.goodgame.ru/hls/172148.m3u8
-#EXTINF:-1,Кинозал 31 (ДРАМА TIC EVGENIY)
-https://v2.catcast.tv/content/36732/index.m3u8
-#EXTINF:-1,Кинозал 32 (кино с плюсом) 
-https://v2.catcast.tv/content/37388/index.m3u8
-#EXTINF:-1,Кинозал 33 (bollywood кино)
-https://v2.catcast.tv/content/37353/index.m3u8
-#EXTINF:-1,Кинозал 34 (STR TV) 
-https://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF:-1,Кинозал 35 (Film TV) 
-https://hls.goodgame.ru/hls/177617.m3u8
-#EXTINF:-1,Кинозал 36 (KinoBroadcast 1)
-https://v2.catcast.tv/content/35525/index.m3u8
-#EXTINF:-1,Кинозал 37 (KinoBroadcast 2)
-https://v2.catcast.tv/content/35448/index.m3u8
-#EXTINF:-1,Кинозал 38 (Eurodance Hits 90)
-https://v2.catcast.tv/content/36987/index.m3u8
-#EXTINF:-1,Кинозал 39 (Ужасы 90х)
-https://v2.catcast.tv/content/38563/index.m3u8
-#EXTINF:-1,Кинозал 40 (SeleCaoTV)
-https://hls.goodgame.ru/hls/163253.m3u8
-#EXTINF:-1,Кинозал 41 (Docent13) 
-https://hls.goodgame.ru/hls/64556.m3u8
-#EXTINF:-1,Кинозал 42 (Онлайн ужасы)
-https://v2.catcast.tv/content/38590/index.m3u8
-#EXTINF:-1,Кинозал 43 (Сити Эдем TV) 
-https://v2.catcast.tv/content/34246/index.m3u8
-#EXTINF:-1,Кинозал 44 (Сити Эдем киноклассика) 
-https://v2.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1,Кинозал 45
-https://hls.goodgame.ru/hls/54516.m3u8
-#EXTINF:-1,Кинозал 46 (Фантастика SCIFI)
-https://v2.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1,Кинозал 47 (Кино VHS)
-https://v2.catcast.tv/content/38794/index.m3u8
-#EXTINF:-1,Кинозал 48 (ПАМЯТЬ)
-https://v2.catcast.tv/content/38821/index.m3u8
-#EXTINF:-1,Кинозал 49 (Фантом ТВ)
-https://karapuztv.fenixplustv.xyz/content/36622/index.m3u8
-#EXTINF:-1,Кинозал 50 (Видеокино 90 е)
-https://v2.catcast.tv/content/38798/index.m3u8
 
 #EXTINF:0,ТНТ
 #EXTGRP: Хорошее
@@ -251,7 +121,7 @@ http://hls.goodgame.ru/hls/12949.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://88.218.240.74:8586/crypted/hls/CH_LUBIMOE/variant.m3u8
+http://178.163.84.177:4022/udp/234.0.0.177:2000
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
@@ -259,7 +129,7 @@ http://88.218.240.74:8586/crypted/hls/CH_NTVPLUSNASHEKINO/variant.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
-http://88.218.240.74:8586/crypted/hls/CH_DOMKINO/variant.m3u8
+http://178.163.81.133:4022/udp/234.0.0.219:2000
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
@@ -267,7 +137,7 @@ http://88.218.240.74:8586/crypted/hls/CH_KINOHITHD/variant.m3u8
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://88.218.240.74:8586/crypted/hls/CH_NTVPLUSKINO/variant.m3u8
+http://178.163.84.177:4022/udp/234.0.0.222:2000
 #EXTINF:0,КИНОМИКС2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.60/tracks-v1a1/mono.m3u8
@@ -285,7 +155,7 @@ http://185.162.8.175:6878/ace/manifest.m3u8?id=8e41521482e2daf70b032dea8348abc06
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://90.188.5.19:6879/ace/manifest.m3u8?id=6976c8024012ae13de8cd5003d463983f398a9df
+http://178.163.84.13:4022/udp/234.0.0.213:2000
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
 http://hlstv.kem.211.ru/239.211.211.145/stream.m3u8
@@ -311,7 +181,7 @@ http://xiptv.site/iptvteam.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://a3569458686-zabava-htlive.cdn.ngenix.net/hls/CH_KINOTVHD/bw5000000/playlist.m3u8?__fvd__=&utcstart=1595556000
+http://178.163.84.13:4022/udp/234.0.0.154:2000
 #EXTINF:0,Кино ТВ2
 #EXTGRP: Кино
 http://astra.realcrimea.net:8000/play/a01d
@@ -324,4 +194,54 @@ http://185.162.8.175:6878/ace/manifest.m3u8?id=5fa0a903f6d4e10adf1603a050e1f77eb
 #EXTINF:-1,Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 
+#EXTINF:-1,Discovery Channel HD
+#EXTGRP: Познавательные
+http://live-ng-01.more.tv/hls/Discovery_HD/index_5.m3u8
 
+#EXTINF:-1,Discovery Channel FHD
+#EXTGRP: Познавательные
+http://live-ng-01.more.tv/hls/Discovery_HD/index_1.m3u8
+
+#EXTINF:-1,Discovery Science HD
+#EXTGRP: Познавательные
+http://live-ng-01.more.tv/hls/Discovery_Science_HD/index_1.m3u8
+
+#EXTINF:-1,Investigation Discovery
+#EXTGRP: Познавательные
+http://77.89.204.107:8000/play/a0b8/index.m3u8
+
+#EXTINF:0,National Geographic HD
+#EXTGRP: Познавательные
+http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
+
+#EXTINF:-1,Viasat Explore HD
+#EXTGRP: Познавательные
+http://live-ng-01.more.tv/hls/Viasat_Explore_HD/index_1.m3u8
+
+#EXTINF:-1,Viasat History HD
+#EXTGRP: Познавательные
+http://live-ng-01.more.tv/hls/Viasat_History_HD/index_1.m3u8
+
+#EXTINF:-1,Viasat Nature HD
+#EXTGRP: Познавательные
+http://live-ng-01.more.tv/hls/Viasat_Nature_HD/index_1.m3u8
+
+#EXTINF:-1,Animal Planet HD
+#EXTGRP: Познавательные
+http://live-ng-01.more.tv/hls/Animal_Planet_HD/index_1.m3u8
+
+#EXTINF:-1,Travel Channel HD
+#EXTGRP: Познавательные
+http://79.142.197.7:8888/Travel_HD/mono.m3u8
+
+#EXTINF:-1,Наука 2.0 HD
+#EXTGRP: Познавательные
+http://195.144.197.170:8886/udp/237.0.1.153:10000
+
+#EXTINF:0,HDL HD
+#EXTGRP: Познавательные
+http://sc.id-tv.kz/hdl_34_35.m3u8
+
+#EXTINF:0,Ocean TV HD
+#EXTGRP: Познавательные
+http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/playlist.m3u8
