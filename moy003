@@ -137,21 +137,21 @@ http://88.218.240.74:8586/crypted/hls/CH_KINOHITHD/variant.m3u8
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://178.163.84.177:4022/udp/234.0.0.222:2000
+http://5.43.129.41:1213/udp/239.255.0.193:1234
 #EXTINF:0,КИНОМИКС2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.60/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
-http://185.162.8.175:6878/ace/manifest.m3u8?id=be5599ac4112e2d0a4765f6e05a42aa683d6dd31
+http://5.43.129.41:1213/udp/239.255.0.157:1234
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.46/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
-http://185.162.8.175:6878/ace/manifest.m3u8?id=8e41521482e2daf70b032dea8348abc06f58192a
+http://5.43.129.41:1213/udp/239.255.0.198:1234
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
