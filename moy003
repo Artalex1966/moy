@@ -2,6 +2,17 @@
 #EXTINF:0,Камин
 #EXTGRP: Хорошее
 http://v2.catcast.me/content/36334/index.m3u8
+#EXTINF:0,Музыка Кино
+#EXTGRP: Хорошее
+http://v2.catcast.me/content/36334/index.m3u8
+#EXTINF:0,Музыка 1
+#EXTGRP: Хорошее
+http://v2.catcast.me/content/37745/index.m3u8
+#EXTINF:0,Музыка 2
+#EXTGRP: Хорошее
+http://v2.catcast.me/content/37742/index.m3u8
+
+
 #EXTINF:0,Первый канал
 #EXTGRP: Хорошее
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
