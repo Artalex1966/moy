@@ -4,6 +4,20 @@
 #EXTGRP: Кино
 https://5656.ga//ch10.m3u8
 
+#EXTINF:0,Камин
+#EXTGRP: Хорошее
+http://v2.catcast.me/content/36334/index.m3u8
+#EXTINF:0,Музыка Кино
+#EXTGRP: Хорошее
+http://v2.catcast.me/content/36334/index.m3u8
+#EXTINF:0,Музыка 1
+#EXTGRP: Хорошее
+http://v2.catcast.me/content/37745/index.m3u8
+#EXTINF:0,Музыка 2
+#EXTGRP: Хорошее
+http://v2.catcast.me/content/37742/index.m3u8
+
+
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
 http://178.163.84.177:4022/udp/234.0.0.177:2000
