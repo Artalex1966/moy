@@ -1,9 +1,4 @@
 #EXTM3U
-
-#EXTINF:0,ТВ Друзья
-#EXTGRP: Кино
-https://5656.ga//ch10.m3u8
-
 #EXTINF:0,Камин
 #EXTGRP: Хорошее
 http://v2.catcast.me/content/36334/index.m3u8
