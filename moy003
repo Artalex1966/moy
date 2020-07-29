@@ -43,6 +43,9 @@ http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTV.m3u8
 #EXTGRP: Хорошее
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTV_2.m3u8
 
+#EXTINF:0, ТВ Друзья
+#EXTGRP: Хорошее
+https://5656.ga//ch10.m3u8
 
 #EXTINF:0, Рен ТВ 
 #EXTGRP: Хорошее
