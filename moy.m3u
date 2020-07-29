@@ -16,6 +16,17 @@ http://v2.catcast.me/content/37745/index.m3u8
 #EXTINF:0,Музыка 2
 #EXTGRP: Хорошее
 http://v2.catcast.me/content/37742/index.m3u8
+#EXTINF:0,FILM TV HD
+#EXTGRP: Хорошее
+http://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:0,VHS 90s
+#EXTGRP: Хорошее
+http://v2.catcast.me/content/37925/index.m3u8
+#EXTINF:0,кино с плюсом
+#EXTGRP: Хорошее
+http://v2.catcast.tv/content/37353/index.m3u8
+
+
 
 
 #EXTINF:0,Любимое кино
