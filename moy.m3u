@@ -56,14 +56,14 @@ http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://5.43.129.41:1213/udp/239.255.0.193:1234
+http://50.7.231.220:8081/181/index.m3u8?wmsAuthSign=1596094883p261i001i87i591S87dbadd92eea4db3449a97543e534a2c
 #EXTINF:0,КИНОМИКС2
 #EXTGRP: Кино
 http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
-http://5.43.129.41:1213/udp/239.255.0.157:1234
+http://50.7.120.165:8081/kinopremera/index.m3u8?wmsAuthSign=3b054ab465de0110985b23061939c9a6-1596094716-261i001i87i591
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
