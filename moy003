@@ -142,23 +142,21 @@ http://hls.goodgame.ru/hls/12949.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://50.7.172.58:8081/534/index.m3u8?wmsAuthSign=1596033759p261i001i87i591Sacebb066af14710d357cb78feb9461a6
+http://50.7.172.58:8081/534/index.m3u8?wmsAuthSign=1596093913p261i001i87i591S5a64343f2c12c7daec11dcfd514850d7
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://88.218.240.74:8586/crypted/hls/CH_NTVPLUSNASHEKINO/variant.m3u8
-
+http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=1596094234p261i001i87i591Se7b3e461459d74e2cce0d06c974a7e86
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
-http://178.163.81.133:4022/udp/234.0.0.219:2000
+http://50.7.231.220:8081/186/index.m3u8?wmsAuthSign=1596094281p261i001i87i591S958c7a81bc03d71088fea6edba5c3fbe
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://88.218.240.74:8586/crypted/hls/CH_KINOHITHD/variant.m3u8
-
+http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1596094309p261i001i87i591S3196ceaf59c5c03873f9e7268b7e93c0
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://5.43.129.41:1213/udp/239.255.0.193:1234
+http://50.7.231.220:8081/181/index.m3u8?wmsAuthSign=1596094336p261i001i87i591S8ab7298634c20cf575ab38f0a86c0403
 #EXTINF:0,КИНОМИКС2
 #EXTGRP: Кино
 http://178.217.72.66:80/225.201.2.60/tracks-v1a1/mono.m3u8
