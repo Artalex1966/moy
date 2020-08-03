@@ -28,7 +28,8 @@ http://v2.catcast.tv/content/38563/index.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://178.163.84.177:4022/udp/234.0.0.177:2000
+http://testtviptv.ddns.net/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9MVUJJTU9FL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTI=/playlist.m3u8?
+
 #EXTINF:0,Любимое кино2
 #EXTGRP: Кино
 https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
@@ -38,7 +39,7 @@ https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?versi
 http://88.218.240.74:8586/crypted/hls/CH_NTVPLUSNASHEKINO/variant.m3u8
 #EXTINF:0,Родное кино2
 #EXTGRP: Кино
-http://65c483d5.ottclub.xyz/iptv/VSDEE7A9KFDBTF/126/index.m3u8
+http://178.163.84.177:4022/udp/234.0.0.177:2000
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
@@ -59,14 +60,14 @@ http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 #EXTINF:0,КИНОМИКС2
 #EXTGRP: Кино
-
+http://testtviptv.ddns.net/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9OVFZQTFVTS0lOTy92YXJpYW50Lm0zdTg_dmVyc2lvbj0y/playlist.m3u8?
 
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+http://testtviptv.ddns.net/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9LSU5PUFJFTUlFUkVIRC92YXJpYW50Lm0zdTg_dmVyc2lvbj0y/playlist.m3u8?
 
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
