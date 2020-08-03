@@ -38,7 +38,7 @@ https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?versi
 http://88.218.240.74:8586/crypted/hls/CH_NTVPLUSNASHEKINO/variant.m3u8
 #EXTINF:0,Родное кино2
 #EXTGRP: Кино
-http://185.162.8.175:6878/ace/manifest.m3u8?id=d0ca319ff96f596771f3f8ef887528eea95120de
+http://65c483d5.ottclub.xyz/iptv/VSDEE7A9KFDBTF/126/index.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
@@ -101,7 +101,7 @@ http://188.35.9.11:2017
 http://188.35.9.11:2015
 #EXTINF:0,Остросюжетное Кино2
 #EXTGRP: Кино
-http://188.35.9.11:2015
+http://65c483d5.ottclub.xyz/iptv/VSDEE7A9KFDBTF/904/index.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: Кино
 http://188.35.9.26:14050/udp/238.0.14.3:69000
@@ -112,6 +112,13 @@ http://v2.catcast.me/content/37388/index.m3u8
 #EXTINF:0,Фантастика HD
 #EXTGRP: Кино
 http://xiptv.site/iptvteam.m3u8
+
+#EXTINF:0,#Кинопоказ HD
+#EXTGRP: Кино
+http://65c483d5.ottclub.xyz/iptv/VSDEE7A9KFDBTF/2439/index.m3u8
+#EXTINF:0,#Кинопоказ
+#EXTGRP: Кино
+http://31.128.159.9:80/kinopokaz/mpegts
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
