@@ -19,9 +19,9 @@ http://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:0,VHS 90s
 #EXTGRP: Хорошее
 http://v2.catcast.me/content/37925/index.m3u8
-#EXTINF:0,кино с плюсом
+#EXTINF:0,Видеосервис
 #EXTGRP: Хорошее
-http://v2.catcast.tv/content/37353/index.m3u8
+http://v2.catcast.tv/content/38563/index.m3u8
 
 
 
@@ -132,7 +132,7 @@ https://sc.id-tv.kz/Pobeda_34_35.m3u8
 http://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:0,БОЕВИК TV
 #EXTGRP: Кино
-https://v2.catcast.tv/content/37493/index.m3u8
+http://v2.catcast.tv/content/38563/index.m3u8
 
 #EXTINF:0, Лайфхаки для кухни
 #EXTGRP: Кино
