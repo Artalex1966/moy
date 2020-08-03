@@ -56,34 +56,38 @@ http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://50.7.231.220:8081/181/index.m3u8?wmsAuthSign=1596094883p261i001i87i591S87dbadd92eea4db3449a97543e534a2c
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 #EXTINF:0,КИНОМИКС2
 #EXTGRP: Кино
-http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+
 
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
-http://50.7.120.165:8081/kinopremera/index.m3u8?wmsAuthSign=3b054ab465de0110985b23061939c9a6-1596094716-261i001i87i591
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
-http://5.43.129.41:1213/udp/239.255.0.198:1234
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 #EXTINF:0,Киносемья2
 #EXTGRP: Кино
-http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+http://5.43.129.41:1213/udp/239.255.0.198:1234
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://188.35.9.11:2022
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
 http://178.163.84.13:4022/udp/234.0.0.213:2000
-#EXTINF:0,МУЖСКОЕ КИНО3
+
+#EXTINF:0,КИНОКОМЕДИЯ
 #EXTGRP: Кино
-https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:0, Киносвидание
+#EXTGRP: Кино
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 
 #EXTINF:0,КиноПремиум HD
 #EXTGRP: Кино
@@ -130,11 +134,12 @@ http://v2.catcast.tv/content/37925/index.m3u8
 #EXTGRP: Кино
 https://v2.catcast.tv/content/37493/index.m3u8
 
-
-#EXTINF:0, Наше новое кино
+#EXTINF:0, Лайфхаки для кухни
 #EXTGRP: Кино
-http://persik.by/stream/6606/411484/10334.m3u8
-
+https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:0, Лайфхаки для кухни
+#EXTGRP: Кино
+https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
 
 #EXTINF:0,СССР
 #EXTGRP: Кино
@@ -173,8 +178,13 @@ https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: Кино
 http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
+#EXTINF:0,Победа
+#EXTGRP: Кино
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
+#EXTINF:0,Победа1
+#EXTGRP: Кино
+https://sc.id-tv.kz/Pobeda_36_37.m3u8
 
- 
 #EXTINF:-1,Discovery Channel HD
 #EXTGRP: Познавательные
 http://live-ng-01.more.tv/hls/Discovery_HD/index_5.m3u8
@@ -228,12 +238,7 @@ http://sc.id-tv.kz/hdl_34_35.m3u8
 http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/playlist.m3u8
 
 
-#EXTINF:0,КИНОКОМЕДИЯ
-#EXTGRP: Кино
-http://persik.by/stream/6606/411484/292.m3u8
-#EXTINF:0, Киносвидание
-#EXTGRP: Кино
-http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+
 #EXTINF:0,Видеосалон VHS 3
 #EXTGRP: Кино
 https://v2.catcast.me/content/36251/index.m3u8
@@ -241,9 +246,7 @@ https://v2.catcast.me/content/36251/index.m3u8
 #EXTGRP: Кино
 http://astra.realcrimea.net:8000/play/a05g
 
-#EXTINF:0,Победа
-#EXTGRP: Кино
-http://185.22.183.157:8085/media/hls_183_157/pobeda/index.m3u8
+
 
 #EXTINF:0, Рен ТВ 
 #EXTGRP: Хорошее
