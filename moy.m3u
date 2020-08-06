@@ -50,7 +50,7 @@ http://main.simpletv.eu:8080/ru-dom-kino/index.m3u8?token=054c1ad5e8860feaf54c4e
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id1264_NBN_SG--KinohitHD_wflite/04/plst.m3u8
 #EXTINF:0,Кинохит2
 #EXTGRP: Кино
 http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
@@ -64,14 +64,14 @@ http://testtviptv.ddns.net/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0
 
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
 http://testtviptv.ddns.net/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9LSU5PUFJFTUlFUkVIRC92YXJpYW50Lm0zdTg_dmVyc2lvbj0y/playlist.m3u8?
 
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
-http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id1261_NBN_SG--KinosemHD_wflite/04/plst.m3u8
 #EXTINF:0,Киносемья2
 #EXTGRP: Кино
 http://5.43.129.41:1213/udp/239.255.0.198:1234
@@ -81,7 +81,7 @@ http://5.43.129.41:1213/udp/239.255.0.198:1234
 https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
-http://178.163.84.13:4022/udp/234.0.0.213:2000
+http://188.113.190.12/316/video.m3u8
 
 #EXTINF:0,КИНОКОМЕДИЯ
 #EXTGRP: Кино
@@ -129,7 +129,7 @@ http://hlstv.kem.211.ru/239.211.211.86/stream.m3u8
 http://31.128.159.6:5000/channel_239.1.10.6/index.m3u8
 #EXTINF:0,Кино ТВ2hd
 #EXTGRP: Кино
-http://astra.realcrimea.net:8000/play/a01e
+http://astra.realcrimea.net:8000/play/a04e
 
 #EXTINF:0,Победа
 #EXTGRP: Хорошее
@@ -192,6 +192,11 @@ https://sc.id-tv.kz/Pobeda_34_35.m3u8
 #EXTINF:0,Победа1
 #EXTGRP: Кино
 https://sc.id-tv.kz/Pobeda_36_37.m3u8
+
+
+#EXTINF:-1,Наука 2.0
+#EXTGRP: Познавательные
+http://vs-msk-02.tv.ti.ru:80/dtv/id240_NBN_SG--Nauka/03/plst.m3u8
 
 #EXTINF:-1,Discovery Channel HD
 #EXTGRP: Познавательные
