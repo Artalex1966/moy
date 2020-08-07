@@ -29,8 +29,11 @@ http://v2.catcast.tv/content/38563/index.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
 http://testtviptv.ddns.net/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9MVUJJTU9FL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTI=/playlist.m3u8?
-
 #EXTINF:0,Любимое кино2
+#EXTGRP: Кино
+http://88.218.240.74:8586/crypted/hls/CH_LUBIMOE/variant.m3u8
+
+#EXTINF:0,Любимое кино ян
 #EXTGRP: Кино
 https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
 
@@ -46,18 +49,18 @@ http://178.163.84.177:4022/udp/234.0.0.177:2000
 http://178.163.81.133:4022/udp/234.0.0.219:2000
 #EXTINF:0,Дом Кино2
 #EXTGRP: Кино
-http://main.simpletv.eu:8080/ru-dom-kino/index.m3u8?token=054c1ad5e8860feaf54c4ecf9424e5d5
+http://88.218.240.74:8586/crypted/hls/CH_DOMKINO/variant.m3u8
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
 http://vs-msk-02.tv.ti.ru:80/dtv/id1264_NBN_SG--KinohitHD_wflite/04/plst.m3u8
 #EXTINF:0,Кинохит2
 #EXTGRP: Кино
-http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+http://88.218.240.74:8586/crypted/hls/CH_KINOHITHD/variant.m3u8
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+http://88.218.240.74:8586/crypted/hls/CH_NTVPLUSKINO/variant.m3u8
 #EXTINF:0,КИНОМИКС2
 #EXTGRP: Кино
 http://testtviptv.ddns.net/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9OVFZQTFVTS0lOTy92YXJpYW50Lm0zdTg_dmVyc2lvbj0y/playlist.m3u8?
