@@ -46,7 +46,7 @@ http://178.163.84.177:4022/udp/234.0.0.177:2000
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
-http://178.163.81.133:4022/udp/234.0.0.219:2000
+http://217.64.25.182:88/play/a01v/index.m3u8
 #EXTINF:0,Дом Кино2
 #EXTGRP: Кино
 http://88.218.240.74:8586/crypted/hls/CH_DOMKINO/variant.m3u8
