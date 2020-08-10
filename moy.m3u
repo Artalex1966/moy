@@ -70,7 +70,7 @@ http://testtviptv.ddns.net/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0
 https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
-http://testtviptv.ddns.net/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9LSU5PUFJFTUlFUkVIRC92YXJpYW50Lm0zdTg_dmVyc2lvbj0y/playlist.m3u8?
+http://hlstv.kem.211.ru/239.211.200.28/stream.m3u8
 
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
@@ -196,6 +196,8 @@ https://sc.id-tv.kz/Pobeda_34_35.m3u8
 #EXTGRP: Кино
 https://sc.id-tv.kz/Pobeda_36_37.m3u8
 
+#EXTINF:0 type="stream" channelId="223"group-title="Позновательные", Оружие
+http://hlstv.kem.211.ru/239.211.211.120/stream.m3u8 
 
 #EXTINF:-1,Наука 2.0
 #EXTGRP: Познавательные
