@@ -3,6 +3,10 @@
 #EXTGRP: Хорошее
 http://v2.catcast.me/content/36334/index.m3u8
 
+#EXTINF:0,Соловьев
+#EXTGRP: Хорошее
+https://youtu.be/x6J7OeXe83U
+
 #EXTINF:0,Музыка Кино
 #EXTGRP: Хорошее
 http://v2.catcast.me/content/37739/index.m3u8
