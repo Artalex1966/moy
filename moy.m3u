@@ -42,14 +42,14 @@ https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?versi
 http://157d378f.ottv.biz/iptv/LN3FWPRU6T9VSG/126/index.m3u8
 #EXTINF:0,Родное кино2
 #EXTGRP: Кино
-http://178.163.84.177:4022/udp/234.0.0.177:2000
+http://4f8b3417.shukinuki.website/iptv/LN3FWPRU6T9VSG/126/index.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
 http://lazyserg.iptvbot.biz/iptv/LN3FWPRU6T9VSG/154/index.m3u8
 #EXTINF:0,Дом Кино2
 #EXTGRP: Кино
-http://88.218.240.74:8586/crypted/hls/CH_DOMKINO/variant.m3u8
+http://lazyserg.iptvbot.biz/iptv/LN3FWPRU6T9VSG/154/index.m3u8
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
@@ -63,14 +63,14 @@ http://88.218.240.74:8586/crypted/hls/CH_KINOHITHD/variant.m3u8
 http://grytsyk.iptvbot.biz/iptv/LN3FWPRU6T9VSG/509/index.m3u8
 #EXTINF:0,КИНОМИКС2
 #EXTGRP: Кино
-http://testtviptv.ddns.net/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9OVFZQTFVTS0lOTy92YXJpYW50Lm0zdTg_dmVyc2lvbj0y/playlist.m3u8?
+http://4f8b3417.shukinuki.website/iptv/LN3FWPRU6T9VSG/509/index.m3u8
 
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
 http://grytsyk.iptvbot.biz/iptv/LN3FWPRU6T9VSG/224/index.m3u8
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
-http://hlstv.kem.211.ru/239.211.200.28/stream.m3u8
+http://4f8b3417.shukinuki.website/iptv/LN3FWPRU6T9VSG/224/index.m3u8
 
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
@@ -84,7 +84,7 @@ http://5.43.129.41:1213/udp/239.255.0.198:1234
 http://lazyserg.iptvbot.biz/iptv/LN3FWPRU6T9VSG/164/index.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
-http://188.113.190.12/316/video.m3u8
+http://4f8b3417.shukinuki.website/iptv/LN3FWPRU6T9VSG/164/index.m3u8
 
 #EXTINF:0,КИНОКОМЕДИЯ
 #EXTGRP: Кино
@@ -105,7 +105,7 @@ http://188.35.9.11:2017
 http://188.35.9.11:2015
 #EXTINF:0,Остросюжетное Кино2
 #EXTGRP: Кино
-http://65c483d5.ottclub.xyz/iptv/VSDEE7A9KFDBTF/904/index.m3u8
+http://4f8b3417.shukinuki.website/iptv/LN3FWPRU6T9VSG/904/index.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: Кино
 http://188.35.9.26:14050/udp/238.0.14.3:69000
@@ -122,11 +122,11 @@ https://hls.goodgame.ru/hls/178436.m3u8
 http://65c483d5.ottclub.xyz/iptv/VSDEE7A9KFDBTF/2439/index.m3u8
 #EXTINF:0,#Кинопоказ
 #EXTGRP: Кино
-http://31.128.159.9:80/kinopokaz/mpegts
+http://78.129.228.178/iptv/MQFA78S9H36GXT/2439/index.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://78.129.228.178/iptv/LN3FWPRU6T9VSG/2097/index.m3u8
+http://4f8b3417.shukinuki.website/iptv/LN3FWPRU6T9VSG/732/index.m3u8
 #EXTINF:0,Кино ТВ2
 #EXTGRP: Кино
 http://31.128.159.6:5000/channel_239.1.10.6/index.m3u8
@@ -145,12 +145,18 @@ http://v2.catcast.tv/content/37925/index.m3u8
 #EXTGRP: Кино
 http://v2.catcast.tv/content/38563/index.m3u8
 
-#EXTINF:0, Лайфхаки для кухни
+#EXTINF:0,Камеди HD
 #EXTGRP: Кино
-https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-#EXTINF:0, Лайфхаки для кухни
+http://78.129.228.178/iptv/LN3FWPRU6T9VSG/2441/index.m3u8
+#EXTINF:0,Фантом ТВ
 #EXTGRP: Кино
-https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
+https://karapuztv.fenixplustv.xyz/content/36622/index.m3u8
+#EXTINF:0,HD Зал
+#EXTGRP: Кино
+http://mnogotv.club/hls/hdzal/index.m3u8
+#EXTINF:0,HD Зал
+#EXTGRP: Кино
+https://v2.catcast.tv/content/38821/index.m3u8
 
 #EXTINF:0,СССР
 #EXTGRP: Кино
@@ -547,3 +553,9 @@ http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
 #EXTGRP: Украина
 http://188.35.9.11:2001/index.m3u8
 
+#EXTINF:0, Лайфхаки для кухни
+#EXTGRP: Кино
+https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:0, Лайфхаки для кухни
+#EXTGRP: Кино
+https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
