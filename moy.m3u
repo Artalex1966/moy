@@ -23,6 +23,10 @@ http://v2.catcast.me/content/37925/index.m3u8
 #EXTGRP: Хорошее
 http://v2.catcast.tv/content/38563/index.m3u8
 
+#EXTINF:-1,Фантастика Sci-Fi
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1,Память ТВ
+https://autopilot.catcast.tv/content/38821/index.m3u8
 
 
 
@@ -185,9 +189,7 @@ http://serv30.vintera.tv:8081/obninsk_rusmult/rusmult/playlist.m3u8
 https://v2.catcast.tv/content/36168/index.m3u8
 
 
-#EXTINF:0,TOP ДЕЖАВЮ
-#EXTGRP: Кино
-http://v2.catcast.me/content/37913/index.m3u8
+
 
 #EXTINF:0,Красная линия 
 #EXTGRP: Кино
@@ -225,51 +227,9 @@ http://live-ng-01.more.tv/hls/Discovery_Science_HD/index_1.m3u8
 #EXTGRP: Познавательные
 http://77.89.204.107:8000/play/a0b8/index.m3u8
 
-#EXTINF:0,National Geographic HD
-#EXTGRP: Познавательные
-http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
-
-#EXTINF:-1,Viasat Explore HD
-#EXTGRP: Познавательные
-http://live-ng-01.more.tv/hls/Viasat_Explore_HD/index_1.m3u8
-
-#EXTINF:-1,Viasat History HD
-#EXTGRP: Познавательные
-http://live-ng-01.more.tv/hls/Viasat_History_HD/index_1.m3u8
-
-#EXTINF:-1,Viasat Nature HD
-#EXTGRP: Познавательные
-http://live-ng-01.more.tv/hls/Viasat_Nature_HD/index_1.m3u8
-
-#EXTINF:-1,Animal Planet HD
-#EXTGRP: Познавательные
-http://live-ng-01.more.tv/hls/Animal_Planet_HD/index_1.m3u8
-
-#EXTINF:-1,Travel Channel HD
-#EXTGRP: Познавательные
-http://79.142.197.7:8888/Travel_HD/mono.m3u8
-
 #EXTINF:-1,Наука 2.0 HD
 #EXTGRP: Познавательные
 http://195.144.197.170:8886/udp/237.0.1.153:10000
-
-#EXTINF:0,HDL HD
-#EXTGRP: Познавательные
-http://sc.id-tv.kz/hdl_34_35.m3u8
-
-#EXTINF:0,Ocean TV HD
-#EXTGRP: Познавательные
-http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/playlist.m3u8
-
-
-
-#EXTINF:0,Видеосалон VHS 3
-#EXTGRP: Кино
-https://v2.catcast.me/content/36251/index.m3u8
-#EXTINF:0,Дом Кино Премиум HD
-#EXTGRP: Кино
-http://astra.realcrimea.net:8000/play/a05g
-
 
 
 #EXTINF:0, Рен ТВ 
@@ -313,51 +273,6 @@ http://tinyurl.com/wgryht4/CH_ZVEZDA/bw2000000/variant.m3u8?version=2&offset=-36
 #EXTGRP: Кино
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
 
-
-#EXTINF:0,Видеосалон VHS 1
-#EXTGRP: Кино
-https://tinyurl.com/v8777xz/vhs/index.m3u8?token=BO6ZXW40RH
-#EXTINF:0,Видеосалон VHS 2
-#EXTGRP: Кино
-https://cdn-maxplanck.wasd.tv/live/302913/tracks-v1a1/mono.m3u8
-
-#EXTINF:0,Ностальгия
-#EXTGRP: Кино
-http://s1.only4.tv:82/117/video.m3u8?token=3TzgjoCHjt
-
-#EXTINF:0,В гостях у сказки
-#EXTGRP: Детям
-http://astra.realcrimea.net:8000/play/a08m
-#EXTINF:0,СоюзМультфильм
-#EXTGRP: Детям
-http://50.7.172.60:8081/511/index.m3u8?wmsAuthSign=1591128467p261i001i87i591Sdfb714c75d249c1873783b2f2c78bcb0
-#EXTINF:0,TOM & JERRY HD
-#EXTGRP: Детям
-http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-#EXTINF:0,Ералаш
-#EXTGRP: Детям
-http://50.7.172.60:8081/512/index.m3u8?wmsAuthSign=1591128507p261i001i87i591S85d1b7a34ded7c1d9c738c8cfca6b1a8
-#EXTINF:0,Мульт
-#EXTGRP: Детям
-http://50.7.231.221:8081/206/index.m3u8?wmsAuthSign=1590995843p261i001i87i591Sd0e783826182b10afec815e2a511c3ad
-#EXTINF:0,Карусель
-#EXTGRP: Детям
-http://50.7.231.221:8081/157/index.m3u8?wmsAuthSign=1590602759p261i001i87i591S6a8bd0b4ab83cfa466c12e48d801ca93
-#EXTINF:0,Disney Channel
-#EXTGRP: Детям
-http://50.7.231.221:8081/154/index.m3u8?wmsAuthSign=1590602785p261i001i87i591S54f5fe354505bd44a50d7dedc060a15f
-#EXTINF:0,ДЕТСКИЙ
-#EXTGRP: Детям
-http://50.7.231.221:8081/156/index.m3u8?wmsAuthSign=1590602868p261i001i87i591S4e22b89f63bfaacd4c0f5c47f0c2f150
-#EXTINF:0,Мультимания
-#EXTGRP: Детям
-http://45.10.140.200:81/udp/230.3.4.228:5678
-#EXTINF:0,ДЕТСКИЙ МИР
-#EXTGRP: Детям
-http://tjdl9ny5.ottclub.xyz/iptv/HEGT9LBYSSCDRW/543/index.m3u8
-#EXTINF:0,Капитан Фантастика
-#EXTGRP: Детям
-http://tjdl9ny5.ottclub.xyz/iptv/HEGT9LBYSSCDRW/2098/index.m3u8
 
 
 
