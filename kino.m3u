@@ -1,470 +1,681 @@
-#EXTM3U 
-#EXTINF:-1 group-title="Кино",Premiere 1 HD
-http://main.simpletv.eu:8080/ru-Premiere1HD/index.m3u8
-#EXTINF:-1 group-title="Кино",Premiere 2 HD
-http://main.simpletv.eu:8080/ru-Premiere2HD/index.m3u8
-#EXTINF:-1 group-title="Кино",Premiere 3 HD
-http://main.simpletv.eu:8080/ru-Premiere3HD/index.m3u8
-#EXTINF:-1 group-title="Кино",Premiere 4 HD
-http://main.simpletv.eu:8080/ru-Premiere4HD/index.m3u8
-#EXTINF:-1 group-title="Общие",Россия Культура
-http://iptv.ktkru.ru:8006/index.m3u8
-#EXTINF:-1 group-title="Кино",VIP Comedy
-http://live-ng-01.more.tv/hls/ViP_Comedy_HD/master.m3u8
-#EXTINF:-1 group-title="Кино",VIP Megahit
-http://live-ng-01.more.tv/hls/ViP_Megahit_HD/master.m3u8
-#EXTINF:-1 group-title="Кино",VIP Premiere
-http://live-ng-01.more.tv/hls/ViP_Premiere_HD/master.m3u8
-#EXTINF:-1 group-title="Кино",TV1000
-http://195.191.208.78:8080/tv1000hd/index.m3u8
-#EXTINF:-1 group-title="Кино",TV1000 Русское Кино
-http://live-ng-01.more.tv/hls/TV1000_Russian_Kino_HD/master.m3u8
-#EXTINF:-1 group-title="Кино",Киномикс
-http://live02-cdn.tv.ti.ru:80/dtv/id411_NBN_SG--NTVKinoPlus/01/plst.m3u8
-#EXTINF:-1 group-title="Кино",Кинохит
-http://live02-cdn.tv.ti.ru:80/dtv/id1264_NBN_SG--KinohitHD_wflite/04/plst.m3u8
-#EXTINF:-1 group-title="Кино",Киносемья
-http://live02-cdn.tv.ti.ru:80/dtv/id1261_NBN_SG--KinosemHD_wflite/04/plst.m3u8
-#EXTINF:-1 group-title="Кино",Киносвидание
-http://live02-cdn.tv.ti.ru:80/dtv/id1262_NBN_SG--KinosvidHD_wflite/04/plst.m3u8
-#EXTINF:-1 group-title="Кино",Кинокомедия
-http://live02-cdn.tv.ti.ru:80/dtv/id135_NBN_SG--komediya_tv/03/plst.m3u8
-#EXTINF:-1 group-title="Кино",Кинопремьера
-http://hlstv.kem.211.ru/239.211.200.28/stream.m3u8
-#EXTINF:-1 group-title="Кино",Мужское кино
-http://hlstv.kem.211.ru/239.211.211.145/stream.m3u8
-#EXTINF:-1 group-title="Кино",Киноужас
-http://vs-msk-02.tv.ti.ru/dtv/id1285_NBN_SG--Kinouzhas_wflite/04/plst.m3u8
-#EXTINF:-1 group-title="Кино",Киносерия
-http://vs-msk-02.tv.ti.ru:80/dtv/id133_NBN_SG--mnogo_tv/03/plst.m3u8
-#EXTINF:-1 group-title="Кино",Sony Channel
-http://live02-cdn.tv.ti.ru:80/dtv/id397_NBN_SG--SETHD/04/plst.m3u8
-#EXTINF:-1 group-title="Кино",Sony Sci-Fi
-http://live02-cdn.tv.ti.ru:80/dtv/id158_NBN_SG--SonySciFi/03/plst.m3u8
-#EXTINF:-1 group-title="Кино",Sony Turbo
-http://live02-cdn.tv.ti.ru:80/dtv/id157_NBN_SG--SonyTurbo/02/plst.m3u8
-#EXTINF:-1 group-title="Кино",Paramount Channel
-http://live02-cdn.tv.ti.ru:80/dtv/id986_NBN_SG--Paramount/03/plst.m3u8
-#EXTINF:-1 group-title="Кино",Родное Кино
-http://live03-cdn.tv.ti.ru:80/dtv/id1230_NBN_SG--RodnoeKino/03/plst.m3u8
-#EXTINF:-1 group-title="Кино",Русский Бестселлер
-http://live03-cdn.tv.ti.ru:80/dtv/id124_NBN_SG--russkiy_bestseller/03/plst.m3u8
-#EXTINF:-1 group-title="Кинозалы",KINO.WATCH ХИТ
-https://or-be-01.mycdn.video/watch/hit/index.m3u8?token=NJAZAMYQLP
-#EXTINF:-1 group-title="Развлекательные",2x2 +4
-http://hlstv.kem.211.ru/239.211.211.4/stream.m3u8
-#EXTINF:-1 group-title="Региональные",8 канал
-http://hlstv.kem.211.ru/239.211.211.77/stream.m3u8
-#EXTINF:-1 group-title="Кино",A2
-http://hlstv.kem.211.ru/239.211.211.82/stream.m3u8
-#EXTINF:-1 tvg-name="Amedia 2" group-title="Кино",A2 (Резерв1)
-http://182.73.122.74:10000/bysid/306
-#EXTINF:-1 tvg-name="Amedia Hit HD" group-title="Кино",Amedia Hit HD
-http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
-#EXTINF:-1 tvg-name="Ani" group-title="Детские",Ani (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.98/stream.m3u8
-#EXTINF:-1 group-title="Кино",Bollywood HD
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-#EXTINF:-1 group-title="Музыка",Bridge TV
-http://hlstv.kem.211.ru/239.211.211.53/stream.m3u8
-#EXTINF:-1 group-title="Музыка",Bridge TV Classic
-http://hlstv.kem.211.ru/239.211.211.87/stream.m3u8
-#EXTINF:-1 group-title="Музыка",Bridge TV Русский ХИТ
-http://hlstv.kem.211.ru/239.211.211.9/stream.m3u8
-#EXTINF:-1 tvg-name="E TV" group-title="Развлекательные",E TV (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.123/stream.m3u8
-#EXTINF:-1 tvg-name="Евроновости" group-title="Новостные",Евроновости (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.104/stream.m3u8
-#EXTINF:-1 group-title="Музыка",Europa Plus TV
-http://hlstv.kem.211.ru/239.211.211.8/stream.m3u8
-#EXTINF:-1 group-title="Мужские",Extreme Sports
-http://hlstv.kem.211.ru/239.211.211.47/stream.m3u8
-#EXTINF:-1 tvg-name="Fashion TV" group-title="Развлекательные",Fashion TV (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.126/stream.m3u8
-#EXTINF:-1 group-title="Кино",Fox
-http://hlstv.kem.211.ru/239.211.211.91/stream.m3u8
-#EXTINF:-1 tvg-name="Fox HD" group-title="Кино",Fox HD (Резерв3)
-http://hlstv.kem.211.ru/239.211.200.17/stream.m3u8
-#EXTINF:-1 tvg-name="Fox Life HD" group-title="Кино",Fox Life HD (Резерв1)
-http://hlstv.kem.211.ru/239.211.200.18/stream.m3u8
-#EXTINF:-1 group-title="4K-UHD",Love Nature 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 group-title="Познавательные",Galaxy
-http://hlstv.kem.211.ru/239.211.211.39/stream.m3u8
-#EXTINF:-1 group-title="Познавательные",HDL
-http://hlstv.kem.211.ru/239.211.200.6/stream.m3u8
-#EXTINF:-1 group-title="Украина",IНТЕР
-http://109.68.41.148:1935/live/inter_3/playlist.m3u8
-#EXTINF:-1 group-title="Кино",KINO 24
-http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Mezzo Live HD
-http://hlstv.kem.211.ru/239.211.200.10/stream.m3u8
-#EXTINF:-1 tvg-name="MTV" group-title="Музыка",MTV (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.147/stream.m3u8
-#EXTINF:-1 group-title="Музыка",MTV Live HD
-http://hlstv.kem.211.ru/239.211.200.9/stream.m3u8
-#EXTINF:-1 group-title="Познавательные",National Geographic
-http://hlstv.kem.211.ru/239.211.211.40/stream.m3u8
-#EXTINF:-1 group-title="Познавательные",National Geographic HD
-http://hlstv.kem.211.ru/239.211.200.16/stream.m3u8
-#EXTINF:-1 group-title="Познавательные",Nat Geo Wild
-http://hlstv.kem.211.ru/239.211.211.42/stream.m3u8
-#EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
-http://hlstv.kem.211.ru/239.211.200.15/stream.m3u8
-#EXTINF:-1 group-title="Региональные",NHK World Japan
-http://hlstv.kem.211.ru/239.211.211.158/stream.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon" group-title="Детские",Nickelodeon (Резерв1)
-http://178.217.72.66:80/225.201.2.152/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon" group-title="Детские",Nickelodeon (Резерв3)
-http://hlstv.kem.211.ru/239.211.211.30/stream.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon HD" group-title="Детские",Nickelodeon HD (Резерв1)
-http://hlstv.kem.211.ru/239.211.200.8/stream.m3u8
-#EXTINF:-1 tvg-name="О!2" group-title="Музыка",О2ТВ HD
-http://hlstv.kem.211.ru/239.211.200.36/stream.m3u8
-#EXTINF:-1 tvg-name="Ocean TV" group-title="Познавательные",Ocean TV
-http://hlstv.kem.211.ru/239.211.211.41/stream.m3u8
-#EXTINF:-1 group-title="4K-UHD",One BY 4K
-http://rtmp.one.by:1499
-#EXTINF:-1 group-title="Познавательные",RTG
-http://hlstv.kem.211.ru/239.211.211.49/stream.m3u8
-#EXTINF:-1 group-title="Познавательные",RTG HD
-http://hlstv.kem.211.ru/239.211.200.20/stream.m3u8
-#EXTINF:-1 tvg-name="ru-tv" group-title="Музыка",RU TV
-http://hlstv.kem.211.ru/239.211.211.32/stream.m3u8
-#EXTINF:-1 group-title="Музыка",Russian Music Box
-http://hlstv.kem.211.ru/239.211.211.85/stream.m3u8
-#EXTINF:-1 tvg-name="Spike" group-title="Кино",Spike (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.149/stream.m3u8
-#EXTINF:-1 tvg-name="Travel+adventure" group-title="Познавательные",Travel+Advanture HD
-http://hlstv.kem.211.ru/239.211.200.7/stream.m3u8
-#EXTINF:-1 group-title="Другое",TVM Channel
-http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
-#EXTINF:-1 group-title="Кино",TV XXI
-http://hlstv.kem.211.ru/239.211.211.79/stream.m3u8
-#EXTINF:-1 group-title="Музыка",VOSTOK TV
-http://hlstv.kem.211.ru/239.211.211.117/stream.m3u8
-#EXTINF:-1 group-title="Кино",Zee TV
-http://hlstv.kem.211.ru/239.211.211.84/stream.m3u8
-#EXTINF:-1 group-title="Познавательные",Zoo TV
-http://hlstv.kem.211.ru/239.211.211.57/stream.m3u8
-#EXTINF:-1 group-title="Мужские",Авто 24
-http://hlstv.kem.211.ru/239.211.211.13/stream.m3u8
-#EXTINF:-1 group-title="Региональные",Беларусь 24
-http://hlstv.kem.211.ru/239.211.211.131/stream.m3u8
-#EXTINF:-1 group-title="Познавательные",Успех
-http://hlstv.kem.211.ru/239.211.211.109/stream.m3u8
-#EXTINF:-1 group-title="Познавательные",Вопросы и ответы
-http://hlstv.kem.211.ru/239.211.211.46/stream.m3u8
-#EXTINF:-1 tvg-name="Детский мир" group-title="Детские",Детский Мир (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.80/stream.m3u8
-#EXTINF:-1 group-title="Региональные",Дождь
-http://hlstv.kem.211.ru/239.211.211.70/stream.m3u8
-#EXTINF:-1 group-title="Региональные",Крым 24
-http://iptv.ktkru.ru:8025/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Доктор
-http://hlstv.kem.211.ru/239.211.211.67/stream.m3u8
-#EXTINF:-1 group-title="Кино",Дом кино Премиум
-http://msk3.peers.tv/streaming/dom_kino_premium/16/gvh1w/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",Домашние животные
-http://hlstv.kem.211.ru/239.211.211.65/stream.m3u8
-#EXTINF:-1 tvg-name="Домашний" group-title="Кино",Домашний (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.26/stream.m3u8
-#EXTINF:-1 group-title="Мужские",Драйв
-http://hlstv.kem.211.ru/239.211.211.59/stream.m3u8
-#EXTINF:-1 group-title="Кино",Еврокино
-http://178.217.72.66:80/225.201.2.198/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные",Еда HD
-http://hlstv.kem.211.ru/239.211.200.14/stream.m3u8
-#EXTINF:-1 group-title="Музыка",Жар птица
-http://hlstv.kem.211.ru/239.211.211.155/stream.m3u8
-#EXTINF:-1 group-title="Познавательные",Живая планета
-http://hlstv.kem.211.ru/239.211.211.105/stream.m3u8
-#EXTINF:-1 group-title="Развлекательные",Живи
-http://hlstv.kem.211.ru/239.211.211.153/stream.m3u8
-#EXTINF:-1 group-title="Познавательные",Загородная жизнь
-http://hlstv.kem.211.ru/239.211.211.51/stream.m3u8
-#EXTINF:-1 tvg-name="zvezda" group-title="Общие",Звезда (Резерв1)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="zvezda" group-title="Общие",Звезда (Резерв2)
-http://178.217.72.66/225.201.2.27/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="zvezda" group-title="Общие",Звезда (Резерв3)
-http://79.135.71.195:8014
-#EXTINF:-1 group-title="Познавательные",Здоровое ТВ
-http://hlstv.kem.211.ru/239.211.211.61/stream.m3u8
-#EXTINF:-1 group-title="Новостные",Известия
-http://hlstv.kem.211.ru/239.211.211.129/stream.m3u8
-#EXTINF:-1 tvg-name="Иллюзион+" group-title="Кино",Иллюзион+ (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.89/stream.m3u8
-#EXTINF:-1 group-title="Кино",Индийское кино
-http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
-#EXTINF:-1 group-title="Познавательные",История
-http://hlstv.kem.211.ru/239.211.211.55/stream.m3u8
-#EXTINF:-1 tvg-name="Калейдоскоп ТВ" group-title="Развлекательные",Калейдоскоп ТВ
-http://hlstv.kem.211.ru/239.211.211.116/stream.m3u8
-#EXTINF:-1 group-title="Кинозалы",Канал 1
-https://5656.ga/ch1.m3u8
-#EXTINF:-1 group-title="Кинозалы",Канал 2
-https://5656.ga/ch2.m3u8
-#EXTINF:-1 group-title="Кинозалы",Канал 3
-https://5656.ga/ch3.m3u8
-#EXTINF:-1 group-title="Кинозалы",Канал 4
-https://5656.ga/ch4.m3u8
-#EXTINF:-1 group-title="Кинозалы",Канал 5
-https://5656.ga/ch5.m3u8
-#EXTINF:-1 group-title="Кинозалы",Канал 6
-https://5656.ga/ch6.m3u8
-#EXTINF:-1 group-title="Детские",Карусель
-http://hlstv.kem.211.ru/239.211.211.66/stream.m3u8
-#EXTINF:-1 tvg-name="Карусель" group-title="Детские",Карусель (Резерв1)
-http://iptv.ktkru.ru:8008/index.m3u8
-#EXTINF:-1 group-title="4K-UHD",Кино UHD
-http://188.35.9.18:16050/udp/238.0.16.1:69000
-#EXTINF:-1 tvg-name="Кино ТВ" group-title="Кино",Кино ТВ (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.86/stream.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозал (Марс-ТВ)
-https://v2.catcast.tv/content/37033/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозал (Zigfreed TV)
-https://v2.catcast.tv/content/37713/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозал  (СССР EVGENIY)
-https://v2.catcast.tv/content/36506/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозал (Любимое индийское кино)
-https://v2.catcast.tv/content/37353/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозал (Сити Эдем TV)
-https://v2.catcast.tv/content/34246/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозал (Гал ТВ)
-http://clients.apsny.camera/tv_gal_tv_hd_online/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозал (Сити Эдем киноклассика)
-https://v2.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозал (VHS EVGENIY)
-https://v2.catcast.tv/content/36251/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозал (Ужасы EVGENIY)
-https://v2.catcast.tv/content/36277/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозал (Russian Комедии EVGENIY)
-https://v2.catcast.tv/content/36168/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозал (Кинорейс 1)
-http://timeshift.arpinet.am/228/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозал (akudji)
-https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозал (pznstreams)
-https://hls.goodgame.ru/hls/12949_720.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозал (ULTO)
-http://ultotv.ru:8888/live/uhd/playlist.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозал (STR TV)
-https://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF:-1 tvg-name="Киноменю" group-title="Кино",КиноМеню HD
-http://serv25.vintera.tv:8081/hdmedia/kinomenu/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Кинопремьера HD
-http://hlstv.kem.211.ru/239.211.200.28/stream.m3u8
-#EXTINF:-1 tvg-name="Киносемья" group-title="Кино",Киносемья (Резерв1)
-http://178.217.72.66:80/225.201.2.54/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Классика Кино
-http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-#EXTINF:-1 group-title="Общие",Красная линия
-https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:-1 group-title="Региональные",Крик ТВ
-http://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",Кухня ТВ
-http://hlstv.kem.211.ru/239.211.211.130/stream.m3u8
-#EXTINF:-1 group-title="Спорт",КХЛ HD
-http://hlstv.kem.211.ru/239.211.200.12/stream.m3u8
-#EXTINF:-1 group-title="Музыка",Ля-минор
-http://hlstv.kem.211.ru/239.211.211.20/stream.m3u8
-#EXTINF:-1 tvg-name="Мама" group-title="Детские",Мама (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.7/stream.m3u8
-#EXTINF:-1 group-title="Спорт",Матч!
-http://hlstv.kem.211.ru/239.211.211.27/stream.m3u8
-#EXTINF:-1 tvg-name="match-tv" group-title="Спорт",Матч! (Резерв1)
-http://178.217.72.66/225.201.2.16/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="match-tv" group-title="Спорт",Матч! (Резерв2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8
-#EXTINF:-1 tvg-name="match-tv" group-title="Спорт",Матч! (Резерв3)
-http://iptv.ktkru.ru:8003/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Боец
-http://hlstv.kem.211.ru/239.211.211.44/stream.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Игра HD
-http://hlstv.kem.211.ru/239.211.200.11/stream.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Страна
-http://hlstv.kem.211.ru/239.211.211.63/stream.m3u8
-#EXTINF:-1 group-title="Кино",Мир +4
-http://hlstv.kem.211.ru/239.211.211.52/stream.m3u8
-#EXTINF:-1 tvg-name="Мир +4" group-title="Кино",Мир +4 (Резерв1)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1 group-title="Новостные",Мир 24
-http://hlstv.kem.211.ru/239.211.211.11/stream.m3u8
-#EXTINF:-1 group-title="Кино",Мир HD
-http://hlstv.kem.211.ru/239.211.200.21/stream.m3u8
-#EXTINF:-1 group-title="Новостные",Мир Premium HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",Моя планета
-http://hlstv.kem.211.ru/239.211.211.2/stream.m3u8
-#EXTINF:-1 group-title="Кино",Мужское кино
-http://hlstv.kem.211.ru/239.211.211.145/stream.m3u8
-#EXTINF:-1 tvg-name="Мужское кино" group-title="Кино",Мужское кино (Резерв1)
-http://188.113.190.12/316/video.m3u8
-#EXTINF:-1 group-title="Мужские",Мужской
-http://hlstv.kem.211.ru/239.211.211.54/stream.m3u8
-#EXTINF:-1 tvg-name="Мульт" group-title="Детские",Мульт (Резерв2)
-http://182.73.122.74:10004/bysid/1113
-#EXTINF:-1 group-title="Детские",Мультиландия
-http://hlstv.kem.211.ru/239.211.211.3/stream.m3u8
-#EXTINF:-1 tvg-name="Мультимузыка" group-title="Детские",Мультимузыка (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.12/stream.m3u8
-#EXTINF:-1 tvg-name="Наука 2.0" group-title="Познавательные",Наука 2.0 (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.10/stream.m3u8
-#EXTINF:-1 group-title="Музыка",Наше ТВ
-http://hlstv.kem.211.ru/239.211.211.38/stream.m3u8
-#EXTINF:-1 tvg-name="ntv" group-title="Общие",НТВ
-http://178.217.72.66/225.201.2.19/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ntv" group-title="Общие",НТВ (Резерв1)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8
-#EXTINF:-1 tvg-name="ntv" group-title="Общие",НТВ (Резерв2)
-http://iptv.ktkru.ru:8004/index.m3u8
-#EXTINF:-1 group-title="Общие",НТВ HD
-http://109.239.208.82/ntvhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общие",Пятый канал
-http://iptv.ktkru.ru:8005/index.m3u8
-#EXTINF:-1 group-title="Мужские",Оружие
-http://hlstv.kem.211.ru/239.211.211.120/stream.m3u8
-#EXTINF:-1 tvg-name="ОТР" group-title="Общие",ОТР (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.1/stream.m3u8
-#EXTINF:-1 group-title="Мужские",Охота и Рыбалка
-http://hlstv.kem.211.ru/239.211.211.60/stream.m3u8
-#EXTINF:-1 tvg-name="Первый канал" group-title="Общие",Первый канал
-http://178.217.72.66/225.201.2.57/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Первый канал" group-title="Общие",Первый канал (Резерв1)
-http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8
-#EXTINF:-1 tvg-name="Первый канал" group-title="Общие",Первый канал (Резерв2)
-http://iptv.ktkru.ru:8001/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Планета HD
-http://hlstv.kem.211.ru/239.211.200.19/stream.m3u8
-#EXTINF:-1 group-title="Познавательные",Психология
-http://hlstv.kem.211.ru/239.211.211.64/stream.m3u8
-#EXTINF:-1 tvg-name="Пятница" group-title="Развлекательные",Пятница (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.21/stream.m3u8
-#EXTINF:-1 group-title="Развлекательные",Рен ТВ HD
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 group-title="Развлекательные",Рен ТВ International
-http://sc.id-tv.kz/RenTV_38_39.m3u8
-#EXTINF:-1 group-title="Кино",Родное кино
-http://hlstv.kem.211.ru/239.211.211.144/stream.m3u8
-#EXTINF:-1 tvg-name="rodnoe-kino" group-title="Кино",Родное кино (Резерв2)
-http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
-#EXTINF:-1 tvg-name="rodnoe-kino" group-title="Кино",Родное кино (Резерв3)
-http://178.217.72.66:80/225.201.2.56/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общие",Россия 1
-http://iptv.ktkru.ru:8002/index.m3u8
-#EXTINF:-1 tvg-name="rossia1" group-title="Общие",Россия 1 (Резерв1)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Общие",Россия HD
-http://hlstv.kem.211.ru/239.211.200.2/stream.m3u8
-#EXTINF:-1 group-title="Новостные",Россия 24
-http://a3569458063-s26881.cdn.ngenix.net/vgtrkrtmp/smil:chel_r24.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-name="Русский Иллюзион" group-title="Кино",Русский Иллюзион (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.88/stream.m3u8
-#EXTINF:-1 tvg-name="Русский роман" group-title="Кино",Русский Роман (Резерв2)
-http://hlstv.kem.211.ru/239.211.211.31/stream.m3u8
-#EXTINF:-1 group-title="Кино",Русский Роман HD
-http://hlstv.kem.211.ru/239.211.200.29/stream.m3u8
-#EXTINF:-1 group-title="Детские",Рыжий
-http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",Сарафан
-http://hlstv.kem.211.ru/239.211.211.97/stream.m3u8
-#EXTINF:-1 group-title="Религиозные",Союз
-http://hlstv.kem.211.ru/239.211.211.56/stream.m3u8
-#EXTINF:-1 group-title="Религиозные",Спас
-http://hlstv.kem.211.ru/239.211.211.102/stream.m3u8
-#EXTINF:-1 group-title="Региональные",СТВ Беларусь
-http://212.98.171.116/HLS/ctvby/playlist.m3u8
-#EXTINF:-1 tvg-name="СТС" group-title="Развлекательные",СТС
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="СТС" group-title="Развлекательные",СТС (Резерв1)
-http://79.135.71.195:8010
-#EXTINF:-1 tvg-name="СТС" group-title="Развлекательные",СТС (Резерв2)
-http://iptv.ktkru.ru:8013/index.m3u8
-#EXTINF:-1 tvg-name="СТС +4" group-title="Развлекательные",СТС +4
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/sts/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТС International
-http://163.172.179.78:8081/tv/STS-int/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТС Love
-http://hlstv.kem.211.ru/239.211.211.99/stream.m3u8
-#EXTINF:-1 group-title="Познавательные",Твой Дом
-http://hlstv.kem.211.ru/239.211.211.113/stream.m3u8
-#EXTINF:-1 group-title="Общие",ТВЦ
-http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
-#EXTINF:-1 tvg-name="ТВЦ" group-title="Общие",ТВЦ (Резерв1)
-http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
-#EXTINF:-1 group-title="Музыка",Театр
-http://hlstv.kem.211.ru/239.211.211.110/stream.m3u8
-#EXTINF:-1 group-title="Познавательные",Техно 24
-http://hlstv.kem.211.ru/239.211.211.45/stream.m3u8
-#EXTINF:-1 tvg-name="ТНТ" group-title="Развлекательные",ТНТ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="ТНТ" group-title="Развлекательные",ТНТ (Резерв1)
-http://178.217.72.66:80/225.201.2.242/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ТНТ" group-title="Развлекательные",ТНТ (Резерв2)
-http://iptv.ktkru.ru:8019/index.m3u8
-#EXTINF:-1 tvg-name="ТНТ" group-title="Развлекательные",ТНТ +4
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tnt/playlist.m3u8
-#EXTINF:-1 tvg-name="ТНТ" group-title="Развлекательные",ТНТ EXCLUSIVE TV
-http://89.28.25.122/hls/tnt_md.m3u8
-#EXTINF:-1 tvg-name="Уникум" group-title="Детские",Уникум (Резерв1)
-http://hlstv.kem.211.ru/239.211.211.69/stream.m3u8
-#EXTINF:-1 group-title="Познавательные",Усадьба
-http://hlstv.kem.211.ru/239.211.211.62/stream.m3u8
-#EXTINF:-1 group-title="Кино",Феникс+ кино
-http://hlstv.kem.211.ru/239.211.211.72/stream.m3u8
-#EXTINF:-1 group-title="Спорт",Футбол
-http://hlstv.kem.211.ru/239.211.211.108/stream.m3u8
-#EXTINF:-1 group-title="Развлекательные",Че +4
-http://hlstv.kem.211.ru/239.211.211.100/stream.m3u8
-#EXTINF:-1 group-title="Музыка",Шансон ТВ
-http://hlstv.kem.211.ru/239.211.211.78/stream.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Anal (18+)
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Big Ass (18+)
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Big Dick (18+)
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Big Tits (18+)
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Blonde (18+)
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Blowjob (18+)
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Brunette (18+)
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Compilation (18+)
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Cuckold (18+)
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Fetish (18+)
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Gangbang (18+)
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Gay (18+)
-http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Hardcore (18+)
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Interracial (18+)
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Latina (18+)
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Lesbian (18+)
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Livecams (18+)
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV MILF (18+)
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV POV (18+)
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Pornstar (18+)
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Rough (18+)
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Russian (18+)
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Teen (18+)
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 group-title="Для взрослых",Adult IPTV Threesome (18+)
-http://cdn.adultiptv.net/threesome.m3u8
-
+#EXTM3U
+#EXTINF:0,Большая игра 60 FPS/Big Game
+http://kinoteatr.kg/video2/Filmu/7Bolshaya%20igra.2015.60fps.mp4
+#EXTINF:0,Боги Египта 60 FPS/Gods of Egypt
+http://kinoteatr.kg/video2/Filmu/7Bogi%20Egipta.2016.60fps.mp4
+#EXTINF:0,Чужой 60 FPS/Alien
+http://kinoteatr.kg/video1/Filmu/7Chugoj1.%201979.60fps.mp4
+#EXTINF:0,Чужие 60 FPS/Aliens
+http://kinoteatr.kg/video1/Filmu/7Chugoj2.%201986.60fps.mp4
+#EXTINF:0,Чужой 3 60 FPS/Alien 3
+http://kinoteatr.kg/video1/Filmu/7Chugoj3.%201992.60fps.mp4
+#EXTINF:0,Чужой 4: Воскрешение 60 FPS/Alien: Resurrection
+http://kinoteatr.kg/video1/Filmu/7Chugoj4.%201997.60fps.mp4
+#EXTINF:0,Дэдпул 60 FPS/Deadpool
+http://kinoteatr.kg/video1/Filmu/7Deadpool.2016.60fps.mp4
+#EXTINF:0,Игра Эндера 60 FPS/Ender's Game
+http://kinoteatr.kg/video2/Filmu/7Igra%20Endera.2013.60fps.mp4
+#EXTINF:0,Затерянный город Z 60 FPS/The Lost City of Z
+http://kinoteatr.kg/video2/Filmu/7Zateryanyi%20gorod.Z.2017.60%20fps.mp4
+#EXTINF:0,Гравитация 60 FPS/Gravity
+http://kinoteatr.kg/video1/Filmu/7Gravitazia.2013.60fps.mp4
+#EXTINF:0,Халк 60 FPS/Hulk
+http://kinoteatr.kg/video1/Filmu/7Halk1.2003.60fps.mp4
+#EXTINF:0,Невероятный Халк 60 FPS/The Incredible Hulk
+http://kinoteatr.kg/video1/Filmu/7Halk2.2008.60%20fps.mp4
+#EXTINF:0,Интерстеллар 60 FPS/Interstellar
+http://kinoteatr.kg/video2/Filmu/7Interstellar.2014.60fps.mp4
+#EXTINF:0,Игра на понижение 60 FPS/The Big Short
+http://kinoteatr.kg/video2/Filmu/7Igra%20na%20porajenie.2015.60fps.mp4
+#EXTINF:0,Инферно 60 FPS/Inferno
+http://kinoteatr.kg/video2/Filmu/7Inferno.2016.60fps.mp4
+#EXTINF:0,Железный человек 60 FPS/Iron Man
+http://kinoteatr.kg/video1/Filmu/7Ironmen1.2008.60fps.mp4
+#EXTINF:0,Железный человек 2 60 FPS/Iron Man 2
+http://kinoteatr.kg/video1/Filmu/7Ironmen2.2010.60fps.mp4
+#EXTINF:0,Железный человек 3 60 FPS/Iron Man Three
+http://kinoteatr.kg/video1/Filmu/7Ironmen3.2013.60fps.mp4
+#EXTINF:0,Команда «А» 60 FPS/The A-Team
+http://kinoteatr.kg/video2/Filmu/7Komanda%20A.2010.60fps.mp4
+#EXTINF:0,Кинг Конг 60 FPS/King Kong
+http://kinoteatr.kg/video1/Filmu/7King%20Kong.2005.60fps.mp4
+#EXTINF:0,На гребне волны 60 FPS/Point Break
+http://kinoteatr.kg/video2/Filmu/7Na%20grebne%20volnu.2015.60fps.mp4
+#EXTINF:0,Назад в будущее 60 FPS/Back to the Future
+http://kinoteatr.kg/video1/Filmu/7Nazad%20v%20buduchee%20I.%201985.mp4
+#EXTINF:0,Назад в будущее 2 60 FPS/Back to the Future Part II
+http://kinoteatr.kg/video1/Filmu/7Nazad%20v%20buduchee%20II.%201990.mp4
+#EXTINF:0,Назад в будущее 3 60 FPS/Back to the Future Part III
+http://kinoteatr.kg/video1/Filmu/7Nazad%20v%20buduchee%20III.%201990.mp4
+#EXTINF:0,Обитель зла: Последняя глава 60 FPS/Resident Evil: The Final Chapter
+http://kinoteatr.kg/video2/Filmu/7Obitel%20zla.6.2017.60fps.mp4
+#EXTINF:0,Обливион 60 FPS/Oblivion
+http://kinoteatr.kg/video1/Filmu/7Oblivion.2013.60fps.mp4
+#EXTINF:0,Пит и его дракон 60 FPS/Pete's Dragon
+http://kinoteatr.kg/video2/Filmu/7Petes%20Dragon.2016.60fps.mp4
+#EXTINF:0,Повелитель стихий 60 FPS/The Last Airbender
+http://kinoteatr.kg/video1/Filmu/7Povelitel.stihij.2010.60fps.mp4
+#EXTINF:0,Преступник 60 FPS/Criminal
+http://kinoteatr.kg/video2/Filmu/7Prestupnik.2016.60fps.mp4
+#EXTINF:0,Соломон Кейн 60 FPS/Solomon Kane
+http://kinoteatr.kg/video1/Filmu/7Solomon%20Kane.2009.60fps.mp4
+#EXTINF:0,Человек-паук 60 FPS/Spider-Man
+http://kinoteatr.kg/video1/Filmu/7Spidermen1.2002.60fps.mp4
+#EXTINF:0,Человек-паук 2 60 FPS/Spider-Man 2
+http://kinoteatr.kg/video1/Filmu/7Spidermen2.2004.60fps.mp4
+#EXTINF:0,Человек-паук 3: Враг в отражении 60 FPS/Spider-Man 3
+http://kinoteatr.kg/video1/Filmu/7Spidermen3.2007.60fps.mp4
+#EXTINF:0,Три икса 60 FPS/xXx
+http://kinoteatr.kg/video1/Filmu/7Tri%20ixa.2002.60fps.mp4
+#EXTINF:0,Три икса: Мировое господство 60 FPS/xXx: Return of Xander Cage
+http://kinoteatr.kg/video2/Filmu/7xXx.Return.of.Xander.Cage.2017.60fps.mp4
+#EXTINF:0,Мир Юрского периода 60 FPS/Jurassic World
+http://kinoteatr.kg/video2/Filmu/7Mir.Jurskogo.perioda.2015.60fps.mp4
+#EXTINF:0,Миссия: невыполнима 60 FPS/Mission: Impossible
+http://kinoteatr.kg/video2/Filmu/7Missiya%20nevypolnima1.1996.60fps.mp4
+#EXTINF:0,Миссия: невыполнима 2 60 FPS/Mission: Impossible II
+http://kinoteatr.kg/video2/Filmu/7Missiya%20nevypolnima2.2000.60fps.mp4
+#EXTINF:0,Миссия: невыполнима 3 60 FPS/Mission: Impossible III
+http://kinoteatr.kg/video2/Filmu/7Missiya%20nevypolnima3.2006.60fps.mp4
+#EXTINF:0,Миссия невыполнима: Протокол Фантом 60 FPS/Mission: Impossible - Ghost Protocol
+http://kinoteatr.kg/video2/Filmu/7Missiya%20nevypolnima4.2011.60fps.mp4
+#EXTINF:0,Миссия невыполнима: Племя изгоев 60 FPS/Mission: Impossible - Rogue Nation
+http://kinoteatr.kg/video2/Filmu/7Missiya%20nevypolnima5.2015.60fps.mp4
+#EXTINF:0,В джазе только девушки 60 FPS/Some Like It Hot
+http://kinoteatr.kg/video1/Filmu/7V%20djaze%20tolko%20devushki.1959.60fps.mp4
+#EXTINF:0,Люди Икс60 fps/X-Men
+http://kinoteatr.kg/video1/Filmu/7Xmen%201.2000.60fps.mp4
+#EXTINF:0,Люди Икс 2 60 FPS/X2
+http://kinoteatr.kg/video1/Filmu/7Xmen%202.2003.60fps.mp4
+#EXTINF:0,Люди Икс 3: Последняя битва 60 FPS/X-Men: The Last Stand
+http://kinoteatr.kg/video1/Filmu/7Xmen%203.2006.60fps.mp4
+#EXTINF:0,Люди Икс 4: Начало. Росомаха 60 FPS/X-Men Origins: Wolverine
+http://kinoteatr.kg/video1/Filmu/7Xmen%204.Rasamaxa.2009.60fps.mp4
+#EXTINF:0,Люди Икс 5: Первый класс 60 FPS/X: First Class
+http://kinoteatr.kg/video1/Filmu/7Xmen%205.Pervyi%20klass.2011.60fps.mp4
+#EXTINF:0,Люди Икс 7: Дни минувшего будущего 60 FPS/X-Men: Days of Future Past
+http://kinoteatr.kg/video1/Filmu/7Xmen%207.Dny%20minuvshix%20let.2014.60fps.mp4
+#EXTINF:0,Логан 60 FPS/Logan
+http://kinoteatr.kg/video2/Filmu/7Logan.2017.60fps.mp4
+#EXTINF:0,Хоббит: Нежданное путешествие 60 FPS/The Hobbit: An Unexpected Journey
+http://kinoteatr.kg/video1/Filmu/7Xobbit.1.2012.60fps.mp4
+#EXTINF:0,Хоббит: Битва пяти воинств 60 FPS/The Hobbit: The Battle of the Five Armies
+http://kinoteatr.kg/video1/Filmu/7Xobbit.3.2014.60fps.mp4
+#EXTINF:0,Золушка 60 FPS/Cinderella
+http://kinoteatr.kg/video1/Filmu/7Zolushka%202015.60fps.mp4
+#EXTINF:0,На глубине 6 футов 60 FPS/6 Below: Miracle on the Mountain
+http://kinoteatr.kg/video2/Filmu/7Na%20glubine%206%20futov.2017.60fps.mp4
+#EXTINF:0,Приключения Паддингтона 60 FPS/Paddington
+http://kinoteatr.kg/video2/Filmu/7Paddington%201.2015.60fps.mp4
+#EXTINF:0,Голос монстра 60 FPS/A Monster Calls
+http://kinoteatr.kg/video2/Filmu/7Golos%20monstra.2017.60fps.mp4
+#EXTINF:0,Абсолютная власть 60 FPS/Absolute Power
+http://kinoteatr.kg/video2/Filmu/7Absolyutnaya%20vlast.1997.60fps.mp4
+#EXTINF:0,Пираты Карибского моря: Мертвецы не рассказывают сказки 60 FPS/Pirates of the Caribbean: Dead Men Tell No Tales
+http://kinoteatr.kg/video2/Filmu/7Piraty%20karibskogo%20morya5.%20Mertvezy%20ne%20raskazyvayut%20skazki.2017.60fps.mp4
+#EXTINF:0,Адмиралъ 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Admirall.2008.60fps.mp4
+#EXTINF:0,Анаконда 60 FPS/Anaconda
+http://kinoteatr.kg/video2/Filmu/7Anaconda.1997.60fps.mp4
+#EXTINF:0,Ангелы и Демоны 60 FPS/Angels & Demons
+http://kinoteatr.kg/video2/Filmu/7Angels%20and%20Demons.2009.60fps.mp4
+#EXTINF:0,Последний самурай 60 FPS/The Last Samurai
+http://kinoteatr.kg/video2/Filmu/7Poslednij%20samuraj.2003.60fps.mp4
+#EXTINF:0,Армагеддон 60 FPS/Armageddon
+http://kinoteatr.kg/video2/Filmu/7Armageddon.1998.60fps.mp4
+#EXTINF:0,Прибытие 60 FPS/Arrival
+http://kinoteatr.kg/video2/Filmu/7Pribytie.2016.60fps.mp4
+#EXTINF:0,Кредо убийцы 60 FPS/Assassin's Creed
+http://kinoteatr.kg/video2/Filmu/7Assassins%20Creed.2016.60fps.mp4
+#EXTINF:0,Астерикс и Обеликс против Цезаря 60 FPS/Astérix & Obélix contre César
+http://kinoteatr.kg/video2/Filmu/7Asterix%20i%20obeliks%20-%20protiv%20czezarya.1999.60fps.mp4
+#EXTINF:0,Астерикс и Обеликс: Миссия Клеопатра 60 FPS/Astérix & Obélix: Mission Cléopâtre
+http://kinoteatr.kg/video2/Filmu/7Asterix%20i%20obeliks%20-%20Missiya%20kleopatra.2002.60fps.mp4
+#EXTINF:0,Астерикс на Олимпийских играх 60 FPS/Astérix aux jeux olympiques
+http://kinoteatr.kg/video2/Filmu/7Asterix%20i%20obeliks%20na%20olimpiiskih%20igrah.2008.60fps.mp4
+#EXTINF:0,Взрывная блондинка 60 FPS/Atomic Blonde
+http://kinoteatr.kg/video2/Filmu/7Atomic%20Blonde.2017.60fps.mp4
+#EXTINF:0,Авалон 60 FPS/Avalon
+http://kinoteatr.kg/video2/Filmu/7Avalon.2001.60fps.mp4
+#EXTINF:0,Аватар 60 FPS/Avatar
+http://kinoteatr.kg/video2/Filmu/7Avatar.2009.60fps.mp4
+#EXTINF:0,Бандиты 60 FPS/Bandits
+http://kinoteatr.kg/video2/Filmu/7Bandits.2001.60fps.mp4
+#EXTINF:0,Батальонъ 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Batalion.2015.60fps.mp4
+#EXTINF:0,Батарейки не прилагаются 60 FPS/Batteries not included
+http://kinoteatr.kg/video2/Filmu/7Batareiki%20ne%20prilagayutca.1987.60fps.mp4
+#EXTINF:0,Бэтмен против Супермена: На заре справедливости 60 FPS/Batman v Superman: Dawn of Justice
+http://kinoteatr.kg/video2/Filmu/7Batman%20vs%20Superman.2016.60fps.mp4
+#EXTINF:0,Морской бой 60 FPS/Battleship
+http://kinoteatr.kg/video2/Filmu/7Battleship.2012.60fps.mp4
+#EXTINF:0,Красавица и чудовище 60 FPS/Beauty and the Beast
+http://kinoteatr.kg/video2/Filmu/7Krasaviza%20i%20chudoviche.2017.60fps.mp4
+#EXTINF:0,Матрица времени 60 FPS/Before I Fall
+http://kinoteatr.kg/video2/Filmu/7Matriza%20vremeni.2017.60fps.mp4
+#EXTINF:0,Бегущий по лезвию 2049 60 FPS/Blade Runner 2049
+http://kinoteatr.kg/video2/Filmu/7Beguschii%20po%20lezviuy%202049.2017.60fps.mp4
+#EXTINF:0,Белое солнце пустыни 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Beloe%20solnce%20pustuni.1969.60fps.mp4
+#EXTINF:0,Безбашенные 60 FPS/Renegades
+http://kinoteatr.kg/video2/Filmu/7Besbashennie.2017.60fps.mp4
+#EXTINF:0,Бессонница 60 FPS/Insomnia
+http://kinoteatr.kg/video2/Filmu/7Bessonnica.2002.60fps.mp4
+#EXTINF:0,Битва за Севастополь 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Bitva%20za%20Sevastopol.2015.60fps.mp4
+#EXTINF:0,Сверкающие седла 60 FPS/Blazing Saddles
+http://kinoteatr.kg/video2/Filmu/7Blazing%20Saddles.1974.60fps.mp4
+#EXTINF:0,Брат 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Brat.1997.60fps.mp4
+#EXTINF:0,Брат 2 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Brat2.2000.60fps.mp4
+#EXTINF:0,Братья Гримм 60 FPS/The Brothers Grimm
+http://kinoteatr.kg/video2/Filmu/7Bratjya%20Grimm.2005.60fps.mp4
+#EXTINF:0,Бросок кобры 60 FPS/G.I. Joe: The Rise of Cobra
+http://kinoteatr.kg/video2/Filmu/7Brosok%20kobry.2009.60fps.mp4
+#EXTINF:0,Бросок кобры 2 60 FPS/G.I. Joe: Retaliation
+http://kinoteatr.kg/video2/Filmu/7Brosok%20kobry2.2013.60fps.mp4
+#EXTINF:0,Зов героев 60 FPS/Call of Heroes
+http://kinoteatr.kg/video2/Filmu/7Zov%20geroev.2016.60fps.mp4
+#EXTINF:0,Робот по имени Чаппи 60 FPS/Chappie
+http://kinoteatr.kg/video2/Filmu/7Chappy.2015.60fps.mp4
+#EXTINF:0,Чёрная Молния 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Chernaya%20molniya.2009.60fps.mp4
+#EXTINF:0,Чужой: Завет 60 FPS/Alien: Covenant
+http://kinoteatr.kg/video2/Filmu/7Chujoi.%20Zavet.2017.60fps.mp4
+#EXTINF:0,Битва Титанов 60 FPS/Clash of the Titans
+http://kinoteatr.kg/video2/Filmu/7Bitva%20titanov.2010.60fps.mp4
+#EXTINF:0,Гнев Титанов 60 FPS/Wrath of the Titans
+http://kinoteatr.kg/video2/Filmu/7Gnev%20titanov.2012.60fps.mp4
+#EXTINF:0,Автобан 60 FPS/Collide
+http://kinoteatr.kg/video2/Filmu/7Avtoban.2017.60fps.mp4
+#EXTINF:0,Воздушная тюрьма 60 FPS/Con Air
+http://kinoteatr.kg/video2/Filmu/7Vozdushnaya%20tyurma.1997.60fps.mp4
+#EXTINF:0,Конан-разрушитель 60 FPS/Conan the Destroyer
+http://kinoteatr.kg/video2/Filmu/7Conan%20the%20Destroyer.1984.60fps.mp4
+#EXTINF:0,Константин: Повелитель тьмы 60 FPS/Constantine
+http://kinoteatr.kg/video2/Filmu/7Constantine.2005.60fps.mp4
+#EXTINF:0,Преступник 60 FPS/Criminal
+http://kinoteatr.kg/video2/Filmu/7Prestupnik.2016.60fps.mp4
+#EXTINF:0,Ангел тьмы 60 FPS/Dark Angel
+http://kinoteatr.kg/video2/Filmu/7Dark%20Angel.1990.60fps.mp4
+#EXTINF:0,Мрачные тени 60 FPS/Dark Shadows
+http://kinoteatr.kg/video2/Filmu/7Dark%20Shadows.2012.60fps.mp4
+#EXTINF:0,Воины света 60 FPS/Daybreakers
+http://kinoteatr.kg/video2/Filmu/7Voiny%20sveta.2009.60fps.mp4
+#EXTINF:0,Глубоководный горизонт 60 FPS/Deepwater Horizon
+http://kinoteatr.kg/video2/Filmu/7Glubokovodnyi%20gorizont%202016.60fps.mp4
+#EXTINF:0,День независимости 60 FPS/Independence Day
+http://kinoteatr.kg/video2/Filmu/7Den%20nezavisimosti.1996.60fps.mp4
+#EXTINF:0,День независимости: Возрождение 60 FPS/Independence Day: Resurgence
+http://kinoteatr.kg/video2/Filmu/7Den%20nezavisimosti.Vozrojdenie.2016.60fps.mp4
+#EXTINF:0,Район №9 60 FPS/District 9
+http://kinoteatr.kg/video2/Filmu/7District9.2009.60fps.mp4
+#EXTINF:0,Джек – покоритель великанов 60 FPS/Jack the Giant Slayer
+http://kinoteatr.kg/video2/Filmu/7Djek.Pokoritel%20velikanov.2014.60fps.mp4
+#EXTINF:0,Доктор Стрэндж 60 FPS/Doctor Strange
+http://kinoteatr.kg/video2/Filmu/7Doctor%20Strange.2016.60fps.mp4
+#EXTINF:0,Доспехи бога: В поисках сокровищ 60 FPS/Gong fu yu jia
+http://kinoteatr.kg/video2/Filmu/7Dospehi%20Boga4.2017.60fps.mp4
+#EXTINF:0,Дракула 60 FPS/Dracula
+http://kinoteatr.kg/video2/Filmu/7Dracula.Bram%20Stoker's.1992.60fps.mp4
+#EXTINF:0,Драконы навсегда 60 FPS/Fei lung mang jeung
+http://kinoteatr.kg/video2/Filmu/7Drakony%20navsegda.1988.60fps.mp4
+#EXTINF:0,Драйв 60 FPS/Drive
+http://kinoteatr.kg/video2/Filmu/7Draiv.1997.60fps.mp4
+#EXTINF:0,Дракула 60 FPS/Dracula Untold
+http://kinoteatr.kg/video2/Filmu/7Drakula.2014.60fps.mp4
+#EXTINF:0,Драйв 60 FPS/Drive
+http://kinoteatr.kg/video2/Filmu/7Drive.2011.60fps.mp4
+#EXTINF:0,Друзья друзей 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Druzya%20druzei.2013.60fps.mp4
+#EXTINF:0,Экипаж 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Ekipaj.2016.60fps.mp4
+#EXTINF:0,Элизиум: Рай не на Земле 60 FPS/Elysium
+http://kinoteatr.kg/video2/Filmu/7Elysium.2013.60fps.mp4
+#EXTINF:0,Угнать за 60 секунд 60 FPS/Gone in Sixty Seconds
+http://kinoteatr.kg/video/Filmu/7Ugnat%20za%2060%20sec.2000.60fps.mp4
+#EXTINF:0,Враг мой 60 FPS/Enemy Mine
+http://kinoteatr.kg/video2/Filmu/7Vrag%20moi.1985.60fps.mp4
+#EXTINF:0,Равные 60 FPS/Equals
+http://kinoteatr.kg/video2/Filmu/7Ravnye.2015.60fps.mp4
+#EXTINF:0,Фантастические твари и где они обитают 60 FPS/Fantastic Beasts and Where to Find Them
+http://kinoteatr.kg/video2/Filmu/7Fantastic%20Beasts%20and%20Where%20to%20Find%20Them.2016.60fps.mp4
+#EXTINF:0,Геошторм 60 FPS/Geostorm
+http://kinoteatr.kg/video2/Filmu/7Geostorm.2017.60fps.mp4
+#EXTINF:0,Геракл 60 FPS/Hercules
+http://kinoteatr.kg/video2/Filmu/7Gerakl.2014.60fps.mp4
+#EXTINF:0,«Весёлые» каникулы 60 FPS/Get the Gringo
+http://kinoteatr.kg/video2/Filmu/7Get%20the%20Gringo.2012.60fps.mp4
+#EXTINF:0,Призрак в доспехах 60 FPS/Ghost in the Shell
+http://kinoteatr.kg/video2/Filmu/7Prizrak%20v%20dospexax.2017.60fps.mp4
+#EXTINF:0,Живое 60 FPS/Life
+http://kinoteatr.kg/video2/Filmu/7Jivoe.2017.60fps.mp4
+#EXTINF:0,Гладиатор 60 FPS/Gladiator
+http://kinoteatr.kg/video2/Filmu/7Gladiator.2000.60fps.mp4
+#EXTINF:0,Властелин колец: Братство кольца 60 FPS/The Lord of the Rings: The Fellowship of the Ring
+http://kinoteatr.kg/video2/Filmu/7Vlastalin%20Kolecz.%20Bratstvo%20kolcza.2001.60fps.mp4
+#EXTINF:0,Властелин колец: Две крепости 60 FPS/The Lord of the Rings: The Two Towers
+http://kinoteatr.kg/video2/Filmu/7Vlastalin%20Kolecz.%20Dve%20kreposti.2002.60fps.mp4
+#EXTINF:0,Властелин колец: Возвращение Короля 60 FPS/The Lord of the Rings: The Return of the King
+http://kinoteatr.kg/video2/Filmu/7Vlastalin%20Kolecz.%20Vozvrashenie%20korolya.2003.60fps.mp4
+#EXTINF:0,Война миров 60 FPS/War of the Worlds
+http://kinoteatr.kg/video2/Filmu/7Voina%20mirov.2005.60fps.mp4
+#EXTINF:0,Гоголь. Начало 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Gogol.%20Nachalo.2017.60fps.mp4
+#EXTINF:0,Хорошее время 60 FPS/Good Time
+http://kinoteatr.kg/video2/Filmu/7Xoroshie%20vremena.2017.60fps.mp4
+#EXTINF:0,Грань будущего 60 FPS/Edge of Tomorrow
+http://kinoteatr.kg/video2/Filmu/7Granj.budushego.2014.60fps.mp4
+#EXTINF:0,Грейсфилд 60 FPS/The Gracefield Incident
+http://kinoteatr.kg/video2/Filmu/7Greisfild.2017.60fps.mp4
+#EXTINF:0,Стражи Галактики 60 FPS/Guardians of the Galaxy
+http://kinoteatr.kg/video2/Filmu/7Stragi%20galaktiki.2014.60fps.mp4
+#EXTINF:0,Стражи Галактики. Часть 2 60 FPS/Guardians of the Galaxy Vol. 2
+http://kinoteatr.kg/video2/Filmu/7Stragi%20galaktiki.Vol.%202.2017.60fps.mp4
+#EXTINF:0,По соображениям совести 60 FPS/Hacksaw Ridge
+http://kinoteatr.kg/video2/Filmu/7Po%20soobrajeniyam%20sovesti.2016.60fps.mp4
+#EXTINF:0,Хищник 60 FPS/Predator
+http://kinoteatr.kg/video2/Filmu/7Xishnik.1987.60fps.mp4
+#EXTINF:0,Хитмэн 60 FPS/Hitman
+http://kinoteatr.kg/video2/Filmu/7Hitman.2007.60fps.mp4
+#EXTINF:0,Холодное танго 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Holodnoe%20tango.2017.60fps.mp4
+#EXTINF:0,В гостях у Элис 60 FPS/Home Again
+http://kinoteatr.kg/video2/Filmu/7Home%20Again.2017.60fps.mp4
+#EXTINF:0,Храброе сердце 60 FPS/Braveheart
+http://kinoteatr.kg/video2/Filmu/7Hrabroe%20cerdce.1995.60fps.mp4
+#EXTINF:0,Я, робот 60 FPS/I, Robot
+http://kinoteatr.kg/video2/Filmu/7Ya%20robot.2004.60fps.mp4
+#EXTINF:0,Игра Эндера 60 FPS/Ender's Game
+http://kinoteatr.kg/video2/Filmu/7Igra%20Endera.2013.60fps.mp4
+#EXTINF:0,Война Богов: Бессмертные 60 FPS/Immortals
+http://kinoteatr.kg/video2/Filmu/7Immortals.2011.60fps.mp4
+#EXTINF:0,Иностранец 60 FPS/The Foreigner
+http://kinoteatr.kg/video2/Filmu/7Inostranec.2017.60fps.mp4
+#EXTINF:0,Я – Четвертый 60 FPS/I Am Number Four
+http://kinoteatr.kg/video2/Filmu/7Ya.Chetvertyj.2011.60fps.mp4
+#EXTINF:0,Жажда смерти 60 FPS/Death Wish
+http://kinoteatr.kg/video2/Filmu/7Jajda%20smerti.2018.60fps.mp4
+#EXTINF:0,Телепорт 60 FPS/Jumper
+http://kinoteatr.kg/video2/Filmu/7Jumper.2008.60fps.mp4
+#EXTINF:0,Земное ядро 60 FPS/The Core
+http://kinoteatr.kg/video2/Filmu/7Zemnoe%20yadro.2003.60%20fps.mp4
+#EXTINF:0,Джунгли 60 FPS/Jungle
+http://kinoteatr.kg/video2/Filmu/7Jungle.2017.60fps.mp4
+#EXTINF:0,Лига справедливости 60 FPS/Justice League
+http://kinoteatr.kg/video2/Filmu/7Liga%20spravedlivosti.2017.60fps.mp4
+#EXTINF:0,Вий 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Vii.2014.60%20fps.mp4
+#EXTINF:0,Джон Уик 2 60 FPS/John Wick: Chapter Two
+http://kinoteatr.kg/video2/Filmu/7Djon%20Wick2.2017.60fps.mp4
+#EXTINF:0,К-19 60 FPS/K-19: The Widowmaker
+http://kinoteatr.kg/video2/Filmu/7K-19.2002.60fps.mp4
+#EXTINF:0,Золото Маккены 60 FPS/Mackenna's Gold
+http://kinoteatr.kg/video2/Filmu/7Zoloto%20Makeny.60fps.mp4
+#EXTINF:0,Жизнь Пи 60 FPS/Life of Pi
+http://kinoteatr.kg/video2/Filmu/7Zhizn'%20Pi.2012.60%20FPS.mp4
+#EXTINF:0,Король Артур 60 FPS/King Arthur
+http://kinoteatr.kg/video2/Filmu/7King%20Arthur.2004.60fps.mp4
+#EXTINF:0,Защитники 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Zashitniki.2017.60fps.mp4
+#EXTINF:0,Запретное царство 60 FPS/The Forbidden Kingdom
+http://kinoteatr.kg/video2/Filmu/7Zapretnoe%20Carstvo.2008.60fps.mp4
+#EXTINF:0,Законопослушный гражданин 60 FPS/Law Abiding Citizen
+http://kinoteatr.kg/video2/Filmu/7Zakonoposlushnui%20grajdanin.2009%2060fps.mp4
+#EXTINF:0,Kingsman: Секретная служба 60 FPS/Kingsman: The Secret Service
+http://kinoteatr.kg/video2/Filmu/7Kingsman1.2014.60fps.mp4
+#EXTINF:0,Kingsman: Золотое кольцо 60 FPS/Kingsman: The Golden Circle
+http://kinoteatr.kg/video2/Filmu/7Kingsman2.2017.60fps.mp4
+#EXTINF:0,Книга Илая 60 FPS/The Book of Eli
+http://kinoteatr.kg/video2/Filmu/7Kniga%20Ilaya.2010.60fps.mp4
+#EXTINF:0,Чудо женщина 60 FPS/Wonder Woman
+http://kinoteatr.kg/video2/Filmu/7Wonder%20Woman.2017.60%20fps.mp4
+#EXTINF:0,Код Да Винчи 60 FPS/The Da Vinci Code
+http://kinoteatr.kg/video2/Filmu/7Kod%20davinchi.2006.60fps.mp4
+#EXTINF:0,Код доступа «Кейптаун» 60 FPS/Safe House
+http://kinoteatr.kg/video2/Filmu/7Kod%20dostupa%20Keiptaun.2012.60fps.mp4
+#EXTINF:0,Водный мир 60 FPS/Waterworld
+http://kinoteatr.kg/video2/Filmu/7Waterworld.1995.60fps.mp4
+#EXTINF:0,Тепло наших тел 60 FPS/Warm Bodies
+http://kinoteatr.kg/video2/Filmu/7Warm%20Bodies.2013.60fps.mp4
+#EXTINF:0,Варкрафт 60 FPS/Warcraft
+http://kinoteatr.kg/video2/Filmu/7Warcraft.2016.60fps.mp4
+#EXTINF:0,Коммандос 60 FPS/Commando
+http://kinoteatr.kg/video2/Filmu/7Kommandos.1985.60fps.mp4
+#EXTINF:0,Война против всех 60 FPS/War on Everyone
+http://kinoteatr.kg/video2/Filmu/7War%20on%20Everyone.2016.60fps.mp4
+#EXTINF:0,Конг: Остров черепа 60 FPS/Kong: Skull Island
+http://kinoteatr.kg/video2/Filmu/7Kong.Ostrov%20cherepa.2017.60fps.mp4
+#EXTINF:0,Ковбои против пришельцев 60 FPS/Cowboys & Aliens
+http://kinoteatr.kg/video2/Filmu/7Kovboi%20protiv%20prishelcev.2011.60fps.mp4
+#EXTINF:0,Вспомнить всё 60 FPS/Total Recall
+http://kinoteatr.kg/video2/Filmu/7vspomnit%20vse.1990.60fps.mp4
+#EXTINF:0,Куда приводят мечты 60 FPS/фэнтези, драма, мелодрама
+http://kinoteatr.kg/video2/Filmu/7Kuda.privodjat.mechty.1998.60fps.mp4
+#EXTINF:0,Время первых 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Vremya%20pervih.2017.60fps.mp4
+#EXTINF:0,Время 60 FPS/In Time
+http://kinoteatr.kg/video2/Filmu/7Vremy.2011.60fps.mp4
+#EXTINF:0,Ла-Ла Ленд 60 FPS/La La Land
+http://kinoteatr.kg/video2/Filmu/7La%20La%20Land.2016.60fps.mp4
+#EXTINF:0,Возвращение героя 60 FPS/The Last Stand
+http://kinoteatr.kg/video2/Filmu/7Vozvrashenie%20geroya.2013.60fps.mp4
+#EXTINF:0,Восхождение Юпитер 60 FPS/Jupiter Ascending
+http://kinoteatr.kg/video2/Filmu/7Voshojdenie%20Upiter.60fps.mp4
+#EXTINF:0,Видок 60 FPS/Vidocq
+http://kinoteatr.kg/video2/Filmu/7Vidok.2001.60fps.mp4
+#EXTINF:0,Ларго Винч: Начало 60 FPS/Largo Winch
+http://kinoteatr.kg/video2/Filmu/7Largo%20Vinch.2008.60fps.mp4
+#EXTINF:0,Ларго Винч 2: Заговор в Бирме 60 FPS/Largo Winch II
+http://kinoteatr.kg/video2/Filmu/=7Largo%20Vinch2.2011.60fps.mp4
+#EXTINF:0,Вавилон Н.Э. 60 FPS/Babylon A.D.
+http://kinoteatr.kg/video2/Filmu/7Vavilon%20Novaya%20era.2008.60fps.mp4
+#EXTINF:0,Ледокол 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Ledokol.2016.60fps.mp4
+#EXTINF:0,Валериан и город тысячи планет 60 FPS/Valerian and the City of a Thousand Planets
+http://kinoteatr.kg/video2/Filmu/7Valerian%20i%20gorod%201000%20planet.2017.60fps.mp4
+#EXTINF:0,Легенда о Коловрате 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Legenda%20o%20Kolovrate.2017.60fps.mp4
+#EXTINF:0,В сердце моря 60 FPS/In the Heart of the Sea
+http://kinoteatr.kg/video2/Filmu/7V%20serdce%20morya.2015.60fps.mp4
+#EXTINF:0,В бой идут одни «старики» 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7V%20boi%20idut%20odny%20striki.1973.60%20fps.mp4
+#EXTINF:0,Легион 60 FPS/Legion
+http://kinoteatr.kg/video2/Filmu/7Legion.2010.60fps.mp4
+#EXTINF:0,Укрощение строптивого 60 FPS/Il bisbetico domato
+http://kinoteatr.kg/video2/Filmu/7Ukroshhenie.stroptivogo.1980.60fps.mp4
+#EXTINF:0,Трон: Наследие 60 FPS/Tron
+http://kinoteatr.kg/video2/Filmu/=7Tron.Nasledie.2010.60fps.mp4
+#EXTINF:0,Удача Логана 60 FPS/Logan Lucky
+http://kinoteatr.kg/video2/Filmu/7Logan%20Lucky.2017.60fps.mp4
+#EXTINF:0,Оружейный барон 60 FPS/Lord of War
+http://kinoteatr.kg/video2/Filmu/7Orujeinyi%20baron.2005.60fps.mp4
+#EXTINF:0,Люди в черном 60 FPS/Men in Black
+http://kinoteatr.kg/video2/Filmu/7Ludi%20v%20chernom1.1997.60fps.mp4
+#EXTINF:0,Люди в черном 2 60 FPS/Men in Black II
+http://kinoteatr.kg/video2/Filmu/7Ludi%20v%20chernom2.2002.60fps.mp4
+#EXTINF:0,Люди в черном 3 60 FPS/Men in Black 3
+http://kinoteatr.kg/video2/Filmu/7Ludi%20v%20chernom3.2012.60fps.mp4
+#EXTINF:0,Трансформеры 60 FPS/Transformers
+http://kinoteatr.kg/video2/Filmu/7Tranformery1.60fps.mp4
+#EXTINF:0,Трансформеры: Месть падших 60 FPS/Transformers: Revenge of the Fallen
+http://kinoteatr.kg/video2/Filmu/=7Tranformery2.60fps.mp4
+#EXTINF:0,Марсианин 60 FPS/The Martian
+http://kinoteatr.kg/video2/Filmu/7Marsianin.2015.60fps.mp4
+#EXTINF:0,Поменяться местами 60 FPS/Trading Places
+http://kinoteatr.kg/video2/Filmu/7Pomenyatsya%20mestami.1983.60%20fps.mp4
+#EXTINF:0,Тони Эрдманн 60 FPS/Toni Erdmann
+http://kinoteatr.kg/video2/Filmu/7Toni%20Erdmann.2016.60%20fps.mp4
+#EXTINF:0,Машина времени 60 FPS/The Time Machine
+http://kinoteatr.kg/video2/Filmu/7Mashina%20vremeni.2002.60fps.mp4
+#EXTINF:0,Матильда 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Matilda.2017.60fps.mp4
+#EXTINF:0,Макс Пэйн 60 FPS/Max Payne
+http://kinoteatr.kg/video2/Filmu/7Max%20Payne.2008.60fps.mp4
+#EXTINF:0,Тор 60 FPS/Thor
+http://kinoteatr.kg/video2/Filmu/7Thor1.2011.60FPS.mp4
+#EXTINF:0,Космос между нами 60 FPS/The Space Between Us
+http://kinoteatr.kg/video2/Filmu/7Kosmos%20mezhdu%20nami.2017.60fps.mp4
+#EXTINF:0,До встречи с тобой 60 FPS/Me Before You
+http://kinoteatr.kg/video2/Filmu/7Do%20vstrechi%20s%20toboi.2016.60fps.mp4
+#EXTINF:0,Место под соснами 60 FPS/The Place Beyond the Pines
+http://kinoteatr.kg/video2/Filmu/7Mesto%20pod%20solncem.2012.60fps.mp4
+#EXTINF:0,Подозрительные лица 60 FPS/The Usual Suspects
+http://kinoteatr.kg/video2/Filmu/7Podozritelnye%20lica.1995.60%20fps.mp4
+#EXTINF:0,Форма воды 60 FPS/The Shape of Water
+http://kinoteatr.kg/video2/Filmu/7Forma%20vody.2018.60%20fps.mp4
+#EXTINF:0,Выживший 60 FPS/The Revenant
+http://kinoteatr.kg/video2/Filmu/7Vyzhivshii.2015.60FPS.mp4
+#EXTINF:0,Быстрый и мертвый 60 FPS/The Quick and the Dead
+http://kinoteatr.kg/video2/Filmu/7Bystryi%20i%20mertvyi.1995.60fps.mp4
+#EXTINF:0,Метро 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Metro.2012.60fps.mp4
+#EXTINF:0,Между нами горы 60 FPS/The Mountain Between Us
+http://kinoteatr.kg/video2/Filmu/7Mezhdu%20nami%20gory.2017.60%20fps.mp4
+#EXTINF:0,Маска 60 FPS/The Mask
+http://kinoteatr.kg/video2/Filmu/7Maska.1994.60fps.mp4
+#EXTINF:0,Мишель Вальян: Жажда скорости 60 FPS/Michel Vaillant
+http://kinoteatr.kg/video2/Filmu/7Michel%20Vaillant.2003.60fps.mp4
+#EXTINF:0,Агенты А.Н.К.Л 60 FPS/The Man from U.N.C.L.E.
+http://kinoteatr.kg/video2/Filmu/7Agenty%20%20U.N.C.L.E.%2060fps.mp4
+#EXTINF:0,Дом странных детей Мисс Перегрин 60 FPS/Miss Peregrine's Home for Peculiar Children
+http://kinoteatr.kg/video2/Filmu/7Dom%20strannich%20detei%20Miss%20Peregrin.2016.60fps.mp4
+#EXTINF:0,Миссия «Серенити» 60 FPS/Serenity
+http://kinoteatr.kg/video2/Filmu/7Missiya%20Sereniti.2005.60fps.mp4
+#EXTINF:0,Финансовый монстр 60 FPS/Money Monster
+http://kinoteatr.kg/video2/Filmu/7Finansovyi%20monstr.2016.60fps.mp4
+#EXTINF:0,Смертельная битва 60 FPS/Mortal Kombat
+http://kinoteatr.kg/video2/Filmu/7Mortal.Kombat.1995.60fps.mp4
+#EXTINF:0,Смертельная битва 2: Истребление 60 FPS/Mortal Kombat: Annihilation
+http://kinoteatr.kg/video2/Filmu/7Mortal.Kombat.Annihilation.1997.60fps.mp4
+#EXTINF:0,Неудержимые 60 FPS/The Expendables
+http://kinoteatr.kg/video2/Filmu/7Neuderzhimye.2010.60fps.mp4
+#EXTINF:0,Неуправляемый 60 FPS/Unstoppable
+http://kinoteatr.kg/video2/Filmu/7Neupravlyaemii.2010.60fps.mp4
+#EXTINF:0,Пророк 60 FPS/Next
+http://kinoteatr.kg/video2/Filmu/7Prorok.2007.60fps.mp4
+#EXTINF:0,Старикам тут не место 60 FPS/No Country for Old Men
+http://kinoteatr.kg/video2/Filmu/7Starikam%20tut%20ni%20mesto.2007.60fps.mp4
+#EXTINF:0,Одиссея 60 FPS/L'odyssée
+http://kinoteatr.kg/video2/Filmu/7Odyssee.2016.60fps.mp4
+#EXTINF:0,От колыбели до могилы 60 FPS/Cradle 2 the Grave
+http://kinoteatr.kg/video2/Filmu/7Ot%20kolybeli%20do%20mogily.2003.60fps.mp4
+#EXTINF:0,Отпетые напарники 60 FPS/Skiptrace
+http://kinoteatr.kg/video2/Filmu/7Otpetue%20naparniki.2017.60fps.mp4
+#EXTINF:0,Парфюмер: История одного убийцы 60 FPS/Perfume: The Story of a Murderer
+http://kinoteatr.kg/video2/Filmu/7Parfumer.2006.60fps.mp4
+#EXTINF:0,Пассажиры 60 FPS/Passengers
+http://kinoteatr.kg/video2/Filmu/7Passengers.2016.60fps.mp4
+#EXTINF:0,Перл-Харбор 60 FPS/Pearl Harbor
+http://kinoteatr.kg/video2/Filmu/7Pearl%20Harbor.2001.60fps.mp4
+#EXTINF:0,Пекло 60 FPS/Sunshine
+http://kinoteatr.kg/video2/Filmu/7Peklo.2007.60fps.mp4
+#EXTINF:0,Петля времени 60 FPS/Looper
+http://kinoteatr.kg/video2/Filmu/7Petlya%20vremeny.2012.60fps.mp4
+#EXTINF:0,Планета Ка-Пэкс 60 FPS/K-PAX
+http://kinoteatr.kg/video2/Filmu/7Planeta%20K-Peks.2001.60fps.mp4
+#EXTINF:0,Планетариум 60 FPS/Planetarium
+http://kinoteatr.kg/video2/Filmu/7Planetarium.2016.60fps.mp4
+#EXTINF:0,Долгий поцелуй на ночь 60 FPS/The Long Kiss Goodnight
+http://kinoteatr.kg/video2/Filmu/7Dolgii%20pocelui%20na%20noch.%201996.60fps.mp4
+#EXTINF:0,Покорители волн 60 FPS/Chasing Mavericks
+http://kinoteatr.kg/video2/Filmu/7Pokoritel%20voln.2012.60fps.mp4
+#EXTINF:0,Последний охотник на ведьм фильм 60 FPS/The Last Witch Hunter
+http://kinoteatr.kg/video2/Filmu/7Poslednii%20oxotnik%20na%20vedm.2015.60fps.mp4
+#EXTINF:0,Пол: Секретный материальчик 60 FPS/Paul
+http://kinoteatr.kg/video2/Filmu/7Pol.Sekretnyj.materialchik.2011.60fps.mp4
+#EXTINF:0,Последний богатырь 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Poslednii%20bogatyr.2017.60fps.mp4
+#EXTINF:0,Книга джунглей 60 FPS/The Jungle Book
+http://kinoteatr.kg/video2/Filmu/7Kniga%20dzhunglei.2016.60fps.mp4
+#EXTINF:0,Послезавтра 60 FPS/The Day After Tomorrow
+http://kinoteatr.kg/video2/Filmu/7Poslezavtra.2004.60fps.mp4
+#EXTINF:0,Повелитель бури 60 FPS/The Hurt Locker
+http://kinoteatr.kg/video2/Filmu/7Povelitel%20buri.2008.60fps.mp4
+#EXTINF:0,Могучие рейнджеры 60 FPS/Power Rangers
+http://kinoteatr.kg/video2/Filmu/7Moguchie%20renjery.2017.60fps.mp4
+#EXTINF:0,Правдивая ложь 60 FPS/True Lies
+http://kinoteatr.kg/video2/Filmu/7Pravdivaja.loj.1994.60fps.mp4
+#EXTINF:0,Престиж 60 FPS/The Prestige
+http://kinoteatr.kg/video2/Filmu/7Prestige.2005.60fps.mp4
+#EXTINF:0,Афера под прикрытием 60 FPS/The Infiltrator
+http://kinoteatr.kg/video2/Filmu/7Afera%20pod%20prikrytiem.2016.60%20fps.mp4
+#EXTINF:0,Белоснежка и Охотник 2 60 FPS/The Huntsman: Winter's War
+http://kinoteatr.kg/video2/Filmu/7Belosnezhka%20i%20oxotnik2.2016.60fps.mp4
+#EXTINF:0,Великая стена 60 FPS/The Great Wall
+http://kinoteatr.kg/video2/Filmu/7Velikaya%20stena.2016.60fps.mp4
+#EXTINF:0,Преисподняя 60 FPS/Brimstone
+http://kinoteatr.kg/video2/Filmu/7Preispodnyaya.2016.60fps.mp4
+#EXTINF:0,Золотой компас 60 FPS/The Golden Compass
+http://kinoteatr.kg/video2/Filmu/7Zolotoi%20kompas.2007.60%20fps.mp4
+#EXTINF:0,Принц Персии: Пески времени 60 FPS/Prince of Persia: The Sands of Time
+http://kinoteatr.kg/video2/Filmu/7Prinz%20Persii.Peski%20vremeni.2010.60fps.mp4
+#EXTINF:0,Форсаж 8 60 FPS/The Fate of the Furious
+http://kinoteatr.kg/video2/Filmu/7Forsaj%208.2017.60fps.mp4
+#EXTINF:0,Притяжение 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Prityazhenie.2017.60fps.mp4
+#EXTINF:0,Призрачный патруль 60 FPS/R.I.P.D.
+http://kinoteatr.kg/video2/Filmu/7Prizrachnyi%20patrul.2013.60fps.mp4
+#EXTINF:0,Адвокат дьявола 60 FPS/The Devil's Advocate
+http://kinoteatr.kg/video2/Filmu/7Advokat%20dyavola.1997.60fps.mp4
+#EXTINF:0,Тёмная башня 60 FPS/The Dark Tower
+http://kinoteatr.kg/video2/Filmu/7Temnaya%20bashnya.2017.60fps.mp4
+#EXTINF:0,Сфера 60 FPS/The Circle
+http://kinoteatr.kg/video2/Filmu/7Sfera.2017.60%20fps.mp4
+#EXTINF:0,Пятое измерение 60 FPS/Push
+http://kinoteatr.kg/video2/Filmu/7Pyatoe%20izmerenie.2009.60fps.mp4
+#EXTINF:0,Пятый элемент 60 FPS/The Fifth Element
+http://kinoteatr.kg/video2/Filmu/7Pyatyi%20element.1997.60fps.mp4
+#EXTINF:0,Рэмбо: Первая кровь. Часть 1 60 FPS/First Blood
+http://kinoteatr.kg/video2/Filmu/7Rembo.%20Pervaya%20krov.Part1.1982.60fps.mp4
+#EXTINF:0,Рэмбо: Первая кровь. Часть 2 60 FPS/Rambo: First Blood Part II
+http://kinoteatr.kg/video2/Filmu/7Rembo.%20Pervaya%20krov.Part2.1985.60fps.mp4
+#EXTINF:0,Рэмбо 3 60 FPS/Rambo III
+http://kinoteatr.kg/video2/Filmu/7Rembo%203.1988.60fps.mp4
+#EXTINF:0,Рэмбо IV 60 FPS/Rambo
+http://kinoteatr.kg/video2/Filmu/7Rembo%204.2007.60fps.mp4
+#EXTINF:0,Рестлер 60 FPS/The Wrestler
+http://kinoteatr.kg/video2/Filmu/7Restler.2008.60fps.mp4
+#EXTINF:0,Восставший 60 FPS/Risen
+http://kinoteatr.kg/video2/Filmu/7Vostavshii.2016.60fps.mp4
+#EXTINF:0,Ромео должен умереть 60 FPS/Romeo Must Die
+http://kinoteatr.kg/video2/Filmu/7Romeo%20doljen%20umeret.2000.60fps.mp4
+#EXTINF:0,Эффект бабочки 60 FPS/The Butterfly Effect
+http://kinoteatr.kg/video2/Filmu/7Effekt%20babochki.%202004.60fps.mp4
+#EXTINF:0,Шестой день 60 FPS/The 6th Day
+http://kinoteatr.kg/video2/Filmu/7Shestoi%20den.2000.60fps.mp4
+#EXTINF:0,Разборка в Бронксе 60 FPS/Hong faan kui
+http://kinoteatr.kg/video2/Filmu/7Razborki%20v%20%20Bronxe.1995.60fps.mp4
+#EXTINF:0,Салют-7 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Salut%207.2017.60fps.mp4
+#EXTINF:0,33 60 FPS/The 33
+http://kinoteatr.kg/video2/Filmu/733.2014.60fps.mp4
+#EXTINF:0,Сделано в Америке 60 FPS/American Made
+http://kinoteatr.kg/video2/Filmu/7Sdelano%20v%20amerike.2017.60fps.mp4
+#EXTINF:0,Черепашки-ниндзя 60 FPS/Teenage Mutant Ninja Turtles
+http://kinoteatr.kg/video2/Filmu/7Cherepashki%20ninzya.1.2014.60fps.mp4
+#EXTINF:0,Семейное ограбление 60 FPS/Mes trésors
+http://kinoteatr.kg/video2/Filmu/7Semeynoe%20ograblenie.2017.60fps.mp4
+#EXTINF:0,Черепашки-ниндзя 2 60 FPS/ Teenage Mutant Ninja Turtles: Out of the Shadows
+http://kinoteatr.kg/video2/Filmu/7Cherepashki%20ninzya.2.2016.60fps.mp4
+#EXTINF:0,Мошенники 60 FPS/Serving Sara
+http://kinoteatr.kg/video2/Filmu/7Moshenniki.2002.60fps.mp4
+#EXTINF:0,Приключения Шерлока Холмса и доктора Ватсона: Собака Баскервилей 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Sherlok%20Holms.%20Sobaka%20Baskervilei.1981.60fps.mp4
+#EXTINF:0,Шерлок Холмс 60 FPS/Sherlock Holmes
+http://kinoteatr.kg/video2/Filmu/7Sherlok%20Xolms1.2009.60fps.mp4
+#EXTINF:0,Шерлок Холмс: Игра теней 60 FPS/Sherlock Holmes: A Game of Shadows
+http://kinoteatr.kg/video2/Filmu/7Sherlok%20Xolms2.2011.60fps.mp4
+#EXTINF:0,Так себе каникулы 60 FPS/Old Dogs
+http://kinoteatr.kg/video2/Filmu/7Tak%20sebe%20kanikuly.2009.60fps.mp4
+#EXTINF:0,Синхронность 60 FPS/Synchronicity
+http://kinoteatr.kg/video2/Filmu/7Sinxronnost.2015.60fps.mp4
+#EXTINF:0,Свадьба в Малиновке 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Svadba%20v%20Malinovke.1967.60fps.mp4
+#EXTINF:0,Молчание 60 FPS/Silence
+http://kinoteatr.kg/video2/Filmu/7Molchanie.2017.60fps.mp4
+#EXTINF:0,Скала 60 FPS/The Rock
+http://kinoteatr.kg/video2/Filmu/7Skala.1996.60fps.mp4
+#EXTINF:0,Суррогаты 60 FPS/Surrogates
+http://kinoteatr.kg/video2/Filmu/7Surrogaty.2009.60fps.mp4
+#EXTINF:0,Отряд самоубийц 60 FPS/Suicide Squad
+http://kinoteatr.kg/video2/Filmu/7Otryad%20samoubiic.2016.60fps.mp4
+#EXTINF:0,Звёздные войны: Эпизод 1 – Скрытая угроза 60 FPS/Star Wars: Episode I - The Phantom Menace
+http://kinoteatr.kg/video2/Filmu/7Zvezdnye%20voiny%201.1999.60fps.mp4
+#EXTINF:0,Звёздные войны: Эпизод 2 – Атака клонов 60 FPS/Star Wars: Episode II - Attack of the Clones
+http://kinoteatr.kg/video2/Filmu/7Zvezdnye%20voiny%202.2002.60fps.mp4
+#EXTINF:0,Звёздные войны: Эпизод 3 – Месть Ситхов 60 FPS/Star Wars: Episode III - Revenge of the Sith
+http://kinoteatr.kg/video2/Filmu/7Zvezdnye%20voiny%203.2005.60fps.mp4
+#EXTINF:0,Звёздные войны: Эпизод 4 – Новая надежда 60 FPS/Star Wars: Episode IV
+http://kinoteatr.kg/video2/Filmu/7Zvezdnye%20voiny%204.1977.60fps.mp4
+#EXTINF:0,Звёздные войны: Эпизод 5 – Империя наносит ответный удар 60 FPS/Star Wars: Episode V - The Empire Strikes Back
+http://kinoteatr.kg/video2/Filmu/7Zvezdnye%20voiny%205.1980.60fps.mp4
+#EXTINF:0,Звёздные войны: Эпизод 6 – Возвращение Джедая 60 FPS/Star Wars: Episode VI - Return of the Jedi
+http://kinoteatr.kg/video2/Filmu/7Zvezdnye%20voiny%206.1983.60fps.mp4
+#EXTINF:0,Звёздные войны: Эпизод 7 - Пробуждение силы 60 FPS/Star Wars: Episode VII - The Force Awakens
+http://kinoteatr.kg/video2/Filmu/7Zvezdnye%20voiny%207.2015.60fps.mp4
+#EXTINF:0,Звёздные войны: Изгой-один 60 FPS /Rogue One
+http://kinoteatr.kg/video2/Filmu/7Zvezdnye%20voiny.%20Izgoi%20odin.2016.60fps.mp4
+#EXTINF:0,Слезы солнца 60 FPS/Tears of the Sun
+http://kinoteatr.kg/video2/Filmu/7Slezy%20solnca.2003.60fps.mp4
+#EXTINF:0,Собачье сердце 60 FPS/-
+http://kinoteatr.kg/video2/Filmu/7Sobachie%20serdcze.1988.60fps.mp4
+#EXTINF:0,Скорость 60 FPS/Speed
+http://kinoteatr.kg/video2/Filmu/7Skorost.1994.60fps.mp4
+#EXTINF:0,Спиди Гонщик 60 FPS/Speed Racer
+http://kinoteatr.kg/video2/Filmu/7Spidi%20gonshik.2007.60fps.mp4
+#EXTINF:0,Индиана Джонс: В поисках утраченного ковчега 60 FPS/Raiders of the Lost Ark
+http://kinoteatr.kg/video2/Filmu/7Indiana%20Djons%201.1981.60fps.mp4
+#EXTINF:0,Индиана Джонс и Храм судьбы 60 FPS/Indiana Jones and the Temple of Doom
+http://kinoteatr.kg/video2/Filmu/7Indiana%20Djons%202.1984.60fps.mp4
+#EXTINF:0,Индиана Джонс и последний крестовый поход 60 FPS/Indiana Jones and the Last Crusade
+http://kinoteatr.kg/video2/Filmu/7Indiana%20Djons%203.1989.60fps.mp4
+#EXTINF:0,Индиана Джонс и Королевство хрустального черепа 60 FPS/Indiana Jones and the Kingdom of the Crystal Skull
+http://kinoteatr.kg/video2/Filmu/7Indiana%20Djons%204.2008.60fps.mp4
+#EXTINF:0,Склонность 60 FPS/Bent
+http://kinoteatr.kg/video2/Filmu/7Sklonnost.2018.60fps.mp4
+#EXTINF:0,Аферисты поневоле 60 FPS/The Con Is On
+http://kinoteatr.kg/video2/Filmu/7Aferisty%20po%20nevole.2018.60fps.mp4
+#EXTINF:0,Секса не будет!!! 60 FPS/Blockers
+http://kinoteatr.kg/video2/Filmu/7Seksa%20ne%20budet.2018.60fps.mp4
+#EXTINF:0,Дафна и Велма 60 FPS/Daphne & Velma
+http://kinoteatr.kg/video2/Filmu/7Davna%20i%20Velma.2018.60fps.mp4
+#EXTINF:0,Дыши во мгле 60 FPS/Dans la brume
+http://kinoteatr.kg/video2/Filmu/7Dyshi%20vo%20mgle.2018.60fps.mp4
+#EXTINF:0,Апгрейд 60 FPS/Upgrade
+http://kinoteatr.kg/video2/Filmu/7Upgrade.2018.60fps.mp4
+#EXTINF:0,Такси 5 60 FPS/Taxi 5
+http://kinoteatr.kg/video2/Filmu/7Taxi%205.2018.60fps.mp4
+#EXTINF:0,Приключения Паддингтона 2 60 FPS/Paddington 2
+http://kinoteatr.kg/video2/Filmu/7Paddington%202.2017.60fps.mp4
+#EXTINF:0,Черный дрозд 60 FPS/Deadfall
+http://kinoteatr.kg/video2/Filmu/7Chernyi%20drozd.2011.60fps.mp4
+#EXTINF:0,Кадры 60 FPS/The Internship
+http://kinoteatr.kg/video2/Filmu/7Kadry.2013.60fps.mp4
+#EXTINF:0,Как женить холостяка 60 FPS/Destination Wedding
+http://kinoteatr.kg/video2/Filmu/7Kak%20jenit%20cholostyaka.2018.60fps.mp4
+#EXTINF:0,Клуб миллиардеров 60 FPS/Billionaire Boys Club
+http://kinoteatr.kg/video2/Filmu/7Klub%20milliarderov.2018.60fps.mp4
+#EXTINF:0,Кровоточащая сталь 60 FPS/Ji qi zhi xue
+http://kinoteatr.kg/video2/Filmu/7Krovotochachaya%20stal.2017.60fps.mp4
+#EXTINF:0,На грани безумия 60 FPS/Spinning Man
+http://kinoteatr.kg/video2/Filmu/7Na%20grani%20bezumiya.2018.60fps.mp4
+#EXTINF:0,Выжившая 60 FPS/Revenge
+http://kinoteatr.kg/video2/Filmu/7Vyjyvshaya.2018.60fps.mp4
+#EXTINF:0,Зои 60 FPS/Zoe
+http://kinoteatr.kg/video2/Filmu/7Zoi.2018.60fps.mp4
+#EXTINF:0,Защитник 60 FPS/Safe
+http://kinoteatr.kg/video2/Filmu/7Zachitnik.2012.60fps.mp4
+#EXTINF:0,За бортом 60 FPS/Overboard
+http://kinoteatr.kg/video2/Filmu/7Za%20bortom.2018.60fps.mp4
+#EXTINF:0,Невероятные приключения Факира 60 FPS/The Extraordinary Journey of the Fakir
+http://kinoteatr.kg/video2/Filmu/7Neveroyatnye%20priklyucheniyz%20fakira.2018.60fps.mp4
+#EXTINF:0,Харакири: Путь самурая 60 FPS/Ichimei
+http://kinoteatr.kg/video2/Filmu/7Xarakiri.2011.60fps.mp4
+#EXTINF:0,Восстание 60 FPS/Revolt
+http://kinoteatr.kg/video2/Filmu/7Vosstanie.2017.60fps.mp4
+#EXTINF:0,Неудержимые 2 60 FPS/The Expendables 2
+http://kinoteatr.kg/video2/Filmu/7Neuderjymye%202.2012.60fps.mp4
+#EXTINF:0,Лангольеры 60 FPS/The Langoliers
+http://kinoteatr.kg/video2/Filmu/7Langoliery.1995.60fps.mp4
+#EXTINF:0,10 на 10 60 FPS/10x10
+http://kinoteatr.kg/video2/Filmu/710%20na%2010.2018.60fps.mp4
+#EXTINF:0,Охота на воров 60 FPS/Den of Thieves
+http://kinoteatr.kg/video2/Filmu/7Oxota%20na%20vorov.2018.60fps.mp4
+#EXTINF:0,Операция в Красном море 60 FPS/Hong hai xing dong
+http://kinoteatr.kg/video2/Filmu/7Operaciya%20v%20krasnom%20more.2018.60fps.mp4
+#EXTINF:0,Рейд 60 FPS/Serbuan maut
+http://kinoteatr.kg/video2/Filmu/7Reid%201.2011.60fps.mp4
+#EXTINF:0,Псы под прикрытием 60 FPS/Show Dogs
+http://kinoteatr.kg/video2/Filmu/7Psy%20pod%20prikrytiem.2018.60fps.mp4
+#EXTINF:0,2036, происхождение неизвестно 60 FPS/2036 Origin Unknown
+http://kinoteatr.kg/video2/Filmu/72036.Proischojdenie%20neizvestno.2018.60fps.mp4
+#EXTINF:0,Газетчик 60 FPS/The Paperboy
+http://kinoteatr.kg/video2/Filmu/7Gazetchik.2012.60fps.mp4
+#EXTINF:0,Во власти стихии 60 FPS/Adrift
+http://kinoteatr.kg/video2/Filmu/7Vo%20vlasti%20stichii.2018.60fps.mp4
+#EXTINF:0,Зубастики 60 FPS/Critters
+http://kinoteatr.kg/video2/Filmu/7Zubastiki.1986.60fps.mp4
+#EXTINF:0,Великий уравнитель 2 60 FPS/The Equalizer 2
+http://kinoteatr.kg/video2/Filmu/7Velikii%20uravnitel%202.2018.60fps.mp4
