@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Первый канал
-http://31.40.128.20/hls/001_perviy.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Первый канал
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Первый канал "Евразия"
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8?checkedby:iptvcat.com
