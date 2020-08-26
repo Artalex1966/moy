@@ -23,8 +23,6 @@ http://v2.catcast.me/content/37925/index.m3u8
 #EXTGRP: Хорошее
 http://v2.catcast.tv/content/38563/index.m3u8
 
-#EXTINF:-1,Фантастика Sci-Fi
-https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1,Память ТВ
 https://autopilot.catcast.tv/content/38821/index.m3u8
 
@@ -37,7 +35,7 @@ http://lazyserg.iptvbot.biz/iptv/LN3FWPRU6T9VSG/722/index.m3u8
 #EXTGRP: Кино
 http://88.218.240.74:8586/crypted/hls/CH_LUBIMOE/variant.m3u8
 
-#EXTINF:0,Любимое кино ян
+#EXTINF:0,Любимое Яндекс
 #EXTGRP: Кино
 https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
 
@@ -113,12 +111,17 @@ http://4f8b3417.shukinuki.website/iptv/LN3FWPRU6T9VSG/904/index.m3u8
 #EXTGRP: Кино
 http://188.35.9.26:14050/udp/238.0.14.3:69000
 
-#EXTINF:0,Фантастика
+#EXTINF:0,Коносериал
 #EXTGRP: Кино
 http://v2.catcast.me/content/37388/index.m3u8
 #EXTINF:0,Фантастика HD
 #EXTGRP: Кино
 https://hls.goodgame.ru/hls/178436.m3u8
+#EXTINF:-1,Фантастика Sci-Fi
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:0,Fantasy TV
+#EXTGRP: Кино
+http://mnogotv.club/hls/fantasytv/index.m3u8
 
 #EXTINF:0,#Кинопоказ HD
 #EXTGRP: Кино
