@@ -111,9 +111,9 @@ http://4f8b3417.shukinuki.website/iptv/LN3FWPRU6T9VSG/904/index.m3u8
 #EXTGRP: Кино
 http://188.35.9.26:14050/udp/238.0.14.3:69000
 
-#EXTINF:0,Коносериал
+#EXTINF:0,Фантастика
 #EXTGRP: Кино
-http://v2.catcast.me/content/37388/index.m3u8
+https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:0,Фантастика HD
 #EXTGRP: Кино
 https://hls.goodgame.ru/hls/178436.m3u8
