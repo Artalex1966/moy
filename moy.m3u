@@ -187,6 +187,8 @@ https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
 http://cdn-lc9nyc5z.playlist-24.xyz/ussr/playlist.m3u8?token=besbwSOWExruZGimb9mee3lrRroezuxb4xBkMZ8ac3dR58apTpwlM82qdaRy6_BhfUctpyLM_nd9RS_TynCrb7g_hRbzmDMwD9KNAiCRxyM
 #EXTINF:-1 ,Советские Мультфильмы
 http://serv30.vintera.tv:8081/obninsk_rusmult/rusmult/playlist.m3u8
+#EXTINF:-1 ,Советские Мультфильмы2
+http://serv30.vintera.tv:8081/obninsk_rusmult/rusmult/playlist.m3u8
 #EXTINF:-1 ,Кинозал  (Russian Комедии EVGENIY)
 https://v2.catcast.tv/content/36168/index.m3u8
 
@@ -236,7 +238,7 @@ http://195.144.197.170:8886/udp/237.0.1.153:10000
 
 #EXTINF:0, Рен ТВ 
 #EXTGRP: Хорошее
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:0, РЕН ТВ (+2) 
 #EXTGRP: Хорошее
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
