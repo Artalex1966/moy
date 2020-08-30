@@ -72,7 +72,7 @@ http://109.239.208.82/kinomix/index.m3u8
 http://grytsyk.iptvbot.biz/iptv/LN3FWPRU6T9VSG/224/index.m3u8
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1598840754p261i001i87i591S5aa947f1723feb0d1dfe3d10afac74cb
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
 http://grytsyk.iptvbot.biz/iptv/LN3FWPRU6T9VSG/728/index.m3u8
