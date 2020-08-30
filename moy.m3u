@@ -72,7 +72,7 @@ http://109.239.208.82/kinomix/index.m3u8
 http://grytsyk.iptvbot.biz/iptv/LN3FWPRU6T9VSG/224/index.m3u8
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
-http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1598840754p261i001i87i591S5aa947f1723feb0d1dfe3d10afac74cb
+http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1598841579p261i001i87i591S1a641aa0d71769c2beba477ca6c37a80
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
 http://grytsyk.iptvbot.biz/iptv/LN3FWPRU6T9VSG/728/index.m3u8
@@ -82,10 +82,13 @@ http://5.43.129.41:1213/udp/239.255.0.198:1234
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://lazyserg.iptvbot.biz/iptv/LN3FWPRU6T9VSG/164/index.m3u8
+https://stream3.seetv.tv/livetv/mugskino24t/chunks.m3u8?nimblesessionid=104746999&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDk6NDY6MDkgUE0maGFzaF92YWx1ZT1wcE9oaE1RT0I5M0l3RW54Yk14TVJRPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTE4&__fvd__
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
-http://50.7.161.20:8081/593/index.m3u8?wmsAuthSign=1598840916p261i001i87i591S0795ec562fe5abc41f1570313be4287e
+http://s2.ttranslit.com:8081/s4g_myz_kino/index.m3u8?wmsAuthSign=1598841761Sde438867b599fc84fbf18f2f45cb364cS261h001h87h591
+#EXTINF:0,МУЖСКОЕ КИНО3
+#EXTGRP: Кино
+http://178.33.37.66/stream/2SS449BL7J/107.m3u8
 
 #EXTINF:0,КИНОКОМЕДИЯ
 #EXTGRP: Кино
@@ -131,14 +134,14 @@ http://mnogotv.club/hls/fantasytv/index.m3u8
 http://65c483d5.ottclub.xyz/iptv/VSDEE7A9KFDBTF/2439/index.m3u8
 #EXTINF:0,#Кинопоказ
 #EXTGRP: Кино
-http://78.129.228.178/iptv/MQFA78S9H36GXT/2439/index.m3u8
+http://78.129.228.178/iptv/Y6R9HVT97EYP5M/2439/index.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
 http://4f8b3417.shukinuki.website/iptv/LN3FWPRU6T9VSG/732/index.m3u8
 #EXTINF:0,Кино ТВ2
 #EXTGRP: Кино
-http://31.128.159.6:5000/channel_239.1.10.6/index.m3u8
+http://51.15.124.76:8081/video/kino-tv/chunks.m3u8?nimblesessionid=5836309&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDk6NTM6NDkgUE0maGFzaF92YWx1ZT1SQjdhNW9PYm0ydlA3U0dJenRHRmFnPT0mdmFsaWRtaW51dGVzPTI1
 #EXTINF:0,Кино ТВ2hd
 #EXTGRP: Кино
 http://astra.realcrimea.net:8000/play/a04e
