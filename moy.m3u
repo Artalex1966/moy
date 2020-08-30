@@ -85,7 +85,7 @@ http://5.43.129.41:1213/udp/239.255.0.198:1234
 http://lazyserg.iptvbot.biz/iptv/LN3FWPRU6T9VSG/164/index.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
-https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+http://50.7.161.20:8081/593/index.m3u8?wmsAuthSign=1598840916p261i001i87i591S0795ec562fe5abc41f1570313be4287e
 
 #EXTINF:0,КИНОКОМЕДИЯ
 #EXTGRP: Кино
