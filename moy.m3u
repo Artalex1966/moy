@@ -85,8 +85,7 @@ http://5.43.129.41:1213/udp/239.255.0.198:1234
 http://50.7.161.20:8081/593/index.m3u8?wmsAuthSign=1598858521p261i001i87i591S293802d3375161db7647c9c67f11725e
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
-http://s2.ttranslit.com:8081/s4g_myz_kino/index.m3u8?wmsAuthSign=1598858317S318be27899b2aa35aa1cb464a8dd21dcS261h001h87h591
-#EXTINF:0,МУЖСКОЕ КИНО3
+https://stream3.seetv.tv/livetv/mugskino24t/chunks.m3u8?nimblesessionid=104752228&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDIwIDc6NDI6MjQgQU0maGFzaF92YWx1ZT00QUxvc3FhUlorcWFHTUVVMjl2RGN3PT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTE4
 #EXTGRP: Кино
 http://178.33.37.66/stream/2SS449BL7J/107.m3u8
 
