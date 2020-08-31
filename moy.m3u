@@ -82,12 +82,14 @@ http://5.43.129.41:1213/udp/239.255.0.198:1234
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://50.7.161.20:8081/593/index.m3u8?wmsAuthSign=1598858521p261i001i87i591S293802d3375161db7647c9c67f11725e
+http://178.33.37.66/stream/2SS449BL7J/107.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
-https://stream3.seetv.tv/livetv/mugskino24t/chunks.m3u8?nimblesessionid=104752228&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDIwIDc6NDI6MjQgQU0maGFzaF92YWx1ZT00QUxvc3FhUlorcWFHTUVVMjl2RGN3PT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTE4
+http://178.33.37.66/stream/DN7D4MF7GXE/107.m3u8
+#EXTINF:0,МУЖСКОЕ КИНО3
 #EXTGRP: Кино
-http://178.33.37.66/stream/2SS449BL7J/107.m3u8
+https://stream3.seetv.tv/livetv/kinomix34rq/chunks.m3u8?nimblesessionid=104754527&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDIwIDExOjAwOjExIEFNJmhhc2hfdmFsdWU9V2xaR2hhOU50NVBldU9Nak5IZzNGdz09JnZhbGlkbWludXRlcz0yMCZzdHJtX2xlbj0xOA==&__fvd__
+
 
 #EXTINF:0,КИНОКОМЕДИЯ
 #EXTGRP: Кино
