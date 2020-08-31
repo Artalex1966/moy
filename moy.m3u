@@ -72,7 +72,7 @@ http://109.239.208.82/kinomix/index.m3u8
 http://grytsyk.iptvbot.biz/iptv/LN3FWPRU6T9VSG/224/index.m3u8
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
-http://50.7.231.220:8081/203/index.m3u8?wmsAuthSign=1598841579p261i001i87i591S1a641aa0d71769c2beba477ca6c37a80
+http://178.33.37.66/stream/2SS449BL7J/160.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
 http://grytsyk.iptvbot.biz/iptv/LN3FWPRU6T9VSG/728/index.m3u8
@@ -102,9 +102,7 @@ http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 #EXTINF:0,КиноПремиум HD
 #EXTGRP: Кино
 http://188.35.9.26:5050/001
-#EXTINF:0,КиноПремиум 2
-#EXTGRP: Кино
-http://188.35.9.11:2017
+
 
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
@@ -127,13 +125,25 @@ https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:0,Fantasy TV
 #EXTGRP: Кино
 http://mnogotv.club/hls/fantasytv/index.m3u8
+#EXTINF:0,PZN TV HD
+#EXTGRP: Кино
+https://hls.goodgame.ru/hls/12949_720.m3u8
+#EXTINF:0,FAN TV HD
+#EXTGRP: Кино
+http://78.129.228.178/iptv/W8BFZWUSYA9R2X/734/index.m3u8
+#EXTINF:0,KVN TV HD
+#EXTGRP: Кино
+https://hls.goodgame.ru/hls/172148.m3u8
 
 #EXTINF:0,#Кинопоказ HD
 #EXTGRP: Кино
-http://65c483d5.ottclub.xyz/iptv/VSDEE7A9KFDBTF/2439/index.m3u8
+https://mtv3.uzcloud.uz/kinopokaz/tracks-v1a1/mono.m3u8
 #EXTINF:0,#Кинопоказ
 #EXTGRP: Кино
 http://78.129.228.178/iptv/Y6R9HVT97EYP5M/2439/index.m3u8
+#EXTINF:0,#Кинопоказ2
+#EXTGRP: Кино
+http://178.33.37.66/stream/DN7D4MF7GXE/64.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
