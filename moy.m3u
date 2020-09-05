@@ -26,7 +26,8 @@ http://v2.catcast.tv/content/38563/index.m3u8
 #EXTINF:-1,Память ТВ
 https://autopilot.catcast.tv/content/38821/index.m3u8
 
-
+#EXTINF:-1,Мосфильм. Золотая коллекция
+https://ru.lightiptv.cc:8080/352e75ebba4c35bc7edcff61a2c87889/video.m3u8?token=9tqt1bqx6y
 
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
