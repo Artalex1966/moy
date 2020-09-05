@@ -1,65 +1,11 @@
-#EXTM3U
-#EXTINF:0,Камин
-#EXTGRP: Хорошее
-http://v2.catcast.me/content/36334/index.m3u8
-
-#EXTINF:0,Музыка Кино
-#EXTGRP: Хорошее
-http://v2.catcast.me/content/37739/index.m3u8
-
-#EXTINF:0,Музыка 1
-#EXTGRP: Хорошее
-http://v2.catcast.me/content/37745/index.m3u8
-#EXTINF:0,Музыка 2
-#EXTGRP: Хорошее
-http://v2.catcast.me/content/37742/index.m3u8
-#EXTINF:0,FILM TV HD
-#EXTGRP: Хорошее
-http://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:0,VHS 90s
-#EXTGRP: Хорошее
-http://v2.catcast.me/content/37925/index.m3u8
-#EXTINF:0,Видеосервис
-#EXTGRP: Хорошее
-http://v2.catcast.tv/content/38563/index.m3u8
-
-#EXTINF:-1,Память ТВ
-https://autopilot.catcast.tv/content/38821/index.m3u8
-
-#EXTINF:-1,Мосфильм. Золотая коллекция
-http://ru.lightiptv.cc:8080/352e75ebba4c35bc7edcff61a2c87889/video.m3u8?token=9tqt1bqx6y
-
-#EXTINF:0,Любимое кино
-#EXTGRP: Кино
-http://lazyserg.iptvbot.biz/iptv/LN3FWPRU6T9VSG/722/index.m3u8
-#EXTINF:0,Любимое кино2
-#EXTGRP: Кино
-http://88.218.240.74:8586/crypted/hls/CH_LUBIMOE/variant.m3u8
-
-#EXTINF:0,Любимое Яндекс
-#EXTGRP: Кино
-https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
-
-#EXTINF:0,Родное кино
-#EXTGRP: Кино
-http://157d378f.ottv.biz/iptv/LN3FWPRU6T9VSG/126/index.m3u8
-#EXTINF:0,Родное кино2
-#EXTGRP: Кино
-http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
-
-#EXTINF:0,Дом Кино
-#EXTGRP: Кино
-http://lazyserg.iptvbot.biz/iptv/LN3FWPRU6T9VSG/154/index.m3u8
-#EXTINF:0,Дом Кино2
-#EXTGRP: Кино
-http://46.8.46.4:8080/domkino/index.m3u8
-
-#EXTINF:0,Кинохит
 #EXTGRP: Кино
 http://grytsyk.iptvbot.biz/iptv/LN3FWPRU6T9VSG/516/index.m3u8
 #EXTINF:0,Кинохит2
 #EXTGRP: Кино
 http://46.8.46.4:8080/kinohit/playlist.m3u8
+#EXTINF:0,Кинохит2
+#EXTGRP: Кино
+http://178.33.37.66/stream/Q9RIAY3CCY/107.m3u8
 
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
@@ -83,13 +29,13 @@ http://5.43.129.41:1213/udp/239.255.0.198:1234
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://178.33.37.66/stream/2SS449BL7J/107.m3u8
+http://178.33.37.66/stream/DXVNT9X1XW9/107.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
 http://178.33.37.66/stream/DN7D4MF7GXE/107.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО3
 #EXTGRP: Кино
-https://stream3.seetv.tv/livetv/mugskino24t/chunks.m3u8?nimblesessionid=104754650&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDIwIDExOjA4OjA1IEFNJmhhc2hfdmFsdWU9ckN3bVJpbnp2U1hlMFExeGFZQm5GZz09JnZhbGlkbWludXRlcz0yMCZzdHJtX2xlbj0xOA==
+http://178.33.37.66/stream/Q9RIAY3CCY/107.m3u8
 
 
 #EXTINF:0,КИНОКОМЕДИЯ
