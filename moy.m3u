@@ -16,9 +16,9 @@ http://v2.catcast.me/content/37742/index.m3u8
 #EXTINF:0,FILM TV HD
 #EXTGRP: Хорошее
 http://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:0,VHS 90s
-#EXTGRP: Хорошее
-http://v2.catcast.me/content/37925/index.m3u8
+#EXTINF:0,Друзья
+#EXTGRP: Кино
+http://5656.ga/ch2.m3u8
 
 
 #EXTINF:-1,Память ТВ
