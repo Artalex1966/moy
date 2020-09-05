@@ -133,9 +133,9 @@ http://178.33.37.66/stream/DXVNT9X1XW9/266.m3u8
 #EXTINF:-1,Наш кинораман
 http://178.33.37.66/stream/DXVNT9X1XW9/213.m3u8
 #EXTINF:-1,Бестцелер
-http://178.33.37.66/stream/DXVNT9X1XW9/209.m3u8
-#EXTINF:-1,НСТ
 http://178.33.37.66/stream/DXVNT9X1XW9/208.m3u8
+#EXTINF:-1,НСТ
+http://178.33.37.66/stream/DXVNT9X1XW9/207.m3u8
 #EXTINF:-1,Страшное HD
 http://178.33.37.66/stream/DXVNT9X1XW9/226.m3u8
 #EXTINF:-1,НТВ Сереал
@@ -151,7 +151,7 @@ http://178.33.37.66/stream/DXVNT9X1XW9/310.m3u8
 #EXTINF:-1,Оружие
 http://178.33.37.66/stream/DXVNT9X1XW9/203.m3u8
 #EXTINF:-1,Т24
-http://178.33.37.66/stream/DXVNT9X1XW9/210.m3u8
+http://178.33.37.66/stream/DXVNT9X1XW9/209.m3u8
 #EXTINF:-1,Планета
 http://178.33.37.66/stream/DXVNT9X1XW9/124.m3u8
 #EXTINF:-1,Наука
@@ -254,16 +254,13 @@ http://178.33.37.66/stream/DXVNT9X1XW9/129.m3u8
 #EXTINF:-1,Пятница
 http://178.33.37.66/stream/DXVNT9X1XW9/181.m3u8
 #EXTINF:-1,Дождь
-http://178.33.37.66/stream/DXVNT9X1XW9/211.m3u8
+http://178.33.37.66/stream/DXVNT9X1XW9/210.m3u8
 #EXTINF:-1,Н
 http://178.33.37.66/stream/DXVNT9X1XW9/217.m3u8
 #EXTINF:-1,КВН
 http://178.33.37.66/stream/DXVNT9X1XW9/222.m3u8
 #EXTINF:-1,Время
 http://178.33.37.66/stream/DXVNT9X1XW9/237.m3u8
-
-#EXTINF:-1,7
-http://178.33.37.66/stream/DXVNT9X1XW9/277.m3u8
 #EXTINF:-1,8
 http://178.33.37.66/stream/DXVNT9X1XW9/299.m3u8
 #EXTINF:-1,Мотоспорт
