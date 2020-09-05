@@ -89,7 +89,7 @@ http://5.43.129.41:1213/udp/239.255.0.198:1234
 http://178.33.37.66/stream/DXVNT9X1XW9/107.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
-http://178.33.37.66/stream/DN7D4MF7GXE/107.m3u8
+http://astra.realcrimea.net:8000/play/a08u
 #EXTINF:0,МУЖСКОЕ КИНО3
 #EXTGRP: Кино
 http://178.33.37.66/stream/Q9RIAY3CCY/107.m3u8
@@ -156,7 +156,7 @@ http://178.33.37.66/stream/DN7D4MF7GXE/64.m3u8
 http://4f8b3417.shukinuki.website/iptv/LN3FWPRU6T9VSG/732/index.m3u8
 #EXTINF:0,Кино ТВ2
 #EXTGRP: Кино
-http://51.15.124.76:8081/video/kino-tv/chunks.m3u8?nimblesessionid=5836309&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDk6NTM6NDkgUE0maGFzaF92YWx1ZT1SQjdhNW9PYm0ydlA3U0dJenRHRmFnPT0mdmFsaWRtaW51dGVzPTI1
+http://astra.realcrimea.net:8000/play/a01d
 #EXTINF:0,Кино ТВ2hd
 #EXTGRP: Кино
 http://astra.realcrimea.net:8000/play/a04e
