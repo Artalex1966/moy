@@ -70,6 +70,9 @@ http://grytsyk.iptvbot.biz/iptv/LN3FWPRU6T9VSG/509/index.m3u8
 #EXTINF:0,КИНОМИКС2
 #EXTGRP: Кино
 http://109.239.208.82/kinomix/index.m3u8
+#EXTINF:0,КИНОМИКС3
+#EXTGRP: Кино
+http://50.7.120.165:8081/kinomiks/index.m3u8?wmsAuthSign=379c6724371aa72fe935dd3454220297-1599319481-261i001i87i591
 
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
