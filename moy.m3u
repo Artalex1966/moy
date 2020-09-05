@@ -35,6 +35,9 @@ http://lazyserg.iptvbot.biz/iptv/LN3FWPRU6T9VSG/722/index.m3u8
 #EXTINF:0,Любимое кино2
 #EXTGRP: Кино
 http://88.218.240.74:8586/crypted/hls/CH_LUBIMOE/variant.m3u8
+#EXTINF:0,Любимое кино3
+#EXTGRP: Кино
+http://50.7.120.165:8081/nashe_lub_kino/index.m3u8?wmsAuthSign=01357f183a530c0622fc66500118e944-1599323450-261i001i87i591
 
 #EXTINF:0,Любимое Яндекс
 #EXTGRP: Кино
