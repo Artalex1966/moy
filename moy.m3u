@@ -164,6 +164,57 @@ http://astra.realcrimea.net:8000/play/a01d
 #EXTGRP: Кино
 http://astra.realcrimea.net:8000/play/a04e
 
+
+#EXTINF:0,Кинозал 1
+#EXTGRP: Кино
+http://5656.ga/ch4.m3u8
+#EXTINF:0,Кинозал 2
+#EXTGRP: Кино
+http://5656.ga/ch5.m3u8
+#EXTINF:0,Кинозал 3
+#EXTGRP: Кино
+http://5656.ga/ch6.m3u8
+#EXTINF:0,Кинозал 4
+#EXTGRP: Кино
+http://5656.ga/ch7.m3u8
+#EXTINF:0,Кинозал 5
+#EXTGRP: Кино
+http://5656.ga/ch8.m3u8
+#EXTINF:0,Кинозал 6
+#EXTGRP: Кино
+http://5656.ga/ch9.m3u8
+#EXTINF:0,Кинозал 7
+#EXTGRP: Кино
+http://5656.ga/ch10.m3u8
+#EXTINF:0,Кинозал 8
+#EXTGRP: Кино
+http://5656.ga/ch11.m3u8
+#EXTINF:0,Кинозал 9
+#EXTGRP: Кино
+http://5656.ga/ch12.m3u8
+#EXTINF:0,Кинозал 10
+#EXTGRP: Кино
+http://5656.ga/ch13.m3u8
+#EXTINF:0,Кинозал 11
+#EXTGRP: Кино
+http://5656.ga/ch14.m3u8
+#EXTINF:0,Кинозал 12
+#EXTGRP: Кино
+http://5656.ga/ch15.m3u8
+#EXTINF:0,Кинозал 13
+#EXTGRP: Кино
+http://5656.ga/ch16.m3u8
+#EXTINF:0,Кинозал 14
+#EXTGRP: Кино
+http://5656.ga/ch17.m3u8
+#EXTINF:0,Кинозал 15
+#EXTGRP: Кино
+http://5656.ga/ch18.m3u8
+
+
+
+
+
 #EXTINF:0,Победа
 #EXTGRP: Хорошее
 http://178.33.37.66/stream/Q9RIAY3CCY/312.m3u8
