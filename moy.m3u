@@ -16,9 +16,9 @@ http://v2.catcast.me/content/37742/index.m3u8
 #EXTINF:0,FILM TV HD
 #EXTGRP: Хорошее
 http://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:0,Друзья
+#EXTINF:0,ЛенТВ
 #EXTGRP: Кино
-http://5656.ga/ch9.m3u8
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/chunklist.m3u8
 
 
 #EXTINF:-1,Память ТВ
@@ -49,12 +49,15 @@ http://157d378f.ottv.biz/iptv/LN3FWPRU6T9VSG/126/index.m3u8
 http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 #EXTINF:0,Родное кино3
 #EXTGRP: Кино
-http://185.162.8.175:6878/ace/manifest.m3u8?id=d0ca319ff96f596771f3f8ef887528eea95120de
+http://pro100tv.usite.pro/ch_rodnoe_kino.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
 http://lazyserg.iptvbot.biz/iptv/LN3FWPRU6T9VSG/154/index.m3u8
 #EXTINF:0,Дом Кино2
+#EXTGRP: Кино
+http://pro100tv.usite.pro/ch_dom_kino.m3u8
+#EXTINF:0,Дом Кино3
 #EXTGRP: Кино
 http://46.8.46.4:8080/domkino/index.m3u8
 
@@ -81,13 +84,17 @@ http://50.7.120.165:8081/kinomiks/index.m3u8?wmsAuthSign=379c6724371aa72fe935dd3
 http://grytsyk.iptvbot.biz/iptv/LN3FWPRU6T9VSG/224/index.m3u8
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
+http://pro100tv.usite.pro/CH_kinopremyera.m3u8
+#EXTINF:0,Кинопремьера3
+#EXTGRP: Кино
 http://178.33.37.66/stream/2SS449BL7J/160.m3u8
+
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
 http://grytsyk.iptvbot.biz/iptv/LN3FWPRU6T9VSG/728/index.m3u8
 #EXTINF:0,Киносемья2
 #EXTGRP: Кино
-http://5.43.129.41:1213/udp/239.255.0.198:1234
+http://pro100tv.usite.pro/ch_kinosvidaniie.m3u8
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
@@ -118,7 +125,7 @@ http://188.35.9.26:5050/001
 
 #EXTINF:0,Остросюжетное Кино
 #EXTGRP: Кино
-http://188.35.9.11:2015
+http://188.35.9.26:5050/002
 #EXTINF:0,Остросюжетное Кино2
 #EXTGRP: Кино
 http://4f8b3417.shukinuki.website/iptv/LN3FWPRU6T9VSG/904/index.m3u8
@@ -152,7 +159,7 @@ https://hls.goodgame.ru/hls/172148.m3u8
 https://mtv3.uzcloud.uz/kinopokaz/tracks-v1a1/mono.m3u8
 #EXTINF:0,#Кинопоказ
 #EXTGRP: Кино
-http://78.129.228.178/iptv/Y6R9HVT97EYP5M/2439/index.m3u8
+http://pro100tv.usite.pro/CH_kinopokaz.m3u8
 #EXTINF:0,#Кинопоказ2
 #EXTGRP: Кино
 http://178.33.37.66/stream/DN7D4MF7GXE/64.m3u8
@@ -162,10 +169,10 @@ http://178.33.37.66/stream/DN7D4MF7GXE/64.m3u8
 http://4f8b3417.shukinuki.website/iptv/LN3FWPRU6T9VSG/732/index.m3u8
 #EXTINF:0,Кино ТВ2
 #EXTGRP: Кино
-http://astra.realcrimea.net:8000/play/a01d
+http://31.128.159.9/kinotv/mpegts
 #EXTINF:0,Кино ТВ2hd
 #EXTGRP: Кино
-http://astra.realcrimea.net:8000/play/a04e
+http://astra.powernet.com.ru:5000/channel_239.1.11.34/index.m3u8
 
 
 #EXTINF:0,Кинозал 1
@@ -185,7 +192,7 @@ http://5656.ga/ch7.m3u8
 http://5656.ga/ch8.m3u8
 #EXTINF:0,Кинозал 6
 #EXTGRP: Кино
-http://5656.ga/ch2.m3u8
+http://5656.ga/ch9.m3u8
 #EXTINF:0,Кинозал 7
 #EXTGRP: Кино
 http://5656.ga/ch10.m3u8
@@ -251,6 +258,7 @@ https://v2.catcast.tv/content/36506/index.m3u8
 #EXTINF:0,СССР 222
 #EXTGRP: Кино
 https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
+
 #EXTINF:0,Советские
 #EXTGRP: Кино
 http://astra.powernet.com.ru:5000/channel_239.1.9.38/index.m3u8
