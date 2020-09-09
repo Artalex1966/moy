@@ -16,10 +16,12 @@ http://v2.catcast.me/content/37742/index.m3u8
 #EXTINF:0,FILM TV HD
 #EXTGRP: Хорошее
 http://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:0,ЛенТВ
-#EXTGRP: Кино
-http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/chunklist.m3u8
-
+#EXTINF:0,Россия 1
+#EXTGRP: эфир
+http://astra.powernet.com.ru:5000/channel_239.1.8.2/index.m3u8
+#EXTINF:0,Россия 1 (-1)
+#EXTGRP: эфир
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2&checkedby:iptvcat.com
 
 #EXTINF:-1,Память ТВ
 https://autopilot.catcast.tv/content/38821/index.m3u8
@@ -242,9 +244,9 @@ http://78.129.228.178/iptv/LN3FWPRU6T9VSG/2441/index.m3u8
 #EXTINF:0,Фантом ТВ
 #EXTGRP: Кино
 https://karapuztv.fenixplustv.xyz/content/36622/index.m3u8
-#EXTINF:0,HD Зал
+#EXTINF:0,В гостях у сказки
 #EXTGRP: Кино
-http://mnogotv.club/hls/hdzal/index.m3u8
+http://astra.powernet.com.ru:5000/channel_239.1.9.7/index.m3u8
 #EXTINF:0,HD Зал
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38821/index.m3u8
@@ -505,6 +507,13 @@ http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
 #EXTINF:0,1+1
 #EXTGRP: Украина
 http://188.35.9.11:2001/index.m3u8
+
+#EXTINF:0,Simon TV (Харьков)
+#EXTGRP: Украина
+https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
+
+
+
 
 #EXTINF:0, Лайфхаки для кухни
 #EXTGRP: Кино
