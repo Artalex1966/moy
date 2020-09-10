@@ -1,0 +1,465 @@
+#EXTM3U catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
+#EXTINF:0 group-title="HD" tvg-id="ntv",НТВ HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_NTV_HD/variant.m3u8
+#EXTINF:0 group-title="HD" tvg-id="pervy",Первый канал HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_1TV/variant.m3u8
+#EXTINF:0 group-title="HD" tvg-id="rossia1",Россия 1 HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_C05_RUSSIA1HD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="izvestia",Известия HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_C03_IZVESTIYAHD/variant.m3u8 
+
+#EXTINF:0 group-title="HD" tvg-id="discovery-channel",Discovery Channel HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="discovery-science",Discovery Science HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="dtx",DTX HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_DTXHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="tayny-galaktiki",Galaxy TV HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_TAINYGALAKTIKIHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="h2",H2 HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_H2HD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="history-hd",History HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_C05_HDHISTORY/variant.m3u8 
+
+#EXTINF:0 group-title="HD" tvg-id="nano-tv",Nano HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_NANOHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="nat-geo-wild",Nat Geo Wild HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_C03_NATGEOWILDHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="national-geographic",National Geographic HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_C04_NGCHD/variant.m3u8 
+
+#EXTINF:0 group-title="HD" tvg-id="viasat-history",Viasat History HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_VIASATHISTORYHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="viasat-nature-history-hd",Viasat Nature/History HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_C03_VIASATNATUREHISTORYHD/variant.m3u8 
+
+#EXTINF:0 group-title="HD" tvg-id="planeta-hd",Моя Планета HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_IQHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="pobeda",Победа HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_POBEDAHD/variant.m3u8 
+
+#EXTINF:0 group-title="HD" tvg-id="spike",Spike HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_SPIKEHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="ultra-hd-cinema",Ultra HD Cinema (UHD)  
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8
+#EXTINF:0 group-title="HD" tvg-id="rentv",РЕН ТВ HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_RENTVHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="teatr",Театр HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_THEATERHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="tnt",ТНТ HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_TNTHD/variant.m3u8 
+
+#EXTINF:0 group-title="HD" tvg-id="tlum-hd",Мульт HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_TLUMHD/variant.m3u8 
+
+
+#EXTINF:0 group-title="HD" tvg-id="fanhd",FAN HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_FANHD/variant.m3u8 
+ 
+#EXTINF:0 group-title="HD" tvg-id="star-family" tvg-logo="http://epg.it999.ru/img/2153.png",Star Family HD (Россия) (HD) 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_STARFAMILYHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="tv1000-action",TV 1000 Action HD
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0 
+http://88.218.240.74:8586/crypted/hls/CH_TV1000ACTIONHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="tv1000",TV 1000 HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_TV1000HD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="tv1000-russkoe-kino",TV 1000 Русское кино HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_TV1000RUSSKOEKINOHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="vip-comedy",ViP Comedy HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_C03_TV1000COMEDYHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="vip-megahit",ViP Megahit HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="vip-premiere",ViP Premiere HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="vip-serial",VIP Serial HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_C06_VIASATGOLFHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="vsio-tv",Всё ТВ HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_VSETVHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="domkino-premium",Дом кино премиум HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_DOMKINOPREMIUMHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="kino-tv",Кино ТВ HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_KINOTVHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="kinopremiera-hd",Кинопремьера HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_KINOPREMIEREHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="kinosvidanie",Киносвидание HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_KINODATEHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="kinosemiya",Киносемья HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_KINOFAMILYHD/variant.m3u8 
+#EXTINF:0 group-title="HD" tvg-id="kinoxit",Кинохит HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_KINOHITHD/variant.m3u8 
+#EXTINF:0 tvg-id="russky-roman" group-title="HD",Русский роман HD
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_RUSSKIYROMANHD/variant.m3u8 
+
+#EXTINF:0 group-title="UHD" tvg-id="ultra-hd-cinema", Ultra HD Cinema (UHD) 
+http://88.218.240.74:8586/crypted/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8
+#EXTINF:0 group-title="Россия" tvg-name="Домашний",Домашний 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:0 tvg-id="zvezda" group-title="Россия",Звезда 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:0 group-title="Россия" tvg-name="Красная_линия",Красная линия 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_REDLINE/variant.m3u8
+#EXTINF:0 group-title="Россия" tvg-name="МИР",Мир 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_MIR/variant.m3u8
+#EXTINF:0 group-title="Россия" tvg-name="mir-premium",Мир Premium 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_MIRHD/variant.m3u8
+#EXTINF:0 group-title="Россия" tvg-name="НТВ",НТВ 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_NTV/variant.m3u8
+#EXTINF:0 group-title="Россия" tvg-name="НТВ_HD",НТВ HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_NTV_HD/variant.m3u8
+#EXTINF:0 group-title="Россия" tvg-name="ОТР",ОТР 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_OTR/variant.m3u8
+#EXTINF:0 group-title="Россия" tvg-name="Первый_канал",Первый канал 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
+#EXTINF:0 group-title="Россия" tvg-name="Первый_HD",Первый канал HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_1TV/variant.m3u8
+#EXTINF:0 group-title="Россия" tvg-name="Пятый_Канал",Пятый канал 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_5TV/variant.m3u8
+#EXTINF:0 tvg-id="rossia1" group-title="Россия",Россия 1 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:0 tvg-id="rossia1" group-title="Россия",Россия 1 HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_C05_RUSSIA1HD/variant.m3u8
+#EXTINF:0 group-title="Россия",Россия К 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:0 tvg-id="tvcentr" group-title="Россия",ТВ Центр 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_TVC/variant.m3u8
+#EXTINF:0 tvg-id="3085324184" group-title="Новостные",360° Новости 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_360NEWSHD/variant.m3u8
+
+#EXTINF:0 group-title="Новостные" tvg-name="Россия_24",Россия 24 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_RUSSIA24/variant.m3u8
+
+#EXTINF:0 group-title="Познавательные" tvg-name="Discovery_Channel",Discovery Channel 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_DISCOVERYCHANNEL/variant.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Discovery_HD",Discovery Channel HD
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="discovery-science",Discovery Science HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="DTX",DTX HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_DTXHD/variant.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-name="Время",Время 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_VREMYADIB/variant.m3u8
+
+#EXTINF:0 group-title="Познавательные" tvg-name="Победа",Победа 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_POBEDAHD/bw2000000/variant.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Победа",Победа HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_POBEDAHD/variant.m3u8
+
+#EXTINF:0 tvg-id="usadba" group-title="Познавательные",Усадьба 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_USADBA/variant.m3u8
+#EXTINF:0 group-title="Спорт",Eurosport 1 
+
+
+#EXTINF:0 group-title="Развлекательные" tvg-id="ultra-hd-cinema",Ultra HD Cinema (UHD)  
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8
+#EXTINF:0 group-title="Развлекательные",Анекдот ТВ 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_ANEKDOTTV/variant.m3u8
+
+#EXTINF:0 group-title="Развлекательные",РЕН ТВ 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_RENTV/variant.m3u8
+#EXTINF:0 group-title="Развлекательные",РЕН ТВ HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_RENTVHD/variant.m3u8
+
+#EXTINF:0 tvg-id="sts" group-title="Развлекательные",СТС 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_STS/variant.m3u8
+#EXTINF:0 tvg-id="sts-love" group-title="Развлекательные",СТС Love 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:0 tvg-id="super" group-title="Развлекательные",Супер 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_SUPER/variant.m3u8
+#EXTINF:0 tvg-id="tayna" group-title="Развлекательные",Тайна 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_TAINA/variant.m3u8
+#EXTINF:0 tvg-id="tv3-ru" group-title="Развлекательные",ТВ 3 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_TV3/variant.m3u8
+#EXTINF:0 tvg-id="teatr" group-title="Развлекательные",Театр HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_THEATERHD/variant.m3u8
+#EXTINF:0 tvg-id="telekafe" group-title="Развлекательные",ТелеКафе 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_TELEKAFE/variant.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="Развлекательные",ТНТ 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_TNT/variant.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="Развлекательные",ТНТ HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_TNTHD/variant.m3u8
+#EXTINF:0 tvg-id="tnt4" group-title="Развлекательные",ТНТ4 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_TNT4/variant.m3u8
+
+#EXTINF:0 tvg-id="disney" group-title="Детские",Канал Disney 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_DISNEY/variant.m3u8
+#EXTINF:0 group-title="Детские",Gulli Girl 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_GULLI/variant.m3u8
+#EXTINF:0 group-title="Детские",JimJam 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_JIMJAM/variant.m3u8
+#EXTINF:0 tvg-id="nick-jr" group-title="Детские",Nick Jr. 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_NICKJUNIOR/variant.m3u8
+#EXTINF:0 group-title="Детские",Nickelodeon 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_NICKELODEON/variant.m3u8
+#EXTINF:0 group-title="Детские",Nickelodeon HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_C01_NICKELODEONHD/variant.m3u8
+#EXTINF:0 group-title="Детские",Tiji 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_TIJI/variant.m3u8
+#EXTINF:0 tvg-id="v-gostiax-u-skazki" group-title="Детские",В Гостях у сказки 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_VGOSTYAHUSKAZKI/variant.m3u8
+#EXTINF:0 group-title="Детские",Уникум 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_DETSKIJ/variant.m3u8
+#EXTINF:0 group-title="Детские",Детский мир 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_DETSKIJMIR/variant.m3u8
+#EXTINF:0 group-title="Детские",Карусель 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:0 group-title="Детские",Малыш 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_MALYSHTV/variant.m3u8
+#EXTINF:0 group-title="Детские",Мама 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_MATIDITYA/variant.m3u8
+#EXTINF:0 group-title="Детские",МУЛЬТ 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_MULT/variant.m3u8
+#EXTINF:0 group-title="Детские",Мультиландия 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_MULTIMANIA/variant.m3u8
+#EXTINF:0 group-title="Детские",О! 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_O/variant.m3u8
+#EXTINF:0 group-title="Детские",Радость моя 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_RADOSTMOYA/variant.m3u8
+#EXTINF:0 tvg-id="sts-kids-hd" group-title="Детские",СТС Kids 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_STSKIDSHD/variant.m3u8
+#EXTINF:0 tvg-id="tlum-hd" group-title="Детские",Мульт HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_TLUMHD/variant.m3u8
+
+#EXTINF:0 tvg-id="musicbox" group-title="Музыка",Music Box Gold 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_MUSICBOXTV/variant.m3u8
+#EXTINF:0 tvg-id="world-fashion-channel" group-title="Музыка",Music Box RU HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_RUSSIAN_MUSICBOXHD/variant.m3u8
+
+#EXTINF:0 tvg-id="vh1-classic" group-title="Музыка",VH1 Classic 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_VH1CLASSIC/variant.m3u8
+#EXTINF:0 tvg-id="vh1-european" group-title="Музыка",VH1 European 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_VH1EUROPEAN/variant.m3u8
+
+#EXTINF:0 group-title="Музыка",Мультимузыка 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_STRANA/variant.m3u8
+
+#EXTINF:0 group-title="Фильмы",FAN HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_FANHD/variant.m3u8
+
+#EXTINF:0 group-title="Фильмы",Дом кино 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_DOMKINO/variant.m3u8
+#EXTINF:0 group-title="Фильмы",Дом кино премиум HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_DOMKINOPREMIUMHD/variant.m3u8
+#EXTINF:0 group-title="Фильмы",Иллюзион+ 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_ULLUSIONPLUS/variant.m3u8
+#EXTINF:0 group-title="Фильмы",Кино ТВ HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_KINOTVHD/variant.m3u8
+#EXTINF:0 group-title="Фильмы",Кинокомедия
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_COMEDYTV/variant.m3u8
+#EXTINF:0 group-title="Фильмы",Киномикс 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_NTVPLUSKINO/variant.m3u8
+#EXTINF:0 group-title="Фильмы",Кинопремьера HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_KINOPREMIEREHD/variant.m3u8
+#EXTINF:0 group-title="Фильмы",Киносвидание HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_KINODATEHD/variant.m3u8
+#EXTINF:0 group-title="Фильмы",Киносемья HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_KINOFAMILYHD/variant.m3u8
+#EXTINF:0 group-title="Фильмы",Кинохит HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_KINOHITHD/variant.m3u8
+#EXTINF:0 group-title="Фильмы",Киноужас HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_KINOUZHASHD/variant.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="russkaya-komedia",Комедия 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_KOMEDIA/variant.m3u8
+#EXTINF:0 group-title="Фильмы",Мужское кино 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_NTVPLUSKINOSOYUZ/variant.m3u8
+#EXTINF:0 group-title="Фильмы",Мир сериала 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_MIRSERIALA/variant.m3u8
+#EXTINF:0 group-title="Фильмы",Настоящее страшное ТВ 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_NSTV/variant.m3u8
+#EXTINF:0 tvg-id="nashe-lubimoe" group-title="Фильмы",Наше любимое кино 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_LUBIMOE/variant.m3u8
+#EXTINF:0 group-title="Фильмы",Наше Новое Кино 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8
+#EXTINF:0 tvg-id="nostalgia" group-title="Фильмы",Ностальгия 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_NOSTALGIYA/variant.m3u8
+#EXTINF:0 group-title="Фильмы",О!КИНО 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_OKINO/variant.m3u8
+#EXTINF:0 group-title="Фильмы",Ретро ТВ 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_RETROTV/variant.m3u8
+#EXTINF:0 group-title="Фильмы",Родное кино 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_NTVPLUSNASHEKINO/variant.m3u8
+#EXTINF:0 tvg-id="russky-bestseller" group-title="Фильмы",Русский бестселлер 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_RUSSIANBESTSELLER/variant.m3u8
+#EXTINF:0 tvg-id="russky-detektiv" group-title="Фильмы",Русский детектив 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_C04_RUSSIANDETECTIVE/variant.m3u8
+#EXTINF:0 tvg-id="russky-illuzion" group-title="Фильмы",Русский иллюзион 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_RUSSIANILLUSION/variant.m3u8
+#EXTINF:0 tvg-id="russky-roman" group-title="Фильмы",Русский роман HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_RUSSKIYROMANHD/variant.m3u8
+#EXTINF:0 tvg-id="strashnoe-hd" group-title="Фильмы",Страшное HD 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_C01_STRASHNOEHD/variant.m3u8
+#EXTINF:0 group-title="Фильмы",Феникс+ кино 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_GENIKSPLUSKINO/variant.m3u8
+
+#EXTINF:0 tvg-id="texno-24" group-title="Мужские",Техно 24 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_24TEHNO/variant.m3u8
+
+#EXTINF:0 tvg-id="rossia1-pl1" group-title="Регионы",РОССИЯ 1 (+1) (Саратов) 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+#EXTINF:0 tvg-id="rossia1-pl2" group-title="Регионы",Россия 1 (+2) 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_RUSSIA1_2/variant.m3u8
+#EXTINF:0 tvg-id="rossia1-pl3" group-title="Регионы",Россия 1 (+3) 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+#EXTINF:0 tvg-id="rossia1-pl4" group-title="Регионы",Россия 1 (+4) 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_RUSSIA1_4/variant.m3u8
+#EXTINF:0 tvg-id="rossia1-pl5" group-title="Регионы",Россия 1 (+5) 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8
+#EXTINF:0 tvg-id="rossia1-pl6" group-title="Регионы",Россия 1 (+6) 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_RUSSIA1_7/variant.m3u8
+#EXTINF:0 tvg-id="rossia1-pl7" group-title="Регионы",Россия 1 (+7) 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://s91030.cdn.ngenix.net/hls/CH_R04_OTT_DV_VLD_ROSSIA1_OTT/variant.m3u8
+#EXTINF:0 tvg-id="rossia1-pl8" group-title="Регионы",Россия 1 (+8) 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://s20441.cdn.ngenix.net/hls/CH_R04_OTT_DV_MGDN_ROSSIA1_MGDN_OTT/variant.m3u8
+#EXTINF:0 tvg-id="rossia1-pl9" group-title="Регионы",Россия 1 (+9) 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://s14131.cdn.ngenix.net/hls/CH_R04_OTT_DV_KAM_ROSSIA1_PKAM_OTT/variant.m3u8
+#EXTINF:0 group-title="Регионы",Россия 1 (Хабаровск) 
+
+#EXTINF:0 tvg-id="tvcentr-pl2" group-title="Регионы",ТВ Центр (+2) 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_TVC_2/variant.m3u8
+#EXTINF:0 tvg-id="tvcentr-pl4" group-title="Регионы",ТВ Центр (+4) 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_TVC_4/variant.m3u8
+#EXTINF:0 tvg-id="tvcentr-pl7" group-title="Регионы",ТВ Центр (+7) 
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+http://88.218.240.74:8586/crypted/hls/CH_TVC_7/variant.m3u8
