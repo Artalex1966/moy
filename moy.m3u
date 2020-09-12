@@ -25,6 +25,8 @@ http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m
 
 #EXTINF:-1,Память ТВ
 https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1,Детское кино
+https://v2.catcast.tv/content/38720/index.m3u8
 
 #EXTINF:-1,Мосфильм. Золотая коллекция
 http://ru.lightiptv.cc:8080/352e75ebba4c35bc7edcff61a2c87889/video.m3u8?token=9tqt1bqx6y
@@ -233,6 +235,8 @@ http://astra.powernet.com.ru:5000/channel_239.1.9.38/index.m3u8
 #EXTINF:0,Любимое кино Л
 #EXTGRP: Кино
 https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
+#EXTINF:0,Любимое ТВ
+https://strm.yandex.ru/kal/lovedtv/lovedtv0.m3u8
 #EXTINF:0,Фильмы СССР-tva.in.ua
 #EXTGRP: Кино
 https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
@@ -241,8 +245,7 @@ https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
 http://cdn-lc9nyc5z.playlist-24.xyz/ussr/playlist.m3u8?token=besbwSOWExruZGimb9mee3lrRroezuxb4xBkMZ8ac3dR58apTpwlM82qdaRy6_BhfUctpyLM_nd9RS_TynCrb7g_hRbzmDMwD9KNAiCRxyM
 #EXTINF:-1 ,Советские Мультфильмы
 http://serv30.vintera.tv:8081/obninsk_rusmult/rusmult/playlist.m3u8
-#EXTINF:-1 ,Советские Мультфильмы2
-http://serv30.vintera.tv:8081/obninsk_rusmult/rusmult/playlist.m3u8
+
 #EXTINF:-1 ,Кинозал  (Russian Комедии EVGENIY)
 https://v2.catcast.tv/content/36168/index.m3u8
 
