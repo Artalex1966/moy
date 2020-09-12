@@ -51,14 +51,12 @@ http://157d378f.ottv.biz/iptv/LN3FWPRU6T9VSG/126/index.m3u8
 http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 #EXTINF:0,Родное кино3
 #EXTGRP: Кино
-http://pro100tv.usite.pro/ch_rodnoe_kino.m3u8
+https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: Кино
 http://lazyserg.iptvbot.biz/iptv/LN3FWPRU6T9VSG/154/index.m3u8
-#EXTINF:0,Дом Кино2
-#EXTGRP: Кино
-http://pro100tv.usite.pro/ch_dom_kino.m3u8
+
 #EXTINF:0,Дом Кино3
 #EXTGRP: Кино
 http://46.8.46.4:8080/domkino/index.m3u8
@@ -66,9 +64,13 @@ http://46.8.46.4:8080/domkino/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
 http://grytsyk.iptvbot.biz/iptv/LN3FWPRU6T9VSG/516/index.m3u8
-#EXTINF:0,Кинохит2
+
+#EXTINF:0,Кинохит3
 #EXTGRP: Кино
-http://46.8.46.4:8080/kinohit/playlist.m3u8
+http://46.8.46.4:8080/kinohit/index.m3u8
+#EXTINF:0,Кинохит4
+#EXTGRP: Кино
+http://cdn.mytouchtv.tv/hlsl/10/Kinokhit/index.m3u8
 
 
 #EXTINF:0,КИНОМИКС
@@ -79,7 +81,10 @@ http://grytsyk.iptvbot.biz/iptv/LN3FWPRU6T9VSG/509/index.m3u8
 http://109.239.208.82/kinomix/index.m3u8
 #EXTINF:0,КИНОМИКС3
 #EXTGRP: Кино
-http://50.7.120.165:8081/kinomiks/index.m3u8?wmsAuthSign=379c6724371aa72fe935dd3454220297-1599319481-261i001i87i591
+http://46.8.46.4:8080/kinomix/index.m3u8
+#EXTINF:0,КИНОМИКС4
+#EXTGRP: Кино
+http://cdn.mytouchtv.tv/hlsl/10/Kinomiks/index.m3u8
 
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
@@ -145,7 +150,16 @@ https://hls.goodgame.ru/hls/178436.m3u8
 https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:0,Fantasy TV
 #EXTGRP: Кино
-http://mnogotv.club/hls/fantasytv/index.m3u8
+http://mnogotv.club/hls/fantastk/index.m3u8
+#EXTINF:0,Космос ТВ
+#EXTGRP: Кино
+http://vepti4bd.russtv.net/iptv/4MVDDWQPSL8KQC/2185/index.m3u8
+#EXTINF:0,1 Мистический
+#EXTGRP: Кино
+http://mnogotv.club/hls/mistiktv/index.m3u8
+#EXTINF:0,Кино HD МОЖи
+#EXTGRP: Кино
+http://hls.goodgame.ru/hls/32491.m3u8
 #EXTINF:0,PZN TV HD
 #EXTGRP: Кино
 https://hls.goodgame.ru/hls/12949_720.m3u8
@@ -177,66 +191,18 @@ http://31.128.159.9/kinotv/mpegts
 http://astra.powernet.com.ru:5000/channel_239.1.11.34/index.m3u8
 
 
-#EXTINF:0,Кинозал 1
-#EXTGRP: Кино
-http://5656.ga/ch4.m3u8
-#EXTINF:0,Кинозал 2
-#EXTGRP: Кино
-http://5656.ga/ch5.m3u8
-#EXTINF:0,Кинозал 3
-#EXTGRP: Кино
-http://5656.ga/ch6.m3u8
-#EXTINF:0,Кинозал 4
-#EXTGRP: Кино
-http://5656.ga/ch7.m3u8
-#EXTINF:0,Кинозал 5
-#EXTGRP: Кино
-http://5656.ga/ch8.m3u8
-#EXTINF:0,Кинозал 6
-#EXTGRP: Кино
-http://5656.ga/ch9.m3u8
-#EXTINF:0,Кинозал 7
-#EXTGRP: Кино
-http://5656.ga/ch10.m3u8
-#EXTINF:0,Кинозал 8
-#EXTGRP: Кино
-http://5656.ga/ch11.m3u8
-#EXTINF:0,Кинозал 9
-#EXTGRP: Кино
-http://5656.ga/ch12.m3u8
-#EXTINF:0,Кинозал 10
-#EXTGRP: Кино
-http://5656.ga/ch13.m3u8
-#EXTINF:0,Кинозал 11
-#EXTGRP: Кино
-http://5656.ga/ch14.m3u8
-#EXTINF:0,Кинозал 12
-#EXTGRP: Кино
-http://5656.ga/ch15.m3u8
-#EXTINF:0,Кинозал 13
-#EXTGRP: Кино
-http://5656.ga/ch16.m3u8
-#EXTINF:0,Кинозал 14
-#EXTGRP: Кино
-http://5656.ga/ch17.m3u8
-#EXTINF:0,Кинозал 15
-#EXTGRP: Кино
-http://5656.ga/ch18.m3u8
-
-
-
 
 
 #EXTINF:0,Победа
 #EXTGRP: Хорошее
-http://178.33.37.66/stream/Q9RIAY3CCY/312.m3u8
+http://88.218.240.74:8586/crypted/hls/CH_POBEDAHD/bw2000000/variant.m3u8
 
 #EXTINF:0,VHS 90s
 #EXTGRP: Кино
 http://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:0,БОЕВИК TV
 #EXTGRP: Кино
-http://v2.catcast.tv/content/38563/index.m3u8
+http://autopilot.catcast.me/content/37033/index.m3u8
 
 #EXTINF:0,Камеди HD
 #EXTGRP: Кино
