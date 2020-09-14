@@ -2,6 +2,9 @@
 #EXTINF:0,Камин
 #EXTGRP: Хорошее
 http://v2.catcast.me/content/36334/index.m3u8
+#EXTINF:0,У костра
+#EXTGRP: Хорошее
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
@@ -114,28 +117,28 @@ https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 #EXTINF:0,Победа
 #EXTGRP: Кино
-https://sc.id-tv.kz/Pobeda_34_35.m3u8
+http://109.239.208.82/pobeda/index.m3u8
 #EXTINF:0,ViP Comedy HD
 #EXTGRP: Кино
-http://live-ng-01.more.tv/hls/ViP_Comedy_HD/master.m3u8
+http://176.98.26.37:8000/live/tivi/best/11.m3u8
 #EXTINF:0,ViP Megahit HD
 #EXTGRP: Кино
-http://live-ng-01.more.tv/hls/ViP_Megahit_HD/master.m3u8
+http://176.98.26.37:8000/live/tivi/best/10.m3u8
 #EXTINF:0,ViP Premiere HD
 #EXTGRP: Кино
-http://live-ng-01.more.tv/hls/ViP_Premiere_HD/master.m3u8
+http://176.98.26.37:8000/live/tivi/best/12.m3u8
 #EXTINF:0,ViP Serial HD
 #EXTGRP: Кино
 http://live-ng-01.more.tv/hls/VIP_SERIAL/master.m3u8
-#EXTINF:0,TV1000 Action HD
+#EXTINF:0,TV1000 Action
 #EXTGRP: Кино
-http://live-ng-01.more.tv/hls/TV1000_Action_HD/master.m3u8
-#EXTINF:0,TV1000 HD
+http://91.103.248.78:8000/play/73/index.m3u8
+#EXTINF:0,TV1000
 #EXTGRP: Кино
-http://live-ng-01.more.tv/hls/TV1000_HD/master.m3u8
-#EXTINF:0,TV1000 Русское кино HD
+http://91.103.248.78:8000/play/72/index.m3u8
+#EXTINF:0,TV1000 Русское кино
 #EXTGRP: Кино
-http://live-ng-01.more.tv/hls/TV1000_Russian_Kino_HD/master.m3u8
+http://91.103.248.78:8000/play/70/index.m3u8
 
 #EXTINF:-1,Мосфильм. Золотая коллекция
 http://ru.lightiptv.cc:8080/352e75ebba4c35bc7edcff61a2c87889/video.m3u8?token=9tqt1bqx6y
