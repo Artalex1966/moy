@@ -6,6 +6,10 @@ http://v2.catcast.me/content/36334/index.m3u8
 #EXTGRP: Хорошее
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
+#EXTINF:0,ТВ Друзья
+#EXTGRP: Кино
+https://5656.ga//ch10.m3u8
+
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
 http://v2.catcast.me/content/37739/index.m3u8
