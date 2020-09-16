@@ -136,13 +136,13 @@ http://176.98.26.37:8000/live/tivi/best/12.m3u8
 http://live-ng-01.more.tv/hls/VIP_SERIAL/master.m3u8
 #EXTINF:0,TV1000 Action
 #EXTGRP: Кино
-http://91.103.248.78:8000/play/73/index.m3u8
+https://imedi-tv.cdn.xsg.ge/tv1000act/index.m3u8
 #EXTINF:0,TV1000
 #EXTGRP: Кино
-http://91.103.248.78:8000/play/72/index.m3u8
+https://imedi-tv.cdn.xsg.ge/tv1000/index.m3u8
 #EXTINF:0,TV1000 Русское кино
 #EXTGRP: Кино
-http://91.103.248.78:8000/play/70/index.m3u8
+https://imedi-tv.cdn.xsg.ge/tv1000rukino/index.m3u8
 
 #EXTINF:-1,Мосфильм. Золотая коллекция
 http://ru.lightiptv.cc:8080/352e75ebba4c35bc7edcff61a2c87889/video.m3u8?token=9tqt1bqx6y
@@ -182,7 +182,9 @@ http://46.8.46.4:8080/domkino/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
 http://grytsyk.iptvbot.biz/iptv/LN3FWPRU6T9VSG/516/index.m3u8
-
+#EXTINF:0,Кинохит2
+#EXTGRP: Кино
+https://imedi-tv.cdn.xsg.ge/kinohit/index.m3u8
 #EXTINF:0,Кинохит3
 #EXTGRP: Кино
 http://46.8.46.4:8080/kinohit/index.m3u8
