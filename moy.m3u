@@ -45,8 +45,12 @@ http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:0,Кино 1
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1,Детское кино
+#EXTINF:0,Детское кино International
+#EXTGRP: Кино
 https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0,МультСказки
+#EXTGRP: Кино
+https://autopilot.catcast.tv/content/38850/index.m3u8
 #EXTINF:-1,Кино VHS
 https://v2.catcast.tv/content/38794/index.m3u8
 #EXTINF:0,FILM TV HD
@@ -54,6 +58,9 @@ https://v2.catcast.tv/content/38794/index.m3u8
 http://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1,Память ТВ
 https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:0,Премьера
+#EXTGRP: Кино
+https://autopilot.catcast.tv/content/39161/index.m3u8
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38801/index.m3u8
@@ -225,7 +232,7 @@ http://pro100tv.usite.pro/ch_kinosvidaniie.m3u8
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
-http://188.35.9.11:2022
+http://51.195.44.53:8081/tv/mughskoe-kino/chunks.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО2
 #EXTGRP: Кино
 http://astra.realcrimea.net:8000/play/a08u
@@ -262,10 +269,10 @@ http://188.35.9.26:14050/udp/238.0.14.3:69000
 
 
 
-#EXTINF:0,#Кинопоказ HD
-#EXTGRP: Кино
-https://mtv3.uzcloud.uz/kinopokaz/tracks-v1a1/mono.m3u8
 #EXTINF:0,#Кинопоказ
+#EXTGRP: Кино
+http://31.128.159.9:80/kinopokaz/mpegts
+#EXTINF:0,#Кинопоказ1
 #EXTGRP: Кино
 http://pro100tv.usite.pro/CH_kinopokaz.m3u8
 #EXTINF:0,#Кинопоказ2
@@ -311,35 +318,38 @@ http://88.218.240.74:8586/crypted/hls/CH_POBEDAHD/bw2000000/variant.m3u8
 #EXTGRP: Кино
 https://sc.id-tv.kz/Pobeda_36_37.m3u8
 
-#EXTINF:-1,Оружие
+#EXTINF:0,Оружие
 #EXTGRP: Познавательные
 http://46.8.46.4:8080/Oruzhie/playlist.m3u8
-#EXTINF:-1,История
+#EXTINF:0,История
 #EXTGRP: Познавательные
 http://78.29.1.69/live/istoriya/copy/playlist.m3u8
-
-#EXTINF:-1,Наука 2.0
+#EXTINF:0,История2
 #EXTGRP: Познавательные
-http://vs-msk-02.tv.ti.ru:80/dtv/id240_NBN_SG--Nauka/03/plst.m3u8
-#EXTINF:-1,Наука 2.0 HD
-#EXTGRP: Познавательные
-http://195.144.197.170:8886/udp/237.0.1.153:10000
+http://45.15.112.4:8082/122/mpegts
 
-#EXTINF:-1,Discovery Channel HD
+#EXTINF:0,Наука 2.0
+#EXTGRP: Познавательные
+http://45.15.112.4:8082/120/mpegts
+#EXTINF:0,Техно 24
+#EXTGRP: Познавательные
+http://45.15.112.4:8082/123/mpegts
+
+#EXTINF:0,Discovery Channel HD
 #EXTGRP: Познавательные
 http://live-ng-01.more.tv/hls/Discovery_HD/index_5.m3u8
-#EXTINF:-1,Discovery Channel
+#EXTINF:0,Discovery Channel
 #EXTGRP: Познавательные
 http://79.142.197.8:8888/Discovery/index.m3u8
 
-#EXTINF:-1,Discovery Channel FHD
+#EXTINF:0,Discovery Channel FHD
 #EXTGRP: Познавательные
 http://live-ng-01.more.tv/hls/Discovery_HD/index_1.m3u8
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
 http://79.142.197.8:8888/Discovery/index.m3u8
 
-#EXTINF:-1,Discovery Science HD
+#EXTINF:0,Discovery Science HD
 #EXTGRP: Познавательные
 http://live-ng-01.more.tv/hls/Discovery_Science_HD/index_1.m3u8
 
@@ -352,7 +362,7 @@ http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
 #EXTGRP: Познавательное
 http://astra.realcrimea.net:8000/play/a09z
 
-#EXTINF:-1,Investigation Discovery
+#EXTINF:0,Investigation Discovery
 #EXTGRP: Познавательные
 http://77.89.204.107:8000/play/a0b8/index.m3u8
 
@@ -509,3 +519,6 @@ https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:0, Лайфхаки для кухни
 #EXTGRP: Кино
 https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
+#EXTINF:0, Пересечение
+#EXTGRP: Кино
+https://nl3.cdnlast.com/s/c3521b3d451d5462334e8466ca9ea012f5db64/hd_30/Intersect.2020.P.WEB-DL.1O8Op_720.mp4?vs4-origin
