@@ -72,12 +72,12 @@ https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:0,Fantasy TV
 #EXTGRP: Кино
 http://mnogotv.club/hls/fantastk/index.m3u8
-#EXTINF:0,Космос ТВ
+#EXTINF:0,ULTO HD
 #EXTGRP: Кино
-http://vepti4bd.russtv.net/iptv/4MVDDWQPSL8KQC/2185/index.m3u8
-#EXTINF:0,Кино HD МОЖи
+http://ultotv.ru:8888/live/uhd/chunks.m3u8
+#EXTINF:0,КиноСериал
 #EXTGRP: Кино
-http://hls.goodgame.ru/hls/32491.m3u8
+https://v2.catcast.tv/content/37388/index.m3u8
 #EXTINF:0,Кино 18+
 #EXTGRP: Кино
 http://95.215.111.230:8081/hls/kino_18/playlist.m3u8
@@ -87,6 +87,15 @@ https://hls.goodgame.ru/hls/12949_720.m3u8
 #EXTINF:0,KVN TV HD
 #EXTGRP: Кино
 https://hls.goodgame.ru/hls/172148.m3u8
+#EXTINF:0,STR TV
+#EXTGRP: Кино
+http://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:0,Марс-ТВ
+#EXTGRP: Кино
+https://v2.catcast.tv/content/37033/index.m3u8?bw3522189768.m3u8
+#EXTINF:0,Русский детектив
+#EXTGRP: Кино
+http://45.15.112.4:8082/185/mpegts
 
 
 #EXTINF:0,СССР
@@ -134,7 +143,7 @@ http://109.239.208.82/pobeda/index.m3u8
 http://live-ng-01.more.tv/hls/ViP_Comedy_HD/index_1.m3u8
 #EXTINF:0,ViP Megahit HD
 #EXTGRP: Кино
-http://live-ng-01.more.tv/hls/ViP_Megahit_HD/index_1.m3u8
+http://live-ng-01.more.tv/hls/ViP_Megahit_HD/index_4.m3u8
 #EXTINF:0,ViP Premiere HD
 #EXTGRP: Кино
 http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_1.m3u8
@@ -143,10 +152,10 @@ http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_1.m3u8
 http://live-ng-01.more.tv/hls/VIP_SERIAL/index_1.m3u8
 #EXTINF:0,TV1000 Action
 #EXTGRP: Кино
-http://live-ng-01.more.tv/hls/TV1000_Action_HD/index_1.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TV1000ACTION.m3u8
 #EXTINF:0,TV1000
 #EXTGRP: Кино
-http://live-ng-01.more.tv/hls/TV1000_HD/index_1.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TV1000HD.m3u8
 #EXTINF:0,TV1000 Русское кино
 #EXTGRP: Кино
 http://live-ng-01.more.tv/hls/TV1000_Russian_Kino_HD/master.m3u8
@@ -173,7 +182,7 @@ https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?versi
 http://157d378f.ottv.biz/iptv/LN3FWPRU6T9VSG/126/index.m3u8
 #EXTINF:0,Родное кино2
 #EXTGRP: Кино
-http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
+http://51.195.44.53:8081/tv/rodnoe-kino/chunks.m3u8
 #EXTINF:0,Родное кино3
 #EXTGRP: Кино
 https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
@@ -218,7 +227,7 @@ http://cdn.mytouchtv.tv/hlsl/10/Kinomiks/index.m3u8
 http://grytsyk.iptvbot.biz/iptv/LN3FWPRU6T9VSG/224/index.m3u8
 #EXTINF:0,Кинопремьера2
 #EXTGRP: Кино
-http://pro100tv.usite.pro/CH_kinopremyera.m3u8
+http://45.15.112.4:8082/205/mpegts
 #EXTINF:0,Кинопремьера3
 #EXTGRP: Кино
 http://178.33.37.66/stream/2SS449BL7J/160.m3u8
@@ -228,7 +237,7 @@ http://178.33.37.66/stream/2SS449BL7J/160.m3u8
 http://grytsyk.iptvbot.biz/iptv/LN3FWPRU6T9VSG/728/index.m3u8
 #EXTINF:0,Киносемья2
 #EXTGRP: Кино
-http://pro100tv.usite.pro/ch_kinosvidaniie.m3u8
+http://188.93.95.67:80/kinosemya/tracks-v1a1/index.m3u8
 
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: Кино
