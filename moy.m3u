@@ -83,7 +83,7 @@ https://v2.catcast.tv/content/37388/index.m3u8
 http://95.215.111.230:8081/hls/kino_18/playlist.m3u8
 #EXTINF:0,PZN TV HD
 #EXTGRP: Кино
-https://hls.goodgame.ru/hls/12949_720.m3u8
+https://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:0,KVN TV HD
 #EXTGRP: Кино
 https://hls.goodgame.ru/hls/172148.m3u8
@@ -93,9 +93,18 @@ http://hls.goodgame.ru/hls/130048.m3u8
 #EXTINF:0,Марс-ТВ
 #EXTGRP: Кино
 https://v2.catcast.tv/content/37033/index.m3u8?bw3522189768.m3u8
+#EXTINF:0,Marvel TV
+#EXTGRP: Кино
+http://v1.catcast.me/contentv2/35525/index.m3u8
 #EXTINF:0,Русский детектив
 #EXTGRP: Кино
 http://45.15.112.4:8082/185/mpegts
+#EXTINF:0,Сити Эдем TV
+#EXTGRP: Кино
+http://v2.catcast.me/content/34246/index.m3u8
+#EXTINF:0,E TV
+#EXTGRP: Познавательные
+https://strm.yandex.ru/kal/etv/etv0_169_1080p.json/index-v1-a1.m3u8
 
 
 #EXTINF:0,СССР
@@ -280,7 +289,7 @@ http://188.35.9.26:14050/udp/238.0.14.3:69000
 
 #EXTINF:0,#Кинопоказ
 #EXTGRP: Кино
-http://31.128.159.9:80/kinopokaz/mpegts
+http://31.128.159.9/kinopokaz/mpegts
 #EXTINF:0,#Кинопоказ1
 #EXTGRP: Кино
 http://pro100tv.usite.pro/CH_kinopokaz.m3u8
@@ -360,11 +369,11 @@ http://79.142.197.8:8888/Discovery/index.m3u8
 
 #EXTINF:0,Discovery Science HD
 #EXTGRP: Познавательные
-http://live-ng-01.more.tv/hls/Discovery_Science_HD/index_1.m3u8
+http://live-ng-01.more.tv/hls/Discovery_Science_HD/master.m3u8
 
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
-http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 #EXTINF:0,Discovery Science
 
 #EXTINF:0,Discovery hd
