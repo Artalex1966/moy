@@ -90,6 +90,9 @@ https://hls.goodgame.ru/hls/172148.m3u8
 #EXTINF:0,STR TV
 #EXTGRP: Кино
 http://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:0,AKUDJI TV HD
+#EXTGRP: Кино
+http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:0,Марс-ТВ
 #EXTGRP: Кино
 https://v2.catcast.tv/content/37033/index.m3u8?bw3522189768.m3u8
@@ -102,10 +105,21 @@ http://45.15.112.4:8082/185/mpegts
 #EXTINF:0,Сити Эдем TV
 #EXTGRP: Кино
 http://v2.catcast.me/content/34246/index.m3u8
+#EXTINF:0,VIP Family
+#EXTGRP: Кино
+http://188.93.95.83:80/tv5/index.m3u8
 #EXTINF:0,E TV
 #EXTGRP: Познавательные
 https://strm.yandex.ru/kal/etv/etv0_169_1080p.json/index-v1-a1.m3u8
-
+#EXTINF:0,Ленфильм
+#EXTGRP: Кино
+http://hls.goodgame.ru:80/hls/180118.m3u8
+#EXTINF:0,МосфильМ
+#EXTGRP: Кино
+http://hls.goodgame.ru:80/hls/180116.m3u8
+#EXTINF:0,СССР 000
+#EXTGRP: Кино
+http://hls.goodgame.ru:80/hls/180117.m3u8
 
 #EXTINF:0,СССР
 #EXTGRP: Кино
@@ -339,6 +353,9 @@ https://sc.id-tv.kz/Pobeda_36_37.m3u8
 #EXTINF:0,Оружие
 #EXTGRP: Познавательные
 http://46.8.46.4:8080/Oruzhie/playlist.m3u8
+#EXTINF:0,Оружие 2
+#EXTGRP: Познавательные
+http://93.158.222.99/oruzhie/index.m3u8
 #EXTINF:0,История
 #EXTGRP: Познавательные
 http://78.29.1.69/live/istoriya/copy/playlist.m3u8
@@ -352,6 +369,9 @@ http://45.15.112.4:8082/120/mpegts
 #EXTINF:0,Техно 24
 #EXTGRP: Познавательные
 http://45.15.112.4:8082/123/mpegts
+#EXTINF:0,Техно 24 2
+#EXTGRP: Познавательные
+http://93.158.222.99/24techno/index.m3u8
 
 #EXTINF:0,Discovery Channel HD
 #EXTGRP: Познавательные
