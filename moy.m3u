@@ -78,9 +78,15 @@ http://ultotv.ru:8888/live/uhd/chunks.m3u8
 #EXTINF:0,КиноСериал
 #EXTGRP: Кино
 https://v2.catcast.tv/content/37388/index.m3u8
-#EXTINF:0,Кино 18+
+#EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://95.215.111.230:8081/hls/kino_18/playlist.m3u8
+http://45.15.112.4:8082/175/mpegts
+#EXTINF:0,Иллюзион +
+#EXTGRP: Кино
+http://45.15.112.4:8082/181/mpegts
+#EXTINF:0,Дом кино
+#EXTGRP: Кино
+http://45.15.112.4:8082/173/mpegts
 #EXTINF:0,PZN TV HD
 #EXTGRP: Кино
 https://hls.goodgame.ru/hls/12949.m3u8
@@ -160,7 +166,7 @@ https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 #EXTINF:0,Победа
 #EXTGRP: Кино
-http://109.239.208.82/pobeda/index.m3u8
+http://45.15.112.4:8082/44/mpegts
 #EXTINF:0,ViP Comedy HD
 #EXTGRP: Кино
 http://live-ng-01.more.tv/hls/ViP_Comedy_HD/index_1.m3u8
@@ -175,13 +181,13 @@ http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_1.m3u8
 http://live-ng-01.more.tv/hls/VIP_SERIAL/index_1.m3u8
 #EXTINF:0,TV1000 Action
 #EXTGRP: Кино
-http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TV1000ACTION.m3u8
+http://45.15.112.4:8082/171/mpegts
 #EXTINF:0,TV1000
 #EXTGRP: Кино
-http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TV1000HD.m3u8
+http://45.15.112.4:8082/170/mpegts
 #EXTINF:0,TV1000 Русское кино
 #EXTGRP: Кино
-http://live-ng-01.more.tv/hls/TV1000_Russian_Kino_HD/master.m3u8
+http://45.15.112.4:8082/172/mpegts
 
 #EXTINF:-1,Мосфильм. Золотая коллекция
 http://ru.lightiptv.cc:8080/352e75ebba4c35bc7edcff61a2c87889/video.m3u8?token=9tqt1bqx6y
@@ -310,20 +316,6 @@ http://pro100tv.usite.pro/CH_kinopokaz.m3u8
 #EXTINF:0,#Кинопоказ2
 #EXTGRP: Кино
 http://178.33.37.66/stream/DN7D4MF7GXE/64.m3u8
-
-#EXTINF:0,Кино ТВ
-#EXTGRP: Кино
-http://4f8b3417.shukinuki.website/iptv/LN3FWPRU6T9VSG/732/index.m3u8
-#EXTINF:0,Кино ТВ2
-#EXTGRP: Кино
-http://31.128.159.9/kinotv/mpegts
-#EXTINF:0,Кино ТВ2hd
-#EXTGRP: Кино
-http://astra.powernet.com.ru:5000/channel_239.1.11.34/index.m3u8
-
-
-
-
 
 
 #EXTINF:0,VHS 90s
@@ -500,6 +492,18 @@ http://217.25.216.4:8085/udp/225.1.2.82:2020
 #EXTINF:0,Adult Channel [Russian]
 #EXTGRP: Познавательное
 http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:0,Hustler HD
+#EXTGRP: Познавательное
+http://45.15.112.4:8082/291/mpegts
+#EXTINF:0,Redlight HD
+#EXTGRP: Познавательное
+http://45.15.112.4:8082/290/mpegts
+#EXTINF:0,Brazzers TV
+#EXTGRP: Познавательное
+http://45.15.112.4:8082/285/mpegts
+#EXTINF:0,Private TV HD
+#EXTGRP: Познавательное
+http://45.15.112.4:8082/283/mpegts
 
 
 
