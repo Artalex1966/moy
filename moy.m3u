@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0,Relax
+#EXTGRP: Релакс
+https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
 http://v2.catcast.me/content/37739/index.m3u8
@@ -46,7 +49,7 @@ https://v2.catcast.tv/content/38794/index.m3u8
 http://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1,Память ТВ
 https://autopilot.catcast.tv/content/38821/index.m3u8
-#EXTINF:0,Премьера
+#EXTINF:0,П_р_е_мьера
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/39161/index.m3u8
 #EXTINF:0,Фантастика
@@ -66,6 +69,12 @@ http://46.8.46.4:8080/kinomix/index.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
 http://45.15.112.4:8082/205/mpegts
+#EXTINF:0, Киносвидание
+#EXTGRP: Кино
+http://93.158.222.99/kinosvidanie/index.m3u8
+#EXTINF:0,Киносемья
+#EXTGRP: Кино
+http://93.158.222.99/kinosemya/index.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
 https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
@@ -118,15 +127,18 @@ http://v2.catcast.me/content/34246/index.m3u8
 #EXTINF:0,VIP Family
 #EXTGRP: Кино
 http://188.93.95.83:80/tv5/index.m3u8
-#EXTINF:0,VIP HIT
-#EXTGRP: Кино
-https://rebrand.ly/giqdxpk/ROSTIK-TV/KVN-TV
 #EXTINF:0,VHS VIDEOSALON
 #EXTGRP: Кино
 https://hls.goodgame.ru/hls/175764.m3u8
 #EXTINF:0,День Победы
 #EXTGRP: Кино
 http://mnogotv.club:8280/fre/ch2521/index.m3u8
+#EXTINF:0,Мужское Кино FHD
+#EXTGRP: Кино
+http://188.35.9.11:2022
+#EXTINF:0,Остросюжетное HD
+#EXTGRP: Кино
+http://188.35.9.11:2015
 
 #EXTINF:0,E TV
 #EXTGRP: Познавательные
@@ -137,6 +149,9 @@ http://hls.goodgame.ru:80/hls/180118.m3u8
 #EXTINF:0,МосфильМ
 #EXTGRP: Кино
 http://hls.goodgame.ru:80/hls/180116.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: Кино
+http://play.101film.org:25461/813593/412167/151
 #EXTINF:0,СССР 000
 #EXTGRP: Кино
 http://hls.goodgame.ru:80/hls/180117.m3u8
@@ -150,7 +165,7 @@ https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
 #EXTINF:0,Советские
 #EXTGRP: Кино
 http://xiptv.site/iptvteam.flv
-#EXTINF:0,Любимое кино Л
+#EXTINF:0,Любимое TV
 #EXTGRP: Кино
 https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
 #EXTINF:0,Любимое ТВ
@@ -206,8 +221,7 @@ http://45.15.112.4:8082/170/mpegts
 #EXTGRP: Кино
 http://45.15.112.4:8082/172/mpegts
 
-#EXTINF:-1,Мосфильм. Золотая коллекция
-http://ru.lightiptv.cc:8080/352e75ebba4c35bc7edcff61a2c87889/video.m3u8?token=9tqt1bqx6y
+
 
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
@@ -236,6 +250,7 @@ http://lazyserg.iptvbot.biz/iptv/LN3FWPRU6T9VSG/154/index.m3u8
 #EXTINF:0,Дом Кино3
 #EXTGRP: Кино
 http://46.8.46.4:8080/domkino/index.m3u8
+
 
 
 #EXTINF:0,Кинохит2
@@ -268,9 +283,7 @@ http://grytsyk.iptvbot.biz/iptv/LN3FWPRU6T9VSG/224/index.m3u8
 #EXTGRP: Кино
 http://178.33.37.66/stream/2SS449BL7J/160.m3u8
 
-#EXTINF:0,Киносемья
-#EXTGRP: Кино
-http://grytsyk.iptvbot.biz/iptv/LN3FWPRU6T9VSG/728/index.m3u8
+
 #EXTINF:0,Киносемья2
 #EXTGRP: Кино
 http://188.93.95.67:80/kinosemya/tracks-v1a1/index.m3u8
@@ -282,9 +295,7 @@ http://51.195.44.53:8081/tv/mughskoe-kino/chunks.m3u8
 #EXTGRP: Кино
 http://astra.realcrimea.net:8000/play/a08u
 
-#EXTINF:0,МУЖСКОЕ КИНО3
-#EXTGRP: Кино
-http://178.33.37.66/stream/Q9RIAY3CCY/107.m3u8
+
 
 
 #EXTINF:0,КИНОКОМЕДИЯ
@@ -295,7 +306,7 @@ http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
 http://46.8.46.4:8080/kinokomedia/index.m3u8
 #EXTINF:0, Киносвидание
 #EXTGRP: Кино
-http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+http://93.158.222.99/kinosvidanie/index.m3u8
 
 #EXTINF:0,КиноПремиум HD
 #EXTGRP: Кино
@@ -563,8 +574,14 @@ https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
 
 
 #EXTINF:0,Камин
-#EXTGRP: Хорошее
+#EXTGRP: Релакс
 http://v2.catcast.me/content/36334/index.m3u8
-#EXTINF:0,У костра
-#EXTGRP: Хорошее
+#EXTINF:0,Релакс HD
+#EXTGRP: Релакс
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:0,Nature Relaxation HD
+#EXTGRP: Релакс
+https://live.streams.ovh/YourStreaming/YourStreaming/chunklist_w1017953779.m3u8
+#EXTINF:0,Релакс под гитару
+#EXTGRP: Релакс
+https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
