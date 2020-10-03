@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0,Relax
-#EXTGRP: Релакс
-https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
 http://v2.catcast.me/content/37739/index.m3u8
@@ -62,7 +59,7 @@ https://hls.goodgame.ru/hls/178436.m3u8
 https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://185.112.140.3:8888/kinoxit
+http://46.8.46.4:8080/kinohit/playlist.m3u8
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
 http://46.8.46.4:8080/kinomix/index.m3u8
@@ -94,27 +91,7 @@ http://45.15.112.4:8082/181/mpegts
 #EXTINF:0,Дом кино
 #EXTGRP: Кино
 http://45.15.112.4:8082/173/mpegts
-#EXTINF:0,PZN TV HD
-#EXTGRP: Кино
-https://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:0,KVN TV HD
-#EXTGRP: Кино
-https://hls.goodgame.ru/hls/172148.m3u8
-#EXTINF:0,STR TV
-#EXTGRP: Кино
-http://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF:0,AKUDJI TV HD
-#EXTGRP: Кино
-http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:0,Марс-ТВ
-#EXTGRP: Кино
-https://v2.catcast.tv/content/37033/index.m3u8?bw3522189768.m3u8
-#EXTINF:0,ULTO HD
-#EXTGRP: Кино
-http://ultotv.ru:8888/live/uhd/chunks.m3u8
-#EXTINF:0,Marvel TV
-#EXTGRP: Кино
-http://v1.catcast.me/contentv2/35525/index.m3u8
+
 #EXTINF:0,Русский детектив
 #EXTGRP: Кино
 http://45.15.112.4:8082/185/mpegts
@@ -181,6 +158,29 @@ https://rebrand.ly/tibvozt/ROSTIK-TV/LIKE
 #EXTINF:0,MULT
 #EXTGRP: Кино
 http://v2.catcast.tv/content/38144/index.m3u8
+
+#EXTINF:0,PZN TV HD
+#EXTGRP: Кино
+https://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:0,KVN TV HD
+#EXTGRP: Кино
+https://hls.goodgame.ru/hls/172148.m3u8
+#EXTINF:0,STR TV
+#EXTGRP: Кино
+http://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:0,AKUDJI TV HD
+#EXTGRP: Кино
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:0,Марс-ТВ
+#EXTGRP: Кино
+https://v2.catcast.tv/content/37033/index.m3u8?bw3522189768.m3u8
+#EXTINF:0,ULTO HD
+#EXTGRP: Кино
+http://ultotv.ru:8888/live/uhd/chunks.m3u8
+#EXTINF:0,Marvel TV
+#EXTGRP: Кино
+http://v1.catcast.me/contentv2/35525/index.m3u8
+
 #EXTINF:-1 ,Кинозал  (Russian Комедии EVGENIY)
 https://v2.catcast.tv/content/36168/index.m3u8
 #EXTINF:0,КиноЗаказ 1
@@ -585,3 +585,6 @@ https://live.streams.ovh/YourStreaming/YourStreaming/chunklist_w1017953779.m3u8
 #EXTINF:0,Релакс под гитару
 #EXTGRP: Релакс
 https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
+#EXTINF:0,Relax
+#EXTGRP: Релакс
+https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
