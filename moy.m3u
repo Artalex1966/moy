@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0,Добро пожаловать в рай
-#EXTGRP: Секрет
-https://nl3.cdnlast.com/s/c3521b3d451d5462334e8466ca9ea012f5db64/hd01-nf19/Vice.2015.BDRip.1080p_480.mp4?vs3-origin
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
 http://v2.catcast.me/content/37739/index.m3u8
@@ -36,6 +33,9 @@ http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:0,Кино 1
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38617/index.m3u8
+#EXTINF:0,КИНО 1 INTERNATIONAL HD
+#EXTGRP: Кино
+http://zigfreed.ru/Y3O/88.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38720/index.m3u8
@@ -49,7 +49,7 @@ https://v2.catcast.tv/content/38794/index.m3u8
 http://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1,Память ТВ
 https://autopilot.catcast.tv/content/38821/index.m3u8
-#EXTINF:0,П_р_е_мьера
+#EXTINF:0,Видеопремьера
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/39161/index.m3u8
 #EXTINF:0,Фантастика
@@ -81,10 +81,16 @@ https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
 http://88.218.240.74:8586/crypted/hls/CH_LUBIMOE/variant.m3u8
+#EXTINF:0,Любимое кино 2
+#EXTGRP: Кино
+http://zigfreed.ru/Y3O/147.m3u8
 
 #EXTINF:0,КиноСериал
 #EXTGRP: Кино
 https://v2.catcast.tv/content/37388/index.m3u8
+#EXTINF:0,КиноСериал 2
+#EXTGRP: Кино
+http://zigfreed.ru/Y3O/34.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
 http://45.15.112.4:8082/175/mpegts
@@ -119,6 +125,9 @@ http://188.35.9.11:2022
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: Кино
 http://188.35.9.11:2015
+#EXTINF:0,Интересное ТВ
+#EXTGRP: Кино
+http://93.158.222.99/interesnoetv/index.m3u8
 
 #EXTINF:0,E TV
 #EXTGRP: Познавательные
@@ -132,6 +141,9 @@ http://hls.goodgame.ru:80/hls/180116.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: Кино
 http://play.101film.org:25461/813593/412167/151
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: Кино
+http://88.218.240.74:8586/crypted/hls/CH_MOSFILM/variant.m3u8?version=2
 #EXTINF:0,СССР 000
 #EXTGRP: Кино
 http://hls.goodgame.ru:80/hls/180117.m3u8
@@ -139,6 +151,9 @@ http://hls.goodgame.ru:80/hls/180117.m3u8
 #EXTINF:0,СССР
 #EXTGRP: Кино
 http://v2.catcast.me/content/36506/index.m3u8
+#EXTINF:0,СССР 1
+#EXTGRP: Кино
+http://zigfreed.ru/Y3O/17.m3u8
 #EXTINF:0,СССР 2
 #EXTGRP: Кино
 https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
