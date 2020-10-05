@@ -39,6 +39,9 @@ http://zigfreed.ru/Y3O/88.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0,Детское кино International 2
+#EXTGRP: Кино
+http://zigfreed.ru/Y3O/74.m3u8
 #EXTINF:0,МультСказки
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/38850/index.m3u8
@@ -100,6 +103,9 @@ http://45.15.112.4:8082/181/mpegts
 #EXTINF:0,Дом кино
 #EXTGRP: Кино
 http://45.15.112.4:8082/173/mpegts
+#EXTINF:0,Дом кино 2
+#EXTGRP: Кино
+http://zigfreed.ru/Y3O/75.m3u8
 
 #EXTINF:0,Русский детектив
 #EXTGRP: Кино
@@ -606,3 +612,7 @@ https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
 #EXTINF:0,Relax
 #EXTGRP: Релакс
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
+
+#EXTINF:0,Сталин ч1
+#EXTGRP: Сталин
+https://www.youtube.com/watch?v=fBNlYH90qvg
