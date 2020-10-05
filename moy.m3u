@@ -8,6 +8,9 @@ http://v2.catcast.me/content/37745/index.m3u8
 #EXTINF:0,Музыка 2
 #EXTGRP: Музыка
 http://v2.catcast.me/content/37742/index.m3u8
+#EXTINF:0,Музыка 2-1
+#EXTGRP: Музыка
+http://zigfreed.ru/Y3O/690.m3u8
 
 #EXTINF:0,Россия 1 HD 1080
 #EXTGRP: эфир
@@ -66,27 +69,48 @@ https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
 http://46.8.46.4:8080/kinohit/playlist.m3u8
+#EXTINF:0,Кинохит 2
+#EXTGRP: Кино
+http://zigfreed.ru/Y3O/123.m3u8
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
 http://46.8.46.4:8080/kinomix/index.m3u8
+#EXTINF:0,КИНОМИКС 2
+#EXTGRP: Кино
+http://zigfreed.ru/Y3O/114.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
 http://45.15.112.4:8082/205/mpegts
+#EXTINF:0,Кинопремьера 2
+#EXTGRP: Кино
+http://zigfreed.ru/Y3O/118.m3u8
 #EXTINF:0, Киносвидание
 #EXTGRP: Кино
 http://93.158.222.99/kinosvidanie/index.m3u8
+#EXTINF:0, Киносвидание 2
+#EXTGRP: Кино
+http://zigfreed.ru/Y3O/120.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
 http://93.158.222.99/kinosemya/index.m3u8
+#EXTINF:0,Киносемья 2
+#EXTGRP: Кино
+http://zigfreed.ru/Y3O/121.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
 https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
+#EXTINF:0,Родное кино
+#EXTGRP: Кино
+http://zigfreed.ru/Y3O/173.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
 http://88.218.240.74:8586/crypted/hls/CH_LUBIMOE/variant.m3u8
 #EXTINF:0,Любимое кино 2
 #EXTGRP: Кино
 http://zigfreed.ru/Y3O/147.m3u8
+#EXTINF:0,Кинокомедия
+#EXTGRP: Кино
+http://zigfreed.ru/Y3O/113.m3u8
 
 #EXTINF:0,КиноСериал
 #EXTGRP: Кино
@@ -97,9 +121,15 @@ http://zigfreed.ru/Y3O/34.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
 http://45.15.112.4:8082/175/mpegts
+#EXTINF:0,Кино ТВ
+#EXTGRP: Кино
+http://zigfreed.ru/Y3O/91.m3u8
 #EXTINF:0,Иллюзион +
 #EXTGRP: Кино
 http://45.15.112.4:8082/181/mpegts
+#EXTINF:0,Иллюзион +
+#EXTGRP: Кино
+http://zigfreed.ru/Y3O/84.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: Кино
 http://45.15.112.4:8082/173/mpegts
@@ -125,12 +155,18 @@ https://hls.goodgame.ru/hls/175764.m3u8
 #EXTINF:0,День Победы
 #EXTGRP: Кино
 http://mnogotv.club:8280/fre/ch2521/index.m3u8
+#EXTINF:0,Мужское Кино
+#EXTGRP: Кино
+http://zigfreed.ru/Y3O/141.m3u8
 #EXTINF:0,Мужское Кино FHD
 #EXTGRP: Кино
 http://188.35.9.11:2022
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: Кино
 http://188.35.9.11:2015
+#EXTINF:0,Остросюжетное
+#EXTGRP: Кино
+http://zigfreed.ru/Y3O/158.m3u8
 #EXTINF:0,Интересное ТВ
 #EXTGRP: Кино
 http://93.158.222.99/interesnoetv/index.m3u8
@@ -384,6 +420,10 @@ http://88.218.240.74:8586/crypted/hls/CH_POBEDAHD/bw2000000/variant.m3u8
 #EXTGRP: Кино
 https://sc.id-tv.kz/Pobeda_36_37.m3u8
 
+#EXTINF:0,Тайна
+#EXTGRP: Познавательные
+http://zigfreed.ru/Y3O/186.m3u8
+
 #EXTINF:0,Оружие
 #EXTGRP: Познавательные
 http://46.8.46.4:8080/Oruzhie/playlist.m3u8
@@ -632,4 +672,6 @@ https://vcdn1.v-s.mobi/yYQdFhloW2xsInXxeA/360p.mp4
 #EXTINF:0,Сталин 1111
 #EXTGRP: Сталин
 https://vcdn1.v-s.mobi/yYRYTSBLXHJwJxvlfA/360p.mp4
+
+
 
