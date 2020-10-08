@@ -12,9 +12,9 @@ http://v2.catcast.me/content/37742/index.m3u8
 #EXTGRP: Музыка
 http://zigfreed.ru/Y3O/690.m3u8
 
-#EXTINF:0,Россия 1 HD 1080
+#EXTINF:0,Россия 1 HD
 #EXTGRP: эфир
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:0,Россия 1 (-1)
 #EXTGRP: эфир
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2&checkedby:iptvcat.com
@@ -203,7 +203,7 @@ http://zigfreed.ru/Y3O/173.m3u8
 http://88.218.240.74:8586/crypted/hls/CH_LUBIMOE/variant.m3u8
 #EXTINF:0,Любимое кино 2
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/147.m3u8
+http://zigfreed.ru/Y3O/147.m3u8  
 #EXTINF:0,Кинокомедия
 #EXTGRP: Кино
 http://zigfreed.ru/Y3O/113.m3u8
@@ -265,7 +265,7 @@ http://v2.catcast.tv/content/38144/index.m3u8
 
 #EXTINF:0,PZN TV HD
 #EXTGRP: Кино
-https://hls.goodgame.ru/hls/12949.m3u8
+http://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:0,KVN TV HD
 #EXTGRP: Кино
 https://hls.goodgame.ru/hls/172148.m3u8
