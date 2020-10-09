@@ -33,6 +33,8 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 #EXTGRP: эфир
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+
 #EXTINF:0,Красная линия 
 #EXTGRP: Кино
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
@@ -113,7 +115,7 @@ http://cdn-lc9nyc5z.playlist-24.xyz/ussr/playlist.m3u8?token=besbwSOWExruZGimb9m
 
 #EXTINF:0,Дом кино
 #EXTGRP: Кино
-http://178.217.72.66:80/225.201.2.161/tracks-v1a1/mono.m3u8
+http://87.251.176.10:8080/63/tracks-v1a1/mono.m3u8
 #EXTINF:0,Дом кино 2
 #EXTGRP: Кино
 http://zigfreed.ru/Y3O/75.m3u8
@@ -139,7 +141,7 @@ http://31.128.159.9/kinopokaz/mpegts
 
 #EXTINF:0,Победа
 #EXTGRP: Кино
-http://88.218.240.74:8586/crypted/hls/CH_POBEDAHD/bw2000000/variant.m3u8
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
 #EXTINF:0,ViP Comedy HD
 #EXTGRP: Кино
 http://live-ng-01.more.tv/hls/ViP_Comedy_HD/index_1.m3u8
@@ -154,13 +156,13 @@ http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_1.m3u8
 http://live-ng-01.more.tv/hls/VIP_SERIAL/index_1.m3u8
 #EXTINF:0,TV1000 Action
 #EXTGRP: Кино
-http://45.15.112.4:8082/171/mpegts
+http://live-ng-01.more.tv/hls/TV1000_Action_HD/index_1.m3u8
 #EXTINF:0,TV1000
 #EXTGRP: Кино
-http://45.15.112.4:8082/170/mpegts
+http://live-ng-01.more.tv/hls/TV1000_HD/index_1.m3u8
 #EXTINF:0,TV1000 Русское кино
 #EXTGRP: Кино
-http://45.15.112.4:8082/172/mpegts
+http://live-ng-01.more.tv/hls/TV1000_Russian_Kino_HD/master.m3u8
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
@@ -218,10 +220,10 @@ http://zigfreed.ru/Y3O/34.m3u8
 
 #EXTINF:0,Русский детектив
 #EXTGRP: Кино
-http://45.15.112.4:8082/185/mpegts
-#EXTINF:0,Русский роман
+http://87.251.176.10:8080/143/index.m3u8?bw1571164348.m3u8
+#EXTINF:0,Русский Бестселлер
 #EXTGRP: Кино
-http://45.15.112.4:8082/183/mpegts
+http://46.8.46.4/rubestseller/index.m3u8
 #EXTINF:0,Сити Эдем TV
 #EXTGRP: Кино
 http://v2.catcast.me/content/34246/index.m3u8
@@ -663,7 +665,5 @@ https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
 #EXTINF:0,Relax
 #EXTGRP: Релакс
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
-
-
 
 
