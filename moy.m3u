@@ -666,4 +666,6 @@ https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
 #EXTGRP: Релакс
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 
-
+#EXTINF:0,Dogma - Magical Chants
+#EXTGRP: Релакс
+http://listen2.myradio24.com:9000/8226
