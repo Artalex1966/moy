@@ -31,9 +31,10 @@ http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 #EXTINF:0,Рен ТВ HD
 #EXTGRP: эфир
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+http://89.189.191.250/239.211.6.52/stream.m3u8
+#EXTINF:0,Рен ТВ 
+#EXTGRP: эфир
+http://88.218.240.74:8586/crypted/hls/CH_RENTV/variant.m3u8
 
 #EXTINF:0,Красная линия 
 #EXTGRP: Кино
@@ -104,6 +105,9 @@ https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
 #EXTINF:0,Советские
 #EXTGRP: Кино
 http://xiptv.site/iptvteam.flv
+#EXTINF:0,Советское Кино
+#EXTGRP: Кино
+http://62.122.88.22:81/udp/239.1.9.38:1234
 #EXTINF:0,Любимое TV
 #EXTGRP: Кино
 https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
@@ -118,7 +122,7 @@ http://cdn-lc9nyc5z.playlist-24.xyz/ussr/playlist.m3u8?token=besbwSOWExruZGimb9m
 http://87.251.176.10:8080/63/tracks-v1a1/mono.m3u8
 #EXTINF:0,Дом кино 2
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/75.m3u8
+http://178.163.24.25:4022/udp/234.0.0.219:2000
 #EXTINF:0,Дом Кино3
 #EXTGRP: Кино
 http://46.8.46.4:8080/domkino/index.m3u8
@@ -138,7 +142,9 @@ http://zigfreed.ru/Y3O/84.m3u8
 #EXTGRP: Кино
 http://31.128.159.9/kinopokaz/mpegts
 
-
+#EXTINF:0,Звезда
+#EXTGRP: Кино
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0,Победа
 #EXTGRP: Кино
 https://sc.id-tv.kz/Pobeda_34_35.m3u8
