@@ -20,7 +20,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2&checkedby:iptvcat.com
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA1/variant.m3u8?version=2
+http://s06.iptvx.tv:8090/s/c2022c69/rossija-hd.m3u8
 #EXTINF:0,Россия 1 (+6)
 http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
 #EXTINF:0,Первый канал
@@ -107,7 +107,7 @@ http://zigfreed.ru/Y3O/16.m3u8
 https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
 #EXTINF:0,Советские
 #EXTGRP: Кино
-http://xiptv.site/iptvteam.flv
+http://mnogotv.club:8084/tv/ch191/playlist.m3u8
 #EXTINF:0,Советское Кино
 #EXTGRP: Кино
 http://62.122.88.22:81/udp/239.1.9.38:1234
@@ -119,9 +119,9 @@ http://zigfreed.ru/Y3O/171.m3u8
 https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
 #EXTINF:0,Любимое ТВ
 https://strm.yandex.ru/kal/lovedtv/lovedtv0.m3u8
-#EXTINF:0,Время кино
+#EXTINF:0,Любимое
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/66.m3u8
+http://s06.iptvx.tv:8090/s/c2022c69/nashe-lubimoe-hd.m3u8
 #EXTINF:0,Сделано в CCCP
 #EXTGRP: Кино
 http://cdn-lc9nyc5z.playlist-24.xyz/ussr/playlist.m3u8?token=besbwSOWExruZGimb9mee3lrRroezuxb4xBkMZ8ac3dR58apTpwlM82qdaRy6_BhfUctpyLM_nd9RS_TynCrb7g_hRbzmDMwD9KNAiCRxyM
@@ -157,6 +157,9 @@ http://31.128.159.9/kinopokaz/mpegts
 #EXTINF:0,Звезда
 #EXTGRP: Кино
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:0,День Победы HD
+#EXTGRP: Кино
+http://78.129.228.178/iptv/W28DYVFET2WZ2Z/5054/index.m3u8
 #EXTINF:0,Победа
 #EXTGRP: Кино
 https://sc.id-tv.kz/Pobeda_34_35.m3u8
@@ -187,10 +190,10 @@ http://live-ng-01.more.tv/hls/TV1000_Russian_Kino_HD/master.m3u8
 http://46.8.46.4:8080/kinohit/playlist.m3u8
 #EXTINF:0,Кинохит 2
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/116.m3u8
+http://s06.iptvx.tv:8090/s/c2022c69/kinohit-hd.m3u8
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://46.8.46.4:8080/kinomix/index.m3u8
+http://s06.iptvx.tv:8090/s/c2022c69/kinomix-hd.m3u8
 #EXTINF:0,КИНОМИКС 2
 #EXTGRP: Кино
 http://zigfreed.ru/Y3O/105.m3u8
@@ -625,8 +628,6 @@ http://zigfreed.ru/Y3O/1912.m3u8
 http://zigfreed.ru/Y3O/1908.m3u8
 
 
-
-
 #EXTINF:0,Бигуди
 #EXTGRP: Украина
 http://185.189.184.7:8888/Bigudi/index.m3u8?token=test
@@ -670,8 +671,6 @@ http://188.35.9.11:2001/index.m3u8
 #EXTINF:0,Simon TV (Харьков)
 #EXTGRP: Украина
 https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
-
-
 
 
 #EXTINF:0,Камин
