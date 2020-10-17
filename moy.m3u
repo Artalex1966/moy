@@ -146,7 +146,7 @@ http://87.251.176.10:8080/63/tracks-v1a1/mono.m3u8
 http://46.8.46.4/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кино ТВ 2
 #EXTGRP: Кино
-http://40791904.cbilant.com/iptv/B9HTV5FNS8G6VH/732/index.m3u8
+http://87.251.176.10:8080/159/index.m3u8
 #EXTINF:0,Иллюзион +
 #EXTGRP: Кино
 http://31.128.159.9:80/illusionplus/mpegts
