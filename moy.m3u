@@ -76,9 +76,12 @@ https://v2.catcast.tv/content/38801/index.m3u8
 https://hls.goodgame.ru/hls/178436.m3u8
 #EXTINF:-1,Фантастика Sci-Fi
 https://autopilot.catcast.tv/content/38801/index.m3u8
-#EXTINF:0,Fantasy TV
+#EXTINF:0,Кинозаказ1
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/20.m3u8
+http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:0,Кинозаказ2
+#EXTGRP: Кино
+http://hls.goodgame.ru/hls/5346.m3u8
 
 #EXTINF:0,Ленфильм
 #EXTGRP: Кино
@@ -88,7 +91,7 @@ http://hls.goodgame.ru:80/hls/180118.m3u8
 http://hls.goodgame.ru:80/hls/180116.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: Кино
-http://play.101film.org:25461/813593/412167/151
+http://88.218.240.74:8586/crypted/hls/CH_MOSFILM/variant.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: Кино
 http://88.218.240.74:8586/crypted/hls/CH_MOSFILM/variant.m3u8?version=2
@@ -137,19 +140,19 @@ http://178.163.24.25:4022/udp/234.0.0.219:2000
 http://46.8.46.4:8080/domkino/index.m3u8
 #EXTINF:0,Дом Кино 4
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/68.m3u8
+http://87.251.176.10:8080/63/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
 http://46.8.46.4/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кино ТВ
+#EXTINF:0,Кино ТВ 2
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/82.m3u8
+http://40791904.cbilant.com/iptv/B9HTV5FNS8G6VH/732/index.m3u8
 #EXTINF:0,Иллюзион +
 #EXTGRP: Кино
 http://31.128.159.9:80/illusionplus/mpegts
 #EXTINF:0,Иллюзион +
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/77.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULLUSIONPLUS.m3u8
 #EXTINF:0,#Кинопоказ
 #EXTGRP: Кино
 http://31.128.159.9/kinopokaz/mpegts
@@ -177,26 +180,26 @@ http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_1.m3u8
 http://live-ng-01.more.tv/hls/VIP_SERIAL/index_1.m3u8
 #EXTINF:0,TV1000 Action
 #EXTGRP: Кино
-http://live-ng-01.more.tv/hls/TV1000_Action_HD/index_1.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TV1000ACTIONHD.m3u8
 #EXTINF:0,TV1000
 #EXTGRP: Кино
-http://live-ng-01.more.tv/hls/TV1000_HD/index_1.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TV1000HD.m3u8
 #EXTINF:0,TV1000 Русское кино
 #EXTGRP: Кино
-http://live-ng-01.more.tv/hls/TV1000_Russian_Kino_HD/master.m3u8
+http://185.36.100.33/tv1000rukino/index.m3u8
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
 http://46.8.46.4:8080/kinohit/playlist.m3u8
 #EXTINF:0,Кинохит 2
 #EXTGRP: Кино
-http://s06.iptvx.tv:8090/s/c2022c69/kinohit-hd.m3u8
+http://88.218.240.74:8586/crypted/hls/CH_KINOHITHD/variant.m3u8
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://s06.iptvx.tv:8090/s/c2022c69/kinomix-hd.m3u8
+http://87.251.176.10:8080/85/tracks-v1a1/mono.m3u8
 #EXTINF:0,КИНОМИКС 2
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/105.m3u8
+http://87.251.176.10:8080/85/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
 http://45.15.112.4:8082/205/mpegts
@@ -220,10 +223,10 @@ http://zigfreed.ru/Y3O/113.m3u8
 https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/173.m3u8
+http://87.251.176.10:8080/41/playlist.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/137.m3u8
+http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
 #EXTINF:0,Любимое кино 2
 #EXTGRP: Кино
 http://zigfreed.ru/Y3O/138.m3u8  
@@ -628,6 +631,8 @@ http://zigfreed.ru/Y3O/1912.m3u8
 http://zigfreed.ru/Y3O/1908.m3u8
 
 
+
+
 #EXTINF:0,Бигуди
 #EXTGRP: Украина
 http://185.189.184.7:8888/Bigudi/index.m3u8?token=test
@@ -671,6 +676,8 @@ http://188.35.9.11:2001/index.m3u8
 #EXTINF:0,Simon TV (Харьков)
 #EXTGRP: Украина
 https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
+
+
 
 
 #EXTINF:0,Камин
