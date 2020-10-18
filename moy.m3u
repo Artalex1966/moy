@@ -116,7 +116,7 @@ http://mnogotv.club:8084/tv/ch191/playlist.m3u8
 http://62.122.88.22:81/udp/239.1.9.38:1234
 #EXTINF:0,Советское Кино2
 #EXTGRP: Кино
-
+http://62.122.91.178:2732/udp/239.1.9.38:1234
 #EXTINF:0,Любимое TV
 #EXTGRP: Кино
 https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
@@ -458,7 +458,7 @@ https://sc.id-tv.kz/Pobeda_36_37.m3u8
 
 #EXTINF:0,Тайна
 #EXTGRP: Познавательные
-
+http://62.122.91.178:2732/udp/239.1.9.44:1234
 #EXTINF:0,Оружие
 #EXTGRP: Познавательные
 http://46.8.46.4:8080/Oruzhie/playlist.m3u8
@@ -611,7 +611,7 @@ http://217.25.216.4:8085/udp/225.1.2.82:2020
 http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:0,Hustler HD
 #EXTGRP: Познавательное
-
+http://62.122.91.178:2732/udp/239.1.13.5:1234
 #EXTINF:0,Redlight HD
 #EXTGRP: Познавательное
 
@@ -623,10 +623,10 @@ http://live.redtraffic.xyz/russian.m3u8
 
 #EXTINF:0,xtr
 #EXTGRP: Познавательное
-
+http://62.122.91.178:2732/udp/239.1.13.4:1234
 #EXTINF:0,xtr2
 #EXTGRP: Познавательное
-
+http://62.122.91.178:2732/udp/239.1.12.14:1234
 
 
 
