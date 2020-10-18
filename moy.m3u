@@ -2,15 +2,15 @@
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
 http://v2.catcast.me/content/37739/index.m3u8
+
 #EXTINF:0,Музыка 1
 #EXTGRP: Музыка
 http://v2.catcast.me/content/37745/index.m3u8
 #EXTINF:0,Музыка 2
 #EXTGRP: Музыка
 http://v2.catcast.me/content/37742/index.m3u8
-#EXTINF:0,Музыка 2-1
-#EXTGRP: Музыка
-http://zigfreed.ru/Y3O/690.m3u8
+
+
 
 #EXTINF:0,Россия 1 HD
 #EXTGRP: эфир
@@ -20,7 +20,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2&checkedby:iptvcat.com
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
-http://s06.iptvx.tv:8090/s/c2022c69/rossija-hd.m3u8
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIA1.m3u8
 #EXTINF:0,Россия 1 (+6)
 http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
 #EXTINF:0,Первый канал
@@ -31,7 +31,7 @@ http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 #EXTINF:0,Рен ТВ HD
 #EXTGRP: эфир
-http://89.189.191.250/239.211.6.52/stream.m3u8
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:0,Рен ТВ 
 #EXTGRP: эфир
 http://88.218.240.74:8586/crypted/hls/CH_RENTV/variant.m3u8
@@ -48,13 +48,13 @@ http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 https://v2.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,КИНО 1 INTERNATIONAL HD
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/81.m3u8
+
 #EXTINF:0,Детское кино International
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Детское кино International 2
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/67.m3u8
+
 #EXTINF:0,МультСказки
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/38850/index.m3u8
@@ -104,7 +104,7 @@ http://hls.goodgame.ru:80/hls/180117.m3u8
 http://v2.catcast.me/content/36506/index.m3u8
 #EXTINF:0,СССР 1
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/16.m3u8
+
 #EXTINF:0,СССР 2
 #EXTGRP: Кино
 https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
@@ -116,7 +116,7 @@ http://mnogotv.club:8084/tv/ch191/playlist.m3u8
 http://62.122.88.22:81/udp/239.1.9.38:1234
 #EXTINF:0,Советское Кино2
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/171.m3u8
+
 #EXTINF:0,Любимое TV
 #EXTGRP: Кино
 https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
@@ -168,13 +168,13 @@ http://78.129.228.178/iptv/W28DYVFET2WZ2Z/5054/index.m3u8
 https://sc.id-tv.kz/Pobeda_34_35.m3u8
 #EXTINF:0,ViP Comedy HD
 #EXTGRP: Кино
-http://live-ng-01.more.tv/hls/ViP_Comedy_HD/index_1.m3u8
+http://176.98.26.37:8000/live/tivi/best/11.m3u8
 #EXTINF:0,ViP Megahit HD
 #EXTGRP: Кино
-http://live-ng-01.more.tv/hls/ViP_Megahit_HD/index_4.m3u8
+http://176.98.26.37:8000/live/tivi/best/10.m3u8
 #EXTINF:0,ViP Premiere HD
 #EXTGRP: Кино
-http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_1.m3u8
+http://176.98.26.37:8000/live/tivi/best/12.m3u8
 #EXTINF:0,ViP Serial HD
 #EXTGRP: Кино
 http://live-ng-01.more.tv/hls/VIP_SERIAL/index_1.m3u8
@@ -190,7 +190,7 @@ http://185.36.100.33/tv1000rukino/index.m3u8
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://46.8.46.4:8080/kinohit/playlist.m3u8
+http://89.189.191.250/239.211.211.142/stream.m3u8
 #EXTINF:0,Кинохит 2
 #EXTGRP: Кино
 http://88.218.240.74:8586/crypted/hls/CH_KINOHITHD/variant.m3u8
@@ -205,19 +205,19 @@ http://87.251.176.10:8080/85/tracks-v1a1/mono.m3u8
 http://45.15.112.4:8082/205/mpegts
 #EXTINF:0,Кинопремьера 2
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/110.m3u8
+
 #EXTINF:0, Киносвидание
 #EXTGRP: Кино
 http://93.158.222.99/kinosvidanie/index.m3u8
 #EXTINF:0, Киносвидание 2
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/111.m3u8
+
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
 http://93.158.222.99/kinosemya/index.m3u8
 #EXTINF:0,Киносемья 2
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/113.m3u8
+
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
 https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
@@ -229,17 +229,16 @@ http://87.251.176.10:8080/41/playlist.m3u8
 http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
 #EXTINF:0,Любимое кино 2
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/138.m3u8  
+ 
 #EXTINF:0,Кинокомедия
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/104.m3u8
+
 
 #EXTINF:0,КиноСериал
 #EXTGRP: Кино
 https://v2.catcast.tv/content/37388/index.m3u8
 #EXTINF:0,КиноСериал 2
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/34.m3u8
 
 
 #EXTINF:0,Русский детектив
@@ -262,16 +261,16 @@ https://hls.goodgame.ru/hls/175764.m3u8
 http://mnogotv.club:8280/fre/ch2521/index.m3u8
 #EXTINF:0,Мужское Кино
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/141.m3u8
+http://89.189.191.250/239.211.211.145/stream.m3u8
 #EXTINF:0,Мужское Кино FHD
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/132.m3u8
+http://188.35.9.11:2022
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: Кино
 http://188.35.9.11:2015
 #EXTINF:0,Остросюжетное
 #EXTGRP: Кино
-http://zigfreed.ru/Y3O/158.m3u8
+
 #EXTINF:0,Интересное ТВ
 #EXTGRP: Кино
 http://93.158.222.99/interesnoetv/index.m3u8
@@ -459,7 +458,6 @@ https://sc.id-tv.kz/Pobeda_36_37.m3u8
 
 #EXTINF:0,Тайна
 #EXTGRP: Познавательные
-http://zigfreed.ru/Y3O/186.m3u8
 
 #EXTINF:0,Оружие
 #EXTGRP: Познавательные
@@ -613,22 +611,21 @@ http://217.25.216.4:8085/udp/225.1.2.82:2020
 http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:0,Hustler HD
 #EXTGRP: Познавательное
-http://zigfreed.ru/Y3O/1888.m3u8
+
 #EXTINF:0,Redlight HD
 #EXTGRP: Познавательное
-http://zigfreed.ru/Y3O/1907.m3u8
+
 #EXTINF:0,Brazzers TV
 #EXTGRP: Познавательное
-http://zigfreed.ru/Y3O/1872.m3u8
+
 #EXTINF:0,Private TV HD
 #EXTGRP: Познавательное
-http://zigfreed.ru/Y3O/1905.m3u8
+
 #EXTINF:0,xtr
 #EXTGRP: Познавательное
-http://zigfreed.ru/Y3O/1912.m3u8
+
 #EXTINF:0,xtr2
 #EXTGRP: Познавательное
-http://zigfreed.ru/Y3O/1908.m3u8
 
 
 
@@ -695,10 +692,11 @@ https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
 #EXTINF:0,Relax
 #EXTGRP: Релакс
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
-#EXTINF:0,Relax000
-#EXTGRP: Релакс
-http://zigfreed.ru/Y3O/973.m3u8
+
 
 #EXTINF:0,Dogma - Magical Chants
 #EXTGRP: Релакс
 http://listen2.myradio24.com:9000/8226
+#EXTINF:0,Музыка Кино2
+#EXTGRP: Музыка
+http://autopilot.catcast.tv/content/37739/index.m3u8
