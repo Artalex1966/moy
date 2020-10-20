@@ -227,38 +227,203 @@ http://87.251.176.10:8080/41/playlist.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
 http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
-#EXTINF:0,Любимое кино 2
-#EXTGRP: Кино
- 
-#EXTINF:0,Кинокомедия
-#EXTGRP: Кино
 
+---
+#EXTINF:0 group-title="Кино" tvg-id="kinopremiera-hd" tvg-logo="https://cbilling.pw/img/streams/kinopremiera-hd.png" tvg-rec="7",Кинопремьера HD!
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/kinopremiera-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinopremiera-hd-orig" tvg-logo="https://cbilling.pw/img/streams/kinopremiera-hd-orig.png" tvg-rec="7",Кинопремьера HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/kinopremiera-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kino-premium-hd" tvg-logo="https://cbilling.pw/img/streams/kino-premium-hd.png" tvg-rec="7",Премиальное HD!
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/kino-premium-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kino-premium-hd-orig" tvg-logo="https://cbilling.pw/img/streams/kino-premium-hd-orig.png" tvg-rec="7",Премиальное HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/kino-premium-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="ostrosujetnoe-hd" tvg-logo="https://cbilling.pw/img/streams/ostrosujetnoe-hd.png" tvg-rec="7",Остросюжетное HD!
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/ostrosujetnoe-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="ostrosujetnoe-hd-orig" tvg-logo="https://cbilling.pw/img/streams/ostrosujetnoe-hd-orig.png" tvg-rec="7",Остросюжетное HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/ostrosujetnoe-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="hit-hd" tvg-logo="https://cbilling.pw/img/streams/hit-hd.png" tvg-rec="7",Хит HD!
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/hit-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="hit-hd-orig" tvg-logo="https://cbilling.pw/img/streams/hit-hd-orig.png" tvg-rec="7",Хит HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/hit-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinohit" tvg-logo="https://cbilling.pw/img/streams/kinohit.png" tvg-rec="7",Кинохит
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/kinohit.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinohit-hd" tvg-logo="https://cbilling.pw/img/streams/kinohit-hd.png" tvg-rec="7",Кинохит HD!
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/kinohit-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinohit-hd-orig" tvg-logo="https://cbilling.pw/img/streams/kinohit-hd-orig.png" tvg-rec="7",Кинохит HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/kinohit-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinomix" tvg-logo="https://cbilling.pw/img/streams/kinomix.png" tvg-rec="7",Киномикс
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/kinomix.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinomix-hd" tvg-logo="https://cbilling.pw/img/streams/kinomix-hd.png" tvg-rec="7",Киномикс HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/kinomix-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinosemja" tvg-logo="https://cbilling.pw/img/streams/kinosemja.png" tvg-rec="7",Киносемья
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/kinosemja.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinosemja-hd" tvg-logo="https://cbilling.pw/img/streams/kinosemja-hd.png" tvg-rec="7",Киносемья HD!
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/kinosemja-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinosemja-hd-orig" tvg-logo="https://cbilling.pw/img/streams/kinosemja-hd-orig.png" tvg-rec="7",Киносемья HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/kinosemja-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinosvidanije" tvg-logo="https://cbilling.pw/img/streams/kinosvidanije.png" tvg-rec="7",КИНОСВИДАНИЕ
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/kinosvidanije.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinosvidanije-hd" tvg-logo="https://cbilling.pw/img/streams/kinosvidanije-hd.png" tvg-rec="7",КИНОСВИДАНИЕ HD!
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/kinosvidanije-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mnogo-tv" tvg-logo="https://cbilling.pw/img/streams/mnogo-tv.png" tvg-rec="7",Киносерия
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/mnogo-tv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinosvidanije-hd-orig" tvg-logo="https://cbilling.pw/img/streams/kinosvidanije-hd-orig.png" tvg-rec="7",КИНОСВИДАНИЕ HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/kinosvidanije-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mnogo-tv-hd" tvg-logo="https://cbilling.pw/img/streams/mnogo-tv-hd.png" tvg-rec="7",Киносерия HD!
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/mnogo-tv-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mnogo-tv-hd-orig" tvg-logo="https://cbilling.pw/img/streams/mnogo-tv-hd-orig.png" tvg-rec="7",Киносерия HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/mnogo-tv-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinopokaz" tvg-logo="https://cbilling.pw/img/streams/kinopokaz.png" tvg-rec="7",Кинопоказ
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/kinopokaz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinopokaz-hd" tvg-logo="https://cbilling.pw/img/streams/kinopokaz-hd.png" tvg-rec="7",Кинопоказ HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/kinopokaz-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="blokbaster-hd" tvg-logo="https://cbilling.pw/img/streams/blokbaster-hd.png" tvg-rec="7",Блокбастер HD!
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/blokbaster-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="blokbaster-hd-orig" tvg-logo="https://cbilling.pw/img/streams/blokbaster-hd-orig.png" tvg-rec="7",Блокбастер HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/blokbaster-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nash-kinopokaz-hd" tvg-logo="https://cbilling.pw/img/streams/nash-kinopokaz-hd.png" tvg-rec="7",Наш Кинопоказ HD!
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/nash-kinopokaz-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nash-kinopokaz-hd-orig" tvg-logo="https://cbilling.pw/img/streams/nash-kinopokaz-hd-orig.png" tvg-rec="7",Наш Кинопоказ HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/nash-kinopokaz-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nash-kinoroman-hd" tvg-logo="https://cbilling.pw/img/streams/nash-kinoroman-hd.png" tvg-rec="7",Наш Кинороман HD!
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/nash-kinoroman-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nash-kinoroman-hd-orig" tvg-logo="https://cbilling.pw/img/streams/nash-kinoroman-hd-orig.png" tvg-rec="7",Наш Кинороман HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/nash-kinoroman-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nash-detektiv-hd" tvg-logo="https://cbilling.pw/img/streams/nash-detektiv-hd.png" tvg-rec="7",Наше HD!
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/nash-detektiv-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nashe-krutoe-hd-orig" tvg-logo="https://cbilling.pw/img/streams/nashe-krutoe-hd-orig.png" tvg-rec="7",Наше HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/nashe-krutoe-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nashe-lubimoe-hd" tvg-logo="https://cbilling.pw/img/streams/nashe-lubimoe-hd.png" tvg-rec="7",Любимое HD!
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/nashe-lubimoe-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nashe-lubimoe-hd-orig" tvg-logo="https://cbilling.pw/img/streams/nashe-lubimoe-hd-orig.png" tvg-rec="7",Любимое HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/nashe-lubimoe-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-premium-hd" tvg-logo="https://cbilling.pw/img/streams/tv1000-premium-hd.png" tvg-rec="7",VIP Premiere!
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/tv1000-premium-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="vip-premiere-hd-orig" tvg-logo="https://cbilling.pw/img/streams/vip-premiere-hd-orig.png" tvg-rec="7",VIP Premiere
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/vip-premiere-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-megahit-hd" tvg-logo="https://cbilling.pw/img/streams/tv1000-megahit-hd.png" tvg-rec="7",VIP Megahit!
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/tv1000-megahit-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="vip-megahit-hd-orig" tvg-logo="https://cbilling.pw/img/streams/vip-megahit-hd-orig.png" tvg-rec="7",VIP Megahit
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/vip-megahit-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-comedy-hd" tvg-logo="https://cbilling.pw/img/streams/tv1000-comedy-hd.png" tvg-rec="7",VIP Comedy!
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/tv1000-comedy-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="vip-comedy-hd-orig" tvg-logo="https://cbilling.pw/img/streams/vip-comedy-hd-orig.png" tvg-rec="7",VIP Comedy
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/vip-comedy-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="vip-serial-hd" tvg-logo="https://cbilling.pw/img/streams/vip-serial-hd.png" tvg-rec="7",VIP Serial!
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/vip-serial-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="vip-serial-hd-orig" tvg-logo="https://cbilling.pw/img/streams/vip-serial-hd-orig.png" tvg-rec="7",VIP Serial
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/vip-serial-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000" tvg-logo="https://cbilling.pw/img/streams/tv1000.png" tvg-rec="7",TV1000
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/tv1000.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-hd" tvg-logo="https://cbilling.pw/img/streams/tv1000-hd.png" tvg-rec="7",TV1000 HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/tv1000-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-action" tvg-logo="https://cbilling.pw/img/streams/tv1000-action.png" tvg-rec="7",TV1000 Action
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/tv1000-action.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-action-hd" tvg-logo="https://cbilling.pw/img/streams/tv1000-action-hd.png" tvg-rec="7",TV1000 Action HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/tv1000-action-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-ru-kino" tvg-logo="https://cbilling.pw/img/streams/tv1000-ru-kino.png" tvg-rec="7",TV1000 Русское Кино
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/tv1000-ru-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-russkoje-hd" tvg-logo="https://cbilling.pw/img/streams/tv1000-russkoje-hd.png" tvg-rec="7",TV1000 Русское Кино HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/tv1000-russkoje-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mgm-hd" tvg-logo="https://cbilling.pw/img/streams/mgm-hd.png" tvg-rec="7",Hollywood HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/mgm-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="cinema" tvg-logo="https://cbilling.pw/img/streams/cinema.png" tvg-rec="7",Cinema
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/cinema.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kino-tv" tvg-logo="https://cbilling.pw/img/streams/kino-tv.png" tvg-rec="7",Кино ТВ
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/kino-tv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kino-tv-hd" tvg-logo="https://cbilling.pw/img/streams/kino-tv-hd.png" tvg-rec="7",Кино ТВ HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/kino-tv-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="evrokino" tvg-logo="https://cbilling.pw/img/streams/evrokino.png" tvg-rec="7",Еврокино
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/evrokino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="evrokino-hd" tvg-logo="https://cbilling.pw/img/streams/evrokino-hd.png" tvg-rec="7",Еврокино HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/evrokino-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="muzhskoe-kino" tvg-logo="https://cbilling.pw/img/streams/muzhskoe-kino.png" tvg-rec="7",Мужское кино
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/muzhskoe-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="muzhskoe-kino-hd" tvg-logo="https://cbilling.pw/img/streams/muzhskoe-kino-hd.png" tvg-rec="7",МУЖСКОЕ КИНО HD!
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/muzhskoe-kino-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="muzhskoe-kino-hd-orig" tvg-logo="https://cbilling.pw/img/streams/muzhskoe-kino-hd-orig.png" tvg-rec="7",МУЖСКОЕ КИНО HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/muzhskoe-kino-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nashe-muzshkoe-hd" tvg-logo="https://cbilling.pw/img/streams/nashe-muzshkoe-hd.png" tvg-rec="7",Наше Мужское HD!
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/nashe-muzshkoe-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nashe-muzshkoe-hd-orig" tvg-logo="https://cbilling.pw/img/streams/nashe-muzshkoe-hd-orig.png" tvg-rec="7",Наше Мужское HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/nashe-muzshkoe-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="trash-hd" tvg-logo="https://cbilling.pw/img/streams/trash-hd.png" tvg-rec="7",Trash HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/trash-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="egoist-tv" tvg-logo="https://cbilling.pw/img/streams/egoist-tv.png" tvg-rec="7",SHOT TV
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/egoist-tv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="pobeda" tvg-logo="https://cbilling.pw/img/streams/pobeda.png" tvg-rec="7",Победа
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/pobeda.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="pobeda-hd" tvg-logo="https://cbilling.pw/img/streams/pobeda-hd.png" tvg-rec="7",Победа HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/pobeda-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="den-pobedy-hd" tvg-logo="https://cbilling.pw/img/streams/den-pobedy-hd.png" tvg-rec="7",День Победы HD
+#EXTGRP:Кино
+http://s06.iptvx.tv:8090/s/0354ee41_2/den-pobedy-hd.m3u8
 
-#EXTINF:0,КиноСериал
-#EXTGRP: Кино
-https://v2.catcast.tv/content/37388/index.m3u8
-#EXTINF:0,КиноСериал 2
-#EXTGRP: Кино
+----
 
-
-#EXTINF:0,Русский детектив
-#EXTGRP: Кино
-http://87.251.176.10:8080/143/index.m3u8?bw1571164348.m3u8
-#EXTINF:0,Русский Бестселлер
-#EXTGRP: Кино
-http://46.8.46.4/rubestseller/index.m3u8
-#EXTINF:0,Сити Эдем TV
-#EXTGRP: Кино
-http://v2.catcast.me/content/34246/index.m3u8
-#EXTINF:0,VIP Family
-#EXTGRP: Кино
-http://188.93.95.83:80/tv5/index.m3u8
-#EXTINF:0,VHS VIDEOSALON
-#EXTGRP: Кино
-https://hls.goodgame.ru/hls/175764.m3u8
-#EXTINF:0,День Победы
-#EXTGRP: Кино
-http://mnogotv.club:8280/fre/ch2521/index.m3u8
 #EXTINF:0,Мужское Кино
 #EXTGRP: Кино
 http://89.189.191.250/239.211.211.145/stream.m3u8
