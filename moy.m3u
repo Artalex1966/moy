@@ -91,7 +91,7 @@ http://hls.goodgame.ru:80/hls/180118.m3u8
 http://hls.goodgame.ru:80/hls/180116.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: Кино
-http://88.218.240.74:8586/crypted/hls/CH_MOSFILM/variant.m3u8
+http://s02.iptvx.tv:8090/s/0354ee41_2/mosfilm.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: Кино
 http://88.218.240.74:8586/crypted/hls/CH_MOSFILM/variant.m3u8?version=2
@@ -122,9 +122,9 @@ http://62.122.91.178:2732/udp/239.1.9.38:1234
 https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
 #EXTINF:0,Любимое ТВ
 https://strm.yandex.ru/kal/lovedtv/lovedtv0.m3u8
-#EXTINF:0,Любимое
+#EXTINF:0,Любимое кино
 #EXTGRP: Кино
-http://s06.iptvx.tv:8090/s/c2022c69/nashe-lubimoe-hd.m3u8
+http://s02.iptvx.tv:8090/s/0354ee41_2/lubimoe-kino.m3u8
 #EXTINF:0,Сделано в CCCP
 #EXTGRP: Кино
 http://cdn-lc9nyc5z.playlist-24.xyz/ussr/playlist.m3u8?token=besbwSOWExruZGimb9mee3lrRroezuxb4xBkMZ8ac3dR58apTpwlM82qdaRy6_BhfUctpyLM_nd9RS_TynCrb7g_hRbzmDMwD9KNAiCRxyM
@@ -140,7 +140,7 @@ http://178.163.24.25:4022/udp/234.0.0.219:2000
 http://178.163.60.244:4022/udp/234.0.0.219:2000
 #EXTINF:0,Дом Кино 4
 #EXTGRP: Кино
-http://87.251.176.10:8080/63/tracks-v1a1/mono.m3u8
+http://s06.iptvx.tv:8090/s/a4f90c7f_2/dom-kino.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
 http://46.8.46.4/kinotv/tracks-v1a1/mono.m3u8
@@ -612,15 +612,21 @@ http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:0,Hustler HD
 #EXTGRP: Познавательное
 http://62.122.91.178:2732/udp/239.1.13.5:1234
+#EXTINF:0,Blue Hustler
+#EXTGRP: Познавательное
+http://s02.iptvx.tv/blue-hustler/video.m3u8?token=6ae12030
 #EXTINF:0,Redlight HD
 #EXTGRP: Познавательное
-
+http://s02.iptvx.tv/redlight-hd/video.m3u8?token=6ae12030
 #EXTINF:0,Brazzers TV
 #EXTGRP: Познавательное
-
+http://s02.iptvx.tv/brazzers-tv/video.m3u8?token=6ae12030
+#EXTINF:0,Penthouse Gold
+#EXTGRP: Познавательное
+http://s02.iptvx.tv/penthouse1-hd/video.m3u8?token=6ae12030
 #EXTINF:0,Private TV HD
 #EXTGRP: Познавательное
-
+http://s02.iptvx.tv/private-tv/video.m3u8?token=6ae12030
 #EXTINF:0,xtr
 #EXTGRP: Познавательное
 http://62.122.91.178:2732/udp/239.1.13.4:1234
