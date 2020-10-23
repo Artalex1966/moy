@@ -137,6 +137,9 @@ http://cdn-lc9nyc5z.playlist-24.xyz/ussr/playlist.m3u8?token=besbwSOWExruZGimb9m
 #EXTINF:0,TOP СССР
 #EXTGRP: Кино
 http://mnogotv.club:8084/tv/ch197/playlist.m3u8
+#EXTINF:0,Ретро
+#EXTGRP: Кино
+http://89.189.191.250/239.211.211.58/stream.m3u8
 
 #EXTINF:0,Дом кино
 #EXTGRP: Кино
