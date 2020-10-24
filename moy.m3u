@@ -11,18 +11,19 @@ http://v2.catcast.me/content/37745/index.m3u8
 http://v2.catcast.me/content/37742/index.m3u8
 
 
-
-#EXTINF:0,Россия 1 (Екатеринбург)
+#EXTINF:0,Россия 1 HD
 #EXTGRP: эфир
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_EKT/variant.m3u8?version=2
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIA1.m3u8
+
 #EXTINF:0,Россия 1 (-1)
 #EXTGRP: эфир
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2&checkedby:iptvcat.com
 #EXTINF:0,Россия 1 (+3)
 #EXTGRP: эфир
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIA1.m3u8
-#EXTINF:0,Россия 1 (+6)
-http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
+#EXTINF:0,Россия 1 (Екатеринбург)
+#EXTGRP: эфир
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_EKT/variant.m3u8?version=2
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
@@ -34,7 +35,10 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:0,Рен ТВ 
 #EXTGRP: эфир
-http://88.218.240.74:8586/crypted/hls/CH_RENTV/variant.m3u8
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_RENTV.m3u8
+#EXTINF:0,СТС 
+#EXTGRP: эфир
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_STS.m3u8
 
 #EXTINF:0,Красная линия 
 #EXTGRP: Кино
@@ -43,12 +47,12 @@ https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTGRP: Кино
 http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 
-#EXTINF:0,Кино 1
+#EXTINF:0,КИНО 1 INTERNATIONAL
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38617/index.m3u8
-#EXTINF:0,КИНО 1 INTERNATIONAL HD
+#EXTINF:0,Фильмы 1 
 #EXTGRP: Кино
-
+http://hls.goodgame.ru/hls/90492.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38720/index.m3u8
@@ -95,12 +99,15 @@ https://s3.catcast.tv/content/39130/index.m3u8
 #EXTINF:0,МосфильМ
 #EXTGRP: Кино
 https://s3.catcast.tv/content/38891/index.m3u8
+#EXTINF:0,Киностудия им. Довженко
+#EXTGRP: Кино
+https://s3.catcast.tv/content/39339/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: Кино
 http://s01.iptvx.tv:8090/s/cdbf268b/mosfilm.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: Кино
-http://88.218.240.74:8586/crypted/hls/CH_MOSFILM/variant.m3u8?version=2
+http://xiptv.site/iptvteam.flv
 #EXTINF:0,СССР 000
 #EXTGRP: Кино
 http://hls.goodgame.ru:80/hls/180117.m3u8
@@ -137,6 +144,9 @@ http://cdn-lc9nyc5z.playlist-24.xyz/ussr/playlist.m3u8?token=besbwSOWExruZGimb9m
 #EXTINF:0,TOP СССР
 #EXTGRP: Кино
 http://mnogotv.club:8084/tv/ch197/playlist.m3u8
+#EXTINF:0,TOP 80s
+#EXTGRP: Кино
+http://mnogotv.club:8084/tv/ch144/playlist.m3u8
 #EXTINF:0,Ретро
 #EXTGRP: Кино
 http://89.189.191.250/239.211.211.58/stream.m3u8
@@ -153,6 +163,12 @@ http://178.163.60.244:4022/udp/234.0.0.219:2000
 #EXTINF:0,Дом Кино 4
 #EXTGRP: Кино
 http://persik.by/stream/1105/91303/10228.m3u8
+#EXTINF:0,Russian Комедии
+#EXTGRP: Кино
+https://v2.catcast.tv/content/36168/index.m3u8
+#EXTINF:0,Русская комедия
+#EXTGRP: Кино
+http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
 #EXTINF:0,Русский детектив
 #EXTGRP: Кино
 http://89.189.191.250/239.211.211.95/stream.m3u8
@@ -183,7 +199,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://78.129.228.178/iptv/W28DYVFET2WZ2Z/5054/index.m3u8
 #EXTINF:0,Победа
 #EXTGRP: Кино
-https://sc.id-tv.kz/Pobeda_34_35.m3u8
+http://109.239.208.82:80/pobeda/index.m3u8
 #EXTINF:0,ViP Comedy HD
 #EXTGRP: Кино
 http://e01.plius.tv:64144/n208/index.m3u8
@@ -560,3 +576,14 @@ http://listen2.myradio24.com:9000/8226
 #EXTINF:0,Музыка Кино2
 #EXTGRP: Музыка
 http://autopilot.catcast.tv/content/37739/index.m3u8
+
+
+#EXTINF:0,Блог 1
+#EXTGRP: Блог
+http://hls.goodgame.ru/hls/6147.m3u8
+#EXTINF:0,Блог 2
+#EXTGRP: Блог
+http://hls.goodgame.ru/hls/33226.m3u8
+#EXTINF:0,Блог 3
+#EXTGRP: Блог
+http://hls.goodgame.ru/hls/71852.m3u8
