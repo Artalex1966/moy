@@ -121,10 +121,10 @@ http://v2.catcast.me/content/36506/index.m3u8
 #EXTINF:0,Фильмы СССР
 #EXTGRP: Кино
 https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
-#EXTINF:0,Советские
+#EXTINF:0,Советское Кино
 #EXTGRP: Кино
 http://mnogotv.club:8084/tv/ch191/playlist.m3u8
-#EXTINF:0,Советское Кино
+#EXTINF:0,Советские
 #EXTGRP: Кино
 http://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,Советское Кино2
