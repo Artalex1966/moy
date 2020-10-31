@@ -15,12 +15,12 @@ http://v2.catcast.me/content/37742/index.m3u8
 #EXTGRP: эфир
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIA1.m3u8
 
-#EXTINF:0,Россия 1 (-1)
+#EXTINF:0,Россия 1 (1)
 #EXTGRP: эфир
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2&checkedby:iptvcat.com
-#EXTINF:0,Россия 1 (+3)
+#EXTINF:0,Россия 1 (0)
 #EXTGRP: эфир
-http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIA1.m3u8
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_3.m3u8
 #EXTINF:0,Россия 1 (Екатеринбург)
 #EXTGRP: эфир
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_EKT/variant.m3u8?version=2
@@ -118,7 +118,7 @@ http://v2.catcast.me/content/36506/index.m3u8
 #EXTINF:0,СССР 1
 #EXTGRP: Кино
 
-#EXTINF:0,СССР 2
+#EXTINF:0,Фильмы СССР
 #EXTGRP: Кино
 https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
 #EXTINF:0,Советские
@@ -126,7 +126,7 @@ https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
 http://mnogotv.club:8084/tv/ch191/playlist.m3u8
 #EXTINF:0,Советское Кино
 #EXTGRP: Кино
-http://62.122.88.22:81/udp/239.1.9.38:1234
+http://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,Советское Кино2
 #EXTGRP: Кино
 http://62.122.91.178:2732/udp/239.1.9.38:1234
@@ -193,7 +193,7 @@ http://31.128.159.9/kinopokaz/mpegts
 
 #EXTINF:0,Звезда
 #EXTGRP: Кино
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:0,День Победы HD
 #EXTGRP: Кино
 http://78.129.228.178/iptv/W28DYVFET2WZ2Z/5054/index.m3u8
@@ -517,7 +517,7 @@ http://185.189.184.7:8888/Bigudi/index.m3u8?token=test
 http://185.189.184.7:8888/Bigudi/index.m3u8?token=test
 #EXTINF:0,Enter Фильм
 #EXTGRP: Украина
-http://50.7.172.58:8081/529/index.m3u8?wmsAuthSign=1587136856p261i001i87i591S3498c10048b9952d190d4a5a2c0508d7
+http://playlist.hmara.tv/b2083d16/a289fc29e3319da1f45e27db3ed3944790c0f9f6.m3u8
 #EXTINF:0,ICTV
 #EXTGRP: Украина
 http://193.46.210.28/stream/7vzrgggqh9hi27shrnvecmyp9kduw789bgsrm5ak34mwjxhj3grg5a39tk3tc9pm2d4z8jz9dyi2bfpmeax3j75wc3ctwzpjq6xrkupf6hiaxm2447agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
