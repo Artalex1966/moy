@@ -14,7 +14,9 @@ http://v2.catcast.me/content/37742/index.m3u8
 #EXTINF:0,Россия 1 HD
 #EXTGRP: эфир
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIA1.m3u8
-
+#EXTINF:0,Россия 1 HD2
+#EXTGRP: эфир
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:0,Россия 1 (1)
 #EXTGRP: эфир
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2&checkedby:iptvcat.com
@@ -27,6 +29,9 @@ http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_EKT/variant.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+#EXTINF:0,Первый канал HD
+#EXTGRP: эфир
+http://tviptv.iptv-channel.ru:8000/live/t/v/1.ts
 #EXTINF:0,РТР Планета
 #EXTGRP: эфир
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
@@ -121,7 +126,7 @@ http://v2.catcast.me/content/36506/index.m3u8
 #EXTINF:0,Фильмы СССР
 #EXTGRP: Кино
 https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
-#EXTINF:0,Советское Кино
+#EXTINF:0,Советское КиноСоветские
 #EXTGRP: Кино
 http://mnogotv.club:8084/tv/ch191/playlist.m3u8
 #EXTINF:0,Советские
@@ -194,6 +199,9 @@ http://31.128.159.9/kinopokaz/mpegts
 #EXTINF:0,Звезда
 #EXTGRP: Кино
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:0,Звезда HD
+#EXTGRP: Кино
+http://tviptv.iptv-channel.ru:8000/live/t/v/9.ts
 #EXTINF:0,День Победы HD
 #EXTGRP: Кино
 http://78.129.228.178/iptv/W28DYVFET2WZ2Z/5054/index.m3u8
