@@ -44,6 +44,9 @@ http://dmitry-tv.my1.ru/his/DVB-T2/CH_RENTV.m3u8
 #EXTINF:0,СТС 
 #EXTGRP: эфир
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_STS.m3u8
+#EXTINF:0,ТВ Центр 
+#EXTGRP: эфир
+http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
 
 #EXTINF:0,Красная линия 
 #EXTGRP: Кино
@@ -55,9 +58,9 @@ http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 #EXTINF:0,КИНО 1 INTERNATIONAL
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38617/index.m3u8
-#EXTINF:0,Фильмы 1 
+#EXTINF:0,FILM TV 
 #EXTGRP: Кино
-http://hls.goodgame.ru/hls/90492.m3u8
+https://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38720/index.m3u8
@@ -68,8 +71,12 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/38850/index.m3u8
 
-#EXTINF:-1,Память ТВ
+#EXTINF:0,Память ТВ
+#EXTGRP: Кино
 https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:0,Память
+#EXTGRP: Кино
+https://v2.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,Видеопремьера
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/39161/index.m3u8
@@ -88,9 +95,9 @@ https://hls.goodgame.ru/hls/157239.m3u8
 #EXTINF:-1,Кино ТВ HD
 #EXTGRP: Кино
 http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/732/index.m3u8
-#EXTINF:0,Интересное ТВ
+#EXTINF:0,ТВ ДОМ HD
 #EXTGRP: Кино
-http://93.158.222.99/interesnoetv/index.m3u8
+https://s3.catcast.tv/content/39191/index.m3u8
 #EXTINF:0,Кинозаказ1
 #EXTGRP: Кино
 http://hls.goodgame.ru/hls/12949.m3u8
@@ -126,7 +133,7 @@ http://v2.catcast.me/content/36506/index.m3u8
 #EXTINF:0,Фильмы СССР
 #EXTGRP: Кино
 https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
-#EXTINF:0,Советское КиноСоветские
+#EXTINF:0,Советское Кино
 #EXTGRP: Кино
 http://mnogotv.club:8084/tv/ch191/playlist.m3u8
 #EXTINF:0,Советские
@@ -177,18 +184,18 @@ http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
 #EXTINF:0,Русский детектив
 #EXTGRP: Кино
 http://89.189.191.250/239.211.211.95/stream.m3u8
-#EXTINF:0,Север
+#EXTINF:0,Мужское кино HD
 #EXTGRP: Кино
-https://hls.goodgame.ru/hls/146065.m3u8
-#EXTINF:0,Кино ТВ
+http://tviptv.iptv-channel.ru:8000/live/t/v/37.ts
+#EXTINF:0,Кино ТВ HD
 #EXTGRP: Кино
-http://46.8.46.4/kinotv/tracks-v1a1/mono.m3u8
+http://tviptv.iptv-channel.ru:8000/live/t/v/43.ts
 #EXTINF:0,Кино ТВ 2
 #EXTGRP: Кино
 http://87.251.176.10:8080/159/index.m3u8
-#EXTINF:0,Иллюзион +
+#EXTINF:0,Остросюжетное
 #EXTGRP: Кино
-http://188.93.95.83/illuzionplus/index.m3u8
+http://tviptv.iptv-channel.ru:8000/live/t/v/51.ts
 #EXTINF:0,Иллюзион +
 #EXTGRP: Кино
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULLUSIONPLUS.m3u8
@@ -210,13 +217,13 @@ http://78.129.228.178/iptv/W28DYVFET2WZ2Z/5054/index.m3u8
 http://109.239.208.82:80/pobeda/index.m3u8
 #EXTINF:0,ViP Comedy HD
 #EXTGRP: Кино
-http://e01.plius.tv:64144/n208/index.m3u8
+http://tviptv.iptv-channel.ru:8000/live/t/v/45.ts
 #EXTINF:0,ViP Megahit HD
 #EXTGRP: Кино
-http://188.35.9.11:2016
+http://tviptv.iptv-channel.ru:8000/live/t/v/46.ts
 #EXTINF:0,ViP Premiere HD
 #EXTGRP: Кино
-http://78.129.228.178/iptv/8Y3N3B5F45Z9VE/202/index.m3u8
+http://tviptv.iptv-channel.ru:8000/live/t/v/44.ts
 #EXTINF:0,ViP Serial HD
 #EXTGRP: Кино
 http://live-ng-01.more.tv/hls/VIP_SERIAL/index_1.m3u8
@@ -228,7 +235,7 @@ http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TV1000ACTIONHD.m3u8
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TV1000HD.m3u8
 #EXTINF:0,TV1000 Русское кино
 #EXTGRP: Кино
-http://185.36.100.33/tv1000rukino/index.m3u8
+http://tviptv.iptv-channel.ru:8000/live/t/v/28.ts
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
@@ -349,47 +356,26 @@ http://45.15.112.4:8082/122/mpegts
 
 #EXTINF:0,Наука 2.0
 #EXTGRP: Познавательные
-http://89.189.191.250/239.211.211.10/stream.m3u8
+http://45.133.96.152:81/69/index.m3u8
 #EXTINF:0,Техно 24
 #EXTGRP: Познавательные
-http://188.93.95.83:80/24techno/index.m3u8
+http://45.133.96.152:81/42/index.m3u8
 #EXTINF:0,Техно 24 2
 #EXTGRP: Познавательные
 http://93.158.222.99/24techno/index.m3u8
 
-#EXTINF:0,Discovery Channel HD
-#EXTGRP: Познавательные
-http://live-ng-01.more.tv/hls/Discovery_HD/index_5.m3u8
 #EXTINF:0,Discovery Channel
 #EXTGRP: Познавательные
 http://79.142.197.8:8888/Discovery/index.m3u8
-
-#EXTINF:0,Discovery Channel FHD
-#EXTGRP: Познавательные
-http://live-ng-01.more.tv/hls/Discovery_HD/index_1.m3u8
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
 http://79.142.197.8:8888/Discovery/index.m3u8
-
 #EXTINF:0,Discovery Science HD
 #EXTGRP: Познавательные
-http://live-ng-01.more.tv/hls/Discovery_Science_HD/master.m3u8
-
+http://tviptv.iptv-channel.ru:8000/live/t/v/145.ts
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
 http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
-#EXTINF:0,Discovery Science
-
-#EXTINF:0,Discovery hd
-#EXTGRP: Познавательное
-http://astra.realcrimea.net:8000/play/a09z
-
-#EXTINF:0,Investigation Discovery
-#EXTGRP: Познавательные
-http://77.89.204.107:8000/play/a0b8/index.m3u8
-
-
-
 
 #EXTINF:0, Рен ТВ 
 #EXTGRP: эфир
@@ -505,12 +491,18 @@ http://s02.iptvx.tv/penthouse1-hd/video.m3u8?token=6ae12030
 #EXTINF:0,Private TV HD
 #EXTGRP: Познавательное
 http://s02.iptvx.tv/private-tv/video.m3u8?token=6ae12030
-#EXTINF:0,xtr
+#EXTINF:0,Big Ass HD
 #EXTGRP: Познавательное
-http://62.122.91.178:2732/udp/239.1.13.4:1234
-#EXTINF:0,xtr2
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigass.m3u8
+#EXTINF:0,Threesome HD
 #EXTGRP: Познавательное
-http://62.122.91.178:2732/udp/239.1.12.14:1234
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:0,AST TV HD
+#EXTGRP: Познавательное
+https://www.ast.tv/stream/1/high.m3u8
+#EXTINF:0,Shemale Tube TV 2
+#EXTGRP: Познавательное
+http://www.ast.tv/stream/2/master.m3u8
 
 
 
