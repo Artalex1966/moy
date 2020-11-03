@@ -29,15 +29,12 @@ http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_EKT/variant.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
-#EXTINF:0,Первый канал HD
-#EXTGRP: эфир
-http://tviptv.iptv-channel.ru:8000/live/t/v/1.ts
 #EXTINF:0,РТР Планета
 #EXTGRP: эфир
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
-#EXTINF:0,Рен ТВ HD
+#EXTINF:0,Рен ТВ *2
 #EXTGRP: эфир
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+http://178.158.181.8:1504/402
 #EXTINF:0,Рен ТВ 
 #EXTGRP: эфир
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_RENTV.m3u8
@@ -46,7 +43,7 @@ http://dmitry-tv.my1.ru/his/DVB-T2/CH_RENTV.m3u8
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_STS.m3u8
 #EXTINF:0,ТВ Центр 
 #EXTGRP: эфир
-http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
+http://178.158.181.8:1505/2113
 
 #EXTINF:0,Красная линия 
 #EXTGRP: Кино
@@ -147,6 +144,9 @@ http://62.122.91.178:2732/udp/239.1.9.38:1234
 https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
 #EXTINF:0,Любимое ТВ
 https://strm.yandex.ru/kal/lovedtv/lovedtv0.m3u8
+#EXTINF:0,Наше любимое
+#EXTGRP: Кино
+http://45.133.96.152:8000/play/a01x/index.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
 http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/722/index.m3u8
@@ -186,16 +186,13 @@ http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
 http://89.189.191.250/239.211.211.95/stream.m3u8
 #EXTINF:0,Мужское кино HD
 #EXTGRP: Кино
-http://tviptv.iptv-channel.ru:8000/live/t/v/37.ts
+http://178.158.181.8:1504/114
 #EXTINF:0,Кино ТВ HD
-#EXTGRP: Кино
-http://tviptv.iptv-channel.ru:8000/live/t/v/43.ts
-#EXTINF:0,Кино ТВ 2
 #EXTGRP: Кино
 http://87.251.176.10:8080/159/index.m3u8
 #EXTINF:0,Остросюжетное
 #EXTGRP: Кино
-http://tviptv.iptv-channel.ru:8000/live/t/v/51.ts
+http://45.133.96.152:8000/play/a01v/index.m3u8
 #EXTINF:0,Иллюзион +
 #EXTGRP: Кино
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULLUSIONPLUS.m3u8
@@ -206,21 +203,18 @@ http://31.128.159.9/kinopokaz/mpegts
 #EXTINF:0,Звезда
 #EXTGRP: Кино
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
-#EXTINF:0,Звезда HD
-#EXTGRP: Кино
-http://tviptv.iptv-channel.ru:8000/live/t/v/9.ts
 #EXTINF:0,День Победы HD
 #EXTGRP: Кино
 http://78.129.228.178/iptv/W28DYVFET2WZ2Z/5054/index.m3u8
 #EXTINF:0,Победа
 #EXTGRP: Кино
-http://109.239.208.82:80/pobeda/index.m3u8
+http://77.243.112.149:8080/pobeda/index.m3u8?token=413079063374
 #EXTINF:0,ViP Comedy HD
 #EXTGRP: Кино
 http://tviptv.iptv-channel.ru:8000/live/t/v/45.ts
 #EXTINF:0,ViP Megahit HD
 #EXTGRP: Кино
-http://tviptv.iptv-channel.ru:8000/live/t/v/46.ts
+http://188.35.9.11:2016
 #EXTINF:0,ViP Premiere HD
 #EXTGRP: Кино
 http://tviptv.iptv-channel.ru:8000/live/t/v/44.ts
@@ -470,12 +464,12 @@ http://217.25.216.4:8085/udp/225.1.2.82:2020
 #EXTINF:0,Adult Channel [Russian]
 #EXTGRP: Познавательное
 http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:0,Hustler
+#EXTINF:0,Playboy TV
 #EXTGRP: Познавательное
-http://elitex.me:8880/fabianajoao/UP42st/7395
+http://178.158.181.8:1505/2120
 #EXTINF:0,Hustler HD
 #EXTGRP: Познавательное
-http://62.122.91.178:2732/udp/239.1.13.5:1234
+http://77.243.112.149:8080/hustler_hd/index.m3u8?token=413079063374
 #EXTINF:0,Blue Hustler
 #EXTGRP: Познавательное
 http://s02.iptvx.tv/blue-hustler/video.m3u8?token=6ae12030
