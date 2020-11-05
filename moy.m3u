@@ -80,40 +80,31 @@ https://autopilot.catcast.tv/content/39161/index.m3u8
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38801/index.m3u8
-#EXTINF:0,Фантастика HD
-#EXTGRP: Кино
-https://hls.goodgame.ru/hls/178436.m3u8
 #EXTINF:-1,Фантастика Sci-Fi
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1,FAN
-#EXTGRP: Кино
-https://hls.goodgame.ru/hls/157239.m3u8
 #EXTINF:-1,Кино ТВ HD
 #EXTGRP: Кино
 http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/732/index.m3u8
 #EXTINF:0,ТВ ДОМ HD
 #EXTGRP: Кино
 https://s3.catcast.tv/content/39191/index.m3u8
-#EXTINF:0,Кинозаказ1
+#EXTINF:0,Мужское кино HD
 #EXTGRP: Кино
-http://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:0,Кинозаказ2
+http://87.251.176.10:8080/54/playlist.m3u8
+#EXTINF:0,Остросюжетное
 #EXTGRP: Кино
-http://hls.goodgame.ru/hls/5346.m3u8
+http://45.133.96.152:8000/play/a01v/index.m3u8
+#EXTINF:0,Иллюзион +
+#EXTGRP: Кино
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULLUSIONPLUS.m3u8
+#EXTINF:0,#Кинопоказ
+#EXTGRP: Кино
+http://188.35.9.11:2021
+#EXTINF:0,КиноСериал
+#EXTGRP: Кино
+https://v2.catcast.tv/content/37388/index.m3u8
 
-#EXTINF:0,Ленфильм
-#EXTGRP: Кино
-https://s3.catcast.tv/content/39130/index.m3u8
-#EXTINF:0,МосфильМ
-#EXTGRP: Кино
-https://s3.catcast.tv/content/38891/index.m3u8
-#EXTINF:0,Киностудия им. Довженко
-#EXTGRP: Кино
-https://s3.catcast.tv/content/39339/index.m3u8
-#EXTINF:0,Мосфильм. Золотая коллекция
-#EXTGRP: Кино
-http://s01.iptvx.tv:8090/s/cdbf268b/mosfilm.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: Кино
 http://xiptv.site/iptvteam.flv
@@ -184,24 +175,9 @@ http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
 #EXTINF:0,Русский детектив
 #EXTGRP: Кино
 http://89.189.191.250/239.211.211.95/stream.m3u8
-#EXTINF:0,Мужское кино HD
-#EXTGRP: Кино
-http://87.251.176.10:8080/54/playlist.m3u8
-#EXTINF:0,Кино ТВ HD
+#EXTINF:0,Кино ТВ HD2
 #EXTGRP: Кино
 http://87.251.176.10:8080/159/index.m3u8
-#EXTINF:0,Остросюжетное
-#EXTGRP: Кино
-http://45.133.96.152:8000/play/a01v/index.m3u8
-#EXTINF:0,Иллюзион +
-#EXTGRP: Кино
-http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULLUSIONPLUS.m3u8
-#EXTINF:0,#Кинопоказ
-#EXTGRP: Кино
-http://188.35.9.11:2021
-#EXTINF:0,КиноСериал
-#EXTGRP: Кино
-https://v2.catcast.tv/content/37388/index.m3u8
 
 #EXTINF:0,Звезда
 #EXTGRP: Кино
@@ -322,17 +298,6 @@ http://ultotv.ru:8888/live/uhd/chunks.m3u8
 #EXTINF:-1,Кино VHS
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38794/index.m3u8
-#EXTINF:0,FILM TV HD
-#EXTGRP: Кино
-http://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:-1 ,Кинозал  (Russian Комедии EVGENIY)
-https://v2.catcast.tv/content/36168/index.m3u8
-#EXTINF:0,КиноЗаказ 1
-#EXTGRP: Кино
-http://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:0,КиноЗаказ 2
-#EXTGRP: Кино
-http://hls.goodgame.ru/hls/5346.m3u8
 
 
 #EXTINF:0,Тайна
