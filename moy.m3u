@@ -34,7 +34,7 @@ http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 #EXTINF:0,Рен ТВ *2
 #EXTGRP: эфир
-http://178.158.181.8:1504/402
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_2.m3u8
 #EXTINF:0,Рен ТВ 
 #EXTGRP: эфир
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_RENTV.m3u8
@@ -43,7 +43,7 @@ http://dmitry-tv.my1.ru/his/DVB-T2/CH_RENTV.m3u8
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_STS.m3u8
 #EXTINF:0,ТВ Центр 
 #EXTGRP: эфир
-http://178.158.181.8:1505/2113
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TVC_1.m3u8
 
 #EXTINF:0,Красная линия 
 #EXTGRP: Кино
@@ -186,7 +186,7 @@ http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
 http://89.189.191.250/239.211.211.95/stream.m3u8
 #EXTINF:0,Мужское кино HD
 #EXTGRP: Кино
-http://178.158.181.8:1504/114
+http://87.251.176.10:8080/54/playlist.m3u8
 #EXTINF:0,Кино ТВ HD
 #EXTGRP: Кино
 http://87.251.176.10:8080/159/index.m3u8
@@ -198,7 +198,10 @@ http://45.133.96.152:8000/play/a01v/index.m3u8
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULLUSIONPLUS.m3u8
 #EXTINF:0,#Кинопоказ
 #EXTGRP: Кино
-http://31.128.159.9/kinopokaz/mpegts
+http://188.35.9.11:2021
+#EXTINF:0,КиноСериал
+#EXTGRP: Кино
+https://v2.catcast.tv/content/37388/index.m3u8
 
 #EXTINF:0,Звезда
 #EXTGRP: Кино
@@ -466,28 +469,34 @@ http://217.25.216.4:8085/udp/225.1.2.82:2020
 http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:0,Playboy TV
 #EXTGRP: Познавательное
-http://178.158.181.8:1505/2120
+http://9.pool85-50-216.static.orange.es:8001/1:0:1:778b:424:1:c00000:0:0:0
 #EXTINF:0,Hustler HD
 #EXTGRP: Познавательное
 http://77.243.112.149:8080/hustler_hd/index.m3u8?token=413079063374
 #EXTINF:0,Blue Hustler
 #EXTGRP: Познавательное
-http://s02.iptvx.tv/blue-hustler/video.m3u8?token=6ae12030
+http://80.98.116.74:8001/1:0:1:78c3:2c5:600:e080000:0:0:0
 #EXTINF:0,Redlight HD
 #EXTGRP: Познавательное
-http://s02.iptvx.tv/redlight-hd/video.m3u8?token=6ae12030
+http://80.111.250.109:8001/1:0:1:4224:3db8:13e:820000:0:0:0
 #EXTINF:0,Brazzers TV
 #EXTGRP: Познавательное
-http://s02.iptvx.tv/brazzers-tv/video.m3u8?token=6ae12030
-#EXTINF:0,Penthouse Gold
+http://80.111.250.109:8001/1:0:1:1d25:2fa8:13e:820000:0:0:0
+#EXTINF:0,Erox HD
 #EXTGRP: Познавательное
-http://s02.iptvx.tv/penthouse1-hd/video.m3u8?token=6ae12030
+http://e01.plius.tv:64144/n216/video.m3u8
 #EXTINF:0,Private TV HD
 #EXTGRP: Познавательное
-http://s02.iptvx.tv/private-tv/video.m3u8?token=6ae12030
+http://80.98.116.74:8001/1:0:1:78bd:2c5:600:e080000:0:0:0
 #EXTINF:0,Big Ass HD
 #EXTGRP: Познавательное
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigass.m3u8
+#EXTINF:0,Gangbang
+#EXTGRP: Познавательное
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:0, MILF
+#EXTGRP: Познавательное
+http://cdn.adultiptv.net/milf.m3u8
 #EXTINF:0,Threesome HD
 #EXTGRP: Познавательное
 http://live.redtraffic.xyz/threesome.m3u8
