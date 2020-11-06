@@ -41,6 +41,12 @@ http://dmitry-tv.my1.ru/his/DVB-T2/CH_RENTV.m3u8
 #EXTINF:0,СТС 
 #EXTGRP: эфир
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_STS.m3u8
+#EXTINF:0, СТС love
+#EXTGRP: эфир
+http://vip-iptvsmart.usite.pro/server-1/139_playlist.m3u8
+#EXTINF:0, Супер
+#EXTGRP: эфир
+http://vip-iptvsmart.usite.pro/server-2/307_playlist.m3u8
 #EXTINF:0,ТВ Центр 
 #EXTGRP: эфир
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_TVC_1.m3u8
@@ -63,10 +69,13 @@ https://v2.catcast.tv/content/38144/index.m3u8
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Детское кино International 2
 #EXTGRP: Кино
-
+http://vip-iptvsmart.usite.pro/server-3/424_playlist.m3u8
 #EXTINF:0,МультСказки
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/38850/index.m3u8
+#EXTINF:0,Камеди HD
+#EXTGRP: Кино
+http://vip-iptvsmart.usite.pro/server-3/418_playlist.m3u8
 
 #EXTINF:0,Память ТВ
 #EXTGRP: Кино
@@ -105,7 +114,11 @@ http://188.35.9.11:2021
 #EXTGRP: Кино
 https://v2.catcast.tv/content/37388/index.m3u8
 
+
 #EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: Кино
+http://vip-iptvsmart.usite.pro/server-3/414_playlist.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция2
 #EXTGRP: Кино
 http://xiptv.site/iptvteam.flv
 #EXTINF:0,СССР 000
@@ -193,13 +206,13 @@ http://77.243.112.149:8080/pobeda/index.m3u8?token=413079063374
 http://e01.plius.tv:64144/n208/index.m3u8
 #EXTINF:0,ViP Megahit HD
 #EXTGRP: Кино
-http://188.35.9.11:2016
+http://mnogotv.club:8084/tv/ch123/playlist.m3u8
 #EXTINF:0,ViP Premiere HD
 #EXTGRP: Кино
-http://tviptv.iptv-channel.ru:8000/live/t/v/44.ts
+http://mnogotv.club:8084/tv/ch124/playlist.m3u8
 #EXTINF:0,ViP Serial HD
 #EXTGRP: Кино
-http://live-ng-01.more.tv/hls/VIP_SERIAL/index_1.m3u8
+http://mnogotv.club:8084/tv/ch962/playlist.m3u8
 #EXTINF:0,TV1000 Action
 #EXTGRP: Кино
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TV1000ACTIONHD.m3u8
@@ -302,19 +315,19 @@ https://v2.catcast.tv/content/38794/index.m3u8
 
 #EXTINF:0,Тайна
 #EXTGRP: Познавательные
-http://62.122.91.178:2732/udp/239.1.9.44:1234
+http://vip-iptvsmart.usite.pro/server-2/308_playlist.m3u8
 #EXTINF:0,Оружие
 #EXTGRP: Познавательные
 http://188.93.95.83/oruzhie/index.m3u8
 #EXTINF:0,Оружие 2
 #EXTGRP: Познавательные
-http://93.158.222.99/oruzhie/index.m3u8
+http://vip-iptvsmart.usite.pro/server-1/157_playlist.m3u8
 #EXTINF:0,История
 #EXTGRP: Познавательные
 http://89.189.191.250/239.211.211.55/stream.m3u8
 #EXTINF:0,История2
 #EXTGRP: Познавательные
-http://45.15.112.4:8082/122/mpegts
+http://vip-iptvsmart.usite.pro/server-2/206_playlist.m3u8
 
 #EXTINF:0,Наука 2.0
 #EXTGRP: Познавательные
