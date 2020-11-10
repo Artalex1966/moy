@@ -31,6 +31,9 @@ http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_EKT/variant.m3u8
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
 #EXTINF:0,РТР Планета
 #EXTGRP: эфир
+http://188.93.95.83/rtr/index.m3u8
+#EXTINF:0,РТР Планета2
+#EXTGRP: эфир
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 #EXTINF:0,Рен ТВ *2
 #EXTGRP: эфир
@@ -50,6 +53,9 @@ http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS_6.m3u8
 #EXTINF:0, СТС love
 #EXTGRP: эфир
 http://77.243.112.149:8080/sts-love/index.m3u8?token=413079063374
+#EXTINF:0, СТС Мир
+#EXTGRP: эфир
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TSM/variant.m3u8?version=2
 #EXTINF:0, Супер
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
@@ -63,6 +69,10 @@ https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: Кино
 http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
+
+#EXTINF:0,Мосфильм  
+#EXTGRP: Кино
+https://cdnhls.goodgame.ru/hls/180913.m3u8
 
 #EXTINF:0,КИНО 1 INTERNATIONAL
 #EXTGRP: Кино
@@ -79,6 +89,11 @@ http://vip-iptvsmart.usite.pro/server-3/424_playlist.m3u8
 #EXTINF:0,МультСказки
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/38850/index.m3u8
+#EXTINF:0,В Гостях у Сказки
+#EXTGRP: Кино
+http://185.181.43.126:8007/play/v_gostyah_u_skazki/index.m3u8
+
+
 #EXTINF:0,КИНОПОКАЗ
 #EXTGRP: Кино
 http://185.22.183.147:8085/media/hls_183_147/kinopokaz/index.m3u8
@@ -119,7 +134,9 @@ http://188.35.9.11:2021
 #EXTINF:0,КиноСериал
 #EXTGRP: Кино
 https://v2.catcast.tv/content/37388/index.m3u8
-
+#EXTINF:0,Время
+#EXTGRP: Кино
+http://77.243.112.149:8080/vremya/index.m3u8?token=415309270234
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: Кино
@@ -134,9 +151,9 @@ http://hls.goodgame.ru:80/hls/180117.m3u8
 #EXTINF:0,СССР
 #EXTGRP: Кино
 http://v2.catcast.me/content/36506/index.m3u8
-#EXTINF:0,СССР 1
+#EXTINF:0,СССР2
 #EXTGRP: Кино
-
+http://cdnhls.goodgame.ru/hls/180878.m3u8
 #EXTINF:0,Фильмы СССР
 #EXTGRP: Кино
 https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
@@ -290,6 +307,9 @@ https://strm.yandex.ru/kal/etv/etv0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:0,Маша и Медведь
 #EXTGRP: Кино
 https://bozztv.com/36bay2/gin/giniko_mashaimedved_1000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:0,Чип и Дейл
+#EXTGRP: Кино
+http://188.138.17.217:4000/play/a003/index.m3u8?token=emitv
 #EXTINF:-1 ,Супер Мульт
 https://rebrand.ly/tibvozt/ROSTIK-TV/LIKE
 #EXTINF:0,MULT
@@ -318,7 +338,12 @@ http://ultotv.ru:8888/live/uhd/chunks.m3u8
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38794/index.m3u8
 
-
+#EXTINF:0,Hubblel HD
+#EXTGRP: Познавательные
+http://188.138.17.217:4000/play/a006/index.m3u8?token=emitv
+#EXTINF:0,Кто Есть Кто
+#EXTGRP: Познавательные
+http://77.243.112.149:8080/kto-est-kto/index.m3u8?token=413079063374
 #EXTINF:0,Тайна
 #EXTGRP: Познавательные
 http://vip-iptvsmart.usite.pro/server-2/308_playlist.m3u8
