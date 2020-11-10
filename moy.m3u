@@ -38,15 +38,21 @@ http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_2.m3u8
 #EXTINF:0,Рен ТВ 
 #EXTGRP: эфир
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_RENTV.m3u8
+#EXTINF:0,РЕН ТВ (+6)
+#EXTGRP: эфир
+http://tinyurl.com/wgryht4/CH_RENTV/bw2000000/variant.m3u8?version=2&offset=-21600
 #EXTINF:0,СТС 
 #EXTGRP: эфир
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_STS.m3u8
+#EXTINF:0,СТС (+6)
+#EXTGRP: эфир
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS_6.m3u8
 #EXTINF:0, СТС love
 #EXTGRP: эфир
-http://vip-iptvsmart.usite.pro/server-1/139_playlist.m3u8
+http://77.243.112.149:8080/sts-love/index.m3u8?token=413079063374
 #EXTINF:0, Супер
 #EXTGRP: эфир
-http://vip-iptvsmart.usite.pro/server-2/307_playlist.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
 #EXTINF:0,ТВ Центр 
 #EXTGRP: эфир
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_TVC_1.m3u8
@@ -73,9 +79,9 @@ http://vip-iptvsmart.usite.pro/server-3/424_playlist.m3u8
 #EXTINF:0,МультСказки
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/38850/index.m3u8
-#EXTINF:0,Камеди HD
+#EXTINF:0,КИНОПОКАЗ
 #EXTGRP: Кино
-http://vip-iptvsmart.usite.pro/server-3/418_playlist.m3u8
+http://185.22.183.147:8085/media/hls_183_147/kinopokaz/index.m3u8
 
 #EXTINF:0,Память ТВ
 #EXTGRP: Кино
@@ -178,7 +184,7 @@ http://178.163.24.25:4022/udp/234.0.0.219:2000
 http://178.163.60.244:4022/udp/234.0.0.219:2000
 #EXTINF:0,Дом Кино 4
 #EXTGRP: Кино
-http://persik.by/stream/1105/91303/10228.m3u8
+http://77.243.112.149:8080/dom_kino/index.m3u8?token=413079063374
 #EXTINF:0,Russian Комедии
 #EXTGRP: Кино
 https://v2.catcast.tv/content/36168/index.m3u8
@@ -197,7 +203,7 @@ http://87.251.176.10:8080/159/index.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:0,День Победы HD
 #EXTGRP: Кино
-http://78.129.228.178/iptv/W28DYVFET2WZ2Z/5054/index.m3u8
+http://78.129.228.178/iptv/WNCWVGE32KEVSS/5054/index.m3u8
 #EXTINF:0,Победа
 #EXTGRP: Кино
 http://77.243.112.149:8080/pobeda/index.m3u8?token=413079063374
@@ -321,7 +327,7 @@ http://vip-iptvsmart.usite.pro/server-2/308_playlist.m3u8
 http://188.93.95.83/oruzhie/index.m3u8
 #EXTINF:0,Оружие 2
 #EXTGRP: Познавательные
-http://vip-iptvsmart.usite.pro/server-1/157_playlist.m3u8
+http://77.243.112.149:8080/oruzhie/index.m3u8?token=413079063374
 #EXTINF:0,История
 #EXTGRP: Познавательные
 http://89.189.191.250/239.211.211.55/stream.m3u8
@@ -350,7 +356,7 @@ http://79.142.197.8:8888/Discovery/index.m3u8
 http://79.142.197.8:8888/Discovery/index.m3u8
 #EXTINF:0,Discovery Science HD
 #EXTGRP: Познавательные
-http://tviptv.iptv-channel.ru:8000/live/t/v/145.ts
+http://vip-iptvsmart.usite.pro/server-1/178_playlist.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
 http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
@@ -456,7 +462,7 @@ http://9.pool85-50-216.static.orange.es:8001/1:0:1:778b:424:1:c00000:0:0:0
 http://77.243.112.149:8080/hustler_hd/index.m3u8?token=413079063374
 #EXTINF:0,Blue Hustler
 #EXTGRP: Познавательное
-http://80.98.116.74:8001/1:0:1:78c3:2c5:600:e080000:0:0:0
+http://185.22.183.155:8085/media/hls_183_155/hustler_hd/index.m3u8
 #EXTINF:0,Redlight HD
 #EXTGRP: Познавательное
 http://80.111.250.109:8001/1:0:1:4224:3db8:13e:820000:0:0:0
