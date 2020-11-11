@@ -49,10 +49,13 @@ http://tinyurl.com/wgryht4/CH_RENTV/bw2000000/variant.m3u8?version=2&offset=-216
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_STS.m3u8
 #EXTINF:0,СТС (+6)
 #EXTGRP: эфир
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS_6.m3u8
+http://5.137.183.29:1234/udp/233.7.70.129:5000
 #EXTINF:0, СТС love
 #EXTGRP: эфир
 http://77.243.112.149:8080/sts-love/index.m3u8?token=413079063374
+#EXTINF:0, СТС love2
+#EXTGRP: эфир
+http://45.133.96.152:81/29/index.m3u8
 #EXTINF:0, СТС Мир
 #EXTGRP: эфир
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TSM/variant.m3u8?version=2
@@ -73,6 +76,9 @@ http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 #EXTINF:0,Мосфильм  
 #EXTGRP: Кино
 https://cdnhls.goodgame.ru/hls/180913.m3u8
+#EXTINF:0,Ленфильм  
+#EXTGRP: Кино
+https://cdnnow.goodgame.ru/hls/180914.m3u8
 
 #EXTINF:0,КИНО 1 INTERNATIONAL
 #EXTGRP: Кино
@@ -92,7 +98,9 @@ https://autopilot.catcast.tv/content/38850/index.m3u8
 #EXTINF:0,В Гостях у Сказки
 #EXTGRP: Кино
 http://185.181.43.126:8007/play/v_gostyah_u_skazki/index.m3u8
-
+#EXTINF:0,Время Кино
+#EXTGRP: Кино
+http://mnogotv.club/hls/vremykinitvv10/index.m3u8
 
 #EXTINF:0,КИНОПОКАЗ
 #EXTGRP: Кино
@@ -116,9 +124,9 @@ https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1,Кино ТВ HD
 #EXTGRP: Кино
 http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/732/index.m3u8
-#EXTINF:0,ТВ ДОМ HD
+#EXTINF:0,PZN
 #EXTGRP: Кино
-https://s3.catcast.tv/content/39191/index.m3u8
+https://cdnhls.goodgame.ru/hls/180960.m3u8
 #EXTINF:0,Мужское кино HD
 #EXTGRP: Кино
 http://87.251.176.10:8080/54/playlist.m3u8
@@ -127,7 +135,7 @@ http://87.251.176.10:8080/54/playlist.m3u8
 http://45.133.96.152:8000/play/a01v/index.m3u8
 #EXTINF:0,Иллюзион +
 #EXTGRP: Кино
-http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULLUSIONPLUS.m3u8
+http://185.181.43.126:8008/play/iluzion_plus/index.m3u8
 #EXTINF:0,#Кинопоказ
 #EXTGRP: Кино
 http://188.35.9.11:2021
