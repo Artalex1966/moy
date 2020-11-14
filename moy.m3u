@@ -37,7 +37,7 @@ http://188.93.95.83/rtr/index.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 #EXTINF:0,Рен ТВ *2
 #EXTGRP: эфир
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_2.m3u8
+http://s06.iptvx.tv:8090/s/ef9bb9b2/ren-tv-hd.m3u8
 #EXTINF:0,Рен ТВ 
 #EXTGRP: эфир
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_RENTV.m3u8
@@ -49,7 +49,7 @@ http://tinyurl.com/wgryht4/CH_RENTV/bw2000000/variant.m3u8?version=2&offset=-216
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_STS.m3u8
 #EXTINF:0,СТС (+6)
 #EXTGRP: эфир
-http://5.137.183.29:1234/udp/233.7.70.129:5000
+http://s06.iptvx.tv:8090/s/ef9bb9b2/ctc-hd.m3u8
 #EXTINF:0, СТС love
 #EXTGRP: эфир
 http://77.243.112.149:8080/sts-love/index.m3u8?token=413079063374
@@ -101,10 +101,13 @@ http://185.181.43.126:8007/play/v_gostyah_u_skazki/index.m3u8
 #EXTINF:0,Время Кино
 #EXTGRP: Кино
 http://mnogotv.club/hls/vremykinitvv10/index.m3u8
+#EXTINF:0,Семейный
+#EXTGRP: Кино
+http://mnogotv.club/hls/kidstvv10/index.m3u8
 
 #EXTINF:0,КИНОПОКАЗ
 #EXTGRP: Кино
-http://185.22.183.147:8085/media/hls_183_147/kinopokaz/index.m3u8
+http://s06.iptvx.tv:8090/s/ef9bb9b2/kinopokaz.m3u8
 
 #EXTINF:0,Память ТВ
 #EXTGRP: Кино
@@ -121,6 +124,19 @@ https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1,Фантастика Sci-Fi
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1,Fantasy TV
+#EXTGRP: Кино
+http://mnogotv.club/hls/fantasytvv10/index.m3u8
+#EXTINF:-1,Action TV
+#EXTGRP: Кино
+http://mnogotv.club/hls/actiontvv10/index.m3u8
+#EXTINF:-1,KinoStar 1
+#EXTGRP: Кино
+http://mnogotv.club/hls/kinostartvv10/index.m3u8
+#EXTINF:-1,KinoStar 2
+#EXTGRP: Кино
+http://mnogotv.club/hls/kinostartvv2/index.m3u8
+
 #EXTINF:-1,Кино ТВ HD
 #EXTGRP: Кино
 http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/732/index.m3u8
@@ -129,7 +145,7 @@ http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/732/index.m3u8
 https://cdnhls.goodgame.ru/hls/180960.m3u8
 #EXTINF:0,Мужское кино HD
 #EXTGRP: Кино
-http://87.251.176.10:8080/54/playlist.m3u8
+http://s06.iptvx.tv:8090/s/ef9bb9b2/muzhskoe-kino-hd.m3u8
 #EXTINF:0,Остросюжетное
 #EXTGRP: Кино
 http://45.133.96.152:8000/play/a01v/index.m3u8
