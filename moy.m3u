@@ -35,9 +35,9 @@ http://cdn.itvago.com/RTRPlaneta/video.m3u8?token=8AF7B7F5FDC3A
 #EXTINF:0,РТР Планета2
 #EXTGRP: эфир
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
-#EXTINF:0,Рен ТВ2
+#EXTINF:0,Рен ТВ (+2)
 #EXTGRP: эфир
-http://cdn.itvago.com/RENTV4/video.m3u8?token=8AF7B7F5FDC3A
+http://dmitry-tv.my1.ru/his/zabava/03/CH_RENTV_2.m3u8
 #EXTINF:0,Рен ТВ 
 #EXTGRP: эфир
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_RENTV.m3u8
@@ -52,7 +52,7 @@ http://dmitry-tv.my1.ru/his/DVB-T2/CH_STS.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8?version=2
 #EXTINF:0,СТС (+4)
 #EXTGRP: эфир
-http://cdn.itvago.com/STS4/video.m3u8?token=8AF7B7F5FDC3A
+http://dmitry-tv.my1.ru/his/zabava/03/CH_STS_4.m3u8
 #EXTINF:0, СТС love
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8?version=2
@@ -166,10 +166,10 @@ http://cdn.itvago.com/MuzhskoeKino/video.m3u8?token=8AF7B7F5FDC3A
 http://cdn.itvago.com/OstrosuzhetnoetvHD/video.m3u8?token=8AF7B7F5FDC3A
 #EXTINF:0,Иллюзион +
 #EXTGRP: Кино
-http://cdn.itvago.com/illusion/video.m3u8?token=8AF7B7F5FDC3A
+http://dmitry-tv.my1.ru/his/zabava/04/CH_ULLUSIONPLUS.m3u8
 #EXTINF:0,#Кинопоказ
 #EXTGRP: Кино
-http://cdn.itvago.com/Kinopokaz/video.m3u8?token=8AF7B7F5FDC3A
+http://192.162.212.48:8080/kinopokaz/index.m3u8
 #EXTINF:0,КиноСериал
 #EXTGRP: Кино
 https://v2.catcast.tv/content/37388/index.m3u8
@@ -231,7 +231,7 @@ http://89.189.191.250/239.211.211.58/stream.m3u8
 
 #EXTINF:0,Дом кино
 #EXTGRP: Кино
-http://cdn.itvago.com/DomKino/video.m3u8?token=8AF7B7F5FDC3A
+http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
 #EXTINF:0,Дом кино 2
 #EXTGRP: Кино
 http://178.163.24.25:4022/udp/234.0.0.219:2000
@@ -257,6 +257,8 @@ http://87.251.176.10:8080/159/index.m3u8
 #EXTINF:0,Звезда
 #EXTGRP: Кино
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+
+
 #EXTINF:0,День Победы HD
 #EXTGRP: Кино
 http://40791904.cbilant.com/iptv/B9HTV5FNS8G6VH/5054/index.m3u8
@@ -277,13 +279,13 @@ http://cdn.itvago.com/VIPPremiere/video.m3u8?token=8AF7B7F5FDC3A
 http://mnogotv.club:8084/tv/ch962/playlist.m3u8
 #EXTINF:0,TV1000 Action
 #EXTGRP: Кино
-http://cdn.itvago.com/TV1000Action/video.m3u8?token=8AF7B7F5FDC3A
+http://dmitry-tv.my1.ru/his/zabava/04/CH_TV1000ACTION.m3u8
 #EXTINF:0,TV1000
 #EXTGRP: Кино
-http://cdn.itvago.com/TV1000/video.m3u8?token=8AF7B7F5FDC3A
+http://dmitry-tv.my1.ru/his/zabava/03/CH_TV1000.m3u8
 #EXTINF:0,TV1000 Русское кино
 #EXTGRP: Кино
-http://cdn.itvago.com/TV1000RUS/video.m3u8?token=8AF7B7F5FDC3A
+http://e04.plius.tv:64144/l85/playlist.m3u8
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
@@ -293,7 +295,7 @@ http://89.189.191.250/239.211.211.142/stream.m3u8
 https://s1.idata.uz/stch_temp3/tracks-v1a1/mono.m3u8
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://cdn.itvago.com/Kinomix/video.m3u8?token=8AF7B7F5FDC3A
+http://192.162.212.48:8080/kinomix/index.m3u8
 #EXTINF:0,КИНОМИКС 2
 #EXTGRP: Кино
 http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/509/index.m3u8
@@ -305,17 +307,17 @@ http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/224/index.m3u8
 
 #EXTINF:0, Киносвидание
 #EXTGRP: Кино
-http://cdn.itvago.com/Kinosvidanie/video.m3u8?token=8AF7B7F5FDC3A
+http://192.162.212.48:8080/kinosvidanie/index.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
-http://cdn.itvago.com/Kinosemya/video.m3u8?token=8AF7B7F5FDC3A
+http://192.162.212.48:8080/kinosemya/index.m3u8
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
 https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://87.251.176.10:8080/41/playlist.m3u8
+http://192.162.212.48:8080/nashe-kino/index.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
 http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
@@ -420,7 +422,7 @@ http://79.142.197.8:8888/Discovery/index.m3u8
 http://79.142.197.8:8888/Discovery/index.m3u8
 #EXTINF:0,Discovery Science HD
 #EXTGRP: Познавательные
-http://cdn.itvago.com/DiscoveryScience/video.m3u8?token=8AF7B7F5FDC3A
+http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
 http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
@@ -526,7 +528,7 @@ http://9.pool85-50-216.static.orange.es:8001/1:0:1:778b:424:1:c00000:0:0:0
 http://cdn.itvago.com/PlayboyTV/video.m3u8?token=8AF7B7F5FDC3A
 #EXTINF:0,Hustler HD
 #EXTGRP: Познавательное
-http://77.243.112.149:8080/hustler_hd/index.m3u8?token=413079063374
+http://192.162.212.48:8080/hustler_hd/index.m3u8
 #EXTINF:0,Blue Hustler
 #EXTGRP: Познавательное
 http://cdn.itvago.com/BlueHustler/video.m3u8?token=8AF7B7F5FDC3A
