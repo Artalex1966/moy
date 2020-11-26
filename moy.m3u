@@ -47,15 +47,18 @@ http://tinyurl.com/wgryht4/CH_RENTV/bw2000000/variant.m3u8?version=2&offset=-216
 #EXTINF:0,СТС 
 #EXTGRP: эфир
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_STS.m3u8
+#EXTINF:0,СТС (+2) 
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8?version=2
 #EXTINF:0,СТС (+4)
 #EXTGRP: эфир
 http://cdn.itvago.com/STS4/video.m3u8?token=8AF7B7F5FDC3A
 #EXTINF:0, СТС love
 #EXTGRP: эфир
-http://77.243.112.149:8080/sts-love/index.m3u8?token=413079063374
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8?version=2
 #EXTINF:0, СТС love2
 #EXTGRP: эфир
-http://cdn.itvago.com/StsLove/video.m3u8?token=8AF7B7F5FDC3A
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/bw2000000/variant.m3u8?version=2
 #EXTINF:0, СТС Мир
 #EXTGRP: эфир
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TSM/variant.m3u8?version=2
@@ -124,12 +127,15 @@ https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1,Фантастика Sci-Fi
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1,Fantasy TV
+#EXTINF:0, FANTASTIKA TV
 #EXTGRP: Кино
-http://mnogotv.club/hls/fantasytvv10/index.m3u8
-#EXTINF:-1,Action TV
+https://cdnnow.goodgame.ru/hls/181070.m3u8
+#EXTINF:-1,KVN-HD
 #EXTGRP: Кино
-http://mnogotv.club/hls/actiontvv10/index.m3u8
+https://hls.goodgame.ru/hls/180189.m3u8
+#EXTINF:-1,STR TV
+#EXTGRP: Кино
+https://hls.goodgame.ru/hls/130048.m3u8
 #EXTINF:-1,Kino 1
 #EXTGRP: Кино
 https://5656.ga/ch8.m3u8
@@ -638,3 +644,7 @@ http://hls.goodgame.ru/hls/33226.m3u8
 #EXTINF:0,Блог 3
 #EXTGRP: Блог
 http://hls.goodgame.ru/hls/71852.m3u8
+
+
+KISS 💋
+
