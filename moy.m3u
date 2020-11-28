@@ -110,7 +110,7 @@ http://mnogotv.club/hls/kidstvv10/index.m3u8
 
 #EXTINF:0,КИНОПОКАЗ
 #EXTGRP: Кино
-http://s06.iptvx.tv:8090/s/ef9bb9b2/kinopokaz.m3u8
+http://192.162.212.48:8080/kinopokaz/index.m3u8
 
 #EXTINF:0,Память ТВ
 #EXTGRP: Кино
@@ -216,7 +216,7 @@ https://cdnhls.goodgame.ru/hls/180960.m3u8
 http://cdn.itvago.com/MuzhskoeKino/video.m3u8?token=8AF7B7F5FDC3A
 #EXTINF:0,Остросюжетное
 #EXTGRP: Кино
-http://cdn.itvago.com/OstrosuzhetnoetvHD/video.m3u8?token=8AF7B7F5FDC3A
+http://188.35.9.26:5050/002
 #EXTINF:0,Иллюзион +
 #EXTGRP: Кино
 http://dmitry-tv.my1.ru/his/zabava/04/CH_ULLUSIONPLUS.m3u8
@@ -323,10 +323,10 @@ http://77.243.112.149:8080/pobeda/index.m3u8?token=413079063374
 http://e01.plius.tv:64144/n208/index.m3u8
 #EXTINF:0,ViP Megahit HD
 #EXTGRP: Кино
-http://cdn.itvago.com/VIPMegahit/video.m3u8?token=8AF7B7F5FDC3A
+http://195.189.105.158:9050/133/index.m3u8
 #EXTINF:0,ViP Premiere HD
 #EXTGRP: Кино
-http://cdn.itvago.com/VIPPremiere/video.m3u8?token=8AF7B7F5FDC3A
+http://195.189.105.158:9050/134/index.m3u8
 #EXTINF:0,ViP Serial HD
 #EXTGRP: Кино
 http://mnogotv.club:8084/tv/ch962/playlist.m3u8
@@ -685,9 +685,9 @@ https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 #EXTINF:0,Dogma - Magical Chants
 #EXTGRP: Релакс
 http://listen2.myradio24.com:9000/8226
-#EXTINF:0,Музыка Кино2
+#EXTINF:0,Радио ретро
 #EXTGRP: Музыка
-http://autopilot.catcast.tv/content/37739/index.m3u8
+http://hls.goodgame.ru:80/hls/33245.m3u8
 
 
 #EXTINF:0,Блог 1
@@ -702,5 +702,4 @@ http://hls.goodgame.ru/hls/71852.m3u8
 
 
 KISS 💋
-
 
