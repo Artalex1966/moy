@@ -138,19 +138,72 @@ https://hls.goodgame.ru/hls/180189.m3u8
 https://hls.goodgame.ru/hls/130048.m3u8
 #EXTINF:-1,Kino 1
 #EXTGRP: Кино
-https://5656.ga/ch8.m3u8
+https://5656.ga/ch2.m3u8
 #EXTINF:-1,Kino2
 #EXTGRP: Кино
-https://5656.ga/ch7.m3u8
+https://5656.ga/ch3.m3u8
 #EXTINF:-1,Kino3
 #EXTGRP: Кино
-https://5656.ga/ch6.m3u8
+https://5656.ga/ch4.m3u8
 #EXTINF:-1,Kino4
 #EXTGRP: Кино
 https://5656.ga/ch5.m3u8
 #EXTINF:-1,Kino5
 #EXTGRP: Кино
-https://5656.ga/ch2.m3u8
+https://5656.ga/ch6.m3u8
+#EXTINF:-1,Kino6
+#EXTGRP: Кино
+https://5656.ga/ch7.m3u8
+#EXTINF:-1,Kino7
+#EXTGRP: Кино
+https://5656.ga/ch8.m3u8
+#EXTINF:-1,Kino8
+#EXTGRP: Кино
+https://5656.ga/ch9.m3u8
+#EXTINF:-1,Kino9
+#EXTGRP: Кино
+https://5656.ga/ch10.m3u8
+#EXTINF:-1,Kino10
+#EXTGRP: Кино
+https://5656.ga/ch11.m3u8
+#EXTINF:-1,Kino11
+#EXTGRP: Кино
+https://5656.ga/ch12.m3u8
+#EXTINF:-1,Kino12
+#EXTGRP: Кино
+https://5656.ga/ch13.m3u8
+#EXTINF:-1,Kino13
+#EXTGRP: Кино
+https://5656.ga/ch14.m3u8
+#EXTINF:-1,Kino14
+#EXTGRP: Кино
+https://5656.ga/ch15.m3u8
+#EXTINF:-1,Kino15
+#EXTGRP: Кино
+https://5656.ga/ch16.m3u8
+#EXTINF:-1,Kino16
+#EXTGRP: Кино
+https://5656.ga/ch17.m3u8
+#EXTINF:-1,Kino17
+#EXTGRP: Кино
+https://5656.ga/ch18.m3u8
+
+#EXTINF:-1,KinoBroadcast 1
+#EXTGRP: Кино
+https://v2.catcast.tv/content/35525/index.m3u8
+
+#EXTINF:-1,Сити Эдем киноклассика
+#EXTGRP: Кино
+https://v2.catcast.tv/content/34185/index.m3u8
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1,Кино ТВ HD
 #EXTGRP: Кино
@@ -212,7 +265,7 @@ https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?versi
 https://strm.yandex.ru/kal/lovedtv/lovedtv0.m3u8
 #EXTINF:0,Наше любимое
 #EXTGRP: Кино
-http://45.133.96.152:8000/play/a01x/index.m3u8
+http://51.195.44.53:8081/tv/lubimoe-kino/chunks.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
 http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/722/index.m3u8
@@ -649,4 +702,5 @@ http://hls.goodgame.ru/hls/71852.m3u8
 
 
 KISS 💋
+
 
