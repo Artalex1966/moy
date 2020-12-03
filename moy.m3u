@@ -112,12 +112,7 @@ http://mnogotv.club/hls/kidstvv10/index.m3u8
 #EXTGRP: Кино
 http://192.162.212.48:8080/kinopokaz/index.m3u8
 
-#EXTINF:0,Память ТВ
-#EXTGRP: Кино
-https://autopilot.catcast.tv/content/38821/index.m3u8
-#EXTINF:0,Память
-#EXTGRP: Кино
-https://v2.catcast.tv/content/38821/index.m3u8
+
 #EXTINF:0,Видеопремьера
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/39161/index.m3u8
@@ -213,7 +208,7 @@ http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/732/index.m3u8
 https://cdnhls.goodgame.ru/hls/180960.m3u8
 #EXTINF:0,Мужское кино HD
 #EXTGRP: Кино
-http://cdn.itvago.com/MuzhskoeKino/video.m3u8?token=8AF7B7F5FDC3A
+http://109.111.191.108/239.211.211.145/stream.m3u8
 #EXTINF:0,Остросюжетное
 #EXTGRP: Кино
 http://188.35.9.26:5050/002
@@ -230,15 +225,15 @@ https://v2.catcast.tv/content/37388/index.m3u8
 #EXTGRP: Кино
 http://77.243.112.149:8080/vremya/index.m3u8?token=415309270234
 
+#EXTINF:0,Довженко
+#EXTGRP: Кино
+http://cdnnow.goodgame.ru/hls/181186.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: Кино
-http://40791904.cbilant.com/iptv/B9HTV5FNS8G6VH/6392/index.m3u8
-#EXTINF:0,Мосфильм. Золотая коллекция2
-#EXTGRP: Кино
 http://xiptv.site/iptvteam.flv
-#EXTINF:0,СССР 000
+#EXTINF:0,TV PRO
 #EXTGRP: Кино
-http://hls.goodgame.ru:80/hls/180117.m3u8
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 
 #EXTINF:0,СССР
 #EXTGRP: Кино
@@ -258,6 +253,12 @@ http://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,Советское Кино2
 #EXTGRP: Кино
 http://62.122.91.178:2732/udp/239.1.9.38:1234
+#EXTINF:0,Память ТВ
+#EXTGRP: Кино
+https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:0,Память
+#EXTGRP: Кино
+https://v2.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,Любимое TV
 #EXTGRP: Кино
 https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
@@ -317,7 +318,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 http://40791904.cbilant.com/iptv/B9HTV5FNS8G6VH/5054/index.m3u8
 #EXTINF:0,Победа
 #EXTGRP: Кино
-http://77.243.112.149:8080/pobeda/index.m3u8?token=413079063374
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
 #EXTINF:0,ViP Comedy HD
 #EXTGRP: Кино
 http://e01.plius.tv:64144/n208/index.m3u8
@@ -370,7 +371,7 @@ http://192.162.212.48:8080/kinosemya/index.m3u8
 https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://192.162.212.48:8080/nashe-kino/index.m3u8
+http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
 http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
