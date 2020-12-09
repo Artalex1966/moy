@@ -76,12 +76,7 @@ https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTGRP: Кино
 http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 
-#EXTINF:0,Мосфильм  
-#EXTGRP: Кино
-https://cdnhls.goodgame.ru/hls/180913.m3u8
-#EXTINF:0,Ленфильм  
-#EXTGRP: Кино
-https://cdnnow.goodgame.ru/hls/180914.m3u8
+
 
 #EXTINF:0,КИНО 1 INTERNATIONAL
 #EXTGRP: Кино
@@ -92,30 +87,21 @@ https://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0,Детское кино International 2
-#EXTGRP: Кино
-http://vip-iptvsmart.usite.pro/server-3/424_playlist.m3u8
+
 #EXTINF:0,МультСказки
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/38850/index.m3u8
 #EXTINF:0,В Гостях у Сказки
 #EXTGRP: Кино
 http://cdn.itvago.com/VgostyahYskazki/video.m3u8?token=8AF7B7F5FDC3A
-#EXTINF:0,Время Кино
-#EXTGRP: Кино
-http://mnogotv.club/hls/vremykinitvv10/index.m3u8
-#EXTINF:0,Семейный
-#EXTGRP: Кино
-http://mnogotv.club/hls/kidstvv10/index.m3u8
+
 
 #EXTINF:0,КИНОПОКАЗ
 #EXTGRP: Кино
 http://192.162.212.48:8080/kinopokaz/index.m3u8
 
 
-#EXTINF:0,Видеопремьера
-#EXTGRP: Кино
-https://autopilot.catcast.tv/content/39161/index.m3u8
+
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38801/index.m3u8
@@ -131,61 +117,7 @@ https://hls.goodgame.ru/hls/180189.m3u8
 #EXTINF:-1,STR TV
 #EXTGRP: Кино
 https://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF:-1,Kino 1
-#EXTGRP: Кино
-https://5656.ga/ch2.m3u8
-#EXTINF:-1,Kino2
-#EXTGRP: Кино
-https://5656.ga/ch3.m3u8
-#EXTINF:-1,Kino3
-#EXTGRP: Кино
-https://5656.ga/ch4.m3u8
-#EXTINF:-1,Kino4
-#EXTGRP: Кино
-https://5656.ga/ch5.m3u8
-#EXTINF:-1,Kino5
-#EXTGRP: Кино
-https://5656.ga/ch6.m3u8
-#EXTINF:-1,Kino6
-#EXTGRP: Кино
-https://5656.ga/ch7.m3u8
-#EXTINF:-1,Kino7
-#EXTGRP: Кино
-https://5656.ga/ch8.m3u8
-#EXTINF:-1,Kino8
-#EXTGRP: Кино
-https://5656.ga/ch9.m3u8
-#EXTINF:-1,Kino9
-#EXTGRP: Кино
-https://5656.ga/ch10.m3u8
-#EXTINF:-1,Kino10
-#EXTGRP: Кино
-https://5656.ga/ch11.m3u8
-#EXTINF:-1,Kino11
-#EXTGRP: Кино
-https://5656.ga/ch12.m3u8
-#EXTINF:-1,Kino12
-#EXTGRP: Кино
-https://5656.ga/ch13.m3u8
-#EXTINF:-1,Kino13
-#EXTGRP: Кино
-https://5656.ga/ch14.m3u8
-#EXTINF:-1,Kino14
-#EXTGRP: Кино
-https://5656.ga/ch15.m3u8
-#EXTINF:-1,Kino15
-#EXTGRP: Кино
-https://5656.ga/ch16.m3u8
-#EXTINF:-1,Kino16
-#EXTGRP: Кино
-https://5656.ga/ch17.m3u8
-#EXTINF:-1,Kino17
-#EXTGRP: Кино
-https://5656.ga/ch18.m3u8
 
-#EXTINF:-1,KinoBroadcast 1
-#EXTGRP: Кино
-https://v2.catcast.tv/content/35525/index.m3u8
 
 #EXTINF:-1,Сити Эдем киноклассика
 #EXTGRP: Кино
@@ -218,16 +150,7 @@ http://dmitry-tv.my1.ru/his/zabava/04/CH_ULLUSIONPLUS.m3u8
 #EXTINF:0,#Кинопоказ
 #EXTGRP: Кино
 http://192.162.212.48:8080/kinopokaz/index.m3u8
-#EXTINF:0,КиноСериал
-#EXTGRP: Кино
-https://v2.catcast.tv/content/37388/index.m3u8
-#EXTINF:0,Время
-#EXTGRP: Кино
-http://77.243.112.149:8080/vremya/index.m3u8?token=415309270234
 
-#EXTINF:0,Довженко
-#EXTGRP: Кино
-http://cdnnow.goodgame.ru/hls/181186.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: Кино
 http://xiptv.site/iptvteam.flv
