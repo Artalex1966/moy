@@ -37,7 +37,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 #EXTINF:0,Рен ТВ (+2)
 #EXTGRP: эфир
-http://ott-cdn.ucom.am/s85/04.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/bw2000000/variant.m3u8?|User-agent=smartlabs
 #EXTINF:0,Рен ТВ 
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
