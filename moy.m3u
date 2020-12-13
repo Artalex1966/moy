@@ -31,7 +31,7 @@ http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_EKT/variant.m3u8
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
 #EXTINF:0,РТР Планета
 #EXTGRP: эфир
-http://cdn.itvago.com/RTRPlaneta/video.m3u8?token=8AF7B7F5FDC3A
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 #EXTINF:0,РТР Планета2
 #EXTGRP: эфир
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
