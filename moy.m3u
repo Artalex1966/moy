@@ -158,7 +158,10 @@ http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: Кино
-http://xiptv.site/iptvteam.flv
+http://217.71.224.86:8162
+#EXTINF:0,Мосфильм. Золотая коллекция2
+#EXTGRP: Кино
+http://195.154.242.229:3000/telegram/premiere_group/12
 #EXTINF:0,МОСФИЛЬМ HD
 #EXTGRP: Кино
 https://cdn-curie.wasd.tv/live/927775/tracks-v1a1/mono.m3u8
@@ -213,13 +216,16 @@ http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/722/index.m3u8
 http://st.cdn-tv.club/iptv/a1hUb0VseXJvMXVKYTd5Z1BIMzVBWnNlMnl2eEJnZitQZldpRkZzLzhrRT0/video.ts
 #EXTINF:0,TOP СССР
 #EXTGRP: Кино
-http://mnogotv.club:8084/tv/ch197/playlist.m3u8
+http://topchantv.net:3456/promoTOP/PROMO/6641
 #EXTINF:0,TOP 80s
 #EXTGRP: Кино
-http://mnogotv.club:8084/tv/ch144/playlist.m3u8
+http://topchantv.net:3456/promoTOP/PROMO/277
 #EXTINF:0,Ретро
 #EXTGRP: Кино
 http://89.189.191.250/239.211.211.58/stream.m3u8
+#EXTINF:0,Ретро
+#EXTGRP: Кино
+http://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Дом кино
 #EXTGRP: Кино
@@ -232,7 +238,7 @@ http://178.163.24.25:4022/udp/234.0.0.219:2000
 http://178.163.60.244:4022/udp/234.0.0.219:2000
 #EXTINF:0,Дом Кино 4
 #EXTGRP: Кино
-http://77.243.112.149:8080/dom_kino/index.m3u8?token=413079063374
+http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
 #EXTINF:0,Russian Комедии
 #EXTGRP: Кино
 https://v2.catcast.tv/content/36168/index.m3u8
@@ -583,7 +589,7 @@ http://185.189.184.7:8888/Bigudi/index.m3u8?token=test
 http://185.189.184.7:8888/Bigudi/index.m3u8?token=test
 #EXTINF:0,Enter Фильм
 #EXTGRP: Украина
-http://playlist.hmara.tv/b2083d16/a289fc29e3319da1f45e27db3ed3944790c0f9f6.m3u8
+http://spacetv.in/stream/DIPK8H19CP8/322.m3u8
 #EXTINF:0,ICTV
 #EXTGRP: Украина
 http://193.46.210.28/stream/7vzrgggqh9hi27shrnvecmyp9kduw789bgsrm5ak34mwjxhj3grg5a39tk3tc9pm2d4z8jz9dyi2bfpmeax3j75wc3ctwzpjq6xrkupf6hiaxm2447agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
