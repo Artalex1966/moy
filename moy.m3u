@@ -52,7 +52,7 @@ http://spacetv.in/stream/DIPK8H19CP8/138.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8?version=2
 #EXTINF:0,СТС (+4)
 #EXTGRP: эфир
-http://dmitry-tv.my1.ru/his/zabava/03/CH_STS_4.m3u8
+http://109.248.67.183:4022/udp/239.195.54.8:1234
 #EXTINF:0, СТС love
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8?version=2
@@ -94,7 +94,9 @@ https://autopilot.catcast.tv/content/38850/index.m3u8
 #EXTINF:0,В Гостях у Сказки
 #EXTGRP: Кино
 http://cdn.itvago.com/VgostyahYskazki/video.m3u8?token=8AF7B7F5FDC3A
-
+#EXTINF:0,В Christmas HD
+#EXTGRP: Кино
+http://195.154.242.229:3000/telegram/premiere_group/19551
 
 #EXTINF:0,КИНОПОКАЗ
 #EXTGRP: Кино
@@ -111,6 +113,9 @@ https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:0, FANTASTIKA TV
 #EXTGRP: Кино
 https://cdnnow.goodgame.ru/hls/181070.m3u8
+#EXTINF:0, FANTASTIKA HD
+#EXTGRP: Кино
+https://cdnnow.goodgame.ru/hls/181070.m3u8
 #EXTINF:-1,KVN-HD
 #EXTGRP: Кино
 http://cdnnow.goodgame.ru/hls/181746.m3u8
@@ -118,40 +123,34 @@ http://cdnnow.goodgame.ru/hls/181746.m3u8
 #EXTGRP: Кино
 https://hls.goodgame.ru/hls/130048.m3u8
 
-
 #EXTINF:-1,Сити Эдем киноклассика
 #EXTGRP: Кино
 https://v2.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1,VIP Cinema HD
 #EXTGRP: Кино
 http://cdnnow.goodgame.ru/hls/153640.m3u8
-#EXTINF:-1,Pzn Stream HD
-#EXTGRP: Кино
-http://cdnnow.goodgame.ru/hls/180960.m3u8
-
-
-
-
-
 
 #EXTINF:-1,Кино ТВ HD
 #EXTGRP: Кино
-http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/732/index.m3u8
+http://89.189.191.250/239.211.211.86/stream.m3u8
 #EXTINF:0,PZN
 #EXTGRP: Кино
 https://cdnhls.goodgame.ru/hls/180960.m3u8
+#EXTINF:0,FilmMax
+#EXTGRP: Кино
+http://cdnnow.goodgame.ru/hls/163253.m3u8
 #EXTINF:0,Мужское кино HD
 #EXTGRP: Кино
-http://109.111.191.108/239.211.211.145/stream.m3u8
+http://89.106.234.3:80/Mujskoe_kino_hd_34_35.m3u8
 #EXTINF:0,Остросюжетное
 #EXTGRP: Кино
 http://188.35.9.26:5050/002
 #EXTINF:0,Иллюзион +
 #EXTGRP: Кино
-http://dmitry-tv.my1.ru/his/zabava/04/CH_ULLUSIONPLUS.m3u8
-#EXTINF:0,#Кинопоказ
+http://188.93.95.83/illuzionplus/index.m3u8
+#EXTINF:0,Кино UHD
 #EXTGRP: Кино
-http://192.162.212.48:8080/kinopokaz/index.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/variant.m3u8?version=2
 #EXTINF:0,TV PRO
 #EXTGRP: Кино
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
@@ -265,7 +264,7 @@ http://40791904.cbilant.com/iptv/B9HTV5FNS8G6VH/5054/index.m3u8
 https://sc.id-tv.kz/Pobeda_34_35.m3u8
 #EXTINF:0,ViP Comedy HD
 #EXTGRP: Кино
-http://e01.plius.tv:64144/n208/index.m3u8
+http://195.189.105.158:9050/132/index.m3u8
 #EXTINF:0,ViP Megahit HD
 #EXTGRP: Кино
 http://195.189.105.158:9050/133/index.m3u8
@@ -277,13 +276,13 @@ http://195.189.105.158:9050/134/index.m3u8
 http://mnogotv.club:8084/tv/ch962/playlist.m3u8
 #EXTINF:0,TV1000 Action
 #EXTGRP: Кино
-http://dmitry-tv.my1.ru/his/zabava/04/CH_TV1000ACTION.m3u8
+http://188.93.95.83/tv1000act/index.m3u8
 #EXTINF:0,TV1000
 #EXTGRP: Кино
-http://dmitry-tv.my1.ru/his/zabava/03/CH_TV1000.m3u8
+http://188.93.95.83/tv1000/index.m3u8
 #EXTINF:0,TV1000 Русское кино
 #EXTGRP: Кино
-http://e04.plius.tv:64144/l85/playlist.m3u8
+http://188.93.95.83/tv1000rukino/index.m3u8
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
@@ -511,70 +510,11 @@ http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 
 #EXTINF:0,Оружие
 #EXTGRP: Познавательное
-http://46.8.46.4:8080/Oruzhie/playlist.m3u8
+http://188.93.95.83/oruzhie/index.m3u8
 #EXTINF:0,Оружие2
 #EXTGRP: Познавательное
 http://217.25.216.4:8085/udp/225.1.2.82:2020
-#EXTINF:0,Adult Channel [Russian]
-#EXTGRP: Познавательное
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:0,Playboy TV
-#EXTGRP: Познавательное
-http://185.245.187.150:80/PlayboyTV/index.m3u8
-#EXTINF:0,Playboy TV2
-#EXTGRP: Познавательное
-http://cdn.itvago.com/PlayboyTV/video.m3u8?token=8AF7B7F5FDC3A
-#EXTINF:0,Hustler HD
-#EXTGRP: Познавательное
-http://192.162.212.48:8080/hustler_hd/index.m3u8
-#EXTINF:0,Blue Hustler
-#EXTGRP: Познавательное
-http://cdn.itvago.com/BlueHustler/video.m3u8?token=8AF7B7F5FDC3A
-#EXTINF:0,Redlight HD
-#EXTGRP: Познавательное
-http://cdn.itvago.com/RedlightHD/video.m3u8?token=8AF7B7F5FDC3A
-#EXTINF:0,Brazzers TV
-#EXTGRP: Познавательное
-http://cdn.itvago.com/BRAZZERSTVEurope/video.m3u8?token=8AF7B7F5FDC3A
-#EXTINF:0,Erox HD
-#EXTGRP: Познавательное
-http://e01.plius.tv:64144/n216/video.m3u8
-#EXTINF:0,Private TV HD
-#EXTGRP: Познавательное
-http://cdn.itvago.com/Prive/video.m3u8?token=8AF7B7F5FDC3A
-#EXTINF:0,Big Ass HD
-#EXTGRP: Познавательное
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigass.m3u8
-#EXTINF:0,Big Dick
-#EXTGRP: Познавательное
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigdick.m3u8
-#EXTINF:0,Big Tits
-#EXTGRP: Познавательное
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigtits.m3u8
-#EXTINF:0,Cuckold
-#EXTGRP: Познавательное
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/cuckold.m3u8
-#EXTINF:0,Hardcore
-#EXTGRP: Познавательное
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/hardcore.m3u8
-#EXTINF:0,Milf
-#EXTGRP: Познавательное
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/milf.m3u8
-#EXTINF:0,Gangbang
-#EXTGRP: Познавательное
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:0, MILF
-#EXTGRP: Познавательное
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:0,Threesome HD
-#EXTGRP: Познавательное
-http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:0,AST TV HD
-#EXTGRP: Познавательное
-https://www.ast.tv/stream/1/high.m3u8
-#EXTINF:0,Shemale Tube TV 2
-#EXTGRP: Познавательное
-http://www.ast.tv/stream/2/master.m3u8
+
 
 
 
@@ -661,5 +601,5 @@ http://hls.goodgame.ru/hls/33226.m3u8
 http://hls.goodgame.ru/hls/71852.m3u8
 
 
-KISS 💋
 
+KISS �
