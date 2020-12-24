@@ -97,6 +97,9 @@ http://cdn.itvago.com/VgostyahYskazki/video.m3u8?token=8AF7B7F5FDC3A
 #EXTINF:0,В Christmas HD
 #EXTGRP: Кино
 http://195.154.242.229:3000/telegram/premiere_group/19551
+#EXTINF:0,В Новогодний
+#EXTGRP: Кино
+https://autopilot.catcast.tv/content/39484/index.m3u8
 
 #EXTINF:0,КИНОПОКАЗ
 #EXTGRP: Кино
@@ -169,7 +172,7 @@ https://cdn-curie.wasd.tv/live/927775/tracks-v1a1/mono.m3u8
 https://cdn-curie.wasd.tv/live/927783/tracks-v1a1/mono.m3u8
 #EXTINF:0,СССР HD
 #EXTGRP: Кино
-https://cdn-curie.wasd.tv/live/927790/tracks-v1a1/mono.m3u8
+http://siza.site/iptvteam?format=hls
 #EXTINF:0,УКРАИНСВАЯ ССР HD
 #EXTGRP: Кино
 https://cdn-curie.wasd.tv/live/930157/tracks-v1a1/mono.m3u8
@@ -177,7 +180,7 @@ https://cdn-curie.wasd.tv/live/930157/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,СССР
 #EXTGRP: Кино
-http://v2.catcast.me/content/36506/index.m3u8
+https://v2.catcast.tv/content/36506/index.m3u8
 #EXTINF:0,СССР2
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/38821/index.m3u8
@@ -289,16 +292,16 @@ http://188.93.95.83/tv1000rukino/index.m3u8
 http://89.189.191.250/239.211.211.142/stream.m3u8
 #EXTINF:0,Кинохит 2
 #EXTGRP: Кино
-https://s1.idata.uz/stch_temp3/tracks-v1a1/mono.m3u8
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
-http://192.162.212.48:8080/kinomix/index.m3u8
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 #EXTINF:0,КИНОМИКС 2
 #EXTGRP: Кино
 http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/509/index.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
-http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/224/index.m3u8
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:0,Кинопремьера 2
 #EXTGRP: Кино
 
@@ -602,4 +605,5 @@ http://hls.goodgame.ru/hls/71852.m3u8
 
 
 
-KISS �
+KISS 💋
+
