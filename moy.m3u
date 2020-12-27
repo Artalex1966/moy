@@ -1,40 +1,5 @@
 #EXTM3U
 
-#EXTINF:0,За двумя зайцами
-#EXTGRP: Мюзикл
-https://pcdn2.v-s.mobi/yYQoXQJof05ZAG_YDQ/360p.mp4
-#EXTINF:0,Вечера на хуторе близ Диканьки
-#EXTGRP: Мюзикл
-https://nl100.cdnlast.com/s/63f6b22bbb1b9eb0f2c56d8a58a2231717b/hd_30/Vechera.na.khutore.bliz.Dikanki.2001.DVDRip_480.mp4
-#EXTINF:0,Безумный день или Женитьба Фигаро
-#EXTGRP: Мюзикл
-https://dlcache4.vibio.tv/2f29a24d8c036b3717ae16806cbc0eda/2699/2699424/output.lq.mp4
-#EXTINF:0,Сорочинская ярмарка
-#EXTGRP: Мюзикл
-https://high.flv-c.io.ua/img_v/bc72721453_00167748.mp4
-#EXTINF:0,Золушка
-#EXTGRP: Мюзикл
-https://dlcache4.vibio.tv/4e2891416ae656bf2e75e8bb33fced53/2687/2687980/output.lq.mp4
-#EXTINF:0,Снежная королева
-#EXTGRP: Мюзикл
-https://high.flv-c.io.ua/img_v/45d0b7a8b2_00195752.mp4
-#EXTINF:0,Три мушкетера (2005)
-#EXTGRP: Мюзикл
-https://high.flv-c.io.ua/img_v/9961e5c11e_00195763.mp4
-#EXTINF:0,Первый скорый / 1 серия
-#EXTGRP: Мюзикл
-https://high.flv-c.io.ua/img_v/aa662c997b_00195779.mp4
-#EXTINF:0,Первый скорый / 2 серия
-#EXTGRP: Мюзикл
-https://high.flv-c.io.ua/img_v/bafd3860c3_00195784.mp4
-#EXTINF:0,Красная шапочка
-#EXTGRP: Мюзикл
-https://high.flv-c.io.ua/img_v/b170f24478_00196138.mp4
-#EXTINF:0,Очень новогоднее кино, или Ночь в музее 2007
-#EXTGRP: Мюзикл
-https://am1.cdnlast.com/s/f988ddda95b9a2f41f647cb73611c340f4d/sd_480v/Ochen.novogodnee.kino_480.mp4
-
-
 
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
@@ -46,6 +11,9 @@ http://v2.catcast.me/content/37745/index.m3u8
 #EXTINF:0,Музыка 2
 #EXTGRP: Музыка
 http://v2.catcast.me/content/37742/index.m3u8
+#EXTINF:0,Ретро Музыка
+#EXTGRP: Музыка
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 
 #EXTINF:0,Россия 1 HD
@@ -80,7 +48,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/bw2000000/variant.m3u8?|User-
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
 #EXTINF:0,РЕН ТВ (+6)
 #EXTGRP: эфир
-http://tinyurl.com/wgryht4/CH_RENTV/bw2000000/variant.m3u8?version=2&offset=-21600
+http://1.1usd.tv:34000/ch401/mono.m3u8?token=1usdtv_v1909.q0qhO4C8xdYsoIcypQvn4mBLEVFZNkeK4O_PEhQs9Nlh4K6Lf5qyOYr0EAlzhL8h
 #EXTINF:0,СТС 
 #EXTGRP: эфир
 http://spacetv.in/stream/DIPK8H19CP8/138.m3u8
@@ -118,9 +86,7 @@ http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 #EXTINF:0,КИНО 1 INTERNATIONAL
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38617/index.m3u8
-#EXTINF:0,FILM TV 
-#EXTGRP: Кино
-https://v2.catcast.tv/content/38144/index.m3u8
+
 #EXTINF:0,Детское кино International
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38720/index.m3u8
@@ -130,7 +96,7 @@ https://v2.catcast.tv/content/38720/index.m3u8
 https://autopilot.catcast.tv/content/38850/index.m3u8
 #EXTINF:0,В Гостях у Сказки
 #EXTGRP: Кино
-http://cdn.itvago.com/VgostyahYskazki/video.m3u8?token=8AF7B7F5FDC3A
+http://spacetv.in/stream/IFBYIR5OA7/93.m3u8
 #EXTINF:0,В Christmas HD
 #EXTGRP: Кино
 http://195.154.242.229:3000/telegram/premiere_group/19551
@@ -140,7 +106,7 @@ https://autopilot.catcast.tv/content/39484/index.m3u8
 
 #EXTINF:0,КИНОПОКАЗ
 #EXTGRP: Кино
-http://192.162.212.48:8080/kinopokaz/index.m3u8
+http://spacetv.in/stream/IFBYIR5OA7/64.m3u8
 
 
 
@@ -161,7 +127,7 @@ https://cdnnow.goodgame.ru/hls/181070.m3u8
 http://cdnnow.goodgame.ru/hls/181746.m3u8
 #EXTINF:-1,STR TV
 #EXTGRP: Кино
-https://hls.goodgame.ru/hls/130048.m3u8
+http://dmitry-tv.my1.ru/his/02/CH_STRTV.m3u8
 
 #EXTINF:-1,Сити Эдем киноклассика
 #EXTGRP: Кино
@@ -290,6 +256,10 @@ http://89.189.191.250/239.211.211.95/stream.m3u8
 #EXTINF:0,Кино ТВ HD2
 #EXTGRP: Кино
 http://87.251.176.10:8080/159/index.m3u8
+
+#EXTINF:0,FILM TV 
+#EXTGRP: Кино
+https://v2.catcast.tv/content/38144/index.m3u8
 
 #EXTINF:0,Звезда
 #EXTGRP: Кино
