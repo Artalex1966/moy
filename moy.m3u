@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
 http://v2.catcast.me/content/37739/index.m3u8
@@ -169,13 +167,13 @@ http://217.71.224.86:8162
 http://195.154.242.229:3000/telegram/premiere_group/12
 #EXTINF:0,МОСФИЛЬМ HD
 #EXTGRP: Кино
-https://cdn-curie.wasd.tv/live/927775/tracks-v1a1/mono.m3u8
+https://autopilot.catcast.tv/content/38135/index.m3u8
 #EXTINF:0,ЛЕНФИЛЬМ HD
 #EXTGRP: Кино
-https://cdn-curie.wasd.tv/live/927783/tracks-v1a1/mono.m3u8
+https://autopilot.catcast.tv/content/38431/index.m3u8
 #EXTINF:0,СССР HD
 #EXTGRP: Кино
-http://siza.site/iptvteam?format=hls
+https://autopilot.catcast.tv/content/39566/index.m3u8
 #EXTINF:0,УКРАИНСВАЯ ССР HD
 #EXTGRP: Кино
 https://cdn-curie.wasd.tv/live/930157/tracks-v1a1/mono.m3u8
