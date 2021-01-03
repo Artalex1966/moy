@@ -161,7 +161,7 @@ http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: Кино
-http://217.71.224.86:8162
+http://195.154.242.229:3000/premiere_group/telegram/12
 #EXTINF:0,Мосфильм. Золотая коллекция2
 #EXTGRP: Кино
 http://195.154.242.229:3000/test/test/12
