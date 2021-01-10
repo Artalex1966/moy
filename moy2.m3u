@@ -1,4 +1,7 @@
 ﻿#EXTM3U 
+#EXTINF:0,Русская ночь
+#EXTGRP: XXX TV
+http://217.71.224.86:8287
 #EXTINF:0,Adult Channel [Russian]
 #EXTGRP: XXX TV
 http://live.redtraffic.xyz/russian.m3u8
@@ -7,10 +10,10 @@ http://live.redtraffic.xyz/russian.m3u8
 http://185.245.187.150:80/PlayboyTV/index.m3u8
 #EXTINF:0,Playboy TV2
 #EXTGRP: XXX TV
-http://cdn.itvago.com/PlayboyTV/video.m3u8?token=8AF7B7F5FDC3A
+http://185.245.187.150:80/PlayboyTV/index.m3u8
 #EXTINF:0,Hustler HD
 #EXTGRP: XXX TV
-http://192.162.212.48:8080/hustler_hd/index.m3u8
+http://91.206.19.123:4022/udp/225.0.56.50:1234?zona-iptv.ru/
 #EXTINF:0,Blue Hustler
 #EXTGRP: XXX TV
 http://cdn.itvago.com/BlueHustler/video.m3u8?token=8AF7B7F5FDC3A
@@ -19,13 +22,13 @@ http://cdn.itvago.com/BlueHustler/video.m3u8?token=8AF7B7F5FDC3A
 http://cdn.itvago.com/RedlightHD/video.m3u8?token=8AF7B7F5FDC3A
 #EXTINF:0,Brazzers TV
 #EXTGRP: XXX TV
-http://cdn.itvago.com/BRAZZERSTVEurope/video.m3u8?token=8AF7B7F5FDC3A
+http://91.206.19.123:4022/udp/225.0.55.239:1234?zona-iptv.ru/
 #EXTINF:0,Erox HD
 #EXTGRP: XXX TV
 http://e01.plius.tv:64144/n216/video.m3u8
 #EXTINF:0,Private TV HD
 #EXTGRP: XXX TV
-http://cdn.itvago.com/Prive/video.m3u8?token=8AF7B7F5FDC3A
+http://91.206.19.123:4022/udp/225.0.55.230:1234?zona-iptv.ru/
 #EXTINF:0,Big Ass HD
 #EXTGRP: XXX TV
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigass.m3u8
@@ -172,5 +175,3 @@ https://1.kinokordon.live/secure/OPtr8zJBp9omfofMGpGuAQ/1607936981/Josefine.Mutz
 https://video3.tizam.cc/films/parrucchiere-per-signora.mp4
 
 https://huyamba-v1.kvscdn.com/remote_control.php?time=1607921823&cv=98fa04a53dc6ef543f4b622809f95fdf&lr=0&cv2=8c92f18e8e76d11aafbdf22b92785a51&file=%2Fcontents%2Fvideos%2F5000%2F5082%2F5082.mp4&cv3=6b7df744fdf98b4c86c4277028272255&cv4=123356594868d438482229b7c1c30978
-
-
