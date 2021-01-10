@@ -44,9 +44,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?versio
 #EXTINF:0,Рен ТВ 
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
-#EXTINF:0,РЕН ТВ (+6)
+#EXTINF:0,РЕН ТВ (+7)
 #EXTGRP: эфир
-http://1.1usd.tv:34000/ch401/mono.m3u8?token=1usdtv_v1909.q0qhO4C8xdYsoIcypQvn4mBLEVFZNkeK4O_PEhQs9Nlh4K6Lf5qyOYr0EAlzhL8h
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:0,СТС 
 #EXTGRP: эфир
 http://spacetv.in/stream/DIPK8H19CP8/138.m3u8
@@ -95,9 +95,9 @@ https://autopilot.catcast.tv/content/38850/index.m3u8
 #EXTINF:0,В Гостях у Сказки
 #EXTGRP: Кино
 http://spacetv.in/stream/IFBYIR5OA7/93.m3u8
-#EXTINF:0,В Christmas HD
+#EXTINF:0,В Гостях у Сказки 2
 #EXTGRP: Кино
-http://195.154.242.229:3000/telegram/premiere_group/19551
+http://178.163.43.13:4022/udp/234.0.0.248:2000
 #EXTINF:0,В Новогодний
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/39484/index.m3u8
@@ -119,13 +119,13 @@ https://autopilot.catcast.tv/content/38801/index.m3u8
 https://cdnnow.goodgame.ru/hls/181070.m3u8
 #EXTINF:0, FANTASTIKA HD
 #EXTGRP: Кино
-https://cdnnow.goodgame.ru/hls/181070.m3u8
+https://cdnnow.goodgame.ru/hls/181070.m3u8?|User-agent=smartlabs
 #EXTINF:-1,KVN-HD
 #EXTGRP: Кино
 http://cdnnow.goodgame.ru/hls/181746.m3u8
-#EXTINF:-1,STR TV
+#EXTINF:-1,VKTV HD
 #EXTGRP: Кино
-http://dmitry-tv.my1.ru/his/02/CH_STRTV.m3u8
+https://cdnnow.goodgame.ru/hls/173945.m3u8
 
 #EXTINF:-1,Сити Эдем киноклассика
 #EXTGRP: Кино
@@ -149,9 +149,9 @@ http://89.106.234.3:80/Mujskoe_kino_hd_34_35.m3u8
 #EXTINF:0,Остросюжетное
 #EXTGRP: Кино
 http://188.35.9.26:5050/002
-#EXTINF:0,Иллюзион +
+#EXTINF:0,Премиальное HD
 #EXTGRP: Кино
-http://188.93.95.83/illuzionplus/index.m3u8
+http://188.35.9.26:5050/001
 #EXTINF:0,Кино UHD
 #EXTGRP: Кино
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/variant.m3u8?version=2
@@ -165,18 +165,18 @@ http://195.154.242.229:3000/premiere_group/telegram/12
 #EXTINF:0,Мосфильм. Золотая коллекция2
 #EXTGRP: Кино
 http://195.154.242.229:3000/test/test/12
-#EXTINF:0,МОСФИЛЬМ HD
+#EXTINF:0,Твое ТВ FHD
 #EXTGRP: Кино
-https://autopilot.catcast.tv/content/38135/index.m3u8
-#EXTINF:0,ЛЕНФИЛЬМ HD
+http://streaming-elbrus.tk:8080/channel/n21fff3ee/index.m3u8?q=eyJhbGciOiJzaGE1MTJXaXRoUlNBRW5jcnlwdGlvbiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ0dm9lIn0.SrcoPYly5TBnph6ljAeZsp7PMCODX5b5ZMBT6NR3NCrfHmOh86ECfjwifYI3eqELAg90ussK5nxvcwl8pmX_0Q
+#EXTINF:0,55555
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/38431/index.m3u8
 #EXTINF:0,СССР HD
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/39566/index.m3u8
-#EXTINF:0,УКРАИНСВАЯ ССР HD
+#EXTINF:0,Первый СССР
 #EXTGRP: Кино
-https://cdn-curie.wasd.tv/live/930157/tracks-v1a1/mono.m3u8
+http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
 
 
 #EXTINF:0,СССР
