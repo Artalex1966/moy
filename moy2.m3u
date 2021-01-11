@@ -16,7 +16,7 @@ http://185.245.187.150:80/PlayboyTV/index.m3u8
 http://91.206.19.123:4022/udp/225.0.56.50:1234?zona-iptv.ru/
 #EXTINF:0,Blue Hustler
 #EXTGRP: XXX TV
-http://cdn.itvago.com/BlueHustler/video.m3u8?token=8AF7B7F5FDC3A
+http://188.123.42.19:4022/udp/239.45.4.2:1234?zona-iptv.ru/
 #EXTINF:0,Redlight HD
 #EXTGRP: XXX TV
 http://cdn.itvago.com/RedlightHD/video.m3u8?token=8AF7B7F5FDC3A
