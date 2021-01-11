@@ -1,4 +1,6 @@
 #EXTM3U
+
+
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
 http://v2.catcast.me/content/37739/index.m3u8
@@ -102,9 +104,9 @@ http://178.163.43.13:4022/udp/234.0.0.248:2000
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/39484/index.m3u8
 
-#EXTINF:0,КИНОПОКАЗ
+#EXTINF:0,Cosmos TV HD
 #EXTGRP: Кино
-http://spacetv.in/stream/IFBYIR5OA7/64.m3u8
+http://213.184.238.59:6202?3690505080
 
 
 
@@ -123,9 +125,9 @@ https://cdnnow.goodgame.ru/hls/181070.m3u8?|User-agent=smartlabs
 #EXTINF:-1,KVN-HD
 #EXTGRP: Кино
 http://cdnnow.goodgame.ru/hls/181746.m3u8
-#EXTINF:-1,VKTV HD
+#EXTINF:-1,ULTO TV
 #EXTGRP: Кино
-https://cdnnow.goodgame.ru/hls/173945.m3u8
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
 
 #EXTINF:-1,Сити Эдем киноклассика
 #EXTGRP: Кино
@@ -145,7 +147,7 @@ https://cdnhls.goodgame.ru/hls/180960.m3u8
 http://cdnnow.goodgame.ru/hls/163253.m3u8
 #EXTINF:0,Мужское кино HD
 #EXTGRP: Кино
-http://89.106.234.3:80/Mujskoe_kino_hd_34_35.m3u8
+http://188.35.9.11:2022
 #EXTINF:0,Остросюжетное
 #EXTGRP: Кино
 http://188.35.9.26:5050/002
@@ -607,8 +609,9 @@ http://hls.goodgame.ru/hls/33226.m3u8
 #EXTINF:0,Блог 3
 #EXTGRP: Блог
 http://hls.goodgame.ru/hls/71852.m3u8
-
-
+#EXTINF:0,E TV
+#EXTGRP: Блог
+http://212.66.60.4:8000/play/a0cx
 
 KISS 💋
 
