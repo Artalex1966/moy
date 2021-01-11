@@ -170,12 +170,10 @@ http://195.154.242.229:3000/test/test/12
 #EXTINF:0,Твое ТВ FHD
 #EXTGRP: Кино
 http://streaming-elbrus.tk:8080/channel/n21fff3ee/index.m3u8?q=eyJhbGciOiJzaGE1MTJXaXRoUlNBRW5jcnlwdGlvbiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ0dm9lIn0.SrcoPYly5TBnph6ljAeZsp7PMCODX5b5ZMBT6NR3NCrfHmOh86ECfjwifYI3eqELAg90ussK5nxvcwl8pmX_0Q
-#EXTINF:0,55555
-#EXTGRP: Кино
-https://autopilot.catcast.tv/content/38431/index.m3u8
+
 #EXTINF:0,СССР HD
 #EXTGRP: Кино
-https://autopilot.catcast.tv/content/39566/index.m3u8
+http://siza.site/iptvteam?format=hls
 #EXTINF:0,Первый СССР
 #EXTGRP: Кино
 http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
