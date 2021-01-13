@@ -125,13 +125,13 @@ https://cdnnow.goodgame.ru/hls/181070.m3u8?|User-agent=smartlabs
 #EXTINF:-1,KVN-HD
 #EXTGRP: Кино
 http://cdnnow.goodgame.ru/hls/181746.m3u8
-#EXTINF:-1,ULTO TV
+#EXTINF:-1,STR TV
 #EXTGRP: Кино
-http://ultotv.ru:8888/live/uhd/playlist.m3u8
+https://cdnhls.goodgame.ru/hls/182277.m3u8
 
-#EXTINF:-1,Сити Эдем киноклассика
+#EXTINF:-1,FULL HD КИНО 
 #EXTGRP: Кино
-https://v2.catcast.tv/content/34185/index.m3u8
+https://cdnhls.goodgame.ru/hls/180960.m3u8
 #EXTINF:-1,VIP Cinema HD
 #EXTGRP: Кино
 http://cdnnow.goodgame.ru/hls/153640.m3u8
@@ -170,7 +170,9 @@ http://195.154.242.229:3000/test/test/12
 #EXTINF:0,Твое ТВ FHD
 #EXTGRP: Кино
 http://streaming-elbrus.tk:8080/channel/n21fff3ee/index.m3u8?q=eyJhbGciOiJzaGE1MTJXaXRoUlNBRW5jcnlwdGlvbiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ0dm9lIn0.SrcoPYly5TBnph6ljAeZsp7PMCODX5b5ZMBT6NR3NCrfHmOh86ECfjwifYI3eqELAg90ussK5nxvcwl8pmX_0Q
-
+#EXTINF:0,55555
+#EXTGRP: Кино
+https://autopilot.catcast.tv/content/38431/index.m3u8
 #EXTINF:0,СССР HD
 #EXTGRP: Кино
 http://siza.site/iptvteam?format=hls
