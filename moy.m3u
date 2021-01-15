@@ -163,10 +163,8 @@ http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: Кино
-http://195.154.242.229:3000/premiere_group/telegram/12
-#EXTINF:0,Мосфильм. Золотая коллекция2
-#EXTGRP: Кино
-http://195.154.242.229:3000/test/test/12
+http://185.134.37.199:4022/udp/234.0.0.95:2000
+
 #EXTINF:0,Твое ТВ FHD
 #EXTGRP: Кино
 http://streaming-elbrus.tk:8080/channel/n21fff3ee/index.m3u8?q=eyJhbGciOiJzaGE1MTJXaXRoUlNBRW5jcnlwdGlvbiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ0dm9lIn0.SrcoPYly5TBnph6ljAeZsp7PMCODX5b5ZMBT6NR3NCrfHmOh86ECfjwifYI3eqELAg90ussK5nxvcwl8pmX_0Q
