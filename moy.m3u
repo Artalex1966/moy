@@ -57,7 +57,7 @@ http://spacetv.in/stream/DIPK8H19CP8/138.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8?version=2
 #EXTINF:0,СТС (+4)
 #EXTGRP: эфир
-http://109.248.67.183:4022/udp/239.195.54.8:1234
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_IRK_STS/variant.m3u8?version=2
 #EXTINF:0, СТС love
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8?version=2
