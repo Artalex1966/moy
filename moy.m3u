@@ -72,7 +72,7 @@ http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TSM/variant.m3u8?
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
 #EXTINF:0,ТВ Центр 
 #EXTGRP: эфир
-http://dmitry-tv.my1.ru/his/DVB-T2/CH_TVC_1.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8?version=2
 
 #EXTINF:0,Красная линия 
 #EXTGRP: Кино
