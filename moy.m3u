@@ -138,6 +138,15 @@ https://cdnhls.goodgame.ru/hls/180960.m3u8
 #EXTINF:-1,VIP Cinema HD
 #EXTGRP: Кино
 http://cdnnow.goodgame.ru/hls/153640.m3u8
+#EXTINF:-1,Киноха
+#EXTGRP: Кино
+http://autopilot.catcast.tv/content/39478/index.m3u8
+#EXTINF:-1,Millenium TV
+#EXTGRP: Кино
+http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
+#EXTINF:-1,PSY FI HD
+#EXTGRP: Кино
+http://cdnnow.goodgame.ru/hls/143518.m3u8
 
 #EXTINF:-1,Кино ТВ HD
 #EXTGRP: Кино
@@ -189,12 +198,17 @@ https://v2.catcast.tv/content/39161/index.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP: Кино
 http://194.156.166.2:8000/play/a026
+#EXTINF:0, Министерство идей
+#EXTGRP: Познавательное
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:0, Discovery Science HD
+#EXTGRP: Познавательное
+http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
+
 #EXTINF:0,СССР HD
 #EXTGRP: Кино
 http://siza.site/iptvteam?format=hls
-#EXTINF:0,Первый СССР
-#EXTGRP: Кино
-http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
+
 
 
 #EXTINF:0,СССР
@@ -212,12 +226,6 @@ http://mnogotv.club:8084/tv/ch191/playlist.m3u8
 #EXTINF:0,Советские
 #EXTGRP: Кино
 http://autopilot.catcast.tv/content/38821/index.m3u8
-#EXTINF:0,Советское Кино2
-#EXTGRP: Кино
-http://62.122.91.178:2732/udp/239.1.9.38:1234
-#EXTINF:0,Память ТВ
-#EXTGRP: Кино
-https://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,Память
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38821/index.m3u8
@@ -235,12 +243,15 @@ http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/722/index.m3u8
 #EXTINF:0,Сделано в CCCP
 #EXTGRP: Кино
 http://st.cdn-tv.club/iptv/a1hUb0VseXJvMXVKYTd5Z1BIMzVBWnNlMnl2eEJnZitQZldpRkZzLzhrRT0/video.ts
-#EXTINF:0,TOP СССР
+#EXTINF:0,Родное кино
 #EXTGRP: Кино
-http://topchantv.net:3456/promoTOP/PROMO/6641
-#EXTINF:0,TOP 80s
+http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
+#EXTINF:0,T+
 #EXTGRP: Кино
-http://topchantv.net:3456/promoTOP/PROMO/277
+http://213.108.175.226/telplushd/index.m3u8
+#EXTINF:0,TV Сериал
+#EXTGRP: Кино
+https://cdnnow.goodgame.ru/hls/183108.m3u8
 #EXTINF:0,Ретро
 #EXTGRP: Кино
 http://89.189.191.250/239.211.211.58/stream.m3u8
@@ -344,249 +355,10 @@ http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
 http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
-
-
-
-#EXTINF:0,Мужское Кино
-#EXTGRP: Кино
-http://89.189.191.250/239.211.211.145/stream.m3u8
-#EXTINF:0,Мужское Кино 2
-#EXTGRP: Кино
-http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/164/index.m3u8
-#EXTINF:0,Мужское Кино FHD
-#EXTGRP: Кино
-http://188.35.9.11:2022
-#EXTINF:0,Остросюжетное HD
-#EXTGRP: Кино
-http://188.35.9.11:2015
-#EXTINF:0,Остросюжетное
-#EXTGRP: Кино
-
-
-
-#EXTINF:0,E TV
-#EXTGRP: Познавательные
-https://strm.yandex.ru/kal/etv/etv0_169_1080p.json/index-v1-a1.m3u8
-
 #EXTINF:0,Маша и Медведь
-#EXTGRP: Кино
+#EXTGRP: Детям
 https://bozztv.com/36bay2/gin/giniko_mashaimedved_1000kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:0,Чип и Дейл
-#EXTGRP: Кино
-http://188.138.17.217:4000/play/a003/index.m3u8?token=emitv
-#EXTINF:-1 ,Супер Мульт
-https://rebrand.ly/tibvozt/ROSTIK-TV/LIKE
-#EXTINF:0,MULT
-#EXTGRP: Кино
-http://v2.catcast.tv/content/38144/index.m3u8
 
-#EXTINF:0,PZN TV HD
-#EXTGRP: Кино
-http://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:0,KVN TV HD
-#EXTGRP: Кино
-https://hls.goodgame.ru/hls/172148.m3u8
-#EXTINF:0,STR TV
-#EXTGRP: Кино
-http://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF:0,AKUDJI TV HD
-#EXTGRP: Кино
-http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:0,Марс-ТВ
-#EXTGRP: Кино
-https://v2.catcast.tv/content/37033/index.m3u8?bw3522189768.m3u8
-#EXTINF:0,ULTO HD
-#EXTGRP: Кино
-http://ultotv.ru:8888/live/uhd/chunks.m3u8
-#EXTINF:-1,Кино VHS
-#EXTGRP: Кино
-https://v2.catcast.tv/content/38794/index.m3u8
-
-#EXTINF:0,Hubblel HD
-#EXTGRP: Познавательные
-http://188.138.17.217:4000/play/a006/index.m3u8?token=emitv
-#EXTINF:0,Кто Есть Кто
-#EXTGRP: Познавательные
-http://77.243.112.149:8080/kto-est-kto/index.m3u8?token=413079063374
-#EXTINF:0,Тайна
-#EXTGRP: Познавательные
-http://vip-iptvsmart.usite.pro/server-2/308_playlist.m3u8
-#EXTINF:0,Оружие
-#EXTGRP: Познавательные
-http://188.93.95.83/oruzhie/index.m3u8
-#EXTINF:0,Оружие 2
-#EXTGRP: Познавательные
-http://77.243.112.149:8080/oruzhie/index.m3u8?token=413079063374
-#EXTINF:0,История
-#EXTGRP: Познавательные
-http://89.189.191.250/239.211.211.55/stream.m3u8
-#EXTINF:0,История2
-#EXTGRP: Познавательные
-http://vip-iptvsmart.usite.pro/server-2/206_playlist.m3u8
-
-#EXTINF:0,Наука 2.0
-#EXTGRP: Познавательные
-http://45.133.96.152:81/69/index.m3u8
-#EXTINF:0,Наука 2.02
-#EXTGRP: Познавательные
-http://89.189.191.250/239.211.211.10/stream.m3u8
-#EXTINF:0,Техно 24
-#EXTGRP: Познавательные
-http://cdn.itvago.com/T24/video.m3u8?token=8AF7B7F5FDC3A
-#EXTINF:0,Техно 24 2
-#EXTGRP: Познавательные
-http://93.158.222.99/24techno/index.m3u8
-
-#EXTINF:0,Discovery Channel
-#EXTGRP: Познавательные
-http://79.142.197.8:8888/Discovery/index.m3u8
-#EXTINF:0,Discovery
-#EXTGRP: Познавательное
-http://79.142.197.8:8888/Discovery/index.m3u8
-#EXTINF:0,Discovery Science HD
-#EXTGRP: Познавательные
-http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
-#EXTINF:0,Discovery Science
-#EXTGRP: Познавательное
-http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
-
-#EXTINF:0, Рен ТВ 
-#EXTGRP: эфир
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:0, РЕН ТВ (+2) 
-#EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
-#EXTINF:0, РЕН ТВ (+4) 
-#EXTGRP: эфир
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_4.m3u8
-#EXTINF:0, РЕН ТВ (+6) 
-#EXTGRP: эфир
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_6.m3u8
-#EXTINF:0, РЕН ТВ (+7) 
-#EXTGRP: эфир
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_7.m3u8
-
-#EXTINF:0,Звезда
-#EXTGRP: эфир
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:0,Звезда +2
-#EXTGRP: эфир
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ZVEZDA_2/variant.m3u8
-#EXTINF:0,Звезда +4
-#EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/bw2000000/variant.m3u8?version=2
-#EXTINF:0,Звезда +7
-#EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8?version=2
-#EXTINF:0,Звезда +8
-#EXTGRP: эфир
-http://s20441.cdn.ngenix.net/hls/CH_R03_OTT_DV_MGDN_ZVEZD_MGDN_OTT/variant.m3u8?version=2
-#EXTINF:0,Звезда +10
-#EXTGRP: эфир
-http://tinyurl.com/wgryht4/CH_ZVEZDA/bw2000000/variant.m3u8?version=2&offset=-36000
-
-
-
-#EXTINF:0,ULTO
-#EXTGRP: Кино
-http://ultotv.ru:8888/live/uhd/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:0,ВРЕМЯ
-#EXTGRP: Хорошее
-http://188.113.190.12/118/video.m3u8
-
-#EXTINF:0,CTC
-#EXTGRP: эфир
-http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/506/index.m3u8
-#EXTINF:0,СТС International
-#EXTGRP: эфир
-http://sc.id-tv.kz/STS_36_37.m3u8
-#EXTINF:0,СТС Love
-#EXTGRP: эфир
-http://dmitry-tv.ru/his/itv_zabava/CH_STSLOVE.m3u8
-
-
-
-
-
-
-#EXTINF:0,ТВЦ
-#EXTGRP: эфир
-http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
-#EXTINF:0,ТВЦ2
-#EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
-
-#EXTINF:0,Супер
-#EXTGRP: эфир
-https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565110210/5a3ca6e737ed0c5f7ad9867e6f2bb135/playlist.m3u8
-#EXTINF:0,Супер 2
-#EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
-
-#EXTINF:0, Министерство идей
-#EXTGRP: Познавательное
-http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-
-
-#EXTINF:0,Оружие
-#EXTGRP: Познавательное
-http://188.93.95.83/oruzhie/index.m3u8
-#EXTINF:0,Оружие2
-#EXTGRP: Познавательное
-http://217.25.216.4:8085/udp/225.1.2.82:2020
-
-
-
-
-#EXTINF:0,Бигуди
-#EXTGRP: Украина
-http://185.189.184.7:8888/Bigudi/index.m3u8?token=test
-#EXTINF:0,Бигуди2
-#EXTGRP: Украина
-http://185.189.184.7:8888/Bigudi/index.m3u8?token=test
-#EXTINF:0,Бигуди3
-#EXTGRP: Украина
-http://185.189.184.7:8888/Bigudi/index.m3u8?token=test
-#EXTINF:0,Enter Фильм
-#EXTGRP: Украина
-http://spacetv.in/stream/DIPK8H19CP8/322.m3u8
-#EXTINF:0,ICTV
-#EXTGRP: Украина
-http://193.46.210.28/stream/7vzrgggqh9hi27shrnvecmyp9kduw789bgsrm5ak34mwjxhj3grg5a39tk3tc9pm2d4z8jz9dyi2bfpmeax3j75wc3ctwzpjq6xrkupf6hiaxm2447agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
-#EXTINF:0,Интер+
-#EXTGRP: Украина
-http://193.46.210.28/stream/z2zrrzw6qjgdqdufy8ht53n948ud3uixn5cdktc8ainqanr4c5g2d7c8xt4c2nt6k2ybdmfz2y75qqbrrh2wsawefi76v8ewbqm3hjfq4vb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
-#EXTINF:0,Интер 
-#EXTGRP: Украина
-http://lb1.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:0,Интер 2
-#EXTGRP: Украина
-http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:0,Интер 3
-#EXTGRP: Украина
-https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:0,Украина
-#EXTGRP: Украина
-http://playlist.hmara.tv:80/4a8a78be/d24333874f92f9af05959efbf15ee7311bbf38bd.m3u8
-#EXTINF:0,Украина 2
-#EXTGRP: Украина
-http://178.165.68.39:7781/udp/239.2.1.14:1234
-#EXTINF:0,НТН
-#EXTGRP: Украина
-http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
-#EXTINF:0,1+1
-#EXTGRP: Украина
-http://188.35.9.11:2001/index.m3u8
-
-#EXTINF:0,Simon TV (Харьков)
-#EXTGRP: Украина
-https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
 
 
 
@@ -630,6 +402,4 @@ http://hls.goodgame.ru/hls/71852.m3u8
 http://212.66.60.4:8000/play/a0cx
 
 KISS 💋
-
-
 
