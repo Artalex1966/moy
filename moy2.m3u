@@ -1,34 +1,8 @@
 ﻿#EXTM3U 
-#EXTINF:0,Русская ночь
-#EXTGRP: XXX TV
-http://217.71.224.86:8287
+
 #EXTINF:0,Adult Channel [Russian]
 #EXTGRP: XXX TV
 http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:0,Playboy TV
-#EXTGRP: XXX TV
-http://185.245.187.150:80/PlayboyTV/index.m3u8
-#EXTINF:0,Playboy TV2
-#EXTGRP: XXX TV
-http://185.245.187.150:80/PlayboyTV/index.m3u8
-#EXTINF:0,Hustler HD
-#EXTGRP: XXX TV
-http://catchup.iptv.iinet.rs/chunklist.m3u8?id=177&profile=1&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA
-#EXTINF:0,Blue Hustler
-#EXTGRP: XXX TV
-http://catchup.iptv.iinet.rs/playlist.m3u8?id=214&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR
-#EXTINF:0,Redlight HD
-#EXTGRP: XXX TV
-http://cdn.itvago.com/RedlightHD/video.m3u8?token=8AF7B7F5FDC3A
-#EXTINF:0,Brazzers TV
-#EXTGRP: XXX TV
-http://91.206.19.123:4022/udp/225.0.55.239:1234?zona-iptv.ru/
-#EXTINF:0,Erox HD
-#EXTGRP: XXX TV
-http://e01.plius.tv:64144/n216/video.m3u8
-#EXTINF:0,Private TV HD
-#EXTGRP: XXX TV
-http://91.206.19.123:4022/udp/225.0.55.230:1234?zona-iptv.ru/
 #EXTINF:0,Big Ass HD
 #EXTGRP: XXX TV
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigass.m3u8
@@ -237,7 +211,6 @@ https://pl.cpnbb.net/videos/030817_20/030817_20_720p.m3u8
 #EXTINF:-1,Infidelity
 #EXTGRP:Кино+
 https://dl2.booblex.pro/9oo6lHJHaQ61OK0N23Ko8A/22/22992/infidelity.mp4?ttl=1611972051&ip=93.158.161.5
-
 
 
 
