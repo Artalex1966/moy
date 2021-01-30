@@ -154,12 +154,21 @@ http://194.156.166.2:8000/play/a01h
 #EXTINF:0,Мужское кино HD
 #EXTGRP: Кино
 http://188.35.9.11:2022
-#EXTINF:0,Остросюжетное
+#EXTINF:0,Мужское кино
+#EXTGRP: Кино
+http://myott.top/stream/DIPK8H19CP8/107.m3u8
+#EXTINF:0,Остросюжетное HD
 #EXTGRP: Кино
 http://188.35.9.26:5050/002
+#EXTINF:0,Остросюжетное
+#EXTGRP: Кино
+http://myott.top/stream/DIPK8H19CP8/214.m3u8
 #EXTINF:0,Премиальное HD
 #EXTGRP: Кино
 http://188.35.9.26:5050/001
+#EXTINF:0,Премиальное 
+#EXTGRP: Кино
+http://myott.top/stream/DIPK8H19CP8/215.m3u8
 #EXTINF:0,Кино UHD
 #EXTGRP: Кино
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/variant.m3u8?version=2
@@ -621,4 +630,6 @@ http://hls.goodgame.ru/hls/71852.m3u8
 http://212.66.60.4:8000/play/a0cx
 
 KISS 💋
+
+
 
