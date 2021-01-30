@@ -185,7 +185,7 @@ http://178.163.100.140:4022/udp/234.0.0.95:2000
 
 #EXTINF:0,Твое ТВ FHD
 #EXTGRP: Кино
-http://streaming-elbrus.tk:8080/channel/n21fff3ee/index.m3u8?q=eyJhbGciOiJzaGE1MTJXaXRoUlNBRW5jcnlwdGlvbiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ0dm9lIn0.SrcoPYly5TBnph6ljAeZsp7PMCODX5b5ZMBT6NR3NCrfHmOh86ECfjwifYI3eqELAg90ussK5nxvcwl8pmX_0Q
+https://v2.catcast.tv/content/39161/index.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP: Кино
 http://194.156.166.2:8000/play/a026
