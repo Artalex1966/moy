@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
 http://v2.catcast.me/content/37739/index.m3u8
@@ -164,10 +163,13 @@ https://cdnhls.goodgame.ru/hls/180960.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: Кино
 http://194.156.166.2:8000/play/a01h
+#EXTINF:0,Мужское кино 
+#EXTGRP: Кино
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 #EXTINF:0,Мужское кино HD
 #EXTGRP: Кино
 http://188.35.9.11:2022
-#EXTINF:0,Мужское кино
+#EXTINF:0,Мужское кино 1
 #EXTGRP: Кино
 http://myott.top/stream/DIPK8H19CP8/107.m3u8
 #EXTINF:0,Остросюжетное HD
@@ -213,8 +215,6 @@ http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 #EXTGRP: Кино
 http://siza.site/iptvteam?format=hls
 
-
-
 #EXTINF:0,СССР
 #EXTGRP: Кино
 https://v2.catcast.tv/content/36506/index.m3u8
@@ -230,9 +230,9 @@ http://mnogotv.club:8084/tv/ch191/playlist.m3u8
 #EXTINF:0,Советские
 #EXTGRP: Кино
 http://autopilot.catcast.tv/content/38821/index.m3u8
-#EXTINF:0,Советские мультфильмы
+#EXTINF:0,TOP: USSR
 #EXTGRP: Кино
-https://webmaster.pp.ua/u/skv1c.m3u
+http://topchantv.net:3456/promotest/Promotest/6641
 #EXTINF:0,Память
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38821/index.m3u8
@@ -330,28 +330,22 @@ http://188.93.95.83/tv1000rukino/index.m3u8
 
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://89.189.191.250/239.211.211.142/stream.m3u8
-#EXTINF:0,Кинохит 2
-#EXTGRP: Кино
 http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #EXTINF:0,КИНОМИКС
 #EXTGRP: Кино
 http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
-#EXTINF:0,КИНОМИКС 2
-#EXTGRP: Кино
-http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/509/index.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:0,Кинопремьера 2
+#EXTINF:0,Кинокомедия
 #EXTGRP: Кино
-
+http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
 #EXTINF:0, Киносвидание
 #EXTGRP: Кино
 http://192.162.212.48:8080/kinosvidanie/index.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: Кино
-http://192.162.212.48:8080/kinosemya/index.m3u8
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
