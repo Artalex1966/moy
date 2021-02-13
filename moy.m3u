@@ -32,7 +32,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_3.m3u8
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_EKT/variant.m3u8?version=2
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
-http://194.67.108.43/high/bvgdeknl74/1.mpeg
+http://dmitry-tv.my1.ru/his/zabava/01/CH_1TV.m3u8
 #EXTINF:0,Первый канал 2
 #EXTGRP: эфир
 http://persik.by/stream/5849/394446/435.m3u8
