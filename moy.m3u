@@ -32,7 +32,10 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_3.m3u8
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_EKT/variant.m3u8?version=2
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
-http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+http://194.67.108.43/high/bvgdeknl74/1.mpeg
+#EXTINF:0,Первый канал 2
+#EXTGRP: эфир
+http://persik.by/stream/5849/394446/435.m3u8
 #EXTINF:0,РТР Планета
 #EXTGRP: эфир
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
@@ -112,9 +115,9 @@ http://clients.apsny.camera/tv_gal_tv_hd_online/index.m3u8
 #EXTINF:0,Cosmos TV HD
 #EXTGRP: Кино
 http://213.184.238.59:6202?3690505080
-#EXTINF:0,kinobest
+#EXTINF:0,ВСЁ ВКЛЮЧЕНО
 #EXTGRP: Кино
-http://v2.catcast.tv/content/39478/index.m3u8
+https://v2.catcast.tv/content/39161/index.m3u8
 
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
@@ -127,7 +130,10 @@ https://autopilot.catcast.tv/content/38801/index.m3u8
 https://cdnnow.goodgame.ru/hls/181070.m3u8
 #EXTINF:0, FANTASTIKA HD
 #EXTGRP: Кино
-https://cdnnow.goodgame.ru/hls/181070.m3u8?|User-agent=smartlabs
+https://hls.goodgame.ru/hls/181070.m3u8
+#EXTINF:0, PARADOX HD
+#EXTGRP: Кино
+http://195.154.242.229:3000/telegram/premiere_group_chat/47349
 #EXTINF:-1,KVN-HD
 #EXTGRP: Кино
 http://cdnnow.goodgame.ru/hls/181746.m3u8
@@ -135,22 +141,28 @@ http://cdnnow.goodgame.ru/hls/181746.m3u8
 #EXTGRP: Кино
 https://cdnhls.goodgame.ru/hls/182277.m3u8
 
-#EXTINF:-1,VIP Cinema HD
+#EXTINF:-1,TOP Cinema HD
 #EXTGRP: Кино
-http://myott.top/stream/DA5345HD3KZ/62.m3u8
+http://topchantv.net:3456/promotest/Promotest/1611
 #EXTINF:-1,Millenium TV
 #EXTGRP: Кино
 http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
 
-#EXTINF:-1,Кино ТВ HD
+#EXTINF:-1,ХИТ Cinema
 #EXTGRP: Кино
-http://myott.top/stream/DA5345HD3KZ/221.m3u8
+https://v2.catcast.tv/content/39742/index.m3u8
 #EXTINF:-1,Кино ТВ
 #EXTGRP: Кино
 http://51.195.44.53:8081/tv/kino-tv/chunks.m3u8
 #EXTINF:0,PZN
 #EXTGRP: Кино
-https://cdnhls.goodgame.ru/hls/180960.m3u8
+http://hls.goodgame.ru/manifest/180960_master.m3u8
+#EXTINF:0,KVN-HD
+#EXTGRP: Кино
+http://cdnhls.goodgame.ru/hls/181746.m3u8
+#EXTINF:0,STR HD
+#EXTGRP: Кино
+https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: Кино
 http://194.156.166.2:8000/play/a01h
@@ -159,28 +171,31 @@ http://194.156.166.2:8000/play/a01h
 https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 #EXTINF:0,Мужское кино 1
 #EXTGRP: Кино
-http://myott.top/stream/DIPK8H19CP8/107.m3u8
+http://194.67.108.43/high/bvgdeknl74/128.mpeg
 #EXTINF:0,Остросюжетное
 #EXTGRP: Кино
 http://myott.top/stream/DIPK8H19CP8/214.m3u8
 #EXTINF:0,Премиальное 
 #EXTGRP: Кино
 http://myott.top/stream/DIPK8H19CP8/215.m3u8
+#EXTINF:0,Кинохит 
+#EXTGRP: Кино
+http://persik.by/stream/5849/394446/10327.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
-http://myott.top/stream/DA5345HD3KZ/160.m3u8
-#EXTINF:0,Наше HD
+https://s4.idata.uz/kinopremyera/index.m3u8
+#EXTINF:0,Кинопоказ
 #EXTGRP: Кино
-http://myott.top/stream/DA5345HD3KZ/217.m3u8
-#EXTINF:0,Кинокомедия
+https://s3.idata.uz/dars9/index.m3u8
+#EXTINF:0,Akudji
 #EXTGRP: Кино
-http://myott.top/stream/DA5345HD3KZ/265.m3u8
-#EXTINF:0,Кинохит
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:0,ПРЕМЬЕРА
 #EXTGRP: Кино
-http://myott.top/stream/DA5345HD3KZ/126.m3u8
-#EXTINF:0,Киномикс
+http://v2.catcast.tv/content/39161/index.m3u8
+#EXTINF:0,TOP 80s
 #EXTGRP: Кино
-http://myott.top/stream/DA5345HD3KZ/133.m3u8
+http://topchantv.net:3456/promotest/Promotest/277
 #EXTINF:0,Кино UHD
 #EXTGRP: Кино
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/variant.m3u8?version=2
@@ -207,20 +222,20 @@ http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 
 #EXTINF:0,СССР HD
 #EXTGRP: Кино
-http://siza.site/iptvteam?format=hls
+http://bit.do/dfggtrvbhf-DC-sv-sssr-hd
 
-#EXTINF:0,СССР
+#EXTINF:0,СССР Мосфильм
 #EXTGRP: Кино
-https://v2.catcast.tv/content/36506/index.m3u8
-#EXTINF:0,СССР2
+http://bit.do/fdsefvsshhx-mosfilm
+#EXTINF:0,Рожденным в СССР
 #EXTGRP: Кино
-https://autopilot.catcast.tv/content/38821/index.m3u8
+https://v2.catcast.tv/content/38377/index.m3u8
 #EXTINF:0,Фильмы СССР
 #EXTGRP: Кино
 https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
 #EXTINF:0,Советское Кино
 #EXTGRP: Кино
-http://mnogotv.club:8084/tv/ch191/playlist.m3u8
+http://bit.do/yosso_sovkino
 #EXTINF:0,Советские
 #EXTGRP: Кино
 http://autopilot.catcast.tv/content/38821/index.m3u8
@@ -249,7 +264,7 @@ http://st.cdn-tv.club/iptv/a1hUb0VseXJvMXVKYTd5Z1BIMzVBWnNlMnl2eEJnZitQZldpRkZzL
 http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 #EXTINF:0,Родное кино 2
 #EXTGRP: Кино
-http://myott.top/stream/DA5345HD3KZ/242.m3u8
+https://s3.idata.uz/dars10/index.m3u8
 #EXTINF:0,T+
 #EXTGRP: Кино
 http://213.108.175.226/telplushd/index.m3u8
@@ -258,7 +273,7 @@ http://213.108.175.226/telplushd/index.m3u8
 https://webmaster.pp.ua/u/PlayTV.m3u
 #EXTINF:0,Ретро тв
 #EXTGRP: Кино
-http://5.129.0.223:81/udp/239.1.21.23:1234
+https://s4.idata.uz/retro/index.m3u8
 #EXTINF:0,Ретро
 #EXTGRP: Кино
 http://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/tracks-v1a1/mono.m3u8
@@ -268,7 +283,7 @@ http://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/tracks-v1a1/mono.m3u8
 http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
 #EXTINF:0,Дом кино 2
 #EXTGRP: Кино
-http://myott.top/stream/DA5345HD3KZ/236.m3u8
+http://109.200.130.124:7006/play/a01d
 #EXTINF:0,Дом Кино3
 #EXTGRP: Кино
 http://178.163.60.244:4022/udp/234.0.0.219:2000
