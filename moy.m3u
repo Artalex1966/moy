@@ -131,6 +131,9 @@ http://1.1usd.tv:34000/ch773/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZug
 #EXTINF:0, FANTASTIKA HD
 #EXTGRP: Кино
 https://hls.goodgame.ru/hls/181070.m3u8
+#EXTINF:0,UZ-tv Фантастика HD
+#EXTGRP: Кино
+http://109.168.145.7:8090/fantastika_madia_uz/index.m3u8?token=872973168630
 #EXTINF:0, PARADOX HD
 #EXTGRP: Кино
 http://195.154.242.229:3000/telegram/premiere_group_chat/47349
@@ -193,12 +196,7 @@ http://topchantv.net:3456/promotest/Promotest/277
 #EXTGRP: Кино
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/variant.m3u8?version=2
 
-#EXTINF:0,Мосфильм. Золотая коллекция
-#EXTGRP: Кино
-http://31.128.159.41:8080/mosfilm/index.m3u8
-#EXTINF:0,Мосфильм. Золотая коллекция 2
-#EXTGRP: Кино
-http://178.163.100.140:4022/udp/234.0.0.95:2000
+
 
 #EXTINF:0,Твое ТВ FHD
 #EXTGRP: Кино
@@ -212,6 +210,13 @@ http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:0, Discovery Science HD
 #EXTGRP: Познавательное
 http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
+
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: Кино
+http://31.128.159.41:8080/mosfilm/index.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция 2
+#EXTGRP: Кино
+http://178.163.100.140:4022/udp/234.0.0.95:2000
 
 #EXTINF:0,СССР HD
 #EXTGRP: Кино
@@ -255,6 +260,9 @@ http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
 http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/722/index.m3u8
+#EXTINF:0,Мультимания
+#EXTGRP: Кино
+http://85.192.44.14/hls/MultimaniaRu/playlist.m3u8
 
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
@@ -411,5 +419,6 @@ http://hls.goodgame.ru/hls/71852.m3u8
 http://212.66.60.4:8000/play/a0cx
 
 KISS 💋
+
 
 
