@@ -125,22 +125,15 @@ https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1,Фантастика Sci-Fi
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/38801/index.m3u8
-#EXTINF:0, FANTASTIKA TV
+#EXTINF:0, BCU Fantastic HD
 #EXTGRP: Кино
-https://cdnnow.goodgame.ru/hls/181070.m3u8
+http://1.1usd.tv:34000/ch773/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay_DfA_MfeJvs1hj1-k3IiXM
 #EXTINF:0, FANTASTIKA HD
 #EXTGRP: Кино
 https://hls.goodgame.ru/hls/181070.m3u8
 #EXTINF:0, PARADOX HD
 #EXTGRP: Кино
 http://195.154.242.229:3000/telegram/premiere_group_chat/47349
-#EXTINF:-1,KVN-HD
-#EXTGRP: Кино
-http://cdnnow.goodgame.ru/hls/181746.m3u8
-#EXTINF:-1,STR TV
-#EXTGRP: Кино
-https://cdnhls.goodgame.ru/hls/182277.m3u8
-
 #EXTINF:-1,TOP Cinema HD
 #EXTGRP: Кино
 http://topchantv.net:3456/promotest/Promotest/1611
@@ -165,7 +158,7 @@ http://cdnhls.goodgame.ru/hls/181746.m3u8
 https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: Кино
-http://194.156.166.2:8000/play/a01h
+https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:0,Мужское кино 
 #EXTGRP: Кино
 https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
@@ -236,15 +229,21 @@ https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
 #EXTINF:0,Советское Кино
 #EXTGRP: Кино
 http://bit.do/yosso_sovkino
-#EXTINF:0,Советские
+#EXTINF:0,СССР ТВ
 #EXTGRP: Кино
 http://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,TOP: USSR
 #EXTGRP: Кино
 http://topchantv.net:3456/promotest/Promotest/6641
+#EXTINF:0,Сделано в CCCP
+#EXTGRP: Кино
+http://st.cdn-tv.club/iptv/a1hUb0VseXJvMXVKYTd5Z1BIMzVBWnNlMnl2eEJnZitQZldpRkZzLzhrRT0/video.ts
 #EXTINF:0,Память
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38821/index.m3u8
+#EXTINF:0,Первый СССР
+#EXTGRP: Кино
+http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:0,Любимое TV
 #EXTGRP: Кино
 https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
@@ -256,9 +255,7 @@ http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: Кино
 http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/722/index.m3u8
-#EXTINF:0,Сделано в CCCP
-#EXTGRP: Кино
-http://st.cdn-tv.club/iptv/a1hUb0VseXJvMXVKYTd5Z1BIMzVBWnNlMnl2eEJnZitQZldpRkZzLzhrRT0/video.ts
+
 #EXTINF:0,Родное кино
 #EXTGRP: Кино
 http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
@@ -310,14 +307,13 @@ https://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:0,Звезда
 #EXTGRP: Кино
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
-
-
 #EXTINF:0,День Победы HD
 #EXTGRP: Кино
 http://40791904.cbilant.com/iptv/B9HTV5FNS8G6VH/5054/index.m3u8
 #EXTINF:0,Победа
 #EXTGRP: Кино
 https://sc.id-tv.kz/Pobeda_34_35.m3u8
+
 #EXTINF:0,ViP Comedy HD
 #EXTGRP: Кино
 http://195.189.105.158:9050/132/index.m3u8
@@ -415,4 +411,5 @@ http://hls.goodgame.ru/hls/71852.m3u8
 http://212.66.60.4:8000/play/a0cx
 
 KISS 💋
+
 
