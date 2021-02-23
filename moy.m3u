@@ -27,9 +27,6 @@ http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m
 #EXTINF:0,Россия 1 (0)
 #EXTGRP: эфир
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_3.m3u8
-#EXTINF:0,Россия 1 (Екатеринбург)
-#EXTGRP: эфир
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_EKT/variant.m3u8?version=2
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
 http://dmitry-tv.my1.ru/his/zabava/01/CH_1TV.m3u8
@@ -105,9 +102,9 @@ http://myott.top/stream/DA5345HD3KZ/93.m3u8
 #EXTINF:0,В Гостях у Сказки 2
 #EXTGRP: Кино
 http://178.163.43.13:4022/udp/234.0.0.248:2000
-#EXTINF:0,РЕМОНТ
+#EXTINF:0,Оружие
 #EXTGRP: Кино
-http://194.156.166.2:8000/play/a02g
+http://cdn.nexttvnet.ru/hlsl/10/Oruzhie/Oruzhie_3/index.m3u8?bw872973168630.m3u8
 
 #EXTINF:0,ГАЛ TV
 #EXTGRP: Кино
@@ -134,12 +131,12 @@ https://hls.goodgame.ru/hls/181070.m3u8
 #EXTINF:0,UZ-tv Фантастика HD
 #EXTGRP: Кино
 http://109.168.145.7:8090/fantastika_madia_uz/index.m3u8?token=872973168630
-#EXTINF:0, PARADOX HD
+#EXTINF:0, MultKino
 #EXTGRP: Кино
-http://195.154.242.229:3000/telegram/premiere_group_chat/47349
-#EXTINF:-1,TOP Cinema HD
+https://autopilot.catcast.tv/content/38850/index.m3u8
+#EXTINF:-1,Akudji HD
 #EXTGRP: Кино
-http://topchantv.net:3456/promotest/Promotest/1611
+http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,Millenium TV
 #EXTGRP: Кино
 http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
@@ -189,9 +186,9 @@ http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:0,ПРЕМЬЕРА
 #EXTGRP: Кино
 http://v2.catcast.tv/content/39161/index.m3u8
-#EXTINF:0,TOP 80s
+#EXTINF:0,Звезда
 #EXTGRP: Кино
-http://topchantv.net:3456/promotest/Promotest/277
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:0,Кино UHD
 #EXTGRP: Кино
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/variant.m3u8?version=2
@@ -225,9 +222,9 @@ http://bit.do/dfggtrvbhf-DC-sv-sssr-hd
 #EXTINF:0,СССР Мосфильм
 #EXTGRP: Кино
 http://bit.do/fdsefvsshhx-mosfilm
-#EXTINF:0,Рожденным в СССР
+#EXTINF:0,Советские комедии HD
 #EXTGRP: Кино
-https://v2.catcast.tv/content/38377/index.m3u8
+http://persik.by/stream/2347/472449/10750.m3u8
 #EXTINF:0,Фильмы СССР
 #EXTGRP: Кино
 https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
@@ -419,6 +416,4 @@ http://hls.goodgame.ru/hls/71852.m3u8
 http://212.66.60.4:8000/play/a0cx
 
 KISS 💋
-
-
 
