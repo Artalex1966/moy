@@ -1,7 +1,9 @@
 #EXTM3U
+
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
 http://v2.catcast.me/content/37739/index.m3u8
+
 #EXTINF:0,Музыка 1
 #EXTGRP: Музыка
 http://v2.catcast.me/content/37745/index.m3u8
@@ -104,12 +106,15 @@ http://178.163.43.13:4022/udp/234.0.0.248:2000
 #EXTGRP: Кино
 http://cdn.nexttvnet.ru/hlsl/10/Oruzhie/Oruzhie_3/index.m3u8?bw872973168630.m3u8
 
-#EXTINF:0,ГАЛ TV
+#EXTINF:0,ViP Comedy HD
 #EXTGRP: Кино
-http://clients.apsny.camera/tv_gal_tv_hd_online/index.m3u8
-#EXTINF:0,Cosmos TV HD
+http://195.189.105.158:9050/132/index.m3u8
+#EXTINF:0,ViP Megahit HD
 #EXTGRP: Кино
-http://213.184.238.59:6202?3690505080
+http://195.189.105.158:9050/133/index.m3u8
+#EXTINF:0,ViP Premiere HD
+#EXTGRP: Кино
+http://195.189.105.158:9050/134/index.m3u8
 #EXTINF:0,ВСЁ ВКЛЮЧЕНО
 #EXTGRP: Кино
 https://v2.catcast.tv/content/39161/index.m3u8
@@ -120,18 +125,13 @@ https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1,Фантастика Sci-Fi
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/38801/index.m3u8
-#EXTINF:0, BCU Fantastic HD
-#EXTGRP: Кино
-http://1.1usd.tv:34000/ch773/mono.m3u8?token=1usdtv_syrchikhd.rkDD7NRT4W9sn1OZugQnbXZLqBop17nKftqQJJ_aay_DfA_MfeJvs1hj1-k3IiXM
+
 #EXTINF:0, FANTASTIKA HD
 #EXTGRP: Кино
 https://hls.goodgame.ru/hls/181070.m3u8
-#EXTINF:0,UZ-tv Фантастика HD
+#EXTINF:0, FANTASTIKA HD1
 #EXTGRP: Кино
-http://109.168.145.7:8090/fantastika_madia_uz/index.m3u8?token=872973168630
-#EXTINF:0, MultKino
-#EXTGRP: Кино
-https://autopilot.catcast.tv/content/38850/index.m3u8
+http://cdnhls.goodgame.ru/hls/181070.m3u8
 #EXTINF:-1,Akudji HD
 #EXTGRP: Кино
 http://hls.goodgame.ru/hls/5346.m3u8
@@ -141,7 +141,7 @@ http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
 
 #EXTINF:-1,ХИТ Cinema
 #EXTGRP: Кино
-https://v2.catcast.tv/content/39742/index.m3u8
+https://v2.catcast.tv/content/38794/index.m3u8
 #EXTINF:-1,Кино ТВ
 #EXTGRP: Кино
 http://51.195.44.53:8081/tv/kino-tv/chunks.m3u8
@@ -160,9 +160,9 @@ https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:0,Мужское кино 
 #EXTGRP: Кино
 https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
-#EXTINF:0,Мужское кино 1
+#EXTINF:0,TV Pro
 #EXTGRP: Кино
-http://194.67.108.43/high/bvgdeknl74/128.mpeg
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:0,Остросюжетное
 #EXTGRP: Кино
 http://myott.top/stream/DIPK8H19CP8/214.m3u8
@@ -211,7 +211,7 @@ http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 http://31.128.159.41:8080/mosfilm/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция 2
 #EXTGRP: Кино
-http://178.163.100.140:4022/udp/234.0.0.95:2000
+http://109.200.130.124:7007/play/a018
 
 #EXTINF:0,СССР HD
 #EXTGRP: Кино
@@ -317,15 +317,7 @@ http://40791904.cbilant.com/iptv/B9HTV5FNS8G6VH/5054/index.m3u8
 #EXTGRP: Кино
 https://sc.id-tv.kz/Pobeda_34_35.m3u8
 
-#EXTINF:0,ViP Comedy HD
-#EXTGRP: Кино
-http://195.189.105.158:9050/132/index.m3u8
-#EXTINF:0,ViP Megahit HD
-#EXTGRP: Кино
-http://195.189.105.158:9050/133/index.m3u8
-#EXTINF:0,ViP Premiere HD
-#EXTGRP: Кино
-http://195.189.105.158:9050/134/index.m3u8
+
 #EXTINF:0,ViP Serial HD
 #EXTGRP: Кино
 http://mnogotv.club:8084/tv/ch962/playlist.m3u8
@@ -414,4 +406,5 @@ http://hls.goodgame.ru/hls/71852.m3u8
 http://212.66.60.4:8000/play/a0cx
 
 KISS 💋
+
 
