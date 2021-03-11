@@ -114,7 +114,7 @@ http://31.128.159.41:8080/mosfilm/index.m3u8
 http://109.200.130.124:7007/play/a018
 #EXTINF:0,Мосфильм. Золотая коллекция 3
 #EXTGRP: Кино
-http://5.128.88.47:4022/udp/239.1.1.7:1234?zi/
+http://dapbyvdf.akciatv.ru/iptv/GBZ9867TL2KZBN/6392/index.m3u
 #EXTINF:0,Память
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38821/index.m3u8
@@ -141,7 +141,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 
 #EXTINF:0,ViP Comedy HD
 #EXTGRP: Кино
-http://iptv.prosto.tv:7000/ch44/tracks-v1a1/index.m3u8
+http://spacetv.in/stream/DIPK8H19CP8/201.m3u8
 #EXTINF:0,ViP Megahit HD
 #EXTGRP: Кино
 http://iptv.prosto.tv:7000/ch43/tracks-v1a1/index.m3u8
@@ -239,6 +239,12 @@ http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 #EXTINF:0,Оружие
 #EXTGRP: Кино
 http://cdn.nexttvnet.ru/hlsl/10/Oruzhie/Oruzhie_3/index.m3u8?bw872973168630.m3u8
+#EXTINF:0,Золотые ручки
+#EXTGRP: Кино
+http://persik.by/stream/2347/472449/10915.m3u8
+#EXTINF:0,Ешь и худей
+#EXTGRP: Кино
+http://persik.by/stream/2347/472449/10799.m3u8
 
 #EXTINF:0,СССР HD
 #EXTGRP: Кино
