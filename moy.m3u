@@ -104,7 +104,7 @@ http://myott.top/stream/DA5345HD3KZ/93.m3u8
 http://178.163.43.13:4022/udp/234.0.0.248:2000
 #EXTINF:0,В Гостях у Сказки 3
 #EXTGRP: Кино
-http://5.128.88.47:4022/udp/239.1.21.60:1234?zi/
+http://178.163.14.250:4022/udp/234.0.0.248:2000
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: Кино
@@ -114,7 +114,7 @@ http://31.128.159.41:8080/mosfilm/index.m3u8
 http://109.200.130.124:7007/play/a018
 #EXTINF:0,Мосфильм. Золотая коллекция 3
 #EXTGRP: Кино
-http://dapbyvdf.akciatv.ru/iptv/GBZ9867TL2KZBN/6392/index.m3u
+http://178.163.14.250:4022/udp/234.0.0.95:2000
 #EXTINF:0,Память
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38821/index.m3u8
@@ -130,24 +130,32 @@ http://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: Кино
 http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
+#EXTINF:0,Дом кино2
+#EXTGRP: Кино
+http://51.195.44.53:8081/tv/dom-kino/chunks.m3u8
+#EXTINF:0,Наше любимое кино
+#EXTGRP: Кино
+http://51.195.44.53:8081/tv/lubimoe-kino/chunks.m3u8
 #EXTINF:0,Ретро тв
 #EXTGRP: Кино
 https://s4.idata.uz/retro/index.m3u8
 #EXTINF:0,Звезда
 #EXTGRP: Кино
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
-
+#EXTINF:0,TV Pro
+#EXTGRP: Кино
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 
 
 #EXTINF:0,ViP Comedy HD
 #EXTGRP: Кино
-http://spacetv.in/stream/DIPK8H19CP8/201.m3u8
+http://195.189.105.158:9050/132/index.m3u8
 #EXTINF:0,ViP Megahit HD
 #EXTGRP: Кино
-http://iptv.prosto.tv:7000/ch43/tracks-v1a1/index.m3u8
+http://195.189.105.158:9050/133/index.m3u8
 #EXTINF:0,ViP Premiere HD
 #EXTGRP: Кино
-http://iptv.prosto.tv:7000/ch45/tracks-v1a1/index.m3u8
+http://195.189.105.158:9050/134/index.m3u8
 #EXTINF:0,ВСЁ ВКЛЮЧЕНО
 #EXTGRP: Кино
 https://v2.catcast.tv/content/39161/index.m3u8
@@ -192,10 +200,14 @@ https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
 https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:0,Мужское кино 
 #EXTGRP: Кино
-https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
-#EXTINF:0,TV Pro
+http://147.135.210.90:8081/tv/mughskoe-kino/chunks.m3u8
+#EXTINF:0,Мужское кино 000
 #EXTGRP: Кино
-http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+#EXTINF:0,Мужское кино 2
+#EXTGRP: Кино
+http://persik.by/stream/2347/472449/10025.m3u8
+
 #EXTINF:0,Остросюжетное
 #EXTGRP: Кино
 http://myott.top/stream/DIPK8H19CP8/214.m3u8
