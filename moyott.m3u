@@ -1,0 +1,91 @@
+﻿#EXTM3U
+#EXTINF:0,Россия 1HD
+#EXTGRP: эфир
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:0,РТР Планета
+#EXTGRP: эфир
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:0,КИНО 1 INTERNATIONAL
+#EXTGRP: Кино
+https://v2.catcast.tv/content/38617/index.m3u8
+#EXTINF:0,Детское кино International
+#EXTGRP: Кино
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0,Красная линия 
+#EXTGRP: Кино
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:0,Память
+#EXTGRP: Кино
+https://v2.catcast.tv/content/38821/index.m3u8
+#EXTINF:0,Советские комедии HD
+#EXTGRP: Кино
+http://persik.by/stream/2347/472449/10750.m3u8
+#EXTINF:0,Дом кино2
+#EXTGRP: Кино
+http://51.195.44.53:8081/tv/dom-kino/chunks.m3u8
+#EXTINF:0,Наше любимое кино
+#EXTGRP: Кино
+http://51.195.44.53:8081/tv/lubimoe-kino/chunks.m3u8
+#EXTINF:0,Ретро тв
+#EXTGRP: Кино
+https://s4.idata.uz/retro/index.m3u8
+#EXTINF:0,Звезда
+#EXTGRP: Кино
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:0,TV Pro
+#EXTGRP: Кино
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:0,ВСЁ ВКЛЮЧЕНО
+#EXTGRP: Кино
+https://v2.catcast.tv/content/39161/index.m3u8
+#EXTINF:0,Фантастика
+#EXTGRP: Кино
+https://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1,Millenium TV
+#EXTGRP: Кино
+http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
+#EXTINF:-1,Кино ТВ
+#EXTGRP: Кино
+http://51.195.44.53:8081/tv/kino-tv/chunks.m3u8
+#EXTINF:0,STR HD
+#EXTGRP: Кино
+https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
+#EXTINF:0,Cinema
+#EXTGRP: Кино
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:0,Мужское кино 
+#EXTGRP: Кино
+http://147.135.210.90:8081/tv/mughskoe-kino/chunks.m3u8
+#EXTINF:0,Родное кино
+#EXTGRP: Кино
+https://s3.idata.uz/dars10/index.m3u8
+#EXTINF:0,Русская комедия
+#EXTGRP: Кино
+http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
+#EXTINF:0,FILM TV 
+#EXTGRP: Кино
+https://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:0,ПРЕМЬЕРА
+#EXTGRP: Кино
+http://v2.catcast.tv/content/39161/index.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция 2
+#EXTGRP: Кино
+http://109.200.130.124:7007/play/a018
+#EXTINF:0,Мосфильм. Золотая коллекция 3
+#EXTGRP: Кино
+http://178.163.14.250:4022/udp/234.0.0.95:2000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
