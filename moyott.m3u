@@ -1,10 +1,22 @@
-﻿#EXTM3U
+#EXTM3U
+
+#EXTINF:0,Россия 24
+#EXTGRP: эфир
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:0,Россия 1HD
 #EXTGRP: эфир
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:0,РТР Планета
 #EXTGRP: эфир
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:0,Россия РТР
+#EXTGRP: эфир
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
+#EXTINF:0,Первый канал
+#EXTGRP: эфир
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
+
+
 #EXTINF:0,КИНО 1 INTERNATIONAL
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38617/index.m3u8
@@ -20,6 +32,9 @@ https://v2.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,Советские комедии HD
 #EXTGRP: Кино
 http://persik.by/stream/2347/472449/10750.m3u8
+#EXTINF:0,Сделано в СССР HD
+#EXTGRP: Кино
+http://cdn-xtg83ww2.vse-tv.net/made_in_ussr/playlist.m3u8?token=2QyePt29xpnr4jfa6xvknnF9
 #EXTINF:0,Дом кино2
 #EXTGRP: Кино
 http://51.195.44.53:8081/tv/dom-kino/chunks.m3u8
@@ -74,6 +89,23 @@ http://109.200.130.124:7007/play/a018
 #EXTINF:0,Мосфильм. Золотая коллекция 3
 #EXTGRP: Кино
 http://178.163.14.250:4022/udp/234.0.0.95:2000
+
+#EXTINF:0,РЕН ТВ (+2)
+#EXTGRP: Кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
+#EXTINF:0,РЕН ТВ (+7)
+#EXTGRP: Кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/bw2000000/variant.m3u8?version=2
+#EXTINF:0,Россия 1 (+1)
+#EXTGRP: Кино
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2
+#EXTINF:0,Discovery Science HD
+#EXTGRP: Кино
+http://94.232.127.13/z3/discoverysciencehd/index.m3u8
+
+
+
+
 
 
 
