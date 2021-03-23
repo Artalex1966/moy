@@ -14,8 +14,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
-
-
+http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
 
 #EXTINF:0,КИНО 1 INTERNATIONAL
 #EXTGRP: Кино
@@ -26,6 +25,9 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Красная линия 
 #EXTGRP: Кино
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:0,Москва Доверие 
+#EXTGRP: Кино
+http://91.234.255.18:8000/play/a023/index.m3u8
 #EXTINF:0,Память
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38821/index.m3u8
@@ -83,27 +85,49 @@ https://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:0,ПРЕМЬЕРА
 #EXTGRP: Кино
 http://v2.catcast.tv/content/39161/index.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция 1
+#EXTGRP: Кино
+http://45.145.32.15:20001/mosfilm/video.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция 2
 #EXTGRP: Кино
-http://109.200.130.124:7007/play/a018
+http://cdntv.online/high/c1vegpqtzy/1095.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция 3
 #EXTGRP: Кино
 http://178.163.14.250:4022/udp/234.0.0.95:2000
 
-#EXTINF:0,РЕН ТВ (+2)
+#EXTINF:0,Советские мультфильмы
 #EXTGRP: Кино
-
-#EXTINF:0,РЕН ТВ (+7)
+http://cdntv.online/high/c1vegpqtzy/165.m3u8
+#EXTINF:0,Рен ТВ HD
 #EXTGRP: Кино
-
-#EXTINF:0,Россия 1 (+1)
+http://cdntv.online/high/c1vegpqtzy/388.m3u8
+#EXTINF:0,День победы HD
 #EXTGRP: Кино
-
+http://cdntv.online/high/c1vegpqtzy/907.m3u8
 #EXTINF:0,Discovery Science HD
 #EXTGRP: Кино
+http://cdntv.online/high/c1vegpqtzy/301.m3u8
 
-
-
+#EXTINF:3.66876,СССР HD
+http://2.57.186.111/online/sssrhd/index.m3u8?key=test18-03
+#EXTINF:1.18422,CCCP
+http://2.57.186.111/online/sssr/index.m3u8?key=test18-03
+#EXTINF:1.83298,CCCP 1
+http://2.57.186.111/online/sssr1/index.m3u8?key=test18-03
+#EXTINF:1.02168,CCCP 2
+http://2.57.186.111/online/sssr2/index.m3u8?key=test18-03
+#EXTINF:2.09689,СССР МУЛЬТ.
+http://2.57.186.111/online/mult/index.m3u8?key=test18-03
+#EXTINF:5.11589,ФИЛЬМЫ 90-Х
+http://2.57.186.111/online/90x/index.m3u8?key=test18-03
+#EXTINF:2.08831,Мосфильм.
+http://2.57.186.111/online/mosfilm/index.m3u8?key=test18-03
+#EXTINF:2.85847,Украинская ССР
+http://2.57.186.111/online/ussr/index.m3u8?key=test18-03
+#EXTINF:2.55153,ЛенФильМ
+http://2.57.186.111/online/lenfilm/index.m3u8?key=test18-03
+#EXTINF:2.54056,Киностудия М. Горького
+http://2.57.186.111/online/gor/index.m3u8?key=test18-03
 
 
 
