@@ -106,6 +106,36 @@ http://cdntv.online/high/c1vegpqtzy/165.m3u8
 #EXTGRP: Кино
 
 
+#EXTINF:0,СССР HD
+#EXTGRP: Кино
+http://2.57.186.111/online/sssrhd/index.m3u8?key=test18-03
+#EXTINF:0,CCCP
+#EXTGRP: Кино
+http://2.57.186.111/online/sssr/index.m3u8?key=test18-03
+#EXTINF:0,CCCP 1
+#EXTGRP: Кино
+http://2.57.186.111/online/sssr1/index.m3u8?key=test18-03
+#EXTINF:0,CCCP 2
+#EXTGRP: Кино
+http://2.57.186.111/online/sssr2/index.m3u8?key=test18-03
+#EXTINF:0,СССР МУЛЬТ.
+#EXTGRP: Кино
+http://2.57.186.111/online/mult/index.m3u8?key=test18-03
+#EXTINF:0,ФИЛЬМЫ 90-Х
+#EXTGRP: Кино
+http://2.57.186.111/online/90x/index.m3u8?key=test18-03
+#EXTINF:0,Мосфильм.
+#EXTGRP: Кино
+http://2.57.186.111/online/mosfilm/index.m3u8?key=test18-03
+#EXTINF:0,Украинская ССР
+#EXTGRP: Кино
+http://2.57.186.111/online/ussr/index.m3u8?key=test18-03
+#EXTINF:0,ЛенФильМ
+#EXTGRP: Кино
+http://2.57.186.111/online/lenfilm/index.m3u8?key=test18-03
+#EXTINF:0,Киностудия М. Горького
+#EXTGRP: Кино
+http://2.57.186.111/online/gor/index.m3u8?key=test18-03
 
 
 
