@@ -208,26 +208,38 @@ https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 #EXTGRP: Кино
 http://persik.by/stream/2347/472449/10025.m3u8
 
-#EXTINF:3.66876,СССР HD
+#EXTINF:0,СССР HD
+#EXTGRP: Кино
 http://2.57.186.111/online/sssrhd/index.m3u8?key=test18-03
-#EXTINF:1.18422,CCCP
+#EXTINF:0,CCCP
+#EXTGRP: Кино
 http://2.57.186.111/online/sssr/index.m3u8?key=test18-03
-#EXTINF:1.83298,CCCP 1
+#EXTINF:0,CCCP 1
+#EXTGRP: Кино
 http://2.57.186.111/online/sssr1/index.m3u8?key=test18-03
-#EXTINF:1.02168,CCCP 2
+#EXTINF:0,CCCP 2
+#EXTGRP: Кино
 http://2.57.186.111/online/sssr2/index.m3u8?key=test18-03
-#EXTINF:2.09689,СССР МУЛЬТ.
+#EXTINF:0,СССР МУЛЬТ.
+#EXTGRP: Кино
 http://2.57.186.111/online/mult/index.m3u8?key=test18-03
-#EXTINF:5.11589,ФИЛЬМЫ 90-Х
+#EXTINF:0,ФИЛЬМЫ 90-Х
+#EXTGRP: Кино
 http://2.57.186.111/online/90x/index.m3u8?key=test18-03
-#EXTINF:2.08831,Мосфильм.
+#EXTINF:0,Мосфильм.
+#EXTGRP: Кино
 http://2.57.186.111/online/mosfilm/index.m3u8?key=test18-03
-#EXTINF:2.85847,Украинская ССР
+#EXTINF:0,Украинская ССР
+#EXTGRP: Кино
 http://2.57.186.111/online/ussr/index.m3u8?key=test18-03
-#EXTINF:2.55153,ЛенФильМ
+#EXTINF:0,ЛенФильМ
+#EXTGRP: Кино
 http://2.57.186.111/online/lenfilm/index.m3u8?key=test18-03
-#EXTINF:2.54056,Киностудия М. Горького
+#EXTINF:0,Киностудия М. Горького
+#EXTGRP: Кино
 http://2.57.186.111/online/gor/index.m3u8?key=test18-03
+
+
 
 
 
