@@ -25,8 +25,9 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Красная линия 
 #EXTGRP: Кино
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:0,Москва Доверие 
+#EXTINF:0,Москва Доверие
 #EXTGRP: Кино
+http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 
 #EXTINF:0,Память
 #EXTGRP: Кино
@@ -137,7 +138,24 @@ http://2.57.186.111/online/lenfilm/index.m3u8?key=test18-03
 #EXTGRP: Кино
 http://2.57.186.111/online/gor/index.m3u8?key=test18-03
 
-
+#EXTINF:0,Рен ТВ (+2)
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
+#EXTINF:0,Рен ТВ 
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
+#EXTINF:0,РЕН ТВ (+7)
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:0,СТС 
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
+#EXTINF:0,СТС (+2) 
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?version=2
+#EXTINF:0,СТС (+4)
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2&offset=-14400
 
 
 
