@@ -8,7 +8,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
-http://cdntv.online/high/c1vegpqtzy/2.m3u8
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_3.m3u8
 #EXTINF:0,РТР Планета
 #EXTGRP: эфир
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
