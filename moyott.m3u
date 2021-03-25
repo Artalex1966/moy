@@ -18,7 +18,9 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
 http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
-
+#EXTINF:0,НТВ
+#EXTGRP: эфир
+http://78.30.254.135/1792/index.m3u8?
 
 
 
