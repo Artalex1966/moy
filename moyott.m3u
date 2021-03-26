@@ -167,3 +167,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?version=2
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2&offset=-14400
 
+#EXTINF:0,ПЕРШИЙ НЕЗАЛЕЖНИЙ HD
+#EXTGRP: эфир
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
