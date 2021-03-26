@@ -9,9 +9,9 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-#EXTINF:0,Россия 1а
+#EXTINF:0,Россия 1 z
 #EXTGRP: эфир
-http://178.33.37.66/stream/8ASIXG9QVB/137.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
 #EXTINF:0,РТР Планета
 #EXTGRP: эфир
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
@@ -23,8 +23,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
 http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
 #EXTINF:0,НТВ
 #EXTGRP: эфир
-http://cdntv.online/high/c1vegpqtzy/1018.m3u8
-
+http://94.232.127.13/z3/ntv/stream.m3u8
 
 
 
@@ -91,9 +90,9 @@ http://2.57.186.111/online/lenfilm/index.m3u8?key=test18-03
 #EXTINF:0,Киностудия М. Горького
 #EXTGRP: Кино
 http://2.57.186.111/online/gor/index.m3u8?key=test18-03
-#EXTINF:0,День победы HD
+#EXTINF:0,Советское кино HD
 #EXTGRP: Кино
-http://cdntv.online/high/c1vegpqtzy/907.m3u8
+http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
 
 
 #EXTINF:0,Дом кино2
@@ -150,22 +149,17 @@ http://v2.catcast.tv/content/39161/index.m3u8
 
 #EXTINF:0,Discovery Science HD
 #EXTGRP: Кино
-http://cdntv.online/high/c1vegpqtzy/301.m3u8
+http://94.232.127.13/z3/discoveryscience/stream.m3u8
 
 
 
-#EXTINF:0,Рен ТВ (+2)
-#EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
+
 #EXTINF:0,Рен ТВ 
 #EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
-#EXTINF:0,РЕН ТВ (+7)
+http://147.135.210.90:8081/tv/ren-tv/playlist.m3u8
+
 #EXTGRP: эфир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
-#EXTINF:0,СТС 
-#EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
+http://cdn.nexttvnet.ru/hlsl/10/STS/STS_3/index.m3u8
 #EXTINF:0,СТС (+2) 
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?version=2
