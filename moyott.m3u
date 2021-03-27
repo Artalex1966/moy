@@ -93,6 +93,9 @@ http://2.57.186.111/online/gor/index.m3u8?key=test20-03
 #EXTINF:0,Советское кино HD
 #EXTGRP: Кино
 http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Советское кино 2
+#EXTGRP: Кино
+http://mhd.iptv2022.com/p/coiVodFqSGNJz1PNlUBtYA,1616892962/streaming/sovietmovs/324/1/index.m3u8
 
 
 #EXTINF:0,Дом кино2
@@ -167,6 +170,3 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?version=2
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2&offset=-14400
 
-#EXTINF:0,ПЕРШИЙ НЕЗАЛЕЖНИЙ HD
-#EXTGRP: эфир
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
