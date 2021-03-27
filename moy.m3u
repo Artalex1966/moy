@@ -106,30 +106,63 @@ http://178.163.43.13:4022/udp/234.0.0.248:2000
 #EXTGRP: Кино
 http://178.163.14.250:4022/udp/234.0.0.248:2000
 
-#EXTINF:0,Мосфильм. Золотая коллекция
-#EXTGRP: Кино
-http://31.128.159.41:8080/mosfilm/index.m3u8
-#EXTINF:0,Мосфильм. Золотая коллекция 2
-#EXTGRP: Кино
-http://cdntv.online/high/c1vegpqtzy/1095.m3u8
-#EXTINF:0,Мосфильм. Золотая коллекция 3
-#EXTGRP: Кино
-http://178.163.14.250:4022/udp/234.0.0.95:2000
 #EXTINF:0,Память
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,Советские комедии HD
 #EXTGRP: Кино
 http://persik.by/stream/2347/472449/10750.m3u8
-#EXTINF:0,Советское Кино
+#EXTINF:0,Сделано в СССР HD
 #EXTGRP: Кино
-http://bit.do/yosso_sovkino
-#EXTINF:0,СССР ТВ
+http://cdn-xtg83ww2.vse-tv.net/made_in_ussr/playlist.m3u8?token=2QyePt29xpnr4jfa6xvknnF9
+#EXTINF:0,Мосфильм. Золотая коллекция 2
 #EXTGRP: Кино
-http://autopilot.catcast.tv/content/38821/index.m3u8
-#EXTINF:0,Дом кино
+http://cdntv.online/high/c1vegpqtzy/1095.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция 3
 #EXTGRP: Кино
-http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
+http://178.163.14.250:4022/udp/234.0.0.95:2000
+
+#EXTINF:0,Советские мультфильмы
+#EXTGRP: Кино
+http://cdntv.online/high/c1vegpqtzy/165.m3u8
+#EXTINF:0,СССР HD
+#EXTGRP: Кино
+http://2.57.186.111/online/sssrhd/index.m3u8?key=test20-03
+#EXTINF:0,CCCP
+#EXTGRP: Кино
+http://2.57.186.111/online/sssr/index.m3u8?key=files
+#EXTINF:0,CCCP 1
+#EXTGRP: Кино
+http://2.57.186.111/online/sssr1/index.m3u8?key=files
+#EXTINF:0,CCCP 2
+#EXTGRP: Кино
+http://2.57.186.111/online/sssr2/index.m3u8?key=test20-03
+#EXTINF:0,СССР МУЛЬТ.
+#EXTGRP: Кино
+http://2.57.186.111/online/mult/index.m3u8?key=test20-03
+#EXTINF:0,ФИЛЬМЫ 90-Х
+#EXTGRP: Кино
+http://2.57.186.111/online/90x/index.m3u8?key=test20-03
+#EXTINF:0,Мосфильм.
+#EXTGRP: Кино
+http://2.57.186.111/online/mosfilm/index.m3u8?key=test20-03
+#EXTINF:0,Украинская ССР
+#EXTGRP: Кино
+http://2.57.186.111/online/ussr/index.m3u8?key=test20-03
+#EXTINF:0,ЛенФильМ
+#EXTGRP: Кино
+http://2.57.186.111/online/lenfilm/index.m3u8?key=test20-03
+#EXTINF:0,Киностудия М. Горького
+#EXTGRP: Кино
+http://2.57.186.111/online/gor/index.m3u8?key=test20-03
+#EXTINF:0,Советское кино HD
+#EXTGRP: Кино
+http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Советское кино 2
+#EXTGRP: Кино
+http://mhd.iptv2022.com/p/coiVodFqSGNJz1PNlUBtYA,1616892962/streaming/sovietmovs/324/1/index.m3u8
+
+
 #EXTINF:0,Дом кино2
 #EXTGRP: Кино
 http://51.195.44.53:8081/tv/dom-kino/chunks.m3u8
@@ -145,17 +178,51 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:0,TV Pro
 #EXTGRP: Кино
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:0,ВСЁ ВКЛЮЧЕНО
+#EXTGRP: Кино
+https://v2.catcast.tv/content/39161/index.m3u8
+#EXTINF:0,Фантастика
+#EXTGRP: Кино
+https://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1,Millenium TV
+#EXTGRP: Кино
+http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
+#EXTINF:-1,Кино ТВ
+#EXTGRP: Кино
+http://51.195.44.53:8081/tv/kino-tv/chunks.m3u8
+#EXTINF:0,STR HD
+#EXTGRP: Кино
+https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
+#EXTINF:0,Cinema
+#EXTGRP: Кино
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:0,Мужское кино 
+#EXTGRP: Кино
+http://147.135.210.90:8081/tv/mughskoe-kino/chunks.m3u8
+#EXTINF:0,Родное кино
+#EXTGRP: Кино
+https://s3.idata.uz/dars10/index.m3u8
+#EXTINF:0,Русская комедия
+#EXTGRP: Кино
+http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
+#EXTINF:0,FILM TV 
+#EXTGRP: Кино
+https://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:0,ПРЕМЬЕРА
+#EXTGRP: Кино
+http://v2.catcast.tv/content/39161/index.m3u8
+
+#EXTINF:0,Победа
+#EXTGRP: Кино
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
+#EXTINF:0,Звезда
+#EXTGRP: Кино
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:0,TV Pro
+#EXTGRP: Кино
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 
 
-#EXTINF:0,ViP Comedy HD
-#EXTGRP: Кино
-http://195.189.105.158:9050/132/index.m3u8
-#EXTINF:0,ViP Megahit HD
-#EXTGRP: Кино
-http://195.189.105.158:9050/133/index.m3u8
-#EXTINF:0,ViP Premiere HD
-#EXTGRP: Кино
-http://195.189.105.158:9050/134/index.m3u8
 #EXTINF:0,ВСЁ ВКЛЮЧЕНО
 #EXTGRP: Кино
 https://v2.catcast.tv/content/39161/index.m3u8
@@ -208,41 +275,6 @@ https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 #EXTGRP: Кино
 http://persik.by/stream/2347/472449/10025.m3u8
 
-#EXTINF:0,СССР HD
-#EXTGRP: Кино
-http://2.57.186.111/online/sssrhd/index.m3u8?key=test18-03
-#EXTINF:0,CCCP
-#EXTGRP: Кино
-http://2.57.186.111/online/sssr/index.m3u8?key=test18-03
-#EXTINF:0,CCCP 1
-#EXTGRP: Кино
-http://2.57.186.111/online/sssr1/index.m3u8?key=test18-03
-#EXTINF:0,CCCP 2
-#EXTGRP: Кино
-http://2.57.186.111/online/sssr2/index.m3u8?key=test18-03
-#EXTINF:0,СССР МУЛЬТ.
-#EXTGRP: Кино
-http://2.57.186.111/online/mult/index.m3u8?key=test18-03
-#EXTINF:0,ФИЛЬМЫ 90-Х
-#EXTGRP: Кино
-http://2.57.186.111/online/90x/index.m3u8?key=test18-03
-#EXTINF:0,Мосфильм.
-#EXTGRP: Кино
-http://2.57.186.111/online/mosfilm/index.m3u8?key=test18-03
-#EXTINF:0,Украинская ССР
-#EXTGRP: Кино
-http://2.57.186.111/online/ussr/index.m3u8?key=test18-03
-#EXTINF:0,ЛенФильМ
-#EXTGRP: Кино
-http://2.57.186.111/online/lenfilm/index.m3u8?key=test18-03
-#EXTINF:0,Киностудия М. Горького
-#EXTGRP: Кино
-http://2.57.186.111/online/gor/index.m3u8?key=test18-03
-
-
-
-
-
 
 #EXTINF:0,Остросюжетное
 #EXTGRP: Кино
@@ -252,10 +284,10 @@ http://myott.top/stream/DIPK8H19CP8/214.m3u8
 http://myott.top/stream/DIPK8H19CP8/215.m3u8
 #EXTINF:0,Кинохит 
 #EXTGRP: Кино
-http://persik.by/stream/5849/394446/10327.m3u8
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
-https://s4.idata.uz/kinopremyera/index.m3u8
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:0,Кинопоказ
 #EXTGRP: Кино
 https://s3.idata.uz/dars9/index.m3u8
@@ -277,7 +309,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/variant.m3u8?version=2
 https://v2.catcast.tv/content/39161/index.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP: Кино
-http://194.156.166.2:8000/play/a026
+http://195.49.206.244:90/Nauka/index.m3u8
 #EXTINF:0, Министерство идей
 #EXTGRP: Познавательное
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
@@ -294,144 +326,6 @@ http://persik.by/stream/2347/472449/10915.m3u8
 #EXTGRP: Кино
 http://persik.by/stream/2347/472449/10799.m3u8
 
-#EXTINF:0,СССР HD
-#EXTGRP: Кино
-http://bit.do/dfggtrvbhf-DC-sv-sssr-hd
-
-#EXTINF:0,СССР Мосфильм
-#EXTGRP: Кино
-http://bit.do/fdsefvsshhx-mosfilm
-
-#EXTINF:0,Фильмы СССР
-#EXTGRP: Кино
-https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
-
-#EXTINF:0,TOP: USSR
-#EXTGRP: Кино
-http://topchantv.net:3456/promotest/Promotest/6641
-#EXTINF:0,Сделано в CCCP
-#EXTGRP: Кино
-http://st.cdn-tv.club/iptv/a1hUb0VseXJvMXVKYTd5Z1BIMzVBWnNlMnl2eEJnZitQZldpRkZzLzhrRT0/video.ts
-
-#EXTINF:0,Первый СССР
-#EXTGRP: Кино
-http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
-#EXTINF:0,Любимое TV
-#EXTGRP: Кино
-https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8?version=2
-#EXTINF:0,Любимое ТВ
-https://strm.yandex.ru/kal/lovedtv/lovedtv0.m3u8
-#EXTINF:0,Наше любимое
-#EXTGRP: Кино
-http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
-#EXTINF:0,Любимое кино
-#EXTGRP: Кино
-http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/722/index.m3u8
-#EXTINF:0,Мультимания
-#EXTGRP: Кино
-http://85.192.44.14/hls/MultimaniaRu/playlist.m3u8
-
-#EXTINF:0,Родное кино
-#EXTGRP: Кино
-http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
-#EXTINF:0,Родное кино 2
-#EXTGRP: Кино
-https://s3.idata.uz/dars10/index.m3u8
-#EXTINF:0,T+
-#EXTGRP: Кино
-http://213.108.175.226/telplushd/index.m3u8
-#EXTINF:0,Настольгия
-#EXTGRP: Кино
-https://webmaster.pp.ua/u/PlayTV.m3u
-#EXTINF:0,Ретро тв
-#EXTGRP: Кино
-https://s4.idata.uz/retro/index.m3u8
-#EXTINF:0,Ретро
-#EXTGRP: Кино
-http://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:0,Дом кино 2
-#EXTGRP: Кино
-http://109.200.130.124:7006/play/a01d
-#EXTINF:0,Дом Кино3
-#EXTGRP: Кино
-http://178.163.60.244:4022/udp/234.0.0.219:2000
-#EXTINF:0,Дом Кино 4
-#EXTGRP: Кино
-http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
-#EXTINF:0,Russian Комедии
-#EXTGRP: Кино
-https://v2.catcast.tv/content/36168/index.m3u8
-#EXTINF:0,Русская комедия
-#EXTGRP: Кино
-http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
-#EXTINF:0,Русский детектив
-#EXTGRP: Кино
-http://89.189.191.250/239.211.211.95/stream.m3u8
-#EXTINF:0,Кино ТВ HD2
-#EXTGRP: Кино
-http://87.251.176.10:8080/159/index.m3u8
-
-#EXTINF:0,FILM TV 
-#EXTGRP: Кино
-https://v2.catcast.tv/content/38144/index.m3u8
-
-#EXTINF:0,Звезда
-#EXTGRP: Кино
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
-#EXTINF:0,День Победы HD
-#EXTGRP: Кино
-http://40791904.cbilant.com/iptv/B9HTV5FNS8G6VH/5054/index.m3u8
-#EXTINF:0,Победа
-#EXTGRP: Кино
-https://sc.id-tv.kz/Pobeda_34_35.m3u8
-
-
-#EXTINF:0,ViP Serial HD
-#EXTGRP: Кино
-http://mnogotv.club:8084/tv/ch962/playlist.m3u8
-#EXTINF:0,TV1000 Action
-#EXTGRP: Кино
-http://188.93.95.83/tv1000act/index.m3u8
-#EXTINF:0,TV1000
-#EXTGRP: Кино
-http://188.93.95.83/tv1000/index.m3u8
-#EXTINF:0,TV1000 Русское кино
-#EXTGRP: Кино
-http://188.93.95.83/tv1000rukino/index.m3u8
-
-#EXTINF:0,Кинохит
-#EXTGRP: Кино
-http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
-#EXTINF:0,КИНОМИКС
-#EXTGRP: Кино
-http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
-#EXTINF:0,Кинопремьера
-#EXTGRP: Кино
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:0,Кинокомедия
-#EXTGRP: Кино
-http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
-#EXTINF:0, Киносвидание
-#EXTGRP: Кино
-http://192.162.212.48:8080/kinosvidanie/index.m3u8
-#EXTINF:0,Киносемья
-#EXTGRP: Кино
-http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
-
-#EXTINF:0,Родное кино
-#EXTGRP: Кино
-https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
-#EXTINF:0,Родное кино
-#EXTGRP: Кино
-http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
-#EXTINF:0,Любимое кино
-#EXTGRP: Кино
-http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
-#EXTINF:0,Маша и Медведь
-#EXTGRP: Детям
-https://bozztv.com/36bay2/gin/giniko_mashaimedved_1000kb_36bay2/tracks-v1a1/mono.m3u8
 
 
 
