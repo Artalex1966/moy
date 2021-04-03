@@ -117,14 +117,14 @@ http://persik.by/stream/2347/472449/10750.m3u8
 http://cdn-xtg83ww2.vse-tv.net/made_in_ussr/playlist.m3u8?token=2QyePt29xpnr4jfa6xvknnF9
 #EXTINF:0,Мосфильм. Золотая коллекция 2
 #EXTGRP: Кино
-http://cdntv.online/high/c1vegpqtzy/1095.m3u8
+http://31.128.159.41:8080/mosfilm/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция 3
 #EXTGRP: Кино
 http://178.163.14.250:4022/udp/234.0.0.95:2000
 
-#EXTINF:0,Советские мультфильмы
+#EXTINF:0,CCCP TВ
 #EXTGRP: Кино
-http://cdntv.online/high/c1vegpqtzy/165.m3u8
+https://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,СССР HD
 #EXTGRP: Кино
 http://2.57.186.111/online/sssrhd/index.m3u8?key=test20-03
@@ -291,9 +291,6 @@ https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:0,Кинопоказ
 #EXTGRP: Кино
 https://s3.idata.uz/dars9/index.m3u8
-#EXTINF:0,Akudji
-#EXTGRP: Кино
-http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:0,ПРЕМЬЕРА
 #EXTGRP: Кино
 http://v2.catcast.tv/content/39161/index.m3u8
@@ -340,9 +337,9 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:0,Nature Relaxation HD
 #EXTGRP: Релакс
 https://live.streams.ovh/YourStreaming/YourStreaming/chunklist_w1017953779.m3u8
-#EXTINF:0,Релакс под гитару
+#EXTINF:0,Под Водой
 #EXTGRP: Релакс
-https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
+http://live-1.otcnet.ru/podvodoi/tracks-v1a1/mono.m3u8
 #EXTINF:0,Relax
 #EXTGRP: Релакс
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
@@ -351,6 +348,13 @@ https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 #EXTINF:0,Dogma - Magical Chants
 #EXTGRP: Релакс
 http://listen2.myradio24.com:9000/8226
+#EXTINF:0,Dogma - 101 Enigma
+#EXTGRP: Релакс
+http://ic7.101.ru:8000/a175
+#EXTINF:0,101.RU - Ennio Morricone
+#EXTGRP: Релакс
+http://ic7.101.ru:8000/a395
+
 #EXTINF:0,Радио ретро
 #EXTGRP: Музыка
 http://hls.goodgame.ru:80/hls/33245.m3u8
