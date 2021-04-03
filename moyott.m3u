@@ -9,9 +9,9 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-#EXTINF:0,Россия 1 z
+#EXTINF:0,Россия 1 d
 #EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
+http://dmitry-tv.my1.ru/his/01/CH_RUSSIA1.m3u8
 #EXTINF:0,РТР Планета
 #EXTGRP: эфир
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
@@ -23,7 +23,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
 http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
 #EXTINF:0,НТВ
 #EXTGRP: эфир
-http://94.232.127.13/z3/ntv/stream.m3u8
+http://195.49.206.244:90/NTV/index.m3u8
 
 
 
@@ -52,51 +52,13 @@ http://persik.by/stream/2347/472449/10750.m3u8
 http://cdn-xtg83ww2.vse-tv.net/made_in_ussr/playlist.m3u8?token=2QyePt29xpnr4jfa6xvknnF9
 #EXTINF:0,Мосфильм. Золотая коллекция 2
 #EXTGRP: Кино
-http://cdntv.online/high/c1vegpqtzy/1095.m3u8
+http://31.128.159.41:8080/mosfilm/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция 3
 #EXTGRP: Кино
 http://178.163.14.250:4022/udp/234.0.0.95:2000
-
-#EXTINF:0,Советские мультфильмы
+#EXTINF:0,Советское кино 1
 #EXTGRP: Кино
-http://cdntv.online/high/c1vegpqtzy/165.m3u8
-#EXTINF:0,СССР HD
-#EXTGRP: Кино
-http://2.57.186.111/online/sssrhd/index.m3u8?key=test20-03
-#EXTINF:0,CCCP
-#EXTGRP: Кино
-http://2.57.186.111/online/sssr/index.m3u8?key=files
-#EXTINF:0,CCCP 1
-#EXTGRP: Кино
-http://2.57.186.111/online/sssr1/index.m3u8?key=files
-#EXTINF:0,CCCP 2
-#EXTGRP: Кино
-http://2.57.186.111/online/sssr2/index.m3u8?key=test20-03
-#EXTINF:0,СССР МУЛЬТ.
-#EXTGRP: Кино
-http://2.57.186.111/online/mult/index.m3u8?key=test20-03
-#EXTINF:0,ФИЛЬМЫ 90-Х
-#EXTGRP: Кино
-http://2.57.186.111/online/90x/index.m3u8?key=test20-03
-#EXTINF:0,Мосфильм.
-#EXTGRP: Кино
-http://2.57.186.111/online/mosfilm/index.m3u8?key=test20-03
-#EXTINF:0,Украинская ССР
-#EXTGRP: Кино
-http://2.57.186.111/online/ussr/index.m3u8?key=test20-03
-#EXTINF:0,ЛенФильМ
-#EXTGRP: Кино
-http://2.57.186.111/online/lenfilm/index.m3u8?key=test20-03
-#EXTINF:0,Киностудия М. Горького
-#EXTGRP: Кино
-http://2.57.186.111/online/gor/index.m3u8?key=test20-03
-#EXTINF:0,Советское кино HD
-#EXTGRP: Кино
-http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:0,Советское кино 2
-#EXTGRP: Кино
-http://mhd.iptv2022.com/p/coiVodFqSGNJz1PNlUBtYA,1616892962/streaming/sovietmovs/324/1/index.m3u8
-
+http://mhd.iptv2022.com/p/UJ3o4Gf2g6LiW1V_PtBcIQ,1617538403/streaming/sovietmovs/324/1/index.m3u8
 
 #EXTINF:0,Дом кино2
 #EXTGRP: Кино
@@ -150,9 +112,6 @@ http://v2.catcast.tv/content/39161/index.m3u8
 
 
 
-#EXTINF:0,Discovery Science HD
-#EXTGRP: Кино
-http://94.232.127.13/z3/discoveryscience/stream.m3u8
 
 
 
@@ -169,4 +128,55 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?version=2
 #EXTINF:0,СТС (+4)
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2&offset=-14400
+
+
+#EXTINF:0,Советские мультфильмы
+#EXTGRP: Кино
+http://mhd.iptv2022.com/p/aTvytlpdgf3lcuAg94w7Uw,1617538403/streaming/rusmult/324/1/index.m3u8
+#EXTINF:0,СССР HD
+#EXTGRP: Кино
+http://2.57.186.111/online/sssrhd/index.m3u8?key=test20-03
+#EXTINF:0,CCCP
+#EXTGRP: Кино
+http://2.57.186.111/online/sssr/index.m3u8?key=files
+#EXTINF:0,CCCP 1
+#EXTGRP: Кино
+http://2.57.186.111/online/sssr1/index.m3u8?key=files
+#EXTINF:0,CCCP 2
+#EXTGRP: Кино
+http://2.57.186.111/online/sssr2/index.m3u8?key=test20-03
+#EXTINF:0,СССР МУЛЬТ.
+#EXTGRP: Кино
+http://2.57.186.111/online/mult/index.m3u8?key=test20-03
+#EXTINF:0,ФИЛЬМЫ 90-Х
+#EXTGRP: Кино
+http://2.57.186.111/online/90x/index.m3u8?key=test20-03
+#EXTINF:0,Мосфильм.
+#EXTGRP: Кино
+http://2.57.186.111/online/mosfilm/index.m3u8?key=test20-03
+#EXTINF:0,Украинская ССР
+#EXTGRP: Кино
+http://2.57.186.111/online/ussr/index.m3u8?key=test20-03
+#EXTINF:0,ЛенФильМ
+#EXTGRP: Кино
+http://2.57.186.111/online/lenfilm/index.m3u8?key=test20-03
+#EXTINF:0,Киностудия М. Горького
+#EXTGRP: Кино
+http://2.57.186.111/online/gor/index.m3u8?key=test20-03
+#EXTINF:0,Советское кино HD
+#EXTGRP: Кино
+http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Советское кино 2
+#EXTGRP: Кино
+http://mhd.iptv2022.com/p/coiVodFqSGNJz1PNlUBtYA,1616892962/streaming/sovietmovs/324/1/index.m3u8
+
+
+
+#EXTINF:0,Discovery Science HD
+#EXTGRP: Кино
+http://94.232.127.13/z3/discoveryscience/stream.m3u8
+#EXTINF:0,ТНОМЕР
+#EXTGRP: Кино
+http://mhd.iptv2022.com/p/AzD9Fzqcs9dLeyT9rSjjNQ,1617538403/streaming/tnomer/324/variable.m3u8
+
 
