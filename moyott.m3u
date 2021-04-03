@@ -33,6 +33,9 @@ https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: Кино
 http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
+#EXTINF:0,Москва Доверие2
+#EXTGRP: Кино
+http://flu.ttk.mx:9090/Doverie/index.m3u8
 #EXTINF:0,КИНО 1 INTERNATIONAL
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38617/index.m3u8
