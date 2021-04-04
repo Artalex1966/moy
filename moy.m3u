@@ -121,6 +121,10 @@ http://31.128.159.41:8080/mosfilm/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция 3
 #EXTGRP: Кино
 http://178.163.14.250:4022/udp/234.0.0.95:2000
+#EXTINF:0,USSR
+#EXTGRP: Кино
+http://195.154.242.229:3000/telegram/premiere_group_chat/47342
+
 
 #EXTINF:0,CCCP TВ
 #EXTGRP: Кино
