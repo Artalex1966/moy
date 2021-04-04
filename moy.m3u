@@ -354,10 +354,10 @@ https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 http://listen2.myradio24.com:9000/8226
 #EXTINF:0,Dogma - 101 Enigma
 #EXTGRP: Релакс
-http://ic7.101.ru:8000/a175
+http://ic7.101.ru:8000/a175,m3u
 #EXTINF:0,101.RU - Ennio Morricone
 #EXTGRP: Релакс
-http://ic7.101.ru:8000/a395
+http://ic7.101.ru:8000/a395,m3u
 
 #EXTINF:0,Радио ретро
 #EXTGRP: Музыка
