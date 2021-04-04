@@ -65,6 +65,9 @@ http://178.163.14.250:4022/udp/234.0.0.95:2000
 #EXTINF:0,Советское кино 1
 #EXTGRP: Кино
 http://mhd.iptv2022.com/p/UJ3o4Gf2g6LiW1V_PtBcIQ,1617538403/streaming/sovietmovs/324/1/index.m3u8
+#EXTINF:0,USSR
+#EXTGRP: Кино
+http://195.154.242.229:3000/telegram/premiere_group_chat/47342
 
 #EXTINF:0,Дом кино2
 #EXTGRP: Кино
