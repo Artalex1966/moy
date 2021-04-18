@@ -253,5 +253,31 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?versio
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8?version=2
 
 
+#EXTINF:0, Kosmo HD
+#EXTGRP: Познавательное
+http://cdnups.tk:8080/0027/index.m3u8?token=telega
+#EXTINF:0, Ridli HD
+#EXTGRP: Познавательное
+http://cdnups.tk:8080/0028/index.m3u8?token=telega
+#EXTINF:0, Relax Космос HD
+#EXTGRP: Познавательное
+http://cdnups.tk:8080/0046/index.m3u8?token=telega
+#EXTINF:0, CCCP 8080
+#EXTGRP: Познавательное
+http://cdnups.tk:8080/0058/index.m3u8?token=telega
+#EXTINF:0, Уфолог HD
+#EXTGRP: Познавательное
+http://cdnups.ml:80/0069/index.m3u8
+#EXTINF:0, Action
+#EXTGRP: Познавательное
+http://cdnups.tk:8080/0060/index.m3u8?token=telega
+#EXTINF:0,CSGO HD
+#EXTGRP: Познавательное
+http://cdnups.tk:8080/0045/index.m3u8?token=telega
+#EXTINF:0,Tik Tok
+#EXTGRP: Познавательное
+http://cdnups.tk:8080/0026/index.m3u8?token=telega
+
+
 
 KISS 💋
