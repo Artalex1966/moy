@@ -26,7 +26,7 @@ http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
 #EXTINF:0,НТВ
 #EXTGRP: эфир
-http://195.49.206.244:90/NTV/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
 
 
 
@@ -57,17 +57,41 @@ http://178.163.14.250:4022/udp/234.0.0.95:2000
 #EXTINF:0,Советское кино HD
 #EXTGRP: Кино
 http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0, CCCP 8080
+#EXTGRP: Кино
+http://cdnups.tk:8080/0058/index.m3u8?token=telega
 
-#EXTINF:0,СССР HD
-#EXTGRP: Кино
-http://sr-vk.info/online/sssrhd/index.m3u8?key=files
-#EXTINF:0,Комедия
-#EXTGRP: Кино
-http://sr-vk.info/online/comedy/index.m3u8?key=files
-#EXTINF:0,Зарубежные фильмы
-#EXTGRP: Кино
-http://sr-vk.info/online/zarubez/index.m3u8?key=files
 
+#EXTINF:0,BTV Бесмертный полк
+#EXTGRP: Кино
+http://cdnups.ml:80/0080/index.m3u8?token=telega
+#EXTINF:0,Фильмография HD Луи де Фюнес
+#EXTGRP: Кино
+http://cdnups.ml:80/0072/index.m3u8?token=telega
+#EXTINF:0,Ералаш HD
+#EXTGRP: Кино
+http://cdnups.tk:8080/0041/index.m3u8?token=telega
+#EXTINF:0,Мультфильмы СССР -1
+#EXTGRP: Кино
+http://cdnups.tk:8080/0033/index.m3u8?token=telega
+#EXTINF:0,Мультфильмы СССР -2
+#EXTGRP: Кино
+http://cdnups.tk:8080/0038/index.m3u8?token=telega
+#EXTINF:0,Мультфильмы СССР -3
+#EXTGRP: Кино
+http://cdnups.tk:8080/0039/index.m3u8?token=telega
+#EXTINF:0,Action
+#EXTGRP: Кино
+http://cdnups.tk:8080/0060/index.m3u8?token=telega
+#EXTINF:0,Marvel HD
+#EXTGRP: Кино
+http://cdnups.tk:8080/0049/index.m3u8?token=telega
+#EXTINF:0, Diablo HD
+#EXTGRP: Кино
+http://cdnups.tk:8080/0064/index.m3u8?token=telega
+#EXTINF:0, X-Files HD
+#EXTGRP: Кино
+http://cdnups.ml:80/0015/index.m3u8?token=telega
 
 #EXTINF:0,Дом кино2
 #EXTGRP: Кино
