@@ -85,20 +85,47 @@ http://31.128.159.41:8080/mosfilm/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция 3
 #EXTGRP: Кино
 http://178.163.14.250:4022/udp/234.0.0.95:2000
+#EXTINF:0, CCCP 8080
+#EXTGRP: Кино
+http://cdnups.tk:8080/0058/index.m3u8?token=telega
 #EXTINF:0,Советское кино HD
 #EXTGRP: Кино
 http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
 
-#EXTINF:0,СССР HD
+#EXTINF:0,BTV Бесмертный полк
 #EXTGRP: Кино
-http://sr-vk.info/online/sssrhd/index.m3u8?key=files
-#EXTINF:0,Комедия
+http://cdnups.ml:80/0080/index.m3u8?token=telega
+#EXTINF:0,Фильмография HD Луи де Фюнес
 #EXTGRP: Кино
-http://sr-vk.info/online/comedy/index.m3u8?key=files
-#EXTINF:0,Зарубежные фильмы
+http://cdnups.ml:80/0072/index.m3u8?token=telega
+#EXTINF:0,Ералаш HD
 #EXTGRP: Кино
-http://sr-vk.info/online/zarubez/index.m3u8?key=files
+http://cdnups.tk:8080/0041/index.m3u8?token=telega
+#EXTINF:0,Мультфильмы СССР -1
+#EXTGRP: Кино
+http://cdnups.tk:8080/0033/index.m3u8?token=telega
+#EXTINF:0,Мультфильмы СССР -2
+#EXTGRP: Кино
+http://cdnups.tk:8080/0038/index.m3u8?token=telega
+#EXTINF:0,Мультфильмы СССР -3
+#EXTGRP: Кино
+http://cdnups.tk:8080/0039/index.m3u8?token=telega
+#EXTINF:0,Action
+#EXTGRP: Кино
+http://cdnups.tk:8080/0060/index.m3u8?token=telega
+#EXTINF:0,Marvel HD
+#EXTGRP: Кино
+http://cdnups.tk:8080/0049/index.m3u8?token=telega
+#EXTINF:0, Diablo HD
+#EXTGRP: Кино
+http://cdnups.tk:8080/0064/index.m3u8?token=telega
+#EXTINF:0, X-Files HD
+#EXTGRP: Кино
+http://cdnups.ml:80/0015/index.m3u8?token=telega
 
+#EXTINF:0,НТВ
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
 
 #EXTINF:0,Дом кино2
 #EXTGRP: Кино
@@ -262,22 +289,27 @@ http://cdnups.tk:8080/0028/index.m3u8?token=telega
 #EXTINF:0, Relax Космос HD
 #EXTGRP: Познавательное
 http://cdnups.tk:8080/0046/index.m3u8?token=telega
-#EXTINF:0, CCCP 8080
-#EXTGRP: Познавательное
-http://cdnups.tk:8080/0058/index.m3u8?token=telega
+
 #EXTINF:0, Уфолог HD
 #EXTGRP: Познавательное
 http://cdnups.ml:80/0069/index.m3u8
-#EXTINF:0, Action
+#EXTINF:0,  Tech Box HD
 #EXTGRP: Познавательное
-http://cdnups.tk:8080/0060/index.m3u8?token=telega
+http://cdnups.ml:80/0019/index.m3u8?token=telega
 #EXTINF:0,CSGO HD
 #EXTGRP: Познавательное
 http://cdnups.tk:8080/0045/index.m3u8?token=telega
+#EXTINF:0,GTA HD
+#EXTGRP: Познавательное
+http://persik.by/stream/6696/480248/10702.m3u8
 #EXTINF:0,Tik Tok
 #EXTGRP: Познавательное
 http://cdnups.tk:8080/0026/index.m3u8?token=telega
-
-
+#EXTINF:0,ПОЛЕЗНЫЕ СОВЕТЫ MIX
+#EXTGRP: Познавательное
+http://persik.by/stream/6696/480248/10529.m3u8
+#EXTINF:0,MY GALAXY
+#EXTGRP: Познавательное
+http://persik.by/stream/6696/480248/10938.m3u8
 
 KISS 💋
