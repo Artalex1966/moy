@@ -78,6 +78,9 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Память
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38821/index.m3u8
+#EXTINF:0,СССР ТВ
+#EXTGRP: Кино
+https://cache-1.catcast.tv/content/38821/index.m3u8
 
 #EXTINF:0,Мосфильм. Золотая коллекция 2
 #EXTGRP: Кино
