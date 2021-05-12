@@ -62,6 +62,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:0,Звезда
 #EXTGRP: Кино
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:0,Звезда rutube
+#EXTGRP: Кино
+https://video-4-306.rutube.ru/stream/10.10.108.29/rx-vJ9DRr23vS4sMDy89Jw/1620628879/5ab908fccfac5bb43ef2b1e4182256b0/1080p_stream.m3u8
 #EXTINF:0,Красная линия 
 #EXTGRP: Кино
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
@@ -72,6 +75,9 @@ http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 #EXTINF:0,КИНО 1 INTERNATIONAL
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38617/index.m3u8
+#EXTINF:0,КИНО 1 INTERNATIONAL (2)
+#EXTGRP: Кино
+https://v2.catcast.tv/content/38617/tracks-v1a1/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38720/index.m3u8
@@ -109,10 +115,12 @@ https://hls.goodgame.ru/hls/153640.m3u8
 
 
 
-
-
-
-
+#EXTINF:0,Кино 5
+#EXTGRP: Кино
+http://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:0,Кино 2
+#EXTGRP: Кино
+http://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:0,НТВ
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
@@ -198,13 +206,13 @@ http://hls.goodgame.ru/manifest/180960_master.m3u8
 https://v2.catcast.tv/content/39161/index.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP: Кино
-http://94.230.240.12:8080/nauka2/tracks-v1a1/index.m3u8
+http://streamer.in-lan.net.ua:8035/ch0099
 #EXTINF:0, Министерство идей
 #EXTGRP: Познавательное
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:0, Discovery Science HD
 #EXTGRP: Познавательное
-http://212.79.122.24:7403/Discovery_Science
+http://streamer.in-lan.net.ua:8035/ch0051
 #EXTINF:0,Оружие
 #EXTGRP: Кино
 http://cdn.nexttvnet.ru/hlsl/10/Oruzhie/Oruzhie_3/index.m3u8?bw872973168630.m3u8
@@ -280,7 +288,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8?version=
 #EXTGRP: эфир
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 
-
+#EXTINF:0, NANO
+#EXTGRP: Познавательное
+https://video-4-306.rutube.ru/stream/10.10.108.67/NpOBaV14NDTV2LTNgfkPNw/1620629305/c8e7b586ad7b53392745722f3e5104d9/1080p_stream.m3u8
 #EXTINF:0, Kosmo HD
 #EXTGRP: Познавательное
 http://cdnups.tk:8080/0027/index.m3u8?token=telega
