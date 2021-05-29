@@ -68,9 +68,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:0,Звезда
 #EXTGRP: Кино
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
-#EXTINF:0,Звезда rutube
-#EXTGRP: Кино
-https://video-4-306.rutube.ru/stream/10.10.108.29/rx-vJ9DRr23vS4sMDy89Jw/1620628879/5ab908fccfac5bb43ef2b1e4182256b0/1080p_stream.m3u8
 #EXTINF:0,Красная линия 
 #EXTGRP: Кино
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
@@ -117,9 +114,35 @@ http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169
 #EXTINF:0,СССР
 #EXTGRP: Кино
 http://85.143.191.135/790/stream.m3u8
-#EXTINF:0,USSR
-#EXTGRP: Кино
-http://195.154.242.229:3000/mytelegram/premiere_group_chat/47342
+
+#EXTINF:0 tvg-name="SR-VK.online СССР HD"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/sssr-hd-1.png" tvg-id="sssrhd", SR-VK.online СССР HD
+http://s1.sr-vk.online/online/sssrhd/index.m3u8?key=open585_28
+#EXTINF:0 tvg-name="SR-VK.online СССР"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/sssr-3.png" tvg-id="sssr", SR-VK.online СССР
+http://s1.sr-vk.online/online/sssr/index.m3u8?key=open585_28
+#EXTINF:0 tvg-name="SR-VK.online СССР 1"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/sssr-1-1.png" tvg-id="sssr1", SR-VK.online СССР 1
+http://s1.sr-vk.online/online/sssr1/index.m3u8?key=open585_28
+#EXTINF:0 tvg-name="SR-VK.online СССР 2"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/sssr-2-1.png" tvg-id="sssr2", SR-VK.online СССР 2
+http://s1.sr-vk.online/online/sssr2/index.m3u8?key=open585_28
+#EXTINF:0 tvg-name="SR-VK.online Украинская ССР"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/ukrainskaya-ssr-1.png" tvg-id="ussr", SR-VK.online Украинская ССР
+http://s1.sr-vk.online/online/ussr/index.m3u8?key=open585_28
+#EXTINF:0 tvg-name="SR-VK.online Комедия СССР"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/komediya-1.png" tvg-id="comedy", SR-VK.online Комедия СССР
+http://s1.sr-vk.online/online/comedy/index.m3u8?key=open585_28
+#EXTINF:0 tvg-name="SR-VK.online Фильмы 90xм"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/filmy-90x-1.png" tvg-id="90x", SR-VK.online Фильмы 90xм
+http://s1.sr-vk.online/online/90x/index.m3u8?key=open585_28
+#EXTINF:0 tvg-name="SR-VK.online Киностудия М. Горького"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/kinostudiya-m.-gorkogo-1.png" tvg-id="gor", SR-VK.online Киностудия М. Горького
+http://s1.sr-vk.online/online/gor/index.m3u8?key=open585_28
+#EXTINF:0 tvg-name="SR-VK.online Милицейский канал"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/miliczejskij-kanal-1.png" tvg-id="mentfilm", SR-VK.online Милицейский канал
+http://s1.sr-vk.online/online/mentfilm/index.m3u8?key=open585_28
+#EXTINF:0 tvg-name="SR-VK.online Мос"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/mosfilm-1.png" tvg-id="mosfilm", SR-VK.online Мос
+http://s1.sr-vk.online/online/mosfilm/index.m3u8?key=open585_28
+#EXTINF:0 tvg-name="SR-VK.online Лен"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/lenfilm-1.png" tvg-id="lenfilm", SR-VK.online Лен
+http://s1.sr-vk.online/online/lenfilm/index.m3u8?key=open585_28
+#EXTINF:0 tvg-name="SR-VK.online Мульт"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/mult-1.png" tvg-id="mult", SR-VK.online Мульт
+http://s1.sr-vk.online/online/mult/index.m3u8?key=open585_28
+#EXTINF:0 tvg-name="SR-VK.online Cоветский дубляж"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/covetskij-dublyazh-1.png" tvg-id="zarubez", SR-VK.online Cоветский дубляж
+http://s1.sr-vk.online/online/zarubez/index.m3u8?key=open585_28
+#EXTINF:0 tvg-name="SR-VK.online Беларусьфильм"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/belarusfilm-1.png" tvg-id="belarusfilm", SR-VK.online Беларусьфильм
+http://s1.sr-vk.online/online/belarusfilm/index.m3u8?key=open585_28
 
 #EXTINF:0,T+
 #EXTGRP: Кино
