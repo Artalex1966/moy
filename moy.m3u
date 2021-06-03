@@ -14,9 +14,6 @@ https://cast.radiogroup.com.ua/chillout320
 #EXTINF:0,Chill
 #EXTGRP: Релакс
 http://dfm.hostingradio.ru/spoknochi96.aacp
-#EXTINF:0,Эмбиентная музыка
-#EXTGRP: Релакс
-https://youtu.be/qt_urUz42vI
 
 
 #EXTINF:0,Музыка Кино
@@ -120,7 +117,8 @@ http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169
 http://85.143.191.135/790/stream.m3u8
 
 
-http://s1.sr-vk.online/online/zarubez/index.m3u8?key=5g4mh52f5ab714
+#EXTINF:-1 tvg-id="0058" tvg-logo="" tvg-name="BTV Сделано в СССР" group-title="Фильмы",BTV Сделано в СССР
+http://cdnups.ga/0058/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
 
 #EXTINF:0 tvg-name="SR-VK.online СССР HD"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/sssr-hd-1.png" tvg-id="sssrhd", SR-VK.online СССР HD
 http://s1.sr-vk.online/online/sssrhd/index.m3u8?key=5g4mh52f5ab714
@@ -395,18 +393,7 @@ http://persik.by/stream/6696/480248/10529.m3u8
 #EXTGRP: Познавательное
 http://persik.by/stream/6696/480248/10938.m3u8
 
-#EXTINF:0,Ambient Music
-#EXTGRP: Релакс
-https://youtu.be/qt_urUz42vI
-#EXTINF:0,Chill Music Radio
-#EXTGRP: Релакс
-https://youtu.be/xLk9ZaguQVc
-#EXTINF:0,Chillstep Music
-#EXTGRP: Релакс
-https://youtu.be/M5QY2_8704o
-#EXTINF:0,LoFi Hip Hop — Chill Music
-#EXTGRP: Релакс
-https://youtu.be/KSDN8fpuwRQ
+
 
 
 KISS 💋
