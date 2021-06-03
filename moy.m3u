@@ -175,9 +175,16 @@ https://autopilot.catcast.tv/content/38850/index.m3u8
 #EXTINF:0,Мужское кино 
 #EXTGRP: Кино
 https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
-#EXTINF:0,Время
-#EXTGRP: Кино
-http://edge04.beetv.kz/btv/SWM/Vremya/Vremya_576p_2000kbps.m3u8
+
+#EXTINF:-1 tvg-id="0030" tvg-logo="" tvg-name="BTV Брэд Питт и Анджелина Джоли HD" group-title="Фильмы",BTV Брэд Питт и Анджелина Джоли HD
+http://cdnups.ga/0030/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
+#EXTINF:-1 tvg-id="0051" tvg-logo="" tvg-name="BTV Брюс Виллис HD" group-title="Фильмы",BTV Брюс Виллис HD
+http://cdnups.ga/0051/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
+#EXTINF:-1 tvg-id="0052" tvg-logo="" tvg-name="BTV Сильвестр Сталлоне HD" group-title="Фильмы",BTV Сильвестр Сталлоне HD
+http://cdnups.ga/0052/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
+
+
+
 #EXTINF:0,Свежаки HD
 #EXTGRP: Кино
 https://ed-ru-01.mycdn.video/fresh/tracks-v1a1/mono.m3u8
