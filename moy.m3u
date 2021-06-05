@@ -2,7 +2,7 @@
 
 #EXTINF:0,Камера
 #EXTGRP: Релакс
-http://192.168.0.114:8899
+rtsp://admin:22061966@192.168.0.114:554
 
 #EXTINF:0,Dogma - Magical Chants
 #EXTGRP: Релакс
