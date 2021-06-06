@@ -163,6 +163,22 @@ http://cdnups.ga/0074/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
 #EXTINF:0,Чудеса на виражах
 #EXTGRP: Кино
 http://cdnups.ga/0076/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
+#EXTINF:0,Чип и Дейл
+#EXTGRP: Кино
+http://cdnups.ga/0034/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
+#EXTINF:0,Тимон и Пумба
+#EXTGRP: Кино
+http://cdnups.ga/0036/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
+#EXTINF:0,Барбоскины
+#EXTGRP: Кино
+http://cdnups.ml/0091/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
+#EXTINF:0,Алладин
+#EXTGRP: Кино
+http://cdnups.ga/0037/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
+#EXTINF:0, Приключения мишек Гамми
+#EXTGRP: Кино
+http://cdnups.ml/0092/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
+
 #EXTINF:0,Хит HD
 #EXTGRP: Кино
 https://hls.goodgame.ru/hls/153640.m3u8
