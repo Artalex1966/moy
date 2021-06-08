@@ -112,6 +112,10 @@ http://iptvcinema.online/sdelano_v_ussr/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ=
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: Кино
 http://vdbrt.kazaktelekom.com/iptv/5EFPAVRVRYHGRU/10085/index.m3u8
+#EXTINF:0,KBC-Страна СССР
+#EXTGRP: Кино
+http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11091/index.m3u8
+
 #EXTINF:0,Советское кино HD
 #EXTGRP: Кино
 http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
