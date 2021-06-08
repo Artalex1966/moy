@@ -106,7 +106,9 @@ http://31.128.159.41:8080/mosfilm/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция 3
 #EXTGRP: Кино
 http://178.163.14.250:4022/udp/234.0.0.95:2000
-
+#EXTINF:0,Сделано в СССР
+#EXTGRP: Кино
+http://iptvcinema.online/sdelano_v_ussr/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: Кино
 http://vdbrt.kazaktelekom.com/iptv/5EFPAVRVRYHGRU/10085/index.m3u8
@@ -116,10 +118,18 @@ http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169
 #EXTINF:0,СССР
 #EXTGRP: Кино
 http://85.143.191.135/790/stream.m3u8
-
+#EXTINF:0,Dosug СССР HD
+#EXTGRP: Кино
+http://iptvcinema.online/dosug_ussr/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
 
 #EXTINF:-1 tvg-id="0058" tvg-logo="" tvg-name="BTV Сделано в СССР" group-title="Фильмы",BTV Сделано в СССР
 http://cdnups.ga/0058/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
+#EXTINF:0,BCU СССР HD
+#EXTGRP: Кино
+http://iptvcinema.online/bcu_ussr/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
+#EXTINF:0,TOP USSR
+#EXTGRP: Кино
+http://iptvcinema.online/top_ussr/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
 
 http://s1.sr-vk.online/online/zarubez/index.m3u8?cur=Artalex_138&key=dvlsrg55sdm4l9g3et6
 #EXTINF:0 tvg-name="SR-VK.online СССР HD"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/sssr-hd-1.png" tvg-id="sssrhd", SR-VK.online СССР HD
