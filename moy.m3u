@@ -100,13 +100,15 @@ http://195.154.242.229:3000/mytelegram/premiere_group_chat/47342
 
 #EXTINF:0,Мосфильм. Золотая коллекция 1
 #EXTGRP: Кино
-http://bitrix.powernet.com.ru/mosfilm/mpegts
+http://178.163.14.250:4022/udp/234.0.0.95:2000
 #EXTINF:0,Мосфильм. Золотая коллекция 2
 #EXTGRP: Кино
 http://hlstv.brn.211.ru/239.211.200.42/stream.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция 3
 #EXTGRP: Кино
-http://178.163.14.250:4022/udp/234.0.0.95:2000
+http://bitrix.powernet.com.ru/mosfilm/mpegts
+#EXTINF:0,Сделано в СССР
+#EXTGRP: Кино
 #EXTINF:0,Сделано в СССР
 #EXTGRP: Кино
 
