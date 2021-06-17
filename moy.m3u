@@ -1,3 +1,37 @@
+#EXTM3U
+
+#EXTINF:0,Dogma - Magical Chants
+#EXTGRP: Релакс
+http://listen2.myradio24.com:9000/8226
+#EXTINF:0,Chill FM
+#EXTGRP: Релакс
+https://edge126.rcs-rds.ro/profm/chillfm.mp3
+#EXTINF:0,ChilloutFM
+#EXTGRP: Релакс
+https://listen2.myradio24.com/8795
+#EXTINF:0,chillout320
+#EXTGRP: Релакс
+https://cast.radiogroup.com.ua/chillout320
+#EXTINF:0,Chill
+#EXTGRP: Релакс
+http://dfm.hostingradio.ru/spoknochi96.aacp
+
+
+
+#EXTINF:0,Музыка Кино
+#EXTGRP: Музыка
+http://185.156.179.234:8084
+#EXTINF:0,Музыка 1
+#EXTGRP: Музыка
+http://95.215.111.230:8082
+#EXTINF:0,Музыка 2
+#EXTGRP: Музыка
+http://109.248.11.227:8083
+#EXTINF:0,Ретро Музыка
+#EXTGRP: Музыка
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:0,Россия 24
 #EXTGRP: эфир
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:0,Россия 1 HD
@@ -185,6 +219,9 @@ https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 #EXTINF:0,Мужское кино 2
 #EXTGRP: Кино
 http://hlstv.brn.211.ru/239.211.211.145/stream.m3u8
+#EXTINF:0,Кинопоказ
+#EXTGRP: Кино
+http://185.74.7.220:8080/kinopokaz/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="0030" tvg-logo="" tvg-name="BTV Брэд Питт и Анджелина Джоли HD" group-title="Фильмы",BTV Брэд Питт и Анджелина Джоли HD
 http://cdnups.ga/0030/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
