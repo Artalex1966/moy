@@ -179,7 +179,7 @@ http://s1.sr-vk.online/online/belarusfilm/index.m3u8?cur=Artalex_138&key=Za_Kopi
 
 #EXTINF:0,Маша  медведь
 #EXTGRP: Кино
-http://cdnups.ga/0075/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
+http://193.123.63.94:2021/channel/n2cbd58e7/index.m3u8?q=e9cb169fc76c3064adfb44ed2b21e284
 #EXTINF:0,Ну погоди
 #EXTGRP: Кино
 http://cdnups.ga/0074/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
@@ -255,6 +255,19 @@ http://cdnups.ml/0107/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
 http://cdnups.ml/0108/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
 #EXTINF:-1 tvg-id="0094" tvg-logo="" tvg-name="BTV Агент 007" group-title="Фильмы",BTV Агент 007
 http://cdnups.ml/0094/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
+
+#EXTM3U url-tvg="http://yosso.streaming-elbrus.tk:8085/grand.xml"
+#EXTINF:-1 tvg-id="grand" tvg-logo="http://yosso.streaming-elbrus.tk:8085/logos/yossotv/grand.png" group-title="All",YOSSO TV GRAND
+http://yosso.streaming-elbrus.tk:8080/YOSSO-GRAND/video.m3u8?token=QYCyH3O830
+#EXTINF:-1 tvg-logo="http://yosso.streaming-elbrus.tk:8085/logos/yossotv/vhs.png" group-title="All",YOSSO TV VHS
+http://yosso.streaming-elbrus.tk:8080/YOSSOVHS/video.m3u8?token=QYCyH3O830
+#EXTINF:-1 tvg-logo="http://yosso.streaming-elbrus.tk:8085/logos/yossotv/kids.png" group-title="All",YOSSO TV KIDS
+http://yosso.streaming-elbrus.tk:8080/Yossokids/video.m3u8?token=QYCyH3O830
+#EXTINF:-1 tvg-logo="http://yosso.streaming-elbrus.tk:8085/logos/yossotv/rukino.png" group-title="All",YOSSO TV Русские фильмы
+http://yosso.streaming-elbrus.tk:8080/Yossorus/video.m3u8?token=QYCyH3O830
+#EXTINF:-1 tvg-logo="http://yosso.streaming-elbrus.tk:8085/logos/yossotv/sexy.png" group-title="All",YOSSO TV SEXY
+http://yosso.streaming-elbrus.tk:8080/YOSSO-SEXY/video.m3u8?token=QYCyH3O830
+
 
 
 
