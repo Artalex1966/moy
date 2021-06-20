@@ -125,7 +125,11 @@ http://s5.sr-vk.online/online/zarubez/index.m3u8?key=PROMO_zarubez2
 
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: Кино
-http://vdbrt.kazaktelekom.com/iptv/5EFPAVRVRYHGRU/10085/index.m3u8
+http://87.117.231.9/iptv/6CBBEEKZV5CG3E/10085/index.m3u8
+#EXTINF:0,VF Мосфильм
+#EXTGRP: Кино
+http://87.117.231.9/iptv/6CBBEEKZV5CG3E/10084/index.m3u8
+
 
 
 #EXTINF:0,Советское кино HD
@@ -282,6 +286,9 @@ https://s4.idata.uz/retro/index.m3u8
 #EXTINF:0,Победа
 #EXTGRP: Кино
 http://hlstv.brn.211.ru/239.211.211.169/stream.m3u8
+#EXTINF:0,Победа 2
+#EXTGRP: Кино
+http://212.76.27.27/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
 #EXTINF:0,Твоё ТВ HD
 #EXTGRP: Кино
 http://stream-norst.cf:8080/tvoetv/index.m3u8
