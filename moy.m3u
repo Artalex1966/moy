@@ -283,6 +283,16 @@ http://yosso.streaming-elbrus.tk:8080/YOSSO-SEXY/video.m3u8?token=QYCyH3O830
 #EXTINF:0,BCU Action HD
 #EXTGRP: Кино
 http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11027/index.m3u8
+#EXTINF:0,Dosug New HD
+#EXTGRP: Кино
+http://iptvcinema.online/dosug_new/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
+#EXTINF:0,Dosug Hit HD
+#EXTGRP: Кино
+http://iptvcinema.online/dosug_hit/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
+#EXTINF:0,Dosug Fantastic HD
+#EXTGRP: Кино
+http://iptvcinema.online/dosug_fantastic/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
+
 
 #EXTINF:0,Свежаки HD
 #EXTGRP: Кино
@@ -515,4 +525,3 @@ http://hlstv.brn.211.ru/239.211.211.167/stream.m3u8
 http://hlstv.brn.211.ru/239.211.211.45/stream.m3u8
 
 KISS 💋
-
