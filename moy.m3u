@@ -87,6 +87,9 @@ https://v2.catcast.tv/content/38617/tracks-v1a1/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0,FILM КАНИКУЛЫ
+#EXTGRP: Кино
+https://autopilot.catcast.tv/content/39673/index.m3u8?bw983666988618.m3u8
 
 #EXTINF:0,Память
 #EXTGRP: Кино
@@ -96,7 +99,7 @@ https://v2.catcast.tv/content/38821/index.m3u8
 https://cache-1.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,USSR
 #EXTGRP: Кино
-http://195.154.242.229:3000/mytelegram/premiere_group_chat/47342
+http://195.154.242.229:3000/telegram/premiere_group/47342
 
 #EXTINF:0,Мосфильм. Золотая коллекция 1
 #EXTGRP: Кино
@@ -130,14 +133,20 @@ http://87.117.231.9/iptv/6CBBEEKZV5CG3E/10085/index.m3u8
 #EXTGRP: Кино
 http://87.117.231.9/iptv/6CBBEEKZV5CG3E/10084/index.m3u8
 
+#EXTINF:0,Сделано в СССР
+#EXTGRP: Кино
+http://iptvcinema.online/sdelano_v_ussr/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
+#EXTINF:0,Dosug СССР HD
+#EXTGRP: Кино
+http://iptvcinema.online/dosug_ussr/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
 
 
 #EXTINF:0,Советское кино HD
 #EXTGRP: Кино
 http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:0,СССР
+#EXTINF:0,BCU СССР HD
 #EXTGRP: Кино
-http://85.143.191.135/790/stream.m3u8
+http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11026/index.m3u8
 
 
 #EXTINF:-1 tvg-id="0058" tvg-logo="" tvg-name="BTV Сделано в СССР" group-title="Фильмы",BTV Сделано в СССР
@@ -180,6 +189,9 @@ http://s1.sr-vk.online/online/belarusfilm/index.m3u8?cur=Artalex_138&key=Za_Kopi
 #EXTINF:0,Маша  медведь
 #EXTGRP: Кино
 http://193.123.63.94:2021/channel/n2cbd58e7/index.m3u8?q=e9cb169fc76c3064adfb44ed2b21e284
+#EXTINF:0,Том и Джерри
+#EXTGRP: Кино
+http://tsn3.auratv.fun/channel/n207bb204/index.m3u8?q=55e6f2dcc5198d44cef9de855c2e5b47
 #EXTINF:0,Ну погоди
 #EXTGRP: Кино
 http://cdnups.ga/0074/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
@@ -268,8 +280,9 @@ http://yosso.streaming-elbrus.tk:8080/Yossorus/video.m3u8?token=QYCyH3O830
 #EXTINF:-1 tvg-logo="http://yosso.streaming-elbrus.tk:8085/logos/yossotv/sexy.png" group-title="All",YOSSO TV SEXY
 http://yosso.streaming-elbrus.tk:8080/YOSSO-SEXY/video.m3u8?token=QYCyH3O830
 
-
-
+#EXTINF:0,BCU Action HD
+#EXTGRP: Кино
+http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11027/index.m3u8
 
 #EXTINF:0,Свежаки HD
 #EXTGRP: Кино
@@ -502,3 +515,4 @@ http://hlstv.brn.211.ru/239.211.211.167/stream.m3u8
 http://hlstv.brn.211.ru/239.211.211.45/stream.m3u8
 
 KISS 💋
+
