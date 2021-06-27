@@ -185,9 +185,27 @@ http://193.123.63.94:2021/channel/n2cbd58e7/index.m3u8?q=e9cb169fc76c3064adfb44e
 #EXTINF:0,Том и Джерри
 #EXTGRP: Кино
 http://tsn3.auratv.fun/channel/n207bb204/index.m3u8?q=55e6f2dcc5198d44cef9de855c2e5b47
-#EXTINF:0,Ну погоди
+
+#EXTINF:0,ДИСНЕЙ
 #EXTGRP: Кино
-http://cdnups.ga/0074/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
+http://a775797577-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/playlist.m3u8
+#EXTINF:0,ДИСНЕЙ+7
+#EXTGRP: Кино
+http://a775797673-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/bw2000000/playlist.m3u8
+#EXTINF:0,Мультиландия
+#EXTGRP: Кино
+http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
+#EXTINF:0,Рыжий
+#EXTGRP: Кино
+http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
+#EXTINF:0,Мультсказки
+#EXTGRP: Кино
+https://autopilot.catcast.tv/content/38850/index.m3u8
+#EXTINF:0,ВЕСЕЛАЯ КАРУСЕЛЬ
+#EXTGRP: Кино
+http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11057/index.m3u8
+
+
 #EXTINF:0,Чудеса на виражах
 #EXTGRP: Кино
 http://cdnups.ga/0076/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
