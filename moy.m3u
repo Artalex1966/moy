@@ -194,6 +194,12 @@ http://193.123.63.94:2021/channel/n2cbd58e7/index.m3u8?q=e9cb169fc76c3064adfb44e
 #EXTGRP: Кино
 http://v2.catcast.tv/content/38144/index.m3u8
 
+#EXTINF:0,Мульт
+#EXTGRP: Кино
+http://188.113.190.12/160/video.m3u8
+#EXTINF:0,Kinder TV
+#EXTGRP: Кино
+http://autopilot.catcast.tv/content/38144/index.m3u8
 #EXTINF:0,ДИСНЕЙ
 #EXTGRP: Кино
 http://a775797577-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/playlist.m3u8
