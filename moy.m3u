@@ -200,6 +200,9 @@ http://188.113.190.12/160/video.m3u8
 #EXTINF:0,Kinder TV
 #EXTGRP: Кино
 http://autopilot.catcast.tv/content/38144/index.m3u8
+#EXTINF:0,Big Buck Bunny
+#EXTGRP: Кино
+https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
 #EXTINF:0,ДИСНЕЙ
 #EXTGRP: Кино
 http://a775797577-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/playlist.m3u8
