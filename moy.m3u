@@ -2,7 +2,15 @@
 
 #EXTINF:0,Dogma - Magical Chants
 #EXTGRP: Релакс
-http://listen2.myradio24.com:9000/8226
+https://listen5.myradio24.com/meganight
+
+https://listen1.myradio24.com/2288
+#EXTINF:0,NEON channel
+#EXTGRP: Релакс
+https://listen1.myradio24.com/5790
+#EXTINF:0,SpaceSynth
+#EXTGRP: Релакс
+https://listen2.myradio24.com/1987
 #EXTINF:0,Chill FM
 #EXTGRP: Релакс
 https://edge126.rcs-rds.ro/profm/chillfm.mp3
@@ -184,7 +192,7 @@ http://s1.sr-vk.online/online/belarusfilm/index.m3u8?cur=Artalex_138&key=Za_Kopi
 http://193.123.63.94:2021/channel/n2cbd58e7/index.m3u8?q=e9cb169fc76c3064adfb44ed2b21e284
 #EXTINF:0,Том и Джерри
 #EXTGRP: Кино
-http://tsn3.auratv.fun/channel/n207bb204/index.m3u8?q=55e6f2dcc5198d44cef9de855c2e5b47
+http://v2.catcast.tv/content/38144/index.m3u8
 
 #EXTINF:0,ДИСНЕЙ
 #EXTGRP: Кино
@@ -347,7 +355,7 @@ https://v2.catcast.tv/content/39161/index.m3u8
 https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:0,Фантастика HD
 #EXTGRP: Кино
-http://85.143.191.135/780/stream.m3u8
+http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11070/index.m3u8
 #EXTINF:0,UZ Фантастика HD
 #EXTGRP: Кино
 http://iptvcinema.online/uz_fantastica/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
