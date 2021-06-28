@@ -384,16 +384,15 @@ http://5e4edcb9.kartoshkaka.ru/iptv/2XBPNFMZKED9RN/13064/index.m3u8
 #EXTINF:0,BCU Action HD
 #EXTGRP: Кино
 http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11027/index.m3u8
-#EXTINF:0,Dosug New HD
+#EXTINF:0,VF Универ
 #EXTGRP: Кино
-http://iptvcinema.online/dosug_new/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
-#EXTINF:0,Dosug Hit HD
+http://5e4edcb9.kartoshkaka.ru/iptv/5EFPAVRVRYHGRU/13084/index.m3u8
+#EXTINF:0,VF Тайны следствия
 #EXTGRP: Кино
-http://iptvcinema.online/dosug_hit/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
-#EXTINF:0,Dosug Fantastic HD
+http://5e4edcb9.kartoshkaka.ru/iptv/5EFPAVRVRYHGRU/13082/index.m3u8
+#EXTINF:0,Кинозал! Сваты
 #EXTGRP: Кино
-http://iptvcinema.online/dosug_fantastic/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
-
+http://5e4edcb9.kartoshkaka.ru/iptv/2XBPNFMZKED9RN/11062/index.m3u8
 
 #EXTINF:0,Свежаки HD
 #EXTGRP: Кино
