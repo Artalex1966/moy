@@ -1,28 +1,26 @@
 #EXTM3U
 
-#EXTINF:0,Dogma - Magical Chants
+#EXTINF:0,Chillоut 101  
 #EXTGRP: Релакс
-https://listen5.myradio24.com/meganight
-
-https://listen1.myradio24.com/2288
-#EXTINF:0,NEON channel
+http://pub0201.101.ru:8000/stream/trust/mp3/128/24
+#EXTINF:0,Ocean Radio Chilled  
 #EXTGRP: Релакс
-https://listen1.myradio24.com/5790
-#EXTINF:0,SpaceSynth
-#EXTGRP: Релакс
-https://listen2.myradio24.com/1987
+http://149.56.147.197:9083/;?1214817d
 #EXTINF:0,Chill FM
 #EXTGRP: Релакс
 https://edge126.rcs-rds.ro/profm/chillfm.mp3
 #EXTINF:0,ChilloutFM
 #EXTGRP: Релакс
 https://listen2.myradio24.com/8795
-#EXTINF:0,chillout320
+#EXTINF:0,Lounge FM
 #EXTGRP: Релакс
 https://cast.radiogroup.com.ua/chillout320
 #EXTINF:0,Chill
 #EXTGRP: Релакс
 http://dfm.hostingradio.ru/spoknochi96.aacp
+#EXTINF:0,New Age Radio
+#EXTGRP: Релакс
+https://a7.radioheart.ru:8044/newageradio?f32e
 
 
 
@@ -192,6 +190,9 @@ http://s1.sr-vk.online/online/belarusfilm/index.m3u8?cur=Artalex_138&key=Za_Kopi
 http://193.123.63.94:2021/channel/n2cbd58e7/index.m3u8?q=e9cb169fc76c3064adfb44ed2b21e284
 #EXTINF:0,Том и Джерри
 #EXTGRP: Кино
+http://5e4edcb9.kartoshkaka.ru/iptv/2XBPNFMZKED9RN/13016/index.m3u8
+#EXTINF:0,Мультики
+#EXTGRP: Кино
 http://v2.catcast.tv/content/38144/index.m3u8
 
 #EXTINF:0,Мульт
@@ -228,10 +229,10 @@ http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11057/index.m3u8
 http://cdnups.ga/0076/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
 #EXTINF:0,Чип и Дейл
 #EXTGRP: Кино
-http://cdnups.ga/0034/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
-#EXTINF:0,Тимон и Пумба
+http://5e4edcb9.kartoshkaka.ru/iptv/2XBPNFMZKED9RN/13064/index.m3u8
+#EXTINF:0,Утиные истории
 #EXTGRP: Кино
-http://cdnups.ga/0036/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
+http://5e4edcb9.kartoshkaka.ru/iptv/2XBPNFMZKED9RN/13060/index.m3u8
 #EXTINF:0,Барбоскины
 #EXTGRP: Кино
 http://cdnups.ml/0091/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
