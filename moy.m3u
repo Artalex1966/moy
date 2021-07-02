@@ -196,7 +196,7 @@ http://5e4edcb9.kartoshkaka.ru/iptv/5EFPAVRVRYHGRU/13016/index.m3u8
 http://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:0, Детский мир
 #EXTGRP: Кино
-http://fa935409.rossteleccom.net/iptv/EUEN77P22PWQ4W/543/index.m3u
+http://185.74.7.220:8080/detskiy/index.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Кино
 http://188.113.190.12/160/video.m3u8
@@ -221,9 +221,14 @@ http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
 #EXTINF:0,Мультсказки
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/38850/index.m3u8
-#EXTINF:0,ВЕСЕЛАЯ КАРУСЕЛЬ
+#EXTINF:0,O!
 #EXTGRP: Кино
-http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11057/index.m3u8
+https://sc.id-tv.kz/o_34_35.m3u8
+
+
+
+
+
 
 
 #EXTINF:0,Чудеса на виражах
@@ -235,17 +240,17 @@ http://5e4edcb9.kartoshkaka.ru/iptv/5EFPAVRVRYHGRU/13064/index.m3u8
 #EXTINF:0,Утиные истории
 #EXTGRP: Кино
 http://5e4edcb9.kartoshkaka.ru/iptv/5EFPAVRVRYHGRU/13060/index.m3u8
-#EXTINF:0,Барбоскины
+#EXTINF:0,FILM TV Детский
 #EXTGRP: Кино
-http://cdnups.ml/0091/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
-#EXTINF:0,Алладин
+http://filmtv.zapto.org:8050/hls/detskiy/index.m3u8
+#EXTINF:0,FILM TV Киндер
 #EXTGRP: Кино
-http://cdnups.ga/0037/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
-#EXTINF:0, Приключения мишек Гамми
-#EXTGRP: Кино
-http://cdnups.ml/0092/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
+http://v2.catcast.tv/content/38144/index.m3u8
 
 
+#EXTINF:0,FILM TV
+#EXTGRP: Кино
+http://filmtv.zapto.org:8050/hls/filmtv/index.m3u8
 #EXTINF:0,Хит HD
 #EXTGRP: Кино
 https://hls.goodgame.ru/hls/153640.m3u8
@@ -265,10 +270,10 @@ https://autopilot.catcast.tv/content/38850/index.m3u8
 https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 #EXTINF:0,Мужское кино 2
 #EXTGRP: Кино
-http://hlstv.brn.211.ru/239.211.211.145/stream.m3u8
-#EXTINF:0,Кинопоказ
+https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
+#EXTINF:0,VIP Megahit
 #EXTGRP: Кино
-http://185.74.7.220:8080/kinopokaz/tracks-v1a1/mono.m3u8
+http://185.97.150.19:8082/965
 
 #EXTINF:-1 tvg-id="5122" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5122.png" group-title="Кинозал 1",минимакс-007 HD
 http://5e4edcb9.kartoshkaka.ru/iptv/5EFPAVRVRYHGRU/13009/index.m3u8
@@ -421,8 +426,10 @@ http://iptv.prosto.tv:7000/ch58/video.m3u8
 #EXTINF:0,Ретро тв
 #EXTGRP: Кино
 https://s4.idata.uz/retro/index.m3u8
-
 #EXTINF:0,Победа
+#EXTGRP: Кино
+http://hlstv.brn.211.ru/239.211.211.169/stream.m3u8
+#EXTINF:0,Победа 2
 #EXTGRP: Кино
 http://212.76.27.27/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
 #EXTINF:0,Твоё ТВ HD
@@ -466,6 +473,12 @@ https://sc.id-tv.kz/Cinema_34_35.m3u8
 
 
 
+#EXTINF:0,Родное кино
+#EXTGRP: Кино
+https://s3.idata.uz/dars10/index.m3u8
+#EXTINF:0,Русская комедия
+#EXTGRP: Кино
+http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
 #EXTINF:0,FILM TV 
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38144/index.m3u8
@@ -489,7 +502,9 @@ http://51.195.44.53:8081/tv/kino-tv/chunks.m3u8
 http://hls.goodgame.ru/manifest/180960_master.m3u8
 
 
-
+#EXTINF:0,Твое ТВ FHD
+#EXTGRP: Кино
+https://v2.catcast.tv/content/39161/index.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP: Кино
 http://188.113.190.12:80/96/tracks-v1a1/index.m3u8
@@ -499,10 +514,36 @@ http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:0, Discovery Science HD
 #EXTGRP: Познавательное
 http://185.74.4.46:8080/stch_temp10/mpegts
-
+#EXTINF:0,Оружие
+#EXTGRP: Кино
+http://hlstv.kem.211.ru/239.211.211.120/stream.m3u8
+#EXTINF:0,Золотые ручки
+#EXTGRP: Кино
+http://persik.by/stream/2347/472449/10915.m3u8
+#EXTINF:0,Кто есть Кто
+#EXTGRP: Познавательное
+http://hlstv.kem.211.ru/239.211.211.192/stream.m3u8
 
 ----
+#EXTINF:0,Камин
+#EXTGRP: Релакс
+http://v2.catcast.me/content/36334/index.m3u8
+#EXTINF:0,Релакс HD
+#EXTGRP: Релакс
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:0,Nature Relaxation HD
+#EXTGRP: Релакс
+https://live.streams.ovh/YourStreaming/YourStreaming/chunklist_w1017953779.m3u8
+#EXTINF:0,Под Водой
+#EXTGRP: Релакс
+http://live-1.otcnet.ru/podvodoi/tracks-v1a1/mono.m3u8
+#EXTINF:0,Relax
+#EXTGRP: Релакс
+https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 
+#EXTINF:0,Радио ретро
+#EXTGRP: Музыка
+http://hls.goodgame.ru:80/hls/33245.m3u8
 
 
 
@@ -558,21 +599,36 @@ http://ott.inmart.tv:8081/54/index.m3u8
 #EXTINF:0,Оплот 2
 #EXTGRP: Познавательное
 http://ott.inmart.tv:8081/17/index.m3u8
+#EXTINF:0, Бобёр
+#EXTGRP: Познавательное
+http://edge04.beetv.kz/btv/SWM/Bober/Bober_576p_2000kbps.m3u8
 
-#EXTINF:0,Релакс HD
-#EXTGRP: Релакс
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:0,Nature Relaxation HD
-#EXTGRP: Релакс
-https://live.streams.ovh/YourStreaming/YourStreaming/chunklist_w1017953779.m3u8
-
-#EXTINF:0,Relax
-#EXTGRP: Релакс
-https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
-
-#EXTINF:0,Радио ретро
-#EXTGRP: Музыка
-http://hls.goodgame.ru:80/hls/33245.m3u8
-
+#EXTINF:0,GALAXY
+#EXTGRP: Познавательное
+http://178.163.107.173:4022/udp/234.0.0.111:2000?zi/
+#EXTINF:0,  Tech Box HD
+#EXTGRP: Познавательное
+http://cdnups.ml:80/0019/index.m3u8?token=telega
+#EXTINF:0,Е
+#EXTGRP: Познавательное
+http://hlstv.brn.211.ru/239.211.211.123/stream.m3u8
+#EXTINF:0,GTA HD
+#EXTGRP: Познавательное
+http://persik.by/stream/6696/480248/10702.m3u8
+#EXTINF:0,Tik Tok
+#EXTGRP: Познавательное
+http://cdnups.ga/0026/video.m3u8?token=cXdlcmFzfHxjWGRsY21Geg==
+#EXTINF:0,ПОЛЕЗНЫЕ СОВЕТЫ MIX
+#EXTGRP: Познавательное
+http://persik.by/stream/6696/480248/10529.m3u8
+#EXTINF:0,MY GALAXY
+#EXTGRP: Познавательное
+http://persik.by/stream/6696/480248/10938.m3u8
+#EXTINF:0,Ремонт
+#EXTGRP: Познавательное
+http://hlstv.brn.211.ru/239.211.211.167/stream.m3u8
+#EXTINF:0, Техно 24
+#EXTGRP: Познавательное
+http://hlstv.brn.211.ru/239.211.211.45/stream.m3u8
 
 KISS 💋
