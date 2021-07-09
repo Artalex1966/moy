@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:0,Chillоut 101  
+#EXTINF:0,Chillоut Record
 #EXTGRP: Релакс
-http://pub0201.101.ru:8000/stream/trust/mp3/128/24
+http://air.radiorecord.ru:8102/chil_320
 #EXTINF:0,Ocean Radio Chilled  
 #EXTGRP: Релакс
 http://149.56.147.197:9083/;?1214817d
@@ -21,6 +21,12 @@ http://dfm.hostingradio.ru/spoknochi96.aacp
 #EXTINF:0,New Age Radio
 #EXTGRP: Релакс
 https://a7.radioheart.ru:8044/newageradio?f32e
+#EXTINF:0,Ретро FM Сан-Ремо
+#EXTGRP: Релакс
+https://hls-01-sanremo.emgsound.ru/5/96/playlist.m3u8
+#EXTINF:0,Relax International
+#EXTGRP: Релакс
+https://stream.relaxfm.ee/international
 
 
 
@@ -124,10 +130,10 @@ http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11061/index.m3u8
 
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: Кино
-http://87.117.231.9/iptv/6CBBEEKZV5CG3E/10085/index.m3u8
+http://pcjk9ghb.russtv.net/iptv/S4NVUDGUZ5Y5MR/10085/index.m3u8
 #EXTINF:0,VF Мосфильм
 #EXTGRP: Кино
-http://87.117.231.9/iptv/6CBBEEKZV5CG3E/10084/index.m3u8
+http://pcjk9ghb.russtv.net/iptv/S4NVUDGUZ5Y5MR/10084/index.m3u8
 
 #EXTINF:0,Сделано в СССР
 #EXTGRP: Кино
