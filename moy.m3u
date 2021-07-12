@@ -159,8 +159,13 @@ https://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,Все включено
 #EXTGRP: Кино
 https://v2.catcast.tv/content/39161/index.m3u8
+#EXTINF:0,КИНОКЛУБ
+#EXTGRP: Кино
+https://v2.catcast.tv/content/39005/index.m3u8
 
 http://s1.sr-vk.online/online/zarubez/index.m3u8?cur=Artalex_138&key=Za_Kopiruvanie_ssilki_v_ban_3456
+
+http://sr-vk.info/online/zarubez/index.m3u8?key=file2
 
 #EXTINF:0 tvg-name="SR-VK.online СССР HD"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/sssr-hd-1.png" tvg-id="sssrhd", SR-VK.online СССР HD
 http://s1.sr-vk.online/online/sssrhd/index.m3u8?cur=Artalex_138&key=Za_Kopiruvanie_ssilki_v_ban_3456
