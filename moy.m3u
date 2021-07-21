@@ -187,6 +187,12 @@ https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 #EXTINF:0,Кинопоказ
 #EXTGRP: Кино
 http://185.74.7.220:8080/kinopokaz/tracks-v1a1/mono.m3u8
+#EXTINF:0,Кинопремьера 
+#EXTGRP: Кино
+https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
+#EXTINF:0,Кинохит 
+#EXTGRP: Кино
+https://sc.id-tv.kz/Kinohit_hd_38_39.m3u8
 
 #EXTINF:0,Победа
 #EXTGRP: Кино
