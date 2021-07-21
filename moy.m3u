@@ -140,7 +140,10 @@ https://v2.catcast.tv/content/38821/index.m3u8
 https://cache-1.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,USSR
 #EXTGRP: Кино
-http://195.154.242.229:3000/telegram/premiere_group/47342
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/11102/index.m3u8
+#EXTINF:0,Советское кино HD
+#EXTGRP: Кино
+http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
 
 #EXTINF:0,Мосфильм. Золотая коллекция 1
 #EXTGRP: Кино
@@ -152,6 +155,72 @@ http://hlstv.brn.211.ru/239.211.200.42/stream.m3u8
 #EXTGRP: Кино
 http://bitrix.powernet.com.ru/mosfilm/mpegts
 
+#EXTINF:0,Фильмы СССР
+#EXTGRP: Кино
+https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:0,Все включено
+#EXTGRP: Кино
+https://v2.catcast.tv/content/39161/index.m3u8
+#EXTINF:0,КИНОКЛУБ
+#EXTGRP: Кино
+https://v2.catcast.tv/content/39005/index.m3u8
+
+#EXTINF:0,НТВ
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
+#EXTINF:0,Дом кино
+#EXTGRP: Кино
+http://185.74.7.220:8080/domkino/tracks-v1a1/mono.m3u8
+#EXTINF:0,Дом кино2
+#EXTGRP: Кино
+http://persik.by/stream/6696/480248/10228.m3u8
+#EXTINF:0,Наше любимое кино
+#EXTGRP: Кино
+http://iptv.prosto.tv:7000/ch58/video.m3u8
+#EXTINF:0,Ретро тв
+#EXTGRP: Кино
+https://s4.idata.uz/retro/index.m3u8
+
+#EXTINF:0,Мужское кино 
+#EXTGRP: Кино
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+#EXTINF:0,Кинопоказ
+#EXTGRP: Кино
+http://185.74.7.220:8080/kinopokaz/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Победа
+#EXTGRP: Кино
+http://212.76.27.27/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
+#EXTINF:0,Твоё ТВ HD
+#EXTGRP: Кино
+http://stream-norst.cf:8080/tvoetv/index.m3u8
+#EXTINF:0,ВСЁ ВКЛЮЧЕНО
+#EXTGRP: Кино
+https://v2.catcast.tv/content/39161/index.m3u8
+#EXTINF:0,Фантастика
+#EXTGRP: Кино
+https://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:0,Фантастика HD
+#EXTGRP: Кино
+http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11070/index.m3u8
+#EXTINF:0,UZ Фантастика HD
+#EXTGRP: Кино
+http://iptvcinema.online/uz_fantastica/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
+#EXTINF:0,BCU Fantastic HD
+#EXTGRP: Кино
+http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11032/index.m3u8
+#EXTINF:0,Fentazy
+#EXTGRP: Кино
+http://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:0,Premium кино
+#EXTGRP: Кино
+https://v2.catcast.tv/content/38792/index.m3u8
+#EXTINF:-1,Millenium TV
+#EXTGRP: Кино
+http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
+#EXTINF:-1,Кино ТВ
+#EXTGRP: Кино
+http://31.128.159.41:8080/kinotv/index.m3u8
 
 
 
@@ -177,35 +246,36 @@ http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11064/index.m3u8
 #EXTINF:0,Сделано в СССР
 #EXTGRP: Кино
 http://iptvcinema.online/sdelano_v_ussr/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
-#EXTINF:0,Dosug СССР HD
+
+#EXTINF:0,VF Мосфильм
 #EXTGRP: Кино
-http://iptvcinema.online/dosug_ussr/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10084/index.m3u8
+#EXTINF:0,VF Фильмы СССР
+#EXTGRP: Кино
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10085/index.m3u8
+#EXTINF:0,VF Классика
+#EXTGRP: Кино
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10053/index.m3u8
+#EXTINF:0,VF Комедия
+#EXTGRP: Кино
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10055/index.m3u8
+#EXTINF:0,VF Classic
+#EXTGRP: Кино
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10054/index.m3u8
 
 
-#EXTINF:0,Советское кино HD
-#EXTGRP: Кино
-http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
+
 #EXTINF:0,KBC-Страна СССР
 #EXTGRP: Кино
-http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11091/index.m3u8
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/11091/index.m3u8
 
 
-#EXTINF:-1 tvg-id="0058" tvg-logo="" tvg-name="BTV Сделано в СССР" group-title="Фильмы",BTV Сделано в СССР
-http://cdnups.ga/0058/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
-#EXTINF:0,Фильмы СССР
-#EXTGRP: Кино
-https://autopilot.catcast.tv/content/38821/index.m3u8
-#EXTINF:0,Все включено
-#EXTGRP: Кино
-https://v2.catcast.tv/content/39161/index.m3u8
-#EXTINF:0,КИНОКЛУБ
-#EXTGRP: Кино
-https://v2.catcast.tv/content/39005/index.m3u8
 
 
 #EXTINF:0,SR-VK.online Cоветский дубляж
 #EXTGRP: Кино
 http://s5.sr-vk.online/online/zarubez/index.m3u8?key=2tv_srvk_zarubez
+
 
 #EXTINF:0 tvg-name="SR-VK.online СССР HD"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/sssr-hd-1.png" tvg-id="sssrhd", SR-VK.online СССР HD
 http://s1.sr-vk.online/online/sssrhd/index.m3u8?key=2tv_srvk_sssrhd
@@ -287,15 +357,7 @@ http://5e4edcb9.kartoshkaka.ru/iptv/2XBPNFMZKED9RN/13064/index.m3u8
 #EXTINF:0,Утиные истории
 #EXTGRP: Кино
 http://5e4edcb9.kartoshkaka.ru/iptv/2XBPNFMZKED9RN/13060/index.m3u8
-#EXTINF:0,Барбоскины
-#EXTGRP: Кино
-http://cdnups.ml/0091/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
-#EXTINF:0,Алладин
-#EXTGRP: Кино
-http://cdnups.ga/0037/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
-#EXTINF:0, Приключения мишек Гамми
-#EXTGRP: Кино
-http://cdnups.ml/0092/video.m3u8?token=enhkZWN8fGVuaGpkbUp1YlE9PQ==
+
 
 
 #EXTINF:0,Хит HD
@@ -312,15 +374,7 @@ http://94.230.240.17:8080/detmir/index.m3u8
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/38850/index.m3u8
 
-#EXTINF:0,Мужское кино 
-#EXTGRP: Кино
-https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
-#EXTINF:0,Мужское кино 2
-#EXTGRP: Кино
-http://hlstv.brn.211.ru/239.211.211.145/stream.m3u8
-#EXTINF:0,Кинопоказ
-#EXTGRP: Кино
-http://185.74.7.220:8080/kinopokaz/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -334,55 +388,7 @@ https://ed-ru-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
 #EXTGRP: Кино
 https://ed-ru-01.mycdn.video/docu/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,НТВ
-#EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
-#EXTINF:0,Дом кино
-#EXTGRP: Кино
-http://185.74.7.220:8080/domkino/tracks-v1a1/mono.m3u8
-#EXTINF:0,Дом кино2
-#EXTGRP: Кино
-http://persik.by/stream/6696/480248/10228.m3u8
-#EXTINF:0,Наше любимое кино
-#EXTGRP: Кино
-http://iptv.prosto.tv:7000/ch58/video.m3u8
-#EXTINF:0,Ретро тв
-#EXTGRP: Кино
-https://s4.idata.uz/retro/index.m3u8
 
-#EXTINF:0,Победа
-#EXTGRP: Кино
-http://212.76.27.27/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
-#EXTINF:0,Твоё ТВ HD
-#EXTGRP: Кино
-http://stream-norst.cf:8080/tvoetv/index.m3u8
-#EXTINF:0,ВСЁ ВКЛЮЧЕНО
-#EXTGRP: Кино
-https://v2.catcast.tv/content/39161/index.m3u8
-#EXTINF:0,Фантастика
-#EXTGRP: Кино
-https://v2.catcast.tv/content/38801/index.m3u8
-#EXTINF:0,Фантастика HD
-#EXTGRP: Кино
-http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11070/index.m3u8
-#EXTINF:0,UZ Фантастика HD
-#EXTGRP: Кино
-http://iptvcinema.online/uz_fantastica/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
-#EXTINF:0,BCU Fantastic HD
-#EXTGRP: Кино
-http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11032/index.m3u8
-#EXTINF:0,Fentazy
-#EXTGRP: Кино
-http://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:0,Premium кино
-#EXTGRP: Кино
-https://v2.catcast.tv/content/38792/index.m3u8
-#EXTINF:-1,Millenium TV
-#EXTGRP: Кино
-http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
-#EXTINF:-1,Кино ТВ
-#EXTGRP: Кино
-http://31.128.159.41:8080/kinotv/index.m3u8
 
 http://31.128.159.41:8080/kinotv/index.m3u8
 #EXTINF:0,STR HD
