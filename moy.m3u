@@ -43,10 +43,6 @@ http://109.248.11.227:8083
 #EXTGRP: Музыка
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
-#EXTINF:0,Марафон СОВЕТСКИХ ФИЛЬМОВ
-#EXTGRP: Кино
-https://youtu.be/pDTBWhGCRJ8
-
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
