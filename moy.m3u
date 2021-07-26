@@ -135,12 +135,24 @@ https://autopilot.catcast.tv/content/39673/index.m3u8?bw983666988618.m3u8
 #EXTINF:0,Память
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38821/index.m3u8
-#EXTINF:0,СССР ТВ
+#EXTINF:0,Память 2
 #EXTGRP: Кино
-https://cache-1.catcast.tv/content/38821/index.m3u8
+https://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,USSR
 #EXTGRP: Кино
 http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11102/index.m3u8
+
+#EXTINF:0,Сделано в СССР
+#EXTGRP: Кино
+http://iptvcinema.online/sdelano_v_ussr/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
+#EXTINF:0,Dosug СССР HD
+#EXTGRP: Кино
+http://iptvcinema.online/dosug_ussr/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
+
+#EXTINF:0,Советское кино HD
+#EXTGRP: Кино
+http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
+
 
 #EXTINF:0,Мосфильм. Золотая коллекция 1
 #EXTGRP: Кино
@@ -153,68 +165,30 @@ http://hlstv.brn.211.ru/239.211.200.42/stream.m3u8
 http://bitrix.powernet.com.ru/mosfilm/mpegts
 
 
-
-
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: Кино
 http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11061/index.m3u8
-#EXTINF:0,Кинозал! СССР2
-#EXTGRP: Кино
-http://5e4edcb9.kartoshkaka.ru/iptv/2XBPNFMZKED9RN/11061/index.m3u8
 #EXTINF:0,Кинозал! Сваты
 #EXTGRP: Кино
 http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11062/index.m3u8
-#EXTINF:0,Кинозал! Сваты2
-#EXTGRP: Кино
-http://5e4edcb9.kartoshkaka.ru/iptv/2XBPNFMZKED9RN/11062/index.m3u8
 #EXTINF:0,Кинозал! Универ ТВ
 #EXTGRP: Кино
 http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11063/index.m3u8
-#EXTINF:0,Кинозал! Универ ТВ2
-#EXTGRP: Кино
-http://5e4edcb9.kartoshkaka.ru/iptv/2XBPNFMZKED9RN/11063/index.m3u8
 #EXTINF:0,Кинозал! Интерны ТВ
 #EXTGRP: Кино
 http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11060/index.m3u8
-#EXTINF:0,Кинозал! Интерны ТВ2
-#EXTGRP: Кино
-http://5e4edcb9.kartoshkaka.ru/iptv/2XBPNFMZKED9RN/11060/index.m3u8
 #EXTINF:0,Кинозал! VHS
 #EXTGRP: Кино
 http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11059/index.m3u8
-#EXTINF:0,Кинозал! VHS2
-#EXTGRP: Кино
-http://5e4edcb9.kartoshkaka.ru/iptv/2XBPNFMZKED9RN/11059/index.m3u8
 #EXTINF:0,Кинозал! ХИТ HD
 #EXTGRP: Кино
 http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11064/index.m3u8
-#EXTINF:0,Кинозал! ХИТ HD2
-#EXTGRP: Кино
-http://5e4edcb9.kartoshkaka.ru/iptv/2XBPNFMZKED9RN/11064/index.m3u8
 
 
-#EXTINF:0,Сделано в СССР
-#EXTGRP: Кино
-http://iptvcinema.online/sdelano_v_ussr/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
-#EXTINF:0,Dosug СССР HD
-#EXTGRP: Кино
-http://iptvcinema.online/dosug_ussr/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
 
-
-#EXTINF:0,Советское кино HD
-#EXTGRP: Кино
-http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
-
-
-#EXTINF:0,Фильмы СССР
-#EXTGRP: Кино
-https://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,Все включено
 #EXTGRP: Кино
 https://v2.catcast.tv/content/39161/index.m3u8
-#EXTINF:0,КИНОКЛУБ
-#EXTGRP: Кино
-https://v2.catcast.tv/content/39005/index.m3u8
 #EXTINF:0,VHS-видеокассета
 #EXTGRP: Кино
 http://v2.catcast.tv/content/37925/index.m3u8
@@ -253,9 +227,6 @@ http://s1.sr-vk.online/online/zarubez/index.m3u8?key=2tv_srvk_zarubez
 #EXTINF:0 tvg-name="SR-VK.online Беларусьфильм"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/belarusfilm-1.png" tvg-id="belarusfilm", SR-VK.online Беларусьфильм
 http://s1.sr-vk.online/online/belarusfilm/index.m3u8?key=2tv_srvk_belarusfilm
 
-#EXTINF:0,Маша  медведь
-#EXTGRP: Детский
-http://193.123.63.94:2021/channel/n2cbd58e7/index.m3u8?q=e9cb169fc76c3064adfb44ed2b21e284
 #EXTINF:0,Том и Джерри
 #EXTGRP: Детский
 http://5e4edcb9.kartoshkaka.ru/iptv/2XBPNFMZKED9RN/13016/index.m3u8
@@ -297,13 +268,6 @@ https://autopilot.catcast.tv/content/38850/index.m3u8
 #EXTGRP: Детский
 http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11057/index.m3u8
 
-
-
-
-#EXTINF:0,Хит HD
-#EXTGRP: Кино
-https://hls.goodgame.ru/hls/153640.m3u8
-
 #EXTINF:0,В Гостях у Сказки
 #EXTGRP: Кино
 http://87.247.44.26/btv/SWM/U_Skazki/U_Skazki_576p_2000kbps.m3u8
@@ -313,6 +277,7 @@ http://94.230.240.17:8080/detmir/index.m3u8
 #EXTINF:0,МультСказки
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/38850/index.m3u8
+
 
 #EXTINF:0,Мужское кино 
 #EXTGRP: Кино
@@ -484,4 +449,4 @@ https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 http://hls.goodgame.ru:80/hls/33245.m3u8
 
 
-KISS 💋
+конец 💋
