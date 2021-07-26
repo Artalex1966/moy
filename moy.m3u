@@ -300,13 +300,10 @@ http://188.113.190.12/191/video.m3u8
 
 #EXTINF:0,Свежаки HD
 #EXTGRP: Кино
-https://ed-ru-01.mycdn.video/fresh/tracks-v1a1/mono.m3u8
+https://ed-nl-01.mycdn.video/fresh/index.m3u8
 #EXTINF:0,Уже видел HD
 #EXTGRP: Кино
-https://ed-ru-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
-#EXTINF:0,Доку HD
-#EXTGRP: Кино
-https://ed-ru-01.mycdn.video/docu/tracks-v1a1/mono.m3u8
+https://ed-nl-01.mycdn.video/hit/index.m3u8
 
 #EXTINF:0,НТВ
 #EXTGRP: эфир
@@ -438,7 +435,7 @@ http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:0,Nature Relaxation HD
 #EXTGRP: Релакс
-https://live.streams.ovh/YourStreaming/YourStreaming/chunklist_w1017953779.m3u8
+https://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
 
 #EXTINF:0,Relax
 #EXTGRP: Релакс
@@ -449,4 +446,4 @@ https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 http://hls.goodgame.ru:80/hls/33245.m3u8
 
 
-конец 💋
+Конец 💋
