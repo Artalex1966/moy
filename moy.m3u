@@ -225,6 +225,13 @@ http://s1.sr-vk.online/online/zarubez/index.m3u8?cur=Artalex_138&key=Za_Kopiruva
 #EXTINF:0 tvg-name="SR-VK.online Беларусьфильм"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/belarusfilm-1.png" tvg-id="belarusfilm", SR-VK.online Беларусьфильм
 http://s1.sr-vk.online/online/belarusfilm/index.m3u8?cur=Artalex_138&key=Za_Kopiruvanie_ssilki_v_ban_20
 
+
+#EXTINF:0,комедия classic
+#EXTGRP: Детский
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13037/index.m3u
+#EXTINF:0,ussr-комедия
+#EXTGRP: Детский
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13019/index.m3u
 #EXTINF:0,CCCP сказки
 #EXTGRP: Детский
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13021/index.m3u
