@@ -151,6 +151,15 @@ http://iptvcinema.online/dosug_ussr/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
 #EXTGRP: Кино
 http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
 
+#EXTINF:0,TOP USSR
+#EXTGRP: Кино
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13005/index.m3u
+#EXTINF:0,VF Фильмы СССР
+#EXTGRP: Кино
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/10085/index.m3u
+#EXTINF:0,VF Мосфильм
+#EXTGRP: Кино
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/10084/index.m3u
 
 #EXTINF:0,Мосфильм. Золотая коллекция 1
 #EXTGRP: Кино
@@ -161,27 +170,6 @@ http://hlstv.brn.211.ru/239.211.200.42/stream.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция 3
 #EXTGRP: Кино
 http://bitrix.powernet.com.ru/mosfilm/mpegts
-
-
-#EXTINF:0,Кинозал! СССР
-#EXTGRP: Кино
-http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11061/index.m3u8
-#EXTINF:0,Кинозал! Сваты
-#EXTGRP: Кино
-http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11062/index.m3u8
-#EXTINF:0,Кинозал! Универ ТВ
-#EXTGRP: Кино
-http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11063/index.m3u8
-#EXTINF:0,Кинозал! Интерны ТВ
-#EXTGRP: Кино
-http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11060/index.m3u8
-#EXTINF:0,Кинозал! VHS
-#EXTGRP: Кино
-http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11059/index.m3u8
-#EXTINF:0,Кинозал! ХИТ HD
-#EXTGRP: Кино
-http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11064/index.m3u8
-
 
 
 #EXTINF:0,Все включено
@@ -225,12 +213,15 @@ http://s1.sr-vk.online/online/zarubez/index.m3u8?cur=Artalex_138&key=Za_Kopiruva
 #EXTINF:0 tvg-name="SR-VK.online Беларусьфильм"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/belarusfilm-1.png" tvg-id="belarusfilm", SR-VK.online Беларусьфильм
 http://s1.sr-vk.online/online/belarusfilm/index.m3u8?cur=Artalex_138&key=Za_Kopiruvanie_ssilki_v_ban_20
 
-
+#EXTINF:0,ussr-фантастика
+#EXTGRP: Кино
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13022/index.m3u
 #EXTINF:0,комедия classic
-#EXTGRP: Детский
+#EXTGRP: Кино
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13037/index.m3u
 #EXTINF:0,ussr-комедия
-#EXTGRP: Детский
+#EXTGRP: Кино
+
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13019/index.m3u
 #EXTINF:0,CCCP сказки
 #EXTGRP: Детский
@@ -321,7 +312,7 @@ https://ed-nl-01.mycdn.video/hit/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
 #EXTINF:0,Дом кино
 #EXTGRP: Кино
-http://185.74.7.220:8080/domkino/tracks-v1a1/mono.m3u8
+http://118.47.168.157:8080/play/a012/index.m3u8
 #EXTINF:0,Дом кино2
 #EXTGRP: Кино
 http://persik.by/stream/6696/480248/10228.m3u8
