@@ -333,21 +333,21 @@ https://ed-nl-01.mycdn.video/hit/index.m3u8
 #EXTINF:0,НТВ
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
-#EXTINF:0,Дом кино
+#EXTINF:0,Дом кино1
 #EXTGRP: Кино
 http://87.247.44.26/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
 #EXTINF:0,Дом кино2
 #EXTGRP: Кино
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/154/index.m3u
+#EXTINF:0,Дом кино3
+#EXTGRP: Кино
+http://edge05.beetv.kz/btv/SWM/Dom_Kino/Dom_Kino.m3u8
 #EXTINF:0,Дом Кино Премиум
 #EXTGRP: Кино
 https://sc.id-tv.kz/domkino_hd_38_39.m3u8
 #EXTINF:0,Наше любимое кино
 #EXTGRP: Кино
 http://iptv.prosto.tv:7000/ch58/video.m3u8
-#EXTINF:0,Ретро тв
-#EXTGRP: Кино
-https://s4.idata.uz/retro/index.m3u8
 
 #EXTINF:0,Победа
 #EXTGRP: Кино
