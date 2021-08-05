@@ -227,6 +227,9 @@ http://s1.sr-vk.online/online/odessa/index.m3u8?cur=Artalex_138&key=8bla12ialif7
 #EXTINF:0,SR-VK.online Беларусьфильм
 #EXTGRP: Кино
 http://s1.sr-vk.online/online/belarusfilm/index.m3u8?cur=Artalex_138&key=7i0kbe5803cc0i6eia8842
+#EXTINF:0,SR-VK.online Рижская киностудия
+#EXTGRP: Кино
+http://s5.sr-vk.online/online/riga/index.m3u8?key=33tv_riga
 
 ---
 
