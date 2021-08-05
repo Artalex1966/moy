@@ -187,49 +187,52 @@ http://v2.catcast.tv/content/37925/index.m3u8
 
 #EXTINF:0,SR-VK.online Cоветский дубляж
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/zarubez/index.m3u8?cur=Artalex_138&key=3jjb2h0h22jcccc604ge62
+http://s5.sr-vk.online/online/zarubez/index.m3u8?key=33tv_srvk_zarubez
 #EXTINF:0,SR-VK.online СССР HD
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/sssrhd/index.m3u8?cur=Artalex_138&key=8e966d35ji8kea8giaigig
+http://s5.sr-vk.online/online/sssrhd/index.m3u8?key=33tv_srvk_sssrhd
 #EXTINF:0,SR-VK.online СССР
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/sssr/index.m3u8?cur=Artalex_138&key=1a16deka9ff1i2cg06c2k8
+http://s5.sr-vk.online/online/sssr/index.m3u8?key=33tv_srvk_sssr
 #EXTINF:0,SR-VK.online СССР 1
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/sssr1/index.m3u8?cur=Artalex_138&key=73k6g79964ekgki4i6kcak
+http://s5.sr-vk.online/online/sssr1/index.m3u8?key=33tv_srvk_sssr1
 #EXTINF:0,SR-VK.online СССР 2
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/sssr2/index.m3u8?cur=Artalex_138&key=89e1352l5ab608c80ii0ck
+http://s5.sr-vk.online/online/sssr2/index.m3u8?key=33tv_srvk_sssr2
 #EXTINF:0,SR-VK.online Украинская ССР
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/ussr/index.m3u8?cur=Artalex_138&key=66a7fe6k751j28ei8684k0
+http://s5.sr-vk.online/online/ussr/index.m3u8?key=33tv_srvk_ussr
 #EXTINF:0,SR-VK.online Комедия СССР
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/comedy/index.m3u8?cur=Artalex_138&key=5bchhajch75f24e2ig4a2a
+http://s5.sr-vk.online/online/comedy/index.m3u8?key=33tv_srvk_comedy
 #EXTINF:0,SR-VK.online Киностудия М. Горького
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/gor/index.m3u8?cur=Artalex_138&key=20c0cg1993bdi862860ke4
+http://s5.sr-vk.online/online/gor/index.m3u8?key=33tv_srvk_gor
 #EXTINF:0,SR-VK.online Милицейский канал
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/mentfilm/index.m3u8?cur=Artalex_138&key=511bhff1cji76aig8cg266
+http://s5.sr-vk.online/online/mentfilm/index.m3u8?key=33tv_srvk_mentfilm
 #EXTINF:0,SR-VK.online Мос
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/mosfilm/index.m3u8?cur=Artalex_138&key=88agh928j0hhc4ac40k02e
+http://s5.sr-vk.online/online/mosfilm/index.m3u8?key=33tv_srvk_mosfilm
 #EXTINF:0,SR-VK.online Лен
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/lenfilm/index.m3u8?cur=Artalex_138&key=3gj888583e89ac6g82gk4a
+http://s5.sr-vk.online/online/lenfilm/index.m3u8?key=33tv_srvk_lenfilm
 #EXTINF:0,SR-VK.online Мульт
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/mult/index.m3u8?cur=Artalex_138&key=72ckl1c9g14e44i0ike4c4
+http://s5.sr-vk.online/online/mult/index.m3u8?key=33tv_srvk_mult
 #EXTINF:0,SR-VK.online Одесская киностудия
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/odessa/index.m3u8?cur=Artalex_138&key=8bla12ialif7aiaa4ke28g
+http://s5.sr-vk.online/online/odessa/index.m3u8?key=33tv_odessa
 #EXTINF:0,SR-VK.online Беларусьфильм
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/belarusfilm/index.m3u8?cur=Artalex_138&key=7i0kbe5803cc0i6eia8842
+http://s5.sr-vk.online/online/belarusfilm/index.m3u8?key=33tv_srvk_belarusfilm
 #EXTINF:0,SR-VK.online Рижская киностудия
 #EXTGRP: Кино
 http://s5.sr-vk.online/online/riga/index.m3u8?key=33tv_riga
+#EXTINF:0,SR-VK.online Свердловская киностудия
+#EXTGRP: Кино
+http://s5.sr-vk.online/online/sverdlovsk/index.m3u8?key=33tv_sverdlovsk
 
 ---
 
