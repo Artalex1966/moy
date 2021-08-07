@@ -28,18 +28,15 @@ https://hls-01-sanremo.emgsound.ru/5/32/playlist.m3u8
 #EXTGRP: Релакс
 https://stream.relaxfm.ee/international
 
-
-
-
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
-http://185.156.179.234:8084
+http://autopilot.catcast.tv/content/37739/index.m3u8
 #EXTINF:0,Музыка 1
 #EXTGRP: Музыка
-http://95.215.111.230:8082
+http://autopilot.catcast.tv/content/37745/index.m3u8
 #EXTINF:0,Музыка 2
 #EXTGRP: Музыка
-http://109.248.11.227:8083
+http://autopilot.catcast.tv/content/37742/index.m3u8
 #EXTINF:0,Ретро Музыка
 #EXTGRP: Музыка
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
@@ -144,9 +141,9 @@ https://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTGRP: Кино
 http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11102/index.m3u8
 
-#EXTINF:0,Сделано в СССР
+#EXTINF:0,BCU СССР HD
 #EXTGRP: Кино
-http://iptvcinema.online/sdelano_v_ussr/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
+http://iptvcinema.online/bcu_ussr/index.m3u8?
 #EXTINF:0,Dosug СССР HD
 #EXTGRP: Кино
 http://iptvcinema.online/dosug_ussr/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
@@ -182,6 +179,9 @@ https://v2.catcast.tv/content/39161/index.m3u8
 #EXTINF:0,VHS-видеокассета
 #EXTGRP: Кино
 http://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:0,KINOZAL12
+#EXTGRP: Кино
+http://v2.catcast.me/content/38896/index.m3u8
 
 ---
 
@@ -423,12 +423,27 @@ http://188.113.190.12:80/96/tracks-v1a1/index.m3u8
 #EXTINF:0, Министерство идей
 #EXTGRP:Познавательное
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:0, Министерство идей2
+#EXTGRP:Познавательное
+rtmp://minidey.cdnvideo.ru/minidey/minidey.sdp
 #EXTINF:0, Discovery Science HD
 #EXTGRP:Познавательное
 http://185.74.4.46:8080/stch_temp10/mpegts
 #EXTINF:0,National Geographic HD
 #EXTGRP:Познавательное
 http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8
+#EXTINF:0,Загородный
+#EXTGRP:Познавательное
+http://ott-cdn.ucom.am/s31/04.m3u8
+#EXTINF:0,Ремонт
+#EXTGRP:Познавательное
+http://188.113.190.12/225/video.m3u8
+#EXTINF:0,Усадьба
+#EXTGRP:Познавательное
+http://tv.ttk.mx:9037
+#EXTINF:0,ЗАГОРОДНАЯ ЖИЗНЬ HD
+#EXTGRP:Познавательное
+http://217.79.21.43:81/udp/234.0.0.115:2000?zi/
 
 ----
 
