@@ -182,57 +182,48 @@ http://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:0,KINOZAL12
 #EXTGRP: Кино
 http://v2.catcast.me/content/38896/index.m3u8
+#EXTINF:0,Cinema
+#EXTGRP: Кино
+http://46.34.209.242:80/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
 
 ---
 
 #EXTINF:0,SR-VK.online Cоветский дубляж
 #EXTGRP: Кино
-http://s5.sr-vk.online/online/zarubez/index.m3u8?key=33tv_srvk_zarubez
+http://s1.sr-vk.online/online/zarubez/index.m3u8?cur=Artalex_138&key=47kg1354d271668aca00c4
 #EXTINF:0,SR-VK.online СССР HD
 #EXTGRP: Кино
-http://s5.sr-vk.online/online/sssrhd/index.m3u8?key=33tv_srvk_sssrhd
+http://s1.sr-vk.online/online/sssrhd/index.m3u8?cur=Artalex_138&key=5icj1l2i192i40i08ci82g
 #EXTINF:0,SR-VK.online СССР
 #EXTGRP: Кино
-http://s5.sr-vk.online/online/sssr/index.m3u8?key=33tv_srvk_sssr
+http://s1.sr-vk.online/online/sssr/index.m3u8?cur=Artalex_138&key=70de6gcgj78h2864aicee8
 #EXTINF:0,SR-VK.online СССР 1
 #EXTGRP: Кино
-http://s5.sr-vk.online/online/sssr1/index.m3u8?key=33tv_srvk_sssr1
+http://s1.sr-vk.online/online/sssr1/index.m3u8?cur=Artalex_138&key=5dhi7k54ak9ba484e40g2c
 #EXTINF:0,SR-VK.online СССР 2
 #EXTGRP: Кино
-http://s5.sr-vk.online/online/sssr2/index.m3u8?key=33tv_srvk_sssr2
-#EXTINF:0,SR-VK.online Украинская ССР
-#EXTGRP: Кино
-http://s5.sr-vk.online/online/ussr/index.m3u8?key=33tv_srvk_ussr
+http://s1.sr-vk.online/online/sssr2/index.m3u8?cur=Artalex_138&key=68gj2c9g3dd4i6kggc2g26
 #EXTINF:0,SR-VK.online Комедия СССР
 #EXTGRP: Кино
-http://s5.sr-vk.online/online/comedy/index.m3u8?key=33tv_srvk_comedy
+http://s1.sr-vk.online/online/comedy/index.m3u8?cur=Artalex_138&key=18ja2ll986kk4400804gei
 #EXTINF:0,SR-VK.online Киностудия М. Горького
 #EXTGRP: Кино
-http://s5.sr-vk.online/online/gor/index.m3u8?key=33tv_srvk_gor
+http://s1.sr-vk.online/online/gor/index.m3u8?cur=Artalex_138&key=42hd9114hk5566a4aa62gk
 #EXTINF:0,SR-VK.online Милицейский канал
 #EXTGRP: Кино
-http://s5.sr-vk.online/online/mentfilm/index.m3u8?key=33tv_srvk_mentfilm
+http://s1.sr-vk.online/online/mentfilm/index.m3u8?cur=Artalex_138&key=2fldi4052fg120k2c6604g
 #EXTINF:0,SR-VK.online Мос
 #EXTGRP: Кино
-http://s5.sr-vk.online/online/mosfilm/index.m3u8?key=33tv_srvk_mosfilm
+http://s1.sr-vk.online/online/mosfilm/index.m3u8?cur=Artalex_138&key=74646fileg5lk06cc0eikc
 #EXTINF:0,SR-VK.online Лен
 #EXTGRP: Кино
-http://s5.sr-vk.online/online/lenfilm/index.m3u8?key=33tv_srvk_lenfilm
-#EXTINF:0,SR-VK.online Мульт
-#EXTGRP: Кино
-http://s5.sr-vk.online/online/mult/index.m3u8?key=33tv_srvk_mult
+http://s1.sr-vk.online/online/lenfilm/index.m3u8?cur=Artalex_138&key=897l02gha89hcc2602ckia
 #EXTINF:0,SR-VK.online Одесская киностудия
 #EXTGRP: Кино
-http://s5.sr-vk.online/online/odessa/index.m3u8?key=33tv_odessa
+http://s1.sr-vk.online/online/odessa/index.m3u8?cur=Artalex_138&key=87888f0bak572ck8i8c4g4
 #EXTINF:0,SR-VK.online Беларусьфильм
 #EXTGRP: Кино
-http://s5.sr-vk.online/online/belarusfilm/index.m3u8?key=33tv_srvk_belarusfilm
-#EXTINF:0,SR-VK.online Рижская киностудия
-#EXTGRP: Кино
-http://s5.sr-vk.online/online/riga/index.m3u8?key=33tv_riga
-#EXTINF:0,SR-VK.online Свердловская киностудия
-#EXTGRP: Кино
-http://s5.sr-vk.online/online/sverdlovsk/index.m3u8?key=33tv_sverdlovsk
+http://s1.sr-vk.online/online/belarusfilm/index.m3u8?cur=Artalex_138&key=74386f4h97agg8g60kg84g
 
 ---
 
@@ -418,8 +409,11 @@ http://hls.goodgame.ru/manifest/180960_master.m3u8
 
 
 #EXTINF:0,Наука 2.0
-#EXTGRP: Кино
+#EXTGRP:Познавательное
 http://188.113.190.12:80/96/tracks-v1a1/index.m3u8
+#EXTINF:0, История
+#EXTGRP:Познавательное
+http://45.80.44.78:25001/play/a03m/index.m3u8
 #EXTINF:0, Министерство идей
 #EXTGRP:Познавательное
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
@@ -428,7 +422,7 @@ http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 rtmp://minidey.cdnvideo.ru/minidey/minidey.sdp
 #EXTINF:0, Discovery Science HD
 #EXTGRP:Познавательное
-http://185.74.4.46:8080/stch_temp10/mpegts
+http://185.97.150.19:8082/893
 #EXTINF:0,National Geographic HD
 #EXTGRP:Познавательное
 http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8
@@ -444,6 +438,9 @@ http://tv.ttk.mx:9037
 #EXTINF:0,ЗАГОРОДНАЯ ЖИЗНЬ HD
 #EXTGRP:Познавательное
 http://217.79.21.43:81/udp/234.0.0.115:2000?zi/
+#EXTINF:0,Бобер
+#EXTGRP:Познавательное
+http://188.113.190.12/131/video.m3u8
 
 ----
 
@@ -489,6 +486,9 @@ https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 #EXTINF:0,Радио ретро
 #EXTGRP: Музыка
 http://hls.goodgame.ru:80/hls/33245.m3u8
+#EXTINF:0,TRANCE IS STAR TV
+#EXTGRP: Музыка
+https://tis.catcast.tv/content/391/index.m3u8
 
 
 Конец 💋
