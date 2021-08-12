@@ -422,7 +422,13 @@ http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 rtmp://minidey.cdnvideo.ru/minidey/minidey.sdp
 #EXTINF:0, Discovery Science HD
 #EXTGRP:Познавательное
-http://185.97.150.19:8082/893
+http://185.97.150.19:8082/33
+#EXTINF:0, Discovery Science 2
+#EXTGRP:Познавательное
+http://dmitry-tv.ml/hls/CH_DISCOVERYSCIENCE.m3u8
+#EXTINF:0, Discovery Channel HD
+#EXTGRP:Познавательное
+http://45.80.44.79:25002/play/a00g/index.m3u8
 #EXTINF:0,National Geographic HD
 #EXTGRP:Познавательное
 http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8
