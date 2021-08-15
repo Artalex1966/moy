@@ -186,32 +186,39 @@ http://v2.catcast.me/content/38896/index.m3u8
 #EXTGRP: Кино
 http://46.34.209.242:80/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
 
----
+#EXTINF:0,Мужское кино 
+#EXTGRP: Кино
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+#EXTINF:0,Мужское кино 2
+#EXTGRP: Кино
+http://185.97.150.19:8082/740
 
-#EXTINF:0,SR-VK.online Cоветский дубляж
+#EXTINF:0,Фантастика
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/zarubez/index.m3u8?cur=Artalex_138&key=47kg1354d271668aca00c4
-#EXTINF:0,SR-VK.online СССР HD
+https://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:0,Фантастика HD
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/sssrhd/index.m3u8?cur=Artalex_138&key=4b1eccgbiagecc6ge86k6i
-#EXTINF:0,SR-VK.online СССР
+http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11070/index.m3u8
+
+#EXTINF:0,Кинопоказ
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/sssr/index.m3u8?cur=Artalex_138&key=70de6gcgj78h2864aicee8
-#EXTINF:0,SR-VK.online СССР 1
+http://185.74.7.220:8080/kinopokaz/tracks-v1a1/mono.m3u8
+#EXTINF:0,Киномикс
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/sssr1/index.m3u8?cur=Artalex_138&key=5kf9fa07791b244c8g2ge8
-#EXTINF:0,SR-VK.online СССР 2
+http://185.97.150.19:8082/131
+#EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/sssr2/index.m3u8?cur=Artalex_138&key=780l4f668le8gggkc00iga
-#EXTINF:0,SR-VK.online Комедия СССР
+http://185.97.150.19:8082/751
+#EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/comedy/index.m3u8?cur=Artalex_138&key=6idak0afe2h0c2c26c82k8
-#EXTINF:0,SR-VK.online Мос
+http://188.113.190.12/191/video.m3u8
+
+#EXTINF:0,Свежаки HD
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/mosfilm/index.m3u8?cur=Artalex_138&key=2kc7ji52il7hke42acai2g
-#EXTINF:0,SR-VK.online Лен
+https://ed-nl-01.mycdn.video/fresh/index.m3u8
+#EXTINF:0,Уже видел HD
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/lenfilm/index.m3u8?cur=Artalex_138&key=7g2if09i5i8f68c2eee4e2
+https://ed-nl-01.mycdn.video/hit/index.m3u8
 
 ---
 
@@ -223,7 +230,7 @@ http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13022/index.m3u
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13037/index.m3u
 #EXTINF:0,ussr-комедия
 #EXTGRP: Кино
-
+----
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13019/index.m3u
 #EXTINF:0,CCCP сказки
 #EXTGRP: Детский
@@ -283,31 +290,7 @@ http://94.230.240.17:8080/detmir/index.m3u8
 https://autopilot.catcast.tv/content/38850/index.m3u8
 
 
-#EXTINF:0,Мужское кино 
-#EXTGRP: Кино
-https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
-#EXTINF:0,Мужское кино 2
-#EXTGRP: Кино
-http://185.97.150.19:8082/740
-#EXTINF:0,Кинопоказ
-#EXTGRP: Кино
-http://185.74.7.220:8080/kinopokaz/tracks-v1a1/mono.m3u8
-#EXTINF:0,Киномикс
-#EXTGRP: Кино
-http://185.97.150.19:8082/131
-#EXTINF:0,Кинохит
-#EXTGRP: Кино
-http://185.97.150.19:8082/751
-#EXTINF:0,Кино ТВ
-#EXTGRP: Кино
-http://188.113.190.12/191/video.m3u8
 
-#EXTINF:0,Свежаки HD
-#EXTGRP: Кино
-https://ed-nl-01.mycdn.video/fresh/index.m3u8
-#EXTINF:0,Уже видел HD
-#EXTGRP: Кино
-https://ed-nl-01.mycdn.video/hit/index.m3u8
 
 #EXTINF:0,НТВ
 #EXTGRP: эфир
@@ -337,12 +320,7 @@ http://stream-norst.cf:8080/tvoetv/index.m3u8
 #EXTINF:0,ВСЁ ВКЛЮЧЕНО
 #EXTGRP: Кино
 https://v2.catcast.tv/content/39161/index.m3u8
-#EXTINF:0,Фантастика
-#EXTGRP: Кино
-https://v2.catcast.tv/content/38801/index.m3u8
-#EXTINF:0,Фантастика HD
-#EXTGRP: Кино
-http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11070/index.m3u8
+
 #EXTINF:0,UZ Фантастика HD
 #EXTGRP: Кино
 http://iptvcinema.online/uz_fantastica/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
@@ -429,9 +407,9 @@ http://ott-cdn.ucom.am/s31/04.m3u8
 #EXTINF:0,Ремонт
 #EXTGRP:Познавательное
 http://188.113.190.12/225/video.m3u8
-#EXTINF:0,Усадьба
+#EXTINF:0,Оружие
 #EXTGRP:Познавательное
-http://tv.ttk.mx:9037
+http://188.113.190.12/155/video.m3u8
 #EXTINF:0,ЗАГОРОДНАЯ ЖИЗНЬ HD
 #EXTGRP:Познавательное
 http://217.79.21.43:81/udp/234.0.0.115:2000?zi/
