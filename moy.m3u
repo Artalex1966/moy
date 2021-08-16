@@ -167,9 +167,6 @@ http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/10084/index.m3u
 http://31.128.159.41:8080/mosfilm/tracks-v1a1/mono.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция 2
 #EXTGRP: Кино
-http://hlstv.brn.211.ru/239.211.200.42/stream.m3u8
-#EXTINF:0,Мосфильм. Золотая коллекция 3
-#EXTGRP: Кино
 http://bitrix.powernet.com.ru/mosfilm/mpegts
 
 
