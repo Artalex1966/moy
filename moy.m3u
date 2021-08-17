@@ -169,6 +169,9 @@ http://31.128.159.41:8080/mosfilm/tracks-v1a1/mono.m3u8
 #EXTGRP: Кино
 http://bitrix.powernet.com.ru/mosfilm/mpegts
 
+#EXTINF:0,Cоветский дубляж
+#EXTGRP: Кино
+http://s1.sr-vk.online/online/zarubez/index.m3u8?cur=Artalex_138&key=1g053h5bi4i8ck6e4e68a2
 
 #EXTINF:0,Все включено
 #EXTGRP: Кино
