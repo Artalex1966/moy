@@ -28,6 +28,10 @@ https://hls-01-sanremo.emgsound.ru/5/32/playlist.m3u8
 #EXTGRP: Релакс
 https://stream.relaxfm.ee/international
 
+
+#EXTINF:0,TRANCE IS STAR TV
+#EXTGRP: Музыка
+https://tis.catcast.tv/content/391/index.m3u8
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
 http://autopilot.catcast.tv/content/37739/index.m3u8
@@ -123,6 +127,10 @@ http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 #EXTGRP: Кино
 http://87.247.44.26/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
 
+#EXTINF:0,VIP Comedy HD
+#EXTGRP: Кино
+http://188.40.68.167/russia/vip_comedy/playlist.m3u8
+
 #EXTINF:0,КИНО 1 INTERNATIONAL
 #EXTGRP: Кино
 https://kino-1.catcast.tv/content/38617/index.m3u8
@@ -202,7 +210,7 @@ http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11070/index.m3u8
 
 #EXTINF:0,Кинопоказ
 #EXTGRP: Кино
-http://185.74.7.220:8080/kinopokaz/tracks-v1a1/mono.m3u8
+http://91.221.201.2:7006/play/a002/index.m3u8?em9uYS1pcHR2LnJ1
 #EXTINF:0,Киномикс
 #EXTGRP: Кино
 http://185.97.150.19:8082/131
@@ -321,15 +329,7 @@ http://stream-norst.cf:8080/tvoetv/index.m3u8
 #EXTGRP: Кино
 https://v2.catcast.tv/content/39161/index.m3u8
 
-#EXTINF:0,UZ Фантастика HD
-#EXTGRP: Кино
-http://iptvcinema.online/uz_fantastica/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
-#EXTINF:0,BCU Fantastic HD
-#EXTGRP: Кино
-http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11032/index.m3u8
-#EXTINF:0,Fentazy
-#EXTGRP: Кино
-http://v2.catcast.tv/content/38144/index.m3u8
+
 #EXTINF:0,Premium кино
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38792/index.m3u8
@@ -363,14 +363,14 @@ http://v2.catcast.tv/content/39161/index.m3u8
 
 #EXTINF:0,Akudji HD
 #EXTGRP: Кино
-http://hls.goodgame.ru/hls/5346.m3u8
+http://cdnhls.goodgame.ru/hls/5346.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
 http://51.195.44.53:8081/tv/kino-tv/chunks.m3u8
 #EXTINF:0,PZN
 #EXTGRP: Кино
-http://hls.goodgame.ru/manifest/180960_master.m3u8
+http://cdnhls.goodgame.ru/hls/180960.m3u8
 
 
 
@@ -416,6 +416,9 @@ http://217.79.21.43:81/udp/234.0.0.115:2000?zi/
 #EXTINF:0,Бобер
 #EXTGRP:Познавательное
 http://188.113.190.12/131/video.m3u8
+EXTINF:0,Усадьба
+#EXTGRP:Познавательное
+http://91.221.201.2:7009/play/a004/index.m3u8?em9uYS1pcHR2LnJ1
 
 ----
 
@@ -445,8 +448,11 @@ http://ott.inmart.tv:8081/17/index.m3u8
 #EXTGRP: эфир
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 
+----
 
-
+#EXTINF:0,Камин
+#EXTGRP: Релакс
+http://45.14.38.4:15000
 #EXTINF:0,Релакс HD
 #EXTGRP: Релакс
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
@@ -461,9 +467,7 @@ https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 #EXTINF:0,Радио ретро
 #EXTGRP: Музыка
 http://hls.goodgame.ru:80/hls/33245.m3u8
-#EXTINF:0,TRANCE IS STAR TV
-#EXTGRP: Музыка
-https://tis.catcast.tv/content/391/index.m3u8
+
 
 
 Конец 💋
