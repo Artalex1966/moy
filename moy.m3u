@@ -28,6 +28,10 @@ https://hls-01-sanremo.emgsound.ru/5/32/playlist.m3u8
 #EXTGRP: Релакс
 https://stream.relaxfm.ee/international
 
+#EXTINF:0,Radio Nostalgie 101
+#EXTGRP: Музыка
+http://pub0202.101.ru:8000/stream/personal/aacp/64/85780?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjE5NS43OC4xMDAuMTg2IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjkxLjApIEdlY2tvXC8yMDEwMDEwMSBGaXJlZm94XC85MS4wIiwidWlkX2NoYW5uZWwiOiI4NTc4MCIsInR5cGVfY2hhbm5lbCI6InBlcnNvbmFsIiwiZXhwIjoxNjI5NzM4Njg0fQ.G4WO38jXs50QtHIgOlk-6vdJnUt7s3e9ywmGKp-K608
+
 
 #EXTINF:0,TRANCE IS STAR TV
 #EXTGRP: Музыка
