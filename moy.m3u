@@ -32,7 +32,9 @@ https://stream.relaxfm.ee/international
 #EXTGRP: Музыка
 http://pub0202.101.ru:8000/stream/personal/aacp/64/85780
 
-
+#EXTINF:0,Romantic&Ballads
+#EXTGRP: Музыка
+https://autopilot.catcast.tv/content/39696/index.m3u8
 #EXTINF:0,TRANCE IS STAR TV
 #EXTGRP: Музыка
 https://tis.catcast.tv/content/391/index.m3u8
@@ -155,10 +157,10 @@ http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11102/index.m3u8
 
 #EXTINF:0,BCU СССР HD
 #EXTGRP: Кино
-http://iptvcinema.online/bcu_ussr/index.m3u8?
+http://iptvcinema.online/bcu_ussr/index.m3u8?token=YXJzZW40NTQ1fHxZWEp6Wlc1QU5EVTBOUT09
 #EXTINF:0,Dosug СССР HD
 #EXTGRP: Кино
-http://iptvcinema.online/dosug_ussr/index.m3u8?token=am9uaTI1fHxhbTl1YVRJMQ==
+http://iptvcinema.online/dosug_ussr/index.m3u8?token=YXJzZW40NTQ1fHxZWEp6Wlc1QU5EVTBOUT09
 
 #EXTINF:0,Советское кино HD
 #EXTGRP: Кино
@@ -173,6 +175,12 @@ http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/10085/index.m3u
 #EXTINF:0,VF Мосфильм
 #EXTGRP: Кино
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/10084/index.m3u
+#EXTINF:0,VF Classic
+#EXTGRP: Кино
+http://4buwjsz6.otttv.pw/iptv/C9XES3A977FLVG/10054/index.m3u
+#EXTINF:0,VF Сваты
+#EXTGRP: Кино
+http://4buwjsz6.otttv.pw/iptv/C9XES3A977FLVG/13080/index.m3u
 
 #EXTINF:0,Мосфильм. Золотая коллекция 1
 #EXTGRP: Кино
@@ -183,7 +191,7 @@ http://bitrix.powernet.com.ru/mosfilm/mpegts
 
 #EXTINF:0,Cоветский дубляж
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/zarubez/index.m3u8?cur=Artalex_138&key=1g053h5bi4i8ck6e4e68a2
+http://s1.sr-vk.online/online/zarubez/index.m3u8?cur=Artalex_138&key=6k2l0b900j7i0akc46ck24
 
 #EXTINF:0,Все включено
 #EXTGRP: Кино
@@ -204,6 +212,9 @@ https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 #EXTINF:0,Мужское кино 2
 #EXTGRP: Кино
 http://185.97.150.19:8082/740
+#EXTINF:0,Кинопремьера
+#EXTGRP: Кино
+https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
 
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
@@ -242,8 +253,19 @@ http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13022/index.m3u
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13037/index.m3u
 #EXTINF:0,ussr-комедия
 #EXTGRP: Кино
-----
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13019/index.m3u
+#EXTINF:0,минимакс-ussr-сказки HD
+#EXTGRP: Кино
+http://4buwjsz6.otttv.pw/iptv/C9XES3A977FLVG/13021/index.m3u
+#EXTINF:0,минимакс-сваты HD
+#EXTGRP: Кино
+http://4buwjsz6.otttv.pw/iptv/C9XES3A977FLVG/13051/index.m3u
+#EXTINF:0,минимакс-UFO HD
+#EXTGRP: Кино
+http://4buwjsz6.otttv.pw/iptv/C9XES3A977FLVG/13017/index.m3u
+
+----
+
 #EXTINF:0,CCCP сказки
 #EXTGRP: Детский
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13021/index.m3u
@@ -392,13 +414,13 @@ http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 rtmp://minidey.cdnvideo.ru/minidey/minidey.sdp
 #EXTINF:0, Discovery Science HD
 #EXTGRP:Познавательное
-http://185.97.150.19:8082/33
+http://cloudcdn.tk:80/NOf3LO924/RLLju7988/72691
 #EXTINF:0, Discovery Science 1
 #EXTGRP:Познавательное
 http://188.113.190.12/37/video.m3u8
 #EXTINF:0, Discovery Science 2
 #EXTGRP:Познавательное
-http://dmitry-tv.ml/hls/CH_DISCOVERYSCIENCE.m3u8
+http://204.157.189.101:81/udp/239.72.6.29:1234?zi/
 #EXTINF:0, Discovery Channel HD
 #EXTGRP:Познавательное
 http://45.80.44.79:25002/play/a00g/index.m3u8
@@ -413,7 +435,7 @@ http://ott-cdn.ucom.am/s31/04.m3u8
 http://188.113.190.12/225/video.m3u8
 #EXTINF:0,Оружие
 #EXTGRP:Познавательное
-http://188.113.190.12/155/video.m3u8
+http://109.239.128.126:8080/oruzhie/tracks-v2a1/mono.m3u8
 #EXTINF:0,ЗАГОРОДНАЯ ЖИЗНЬ HD
 #EXTGRP:Познавательное
 http://217.79.21.43:81/udp/234.0.0.115:2000?zi/
