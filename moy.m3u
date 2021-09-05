@@ -172,6 +172,9 @@ http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13005/index.m3u
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: Кино
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/10085/index.m3u
+#EXTINF:0,VF Фильмы СССР2
+#EXTGRP: Кино
+http://87.117.231.9/iptv/6CBBEEKZV5CG3E/10085/index.m3u8
 #EXTINF:0,VF Мосфильм
 #EXTGRP: Кино
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/10084/index.m3u
@@ -259,10 +262,10 @@ http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13019/index.m3u
 http://4buwjsz6.otttv.pw/iptv/C9XES3A977FLVG/13021/index.m3u
 #EXTINF:0,минимакс-сваты HD
 #EXTGRP: Кино
-http://4buwjsz6.otttv.pw/iptv/C9XES3A977FLVG/13051/index.m3u
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13051/index.m3u
 #EXTINF:0,минимакс-UFO HD
 #EXTGRP: Кино
-http://4buwjsz6.otttv.pw/iptv/C9XES3A977FLVG/13017/index.m3u
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13017/index.m3u
 
 ----
 
