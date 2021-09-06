@@ -1,43 +1,6 @@
 #EXTM3U
 
-#EXTINF:0,Chillоut
-#EXTGRP: Релакс
-http://myradio24.org/8795
-#EXTINF:0,Enigmatic Station 1 
-#EXTGRP: Релакс
-https://listen2.myradio24.com/8226
-#EXTINF:0,Chill FM
-#EXTGRP: Релакс
-https://edge126.rcs-rds.ro/profm/chillfm.mp3
-#EXTINF:0,ChilloutFM
-#EXTGRP: Релакс
-https://listen2.myradio24.com/8795
-#EXTINF:0,Enigmatic Sunshine
-#EXTGRP: Релакс
-http://radio.enigmatic.su:8120/radio
-#EXTINF:0,Chill
-#EXTGRP: Релакс
-http://dfm.hostingradio.ru/spoknochi96.aacp
-#EXTINF:0,New Age Radio
-#EXTGRP: Релакс
-https://a7.radioheart.ru:8044/newageradio?f32e
-#EXTINF:0,Ретро FM Сан-Ремо
-#EXTGRP: Релакс
-https://hls-01-sanremo.emgsound.ru/5/32/playlist.m3u8
-#EXTINF:0,Relax International
-#EXTGRP: Релакс
-https://stream.relaxfm.ee/international
 
-#EXTINF:0,Radio Nostalgie 101
-#EXTGRP: Музыка
-http://pub0202.101.ru:8000/stream/personal/aacp/64/85780
-
-#EXTINF:0,Romantic&Ballads
-#EXTGRP: Музыка
-https://autopilot.catcast.tv/content/39696/index.m3u8
-#EXTINF:0,TRANCE IS STAR TV
-#EXTGRP: Музыка
-https://tis.catcast.tv/content/391/index.m3u8
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
 http://autopilot.catcast.tv/content/37739/index.m3u8
@@ -63,9 +26,6 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:0,Россия 1 (1)
 #EXTGRP: эфир
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2&checkedby:iptvcat.com
-#EXTINF:0,Россия 1 (0)
-#EXTGRP: эфир
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_3.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/bw2000000/variant.m3u8?version=2
@@ -127,7 +87,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: Кино
-http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
+http://cdnmg.secure.live.rtr-vesti.ru/hls/doverie/playlist_2.m3u8
 
 #EXTINF:0,Дом кино
 #EXTGRP: Кино
@@ -151,6 +111,14 @@ https://v2.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,Память 2
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/38821/index.m3u8
+
+#EXTINF:0,Мосфильм. Золотая коллекция 1
+#EXTGRP: Кино
+http://31.128.159.41:8080/mosfilm/tracks-v1a1/mono.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция 2
+#EXTGRP: Кино
+http://bitrix.powernet.com.ru/mosfilm/mpegts
+
 #EXTINF:0,USSR
 #EXTGRP: Кино
 http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11102/index.m3u8
@@ -185,16 +153,11 @@ http://4buwjsz6.otttv.pw/iptv/C9XES3A977FLVG/10054/index.m3u
 #EXTGRP: Кино
 http://4buwjsz6.otttv.pw/iptv/C9XES3A977FLVG/13080/index.m3u
 
-#EXTINF:0,Мосфильм. Золотая коллекция 1
-#EXTGRP: Кино
-http://31.128.159.41:8080/mosfilm/tracks-v1a1/mono.m3u8
-#EXTINF:0,Мосфильм. Золотая коллекция 2
-#EXTGRP: Кино
-http://bitrix.powernet.com.ru/mosfilm/mpegts
+
 
 #EXTINF:0,Cоветский дубляж
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/zarubez/index.m3u8?cur=Artalex_138&key=6k2l0b900j7i0akc46ck24
+http://s1.sr-vk.online/online/zarubez/index.m3u8?cur=Artalex_138&key=67867534g7gh2kc68e24gg
 
 #EXTINF:0,Все включено
 #EXTGRP: Кино
@@ -496,6 +459,46 @@ https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 #EXTINF:0,Радио ретро
 #EXTGRP: Музыка
 http://hls.goodgame.ru:80/hls/33245.m3u8
+
+
+#EXTINF:0,Chillоut
+#EXTGRP: Релакс
+http://myradio24.org/8795
+#EXTINF:0,Enigmatic Station 1 
+#EXTGRP: Релакс
+https://listen2.myradio24.com/8226
+#EXTINF:0,Chill FM
+#EXTGRP: Релакс
+https://edge126.rcs-rds.ro/profm/chillfm.mp3
+#EXTINF:0,ChilloutFM
+#EXTGRP: Релакс
+https://listen2.myradio24.com/8795
+#EXTINF:0,Enigmatic Sunshine
+#EXTGRP: Релакс
+http://radio.enigmatic.su:8120/radio
+#EXTINF:0,Chill
+#EXTGRP: Релакс
+http://dfm.hostingradio.ru/spoknochi96.aacp
+#EXTINF:0,New Age Radio
+#EXTGRP: Релакс
+https://a7.radioheart.ru:8044/newageradio?f32e
+#EXTINF:0,Ретро FM Сан-Ремо
+#EXTGRP: Релакс
+https://hls-01-sanremo.emgsound.ru/5/32/playlist.m3u8
+#EXTINF:0,Relax International
+#EXTGRP: Релакс
+https://stream.relaxfm.ee/international
+
+#EXTINF:0,Radio Nostalgie 101
+#EXTGRP: Музыка
+http://pub0202.101.ru:8000/stream/personal/aacp/64/85780
+
+#EXTINF:0,Romantic&Ballads
+#EXTGRP: Музыка
+https://autopilot.catcast.tv/content/39696/index.m3u8
+#EXTINF:0,TRANCE IS STAR TV
+#EXTGRP: Музыка
+https://tis.catcast.tv/content/391/index.m3u8
 
 
 
