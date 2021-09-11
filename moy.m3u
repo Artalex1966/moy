@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
 http://autopilot.catcast.tv/content/37739/index.m3u8
@@ -79,9 +78,15 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8?version=
 #EXTGRP: Познавательное
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
+#EXTINF:0,Победа
+#EXTGRP: Кино
+http://37.99.5.234/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
 #EXTINF:0,Звезда
 #EXTGRP: Кино
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:0,Звезда Плюс
+#EXTGRP: Кино
+http://45.80.44.78:25001/play/a01g/index.m3u8
 #EXTINF:0,Красная линия 
 #EXTGRP: Кино
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
@@ -93,9 +98,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/doverie/playlist_2.m3u8
 #EXTGRP: Кино
 http://87.247.44.26/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
 
-#EXTINF:0,VIP Comedy HD
-#EXTGRP: Кино
-http://188.40.68.167/russia/vip_comedy/playlist.m3u8
+
 
 #EXTINF:0,КИНО 1 INTERNATIONAL
 #EXTGRP: Кино
@@ -123,48 +126,44 @@ http://bitrix.powernet.com.ru/mosfilm/mpegts
 #EXTGRP: Кино
 http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11102/index.m3u8
 
+#EXTINF:0,VIP Comedy HD
+#EXTGRP: Кино
+http://188.40.68.167/russia/vip_comedy/playlist.m3u8
 #EXTINF:0,VIP Premiere HD
 #EXTGRP: Кино
 http://pilot.multiscreen.moldtelecom.md/live/eds/vip_premiere_hd/HLSv3/vip_premiere_hd.m3u8
 #EXTINF:0,VIP Megahit HD
 #EXTGRP: Кино
 http://pilot.multiscreen.moldtelecom.md/live/eds/vipmegahit_hd/HLSv3/vipmegahit_hd.m3u8
+#EXTINF:0,VIP TV1000 Action HD
+#EXTGRP: Кино
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
 
 #EXTINF:0,Советское кино HD
 #EXTGRP: Кино
 http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
 
 
-
-#EXTINF:0,TOP USSR
+#EXTINF:0,Свежаки HD
 #EXTGRP: Кино
-http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13005/index.m3u
-#EXTINF:0,VF Фильмы СССР
+https://ed-nl-01.mycdn.video/fresh/index.m3u8
+#EXTINF:0,Уже видел HD
 #EXTGRP: Кино
-http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/10085/index.m3u
-#EXTINF:0,VF Фильмы СССР2
-#EXTGRP: Кино
-http://87.117.231.9/iptv/6CBBEEKZV5CG3E/10085/index.m3u8
-#EXTINF:0,VF Мосфильм
-#EXTGRP: Кино
-http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/10084/index.m3u
-#EXTINF:0,VF Classic
-#EXTGRP: Кино
-http://4buwjsz6.otttv.pw/iptv/C9XES3A977FLVG/10054/index.m3u
-#EXTINF:0,VF Сваты
-#EXTGRP: Кино
-http://4buwjsz6.otttv.pw/iptv/C9XES3A977FLVG/13080/index.m3u
+https://ed-nl-01.mycdn.video/hit/index.m3u8
 
 #EXTINF:0,Родное Кино
 #EXTGRP: Кино
 https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
 #EXTINF:0,наше любимое кино
 #EXTGRP: Кино
-http://iptv.prosto.tv:7000/ch58/video.m3u8
+http://37.99.5.235/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
+#EXTINF:0,Любимый HD
+#EXTGRP: Кино
+http://92.245.103.126:1935/live/live.stream/playlist.m3u8
 
 #EXTINF:0,Cоветский дубляж
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/zarubez/index.m3u8?cur=Artalex_138&key=67867534g7gh2kc68e24gg
+http://s1.sr-vk.online/online/zarubez/index.m3u8?cur=Artalex_138&key=7fe4744jjjai4egk006e46
 
 #EXTINF:0,Все включено
 #EXTGRP: Кино
@@ -178,16 +177,25 @@ http://v2.catcast.me/content/38896/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: Кино
 http://46.34.209.242:80/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
+#EXTINF:0,FILM Thriller
+#EXTGRP: Кино
+https://autopilot.catcast.tv/content/38794/index.m3u8
+#EXTINF:0,Kinoklub
+#EXTGRP: Кино
+http://autopilot.catcast.tv/content/39005/index.m3u8
 
 #EXTINF:0,Мужское кино 
 #EXTGRP: Кино
 https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 #EXTINF:0,Мужское кино 2
 #EXTGRP: Кино
-http://185.97.150.19:8082/740
+http://87.247.44.26/btv/SWM/MuzhskoyeKinoHD/MuzhskoyeKinoHD_1080p_5000kbps.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: Кино
 https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
+#EXTINF:0,Остросюжетное HD
+#EXTGRP: Кино
+http://cn04.iptv.monster/play/368/74F5EB24725C911/video.m3u8
 
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
@@ -207,91 +215,37 @@ http://185.97.150.19:8082/131
 http://185.97.150.19:8082/751
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
-http://188.113.190.12/191/video.m3u8
+http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
+#EXTINF:-1,Кино ТВ1
+#EXTGRP: Кино
+http://31.128.159.41:8080/kinotv/index.m3u8
+#EXTINF:-1,Кино ТВ2
+#EXTGRP: Кино
+http://45.80.44.93:25001/play/a01o/index.m3u8
+#EXTINF:0,STR HD
+#EXTGRP: Кино
+https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
+#EXTINF:0,Cinema
+#EXTGRP: Кино
+https://sc.id-tv.kz/Cinema_34_35.m3u8
 
-#EXTINF:0,Свежаки HD
-#EXTGRP: Кино
-https://ed-nl-01.mycdn.video/fresh/index.m3u8
-#EXTINF:0,Уже видел HD
-#EXTGRP: Кино
-https://ed-nl-01.mycdn.video/hit/index.m3u8
 
----
-
-#EXTINF:0,ussr-фантастика
-#EXTGRP: Кино
-http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13022/index.m3u
-#EXTINF:0,комедия classic
-#EXTGRP: Кино
-http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13037/index.m3u
-#EXTINF:0,ussr-комедия
-#EXTGRP: Кино
-http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13019/index.m3u
-#EXTINF:0,минимакс-ussr-сказки HD
-#EXTGRP: Кино
-http://4buwjsz6.otttv.pw/iptv/C9XES3A977FLVG/13021/index.m3u
-#EXTINF:0,минимакс-сваты HD
-#EXTGRP: Кино
-http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13051/index.m3u
-#EXTINF:0,минимакс-UFO HD
-#EXTGRP: Кино
-http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13017/index.m3u
-
-----
-
-#EXTINF:0,CCCP сказки
-#EXTGRP: Детский
-http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13021/index.m3u
-#EXTINF:0,Маша и медведь
-#EXTGRP: Детский
-http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13042/index.m3u
-#EXTINF:0,Том и Джерри
-#EXTGRP: Детский
-http://5e4edcb9.kartoshkaka.ru/iptv/2XBPNFMZKED9RN/13016/index.m3u8
-#EXTINF:0,Мультики
-#EXTGRP: Детский
-http://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:0, Детский мир
-#EXTGRP: Детский
-http://188.113.190.12/153/video.m3u8
-#EXTINF:0,Чип и Дейл
-#EXTGRP: Детский
-http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13064/index.m3u
-
-#EXTINF:0,Мульт
-#EXTGRP: Детский
-http://188.113.190.12/160/video.m3u8
-#EXTINF:0,Kinder TV
-#EXTGRP: Детский
-http://autopilot.catcast.tv/content/38144/index.m3u8
-#EXTINF:0,Big Buck Bunny
-#EXTGRP: Детский
-https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
 #EXTINF:0,ДИСНЕЙ
 #EXTGRP: Детский
 http://a775797577-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/playlist.m3u8
 #EXTINF:0,ДИСНЕЙ+7
 #EXTGRP: Детский
 http://a775797673-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/bw2000000/playlist.m3u8
-#EXTINF:0,Мультиландия
-#EXTGRP: Детский
-http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
-#EXTINF:0,Рыжий
-#EXTGRP: Детский
-http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
+
 #EXTINF:0,Мультсказки
 #EXTGRP: Детский
 https://autopilot.catcast.tv/content/38850/index.m3u8
-#EXTINF:0,ВЕСЕЛАЯ КАРУСЕЛЬ
-#EXTGRP: Детский
-http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11057/index.m3u8
+
 
 #EXTINF:0,В Гостях у Сказки
 #EXTGRP: Кино
 http://87.247.44.26/btv/SWM/U_Skazki/U_Skazki_576p_2000kbps.m3u8
-#EXTINF:0,Детский мир
-#EXTGRP: Кино
-http://94.230.240.17:8080/detmir/index.m3u8
+
 #EXTINF:0,МультСказки
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/38850/index.m3u8
@@ -299,28 +253,8 @@ https://autopilot.catcast.tv/content/38850/index.m3u8
 
 
 
-#EXTINF:0,НТВ
-#EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
-#EXTINF:0,Дом кино1
-#EXTGRP: Кино
-http://87.247.44.26/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
-#EXTINF:0,Дом кино2
-#EXTGRP: Кино
-http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/154/index.m3u
-#EXTINF:0,Дом кино3
-#EXTGRP: Кино
-http://edge05.beetv.kz/btv/SWM/Dom_Kino/Dom_Kino.m3u8
-#EXTINF:0,Дом Кино Премиум
-#EXTGRP: Кино
-https://sc.id-tv.kz/domkino_hd_38_39.m3u8
-#EXTINF:0,Наше любимое кино
-#EXTGRP: Кино
-http://iptv.prosto.tv:7000/ch58/video.m3u8
 
-#EXTINF:0,Победа
-#EXTGRP: Кино
-http://212.76.27.27/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
+
 #EXTINF:0,Твоё ТВ HD
 #EXTGRP: Кино
 http://stream-norst.cf:8080/tvoetv/index.m3u8
@@ -335,44 +269,22 @@ https://v2.catcast.tv/content/38792/index.m3u8
 #EXTINF:-1,Millenium TV
 #EXTGRP: Кино
 http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
-#EXTINF:-1,Кино ТВ
-#EXTGRP: Кино
-http://31.128.159.41:8080/kinotv/index.m3u8
-
-http://31.128.159.41:8080/kinotv/index.m3u8
-#EXTINF:0,STR HD
-#EXTGRP: Кино
-https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
-#EXTINF:0,Cinema
-#EXTGRP: Кино
-https://sc.id-tv.kz/Cinema_34_35.m3u8
-
-
-
 #EXTINF:0,FILM TV 
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:0,ПРЕМЬЕРА
 #EXTGRP: Кино
 http://v2.catcast.tv/content/39161/index.m3u8
-
-
-
-
-
 #EXTINF:0,Akudji HD
 #EXTGRP: Кино
 http://cdnhls.goodgame.ru/hls/5346.m3u8
-
-#EXTINF:0,Кино ТВ
-#EXTGRP: Кино
-http://51.195.44.53:8081/tv/kino-tv/chunks.m3u8
 #EXTINF:0,PZN
 #EXTGRP: Кино
 http://cdnhls.goodgame.ru/hls/180960.m3u8
 
-
-
+#EXTINF:0,Доку HD
+#EXTGRP:Познавательное
+https://ed-nl-01.mycdn.video/docu/index.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP:Познавательное
 http://188.113.190.12:80/96/tracks-v1a1/index.m3u8
@@ -387,7 +299,7 @@ http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 rtmp://minidey.cdnvideo.ru/minidey/minidey.sdp
 #EXTINF:0, Discovery Science HD
 #EXTGRP:Познавательное
-http://cloudcdn.tk:80/NOf3LO924/RLLju7988/72691
+http://cache2.multiscreen.moldtelecom.md:80/live/eds/discovery_science_hd/HLSv3/discovery_science_hd.m3u8
 #EXTINF:0, Discovery Science 1
 #EXTGRP:Познавательное
 http://188.113.190.12/37/video.m3u8
@@ -420,9 +332,6 @@ EXTINF:0,Усадьба
 http://91.221.201.2:7009/play/a004/index.m3u8?em9uYS1pcHR2LnJ1
 
 ----
-
-
-
 
 #EXTINF:0,Блог 1
 #EXTGRP: Блог
