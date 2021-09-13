@@ -377,9 +377,15 @@ https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 http://hls.goodgame.ru:80/hls/33245.m3u8
 
 
+#EXTINF:0,Атмосфера
+#EXTGRP: Релакс
+https://str2.pcradio.ru/atmoradio_ru-med
 #EXTINF:0,Chillоut
 #EXTGRP: Релакс
 http://myradio24.org/8795
+#EXTINF:0,Record Chillout
+#EXTGRP: Релакс
+https://str2.pcradio.ru/record_chillout-med
 #EXTINF:0,Enigmatic Station 1 
 #EXTGRP: Релакс
 https://listen2.myradio24.com/8226
@@ -398,6 +404,12 @@ http://dfm.hostingradio.ru/spoknochi96.aacp
 #EXTINF:0,Enigma
 #EXTGRP: Релакс
 http://ic7.101.ru:8000/a175
+#EXTINF:0,Enigma2
+#EXTGRP: Релакс
+http://pub0302.101.ru:8000/stream/pro/aac/64/175
+#EXTINF:0,Enigma3
+#EXTGRP: Релакс
+https://str2.pcradio.ru/Enigma-med
 #EXTINF:0,New Age Radio
 #EXTGRP: Релакс
 https://a7.radioheart.ru:8044/newageradio?f32e
