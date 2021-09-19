@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
 http://autopilot.catcast.tv/content/37739/index.m3u8
@@ -46,6 +47,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=
 #EXTINF:0,РЕН ТВ (+7)
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:0,РЕН ТВ (+4)
+#EXTGRP: эфир
+http://a3569458172-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/bw2000000/playlist.m3u8?offset=0&utcstart=1619017200&version=2
 #EXTINF:0,СТС 
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
@@ -83,7 +87,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 http://37.99.5.234/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
 #EXTINF:0,Звезда
 #EXTGRP: Кино
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:0,Звезда Плюс
 #EXTGRP: Кино
 http://45.80.44.78:25001/play/a01g/index.m3u8
@@ -128,16 +132,16 @@ http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11102/index.m3u8
 
 #EXTINF:0,VIP Comedy HD
 #EXTGRP: Кино
-http://188.40.68.167/russia/vip_comedy/playlist.m3u8
+http://dmitry-tv.ml/hls/CH_ViPCOMEDY.m3u8
 #EXTINF:0,VIP Premiere HD
 #EXTGRP: Кино
-http://pilot.multiscreen.moldtelecom.md/live/eds/vip_premiere_hd/HLSv3/vip_premiere_hd.m3u8
+http://dmitry-tv.ml/hls/CH_ViPPREMIERE.m3u8
 #EXTINF:0,VIP Megahit HD
 #EXTGRP: Кино
-http://pilot.multiscreen.moldtelecom.md/live/eds/vipmegahit_hd/HLSv3/vipmegahit_hd.m3u8
+http://91.210.24.70:88/tv_vip_megahit_hd/video.m3u8
 #EXTINF:0,VIP TV1000 Action HD
 #EXTGRP: Кино
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+http://dmitry-tv.ml/hls/CH_TV1000ACTIONHD.m3u8
 
 #EXTINF:0,Советское кино HD
 #EXTGRP: Кино
@@ -153,17 +157,17 @@ https://ed-nl-01.mycdn.video/hit/index.m3u8
 
 #EXTINF:0,Родное Кино
 #EXTGRP: Кино
-https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
+http://194.246.92.196:8008/play/a328/index.m3u8
 #EXTINF:0,наше любимое кино
 #EXTGRP: Кино
 http://37.99.5.235/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
-#EXTINF:0,Любимый HD
+#EXTINF:0,FlixSnip
 #EXTGRP: Кино
-http://92.245.103.126:1935/live/live.stream/playlist.m3u8
+http://194.9.27.164:8108/play/FlixSnip/index.m3u8
 
-#EXTINF:0,Cоветский дубляж
+#EXTINF:0,FILM Блокбастер
 #EXTGRP: Кино
-http://s1.sr-vk.online/online/zarubez/index.m3u8?cur=Artalex_138&key=7fe4744jjjai4egk006e46
+http://autopilot.catcast.tv/content/40017/index.m3u8
 
 #EXTINF:0,Все включено
 #EXTGRP: Кино
@@ -209,16 +213,16 @@ http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11070/index.m3u8
 http://91.221.201.2:7006/play/a002/index.m3u8?em9uYS1pcHR2LnJ1
 #EXTINF:0,Киномикс
 #EXTGRP: Кино
-http://185.97.150.19:8082/131
+http://45.80.44.93:25001/play/a04e/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://185.97.150.19:8082/751
+http://109.239.128.126:8080/kinohit/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
 http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
 #EXTINF:-1,Кино ТВ1
 #EXTGRP: Кино
-http://31.128.159.41:8080/kinotv/index.m3u8
+http://185.46.48.26:8000/play/a054
 #EXTINF:-1,Кино ТВ2
 #EXTGRP: Кино
 http://45.80.44.93:25001/play/a01o/index.m3u8
@@ -228,6 +232,9 @@ https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: Кино
 https://sc.id-tv.kz/Cinema_34_35.m3u8
+
+
+
 
 
 #EXTINF:0,ДИСНЕЙ
@@ -287,7 +294,7 @@ http://cdnhls.goodgame.ru/hls/180960.m3u8
 https://ed-nl-01.mycdn.video/docu/index.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP:Познавательное
-http://188.113.190.12:80/96/tracks-v1a1/index.m3u8
+http://cn02.iptv.monster/play/155/74F5EB24725C911/video.m3u8
 #EXTINF:0, История
 #EXTGRP:Познавательное
 http://45.80.44.78:25001/play/a03m/index.m3u8
@@ -303,21 +310,21 @@ http://cache2.multiscreen.moldtelecom.md:80/live/eds/discovery_science_hd/HLSv3/
 #EXTINF:0, Discovery Science 1
 #EXTGRP:Познавательное
 http://188.113.190.12/37/video.m3u8
-#EXTINF:0, Discovery Science 2
+#EXTINF:0, Кто есть кто
 #EXTGRP:Познавательное
-http://204.157.189.101:81/udp/239.72.6.29:1234?zi/
+http://45.80.44.93:25001/play/a043/index.m3u8
 #EXTINF:0, Discovery Channel HD
 #EXTGRP:Познавательное
 http://45.80.44.79:25002/play/a00g/index.m3u8
 #EXTINF:0,National Geographic HD
 #EXTGRP:Познавательное
 http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8
-#EXTINF:0,Загородный
+#EXTINF:0,Brodilo TV HD
 #EXTGRP:Познавательное
-http://ott-cdn.ucom.am/s31/04.m3u8
-#EXTINF:0,Ремонт
+http://brodilo.tv/channel.php
+#EXTINF:0,History2HD
 #EXTGRP:Познавательное
-http://188.113.190.12/225/video.m3u8
+http://46.34.209.244:80/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
 #EXTINF:0,Оружие
 #EXTGRP:Познавательное
 http://109.239.128.126:8080/oruzhie/tracks-v2a1/mono.m3u8
@@ -332,6 +339,9 @@ EXTINF:0,Усадьба
 http://91.221.201.2:7009/play/a004/index.m3u8?em9uYS1pcHR2LnJ1
 
 ----
+
+
+
 
 #EXTINF:0,Блог 1
 #EXTGRP: Блог
@@ -380,6 +390,9 @@ http://hls.goodgame.ru:80/hls/33245.m3u8
 #EXTINF:0,Атмосфера
 #EXTGRP: Релакс
 https://str2.pcradio.ru/atmoradio_ru-med
+#EXTINF:0,Baby Sleep
+#EXTGRP: Релакс
+https://content.audioaddict.com/prd/a/a/1/c/f/362afc8b7a428adc0549aab0742bc545e90.mp4?purpose=playback&audio_token=43aa4c9f3f7922af272a59eaedf95d93&network=zenradio&device=firefox_92_windows_10&exp=2021-09-20T14:44:20Z&auth=21a982c98e078eefd71ae594449d40027d026e3b
 #EXTINF:0,Chillоut
 #EXTGRP: Релакс
 http://myradio24.org/8795
@@ -401,6 +414,9 @@ http://radio.enigmatic.su:8120/radio
 #EXTINF:0,Chill
 #EXTGRP: Релакс
 http://dfm.hostingradio.ru/spoknochi96.aacp
+#EXTINF:0,Chill 101
+#EXTGRP: Релакс
+http://pub0302.101.ru:8000/stream/trust/mp3/128/24
 #EXTINF:0,Enigma
 #EXTGRP: Релакс
 http://ic7.101.ru:8000/a175
