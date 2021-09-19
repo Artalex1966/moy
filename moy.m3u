@@ -91,6 +91,9 @@ http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:0,Звезда Плюс
 #EXTGRP: Кино
 http://45.80.44.78:25001/play/a01g/index.m3u8
+#EXTINF:0,Звезда Плюс2
+#EXTGRP: Кино
+http://87.99.87.203:2020/channel/5c0a20fd/index.m3u8?q=5d9014a6fabf8f4303db649a8cf3a754
 #EXTINF:0,Красная линия 
 #EXTGRP: Кино
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
@@ -146,6 +149,18 @@ http://dmitry-tv.ml/hls/CH_TV1000ACTIONHD.m3u8
 #EXTINF:0,Советское кино HD
 #EXTGRP: Кино
 http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,BCU СССР HD
+#EXTGRP: Кино
+http://87.99.87.203:2020/channel/7295b7a5/index.m3u8?q=5d9014a6fabf8f4303db649a8cf3a754
+#EXTINF:0,KBC-Страна СССР
+#EXTGRP: Кино
+http://87.99.87.203:2020/channel/n2e38a5c9/index.m3u8?q=5d9014a6fabf8f4303db649a8cf3a754
+#EXTINF:0,СССР
+#EXTGRP: Кино
+http://s5.sr-vk.online/online/sssr/index.m3u8?key=mh52pi_sssr
+#EXTINF:0,Cоветский дубляж
+#EXTGRP: Кино
+http://s5.sr-vk.online/online/zarubez/index.m3u8?key=mh52pi_zarubez
 
 
 #EXTINF:0,Свежаки HD
@@ -155,9 +170,9 @@ https://ed-nl-01.mycdn.video/fresh/index.m3u8
 #EXTGRP: Кино
 https://ed-nl-01.mycdn.video/hit/index.m3u8
 
-#EXTINF:0,Родное Кино
+#EXTINF:0,Блокбастер HD
 #EXTGRP: Кино
-http://194.246.92.196:8008/play/a328/index.m3u8
+http://87.99.87.203:2020/channel/n423310b/index.m3u8?q=5d9014a6fabf8f4303db649a8cf3a754
 #EXTINF:0,наше любимое кино
 #EXTGRP: Кино
 http://37.99.5.235/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
@@ -204,9 +219,9 @@ http://cn04.iptv.monster/play/368/74F5EB24725C911/video.m3u8
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38801/index.m3u8
-#EXTINF:0,Фантастика HD
+#EXTINF:0,BCU Fantastic HD
 #EXTGRP: Кино
-http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11070/index.m3u8
+http://87.99.87.203:2020/channel/n3cd192c7/index.m3u8?q=5d9014a6fabf8f4303db649a8cf3a754
 
 #EXTINF:0,Кинопоказ
 #EXTGRP: Кино
@@ -309,7 +324,7 @@ rtmp://minidey.cdnvideo.ru/minidey/minidey.sdp
 http://cache2.multiscreen.moldtelecom.md:80/live/eds/discovery_science_hd/HLSv3/discovery_science_hd.m3u8
 #EXTINF:0, Discovery Science 1
 #EXTGRP:Познавательное
-http://188.113.190.12/37/video.m3u8
+http://194.246.92.196:8008/play/a147/index.m3u8
 #EXTINF:0, Кто есть кто
 #EXTGRP:Познавательное
 http://45.80.44.93:25001/play/a043/index.m3u8
