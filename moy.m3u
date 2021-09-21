@@ -1,3 +1,138 @@
+#EXTM3U
+
+
+#EXTINF:0,Музыка Кино
+#EXTGRP: Музыка
+http://autopilot.catcast.tv/content/37739/index.m3u8
+#EXTINF:0,Музыка 1
+#EXTGRP: Музыка
+http://autopilot.catcast.tv/content/37745/index.m3u8
+#EXTINF:0,Музыка 2
+#EXTGRP: Музыка
+http://autopilot.catcast.tv/content/37742/index.m3u8
+#EXTINF:0,Ретро Музыка
+#EXTGRP: Музыка
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:0,Россия 24
+#EXTGRP: эфир
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:0,Россия 1 HD
+#EXTGRP: эфир
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:0,Россия 1 HD2
+#EXTGRP: эфир
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:0,Россия 1 (1)
+#EXTGRP: эфир
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0,Первый канал
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/bw2000000/variant.m3u8?version=2
+#EXTINF:0,Первый канал 2
+#EXTGRP: эфир
+http://91.192.168.251:5050
+#EXTINF:0,РТР Планета
+#EXTGRP: эфир
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:0,РТР Планета2
+#EXTGRP: эфир
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:0,Рен ТВ (+2)
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
+#EXTINF:0,Рен ТВ 
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
+#EXTINF:0,РЕН ТВ (+7)
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:0,РЕН ТВ (+4)
+#EXTGRP: эфир
+http://a3569458172-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/bw2000000/playlist.m3u8?offset=0&utcstart=1619017200&version=2
+#EXTINF:0,СТС 
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
+#EXTINF:0,СТС (+2) 
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?version=2
+#EXTINF:0,СТС (+4)
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2&offset=-14400
+#EXTINF:0,СТС (+7)
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8?version=2
+#EXTINF:0, СТС love
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8?version=2
+#EXTINF:0, СТС love2
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/bw2000000/variant.m3u8?version=2
+#EXTINF:0, СТС Мир
+#EXTGRP: эфир
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TSM/variant.m3u8?version=2
+#EXTINF:0, Супер
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
+#EXTINF:0,ТВ Центр 
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8?version=2
+
+#EXTINF:0,Известия ТВ FHD
+#EXTGRP: Познавательное
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+
+#EXTINF:0,Победа
+#EXTGRP: Кино
+http://37.99.5.234/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
+#EXTINF:0,Звезда
+#EXTGRP: Кино
+http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:0,Звезда Плюс
+#EXTGRP: Кино
+http://45.80.44.78:25001/play/a01g/index.m3u8
+#EXTINF:0,Звезда Плюс2
+#EXTGRP: Кино
+http://87.99.87.203:2020/channel/5c0a20fd/index.m3u8?q=5d9014a6fabf8f4303db649a8cf3a754
+#EXTINF:0,Красная линия 
+#EXTGRP: Кино
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:0,Москва Доверие
+#EXTGRP: Кино
+http://cdnmg.secure.live.rtr-vesti.ru/hls/doverie/playlist_2.m3u8
+
+#EXTINF:0,Дом кино
+#EXTGRP: Кино
+http://87.247.44.26/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
+
+
+
+#EXTINF:0,КИНО 1 INTERNATIONAL
+#EXTGRP: Кино
+https://kino-1.catcast.tv/content/38617/index.m3u8
+
+#EXTINF:0,Детское кино International
+#EXTGRP: Кино
+https://v2.catcast.tv/content/38720/index.m3u8
+
+#EXTINF:0,Память
+#EXTGRP: Кино
+https://v2.catcast.tv/content/38821/index.m3u8
+#EXTINF:0,Память 2
+#EXTGRP: Кино
+https://autopilot.catcast.tv/content/38821/index.m3u8
+
+#EXTINF:0,Мосфильм. Золотая коллекция 1
+#EXTGRP: Кино
+http://31.128.159.41:8080/mosfilm/tracks-v1a1/mono.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция 2
+#EXTGRP: Кино
+http://bitrix.powernet.com.ru/mosfilm/mpegts
+
+#EXTINF:0,USSR
+#EXTGRP: Кино
+http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11102/index.m3u8
+
 #EXTINF:0 tvg-name="СССР HD"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/sssr-hd-1.png" tvg-id="srvksssrhd", СССР HD
 http://s5.sr-vk.online/online/sssrhd/index.m3u8?key=mh52pi_sssrhd
 #EXTINF:0 tvg-name="СССР"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/sssr-3.png" tvg-id="srvksssr", СССР
@@ -32,3 +167,323 @@ http://s5.sr-vk.online/online/sverdlovsk/index.m3u8?key=mh52pi_sverdlovsk
 http://s5.sr-vk.online/online/riga/index.m3u8?key=mh52pi_riga
 #EXTINF:0 tvg-name="Одесская киностудия"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/07/odessa.png" tvg-id="srvkodessa", Одесская киностудия
 http://s5.sr-vk.online/online/odessa/index.m3u8?key=mh52pi_odessa
+
+#EXTINF:0,Советское кино HD
+#EXTGRP: Кино
+http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,BCU СССР HD
+#EXTGRP: Кино
+http://87.99.87.203:2020/channel/7295b7a5/index.m3u8?q=5d9014a6fabf8f4303db649a8cf3a754
+#EXTINF:0,KBC-Страна СССР
+#EXTGRP: Кино
+http://87.99.87.203:2020/channel/n2e38a5c9/index.m3u8?q=5d9014a6fabf8f4303db649a8cf3a754
+#EXTINF:0,СССР
+#EXTGRP: Кино
+http://s5.sr-vk.online/online/sssr/index.m3u8?key=mh52pi_sssr
+#EXTINF:0,Cоветский дубляж
+#EXTGRP: Кино
+http://s5.sr-vk.online/online/zarubez/index.m3u8?key=mh52pi_zarubez
+
+
+#EXTINF:0,Свежаки HD
+#EXTGRP: Кино
+https://ed-nl-01.mycdn.video/fresh/index.m3u8
+#EXTINF:0,Уже видел HD
+#EXTGRP: Кино
+https://ed-nl-01.mycdn.video/hit/index.m3u8
+
+#EXTINF:0,Блокбастер HD
+#EXTGRP: Кино
+http://87.99.87.203:2020/channel/n423310b/index.m3u8?q=5d9014a6fabf8f4303db649a8cf3a754
+#EXTINF:0,наше любимое кино
+#EXTGRP: Кино
+http://37.99.5.235/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
+#EXTINF:0,FlixSnip
+#EXTGRP: Кино
+http://194.9.27.164:8108/play/FlixSnip/index.m3u8
+
+#EXTINF:0,FILM Блокбастер
+#EXTGRP: Кино
+http://autopilot.catcast.tv/content/40017/index.m3u8
+
+#EXTINF:0,Все включено
+#EXTGRP: Кино
+https://v2.catcast.tv/content/39161/index.m3u8
+#EXTINF:0,VHS-видеокассета
+#EXTGRP: Кино
+http://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:0,KINOZAL12
+#EXTGRP: Кино
+http://v2.catcast.me/content/38896/index.m3u8
+#EXTINF:0,Cinema
+#EXTGRP: Кино
+http://46.34.209.242:80/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
+#EXTINF:0,FILM Thriller
+#EXTGRP: Кино
+https://autopilot.catcast.tv/content/38794/index.m3u8
+#EXTINF:0,Kinoklub
+#EXTGRP: Кино
+http://autopilot.catcast.tv/content/39005/index.m3u8
+
+#EXTINF:0,Мужское кино 
+#EXTGRP: Кино
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+#EXTINF:0,Мужское кино 2
+#EXTGRP: Кино
+http://87.247.44.26/btv/SWM/MuzhskoyeKinoHD/MuzhskoyeKinoHD_1080p_5000kbps.m3u8
+#EXTINF:0,Кинопремьера
+#EXTGRP: Кино
+https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
+#EXTINF:0,Остросюжетное HD
+#EXTGRP: Кино
+http://cn04.iptv.monster/play/368/74F5EB24725C911/video.m3u8
+
+#EXTINF:0,Фантастика
+#EXTGRP: Кино
+https://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:0,BCU Fantastic HD
+#EXTGRP: Кино
+http://87.99.87.203:2020/channel/n3cd192c7/index.m3u8?q=5d9014a6fabf8f4303db649a8cf3a754
+
+#EXTINF:0,Кинопоказ
+#EXTGRP: Кино
+http://91.221.201.2:7006/play/a002/index.m3u8?em9uYS1pcHR2LnJ1
+#EXTINF:0,Киномикс
+#EXTGRP: Кино
+http://45.80.44.93:25001/play/a04e/index.m3u8
+#EXTINF:0,Кинохит
+#EXTGRP: Кино
+http://109.239.128.126:8080/kinohit/tracks-v1a1/mono.m3u8
+#EXTINF:0,Кино ТВ
+#EXTGRP: Кино
+http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
+#EXTINF:-1,Кино ТВ1
+#EXTGRP: Кино
+http://185.46.48.26:8000/play/a054
+#EXTINF:-1,Кино ТВ2
+#EXTGRP: Кино
+http://45.80.44.93:25001/play/a01o/index.m3u8
+#EXTINF:0,STR HD
+#EXTGRP: Кино
+https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
+#EXTINF:0,Cinema
+#EXTGRP: Кино
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+
+
+
+
+
+#EXTINF:0,ДИСНЕЙ
+#EXTGRP: Детский
+http://a775797577-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/playlist.m3u8
+#EXTINF:0,ДИСНЕЙ+7
+#EXTGRP: Детский
+http://a775797673-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/bw2000000/playlist.m3u8
+
+#EXTINF:0,Мультсказки
+#EXTGRP: Детский
+https://autopilot.catcast.tv/content/38850/index.m3u8
+
+
+#EXTINF:0,В Гостях у Сказки
+#EXTGRP: Кино
+http://87.247.44.26/btv/SWM/U_Skazki/U_Skazki_576p_2000kbps.m3u8
+
+#EXTINF:0,МультСказки
+#EXTGRP: Кино
+https://autopilot.catcast.tv/content/38850/index.m3u8
+
+
+
+
+
+
+#EXTINF:0,Твоё ТВ HD
+#EXTGRP: Кино
+http://stream-norst.cf:8080/tvoetv/index.m3u8
+#EXTINF:0,ВСЁ ВКЛЮЧЕНО
+#EXTGRP: Кино
+https://v2.catcast.tv/content/39161/index.m3u8
+
+
+#EXTINF:0,Premium кино
+#EXTGRP: Кино
+https://v2.catcast.tv/content/38792/index.m3u8
+#EXTINF:-1,Millenium TV
+#EXTGRP: Кино
+http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
+#EXTINF:0,FILM TV 
+#EXTGRP: Кино
+https://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:0,ПРЕМЬЕРА
+#EXTGRP: Кино
+http://v2.catcast.tv/content/39161/index.m3u8
+#EXTINF:0,Akudji HD
+#EXTGRP: Кино
+http://cdnhls.goodgame.ru/hls/5346.m3u8
+#EXTINF:0,PZN
+#EXTGRP: Кино
+http://cdnhls.goodgame.ru/hls/180960.m3u8
+
+#EXTINF:0,Доку HD
+#EXTGRP:Познавательное
+https://ed-nl-01.mycdn.video/docu/index.m3u8
+#EXTINF:0,Наука 2.0
+#EXTGRP:Познавательное
+http://cn02.iptv.monster/play/155/74F5EB24725C911/video.m3u8
+#EXTINF:0, История
+#EXTGRP:Познавательное
+http://45.80.44.78:25001/play/a03m/index.m3u8
+#EXTINF:0, Министерство идей
+#EXTGRP:Познавательное
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:0, Министерство идей2
+#EXTGRP:Познавательное
+rtmp://minidey.cdnvideo.ru/minidey/minidey.sdp
+#EXTINF:0, Discovery Science HD
+#EXTGRP:Познавательное
+http://cache2.multiscreen.moldtelecom.md:80/live/eds/discovery_science_hd/HLSv3/discovery_science_hd.m3u8
+#EXTINF:0, Discovery Science 1
+#EXTGRP:Познавательное
+http://194.246.92.196:8008/play/a147/index.m3u8
+#EXTINF:0, Кто есть кто
+#EXTGRP:Познавательное
+http://45.80.44.93:25001/play/a043/index.m3u8
+#EXTINF:0, Discovery Channel HD
+#EXTGRP:Познавательное
+http://45.80.44.79:25002/play/a00g/index.m3u8
+#EXTINF:0,National Geographic HD
+#EXTGRP:Познавательное
+http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8
+#EXTINF:0,Brodilo TV HD
+#EXTGRP:Познавательное
+http://brodilo.tv/channel.php
+#EXTINF:0,History2HD
+#EXTGRP:Познавательное
+http://46.34.209.244:80/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
+#EXTINF:0,Оружие
+#EXTGRP:Познавательное
+http://109.239.128.126:8080/oruzhie/tracks-v2a1/mono.m3u8
+#EXTINF:0,ЗАГОРОДНАЯ ЖИЗНЬ HD
+#EXTGRP:Познавательное
+http://217.79.21.43:81/udp/234.0.0.115:2000?zi/
+#EXTINF:0,Бобер
+#EXTGRP:Познавательное
+http://188.113.190.12/131/video.m3u8
+EXTINF:0,Усадьба
+#EXTGRP:Познавательное
+http://91.221.201.2:7009/play/a004/index.m3u8?em9uYS1pcHR2LnJ1
+
+----
+
+
+
+
+#EXTINF:0,Блог 1
+#EXTGRP: Блог
+http://hls.goodgame.ru/hls/6147.m3u8
+#EXTINF:0,Блог 2
+#EXTGRP: Блог
+http://hls.goodgame.ru/hls/33226.m3u8
+#EXTINF:0,Блог 3
+#EXTGRP: Блог
+http://hls.goodgame.ru/hls/71852.m3u8
+
+----
+
+
+#EXTINF:0,Оплот
+#EXTGRP: Познавательное
+http://ott.inmart.tv:8081/54/index.m3u8
+#EXTINF:0,Оплот 2
+#EXTGRP: Познавательное
+http://ott.inmart.tv:8081/17/index.m3u8
+#EXTINF:0,Перший Незалежний
+#EXTGRP: эфир
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+
+----
+
+#EXTINF:0,Камин
+#EXTGRP: Релакс
+http://45.14.38.4:15000
+#EXTINF:0,Релакс HD
+#EXTGRP: Релакс
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:0,Nature Relaxation HD
+#EXTGRP: Релакс
+https://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
+
+#EXTINF:0,Relax
+#EXTGRP: Релакс
+https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
+
+#EXTINF:0,Радио ретро
+#EXTGRP: Музыка
+http://hls.goodgame.ru:80/hls/33245.m3u8
+
+
+#EXTINF:0,Атмосфера
+#EXTGRP: Релакс
+https://str2.pcradio.ru/atmoradio_ru-med
+#EXTINF:0,Esoterica FM Gregorian Chants
+#EXTGRP: Релакс
+https://radios.esoterica.fm.br:7002
+#EXTINF:0,Chillоut
+#EXTGRP: Релакс
+http://myradio24.org/8795
+#EXTINF:0,Record Chillout
+#EXTGRP: Релакс
+https://str2.pcradio.ru/record_chillout-med
+#EXTINF:0,Enigmatic Station 1 
+#EXTGRP: Релакс
+https://listen2.myradio24.com/8226
+#EXTINF:0,Chill FM
+#EXTGRP: Релакс
+https://edge126.rcs-rds.ro/profm/chillfm.mp3
+#EXTINF:0,ChilloutFM
+#EXTGRP: Релакс
+https://listen2.myradio24.com/8795
+#EXTINF:0,Enigmatic Sunshine
+#EXTGRP: Релакс
+http://radio.enigmatic.su:8120/radio
+#EXTINF:0,Chill
+#EXTGRP: Релакс
+http://dfm.hostingradio.ru/spoknochi96.aacp
+#EXTINF:0,Chill 101
+#EXTGRP: Релакс
+http://pub0302.101.ru:8000/stream/trust/mp3/128/24
+#EXTINF:0,Enigma
+#EXTGRP: Релакс
+http://ic7.101.ru:8000/a175
+#EXTINF:0,Enigma2
+#EXTGRP: Релакс
+http://pub0302.101.ru:8000/stream/pro/aac/64/175
+#EXTINF:0,Enigma3
+#EXTGRP: Релакс
+https://str2.pcradio.ru/Enigma-med
+#EXTINF:0,New Age Radio
+#EXTGRP: Релакс
+https://a7.radioheart.ru:8044/newageradio?f32e
+#EXTINF:0,Ретро FM Сан-Ремо
+#EXTGRP: Релакс
+https://hls-01-sanremo.emgsound.ru/5/32/playlist.m3u8
+#EXTINF:0,Relax International
+#EXTGRP: Релакс
+https://stream.relaxfm.ee/international
+
+#EXTINF:0,Radio Nostalgie 101
+#EXTGRP: Музыка
+http://pub0202.101.ru:8000/stream/personal/aacp/64/85780
+
+#EXTINF:0,Romantic&Ballads
+#EXTGRP: Музыка
+https://autopilot.catcast.tv/content/39696/index.m3u8
+#EXTINF:0,TRANCE IS STAR TV
+#EXTGRP: Музыка
+https://tis.catcast.tv/content/391/index.m3u8
+
+
+
+Конец 💋
