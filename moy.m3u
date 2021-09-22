@@ -256,7 +256,7 @@ http://109.239.128.126:8080/kinohit/tracks-v1a1/mono.m3u8
 http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
 #EXTINF:-1,Кино ТВ1
 #EXTGRP: Кино
-http://185.46.48.26:8000/play/a054
+http://178.163.33.215:81/udp/234.0.0.154:2000
 #EXTINF:-1,Кино ТВ2
 #EXTGRP: Кино
 http://45.80.44.93:25001/play/a01o/index.m3u8
