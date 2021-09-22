@@ -110,10 +110,10 @@ http://83.97.111.172:4022/udp/224.0.45.89:1234?token=zi-1008
 http://87.247.44.26/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
 #EXTINF:0,Дом кино2
 #EXTGRP: Кино
-http://46.34.209.243/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
+http://109.239.128.126:8080/dom_kino/tracks-v2a1/mono.m3u8
 #EXTINF:0,Дом кино3
 #EXTGRP: Кино
-http://83.97.111.172:4022/udp/224.0.45.52:1234?token=zi-1008
+http://45.80.44.93:25001/play/a04r/index.m3u8
 
 
 #EXTINF:0,КИНО 1 INTERNATIONAL
