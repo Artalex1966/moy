@@ -343,7 +343,7 @@ rtmp://minidey.cdnvideo.ru/minidey/minidey.sdp
 http://cache2.multiscreen.moldtelecom.md:80/live/eds/discovery_science_hd/HLSv3/discovery_science_hd.m3u8
 #EXTINF:0, Discovery Science 1
 #EXTGRP:Познавательное
-http://194.246.92.196:8008/play/a147/index.m3u8
+http://cache2.multiscreen.moldtelecom.md/live/eds/discovery_science_hd/HLSv3/discovery_science_hd.m3u8
 #EXTINF:0, Кто есть кто
 #EXTGRP:Познавательное
 http://45.80.44.93:25001/play/a043/index.m3u8
