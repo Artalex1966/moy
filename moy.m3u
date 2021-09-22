@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
 http://autopilot.catcast.tv/content/37739/index.m3u8
@@ -99,11 +100,20 @@ https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: Кино
 http://cdnmg.secure.live.rtr-vesti.ru/hls/doverie/playlist_2.m3u8
+#EXTINF:0,Москва Доверие2
+#EXTGRP: Кино
+http://83.97.111.172:4022/udp/224.0.45.89:1234?token=zi-1008
+
 
 #EXTINF:0,Дом кино
 #EXTGRP: Кино
 http://87.247.44.26/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
-
+#EXTINF:0,Дом кино2
+#EXTGRP: Кино
+http://46.34.209.243/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
+#EXTINF:0,Дом кино3
+#EXTGRP: Кино
+http://83.97.111.172:4022/udp/224.0.45.52:1234?token=zi-1008
 
 
 #EXTINF:0,КИНО 1 INTERNATIONAL
@@ -170,18 +180,6 @@ http://s5.sr-vk.online/online/odessa/index.m3u8?key=mh52pi_odessa
 #EXTINF:0,Советское кино HD
 #EXTGRP: Кино
 http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:0,BCU СССР HD
-#EXTGRP: Кино
-http://87.99.87.203:2020/channel/7295b7a5/index.m3u8?q=5d9014a6fabf8f4303db649a8cf3a754
-#EXTINF:0,KBC-Страна СССР
-#EXTGRP: Кино
-http://87.99.87.203:2020/channel/n2e38a5c9/index.m3u8?q=5d9014a6fabf8f4303db649a8cf3a754
-#EXTINF:0,СССР
-#EXTGRP: Кино
-http://s5.sr-vk.online/online/sssr/index.m3u8?key=mh52pi_sssr
-#EXTINF:0,Cоветский дубляж
-#EXTGRP: Кино
-http://s5.sr-vk.online/online/zarubez/index.m3u8?key=mh52pi_zarubez
 
 
 #EXTINF:0,Свежаки HD
