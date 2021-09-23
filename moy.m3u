@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
 http://autopilot.catcast.tv/content/37739/index.m3u8
@@ -189,9 +188,9 @@ https://ed-nl-01.mycdn.video/fresh/index.m3u8
 #EXTGRP: Кино
 https://ed-nl-01.mycdn.video/hit/index.m3u8
 
-#EXTINF:0,Блокбастер HD
+#EXTINF:0,VIP Megahit
 #EXTGRP: Кино
-http://87.99.87.203:2020/channel/n423310b/index.m3u8?q=5d9014a6fabf8f4303db649a8cf3a754
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
 #EXTINF:0,наше любимое кино
 #EXTGRP: Кино
 http://37.99.5.235/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
@@ -267,10 +266,6 @@ https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
 #EXTGRP: Кино
 https://sc.id-tv.kz/Cinema_34_35.m3u8
 
-
-
-
-
 #EXTINF:0,ДИСНЕЙ
 #EXTGRP: Детский
 http://a775797577-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/playlist.m3u8
@@ -281,8 +276,6 @@ http://a775797673-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/bw2000000/playlis
 #EXTINF:0,Мультсказки
 #EXTGRP: Детский
 https://autopilot.catcast.tv/content/38850/index.m3u8
-
-
 #EXTINF:0,В Гостях у Сказки
 #EXTGRP: Кино
 http://87.247.44.26/btv/SWM/U_Skazki/U_Skazki_576p_2000kbps.m3u8
@@ -290,10 +283,6 @@ http://87.247.44.26/btv/SWM/U_Skazki/U_Skazki_576p_2000kbps.m3u8
 #EXTINF:0,МультСказки
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/38850/index.m3u8
-
-
-
-
 
 
 #EXTINF:0,Твоё ТВ HD
@@ -322,6 +311,8 @@ http://cdnhls.goodgame.ru/hls/5346.m3u8
 #EXTINF:0,PZN
 #EXTGRP: Кино
 http://cdnhls.goodgame.ru/hls/180960.m3u8
+
+--------------
 
 #EXTINF:0,Доку HD
 #EXTGRP:Познавательное
@@ -374,9 +365,6 @@ http://91.221.201.2:7009/play/a004/index.m3u8?em9uYS1pcHR2LnJ1
 
 ----
 
-
-
-
 #EXTINF:0,Блог 1
 #EXTGRP: Блог
 http://hls.goodgame.ru/hls/6147.m3u8
@@ -388,8 +376,6 @@ http://hls.goodgame.ru/hls/33226.m3u8
 http://hls.goodgame.ru/hls/71852.m3u8
 
 ----
-
-
 #EXTINF:0,Оплот
 #EXTGRP: Познавательное
 http://ott.inmart.tv:8081/54/index.m3u8
@@ -411,15 +397,9 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:0,Nature Relaxation HD
 #EXTGRP: Релакс
 https://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
-
 #EXTINF:0,Relax
 #EXTGRP: Релакс
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
-
-#EXTINF:0,Радио ретро
-#EXTGRP: Музыка
-http://hls.goodgame.ru:80/hls/33245.m3u8
-
 
 #EXTINF:0,Атмосфера
 #EXTGRP: Релакс
@@ -480,7 +460,5 @@ https://autopilot.catcast.tv/content/39696/index.m3u8
 #EXTINF:0,TRANCE IS STAR TV
 #EXTGRP: Музыка
 https://tis.catcast.tv/content/391/index.m3u8
-
-
 
 Конец 💋
