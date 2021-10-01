@@ -37,6 +37,9 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u
 #EXTINF:0,РТР Планета2
 #EXTGRP: эфир
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:0,Рен ТВ (+1)
+#EXTGRP: эфир
+http://a3569458168-rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_EKT/playlist.m3u8?offset=-3600&utcstart=1611493200&version=2
 #EXTINF:0,Рен ТВ (+2)
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
@@ -49,6 +52,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:0,РЕН ТВ (+4)
 #EXTGRP: эфир
 http://a3569458172-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/bw2000000/playlist.m3u8?offset=0&utcstart=1619017200&version=2
+#EXTINF:0,РЕН ТВ (-1)
+#EXTGRP: эфир
+http://a787200748-rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8?offset=-3600&utcstart=1611486000&version=2
 #EXTINF:0,СТС 
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
@@ -92,7 +98,7 @@ http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 http://45.80.44.78:25001/play/a01g/index.m3u8
 #EXTINF:0,Звезда Плюс2
 #EXTGRP: Кино
-http://87.99.87.203:2020/channel/5c0a20fd/index.m3u8?q=5d9014a6fabf8f4303db649a8cf3a754
+http://45.80.44.93:25001/play/a01i/index.m3u8
 #EXTINF:0,Красная линия 
 #EXTGRP: Кино
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
@@ -140,41 +146,6 @@ http://bitrix.powernet.com.ru/mosfilm/mpegts
 #EXTINF:0,USSR
 #EXTGRP: Кино
 http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11102/index.m3u8
-
-#EXTINF:0 tvg-name="СССР HD"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/sssr-hd-1.png" tvg-id="srvksssrhd", СССР HD
-http://s5.sr-vk.online/online/sssrhd/index.m3u8?key=mh52pi_sssrhd
-#EXTINF:0 tvg-name="СССР"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/sssr-3.png" tvg-id="srvksssr", СССР
-http://s5.sr-vk.online/online/sssr/index.m3u8?key=mh52pi_sssr
-#EXTINF:0 tvg-name="СССР 1"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/sssr-1-1.png" tvg-id="srvksssr1", СССР 1
-http://s5.sr-vk.online/online/sssr1/index.m3u8?key=mh52pi_sssr1
-#EXTINF:0 tvg-name="СССР 2"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/sssr-2-1.png" tvg-id="srvksssr2", СССР 2
-http://s5.sr-vk.online/online/sssr2/index.m3u8?key=mh52pi_sssr2
-#EXTINF:0 tvg-name="Украинская ССР"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/ukrainskaya-ssr-1.png" tvg-id="srvkussr", Украинская ССР
-http://s5.sr-vk.online/online/ussr/index.m3u8?key=mh52pi_ussr
-#EXTINF:0 tvg-name="Комедия СССР"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/komediya-1.png" tvg-id="srvkcomedy", Комедия СССР
-http://s5.sr-vk.online/online/comedy/index.m3u8?key=mh52pi_comedy
-#EXTINF:0 tvg-name="Фильмы 90x"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/filmy-90x-1.png" tvg-id="srvk90x", Фильмы 90x
-http://s5.sr-vk.online/online/90x/index.m3u8?key=mh52pi_90x
-#EXTINF:0 tvg-name="Киностудия М. Горького HD"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/kinostudiya-m.-gorkogo-1.png" tvg-id="srvkgor", Киностудия М. Горького HD
-http://s5.sr-vk.online/online/gor/index.m3u8?key=mh52pi_gor
-#EXTINF:0 tvg-name="Милицейский канал"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/miliczejskij-kanal-1.png" tvg-id="srvkmentfilm", Милицейский канал
-http://s5.sr-vk.online/online/mentfilm/index.m3u8?key=mh52pi_mentfilm
-#EXTINF:0 tvg-name="Мос HD"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/mosfilm-1.png" tvg-id="srvkmosfilm", Мос HD
-http://s5.sr-vk.online/online/mosfilm/index.m3u8?key=mh52pi_mosfilm
-#EXTINF:0 tvg-name="Лен HD"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/lenfilm-1.png" tvg-id="srvklenfilm", Лен HD
-http://s5.sr-vk.online/online/lenfilm/index.m3u8?key=mh52pi_lenfilm
-#EXTINF:0 tvg-name="Мульт"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/mult-1.png" tvg-id="srvkmult", Мульт
-http://s5.sr-vk.online/online/mult/index.m3u8?key=mh52pi_mult
-#EXTINF:0 tvg-name="Cоветский дубляж"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/covetskij-dublyazh-1.png" tvg-id="srvkzarubez", Cоветский дубляж
-http://s5.sr-vk.online/online/zarubez/index.m3u8?key=mh52pi_zarubez
-#EXTINF:0 tvg-name="Беларусьфильм"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/04/belarusfilm-1.png" tvg-id="srvkbelarusfilm", Беларусьфильм
-http://s5.sr-vk.online/online/belarusfilm/index.m3u8?key=mh52pi_belarusfilm
-#EXTINF:0 tvg-name="Свердловская киностудия"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/07/sverdlovsk.png" tvg-id="srvksverdlovsk", Свердловская киностудия
-http://s5.sr-vk.online/online/sverdlovsk/index.m3u8?key=mh52pi_sverdlovsk
-#EXTINF:0 tvg-name="Рижская киностудия"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/07/riga.png" tvg-id="srvkriga", Рижская киностудия
-http://s5.sr-vk.online/online/riga/index.m3u8?key=mh52pi_riga
-#EXTINF:0 tvg-name="Одесская киностудия"  tvg-logo="http://sr-vk.online/wp-content/uploads/2021/07/odessa.png" tvg-id="srvkodessa", Одесская киностудия
-http://s5.sr-vk.online/online/odessa/index.m3u8?key=mh52pi_odessa
 
 #EXTINF:0,Советское кино HD
 #EXTGRP: Кино
