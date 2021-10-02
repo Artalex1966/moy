@@ -384,6 +384,9 @@ http://myradio24.org/8795
 #EXTINF:0,Record Chillout
 #EXTGRP: Релакс
 https://str2.pcradio.ru/record_chillout-med
+#EXTINF:0,Chillstep
+#EXTGRP: Релакс
+http://ic7.101.ru:8000/a260
 #EXTINF:0,Enigmatic Station 1 
 #EXTGRP: Релакс
 https://listen2.myradio24.com/8226
@@ -408,6 +411,9 @@ http://ic7.101.ru:8000/a175
 #EXTINF:0,Enigma2
 #EXTGRP: Релакс
 http://pub0302.101.ru:8000/stream/pro/aac/64/175
+#EXTINF:0,ENIGMATIC PARTY
+#EXTGRP: Релакс
+http://pub0202.101.ru:8000/stream/personal/aacp/64/459173
 #EXTINF:0,Enigma3
 #EXTGRP: Релакс
 https://str2.pcradio.ru/Enigma-med
@@ -417,6 +423,12 @@ https://a7.radioheart.ru:8044/newageradio?f32e
 #EXTINF:0,Ретро FM Сан-Ремо
 #EXTGRP: Релакс
 https://hls-01-sanremo.emgsound.ru/5/32/playlist.m3u8
+#EXTINF:0,Italo Disco
+#EXTGRP: Релакс
+http://pub0302.101.ru:8000/stream/pro/aac/64/161
+#EXTINF:0,Golden 70's 
+#EXTGRP: Релакс
+http://pub0302.101.ru:8000/stream/pro/aac/64/192
 #EXTINF:0,Relax International
 #EXTGRP: Релакс
 https://stream.relaxfm.ee/international
