@@ -18,7 +18,7 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:0,Россия 1 HD
 #EXTGRP: эфир
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+http://185.228.135.48:8080/tv_russia_1_hd/index.m3u8
 #EXTINF:0,Россия 1 HD2
 #EXTGRP: эфир
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
@@ -103,9 +103,9 @@ http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:0,Звезда Плюс
 #EXTGRP: Кино
 http://45.80.44.78:25001/play/a01g/index.m3u8
-#EXTINF:0,Звезда Плюс2
+#EXTINF:0,Звезда +2
 #EXTGRP: Кино
-http://45.80.44.93:25001/play/a01i/index.m3u8
+http://185.228.135.48:8080/tv_zvezda_sd_plus2/index.m3u8
 #EXTINF:0,Красная линия 
 #EXTGRP: Кино
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
@@ -152,9 +152,9 @@ http://cdntv.online/high/7jsu18ckd5/1095.m3u8
 #EXTGRP: Кино
 http://bitrix.powernet.com.ru/mosfilm/mpegts
 
-#EXTINF:0,USSR
+#EXTINF:0,Ретро
 #EXTGRP: Кино
-http://87.117.231.9/iptv/6CBBEEKZV5CG3E/11102/index.m3u8
+http://185.228.135.48:8080/tv_retro_tv_sd/index.m3u8
 
 #EXTINF:0,Советское кино HD
 #EXTGRP: Кино
@@ -233,7 +233,7 @@ http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
 http://178.163.33.215:81/udp/234.0.0.154:2000
 #EXTINF:-1,Кино ТВ2
 #EXTGRP: Кино
-http://45.80.44.93:25001/play/a01o/index.m3u8
+http://185.228.135.48:8080/tv_kino_tv_hd/index.m3u8
 #EXTINF:0,STR HD
 #EXTGRP: Кино
 https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
@@ -294,7 +294,10 @@ http://cdnhls.goodgame.ru/hls/180960.m3u8
 https://ed-nl-01.mycdn.video/docu/index.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP:Познавательное
-http://cdntv.online/high/7jsu18ckd5/343.m3u8
+http://185.228.135.48:8080/tv_nauka_2_0_sd/index.m3u8
+#EXTINF:0,Техно 24
+#EXTGRP:Познавательное
+http://185.228.135.48:8080/tv_t24_sd/index.m3u8
 #EXTINF:0, История
 #EXTGRP:Познавательное
 http://45.80.44.78:25001/play/a03m/index.m3u8
