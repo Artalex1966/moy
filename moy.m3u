@@ -126,7 +126,9 @@ http://109.239.128.126:8080/dom_kino/tracks-v2a1/mono.m3u8
 #EXTINF:0,Дом кино3
 #EXTGRP: Кино
 http://45.80.44.93:25001/play/a04r/index.m3u8
-
+#EXTINF:0,Дом Кино Премиум HD
+#EXTGRP: Кино
+http://185.228.135.48:8080/tv_dom_kino_premium_hd/index.m3u8
 
 #EXTINF:0,КИНО 1 INTERNATIONAL
 #EXTGRP: Кино
@@ -172,9 +174,7 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
 #EXTINF:0,наше любимое кино
 #EXTGRP: Кино
 http://37.99.5.235/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
-#EXTINF:0,FlixSnip
-#EXTGRP: Кино
-http://194.9.27.164:8108/play/FlixSnip/index.m3u8
+
 
 #EXTINF:0,FILM Блокбастер
 #EXTGRP: Кино
@@ -215,9 +215,6 @@ http://cn04.iptv.monster/play/368/74F5EB24725C911/video.m3u8
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38801/index.m3u8
-#EXTINF:0,BCU Fantastic HD
-#EXTGRP: Кино
-http://87.99.87.203:2020/channel/n3cd192c7/index.m3u8?q=5d9014a6fabf8f4303db649a8cf3a754
 
 #EXTINF:0,Кинопоказ
 #EXTGRP: Кино
