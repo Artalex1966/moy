@@ -147,11 +147,13 @@ https://autopilot.catcast.tv/content/38821/index.m3u8
 
 #EXTINF:0,Мосфильм. Золотая коллекция 1
 #EXTGRP: Кино
-http://cdntv.online/high/7jsu18ckd5/1095.m3u8
+http://109.239.128.126:8080/mosfilm/tracks-v2a1/mono.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция 2
 #EXTGRP: Кино
 http://bitrix.powernet.com.ru/mosfilm/mpegts
-
+#EXTINF:0,USSR HD
+#EXTGRP: Кино
+http://195.154.242.229/USSR_HD/video.m3u8?token=MXjzqOlW50
 #EXTINF:0,Ретро
 #EXTGRP: Кино
 http://185.228.135.48:8080/tv_retro_tv_sd/index.m3u8
@@ -167,6 +169,9 @@ https://ed-nl-01.mycdn.video/fresh/index.m3u8
 #EXTINF:0,Уже видел HD
 #EXTGRP: Кино
 https://ed-nl-01.mycdn.video/hit/index.m3u8
+#EXTINF:0,Ultra HD Cinema
+#EXTGRP: Кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
 
 #EXTINF:0,VIP Megahit
 #EXTGRP: Кино
@@ -198,6 +203,9 @@ https://autopilot.catcast.tv/content/38794/index.m3u8
 #EXTINF:0,Kinoklub
 #EXTGRP: Кино
 http://autopilot.catcast.tv/content/39005/index.m3u8
+#EXTINF:0,TOP HD
+#EXTGRP: Кино
+http://bae6a87b.rostelekom.xyz/iptv/BG47W2CRZRVSMZ/13006/index.m3u8
 
 #EXTINF:0,Мужское кино 
 #EXTGRP: Кино
@@ -309,10 +317,10 @@ http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 rtmp://minidey.cdnvideo.ru/minidey/minidey.sdp
 #EXTINF:0, Discovery Science HD
 #EXTGRP:Познавательное
-http://cache2.multiscreen.moldtelecom.md:80/live/eds/discovery_science_hd/HLSv3/discovery_science_hd.m3u8
+http://45.80.44.93:25022/play/a04m/index.m3u8
 #EXTINF:0, Discovery Science 1
 #EXTGRP:Познавательное
-http://cache2.multiscreen.moldtelecom.md/live/eds/discovery_science_hd/HLSv3/discovery_science_hd.m3u8
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/81615
 #EXTINF:0, Кто есть кто
 #EXTGRP:Познавательное
 http://45.80.44.93:25001/play/a043/index.m3u8
