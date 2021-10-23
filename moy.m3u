@@ -156,16 +156,6 @@ http://185.228.135.48:8080/tv_retro_tv_sd/index.m3u8
 #EXTGRP: Кино
 http://195.154.242.229/USSR_HD/video.m3u8?token=MXjzqOlW50
 
-#EXTINF:0,VF Мосфильм
-#EXTGRP: Кино
-http://bv1fjvp6.megogo.xyz/iptv/XRHSH39C84L3LP/10084/index.m3u
-#EXTINF:0,минимакс-ussr-комедия HD
-#EXTGRP: Кино
-http://bv1fjvp6.megogo.xyz/iptv/XRHSH39C84L3LP/13019/index.m3u
-#EXTINF:0,минимакс-ussr-фантастика HD
-#EXTGRP: Кино
-http://bv1fjvp6.megogo.xyz/iptv/XRHSH39C84L3LP/13022/index.m3u
-
 #EXTINF:0,Свежаки HD
 #EXTGRP: Кино
 https://ed-nl-01.mycdn.video/fresh/index.m3u8
