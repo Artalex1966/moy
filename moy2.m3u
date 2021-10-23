@@ -1,100 +1,85 @@
 #EXTM3U 
 
-#EXTINF:0,Blue Hustler 
-#EXTGRP: XXX TV
-http://194.9.27.164:8103/play/Blue_Hustler/index.m3u8
-#EXTINF:0,PlayBoy TV (Eng)
-#EXTGRP: XXX TV
-http://194.9.27.164:8103/play/Playboy_TV/index.m3u8
-#EXTINF:0,Redlight HD
-#EXTGRP: XXX TV
-http://cn04.iptv.monster/play/594/74F5EB24725C911/video.m3u8
-#EXTINF:0,Passion XXX
-#EXTGRP: XXX TV
-http://cn02.iptv.monster/play/596/74F5EB24725C911/video.m3u8
-#EXTINF:0,Exstasy HD 18+
-#EXTGRP: XXX TV
-http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
-#EXTINF:0,Brazzers TV
-#EXTGRP: XXX TV
-http://iptvhello.com/brazzers.m3u8
-#EXTINF:0,Barely legal (Eng)
-#EXTGRP: XXX TV
-http://194.9.27.164:8103/play/Barely_legal/index.m3u8
-#EXTINF:0,Erotic Sensations
-#EXTGRP: XXX TV
+#EXTINF:-1 group-title="Взрослые",Русская ночь
+http://46.174.83.66/Russkaya_Noch/mpegts
+#EXTINF:-1 group-title="Взрослые",XXX 1
+http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Взрослые",XXX 2
+http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Взрослые",Erotic Sensations
 http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-#EXTINF:0,FAP TV Teens HD
-#EXTGRP: XXX TV
-http://193.123.63.94:2021/channel/1dc7ce87/index.m3u8?q=e9cb169fc76c3064adfb44ed2b21e284
-
-
-#EXTINF:0,Adult Channel [Russian]
-#EXTGRP: XXX TV
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:0,Big Ass HD
-#EXTGRP: XXX TV
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigass.m3u8
-#EXTINF:0,Big Dick
-#EXTGRP: XXX TV
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigdick.m3u8
-#EXTINF:0,Big Tits
-#EXTGRP: XXX TV
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigtits.m3u8
-#EXTINF:0,Cuckold
-#EXTGRP: XXX TV
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/cuckold.m3u8
-#EXTINF:0,Hardcore
-#EXTGRP: XXX TV
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/hardcore.m3u8
-#EXTINF:0,Milf
-#EXTGRP: XXX TV
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/milf.m3u8
-#EXTINF:0,Gangbang
-#EXTGRP: XXX TV
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:0, MILF
-#EXTGRP: XXX TV
+#EXTINF:-1 group-title="Взрослые",Fetish Factory
+http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+#EXTINF:-1 group-title="Взрослые",Babestation
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+#EXTINF:-1 group-title="Взрослые",VISIT-X
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="Взрослые",Extasy/LeoTV HD 
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+#EXTINF:-1 group-title="Взрослые",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="Взрослые",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="Взрослые",Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="Взрослые",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="Взрослые",Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="Взрослые",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="Взрослые",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="Взрослые",Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="Взрослые",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="Взрослые",POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="Взрослые",Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="Взрослые",Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="Взрослые",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="Взрослые",Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="Взрослые",Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="Взрослые",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="Взрослые",MILF
 http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:0,Threesome HD
-#EXTGRP: XXX TV
-http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:0,AST TV HD
-#EXTGRP: XXX TV
-https://www.ast.tv/stream/1/high.m3u8
-#EXTINF:0,Shemale Tube TV 2
-#EXTGRP: XXX TV
-http://www.ast.tv/stream/2/master.m3u8
-
-#EXTINF:0,Pink Erotic
-#EXTGRP: XXX TV
-http://91.212.150.248:80/PinkErotic1/index.m3u8
-#EXTINF:0,Pink Erotic2
-#EXTGRP: XXX TV
-http://91.212.150.248:80/PinkErotic2/index.m3u8
-#EXTINF:0,Pink Erotic3
-#EXTGRP: XXX TV
-http://91.212.150.248:80/PinkErotic3/index.m3u8
-#EXTINF:0,Pink Erotic4
-#EXTGRP: XXX TV
-http://91.212.150.248:80/PinkErotic4/index.m3u8
-#EXTINF:0,Pink Erotic5
-#EXTGRP: XXX TV
-http://91.212.150.248:80/PinkErotic5/index.m3u8
-#EXTINF:0,Pink Erotic6
-#EXTGRP: XXX TV
-http://91.212.150.248:80/PinkErotic6/index.m3u8
-#EXTINF:0,Pink Erotic7
-#EXTGRP: XXX TV
-http://91.212.150.248:80/PinkErotic7/index.m3u8
-#EXTINF:0,Pink Erotic8
-#EXTGRP: XXX TV
-http://91.212.150.248:80/PinkErotic8/index.m3u8
-#EXTINF:0, Redlight HD
-#EXTGRP: XXX TV
-http://213.59.136.29:55555/udp/239.254.3.93:1234
-
-
+#EXTINF:-1 group-title="Взрослые",Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="Взрослые",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="Взрослые",Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="Взрослые",Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 group-title="Взрослые",Bigass HD
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 group-title="Взрослые",Cuckold HD
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="Взрослые",Fetish HD
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 group-title="Взрослые",Hard Core
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 group-title="Взрослые",Interracial HD
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 group-title="Взрослые",Latina HD 720
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 group-title="Взрослые",Lesbian HD
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 group-title="Взрослые",Milf HD
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 group-title="Взрослые",Pornstar HD
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title="Взрослые",POV HD 720
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 group-title="Взрослые",Man2Man
+http://www.filmon.com/vr-streams/6155.high/playlist.m3u8
 
 
 
