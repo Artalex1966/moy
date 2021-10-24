@@ -367,9 +367,9 @@ http://ott.inmart.tv:8081/17/index.m3u8
 #EXTINF:0,Перший Незалежний
 #EXTGRP: эфир
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-EXTINF:0,CS
+#EXTINF:0,CS
 #EXTGRP: эфир
-https://hls.goodgame.ru/hls/109147.m3u8
+https://usher.ttvnw.net/api/channel/hls/prygsk0k.m3u8?allow_source=true&fast_bread=true&p=1584459&play_session_id=ab5f07d623fd1647183422b11363312d&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=c61aa0686a6713c4fe0ce64eda445ee2a0ff2da2&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22prygsk0k%22%2C%22channel_id%22%3A471297891%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22VUhpwSB5ySjEcrz32dxaZp5CM2K7nwIJ%22%2C%22expires%22%3A1635048621%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site_mini%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22195.78.100.186%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.6.0
 
 #EXTINF:0,русская ночь
 #EXTGRP: Познавательное
