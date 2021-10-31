@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Discovery Channel HD
-http://46.34.209.244:80/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
-#EXTINF:-1,Discovery Channel FHD
-http://46.34.209.244:80/btv/SWM/discovery_hd/discovery_hd_1080p_5000kbps.m3u8
-#EXTINF:-1,Discovery Channel
-http://80.76.245.198:12284/33
-#EXTINF:-1,Discovery Science
-http://cache2.multiscreen.moldtelecom.md:80/live/eds/discovery_science_hd/HLSv3/discovery_science_hd.m3u8
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
 http://autopilot.catcast.tv/content/37739/index.m3u8
@@ -472,3 +464,5 @@ https://autopilot.catcast.tv/content/39696/index.m3u8
 #EXTINF:0,TRANCE IS STAR TV
 #EXTGRP: Музыка
 https://tis.catcast.tv/content/391/index.m3u8
+
+#EXTINF:0,Конец
