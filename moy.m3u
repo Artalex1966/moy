@@ -1,4 +1,8 @@
-#EXTM3U
+#EXTM3U url-tvg="http://epg.iptvx.tv/xmltv.xml.gz" catchup-type="shift"
+url-tvg="http://epg.tvfor.pro/epgtv.xml" timeshift="-1"
+url-tvg="https://fluxhd.ru/epg.xml"
+
+
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
 http://autopilot.catcast.tv/content/37739/index.m3u8
@@ -374,6 +378,12 @@ https://hls.goodgame.ru/hls/109147.m3u8
 #EXTINF:0,русская ночь
 #EXTGRP: Познавательное
 http://46.174.83.66/Russkaya_Noch/mpegts
+#EXTINF:0,Hustler HD Europe
+#EXTGRP: Познавательное
+http://51.15.0.141:88/hustlerhd/index.m3u8
+#EXTINF:0,Hustler TV
+#EXTGRP: Познавательное
+http://78.83.191.18:8000/play/a078
 
 ----
 
