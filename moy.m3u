@@ -94,7 +94,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 #EXTINF:0,Победа
 #EXTGRP: Кино
-http://37.99.5.234/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
 #EXTINF:0,День Победы HD
 #EXTGRP: Кино
 http://bv1fjvp6.megogo.xyz/iptv/XRHSH39C84L3LP/5054/index.m3u
@@ -113,9 +113,9 @@ https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: Кино
 http://cdnmg.secure.live.rtr-vesti.ru/hls/doverie/playlist_2.m3u8
-#EXTINF:0,Москва Доверие2
+#EXTINF:0,Время
 #EXTGRP: Кино
-http://83.97.111.172:4022/udp/224.0.45.89:1234?token=zi-1008
+http://46.34.209.243:80/btv/SWM/Vremya/Vremya_576p_2000kbps.m3u8
 
 
 #EXTINF:0,Дом кино
@@ -142,9 +142,9 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Память
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38821/index.m3u8
-#EXTINF:0,Память 2
+#EXTINF:0,ХИТ
 #EXTGRP: Кино
-https://autopilot.catcast.tv/content/38821/index.m3u8
+https://ed-nl-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Мосфильм. Золотая коллекция 1
 #EXTGRP: Кино
@@ -156,14 +156,28 @@ http://185.228.135.48:8080/tv_retro_tv_sd/index.m3u8
 #EXTINF:0,USSR
 #EXTGRP: Кино
 http://195.154.242.229/USSR_HD/video.m3u8?token=MXjzqOlW50
-
-
-#EXTINF:0,Свежаки HD
+#EXTINF:0,Cinema
 #EXTGRP: Кино
-https://ed-nl-01.mycdn.video/fresh/index.m3u8
-#EXTINF:0,Уже видел HD
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:0,Мужское кино 
 #EXTGRP: Кино
-https://ed-nl-01.mycdn.video/hit/index.m3u8
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+#EXTINF:0,Мужское кино 2
+#EXTGRP: Кино
+http://136.243.176.84/MUJSKOE_KINO/tracks-v1a1/mono.m3u8
+#EXTINF:0,Кинопремьера
+#EXTGRP: Кино
+https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
+#EXTINF:0,Кинопремьера HD
+#EXTGRP: Кино
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+
+#EXTINF:0,STR TV
+#EXTGRP: Кино
+https://strtv.at.ua/hls/index.m3u8
+#EXTINF:0,Blue Crabs TV
+#EXTGRP: Кино
+http://stream-norst.cf:8080/crabs/index.m3u8
 #EXTINF:0,Ultra HD Cinema
 #EXTGRP: Кино
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
@@ -171,9 +185,27 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m
 #EXTINF:0,VIP Megahit
 #EXTGRP: Кино
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1 ,VIP Serial
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:-1 ,VIP Premiere
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:-1 ,VIP Megahit
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1 ,VIP Comedy
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:-1 ,TV1000 HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:-1 ,TV1000 Action HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1 ,TV1000 Kino
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
 #EXTINF:0,наше любимое кино
 #EXTGRP: Кино
 http://37.99.5.235/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
+
+#EXTINF:0,STR HD
+#EXTGRP: Кино
+https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
 
 
 #EXTINF:0,FILM Блокбастер
@@ -202,18 +234,7 @@ http://autopilot.catcast.tv/content/39005/index.m3u8
 #EXTGRP: Кино
 http://bae6a87b.rostelekom.xyz/iptv/BG47W2CRZRVSMZ/13006/index.m3u8
 
-#EXTINF:0,Мужское кино 
-#EXTGRP: Кино
-https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
-#EXTINF:0,Мужское кино 2
-#EXTGRP: Кино
-http://136.243.176.84/MUJSKOE_KINO/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинопремьера
-#EXTGRP: Кино
-https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
-#EXTINF:0,Остросюжетное HD
-#EXTGRP: Кино
-http://cn04.iptv.monster/play/368/74F5EB24725C911/video.m3u8
+
 
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
@@ -237,15 +258,31 @@ http://178.163.33.215:81/udp/234.0.0.154:2000
 #EXTINF:-1,Кино ТВ2
 #EXTGRP: Кино
 http://185.228.135.48:8080/tv_kino_tv_hd/index.m3u8
-#EXTINF:-1,Кино ТВ3
+
+#EXTINF:-1 group-title="Кино",Paradise HD
+http://195.154.242.229/Paradise_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1 group-title="Кино",Paradox HD
+http://195.154.242.229/Paradox_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1 group-title="Кино",Premiere HD
+http://195.154.242.229/Premiere_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1 group-title="Кино",Premium HD
+http://195.154.242.229/Premium_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1 group-title="Кино",Serial HD
+http://195.154.242.229/Serial_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1 group-title="Кино",Thriller HD
+http://195.154.242.229/Thriller_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1 group-title="Кино",Victory HD
+http://195.154.242.229/Victory_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1 group-title="Кино",РуКино HD
+http://195.154.242.229/RuKino_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1 group-title="Кино",VHS HD
+http://195.154.242.229/VHS_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1 group-title="Кино",USSR HD
+http://195.154.242.229/USSR_HD/video.m3u8?token=MXjzqOlW50
+
 #EXTGRP: Кино
 http://cdn.ottcdn.online/high/2kts9jlxe5/117.m3u8
-#EXTINF:0,STR HD
-#EXTGRP: Кино
-https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
-#EXTINF:0,Cinema
-#EXTGRP: Кино
-https://sc.id-tv.kz/Cinema_34_35.m3u8
+
 
 #EXTINF:0,ДИСНЕЙ
 #EXTGRP: Детский
@@ -310,12 +347,12 @@ http://45.80.44.78:25001/play/a03m/index.m3u8
 #EXTINF:0, Министерство идей
 #EXTGRP:Познавательное
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-#EXTINF:0, Министерство идей2
+#EXTINF:0, Discovery Channel FHD
 #EXTGRP:Познавательное
-rtmp://minidey.cdnvideo.ru/minidey/minidey.sdp
+http://46.34.209.243:80/btv/SWM/discovery_hd/discovery_hd_1080p_5000kbps.m3u8
 #EXTINF:0, Discovery Science HD
 #EXTGRP:Познавательное
-http://45.80.44.93:25022/play/a04m/index.m3u8
+http://185.228.135.48:8080/tv_discovery_science_sd/index.m3u8
 #EXTINF:0, Discovery Science 1
 #EXTGRP:Познавательное
 http://satlok.xyz:8000/NEZZ18/NEZZ1805/81615
@@ -369,9 +406,12 @@ http://ott.inmart.tv:8081/17/index.m3u8
 #EXTINF:0,Перший Незалежний
 #EXTGRP: эфир
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-EXTINF:0,CS
+EXTINF:0,E
 #EXTGRP: эфир
-https://hls.goodgame.ru/hls/109147.m3u8
+http://194.146.190.241:4000/play/a01y/index.m3u8
+EXTINF:0,E HD
+#EXTGRP: эфир
+http://185.228.135.48:8080/tv_game_show_sd/index.m3u8
 
 #EXTINF:0,русская ночь
 #EXTGRP: Познавательное
