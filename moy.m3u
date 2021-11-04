@@ -1,6 +1,6 @@
-#EXTM3U url-tvg="http://epg.iptvx.tv/xmltv.xml.gz" catchup-type="shift"
-url-tvg="http://epg.tvfor.pro/epgtv.xml" timeshift="-1"
-url-tvg="https://fluxhd.ru/epg.xml"
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
+url-tvg="http://iptvx.one/epg/epg_lite.xml.gz"
+url-tvg="http://programtv.ru/xmltv.xml.gz"
 
 
 #EXTINF:0,Музыка Кино
