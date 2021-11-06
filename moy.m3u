@@ -86,7 +86,7 @@ http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TSM/variant.m3u8?
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
 #EXTINF:0,ТВ Центр 
 #EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8?version=2
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
 
 #EXTINF:0,Известия ТВ FHD
 #EXTGRP: Познавательное
@@ -94,7 +94,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 #EXTINF:0,Победа
 #EXTGRP: Кино
-https://sc.id-tv.kz/Pobeda_34_35.m3u8
+http://185.228.135.48:8080/tv_pobeda_sd/index.m3u8
 #EXTINF:0,День Победы HD
 #EXTGRP: Кино
 http://bv1fjvp6.megogo.xyz/iptv/XRHSH39C84L3LP/5054/index.m3u
@@ -142,9 +142,9 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Память
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38821/index.m3u8
-#EXTINF:0,ХИТ
+#EXTINF:0,Akudji HD
 #EXTGRP: Кино
-https://ed-nl-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
+http://hls.goodgame.ru/hls/5346.m3u8
 
 #EXTINF:0,Мосфильм. Золотая коллекция 1
 #EXTGRP: Кино
@@ -159,6 +159,9 @@ http://195.154.242.229/USSR_HD/video.m3u8?token=MXjzqOlW50
 #EXTINF:0,Cinema
 #EXTGRP: Кино
 https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:0,Cinema.2
+#EXTGRP: Кино
+http://46.34.209.242:80/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
 #EXTINF:0,Мужское кино 
 #EXTGRP: Кино
 https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
@@ -178,6 +181,9 @@ https://strtv.at.ua/hls/index.m3u8
 #EXTINF:0,Blue Crabs TV
 #EXTGRP: Кино
 http://stream-norst.cf:8080/crabs/index.m3u8
+#EXTINF:0,TV Pro
+#EXTGRP: Кино
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:0,Ultra HD Cinema
 #EXTGRP: Кино
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
