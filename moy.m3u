@@ -129,7 +129,7 @@ http://46.174.83.66/Dom_Kino/mpegts
 http://212.76.29.27/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
 #EXTINF:0,Дом Кино Премиум HD
 #EXTGRP: Кино
-http://185.228.135.48:8080/tv_dom_kino_premium_hd/index.m3u8
+https://sc.id-tv.kz/domkino_hd_38_39.m3u8
 
 #EXTINF:0,КИНО 1 INTERNATIONAL
 #EXTGRP: Кино
@@ -145,6 +145,9 @@ https://v2.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,Akudji HD
 #EXTGRP: Кино
 http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:0,КИНОКЛУБ
+#EXTGRP: Кино
+https://autopilot.catcast.tv/content/39005/index.m3u8
 
 #EXTINF:0,Мосфильм. Золотая коллекция 1
 #EXTGRP: Кино
@@ -184,10 +187,16 @@ http://stream-norst.cf:8080/crabs/index.m3u8
 #EXTINF:0,TV Pro
 #EXTGRP: Кино
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:0,Свежаки HD
+#EXTGRP: Кино
+https://ed-nl-01.mycdn.video/fresh/index.m3u8
+#EXTINF:0,Уже видел HD
+#EXTGRP: Кино
+https://ed-nl-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,Ultra HD Cinema
 #EXTGRP: Кино
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
-
 #EXTINF:0,VIP Megahit
 #EXTGRP: Кино
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
@@ -265,29 +274,6 @@ http://178.163.33.215:81/udp/234.0.0.154:2000
 #EXTGRP: Кино
 http://185.228.135.48:8080/tv_kino_tv_hd/index.m3u8
 
-#EXTINF:-1 group-title="Кино",Paradise HD
-http://195.154.242.229/Paradise_HD/video.m3u8?token=MXjzqOlW50
-#EXTINF:-1 group-title="Кино",Paradox HD
-http://195.154.242.229/Paradox_HD/video.m3u8?token=MXjzqOlW50
-#EXTINF:-1 group-title="Кино",Premiere HD
-http://195.154.242.229/Premiere_HD/video.m3u8?token=MXjzqOlW50
-#EXTINF:-1 group-title="Кино",Premium HD
-http://195.154.242.229/Premium_HD/video.m3u8?token=MXjzqOlW50
-#EXTINF:-1 group-title="Кино",Serial HD
-http://195.154.242.229/Serial_HD/video.m3u8?token=MXjzqOlW50
-#EXTINF:-1 group-title="Кино",Thriller HD
-http://195.154.242.229/Thriller_HD/video.m3u8?token=MXjzqOlW50
-#EXTINF:-1 group-title="Кино",Victory HD
-http://195.154.242.229/Victory_HD/video.m3u8?token=MXjzqOlW50
-#EXTINF:-1 group-title="Кино",РуКино HD
-http://195.154.242.229/RuKino_HD/video.m3u8?token=MXjzqOlW50
-#EXTINF:-1 group-title="Кино",VHS HD
-http://195.154.242.229/VHS_HD/video.m3u8?token=MXjzqOlW50
-#EXTINF:-1 group-title="Кино",USSR HD
-http://195.154.242.229/USSR_HD/video.m3u8?token=MXjzqOlW50
-
-#EXTGRP: Кино
-http://cdn.ottcdn.online/high/2kts9jlxe5/117.m3u8
 
 
 #EXTINF:0,ДИСНЕЙ
@@ -401,6 +387,9 @@ http://hls.goodgame.ru/hls/33226.m3u8
 #EXTINF:0,Блог 3
 #EXTGRP: Блог
 http://hls.goodgame.ru/hls/71852.m3u8
+#EXTINF:0,ДВ STREAM
+#EXTGRP: Блог
+http://hls.goodgame.ru/hls/54105.m3u8
 
 ----
 #EXTINF:0,Оплот
@@ -413,10 +402,10 @@ http://ott.inmart.tv:8081/17/index.m3u8
 #EXTGRP: эфир
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 EXTINF:0,E
-#EXTGRP: эфир
+#EXTGRP: Познавательное
 http://194.146.190.241:4000/play/a01y/index.m3u8
 EXTINF:0,E HD
-#EXTGRP: эфир
+#EXTGRP: Познавательное
 http://185.228.135.48:8080/tv_game_show_sd/index.m3u8
 
 #EXTINF:0,русская ночь
@@ -428,6 +417,28 @@ http://51.15.0.141:88/hustlerhd/index.m3u8
 #EXTINF:0,Hustler TV
 #EXTGRP: Познавательное
 http://78.83.191.18:8000/play/a078
+#EXTINF:0,Exstasy
+#EXTGRP: Познавательное
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+#EXTINF:0,Rough
+#EXTGRP: Познавательное
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:0,Gangbang
+#EXTGRP: Познавательное
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:0,Gangbang
+#EXTGRP: Познавательное
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:0,Cuckold
+#EXTGRP: Познавательное
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:0,MILF
+#EXTGRP: Познавательное
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:0,Big Dick
+#EXTGRP: Познавательное
+http://cdn.adultiptv.net/bigdick.m3u8
+
 
 ----
 
