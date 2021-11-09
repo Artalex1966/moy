@@ -401,10 +401,10 @@ http://ott.inmart.tv:8081/17/index.m3u8
 #EXTINF:0,Перший Незалежний
 #EXTGRP: эфир
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-EXTINF:0,E
+#EXTINF:0,E
 #EXTGRP: Познавательное
 http://194.146.190.241:4000/play/a01y/index.m3u8
-EXTINF:0,E HD
+#EXTINF:0,E HD
 #EXTGRP: Познавательное
 http://185.228.135.48:8080/tv_game_show_sd/index.m3u8
 
