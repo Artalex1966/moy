@@ -88,7 +88,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?versio
 #EXTGRP: эфир
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
 
-#EXTINF:0,Известия ТВ FHD
+#EXTINF:0,Известия ТВ
 #EXTGRP: Познавательное
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
@@ -260,10 +260,10 @@ https://v2.catcast.tv/content/38801/index.m3u8
 http://91.221.201.2:7006/play/a002/index.m3u8?em9uYS1pcHR2LnJ1
 #EXTINF:0,Киномикс
 #EXTGRP: Кино
-http://45.80.44.93:25001/play/a04e/index.m3u8
+https://sc.id-tv.kz/Kinomix_hd_38_39.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-http://109.239.128.126:8080/kinohit/tracks-v1a1/mono.m3u8
+https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
 http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
@@ -540,8 +540,15 @@ https://autopilot.catcast.tv/content/39696/index.m3u8
 #EXTINF:0,TRANCE IS STAR TV
 #EXTGRP: Музыка
 https://tis.catcast.tv/content/391/index.m3u8
+#EXTINF:0,Чилл музыка
+#EXTGRP: Музыка
+https://youtu.be/zPNi78sVbio
 #EXTINF:0,Crypto Music
 #EXTGRP: Музыка
-https://www.youtube.com/watch?v=_daTfgc4u3k
+https://youtu.be/_daTfgc4u3k
+#EXTINF:0,трансляция СОВЕТСКИХ ФИЛЬМОВ
+#EXTGRP: Музыка
+https://youtu.be/5jpAyWmmB08
+
 
 #EXTINF:0,Конец
