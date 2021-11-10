@@ -97,7 +97,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 http://185.228.135.48:8080/tv_pobeda_sd/index.m3u8
 #EXTINF:0,День Победы HD
 #EXTGRP: Кино
-http://bv1fjvp6.megogo.xyz/iptv/XRHSH39C84L3LP/5054/index.m3u
+https://my.teleelevidenie.com/play/hls-custom-c1432-te548c4888657447f657fca2ade27cbdc2132cd1e11ac405e437d7141b876943a.m3u8
 #EXTINF:0,Звезда
 #EXTGRP: Кино
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
@@ -159,6 +159,15 @@ http://185.228.135.48:8080/tv_retro_tv_sd/index.m3u8
 #EXTINF:0,USSR
 #EXTGRP: Кино
 http://195.154.242.229/USSR_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:0,TOP USSR HD
+#EXTGRP: Кино
+http://97c7f0af.rossteleccom.net/iptv/VPL7BGBCQL8CMU/13005/index.m3u8
+#EXTINF:0,BTV Киносказка СССР
+#EXTGRP: Кино
+http://97c7f0af.rossteleccom.net/iptv/VPL7BGBCQL8CMU/15050/index.m3u8
+#EXTINF:0,BTV Дубляж СССР
+#EXTGRP: Кино
+http://97c7f0af.rossteleccom.net/iptv/VPL7BGBCQL8CMU/15079/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: Кино
 https://sc.id-tv.kz/Cinema_34_35.m3u8
@@ -245,15 +254,23 @@ https://autopilot.catcast.tv/content/38794/index.m3u8
 #EXTINF:0,Kinoklub
 #EXTGRP: Кино
 http://autopilot.catcast.tv/content/39005/index.m3u8
-#EXTINF:0,TOP HD
+#EXTINF:0,КІНОЗАЛ Ginx
 #EXTGRP: Кино
-http://bae6a87b.rostelekom.xyz/iptv/BG47W2CRZRVSMZ/13006/index.m3u8
-
+https://autopilot.catcast.tv/content/39161/index.m3u8
+#EXTINF:0,BTV Друзья
+#EXTGRP: Кино
+http://batonsdn.gq:8080/0153/video.m3u8?token=tsn1979
 
 
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
 https://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:0,ФАНТАСТИКА HD
+#EXTGRP: Кино
+http://cdnhls.goodgame.ru/hls/187241.m3u8?|user-agent=rostik_tv
+#EXTINF:0,BTV Фантастика 4К
+#EXTGRP: Кино
+http://batonsdn.gq:8080/0148/video.m3u8?token=tsn1979
 
 #EXTINF:0,Кинопоказ
 #EXTGRP: Кино
@@ -282,17 +299,18 @@ https://s91412.cdn.ngenix.net/mdrm/CH_DISNEY/variant.m3u8?version=2
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
 http://37.99.5.235:80/btv/SWM/DetskyMir/DetskyMir_576p_2000kbps.m3u8
-
+#EXTINF:0,O!
+#EXTGRP: Детский
+https://sc.id-tv.kz/o_34_35.m3u8
 #EXTINF:0,Мультсказки
 #EXTGRP: Детский
 https://autopilot.catcast.tv/content/38850/index.m3u8
 #EXTINF:0,В Гостях у Сказки
 #EXTGRP: Кино
 http://87.247.44.26/btv/SWM/U_Skazki/U_Skazki_576p_2000kbps.m3u8
-
-#EXTINF:0,МультСказки
+#EXTINF:0,BTV Чудеса на виражах
 #EXTGRP: Кино
-https://autopilot.catcast.tv/content/38850/index.m3u8
+http://batonsdn.gq:8080/0076/video.m3u8?token=tsn1979
 
 
 #EXTINF:0,Твоё ТВ HD
@@ -329,7 +347,7 @@ http://cdnhls.goodgame.ru/hls/180960.m3u8
 https://ed-nl-01.mycdn.video/docu/index.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP:Познавательное
-http://185.228.135.48:8080/tv_nauka_2_0_sd/index.m3u8
+http://ott-cdn.ucom.am/s98/04.m3u8
 #EXTINF:0,Техно 24
 #EXTGRP:Познавательное
 http://185.228.135.48:8080/tv_t24_sd/index.m3u8
@@ -390,6 +408,15 @@ http://hls.goodgame.ru/hls/71852.m3u8
 #EXTINF:0,ДВ STREAM
 #EXTGRP: Блог
 http://hls.goodgame.ru/hls/54105.m3u8
+#EXTINF:0,МОЖи ТВ
+#EXTGRP: Блог
+https://hls.goodgame.ru/hls/32491.m3u8
+#EXTINF:0,Кинозал Шарий сериалы?
+#EXTGRP: Блог
+https://hls.goodgame.ru/hls/71852.m3u8
+#EXTINF:0,Антимайдан HD
+#EXTGRP: Блог
+https://hls.goodgame.ru/hls/6147_720.m3u8
 
 ----
 #EXTINF:0,Оплот
@@ -520,6 +547,9 @@ https://hls-01-sanremo.emgsound.ru/5/32/playlist.m3u8
 #EXTINF:0,Italo Disco
 #EXTGRP: Релакс
 http://pub0302.101.ru:8000/stream/pro/aac/64/161
+#EXTINF:0,Smash Italia Radio
+#EXTGRP: Музыка
+http://s3.smashmalta.com:82/live/smash/smash/36.ts
 #EXTINF:0,Golden 70's 
 #EXTGRP: Релакс
 http://pub0302.101.ru:8000/stream/pro/aac/64/192
