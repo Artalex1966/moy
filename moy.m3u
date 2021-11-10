@@ -484,6 +484,15 @@ https://listen2.myradio24.com/8795
 #EXTINF:0,Enigmatic Sunshine
 #EXTGRP: Релакс
 http://radio.enigmatic.su:8120/radio
+#EXTINF:0,chillfm.ro
+#EXTGRP: Релакс
+https://edge126.rcs-rds.ro/profm/chillfm.mp3
+#EXTINF:0,Lounge FM - Chill Out
+#EXTGRP: Релакс
+http://cast.loungefm.com.ua/chillout128
+#EXTINF:0,Maretimo Chill Radio
+#EXTGRP: Релакс
+https://s35.derstream.net/chillradio.mp3
 #EXTINF:0,Chill
 #EXTGRP: Релакс
 http://dfm.hostingradio.ru/spoknochi96.aacp
@@ -531,5 +540,8 @@ https://autopilot.catcast.tv/content/39696/index.m3u8
 #EXTINF:0,TRANCE IS STAR TV
 #EXTGRP: Музыка
 https://tis.catcast.tv/content/391/index.m3u8
+#EXTINF:0,Crypto Music
+#EXTGRP: Музыка
+https://www.youtube.com/watch?v=_daTfgc4u3k
 
 #EXTINF:0,Конец
