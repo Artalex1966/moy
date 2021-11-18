@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
+﻿#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
 url-tvg="http://iptvx.one/epg/epg_lite.xml.gz"
 url-tvg="http://programtv.ru/xmltv.xml.gz"
 #EXTINF:0,Музыка Кино
@@ -132,43 +132,23 @@ https://autopilot.catcast.tv/content/40660/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: Кино
 http://78.58.133.179:28000/play/a027/index.m3u8
-#EXTINF:0,BTV Леонид Гайдай
-#EXTGRP: Кино
-http://97c7f0af.rossteleccom.net/iptv/VPL7BGBCQL8CMU/14089/index.m3u8
-
-#EXTINF:0,Ретро
-#EXTGRP: Кино
-http://97c7f0af.rossteleccom.net/iptv/MBGKPLFWBX6642/9152/index.m3u8
-#EXTINF:0,USSR
-#EXTGRP: Кино
-http://195.154.242.229/USSR_HD/video.m3u8?token=MXjzqOlW50
-#EXTINF:0,TOP USSR HD
-#EXTGRP: Кино
-http://97c7f0af.rossteleccom.net/iptv/VPL7BGBCQL8CMU/13005/index.m3u8
-#EXTINF:0,BTV Киносказка СССР
-#EXTGRP: Кино
-http://97c7f0af.rossteleccom.net/iptv/VPL7BGBCQL8CMU/15050/index.m3u8
-#EXTINF:0,BTV BTV Боевики CCCP
-#EXTGRP: Кино
-http://97c7f0af.rossteleccom.net/iptv/VPL7BGBCQL8CMU/15029/index.m3u8
 #EXTINF:0,BTV Сделано в СССР
 #EXTGRP: Кино
-http://97c7f0af.rossteleccom.net/iptv/VPL7BGBCQL8CMU/14039/index.m3u8
-#EXTINF:0,BTV Дубляж СССР
+http://batonsdn.gq:8080/0058/video.m3u8?token=tsn1979
+#EXTINF:0,BTV Киносказка СССР
 #EXTGRP: Кино
-http://97c7f0af.rossteleccom.net/iptv/VPL7BGBCQL8CMU/15079/index.m3u8
-#EXTINF:0,BTV BTV Фантастика CCCР
+http://batonsdn.gq:8080/0155/video.m3u8?token=tsn1979
+#EXTINF:0,BTV Фантастика 4К
 #EXTGRP: Кино
-http://97c7f0af.rossteleccom.net/iptv/VPL7BGBCQL8CMU/15060/index.m3u8
-#EXTINF:0,YOSSO TV Советские фильмы
+http://batonsdn.gq:8080/0148/video.m3u8?token=tsn1979
+#EXTINF:0,BTV Друзья
 #EXTGRP: Кино
-http://97c7f0af.rossteleccom.net/iptv/VPL7BGBCQL8CMU/14175/index.m3u8
-#EXTINF:0,Dosug СССР HD
+http://batonsdn.gq:8080/0153/video.m3u8?token=tsn1979
+#EXTINF:0,BTV Семейные комедии HD
 #EXTGRP: Кино
-http://97c7f0af.rossteleccom.net/iptv/VPL7BGBCQL8CMU/14218/index.m3u8
-#EXTINF:0,YOSSO BEST
-#EXTGRP: Кино
-http://97c7f0af.rossteleccom.net/iptv/VPL7BGBCQL8CMU/14236/index.m3u8
+http://batonsdn.gq:8080/0038/video.m3u8?token=tsn1979
+
+
 #EXTINF:0,Cinema
 #EXTGRP: Кино
 https://sc.id-tv.kz/Cinema_34_35.m3u8
@@ -187,9 +167,6 @@ https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
 #EXTINF:0,Кинопремьера HD
 #EXTGRP: Кино
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:0,РORTAL FOXMIX TV
-#EXTGRP: Кино
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
 
 #EXTINF:0,STR TV
 #EXTGRP: Кино
@@ -261,10 +238,6 @@ http://autopilot.catcast.tv/content/39005/index.m3u8
 #EXTINF:0,КІНОЗАЛ Ginx
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/39161/index.m3u8
-#EXTINF:0,BTV Друзья
-#EXTGRP: Кино
-http://batonsdn.gq:8080/0153/video.m3u8?token=tsn1979
-
 
 #EXTINF:0,Фантастика
 #EXTGRP: Кино
@@ -272,9 +245,7 @@ https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:0,ФАНТАСТИКА HD
 #EXTGRP: Кино
 http://cdnhls.goodgame.ru/hls/187241.m3u8?|user-agent=rostik_tv
-#EXTINF:0,BTV Фантастика 4К
-#EXTGRP: Кино
-http://batonsdn.gq:8080/0148/video.m3u8?token=tsn1979
+
 
 #EXTINF:0,Кинопоказ
 #EXTGRP: Кино
@@ -319,13 +290,6 @@ http://195.158.220.35:8000/play/a0lt/index.m3u8
 #EXTGRP: Кино
 http://batonsdn.gq:8080/0076/video.m3u8?token=tsn1979
 
-
-#EXTINF:0,Твоё ТВ HD
-#EXTGRP: Кино
-http://stream-norst.cf:8080/tvoetv/index.m3u8
-#EXTINF:0,ВСЁ ВКЛЮЧЕНО
-#EXTGRP: Кино
-https://v2.catcast.tv/content/39161/index.m3u8
 
 
 #EXTINF:0,Premium кино
@@ -416,15 +380,6 @@ http://46.34.209.244:80/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
 #EXTINF:0,Оружие
 #EXTGRP:Познавательное
 http://97c7f0af.rossteleccom.net/iptv/MBGKPLFWBX6642/2087/index.m3u8
-#EXTINF:0,ЗАГОРОДНАЯ ЖИЗНЬ HD
-#EXTGRP:Познавательное
-http://217.79.21.43:81/udp/234.0.0.115:2000?zi/
-#EXTINF:0,Бобер
-#EXTGRP:Познавательное
-http://188.113.190.12/131/video.m3u8
-EXTINF:0,BTV Мистика Док HD
-#EXTGRP:Познавательное
-http://97c7f0af.rossteleccom.net/iptv/VPL7BGBCQL8CMU/14077/index.m3u8
 
 ----
 
@@ -518,7 +473,7 @@ https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 
 #EXTINF:0,Атмосфера
 #EXTGRP: Релакс
-https://str2.pcradio.ru/atmoradio_ru-med
+https://listen5.myradio24.com/atmo
 #EXTINF:0,Esoterica FM Gregorian Chants
 #EXTGRP: Релакс
 https://radios.esoterica.fm.br:7002
@@ -602,15 +557,6 @@ https://autopilot.catcast.tv/content/39696/index.m3u8
 #EXTINF:0,TRANCE IS STAR TV
 #EXTGRP: Музыка
 https://tis.catcast.tv/content/391/index.m3u8
-#EXTINF:0,Чилл музыка
-#EXTGRP: Музыка
-https://youtu.be/zPNi78sVbio
-#EXTINF:0,Crypto Music
-#EXTGRP: Музыка
-https://youtu.be/_daTfgc4u3k
-#EXTINF:0,трансляция СОВЕТСКИХ ФИЛЬМОВ
-#EXTGRP: Музыка
-https://youtu.be/5jpAyWmmB08
 
 
 #EXTINF:0,Конец
