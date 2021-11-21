@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
 url-tvg="http://iptvx.one/epg/epg_lite.xml.gz"
 url-tvg="http://programtv.ru/xmltv.xml.gz"
 #EXTINF:0,Музыка Кино
@@ -132,15 +132,18 @@ https://autopilot.catcast.tv/content/40660/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: Кино
 http://78.58.133.179:28000/play/a027/index.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция 2
+#EXTGRP: Кино
+http://178.163.65.65:4022/udp/234.0.0.95:2000?zi/
+#EXTINF:0,Мосфильм. Золотая коллекция 3
+#EXTGRP: Кино
+http://91.185.3.218:4000/play/420
 #EXTINF:0,BTV Сделано в СССР
 #EXTGRP: Кино
 http://batonsdn.gq:8080/0058/video.m3u8?token=tsn1979
 #EXTINF:0,BTV Киносказка СССР
 #EXTGRP: Кино
 http://batonsdn.gq:8080/0155/video.m3u8?token=tsn1979
-#EXTINF:0,BTV Фантастика 4К
-#EXTGRP: Кино
-http://batonsdn.gq:8080/0148/video.m3u8?token=tsn1979
 #EXTINF:0,BTV Друзья
 #EXTGRP: Кино
 http://batonsdn.gq:8080/0153/video.m3u8?token=tsn1979
@@ -167,6 +170,12 @@ https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
 #EXTINF:0,Кинопремьера HD
 #EXTGRP: Кино
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:0,Киномикс
+#EXTGRP: Кино
+https://sc.id-tv.kz/Kinomix_hd_38_39.m3u8
+#EXTINF:0,Кинохит
+#EXTGRP: Кино
+https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 
 #EXTINF:0,STR TV
 #EXTGRP: Кино
@@ -247,15 +256,10 @@ https://v2.catcast.tv/content/38801/index.m3u8
 http://cdnhls.goodgame.ru/hls/187241.m3u8?|user-agent=rostik_tv
 
 
-#EXTINF:0,Кинопоказ
+#EXTINF:0,ХитHD
 #EXTGRP: Кино
-http://91.221.201.2:7006/play/a002/index.m3u8?em9uYS1pcHR2LnJ1
-#EXTINF:0,Киномикс
-#EXTGRP: Кино
-https://sc.id-tv.kz/Kinomix_hd_38_39.m3u8
-#EXTINF:0,Кинохит
-#EXTGRP: Кино
-https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+https://hls.myvideocontent.ru/hls/vipcinemahd/index.m3u8?telegramm=yossotv
+
 #EXTINF:0,Кино ТВ
 #EXTGRP: Кино
 http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
