@@ -138,18 +138,6 @@ http://178.163.65.65:4022/udp/234.0.0.95:2000?zi/
 #EXTINF:0,Мосфильм. Золотая коллекция 3
 #EXTGRP: Кино
 http://91.185.3.218:4000/play/420
-#EXTINF:0,BTV Сделано в СССР
-#EXTGRP: Кино
-http://batonsdn.gq:8080/0058/video.m3u8?token=tsn1979
-#EXTINF:0,BTV Киносказка СССР
-#EXTGRP: Кино
-http://batonsdn.gq:8080/0155/video.m3u8?token=tsn1979
-#EXTINF:0,BTV Друзья
-#EXTGRP: Кино
-http://batonsdn.gq:8080/0153/video.m3u8?token=tsn1979
-#EXTINF:0,BTV Семейные комедии HD
-#EXTGRP: Кино
-http://batonsdn.gq:8080/0038/video.m3u8?token=tsn1979
 
 
 #EXTINF:0,Cinema
