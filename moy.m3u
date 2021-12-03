@@ -25,7 +25,7 @@ http://185.228.135.48:8080/tv_russia_1_hd/index.m3u8
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2&checkedby:iptvcat.com
 #EXTINF:0,Россия 1 (+4)
 #EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/bw2000000/variant.m3u8?version=2&offset=-7200
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus4/playlist_2.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/bw2000000/variant.m3u8?version=2
@@ -160,7 +160,7 @@ https://sc.id-tv.kz/Cinema_34_35.m3u8
 http://46.34.209.242:80/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
 #EXTINF:0,Мужское кино 
 #EXTGRP: Кино
-https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+http://212.76.29.26:80/btv/SWM/MuzhskoyeKinoHD/MuzhskoyeKinoHD_1080p_5000kbps.m3u8
 #EXTINF:0,Мужское кино 2
 #EXTGRP: Кино
 http://136.243.176.84/MUJSKOE_KINO/tracks-v1a1/mono.m3u8
@@ -169,13 +169,13 @@ http://136.243.176.84/MUJSKOE_KINO/tracks-v1a1/mono.m3u8
 https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
 #EXTINF:0,Кинопремьера HD
 #EXTGRP: Кино
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+http://78.58.133.179:28000/play/a004/index.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: Кино
-https://sc.id-tv.kz/Kinomix_hd_38_39.m3u8
+http://78.58.133.179:28000/play/a070/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: Кино
-https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+http://78.58.133.179:28000/play/a075/index.m3u8
 
 #EXTINF:0,STR TV
 #EXTGRP: Кино
@@ -217,9 +217,9 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
 #EXTGRP: Кино
 http://37.99.5.235/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
 
-#EXTINF:0,STR HD
+#EXTINF:0,Наше Любимое Кино
 #EXTGRP: Кино
-https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
+http://46.34.209.243:80/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
 
 
 #EXTINF:0,FILM Блокбастер
@@ -423,9 +423,9 @@ http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:0,E
 #EXTGRP: Познавательное
 http://194.146.190.241:4000/play/a01y/index.m3u8
-#EXTINF:0,E hd
+#EXTINF:0,Кино 18+ International
 #EXTGRP: Познавательное
-http://185.228.135.48:8080/tv_game_show_sd/index.m3u8
+http://autopilot.catcast.tv/content/40381/index.m3u8
 
 
 #EXTINF:0,русская ночь
