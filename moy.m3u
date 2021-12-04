@@ -138,6 +138,9 @@ http://91.185.3.218:4000/play/420
 #EXTINF:0,Иллюзион +
 #EXTGRP: Кино
 http://185.129.1.242:80/illuzion/mpegts
+#EXTINF:0,Советское ТВ
+#EXTGRP: Кино
+https://dvrfl01.tulix.tv/sovetskoetv/tracks-v1a1/mono.m3u8
 #EXTINF:0,USSR
 #EXTGRP: Кино
 http://195.154.242.229/USSR_HD/video.m3u8?token=telegram-premieregroup
@@ -385,6 +388,10 @@ http://cdnhls.goodgame.ru/hls/5346.m3u8
 #EXTGRP: Кино
 http://cdnhls.goodgame.ru/hls/180960.m3u8
 
+#EXTINF:0,#Смотрим #Кино
+#EXTGRP: Кино
+https://cdn-curie.wasd.tv/live/925514/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,СТС 
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
@@ -492,7 +499,7 @@ http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 
 #EXTINF:0,22222
 #EXTGRP: Познавательное
-https://video-weaver.waw01.hls.ttvnw.net/v1/playlist/CpQFkmdqAUFIhV18ge0EBZCvsQ0vZeTD1JMYWHu7S_U67nRMDa6QwfyPz8vSEgoKj-9CglRNfZ9IPhEEypy9aO2qVxyWsRyw7mc10G4jZ8a1sSbnGqQo36V6BGB8V8uExsVZFKx4KJdJec-kEAXJ9YHNUf7ltluWkmsAl85_6XcCGn0aLTE4Ca1WRuJ7eBvkhyaJTe_pQOcJanllRs0eRJQQLeNese4b7Ec89CDmc2JWPa586h0z7fh6dgObwD5Do-7caVMmnWUEc75XQ1SD8uAfKWTnTTWiUY4D785_ebtbxwzuAxwcDouL5ev3Epdiv_YhKJpkRrAXBeP89xb7rQz-CwIt7y9AxKXfLyC3Rxo-HWHujImyR69wlSXw_nzbFJi4Ba_p_cdCregd_RswkCrA_ejhp15c38R3PqH9ZaXPLDWEUms-Yww0QwNRcehbisBHfbNkDQ3SvFsJu6MQxGlFiJFNyAnVSIeGQHwhYSJH2MgjEBrw6PCOwHhmaVlscs8DixOMD_bZ1smkKPW1fiZ_T9DT-kC14-0lHP2vfElXluAZCQq1lyDs_2GIsz5IzEY-7PFjkjROny-3IUT9uM9viEOAQr1rW_BZi2t2xqjbsOAixrUyhwsAPW3n3jg7SqlovIGxVUHyL5OWdLzaQnHp0xwNSRMq2eNtseM_G_hvm6f3VABrYXE8IQZZXjU3I2ix1LE6MP-zmC4BLIXyXi626gym8vBhqWue8sZ-YCYhsvdhCaZeXZBuPw1Oav55I_5H0dyaXDHwYHirW79pv5bqW--11EElzZdsRYsk4pb44oXU_FGoysMpMFejpvMjw_kxrMfoz-p2LNb7FOpjOatsrjHs6ZwqZUN9keqPQJnofKNynnf3Ggw6cX1VkO3l_JUKpEMgASoJdXMtd2VzdC0yMLgC.m3u8
+https://usher.ttvnw.net/api/channel/hls/xop0.m3u8?allow_source=true&fast_bread=true&p=3046316&play_session_id=9021f90d147272deb111f3902c5d466b&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=9c94c8531beb95a4b7d051cb7356c6d515b3206b&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22xop0%22%2C%22channel_id%22%3A41665974%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22twitch-web-wall-mason%22%2C%22expires%22%3A1638595132%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22channel_home_carousel%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22195.78.100.186%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.7.0
 #EXTINF:0,E
 #EXTGRP: Познавательное
 https://hls.goodgame.ru/hls/31904_prem.m3u8
