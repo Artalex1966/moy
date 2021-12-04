@@ -455,12 +455,12 @@ http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8
 #EXTINF:0,Brodilo TV HD
 #EXTGRP:Познавательное
 http://brodilo.tv/channel.php
-#EXTINF:0,History2HD
+#EXTINF:0,Svidok HD
 #EXTGRP:Познавательное
-http://46.34.209.244:80/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
+http://srv-1.streaming-elbrus.tk:8080/svidok/video.m3u8?token=875bb53f48cf8e1dfc6af0554ee4d05b93869102-9830084142-1638720268-1638633868
 #EXTINF:0,Оружие
 #EXTGRP:Познавательное
-http://97c7f0af.rossteleccom.net/iptv/MBGKPLFWBX6642/2087/index.m3u8
+http://srv-3.streaming-elbrus.tk:8080/oruzhie/video.m3u8?token=a1acbfb79a5b6c54b3537c2ec88244b5e6e7fc05-9830084142-1638720268-1638633868
 
 ----
 
