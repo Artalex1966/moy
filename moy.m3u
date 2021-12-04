@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://sitytv.tk:8081/epg.xml.gz" refresh="3600"
+#EXTM3U
 #EXTINF:0,Музыка Кино
 #EXTGRP: Музыка
 http://autopilot.catcast.tv/content/37739/index.m3u8
