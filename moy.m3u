@@ -146,19 +146,19 @@ https://dvrfl01.tulix.tv/sovetskoetv/tracks-v1a1/mono.m3u8
 http://195.154.242.229/USSR_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:0,Советское кино
 #EXTGRP: Кино
-http://srv-3.streaming-elbrus.tk:8080/sovkino/video.m3u8?token=e9fba851a428438b63e3409645d2ab42ea1d7f5a-9830084142-1638630504-1638544104
+http://srv-3.streaming-elbrus.tk:8080/sovkino/video.m3u8?token=836e06f1ce7da7d7f593bfa0448371de6343abbf-9830084142-1638743325-1638656925
 #EXTINF:0,TOP СССР
 #EXTGRP: Кино
-http://srv-3.streaming-elbrus.tk:8080/topussr/video.m3u8?token=e7a269ea02c3dbca3607b881c8aa1258b8bcd2ed-9830084142-1638630504-1638544104
+http://srv-3.streaming-elbrus.tk:8080/topussr/video.m3u8?token=ed2cbc37d3dcb599f12f428f47f2a39331062e34-9830084142-1638743908-1638657508
 #EXTINF:0,TOP 80's
 #EXTGRP: Кино
-http://srv-5.streaming-elbrus.tk:34768/top80/video.m3u8?token=666766f8ffe2530f5e119e080300718df3872d64-9830084142-1638630504-1638544104
+http://srv-5.streaming-elbrus.tk:34768/top80/video.m3u8?token=3e237e6c430ca01d300b0543667d3dae4bd60739-9830084142-1638743908-1638657508
 #EXTINF:0,TOP Cinema
 #EXTGRP: Кино
-http://srv-2.streaming-elbrus.tk:8080/topcinema/video.m3u8?token=b618efcc078283fa01b15705c7d66a351e1b916e-9830084142-1638630504-1638544104
+http://srv-2.streaming-elbrus.tk:8080/topcinema/video.m3u8?token=3ca74b9638d28405dba2b02e45a5300e2ab6bd2c-9830084142-1638743908-1638657508
 #EXTINF:0,Советские мультфильмы
 #EXTGRP: Кино
-http://srv-5.streaming-elbrus.tk:34768/suvmult/video.m3u8?token=4b6a413b2097dee94bb2776b5ae44ee6627e1ae0-9830084142-1638632379-1638545979
+http://srv-5.streaming-elbrus.tk:34768/suvmult/video.m3u8?token=bf49a9409e717a0b1873d16a6fbc13e8390fb5df-9830084142-1638743908-1638657508
 
 #EXTINF:0,Cinema
 #EXTGRP: Кино
