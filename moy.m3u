@@ -493,19 +493,22 @@ http://ott.inmart.tv:8081/54/index.m3u8
 #EXTINF:0,Оплот 2
 #EXTGRP: Познавательное
 http://ott.inmart.tv:8081/17/index.m3u8
-#EXTINF:0,Перший Незалежний
-#EXTGRP: эфир
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 
+#EXTINF:0,World of Tanks
+#EXTGRP: эфир
+https://hls.goodgame.ru/hls/136091_prem.m3u8
 #EXTINF:0,22222
 #EXTGRP: Познавательное
-https://usher.ttvnw.net/api/channel/hls/xop0.m3u8?allow_source=true&fast_bread=true&p=3046316&play_session_id=9021f90d147272deb111f3902c5d466b&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=9c94c8531beb95a4b7d051cb7356c6d515b3206b&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22xop0%22%2C%22channel_id%22%3A41665974%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22twitch-web-wall-mason%22%2C%22expires%22%3A1638595132%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22channel_home_carousel%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22195.78.100.186%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.7.0
+https://hls.goodgame.ru/hls/136091_prem.m3u8
 #EXTINF:0,E
 #EXTGRP: Познавательное
 https://hls.goodgame.ru/hls/31904_prem.m3u8
-#EXTINF:0,Кино 18+ International
+#EXTINF:0,GTA5
 #EXTGRP: Познавательное
-http://autopilot.catcast.tv/content/40381/index.m3u8
+https://hls.goodgame.ru/hls/137895.m3u8
+#EXTINF:0, Age of Empires IV
+#EXTGRP: Познавательное
+https://hls.goodgame.ru/hls/36707_prem.m3u8
 
 
 #EXTINF:0,русская ночь
@@ -646,4 +649,3 @@ https://tis.catcast.tv/content/391/index.m3u8
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 #EXTINF:0,Конец
-
