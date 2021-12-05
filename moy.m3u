@@ -146,7 +146,7 @@ https://dvrfl01.tulix.tv/sovetskoetv/tracks-v1a1/mono.m3u8
 http://195.154.242.229/USSR_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:0,Советское кино
 #EXTGRP: Кино
-http://srv-3.streaming-elbrus.tk:8080/sovkino/video.m3u8?token=836e06f1ce7da7d7f593bfa0448371de6343abbf-9830084142-1638743325-1638656925
+http://srv-3.streaming-elbrus.tk:8080/sovkino/video.m3u8?token=8e4fcc475fdfce78c604eb7c9e34a9b868c9f228-9830084142-1638756785-1638670385
 #EXTINF:0,TOP СССР
 #EXTGRP: Кино
 http://srv-3.streaming-elbrus.tk:8080/topussr/video.m3u8?token=ed2cbc37d3dcb599f12f428f47f2a39331062e34-9830084142-1638743908-1638657508
