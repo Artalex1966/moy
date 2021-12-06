@@ -71,13 +71,13 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 http://46.34.209.243:80/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
 #EXTINF:0,День Победы HD
 #EXTGRP: Кино
-https://my.teleelevidenie.com/play/hls-custom-c1432-te548c4888657447f657fca2ade27cbdc2132cd1e11ac405e437d7141b876943a.m3u8
+http://103.194.169.171:8282/Denj_Pobedi_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:0,Звезда
 #EXTGRP: Кино
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:0,Звезда Плюс
 #EXTGRP: Кино
-http://srv-6.streaming-elbrus.tk:34768/zvezdapl/video.m3u8?token=85944f78ad4ce3bc27a83f15c4ed7c07f074c8df-9830084142-1638756785-1638670385
+http://103.194.169.171:8282/NTV_ZVEZDA_PLIUS/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:0,Звезда +2
 #EXTGRP: Кино
 http://185.228.135.48:8080/tv_zvezda_sd_plus2/index.m3u8
@@ -132,16 +132,6 @@ https://autopilot.catcast.tv/content/39005/index.m3u8
 #EXTINF:0,NorMax
 #EXTGRP: Кино
 https://autopilot.catcast.tv/content/40660/index.m3u8
-#EXTINF:0,Kino Watch TV 1
-#EXTGRP: Кино
-https://ed-nl-01.mycdn.video/fresh/tracks-v1a1/mono.m3u8
-#EXTINF:0,Kino Watch TV 2
-#EXTGRP: Кино
-https://ed-nl-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
-#EXTINF:0,Kino Watch TV 3
-#EXTGRP: Кино
-https://ed-nl-01.mycdn.video/docu/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: Кино
@@ -161,21 +151,7 @@ https://dvrfl01.tulix.tv/sovetskoetv/tracks-v1a1/mono.m3u8
 #EXTINF:0,USSR
 #EXTGRP: Кино
 http://195.154.242.229/USSR_HD/video.m3u8?token=telegram-premieregroup
-#EXTINF:0,Советское кино
-#EXTGRP: Кино
-http://srv-3.streaming-elbrus.tk:8080/sovkino/video.m3u8?token=8e4fcc475fdfce78c604eb7c9e34a9b868c9f228-9830084142-1638756785-1638670385
-#EXTINF:0,TOP СССР
-#EXTGRP: Кино
-http://srv-3.streaming-elbrus.tk:8080/topussr/video.m3u8?token=ed2cbc37d3dcb599f12f428f47f2a39331062e34-9830084142-1638743908-1638657508
-#EXTINF:0,TOP 80's
-#EXTGRP: Кино
-http://srv-5.streaming-elbrus.tk:34768/top80/video.m3u8?token=3e237e6c430ca01d300b0543667d3dae4bd60739-9830084142-1638743908-1638657508
-#EXTINF:0,TOP Cinema
-#EXTGRP: Кино
-http://srv-2.streaming-elbrus.tk:8080/topcinema/video.m3u8?token=3ca74b9638d28405dba2b02e45a5300e2ab6bd2c-9830084142-1638743908-1638657508
-#EXTINF:0,Советские мультфильмы
-#EXTGRP: Кино
-http://srv-5.streaming-elbrus.tk:34768/suvmult/video.m3u8?token=bf49a9409e717a0b1873d16a6fbc13e8390fb5df-9830084142-1638743908-1638657508
+
 
 #EXTINF:0,Cinema
 #EXTGRP: Кино
@@ -183,19 +159,6 @@ https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:0,Cinema.2
 #EXTGRP: Кино
 http://46.34.209.242:80/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
-
-#EXTINF:0,V-Comedy HD
-#EXTGRP: Кино
-https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
-#EXTINF:0,V-Megahit HD
-#EXTGRP: Кино
-https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:0,V-Premiere HD
-#EXTGRP: Кино
-https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
-
-
-
 
 #EXTINF:0,Мужское кино 
 #EXTGRP: Кино
@@ -301,58 +264,6 @@ http://cdnhls.goodgame.ru/hls/187241.m3u8?|user-agent=rostik_tv
 http://autopilot.catcast.tv/content/38801/index.m3u8
 
 
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/29b7544aa704d0a69c0df2d205e33ac5.jpg" logo="http://epg.openboxfan.com/picon/bcu%D1%81%D1%81%D1%81%D1%80hd.png" channelId="-1" tvg-id="bcu-sssr" shift="2" tvg-country="1",BCU СССР HD
-http://srv-7.streaming-elbrus.tk:8080/bcusssr/video.m3u8?token=7d71a61a85d0529c58206bfcb58cd66d090ed923-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/2b792c2ed5518804c22fed12ed584692.jpg" logo="http://epg.openboxfan.com/picon/bcuactionhd.png" channelId="-1" tvg-id="bcu-action" shift="2" tvg-country="1",BCU Action HD
-http://srv-7.streaming-elbrus.tk:8080/bcuaction/video.m3u8?token=7a985c93c8fe4518fa97c5dec3a6808dcc3dae83-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/919f6072b7dd06bcaf2394c54d37f088.jpg" logo="http://epg.openboxfan.com/picon/bcucatastrophehd.png" channelId="-1" tvg-id="bcu-catastrophe" shift="2" tvg-country="1",BCU Catastrophe HD
-http://srv-7.streaming-elbrus.tk:8080/bcucatastrophe/video.m3u8?token=f0f949e4bfd4bda3b2d1f69b6bea9de058f5385b-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/6e5a8ed9ace4de129515212abff5a533.jpg" logo="http://epg.openboxfan.com/picon/bcufantastichd.png" channelId="-1" tvg-id="bcu-fantastic" shift="2" tvg-country="1",BCU Fantastic HD
-http://srv-7.streaming-elbrus.tk:8080/bcufantastic/video.m3u8?token=fc64e4525b7e2c0be0f691b88e4293ee8aae7791-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/c2283ed3c146eb7044257fdbf7c8d5b3.jpg" logo="http://epg.openboxfan.com/picon/bcumarvelhd.png" channelId="-1" tvg-name="BCU Marvel HD" tvg-id="bcu-marvel" shift="2" tvg-country="5",BCU Marvel DC HD
-http://srv-7.streaming-elbrus.tk:8080/bcumarvel/video.m3u8?token=c72ba88da62de117e35377f75947782628afb467-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/fe8a8586b3d547797fcf95a8db3bd964.jpg" logo="http://epg.openboxfan.com/picon/bcufilmystichd.png" channelId="-1" tvg-id="bcu-filmystic" shift="2" tvg-country="3",BCU FilMystic HD
-http://srv-7.streaming-elbrus.tk:8080/bcufilmystic/video.m3u8?token=e5120ce72c0046f17263b2369ff104090e3dfac5-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/f4920c77a4cfe0f61db080fde81cc16d.jpg" logo="http://epg.openboxfan.com/picon/bcukinoratinghd.png" channelId="-1" tvg-id="bcu-kinorating" shift="2" tvg-country="1",BCU Kinorating HD
-http://srv-7.streaming-elbrus.tk:8080/bcukinorating/video.m3u8?token=8e69ad529ce6c1d4cd7e7b19f94f247f8eed02c4-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/9500c3bceee76d081884b3a253d98ee2.jpg" logo="http://epg.openboxfan.com/picon/bcuruserialhd.png" channelId="-1" tvg-id="bcu-ruserial" shift="2" tvg-country="1",BCU RUSerial HD
-http://srv-7.streaming-elbrus.tk:8080/bcuruserial/video.m3u8?token=ac05e80520efcc4bb3d804d4e03cbb7169a2ae66-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/179d30db67811263d7507c6630ad6296.jpg" logo="http://epg.openboxfan.com/picon/bcucinemahd.png" channelId="-1" tvg-id="bcu-cinema" shift="2" tvg-country="1",BCU Cinema HD
-http://srv-7.streaming-elbrus.tk:8080/bcucinema/video.m3u8?token=caefb5b613aee66bf074841d07a2c661efed785d-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/db2f0d6f072c93712da06cfc29d7d445.jpg" logo="http://epg.openboxfan.com/picon/bcucinemaplushd.png" channelId="-1" tvg-id="bcu-cinemaplus" shift="2" tvg-country="1",BCU Cinema+ HD
-http://srv-7.streaming-elbrus.tk:8080/bcucinemaplus/video.m3u8?token=289d239f5b7542a30f2a3b280e2b5326c4117e67-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/90ab1c7ba20febd12e9c44fb58f1ce0b.jpg" logo="http://epg.openboxfan.com/picon/bcuromantichd.png" channelId="-1" tvg-id="bcu-romantic" shift="2" tvg-country="1",BCU Romantic HD
-http://srv-7.streaming-elbrus.tk:8080/bcuromantic/video.m3u8?token=1268e003a606e0bca732c1219a6d1fba2761121b-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/7a9fa402b1ea6eff7c0f8757e3694098.jpg" logo="http://bcumedia.pro/images/channels/1416.png" channelId="-1" tvg-id="bcu-criminal" shift="2" tvg-country="1",BCU Criminal HD
-http://srv-7.streaming-elbrus.tk:8080/bcucriminal/video.m3u8?token=02abc4753a288a129915253064473a2868a15090-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/456750026a8aeafce9278eb61e3c93b3.jpg" logo="http://epg.openboxfan.com/picon/bcuhistoryhd.png" channelId="-1" tvg-id="bcu-history" shift="2" tvg-country="1",BCU History HD
-http://srv-7.streaming-elbrus.tk:8080/bcuhistory/video.m3u8?token=f3c4e3098459c6ca76384965db91a74bfdef9026-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/9b1dcf5891c325c7ffd4e41f782bdaf3.jpg" logo="http://epg.openboxfan.com/picon/bcustarshd.png" channelId="-1" tvg-id="bcu-stars" shift="2" tvg-country="1",BCU Stars HD
-http://srv-7.streaming-elbrus.tk:8080/BCUStars/video.m3u8?token=9794892f6a6eace6acc9be6c257d05323fc8e458-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/f8e149b917568063a1e4315be5e8c4fb.jpg" logo="http://epg.openboxfan.com/picon/bcurussianhd.png" channelId="-1" tvg-id="bcu-russian" shift="2" tvg-country="1",BCU Russian HD
-http://srv-7.streaming-elbrus.tk:8080/bcurussian/video.m3u8?token=528b49a2789c28ed12004b8f4fd5868b7059b29b-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremierehd.png" channelId="-1" tvg-id="bcu-premiere" shift="2" tvg-country="1",BCU Premiere HD
-http://srv-7.streaming-elbrus.tk:8080/bcupremiere/video.m3u8?token=704cf2116a5b68b450489a2c8c2734ca6f0acabd-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere1hd.png" channelId="-1" tvg-id="bcu-kinozal-prem-1" shift="2" tvg-country="1",BCU Кинозал Premiere 1 HD
-http://srv-7.streaming-elbrus.tk:8080/bcuprem1/video.m3u8?token=bcbc73792df6ca8e16fff65e63ed52d755476183-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere2hd.png" channelId="-1" tvg-name="BCU Кинозал Premiere 2 HD" tvg-id="bcu-kinozal-prem-2" shift="2" tvg-country="1",BCU Кинозал Premiere 2 HD
-http://srv-7.streaming-elbrus.tk:8080/bcuprem2/video.m3u8?token=c9e91a05f806ad40f3184a46946d1e72bcb0e74c-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere3hd.png" channelId="-1" tvg-id="bcu-kinozal-prem-3" shift="2" tvg-country="1",BCU Кинозал Premiere 3 HD
-http://srv-7.streaming-elbrus.tk:8080/bcuprem3/video.m3u8?token=12bc576baf4b04adaf4d9530858ad81071b75d07-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/10/3635ec37e32d8ae0312734db03baeea4.png" logo="https://iptvxpix.ml/bcu-reality.png" channelId="-1" tvg-id="bcu-reality" shift="2" tvg-country="1",BCU Reality HD
-http://srv-7.streaming-elbrus.tk:8080/bcuprem4/video.m3u8?token=0b3fa98e5d793619022e7352f92b57a1e1a4ab63-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/c56d50fbede5ab938c67f4dfd99cf428.jpg" logo="http://epg.openboxfan.com/picon/bcuvhshd.png" channelId="-1" tvg-id="bcu-vhs" shift="2" tvg-country="1",BCU VHS HD
-http://srv-7.streaming-elbrus.tk:8080/bcuvhs/video.m3u8?token=1acb44d27462b559711d76ebc9bb004556216578-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/bd24a344d18bc01cd339db36de9832b6.jpg" logo="http://epg.openboxfan.com/picon/bcukidshd.png" channelId="-1" tvg-id="bcu-kids" shift="2" tvg-country="4",BCU Kids HD
-http://srv-7.streaming-elbrus.tk:8080/bcukidshd/video.m3u8?token=fc8449dab1cbd5511516fe034adaad180ddd8a82-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/bd514397638110cb6833202f4af115bb.jpg" logo="http://epg.openboxfan.com/picon/bcukidsplushd.png" channelId="-1" tvg-id="bcu-kids-plus" shift="2" tvg-country="1",BCU Kids+ HD
-http://srv-7.streaming-elbrus.tk:8080/bcukidsplushd/video.m3u8?token=9efb292fe2739960f15bc8a588ddc2b98d031dd5-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/07861ea2ebd468670d469513b60d2d8c.jpg" logo="http://epg.openboxfan.com/picon/bcu%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d1%81%d0%b5%d1%80%d0%b8%d0%b0%d0%bbhd.png" channelId="-1" tvg-id="bcu-multserial" shift="2" tvg-country="1",BCU Мультсериал HD
-http://srv-7.streaming-elbrus.tk:8080/bcumultserial/video.m3u8?token=08ecc11c180daad6059378e35aa4b980b64937c7-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/9ccc6de6ea6ad2661413bc51087d1d74.jpg" logo="http://bcumedia.pro/images/homepage/ch_8.png" channelId="-1" tvg-id="bcu-svaty" shift="2" tvg-country="1",BCU Сваты HD
-http://srv-7.streaming-elbrus.tk:8080/bcusvaty/video.m3u8?token=1e295c114054f52cf41ce2c0b1c5564cb3a468f3-9830084142-1638743629-1638657229
-#EXTINF:-1 group-title="Фильмы BCU" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/d4adcf0dd49dd9b25331e689a92c932c.jpg" logo="http://epg.openboxfan.com/picon/bcuultra4k.png" channelId="-1" tvg-id="bcu-ultra4k" shift="2" tvg-country="1",BCU Ultra 4K
-http://srv-7.streaming-elbrus.tk:8080/bcu_ultra/video.m3u8?token=bca61a7b38b52fbcc325fc9bc3eb689188a39d4f-9830084142-1638743629-1638657229
 
 
 
