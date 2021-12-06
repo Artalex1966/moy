@@ -151,7 +151,9 @@ https://dvrfl01.tulix.tv/sovetskoetv/tracks-v1a1/mono.m3u8
 #EXTINF:0,USSR
 #EXTGRP: Кино
 http://195.154.242.229/USSR_HD/video.m3u8?token=telegram-premieregroup
-
+#EXTINF:0,БОЛЬШОЕ КИНО
+#EXTGRP: Кино
+https://v2.catcast.tv/content/37388/index.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: Кино
@@ -383,7 +385,7 @@ http://srv-6.streaming-elbrus.tk:34768/discovery_science/video.m3u8?token=8e82bf
 http://185.129.1.242:80/discoveryscience/mpegts
 #EXTINF:0, Discovery Science 1
 #EXTGRP:Познавательное
-http://satlok.xyz:8000/NEZZ18/NEZZ1805/81615
+http://37.194.196.108:81/udp/239.1.5.9:1234
 #EXTINF:0, Кто есть кто
 #EXTGRP:Познавательное
 http://45.80.44.93:25001/play/a043/index.m3u8
@@ -396,9 +398,7 @@ http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8
 #EXTINF:0,Brodilo TV HD
 #EXTGRP:Познавательное
 http://brodilo.tv/channel.php
-#EXTINF:0,Svidok HD
-#EXTGRP:Познавательное
-http://srv-1.streaming-elbrus.tk:8080/svidok/video.m3u8?token=875bb53f48cf8e1dfc6af0554ee4d05b93869102-9830084142-1638720268-1638633868
+
 #EXTINF:0,Оружие
 #EXTGRP:Познавательное
 http://srv-3.streaming-elbrus.tk:8080/oruzhie/video.m3u8?token=a1acbfb79a5b6c54b3537c2ec88244b5e6e7fc05-9830084142-1638720268-1638633868
