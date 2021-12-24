@@ -559,5 +559,8 @@ https://tis.catcast.tv/content/391/index.m3u8
 #EXTINF:0,Ретро Музыка
 #EXTGRP: Музыка
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:0,Радио Chill Music
+#EXTGRP: Музыка
+https://youtu.be/AiH9LG22zW4
 
 #EXTINF:0,Конец
