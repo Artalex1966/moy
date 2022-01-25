@@ -157,10 +157,10 @@ https://v2.catcast.tv/content/37388/index.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: Кино
-https://sc.id-tv.kz/Cinema_34_35.m3u8
+https://sc.id-tv.kz:443/Cinema_36_37.m3u8
 #EXTINF:0,Cinema.2
 #EXTGRP: Кино
-http://46.34.209.242:80/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
+https://sc.id-tv.kz/Cinema_34_35.m3u8
 
 #EXTINF:0,Мужское кино 
 #EXTGRP: Кино
@@ -452,7 +452,36 @@ https://hls.goodgame.ru/hls/137895.m3u8
 https://hls.goodgame.ru/hls/36707_prem.m3u8
 
 
-
+#EXTINF:0,русская ночь
+#EXTGRP: Познавательное
+http://46.174.83.66/Russkaya_Noch/mpegts
+#EXTINF:0,Hustler HD Europe
+#EXTGRP: Познавательное
+http://51.15.0.141:88/hustlerhd/index.m3u8
+#EXTINF:0,Hustler TV
+#EXTGRP: Познавательное
+http://78.83.191.18:8000/play/a078
+#EXTINF:0,Exstasy
+#EXTGRP: Познавательное
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+#EXTINF:0,Rough
+#EXTGRP: Познавательное
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:0,Gangbang
+#EXTGRP: Познавательное
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:0,Gangbang
+#EXTGRP: Познавательное
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:0,Cuckold
+#EXTGRP: Познавательное
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:0,MILF
+#EXTGRP: Познавательное
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:0,Big Dick
+#EXTGRP: Познавательное
+http://cdn.adultiptv.net/bigdick.m3u8
 
 
 ----
@@ -559,8 +588,5 @@ https://tis.catcast.tv/content/391/index.m3u8
 #EXTINF:0,Ретро Музыка
 #EXTGRP: Музыка
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:0,Радио Chill Music
-#EXTGRP: Музыка
-https://youtu.be/AiH9LG22zW4
 
 #EXTINF:0,Конец
