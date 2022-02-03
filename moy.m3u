@@ -157,10 +157,10 @@ https://v2.catcast.tv/content/37388/index.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: Кино
-https://sc.id-tv.kz:443/Cinema_36_37.m3u8
-#EXTINF:0,Cinema.2
+http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd
+#EXTINF:0,Cinema
 #EXTGRP: Кино
-https://sc.id-tv.kz/Cinema_34_35.m3u8
+https://sc.id-tv.kz/Cinema.m3u8
 
 #EXTINF:0,Мужское кино 
 #EXTGRP: Кино
