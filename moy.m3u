@@ -16,7 +16,7 @@ http://autopilot.catcast.tv/content/37742/index.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:0,Россия 1 HD
 #EXTGRP: эфир
-http://185.228.135.48:8080/tv_russia_1_hd/index.m3u8
+http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:0,Россия 1 (1)
 #EXTGRP: эфир
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2&checkedby:iptvcat.com
@@ -144,7 +144,7 @@ http://178.163.65.65:4022/udp/234.0.0.95:2000?zi/
 http://91.185.3.218:4000/play/420
 #EXTINF:0,Иллюзион +
 #EXTGRP: Кино
-http://185.129.1.242:80/illuzion/mpegts
+http://50.7.231.221:8081/130/index.m3u8?wmsAuthSign=okad
 #EXTINF:0,Советское ТВ
 #EXTGRP: Кино
 https://dvrfl01.tulix.tv/sovetskoetv/tracks-v1a1/mono.m3u8
@@ -491,7 +491,7 @@ http://cdn.adultiptv.net/bigdick.m3u8
 http://45.14.38.4:15000
 #EXTINF:0,Релакс HD
 #EXTGRP: Релакс
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+http://140.238.127.147/streams/8.m3u8
 #EXTINF:0,Nature Relaxation HD
 #EXTGRP: Релакс
 https://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
@@ -590,3 +590,10 @@ https://tis.catcast.tv/content/391/index.m3u8
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 #EXTINF:0,Конец
+
+
+
+
+
+
+
