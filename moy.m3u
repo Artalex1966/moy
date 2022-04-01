@@ -13,28 +13,31 @@ http://autopilot.catcast.tv/content/37742/index.m3u8
 
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:0,Россия 1 HD
-#EXTGRP: эфир
-http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
-#EXTINF:0,Россия 1 (1)
-#EXTGRP: эфир
-http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2&checkedby:iptvcat.com
-#EXTINF:0,Россия 1 (+4)
-#EXTGRP: эфир
-http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus4/playlist_2.m3u8
+http://91.210.251.17:4866/udp/239.0.1.13:4000
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/bw2000000/variant.m3u8?version=2
-#EXTINF:0,Первый канал 2
+https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/chunklist_b1128000_slru.m3u8?hls_proxy_host=6629500d2dbfd5d4bb54110b620706c6
+#EXTINF:0,Россия 1 HD
 #EXTGRP: эфир
-http://91.192.168.251:5050
-#EXTINF:0,РТР Планета
+https://salam-2.rutube.ru/dive/river-1-301.rutube.ru/rdaotMIUt1psaLwMzmUl-A/stream/musang-403.dp.rutube.ru/uo2YwXgXQj8khuDzZIdXEw/1648851092/9f60c7a40f9b5ec52a447e215b36e34c/720p_stream.m3u8
+#EXTINF:0,Россия 1
 #EXTGRP: эфир
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:0,РТР Планета1
+http://91.210.251.17:4866/udp/239.0.1.92:4000
+#EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
+http://91.210.251.17:4866/udp/239.0.1.6:4000
+
+
+
+#EXTINF:0,Том и Джери
+#EXTGRP: эфир
+http://tv.rapidiptv.tvip.xyz:80/Vv7QyADu3Pg0712/yRyNy2129/29151
+#EXTINF:0,X-Files
+#EXTGRP: эфир
+https://tv.2222.one/ch4.m3u8
+#EXTINF:0,Друзья
+#EXTGRP: эфир
+https://tv.2222.one/ch10.m3u8
 #EXTINF:0,РТР Планета2
 #EXTGRP: эфир
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
