@@ -140,7 +140,7 @@ http://persik.by/stream/7504/377885/11031.m3u8
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: Кино
-http://50.7.231.220:8081/235/index.m3u8?wmsAuthSign=okad
+http://178.217.72.66:8080/mosfilm/video.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция 2
 #EXTGRP: Кино
 http://178.163.65.65:4022/udp/234.0.0.95:2000?zi/
