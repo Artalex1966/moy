@@ -32,9 +32,9 @@ http://91.210.251.17:4866/udp/239.0.1.6:4000
 #EXTINF:0,Том и Джери
 #EXTGRP: эфир
 http://tv.rapidiptv.tvip.xyz:80/Vv7QyADu3Pg0712/yRyNy2129/29151
-#EXTINF:0,X-Files
+#EXTINF:0,Соловьев Live HD
 #EXTGRP: эфир
-https://tv.2222.one/ch4.m3u8
+http://195.2.74.99/channel/n53c37a0/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
 #EXTINF:0,Друзья
 #EXTGRP: эфир
 https://tv.2222.one/ch10.m3u8
