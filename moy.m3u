@@ -25,8 +25,7 @@ http://194.113.234.110:4002
 http://188.191.160.238:9099/channel/Rossiya.ts
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
-http://91.210.251.17:4866/udp/239.0.1.6:4000
-
+http://188.191.160.238:9099/channel/REN_TV.ts
 
 
 #EXTINF:0,Том и Джери
@@ -89,7 +88,7 @@ http://185.228.135.48:8080/tv_zvezda_sd_plus2/index.m3u8
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: Кино
-http://cdnmg.secure.live.rtr-vesti.ru/hls/doverie/playlist_2.m3u8
+http://188.191.160.238:9099/channel/Doverie.ts
 #EXTINF:0,Время
 #EXTGRP: Кино
 http://46.34.209.243:80/btv/SWM/Vremya/Vremya_576p_2000kbps.m3u8
