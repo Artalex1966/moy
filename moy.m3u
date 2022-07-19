@@ -34,41 +34,41 @@ http://iptv.rpk-rost.ru:8080/hls/002/002.m3u8
 http://188.191.160.238:9099/channel/REN_TV.ts
 
 
-#EXTINF:0,Том и Джери
+#EXTINF:0,Мультики
 #EXTGRP: эфир
-http://tv.rapidiptv.tvip.xyz:80/Vv7QyADu3Pg0712/yRyNy2129/29151
+http://edge-01-pub.persik.by:82/live/Ch007pub/index.m3u8
 #EXTINF:0,Соловьев Live HD
 #EXTGRP: эфир
 http://195.2.74.99/channel/n53c37a0/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
-#EXTINF:0,Друзья
+#EXTINF:0,Любимое
 #EXTGRP: эфир
-https://tv.2222.one/ch10.m3u8
-#EXTINF:0,РТР Планета2
+http://84.17.61.200:8085/udp/238.2.17.243:1234
+#EXTINF:0,Discovery Science
 #EXTGRP: эфир
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
-
-#EXTINF:0,Русский Иллюзион
+http://193.111.244.35:8001/discoveryscience/index.m3u8
+#EXTINF:0,Discovery Channel
 #EXTGRP: эфир
-http://86.57.178.105:10823
-#EXTINF:0,Рен ТВ (+2)
-#EXTGRP: эфир
-http://cdnbestiptv.tk/op/WTJSdWRIWnBjSFIyWm5Wc2JBPT0/4111.m3u8
-#EXTINF:0,Рен ТВ 
-#EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
-#EXTINF:0,РЕН ТВ (+7)
-#EXTGRP: эфир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
-#EXTINF:0,РЕН ТВ (+4)
-#EXTGRP: эфир
-http://a3569458172-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/bw2000000/playlist.m3u8?offset=0&utcstart=1619017200&version=2
+http://81.177.139.240:8000/play/a004/index.m3u8
 #EXTINF:0,РЕН ТВ (-1)
 #EXTGRP: эфир
-http://a787200748-rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8?offset=-3600&utcstart=1611486000&version=2
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV-1.m3u8
+#EXTINF:0,Рен ТВ 
+#EXTGRP: эфир
+http://dmi3y-tv.ru/hls/T2/CH_RENTVHD.m3u8
+#EXTINF:0,Рен ТВ (+2)
+#EXTGRP: эфир
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_2.m3u8
+#EXTINF:0,РЕН ТВ (+4)
+#EXTGRP: эфир
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_4.m3u8
+#EXTINF:0,РЕН ТВ (+7)
+#EXTGRP: эфир
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_7.m3u8
+
 
 #EXTINF:0,ТВ Центр 
 #EXTGRP: эфир
-http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_2.m3u8
 
 #EXTINF:0,Известия ТВ
 #EXTGRP: Познавательное
