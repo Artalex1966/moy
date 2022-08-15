@@ -43,7 +43,9 @@ http://195.2.74.99/channel/n53c37a0/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 https://mhd.iptv2022.com/p/xGyVra7lltfuRytCCS-JrA,1660649286/streaming/solovyevlive/324/1/tracks-v3a1/mono.m3u8
-
+#EXTINF:0,Соловьев Live
+#EXTGRP: эфир
+https://s13.federal.tv:8082/fed/sollive.stream/chunks.m3u8?nimblesessionid=2027771537&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDIyIDExOjMxOjIzIEFNJmhhc2hfdmFsdWU9N1VDRzZYd0taQkpIKzFyRUF0UUdHZz09JnZhbGlkbWludXRlcz0yMDA=&__fvd__
 
 #EXTINF:0,Любимое
 #EXTGRP: эфир
