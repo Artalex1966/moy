@@ -49,7 +49,7 @@ https://s13.federal.tv:8082/fed/sollive.stream/chunks.m3u8?nimblesessionid=20277
 
 #EXTINF:0,Любимое
 #EXTGRP: эфир
-http://cdn.vimax.tv/vimax/ch215/video.m3u8?token=6abff8fd-6948-4fa9-83d7-2d60a291ae3d
+http://srv-3-streaming.iptvin.site:8080/lyubimoe/video.m3u8?token=0f5e6858f5ef3d3a1356c87b1b465b3e608bea1b-4787839212-1660672898-1660629698
 #EXTINF:0,Discovery Science
 #EXTGRP: эфир
 http://193.111.244.35:8001/discoveryscience/index.m3u8
