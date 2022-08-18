@@ -29,6 +29,9 @@ http://ip1.orgip.net/102/video.m3u8?token=SA78E90643
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
 http://iptv.rpk-rost.ru:8080/hls/002/002.m3u8
+#EXTINF:0,Россия 1
+#EXTGRP: эфир
+http://46.174.83.66/Russia1/index.m3u8
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
 http://188.191.160.238:9099/channel/REN_TV.ts
@@ -49,13 +52,16 @@ https://s13.federal.tv:8082/fed/sollive.stream/chunks.m3u8?nimblesessionid=20277
 
 #EXTINF:0,Любимое
 #EXTGRP: эфир
-http://srv-3-streaming.iptvin.site:8080/lyubimoe/video.m3u8?token=0f5e6858f5ef3d3a1356c87b1b465b3e608bea1b-4787839212-1660672898-1660629698
+http://92.245.103.126:1935/live/live.stream/playlist.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP: эфир
 http://193.111.244.35:8001/discoveryscience/index.m3u8
+#EXTINF:0,Discovery Science
+#EXTGRP: эфир
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
 #EXTINF:0,Discovery Channel
 #EXTGRP: эфир
-http://81.177.139.240:8000/play/a004/index.m3u8
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discovery
 #EXTINF:0,РЕН ТВ (-1)
 #EXTGRP: эфир
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV-1.m3u8
