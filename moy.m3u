@@ -45,14 +45,11 @@ http://edge-01-pub.persik.by:82/live/Ch007pub/index.m3u8
 http://195.2.74.99/channel/n53c37a0/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-https://mhd.iptv2022.com/p/xGyVra7lltfuRytCCS-JrA,1660649286/streaming/solovyevlive/324/1/tracks-v3a1/mono.m3u8
-#EXTINF:0,Соловьев Live
-#EXTGRP: эфир
-https://s13.federal.tv:8082/fed/sollive.stream/chunks.m3u8?nimblesessionid=2027771537&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDIyIDExOjMxOjIzIEFNJmhhc2hfdmFsdWU9N1VDRzZYd0taQkpIKzFyRUF0UUdHZz09JnZhbGlkbWludXRlcz0yMDA=&__fvd__
+https://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_4.m3u8
 
 #EXTINF:0,Любимое
 #EXTGRP: эфир
-http://92.245.103.126:1935/live/live.stream/playlist.m3u8
+http://srv-3-streaming.iptvin.site:8080/lyubimoe/video.m3u8?token=a6590cde157a96ca5d6fc6aea4596f1e63c7159a-4787839212-1661024707-1660981507
 #EXTINF:0,Discovery Science
 #EXTGRP: эфир
 http://193.111.244.35:8001/discoveryscience/index.m3u8
