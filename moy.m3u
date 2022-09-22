@@ -13,19 +13,19 @@ http://autopilot.catcast.tv/content/37742/index.m3u8
 
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
+http://iptv.rpk-rost.ru:8080/hls/007/007.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
 http://iptv.rpk-rost.ru:8080/hls/001/001.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
-http://srv-1-streaming.iptvin.site:8080/ort_hd/video.m3u8?token=07e83cf7a24bb6ec1f806257ab3c31c51dcdd60e-2294434542-1663919352-1663876152
+http://iptv.rpk-rost.ru:8080/hls/001/001.m3u8
 #EXTINF:0,Россия 1 HD
 #EXTGRP: эфир
 http://46.174.83.66/Russia1/index.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
-http://srv-1-streaming.iptvin.site:8080/russia_hd/video.m3u8?token=36af524da3e35c71b598630aaf212d30c226c6ca-2294434542-1663919352-1663876152
+http://iptv.rpk-rost.ru:8080/hls/002/002.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
 http://iptv.rpk-rost.ru:8080/hls/002/002.m3u8
