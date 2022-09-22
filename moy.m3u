@@ -31,7 +31,7 @@ http://srv-1-streaming.iptvin.site:8080/russia_hd/video.m3u8?token=36af524da3e35
 http://iptv.rpk-rost.ru:8080/hls/002/002.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
-http://46.174.83.66/Russia1/index.m3u8
+http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
 http://188.191.160.238:9099/channel/REN_TV.ts
