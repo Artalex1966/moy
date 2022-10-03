@@ -1,78 +1,51 @@
-#EXTM3U
-#EXTINF:-1,Музыка Кино
-http://autopilot.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1,КИНО 1 INTERNATIONAL
-https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1,Детское кино International
-https://v2.catcast.tv/content/38720/index.m3u8
-
-#EXTINF:-1,Память
-https://v2.catcast.tv/content/38821/index.m3u8
-
-#EXTINF:-1,Мосфильм. Золотая коллекция
-http://178.163.65.65:4022/udp/234.0.0.95:2000?zi/
-#EXTINF:-1,Мосфильм. Золотая коллекция 2
-http://91.185.3.218:4000/play/420
-#EXTINF:-1,Советское кино HD
-http://mhd.iptv2022.com/p/XalAiIiPiWSNR2feewg4Jg,1640096073/streaming/sovietmovs/324/1/index.m3u8
-
-#EXTINF:-1,Дом кино
-http://46.174.83.66/Dom_Kino/mpegts
-#EXTINF:-1,Родное Кино
-http://185.134.36.198:4022/udp/234.0.0.177:2000
-#EXTINF:-1,Ретро
-http://176.51.77.7:1234/udp/233.7.70.42:5000
-#EXTINF:-1,Звезда
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
-#EXTINF:-1,Победа
-https://sc.id-tv.kz/Pobeda_34_35.m3u8
-#EXTINF:-1,Наше новое кино
-http://213.226.137.133:81/tl/l53/video.m3u8
-#EXTINF:-1,Наше Любимое кино
-http://37.194.196.108:81/udp/239.1.20.10:1234
-#EXTINF:-1,Мир сериала
-http://185.134.36.198:4022/udp/234.0.0.103:2000
-
-#EXTINF:-1,Serial HD
-http://195.154.242.229/Serial_HD/video.m3u8?token=telegram-premieregroup
-#EXTINF:-1,НТВ Сериал
-http://212.73.81.237:8000/play/a03o/index.m3u8
-
-
-
-#EXTINF:-1,Cinema
-https://sc.id-tv.kz/Cinema_34_35.m3u8
-#EXTINF:-1,Ultra HD Cinema
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
-#EXTINF:-1,VIP Megahit
-https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:-1 ,VIP Serial
-https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
-#EXTINF:-1 ,VIP Premiere
-https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
-#EXTINF:-1 ,VIP Megahit
-https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:-1 ,VIP Comedy
-https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
-#EXTINF:-1 ,TV1000 HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
-#EXTINF:-1 ,TV1000 Action HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:-1 ,TV1000 Kino
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
-#EXTINF:-1 ,Sci Fi
-https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
-
-#EXTINF:-1,Рен ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,СТС (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?version=2
-#EXTINF:-1,СТС (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2&offset=-14400
-#EXTINF:-1,ТВ Центр
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Домашний
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
-
-
-
+#EXTM3U8 x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+#EXTINF:-1,Россия 24
+http://mhd116.iptv2022.com/p/31Kuee3jhqSkdblY6t7vNA,1659027096/streaming/rossia24nn/324/1/index.m3u8
+#EXTINF:-1,Россия 1
+http://46.174.83.66/Russia1/index.m3u8
+#EXTINF:-1,Россия 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Первый канал
+http://213.172.73.170:8081/nimble_live/1010__Perviy_kanal/playlist.m3u8
+#EXTINF:-1,Первый канал
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+#EXTINF:-1,Соловьев Live
+https://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_4.m3u8
+#EXTINF:-1,Discovery Science HD
+http://195.161.68.177:8000/play/a003/index.m3u8
+#EXTINF:-1,Наука 2.0
+http://213.172.73.170:8081/nimble_live/1134__Nauka_2_0/playlist.m3u8
+#EXTINF:-1,РЕН ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,КИНО ТВ
+http://46.19.100.174:4450/play/a001/index.m3u8
+#EXTINF:-1,Остросюжетное HD
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:-1,Мужское кино
+http://213.172.73.170:8081/nimble_live/1085__Mujskoye_Kino/playlist.m3u8
+#EXTINF:-1,Кинопоказ
+http://193.233.9.49/streams/media/Kinopokaz/index.m3u8
+#EXTINF:-1,КИНОХИТ
+http://213.172.73.170:8081/nimble_live/1083__Kinoxit/playlist.m3u8
+#EXTINF:-1,Киномикс
+http://213.172.73.170:8081/nimble_live/1112__Kinomiks/playlist.m3u8
+#EXTINF:-1,Дом Кино
+https://pkvc-hls4.cdnvideo.ru/DK/smil:DK.smil/chunklist_b3128000_slru.m3u8
+#EXTINF:-1,Discovery Science
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
+#EXTINF:-1,Наука 2.0
+http://178.163.34.44:81/udp/234.0.0.226:2000
+#EXTINF:-1,Министерство идей
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:-1,Кинозал! СССР
+http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/11061/index.m3u8
+#EXTINF:-1,Dosug СССР HD
+http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/14218/index.m3u8
+#EXTINF:-1,KBC-Страна СССР
+http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/11091/index.m3u8
+#EXTINF:-1,BCU СССР HD
+http://srv-4-streaming.iptvin.site:8080/bcusssr/index.m3u8?token=58e07a7e3f336c6c5011c13705f1f0ab20cb6d64-2294434542-1664866326-1664823126
+#EXTINF:-1,VF Друзья
+http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/17006/index.m3u8
+#EXTINF:-1,VF Леонид Гайдай
+http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/17004/index.m3u8
