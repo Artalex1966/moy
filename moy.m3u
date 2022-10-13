@@ -19,7 +19,7 @@ http://mhd116.iptv2022.com/p/avoxPoSHMq0WInE4ooWTRA,1664203117/streaming/rossia2
 http://mhd116.iptv2022.com/p/ksjwcdESk4mTlZR8WaYeOw,1664203117/streaming/1kanalott/324/1/index.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
-http://iptv.rpk-rost.ru:8080/hls/001/001.m3u8
+http://213.172.73.170:8081/nimble_live/1010__Perviy_kanal/playlist.m3u8
 #EXTINF:0,Россия 1 HD
 #EXTGRP: эфир
 http://46.174.83.66/Russia1/index.m3u8
@@ -28,7 +28,7 @@ http://46.174.83.66/Russia1/index.m3u8
 http://mhd116.iptv2022.com/p/Wjjani-ThTWT20eyOobbhg,1664203117/streaming/rossia1ott/324/1/index.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
-http://iptv.rpk-rost.ru:8080/hls/002/002.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
