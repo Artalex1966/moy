@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTGRP:новости
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/16077/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Россия 1 +0 (Элиста)
 #EXTGRP:новости
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15447/index.m3u8
