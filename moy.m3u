@@ -45,7 +45,10 @@ http://mhd.iptv2022.com/p/GUq_yvCH3nD8otU2hzxqtg,1661622874/streaming/solovyevli
 
 #EXTINF:0,Любимое
 #EXTGRP: эфир
-http://srv-3-streaming.iptvin.site:8080/lyubimoe/video.m3u8?token=a6590cde157a96ca5d6fc6aea4596f1e63c7159a-4787839212-1661024707-1660981507
+http://srv-3-streaming.iptvin.site:8080/lyubimoe/video.m3u8?token=84c11e757055c6b3d722eedc1c27ec3c90ebd85b-2294434542-1666593340-1666550140
+#EXTINF:0,Cinema HD
+#EXTGRP: эфир
+http://srv-6-streaming.iptvin.site:8080/cinema_hd/index.m3u8?token=84c11e757055c6b3d722eedc1c27ec3c90ebd85b-2294434542-1666593340-1666550140
 #EXTINF:0,Discovery Science
 #EXTGRP: эфир
 http://dgfyy1lm.otttv.pw/iptv/YGETMZ4ZQAP23Z/9265/index.m3u8
