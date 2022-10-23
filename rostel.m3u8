@@ -1,49 +1,25 @@
 #EXTM3U
-
-#EXTINF:0 tvg-rec="0",Россия 1 +0 (Элиста)
+#EXTINF:0 tvg-rec="7",Россия-24
 #EXTGRP:новости
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15447/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +0 (Тамбов)
-#EXTGRP:новости
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15465/index.m3u8
-#EXTINF:0 tvg-rec="7",Мир 24
-#EXTGRP:новости
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/712/index.m3u8
-#EXTINF:0 tvg-rec="7",Euronews Россия
-#EXTGRP:новости
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/828/index.m3u8
-#EXTINF:0 tvg-rec="3",RT News
-#EXTGRP:новости
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/840/index.m3u8
-#EXTINF:0 tvg-rec="7",Известия
-#EXTGRP:новости
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2008/index.m3u8
-#EXTINF:0 tvg-rec="3",Центральное телевидение
-#EXTGRP:новости
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2064/index.m3u8
+http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/507/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал
 #EXTGRP:новости
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/127/index.m3u8
 #EXTINF:0 tvg-rec="7",Россия 1
 #EXTGRP:новости
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/504/index.m3u8
-#EXTINF:0 tvg-rec="7",Россия-24
+#EXTINF:0 tvg-rec="7",Известия
 #EXTGRP:новости
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/507/index.m3u8
+http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2008/index.m3u8
+#EXTINF:0 tvg-rec="3",Центральное телевидение
+#EXTGRP:новости
+http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2064/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия РТР
 #EXTGRP:новости
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/18042/index.m3u8
 
 
-#EXTINF:0 tvg-rec="0",VF New Year
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15522/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX M.Serial HD
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/19280/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Serial HD
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/19281/index.m3u8
+
 #EXTINF:0 tvg-rec="0",UZ Катастрофа HD
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/18164/index.m3u8
@@ -59,36 +35,14 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/17035/index.m3u8
 #EXTINF:0 tvg-rec="7",TV1000 Русское Кино
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/101/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Drama QA
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/6137/index.m3u8
-#EXTINF:0 tvg-rec="3",FOX COMEDY PL
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/6107/index.m3u8
-#EXTINF:0 tvg-rec="3",CINEMAXX MORE MAXX US
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/6152/index.m3u8
-#EXTINF:0 tvg-rec="3",CINEMAX OUTER MAX US
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/6154/index.m3u8
-#EXTINF:0 tvg-rec="3",CINEMAX MOVIEMAX US
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/6155/index.m3u8
-#EXTINF:0 tvg-rec="3",CINEMAX ACTION MAX EAST US
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/6156/index.m3u8
-#EXTINF:0 tvg-rec="3",Canal+ Series FR
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/6008/index.m3u8
+
 #EXTINF:0 tvg-rec="7",Ностальгия
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/102/index.m3u8
 #EXTINF:0 tvg-rec="7",СТС Love
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/103/index.m3u8
-#EXTINF:0 tvg-rec="7",.sci-fi
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/110/index.m3u8
+
 #EXTINF:0 tvg-rec="7",Киномикс
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/509/index.m3u8
@@ -110,9 +64,7 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/510/index.m3u8
 #EXTINF:0 tvg-rec="7",Наше новое кино
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/517/index.m3u8
-#EXTINF:0 tvg-rec="7",TV XXI
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/525/index.m3u8
+
 #EXTINF:0 tvg-rec="7",Кинокомедия
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/145/index.m3u8
@@ -155,15 +107,7 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/164/index.m3u8
 #EXTINF:0 tvg-rec="7",Hollywood
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/557/index.m3u8
-#EXTINF:0 tvg-rec="7",.red
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/559/index.m3u8
-#EXTINF:0 tvg-rec="7",2x2
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/702/index.m3u8
-#EXTINF:0 tvg-rec="7",.black
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/708/index.m3u8
+
 #EXTINF:0 tvg-rec="7",Русский бестселлер
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/905/index.m3u8
@@ -200,15 +144,7 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/744/index.m3u8
 #EXTINF:0 tvg-rec="7",НСТ
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/726/index.m3u8
-#EXTINF:0 tvg-rec="3",ZEE TV
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/1001/index.m3u8
-#EXTINF:0 tvg-rec="3",Filmbox Arthouse
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/1071/index.m3u8
-#EXTINF:0 tvg-rec="3",Дорама
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/1066/index.m3u8
+
 #EXTINF:0 tvg-rec="3",TV1000 World Kino
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/1065/index.m3u8
@@ -227,51 +163,11 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2039/index.m3u8
 #EXTINF:0 tvg-rec="3",Paramount Channel
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2055/index.m3u8
-#EXTINF:0 tvg-rec="3",.red HD
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2062/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Киноман
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2121/index.m3u8
-#EXTINF:0 tvg-rec="3",Cinéma
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/5051/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Cinema Action HD DE
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2482/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Cinema Fun DE
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2483/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Cinema HD DE
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2484/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Cinema Special HD DE
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2485/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Atlantic HD DE
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2488/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Cinema Family HD DE
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2489/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Cinema Nostalgie DE
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2490/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Krimi DE
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2491/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Cinema Comic-Helden DE
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2493/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Arts HD DE
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2494/index.m3u8
-#EXTINF:0 tvg-rec="3",Spiegel Geschichte HD DE
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2566/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Hits HD DE
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2486/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Зал 1
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2568/index.m3u8
@@ -308,9 +204,7 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2578/index.m3u8
 #EXTINF:0 tvg-rec="3",Зал 12
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2579/index.m3u8
-#EXTINF:0 tvg-rec="3",TNT Film HD DE
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/6110/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Мосфильм. Золотая коллекция
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/6392/index.m3u8
@@ -320,15 +214,7 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/6396/index.m3u8
 #EXTINF:0 tvg-rec="0",Премиальное HD
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/7222/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Cinema Thriller HD DE
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/7229/index.m3u8
-#EXTINF:0 tvg-rec="0",RTL Passion HD DE
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/7230/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Romance TV FHD DE
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/7231/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Киносемья HD
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/7244/index.m3u8
@@ -356,12 +242,7 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/7261/index.m3u8
 #EXTINF:0 tvg-rec="0",Мосфильм. Золотая коллекция HD
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/7347/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Adventure
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/10000/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Anime
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/10001/index.m3u8
+
 #EXTINF:0 tvg-rec="7",VF Cartoon
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/10002/index.m3u8
@@ -428,15 +309,7 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/10086/index.m3u8
 #EXTINF:0 tvg-rec="7",VF Боевик
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/10087/index.m3u8
-#EXTINF:0 tvg-rec="7",Flix Snip
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/10060/index.m3u8
-#EXTINF:0 tvg-rec="7",Backus TV Dark HD
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/10061/index.m3u8
-#EXTINF:0 tvg-rec="3",Shot TV
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/526/index.m3u8
+
 #EXTINF:0 tvg-rec="7",CineMan
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/11004/index.m3u8
@@ -1106,9 +979,7 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/14227/index.m3u8
 #EXTINF:0 tvg-rec="0",Dosug TV Сваты
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/14228/index.m3u8
-#EXTINF:0 tvg-rec="0",Dosug TV ER
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15102/index.m3u8
+
 #EXTINF:0 tvg-rec="0",DosugTv новогодний
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/17018/index.m3u8
@@ -1640,89 +1511,15 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/19421/index.m3u8
 #EXTINF:0 tvg-rec="0",Видеокассета Юность
 #EXTGRP:кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/19318/index.m3u8
-#EXTINF:0 tvg-rec="0",PROKOP TV The Simpsons UA HD
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/19395/index.m3u8
-#EXTINF:0 tvg-rec="0",Insomnia HD
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/19398/index.m3u8
-#EXTINF:0 tvg-rec="0",PROKOP TV Premier HD
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/19399/index.m3u8
-#EXTINF:0 tvg-rec="0",MYTV
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/19407/index.m3u8
-#EXTINF:0 tvg-rec="0",MYTV 2
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/19408/index.m3u8
-#EXTINF:0 tvg-rec="0",MYTV HIT
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/19410/index.m3u8
-#EXTINF:0 tvg-rec="0",MYTV 3
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/19411/index.m3u8
-#EXTINF:0 tvg-rec="0",MM OldSchool HD
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/19413/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Гриффины HD
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/19414/index.m3u8
-#EXTINF:0 tvg-rec="0",Citrus Live HD (C-Live HD)
-#EXTGRP:кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/19436/index.m3u8
 
 
-#EXTINF:0 tvg-rec="0",Stingray Hit List HD
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15003/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Qello TV HD
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15004/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Hip Hop/R&B HD
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15005/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Soul Storm STORM HD
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15006/index.m3u8
+
+
 #EXTINF:0 tvg-rec="0",Stingray Greatest Hits HD
 #EXTGRP:музыка
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15007/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Exitos Del Momento HD
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15008/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Karaoke HD
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15011/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Classic Rock HD
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15012/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Flashback 70S HD
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15013/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Alternative HD
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15014/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Remember The 80S HD
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15015/index.m3u8
-#EXTINF:0 tvg-rec="0",M1 HD
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15016/index.m3u8
-#EXTINF:0 tvg-rec="0",M2 HD
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15017/index.m3u8
-#EXTINF:0 tvg-rec="0",MTV Biggest Pop HD
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15018/index.m3u8
-#EXTINF:0 tvg-rec="0",MTV Block Party HD
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15019/index.m3u8
-#EXTINF:0 tvg-rec="0",V2BEAT HD
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15020/index.m3u8
-#EXTINF:0 tvg-rec="0",Zerouno TV
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15021/index.m3u8
+
+
 #EXTINF:0 tvg-rec="0",минимакс-relax HD 30 FPS
 #EXTGRP:музыка
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/13030/index.m3u8
@@ -1739,45 +1536,16 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15516/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Rock
 #EXTGRP:музыка
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15517/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Караоке
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15518/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Шансон
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15519/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Музсоюз
 #EXTGRP:музыка
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15521/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Музыкальный Новый год!
 #EXTGRP:музыка
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/16140/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Metal
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/17033/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Rap
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/17034/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Хит-парад
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/17036/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Русский рок
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/17037/index.m3u8
-#EXTINF:0 tvg-rec="0",Best Live Performances
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/16003/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Romantic & Ballads
 #EXTGRP:музыка
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/16014/index.m3u8
-#EXTINF:0 tvg-rec="0",LoveIsRadio.by
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/16015/index.m3u8
-#EXTINF:0 tvg-rec="0",INRATING TV HD
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/16020/index.m3u8
-
-
-
 
 #EXTINF:0 tvg-rec="0",Музыка 1 HD
 #EXTGRP:музыка
@@ -1801,12 +1569,6 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/18082/index.m3u8
 #EXTINF:0 tvg-rec="0",FRESH Rock Hits HD
 #EXTGRP:музыка
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/18088/index.m3u8
-#EXTINF:0 tvg-rec="0",FRESH Rock Covers HD
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/18089/index.m3u8
-#EXTINF:0 tvg-rec="0",FRESH Russian Rap HD
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/18090/index.m3u8
 #EXTINF:0 tvg-rec="0",FRESH Concerts HD
 #EXTGRP:музыка
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/18091/index.m3u8
@@ -1815,13 +1577,6 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/18091/index.m3u8
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/18092/index.m3u8
 
 
-
-#EXTINF:0 tvg-rec="0",Now 80s HD UK
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/19196/index.m3u8
-#EXTINF:0 tvg-rec="0",Now 90s HD UK
-#EXTGRP:музыка
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/19197/index.m3u8
 
 
 #EXTINF:0 tvg-rec="7",Моя Планета
@@ -1833,12 +1588,6 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/111/index.m3u8
 #EXTINF:0 tvg-rec="7",Совершенно секретно
 #EXTGRP:познавательные
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/121/index.m3u8
-#EXTINF:0 tvg-rec="7",Россия-Культура
-#EXTGRP:познавательные
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/505/index.m3u8
-#EXTINF:0 tvg-rec="7",Доктор
-#EXTGRP:познавательные
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/512/index.m3u8
 #EXTINF:0 tvg-rec="7",Авто 24
 #EXTGRP:познавательные
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/538/index.m3u8
@@ -1857,9 +1606,6 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/140/index.m3u8
 #EXTINF:0 tvg-rec="7",Авто Плюс
 #EXTGRP:познавательные
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/151/index.m3u8
-#EXTINF:0 tvg-rec="7",Кухня ТВ
-#EXTGRP:познавательные
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/152/index.m3u8
 #EXTINF:0 tvg-rec="7",Время
 #EXTGRP:познавательные
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/552/index.m3u8
@@ -1869,9 +1615,6 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/158/index.m3u8
 #EXTINF:0 tvg-rec="7",Точка отрыва
 #EXTGRP:познавательные
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/159/index.m3u8
-#EXTINF:0 tvg-rec="3",Надежда
-#EXTGRP:познавательные
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/2153/index.m3u8
 #EXTINF:0 tvg-rec="7",Viasat Nature
 #EXTGRP:познавательные
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/161/index.m3u8
@@ -1944,17 +1687,11 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15109/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Авто
 #EXTGRP:познавательные
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15511/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Охота
-#EXTGRP:познавательные
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15513/index.m3u8
-
 #EXTINF:0 tvg-rec="0",VF Стройка
 #EXTGRP:познавательные
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/16139/index.m3u8
 
-#EXTINF:0 tvg-rec="0",Z!Travel HD
-#EXTGRP:познавательные
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/17063/index.m3u8
+
 #EXTINF:0 tvg-rec="0",минимакс-микромир HD
 #EXTGRP:познавательные
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/18193/index.m3u8
@@ -2172,12 +1909,9 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/19425/index.m3u8
 #EXTINF:0 tvg-rec="3",ТНТ (+2)
 #EXTGRP:развлекательные
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/717/index.m3u8
-
-
 #EXTINF:0 tvg-rec="3",Анекдот ТВ
 #EXTGRP:развлекательные
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/5034/index.m3u8
-
 #EXTINF:0 tvg-rec="7",НАЗАД В 90-e
 #EXTGRP:развлекательные
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/11067/index.m3u8
@@ -2229,15 +1963,7 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/18199/index.m3u8
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/18200/index.m3u8
 
 
-#EXTINF:0 tvg-rec="7",Мир
-#EXTGRP:другие
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/214/index.m3u8
-#EXTINF:0 tvg-rec="0",ОТВ Екатеринбург
-#EXTGRP:другие
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/19261/index.m3u8
-#EXTINF:0 tvg-rec="7",Мир
-#EXTGRP:другие
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/113/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Мир HD
 #EXTGRP:другие
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/18037/index.m3u8
@@ -2428,20 +2154,9 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/15230/index.m3u8
 #EXTINF:0 tvg-rec="0",Министерство идей HD
 #EXTGRP:другие
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/16025/index.m3u8
-
-
-
-
-
-
 #EXTINF:0 tvg-rec="0",Звезда Плюс HD
 #EXTGRP:другие
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/19230/index.m3u8
-
-
-
-
-
 
 #EXTINF:0 tvg-rec="7",Первый канал HD
 #EXTGRP:HD
