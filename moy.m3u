@@ -4,6 +4,9 @@
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
+#EXTINF:0,Россия 24
+#EXTGRP: эфир
+http://176.107.213.10:9014/play/011208
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
