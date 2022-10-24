@@ -16,6 +16,9 @@ http://213.172.73.170:8081/nimble_live/1010__Perviy_kanal/playlist.m3u8
 #EXTINF:0,Россия 1 HD
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
+#EXTINF:0,Россия 1 HD2
+#EXTGRP: эфир
+https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
@@ -48,7 +51,7 @@ http://mhd.iptv2022.com/p/GUq_yvCH3nD8otU2hzxqtg,1661622874/streaming/solovyevli
 
 #EXTINF:0,Любимое
 #EXTGRP: эфир
-http://srv-3-streaming.iptvin.site:8080/lyubimoe/video.m3u8?token=84c11e757055c6b3d722eedc1c27ec3c90ebd85b-2294434542-1666593340-1666550140
+http://92.245.103.126:1935/live/live.stream/playlist.m3u8
 #EXTINF:0,Cinema HD
 #EXTGRP: эфир
 http://srv-6-streaming.iptvin.site:8080/cinema_hd/index.m3u8?token=84c11e757055c6b3d722eedc1c27ec3c90ebd85b-2294434542-1666593340-1666550140
