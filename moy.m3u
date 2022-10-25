@@ -230,6 +230,9 @@ https://tis.catcast.tv/content/391/index.m3u8
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 
+#EXTINF:0,соловей1
+#EXTGRP: Музыка
+https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=2c516c4c1f9df35f8ca1da2e3bd28727e23e7723&st.mq=3&st.mvid=4484292938479&st.ip=45.150.24.250&st.dla=on&st.exp=1666901926413&st.hls=off&_prevCmd=movieLayer&tkn=1788
 
 #EXTINF:0,Конец
 
