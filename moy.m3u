@@ -46,6 +46,28 @@ https://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_4.m3u8
 #EXTGRP: эфир
 http://mhd.iptv2022.com/p/GUq_yvCH3nD8otU2hzxqtg,1661622874/streaming/solovyevlive/324/1/index.m3u8
 
+#EXTINF:0,Красная линия
+#EXTGRP: эфир
+https://altyn.cdn.lifeyosso.fun:5671/krAsnAya_liniya/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
+#EXTINF:0,СТС HD
+#EXTGRP: эфир
+https://altyn.cdn.lifeyosso.fun:9103/STS_HD/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
+#EXTINF:0,ТНТ HD
+#EXTGRP: эфир
+https://altyn.cdn.lifeyosso.fun:9103/TNT_HD/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
+#EXTINF:0,Кино ТВ HD
+#EXTGRP: эфир
+https://altyn.cdn.lifeyosso.fun:9103/kinotv/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
+#EXTINF:0,Классика Кино
+#EXTGRP: эфир
+https://altyn.cdn.lifeyosso.fun:9304/movieclassic/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
+#EXTINF:0,О!
+#EXTGRP: эфир
+https://altyn.cdn.lifeyosso.fun:9304/O/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
+#EXTINF:0,Рыжий
+#EXTGRP: эфир
+https://altyn.cdn.lifeyosso.fun:9103/rishiy/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
+
 #EXTINF:0,Cinema
 #EXTGRP: эфир
 http://193.233.9.49/streams/media/Cinema/index.m3u8
