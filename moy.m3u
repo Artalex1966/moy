@@ -58,9 +58,24 @@ https://altyn.cdn.lifeyosso.fun:9103/TNT_HD/video.m3u8?token=am9rZXMyNXx8YW05eVl
 #EXTINF:0,Кино ТВ HD
 #EXTGRP: эфир
 https://altyn.cdn.lifeyosso.fun:9103/kinotv/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
+#EXTINF:0,Кинопоказ
+#EXTGRP: эфир
+http://193.233.9.49/streams/media/Kinopokaz/index.m3u8
 #EXTINF:0,Классика Кино
 #EXTGRP: эфир
 https://altyn.cdn.lifeyosso.fun:9304/movieclassic/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
+#EXTINF:0,Кинозал! СССР
+#EXTGRP: кино
+http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/11061/index.m3u8
+#EXTINF:0,Dosug СССР HD
+#EXTGRP: кино
+http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/14218/index.m3u8
+#EXTINF:0,VF Друзья
+#EXTGRP: кино
+http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/17006/index.m3u8
+
+
+
 #EXTINF:0,О!
 #EXTGRP: эфир
 https://altyn.cdn.lifeyosso.fun:9304/O/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
