@@ -110,12 +110,21 @@ http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/17006/index.m3u8
 #EXTINF:0,Память
 #EXTGRP: кино
 https://v2.catcast.tv/content/38821/index.m3u8
+#EXTINF:0,Кино 1 HD
+#EXTGRP: кино
+http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/18069/index.m3u8
+#EXTINF:0,Кино 2 HD
+#EXTGRP: кино
+http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/18070/index.m3u8
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0,Военное кино HD
+#EXTGRP: кино
+http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/18072/index.m3u8
 
 #EXTINF:0,Любимое HD
 #EXTGRP: кино
