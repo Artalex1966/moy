@@ -61,6 +61,12 @@ https://altyn.cdn.lifeyosso.fun:9103/kinotv/video.m3u8?token=am9rZXMyNXx8YW05eVl
 #EXTINF:0,Кинопоказ
 #EXTGRP: эфир
 http://193.233.9.49/streams/media/Kinopokaz/index.m3u8
+#EXTINF:0,Мужское кино
+#EXTGRP: кино
+http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
+#EXTINF:0,Киномикс
+#EXTGRP: кино
+http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: эфир
 http://myott.top/stream/7D4XYB2WFN/214.m3u8
@@ -76,12 +82,19 @@ http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/14218/index.m3u8
 #EXTINF:0,TOP USSR HD
 #EXTGRP: кино
 http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/13005/index.m3u8
+#EXTINF:0,Советское кино
+#EXTGRP: кино
+http://iptvin.ddns.net:2134/channel/n4ef90b2b/index.m3u8?q=b67bb9779c6c0c916ce8dfc52431ef84
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/17006/index.m3u8
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
 http://kino-1.catcast.tv/content/38617/index.m3u8
+
+#EXTINF:0,Любимое HD
+#EXTGRP: кино
+http://srv-3-streaming.iptvin.site:8080/lyubimoe/video.m3u8?token=b5d2e06fb813839442a49ec3d2336ef8fa25163d-2294434542-1667536003-1667492803
 
 
 
