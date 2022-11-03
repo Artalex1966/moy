@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-
-
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
@@ -32,7 +30,7 @@ http://188.191.160.238:9099/channel/REN_TV.ts
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/6392/index.m3u8
+http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://myott.top/stream/7D4XYB2WFN/369.m3u8
@@ -46,9 +44,27 @@ https://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_4.m3u8
 #EXTGRP: эфир
 http://mhd.iptv2022.com/p/GUq_yvCH3nD8otU2hzxqtg,1661622874/streaming/solovyevlive/324/1/index.m3u8
 
+#EXTINF:0,Cinema
+#EXTGRP: кино
+http://193.233.9.49/streams/media/Cinema/index.m3u8
+#EXTINF:0,Cinema
+#EXTGRP: кино
+http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
+#EXTINF:0,Cinema
+#EXTGRP: кино
+http://myott.top/stream/P1SFH8IPR5/62.m3u8
+#EXTINF:0,Discovery Science
+#EXTGRP: эфир
+http://dgfyy1lm.otttv.pw/iptv/YGETMZ4ZQAP23Z/9265/index.m3u8
+#EXTINF:0,Discovery Science
+#EXTGRP: эфир
+http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/136/index.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
 http://188.191.160.238:9099/channel/Doverie.ts
+#EXTINF:0,Москва Доверие
+#EXTGRP: эфир
+https://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist_3.m3u8
 #EXTINF:0,Красная линия
 #EXTGRP: эфир
 https://altyn.cdn.lifeyosso.fun:5671/krAsnAya_liniya/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
@@ -59,10 +75,10 @@ http://myott.top/stream/P1SFH8IPR5/138.m3u8
 #EXTGRP: эфир
 http://myott.top/stream/P1SFH8IPR5/135.m3u8
 #EXTINF:0,Кино ТВ HD
-#EXTGRP: эфир
+#EXTGRP: кино
 https://altyn.cdn.lifeyosso.fun:9103/kinotv/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
 #EXTINF:0,Кинопоказ
-#EXTGRP: эфир
+#EXTGRP: кино
 http://193.233.9.49/streams/media/Kinopokaz/index.m3u8
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
@@ -91,6 +107,9 @@ http://iptvin.ddns.net:2134/channel/n4ef90b2b/index.m3u8?q=b67bb9779c6c0c916ce8d
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/17006/index.m3u8
+#EXTINF:0,Память
+#EXTGRP: кино
+https://v2.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
 http://kino-1.catcast.tv/content/38617/index.m3u8
@@ -111,21 +130,7 @@ https://altyn.cdn.lifeyosso.fun:9304/O/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFN
 #EXTGRP: эфир
 https://altyn.cdn.lifeyosso.fun:9103/rishiy/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
 
-#EXTINF:0,Cinema
-#EXTGRP: эфир
-http://193.233.9.49/streams/media/Cinema/index.m3u8
-#EXTINF:0,Cinema
-#EXTGRP: эфир
-http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
-#EXTINF:0,Cinema
-#EXTGRP: эфир
-http://myott.top/stream/P1SFH8IPR5/62.m3u8
-#EXTINF:0,Discovery Science
-#EXTGRP: эфир
-http://dgfyy1lm.otttv.pw/iptv/YGETMZ4ZQAP23Z/9265/index.m3u8
-#EXTINF:0,Discovery Science
-#EXTGRP: эфир
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/136/index.m3u8
+
 #EXTINF:0,Discovery Channel
 #EXTGRP: эфир
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discovery
@@ -193,8 +198,16 @@ https://hls.goodgame.ru/hls/137895.m3u8
 #EXTINF:0, Age of Empires IV
 #EXTGRP: Познавательное
 https://hls.goodgame.ru/hls/36707_prem.m3u8
-
-
+----
+#EXTINF:0,Музыка 1 International
+#EXTGRP: Музыка
+http://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:0,Музыка 2 International
+#EXTGRP: Музыка
+http://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:0,Музыка Кино International
+#EXTGRP: Музыка
+http://kino-1.catcast.tv/content/37739/index.m3u8
 ----
 
 #EXTINF:0,Камин
