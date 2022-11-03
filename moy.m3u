@@ -61,6 +61,9 @@ https://altyn.cdn.lifeyosso.fun:9103/kinotv/video.m3u8?token=am9rZXMyNXx8YW05eVl
 #EXTINF:0,Кинопоказ
 #EXTGRP: эфир
 http://193.233.9.49/streams/media/Kinopokaz/index.m3u8
+#EXTINF:0,Остросюжетное HD
+#EXTGRP: эфир
+http://myott.top/stream/7D4XYB2WFN/214.m3u8
 #EXTINF:0,Классика Кино
 #EXTGRP: эфир
 https://altyn.cdn.lifeyosso.fun:9304/movieclassic/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
