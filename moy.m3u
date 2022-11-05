@@ -43,6 +43,9 @@ https://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_4.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 http://mhd.iptv2022.com/p/GUq_yvCH3nD8otU2hzxqtg,1661622874/streaming/solovyevlive/324/1/index.m3u8
+#EXTINF:0,ВТК 41 Аргус (Воронеж)
+#EXTGRP: эфир
+http://4kfp3cm483g.a.trbcdn.net/livemaster/rxu69_live-d7gbc25zefk.smil/playlist.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
@@ -141,6 +144,9 @@ http://srv-3-streaming.iptvin.site:8080/lyubimoe/video.m3u8?token=b5d2e06fb81383
 #EXTINF:0,Мосфильм. Золотая коллекция 
 #EXTGRP: кино
 http://hez1-flu.iptvstream.site/63/index.m3u8
+#EXTINF:0,CCCP сказки
+#EXTGRP: кино
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13021/index.m3u
 
 #EXTINF:0,Карусель
 #EXTGRP: Детский
@@ -151,6 +157,9 @@ https://altyn.cdn.lifeyosso.fun:9304/O/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFN
 #EXTINF:0,Рыжий
 #EXTGRP: Детский
 https://altyn.cdn.lifeyosso.fun:9103/rishiy/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
+#EXTINF:0,Чип и Дейл
+#EXTGRP: Детский
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13064/index.m3u
 
 
 #EXTINF:0,Discovery Channel
