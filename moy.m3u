@@ -86,6 +86,9 @@ http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
 http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
+#EXTINF:0,Кинохит
+#EXTGRP: кино
+http://flu.ttk.mx:9090/kinohit/index.m3u8?token=orh6o
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: эфир
 http://myott.top/stream/7D4XYB2WFN/214.m3u8
@@ -139,11 +142,14 @@ http://srv-3-streaming.iptvin.site:8080/lyubimoe/video.m3u8?token=b5d2e06fb81383
 #EXTGRP: кино
 https://hlss.goodgame.ru/hls/187241.m3u8
 
+#EXTINF:0,Карусель
+#EXTGRP: Детский
+https://radio-live-mg.rtr-vesti.ru/hls/karusel/playlist_3.m3u8
 #EXTINF:0,О!
-#EXTGRP: эфир
+#EXTGRP: Детский
 https://altyn.cdn.lifeyosso.fun:9304/O/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
 #EXTINF:0,Рыжий
-#EXTGRP: эфир
+#EXTGRP: Детский
 https://altyn.cdn.lifeyosso.fun:9103/rishiy/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
 
 
@@ -179,6 +185,9 @@ http://v1atpwtq.rostelekom.xyz/iptv/L4YQ9RBFTU7PBU/18039/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Авто
 #EXTGRP: Познавательное
 http://v1atpwtq.rostelekom.xyz/iptv/L4YQ9RBFTU7PBU/15511/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Стройка
+#EXTGRP: Познавательное
+http://ds6g2mk3.ottclub.xyz/iptv/WUC9ADM4Q57C57/16139/index.m3u8
 
 
 
