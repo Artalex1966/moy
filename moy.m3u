@@ -4,7 +4,7 @@
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
-http://176.107.213.10:9014/play/011208
+https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
@@ -43,9 +43,6 @@ https://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_4.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 http://mhd.iptv2022.com/p/GUq_yvCH3nD8otU2hzxqtg,1661622874/streaming/solovyevlive/324/1/index.m3u8
-#EXTINF:0,ВТК 41 Аргус (Воронеж)
-#EXTGRP: эфир
-http://4kfp3cm483g.a.trbcdn.net/livemaster/rxu69_live-d7gbc25zefk.smil/playlist.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
@@ -53,9 +50,9 @@ http://193.233.9.49/streams/media/Cinema/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
-#EXTINF:0,Cinema
+#EXTINF:0,Cinema UHD (HD)
 #EXTGRP: кино
-http://myott.top/stream/P1SFH8IPR5/62.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
 #EXTINF:0,Discovery Science
 #EXTGRP: эфир
 http://dgfyy1lm.otttv.pw/iptv/YGETMZ4ZQAP23Z/9265/index.m3u8
@@ -71,12 +68,12 @@ https://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist_3.m3u8
 #EXTINF:0,Красная линия
 #EXTGRP: эфир
 https://altyn.cdn.lifeyosso.fun:5671/krAsnAya_liniya/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
-#EXTINF:0,СТС HD
+#EXTINF:0,СТС
 #EXTGRP: эфир
-http://myott.top/stream/P1SFH8IPR5/138.m3u8
-#EXTINF:0,ТНТ HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+#EXTINF:0,ТНТ
 #EXTGRP: эфир
-http://myott.top/stream/P1SFH8IPR5/135.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
 #EXTINF:0,Кино ТВ HD
 #EXTGRP: кино
 https://altyn.cdn.lifeyosso.fun:9103/kinotv/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
