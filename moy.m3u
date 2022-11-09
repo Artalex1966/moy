@@ -59,6 +59,9 @@ http://dgfyy1lm.otttv.pw/iptv/YGETMZ4ZQAP23Z/9265/index.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP: эфир
 http://myott.top/stream/P1SFH8IPR5/146.m3u8
+#EXTINF:0,Наука 2.0
+#EXTGRP: эфир
+http://myott.top/stream/P1SFH8IPR5/125.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
 http://188.191.160.238:9099/channel/Doverie.ts
