@@ -42,7 +42,7 @@ http://195.2.74.99/channel/n53c37a0/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c
 https://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_4.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-http://mhd.iptv2022.com/p/GUq_yvCH3nD8otU2hzxqtg,1661622874/streaming/solovyevlive/324/1/index.m3u8
+https://radio-live-mg.rtr-vesti.ru/hls2/givc21/playlist_6.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
@@ -140,6 +140,9 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Военное кино HD
 #EXTGRP: кино
 http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/18072/index.m3u8
+#EXTINF:0,Фантастика HD
+#EXTGRP: кино
+http://hlss.goodgame.ru/hls/187241.m3u8
 
 #EXTINF:0,Любимое HD
 #EXTGRP: кино
