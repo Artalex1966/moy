@@ -49,7 +49,7 @@ http://mhd.iptv2022.com/p/GUq_yvCH3nD8otU2hzxqtg,1661622874/streaming/solovyevli
 http://193.233.9.49/streams/media/Cinema/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
-http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
+http://95.183.43.237:8080/131/index.m3u8
 #EXTINF:0,Fantastica Scifi
 #EXTGRP: кино
 https://v2.catcast.tv/content/38801/index.m3u8
@@ -82,7 +82,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
 http://193.233.9.49/streams/media/KINO_TV_HD/index.m3u8
 #EXTINF:0,Кинопоказ
 #EXTGRP: кино
-http://193.233.9.49/streams/media/Kinopokaz/index.m3u8
+http://dmi3y-tv.ru/hls/CH_KINOPOKAZ.m3u8
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
 http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
@@ -94,7 +94,7 @@ http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
 http://flu.ttk.mx:9090/kinohit/index.m3u8?token=orh6o
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: эфир
-http://myott.top/stream/7D4XYB2WFN/214.m3u8
+http://94.103.95.253/korn/parkplay.php?id=/live/ru_ostrosuzhet_hd/playlist.m3u8
 #EXTINF:0,Классика Кино
 #EXTGRP: эфир
 https://altyn.cdn.lifeyosso.fun:9304/movieclassic/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
@@ -104,6 +104,9 @@ https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:0,Дом Кино
 #EXTGRP: кино
 http://77.72.22.42:8080/9136/index.m3u8
+#EXTINF:0,Любимое HD
+#EXTGRP: кино
+http://94.103.95.253/korn/parkplay.php?id=/live/ru_lubimoe_kino_hd/playlist.m3u8
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
 http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/11061/index.m3u8
