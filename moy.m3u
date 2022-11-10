@@ -67,10 +67,10 @@ http://myott.top/stream/P1SFH8IPR5/125.m3u8
 http://188.191.160.238:9099/channel/Doverie.ts
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
-https://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist_3.m3u8
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 #EXTINF:0,Красная линия
 #EXTGRP: эфир
-https://altyn.cdn.lifeyosso.fun:5671/krAsnAya_liniya/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
+http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
 #EXTINF:0,СТС
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
@@ -199,7 +199,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_7.m3u8
 
 #EXTINF:0,ТВ Центр 
 #EXTGRP: эфир
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_2.m3u8
+http://dmi3y-tv.ru/hls/T2/CH_TVC.m3u8
 #EXTINF:0,Известия ТВ
 #EXTGRP: Познавательное
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
@@ -274,95 +274,12 @@ https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 #EXTINF:0,Атмосфера
 #EXTGRP: Релакс
 https://listen5.myradio24.com/atmo
-#EXTINF:0,Esoterica FM Gregorian Chants
-#EXTGRP: Релакс
-https://radios.esoterica.fm.br:7002
-#EXTINF:0,Chillоut
-#EXTGRP: Релакс
-http://myradio24.org/8795
-#EXTINF:0,Record Chillout
-#EXTGRP: Релакс
-https://str2.pcradio.ru/record_chillout-med
-#EXTINF:0,Chillstep
-#EXTGRP: Релакс
-http://ic7.101.ru:8000/a260
-#EXTINF:0,Enigmatic Station 1 
-#EXTGRP: Релакс
-https://listen2.myradio24.com/8226
-#EXTINF:0,Chill FM
-#EXTGRP: Релакс
-https://edge126.rcs-rds.ro/profm/chillfm.mp3
-#EXTINF:0,ChilloutFM
-#EXTGRP: Релакс
-https://listen2.myradio24.com/8795
-#EXTINF:0,Enigmatic Sunshine
-#EXTGRP: Релакс
-http://radio.enigmatic.su:8120/radio
-#EXTINF:0,chillfm.ro
-#EXTGRP: Релакс
-https://edge126.rcs-rds.ro/profm/chillfm.mp3
-#EXTINF:0,Lounge FM - Chill Out
-#EXTGRP: Релакс
-http://cast.loungefm.com.ua/chillout128
-#EXTINF:0,Maretimo Chill Radio
-#EXTGRP: Релакс
-https://s35.derstream.net/chillradio.mp3
-#EXTINF:0,Chill
-#EXTGRP: Релакс
-http://dfm.hostingradio.ru/spoknochi96.aacp
-#EXTINF:0,Chill 101
-#EXTGRP: Релакс
-http://pub0302.101.ru:8000/stream/trust/mp3/128/24
-#EXTINF:0,Enigma
-#EXTGRP: Релакс
-http://ic7.101.ru:8000/a175
-#EXTINF:0,Enigma2
-#EXTGRP: Релакс
-http://pub0302.101.ru:8000/stream/pro/aac/64/175
-#EXTINF:0,ENIGMATIC PARTY
-#EXTGRP: Релакс
-http://pub0202.101.ru:8000/stream/personal/aacp/64/459173
-#EXTINF:0,Enigma3
-#EXTGRP: Релакс
-https://str2.pcradio.ru/Enigma-med
-#EXTINF:0,New Age Radio
-#EXTGRP: Релакс
-https://a7.radioheart.ru:8044/newageradio?f32e
-#EXTINF:0,Ретро FM Сан-Ремо
-#EXTGRP: Релакс
-https://hls-01-sanremo.emgsound.ru/5/32/playlist.m3u8
-#EXTINF:0,Italo Disco
-#EXTGRP: Релакс
-http://pub0302.101.ru:8000/stream/pro/aac/64/161
-#EXTINF:0,Smash Italia Radio
-#EXTGRP: Музыка
-http://s3.smashmalta.com:82/live/smash/smash/36.ts
-#EXTINF:0,Golden 70's 
-#EXTGRP: Релакс
-http://pub0302.101.ru:8000/stream/pro/aac/64/192
-#EXTINF:0,Relax International
-#EXTGRP: Релакс
-https://stream.relaxfm.ee/international
-#EXTINF:0,Radio Nostalgie 101
-#EXTGRP: Музыка
-http://pub0202.101.ru:8000/stream/personal/aacp/64/85780
-#EXTINF:0,DMJ Music Chile
-#EXTGRP: Музыка
-https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
-#EXTINF:0,Romantic&Ballads
-#EXTGRP: Музыка
-https://autopilot.catcast.tv/content/39696/index.m3u8
-#EXTINF:0,TRANCE IS STAR TV
-#EXTGRP: Музыка
-https://tis.catcast.tv/content/391/index.m3u8
-#EXTINF:0,Ретро Музыка
-#EXTGRP: Музыка
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 
-#EXTINF:0,соловей1
-#EXTGRP: Музыка
-https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=2c516c4c1f9df35f8ca1da2e3bd28727e23e7723&st.mq=3&st.mvid=4484292938479&st.ip=45.150.24.250&st.dla=on&st.exp=1666901926413&st.hls=off&_prevCmd=movieLayer&tkn=1788
+
+#EXTINF:0,ЗВЕЗДА Плюс
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDAPLUSHD/bw5000000/variant.m3u8
 
 #EXTINF:0,Конец
 
