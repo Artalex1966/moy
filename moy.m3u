@@ -59,6 +59,9 @@ http://dgfyy1lm.otttv.pw/iptv/YGETMZ4ZQAP23Z/9265/index.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP: эфир
 http://myott.top/stream/P1SFH8IPR5/146.m3u8
+#EXTINF:0,Discovery Science
+#EXTGRP: эфир
+http://77.72.22.42:8080/9265/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP: эфир
 http://myott.top/stream/P1SFH8IPR5/125.m3u8
@@ -277,9 +280,9 @@ https://listen5.myradio24.com/atmo
 
 
 
-#EXTINF:0,ЗВЕЗДА Плюс
+#EXTINF:0, Красная  Линия
 #EXTGRP: эфир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDAPLUSHD/bw5000000/variant.m3u8
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Конец
 
