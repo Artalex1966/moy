@@ -36,10 +36,10 @@ http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 http://myott.top/stream/7D4XYB2WFN/369.m3u8
 #EXTINF:0,Соловьев Live HD
 #EXTGRP: эфир
-http://195.2.74.99/channel/n53c37a0/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+http://dmi3y-tv.ru/hls/CH_SOLOVEVLIVEHD.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-https://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_4.m3u8
+http://dmi3y-tv.ru/hls/CH_SOLOVEVLIVE.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 https://radio-live-mg.rtr-vesti.ru/hls2/givc21/playlist_6.m3u8
