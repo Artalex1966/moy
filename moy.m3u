@@ -44,15 +44,16 @@ http://dmi3y-tv.ru/hls/CH_SOLOVEVLIVE.m3u8
 #EXTGRP: эфир
 https://radio-live-mg.rtr-vesti.ru/hls2/givc21/playlist_6.m3u8
 
+#EXTINF:0,VF Друзья
+#EXTGRP: кино
+http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/17006/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://193.233.9.49/streams/media/Cinema/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://95.183.43.237:8080/131/index.m3u8
-#EXTINF:0,Fantastica Scifi
-#EXTGRP: кино
-https://v2.catcast.tv/content/38801/index.m3u8
+
 #EXTINF:0,Discovery Science
 #EXTGRP: эфир
 http://dgfyy1lm.otttv.pw/iptv/YGETMZ4ZQAP23Z/9265/index.m3u8
@@ -65,6 +66,22 @@ http://77.72.22.42:8080/9265/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP: эфир
 http://myott.top/stream/P1SFH8IPR5/125.m3u8
+#EXTINF:0,Наука 2.0
+#EXTGRP: эфир
+http://flu.ttk.mx:9090/Nauka/index.m3u8?token=orh6o
+
+#EXTINF:0,Кино 1 HD
+#EXTGRP: кино
+http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/18069/index.m3u8
+#EXTINF:0,Кино 2 HD
+#EXTGRP: кино
+http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/18070/index.m3u8
+#EXTINF:0,Кино 1 International
+#EXTGRP: кино
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:0,Детское кино International
+#EXTGRP: кино
+https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
 http://188.191.160.238:9099/channel/Doverie.ts
@@ -113,6 +130,12 @@ https://edge-01.kino.watch/fresh/index.m3u8
 #EXTINF:0,Kino Watch TV - Уже видел
 #EXTGRP: эфир
 https://edge-01.kino.watch/hit/index.m3u8
+#EXTINF:0,Фантастика HD
+#EXTGRP: кино
+http://hlss.goodgame.ru/hls/187241.m3u8
+#EXTINF:0,Fantastica Scifi
+#EXTGRP: кино
+https://v2.catcast.tv/content/38801/index.m3u8
 
 #EXTINF:0,Классика Кино
 #EXTGRP: эфир
@@ -120,6 +143,10 @@ https://altyn.cdn.lifeyosso.fun:9304/movieclassic/video.m3u8?token=am9rZXMyNXx8Y
 #EXTINF:0,Cinema Classic
 #EXTGRP: эфир
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+
+#EXTINF:0,CCCP сказки
+#EXTGRP: кино
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13021/index.m3u
 #EXTINF:0,Дом Кино
 #EXTGRP: кино
 http://77.72.22.42:8080/9136/index.m3u8
@@ -138,30 +165,15 @@ http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/13005/index.m3u8
 #EXTINF:0,Советское кино
 #EXTGRP: кино
 https://cache-1.catcast.tv/content/38821/index.m3u8
-#EXTINF:0,VF Друзья
-#EXTGRP: кино
-http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/17006/index.m3u8
+
 #EXTINF:0,Память
 #EXTGRP: кино
 https://v2.catcast.tv/content/38821/index.m3u8
-#EXTINF:0,Кино 1 HD
-#EXTGRP: кино
-http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/18069/index.m3u8
-#EXTINF:0,Кино 2 HD
-#EXTGRP: кино
-http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/18070/index.m3u8
-#EXTINF:0,Кино 1 International
-#EXTGRP: кино
-http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:0,Детское кино International
-#EXTGRP: кино
-https://v2.catcast.tv/content/38720/index.m3u8
+
 #EXTINF:0,Военное кино HD
 #EXTGRP: кино
 http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/18072/index.m3u8
-#EXTINF:0,Фантастика HD
-#EXTGRP: кино
-http://hlss.goodgame.ru/hls/187241.m3u8
+
 
 #EXTINF:0,Любимое HD
 #EXTGRP: кино
@@ -169,9 +181,7 @@ http://srv-3-streaming.iptvin.site:8080/lyubimoe/video.m3u8?token=b5d2e06fb81383
 #EXTINF:0,Мосфильм. Золотая коллекция 
 #EXTGRP: кино
 http://hez1-flu.iptvstream.site/63/index.m3u8
-#EXTINF:0,CCCP сказки
-#EXTGRP: кино
-http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13021/index.m3u
+
 
 #EXTINF:0,Карусель
 #EXTGRP: Детский
