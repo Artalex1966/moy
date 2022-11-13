@@ -100,6 +100,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
 #EXTINF:0,ТНТ
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:0,VF Кухня
+#EXTGRP: кино
+http://he11o.akadatel.com/iptv/MPEUGRNWZS5LZC/18199/index.m3u8
 #EXTINF:0,Рен ТВ 
 #EXTGRP: эфир
 http://foreign-default.persik.by:82/live/Ch63/index.m3u8
