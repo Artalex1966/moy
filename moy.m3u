@@ -47,6 +47,9 @@ https://radio-live-mg.rtr-vesti.ru/hls2/givc21/playlist_6.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/17006/index.m3u8
+#EXTINF:0,VF Друзья
+#EXTGRP: кино
+http://he11o.akadatel.com/iptv/MPEUGRNWZS5LZC/17006/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://193.233.9.49/streams/media/Cinema/index.m3u8
