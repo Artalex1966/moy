@@ -204,6 +204,9 @@ https://altyn.cdn.lifeyosso.fun:9304/O/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFN
 #EXTINF:0,Рыжий
 #EXTGRP: Детский
 https://altyn.cdn.lifeyosso.fun:9103/rishiy/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
+#EXTINF:0,Детский мир
+#EXTGRP: Детский
+http://95.217.196.109:8081/russia/detskiy_mir_sd_new/playlist.m3u8
 #EXTINF:0,Чип и Дейл
 #EXTGRP: Детский
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13064/index.m3u
