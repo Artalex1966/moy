@@ -197,7 +197,7 @@ http://hez1-flu.iptvstream.site/63/index.m3u8
 
 #EXTINF:0,Карусель
 #EXTGRP: Детский
-https://radio-live-mg.rtr-vesti.ru/hls/karusel/playlist_3.m3u8
+http://srv-4-streaming.iptvin.site:8080/karusel/video.m3u8?token=2c9df4e6f4a4f35ab90e22d32f9c55b0b5f91cae-2294435682-1668406813-1668363613
 #EXTINF:0,О!
 #EXTGRP: Детский
 https://altyn.cdn.lifeyosso.fun:9304/O/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
