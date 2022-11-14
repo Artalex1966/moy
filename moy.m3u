@@ -34,6 +34,10 @@ http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://myott.top/stream/7D4XYB2WFN/369.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция 
+#EXTGRP: кино
+http://hez1-flu.iptvstream.site/63/index.m3u8
+
 #EXTINF:0,Соловьев Live HD
 #EXTGRP: эфир
 http://dmi3y-tv.ru/hls/CH_SOLOVEVLIVEHD.m3u8
