@@ -250,6 +250,9 @@ https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
 #EXTINF:0 tvg-rec="0",VF Авто
 #EXTGRP: Познавательное
 http://v1atpwtq.rostelekom.xyz/iptv/L4YQ9RBFTU7PBU/15511/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Авто
+#EXTGRP: Познавательное
+http://4bec4640.ottolok.net/iptv/Z6CCS8WYBWVHKV/15511/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Стройка
 #EXTGRP: Познавательное
 http://ds6g2mk3.ottclub.xyz/iptv/WUC9ADM4Q57C57/16139/index.m3u8
