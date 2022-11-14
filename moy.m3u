@@ -23,6 +23,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?versi
 #EXTINF:0,НТВ
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3
+#EXTINF:0,НТВ
+#EXTGRP: эфир
+http://iptv.ktkru.ru:8004/index.m3u8
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
 http://188.191.160.238:9099/channel/REN_TV.ts
