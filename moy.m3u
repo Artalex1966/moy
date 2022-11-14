@@ -22,9 +22,6 @@ http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
 #EXTINF:0,НТВ
 #EXTGRP: эфир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3
-#EXTINF:0,НТВ
-#EXTGRP: эфир
 http://iptv.ktkru.ru:8004/index.m3u8
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
