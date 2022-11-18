@@ -79,6 +79,9 @@ http://myott.top/stream/P1SFH8IPR5/125.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP: эфир
 http://flu.ttk.mx:9090/Nauka/index.m3u8?token=orh6o
+#EXTINF:0,ОРУЖИЕ
+#EXTGRP: эфир
+http://185.123.187.5:80/oruzhie/index.m3u8?token=test
 
 #EXTINF:0,Кино 1 HD
 #EXTGRP: кино
