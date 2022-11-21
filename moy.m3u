@@ -110,6 +110,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
 #EXTINF:0,ТНТ
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:0,Звезда
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8?version=2
 #EXTINF:0,VF Кухня
 #EXTGRP: кино
 http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/18199/index.m3u8
@@ -216,6 +219,9 @@ https://v2.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,Военное кино HD
 #EXTGRP: кино
 http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/18072/index.m3u8
+#EXTINF:0,Звязда
+#EXTGRP: кино
+http://srv-3-streaming.iptvin.site:8080/zvyazda/video.m3u8?token=4a5ab0cb1d2041e2eb423ef818b61ffbe4f54bd2-4232113332-1669083391-1669040191
 
 
 #EXTINF:0,Любимое HD
