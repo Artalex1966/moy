@@ -162,9 +162,9 @@ http://92.119.89.202:8080/17022/index.m3u8
 #EXTGRP: кино
 http://77.72.22.106:8080/11032/index.m3u8
 
-#EXTINF:0,Классика Кино
+#EXTINF:0,Видеокассета
 #EXTGRP: эфир
-https://altyn.cdn.lifeyosso.fun:9304/movieclassic/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
+https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:0,Cinema Classic
 #EXTGRP: эфир
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
