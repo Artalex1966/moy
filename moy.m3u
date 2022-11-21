@@ -141,10 +141,10 @@ http://foreign-default.persik.by:82/live/Ch59/index.m3u8
 #EXTGRP: кино
 http://foreign-default.persik.by:82/live/Ch221/index.m3u8
 #EXTINF:0,Остросюжетное HD
-#EXTGRP: эфир
+#EXTGRP: кино
 http://94.103.95.253/korn/parkplay.php?id=/live/ru_ostrosuzhet_hd/playlist.m3u8
 #EXTINF:0,Kino Watch TV - Свежаки
-#EXTGRP: эфир
+#EXTGRP: кино
 https://edge-01.kino.watch/fresh/index.m3u8
 #EXTINF:0,Kino Watch TV - Уже видел
 #EXTGRP: эфир
@@ -163,11 +163,14 @@ http://92.119.89.202:8080/17022/index.m3u8
 http://77.72.22.106:8080/11032/index.m3u8
 
 #EXTINF:0,Видеокассета
-#EXTGRP: эфир
+#EXTGRP: кино
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:0,Cinema Classic
-#EXTGRP: эфир
+#EXTGRP: кино
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:0,КиноСезон
+#EXTGRP: кино
+http://iptvin.ddns.net:2134/channel/7e5a40bb/index.m3u8?q=c2f105e41a177ab49ed3fee055dd0dd5
 
 #EXTINF:0,минимакс-ussr-комедия HD
 #EXTGRP: кино
