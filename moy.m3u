@@ -237,7 +237,7 @@ http://hez1-flu.iptvstream.site/63/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
 #EXTINF:0,О!
 #EXTGRP: Детский
-http://91.202.44.196/iptv_ch_76
+http://srv-6-streaming.iptvin.site:8080/o/video.m3u8?token=07bc669f16b0010c6f91d3dcb2d1cbc57738b708-4232113332-1669111902-1669068702
 #EXTINF:0,Рыжий
 #EXTGRP: Детский
 https://altyn.cdn.lifeyosso.fun:9103/rishiy/video.m3u8?token=am9rZXMyNXx8YW05eVlUSTFNVEk9
@@ -299,9 +299,7 @@ https://hls.goodgame.ru/manifest/153640_master.m3u8
 ----
 
 
-#EXTINF:0,Антимайдан HD
-#EXTGRP: Блог
-https://hls.goodgame.ru/hls/6147_720.m3u8
+
 #EXTINF:0,Оплот
 #EXTGRP: Познавательное
 http://ott.inmart.tv:8081/54/index.m3u8
