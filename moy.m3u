@@ -107,6 +107,9 @@ http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
 #EXTINF:0,СТС
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+#EXTINF:0,,СТС Love
+#EXTGRP: эфир
+http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
 #EXTINF:0,ТНТ
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
@@ -296,6 +299,18 @@ http://ds6g2mk3.ottclub.xyz/iptv/WUC9ADM4Q57C57/16139/index.m3u8
 #EXTINF:0,FILM ХИТ HD
 #EXTGRP: Познавательное
 https://hls.goodgame.ru/manifest/153640_master.m3u8
+#EXTINF:0,STR TV
+#EXTGRP: Познавательное
+https://hls.goodgame.ru/hls/185110.m3u8
+#EXTINF:0,Akudji
+#EXTGRP: Познавательное
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:0,PZN TV
+#EXTGRP: Познавательное
+https://hls.goodgame.ru/hls/180960.m3u8
+#EXTINF:0,FMC
+#EXTGRP: Познавательное
+https://hls.goodgame.ru/hls/187741.m3u8
 
 
 
