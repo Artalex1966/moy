@@ -4,6 +4,9 @@
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+#EXTINF:0,Россия 24
+#EXTGRP: эфир
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_SUR/variant.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
