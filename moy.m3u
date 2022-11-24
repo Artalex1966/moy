@@ -244,9 +244,7 @@ http://opdlkqyh.ottclub.xyz/iptv/YGETMZ4ZQAP23Z/18072/index.m3u8
 http://srv-3-streaming.iptvin.site:8080/zvyazda/video.m3u8?token=4a5ab0cb1d2041e2eb423ef818b61ffbe4f54bd2-4232113332-1669083391-1669040191
 
 
-#EXTINF:0,Любимое HD
-#EXTGRP: кино
-http://srv-3-streaming.iptvin.site:8080/lyubimoe/video.m3u8?token=b5d2e06fb813839442a49ec3d2336ef8fa25163d-2294434542-1667536003-1667492803
+
 #EXTINF:0,Мосфильм. Золотая коллекция 
 #EXTGRP: кино
 http://hez1-flu.iptvstream.site/63/index.m3u8
@@ -315,10 +313,10 @@ https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
 #EXTINF:0 tvg-rec="0",VF Авто
 #EXTGRP: Познавательное
-http://v1atpwtq.rostelekom.xyz/iptv/L4YQ9RBFTU7PBU/15511/index.m3u8
+http://dcwglnlx.megogo.xyz/iptv/E8QBNF32MF7NCE/15511/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Авто
 #EXTGRP: Познавательное
-http://4bec4640.ottolok.net/iptv/Z6CCS8WYBWVHKV/15511/index.m3u8
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/15511/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Стройка
 #EXTGRP: Познавательное
 http://ds6g2mk3.ottclub.xyz/iptv/WUC9ADM4Q57C57/16139/index.m3u8
