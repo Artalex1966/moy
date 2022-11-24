@@ -247,6 +247,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?versi
 #EXTINF:0,О!
 #EXTGRP: Детский
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/727/index.m3u
+#EXTINF:0,О!
+#EXTGRP: Детский
+http://myott.top/stream/D18A159NA2/60.m3u8
 #EXTINF:0,Рыжий
 #EXTGRP: Детский
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/2052/index.m3u
