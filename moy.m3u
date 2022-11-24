@@ -13,7 +13,7 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?v
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
-http://78.25.155.47:1309/channel/Perv_SD.ts
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
 #EXTINF:0,Россия 1 HD
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
