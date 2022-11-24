@@ -36,7 +36,7 @@ http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 http://myott.top/stream/7D4XYB2WFN/369.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция 
 #EXTGRP: кино
-http://hez1-flu.iptvstream.site/63/index.m3u8
+http://myott.top/stream/D18A159NA2/369.m3u8
 
 #EXTINF:0,Соловьев Live HD
 #EXTGRP: эфир
@@ -65,11 +65,11 @@ http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/18119/index.m3u
 http://193.233.9.49/streams/media/Cinema/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
-http://95.183.43.237:8080/131/index.m3u8
+http://myott.top/stream/D18A159NA2/62.m3u8
 
 #EXTINF:0,Discovery Science
 #EXTGRP: эфир
-http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/6001/index.m3u
+http://myott.top/stream/D18A159NA2/146.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP: эфир
 http://myott.top/stream/P1SFH8IPR5/146.m3u8
