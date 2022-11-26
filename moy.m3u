@@ -47,7 +47,7 @@ http://dmi3y-tv.ru/hls/CH_SOLOVEVLIVEHD.m3u8
 http://dmi3y-tv.ru/hls/CH_SOLOVEVLIVE.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-https://radio-live-mg.rtr-vesti.ru/hls2/givc21/playlist_6.m3u8
+http://ott.inmart.tv:8081/19/index.m3u8
 
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
@@ -83,9 +83,12 @@ http://myott.top/stream/P1SFH8IPR5/125.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP: эфир
 http://flu.ttk.mx:9090/Nauka/index.m3u8?token=orh6o
-#EXTINF:0,ОРУЖИЕ
-#EXTGRP: эфир
-http://185.123.187.5:80/oruzhie/index.m3u8?token=test
+#EXTINF:0 tvg-rec="0",VF Авто
+#EXTGRP: Познавательное
+http://dcwglnlx.megogo.xyz/iptv/E8QBNF32MF7NCE/15511/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Авто
+#EXTGRP: Познавательное
+http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/15511/index.m3u8
 #EXTINF:0,Дом Кино
 #EXTGRP: кино
 http://78.25.155.47:1309/channel/DOM_kino.ts
@@ -311,12 +314,10 @@ https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:0,Известия ТВ HD
 #EXTGRP: Познавательное
 https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
-#EXTINF:0 tvg-rec="0",VF Авто
+#EXTINF:0,Известия ТВ
 #EXTGRP: Познавательное
-http://dcwglnlx.megogo.xyz/iptv/E8QBNF32MF7NCE/15511/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Авто
-#EXTGRP: Познавательное
-http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/15511/index.m3u8
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/index.m3u8
+
 #EXTINF:0 tvg-rec="0",VF Стройка
 #EXTGRP: Познавательное
 http://ds6g2mk3.ottclub.xyz/iptv/WUC9ADM4Q57C57/16139/index.m3u8
