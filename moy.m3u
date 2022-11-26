@@ -277,6 +277,9 @@ http://95.217.196.109:8081/russia/disney/playlist.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
 http://clientportal.link:80/2KxVWZj430/P2nUNA976/15324
+#EXTINF:0,Мультсказки
+#EXTGRP: Детский
+https://autopilot.catcast.tv/content/38850/index.m3u8
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детский
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/737/index.m3u
