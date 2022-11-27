@@ -130,9 +130,9 @@ http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
 #EXTINF:0,ТНТ
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
-#EXTINF:0,ТНТ4 International
+#EXTINF:0,ТНТ4
 #EXTGRP: эфир
-https://sc.id-tv.kz:443/tnt4_34_35.m3u8
+https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0,Звезда
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8?version=2
