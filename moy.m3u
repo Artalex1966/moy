@@ -153,7 +153,7 @@ http://193.233.9.49/streams/media/KINO_TV_HD/index.m3u8
 https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
 #EXTINF:0,Кинопоказ
 #EXTGRP: кино
-http://dmi3y-tv.ru/hls/CH_KINOPOKAZ.m3u8
+http://46.151.151.245:10001/play/a002/index.m3u8
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
 http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
