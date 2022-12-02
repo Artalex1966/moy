@@ -175,6 +175,9 @@ https://edge-01.kino.watch/fresh/index.m3u8
 #EXTINF:0,Kino Watch TV - Уже видел
 #EXTGRP: эфир
 https://edge-01.kino.watch/hit/index.m3u8
+#EXTINF:0,BEST Films HD
+#EXTGRP: кино
+http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/11050/index.m3u8
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 http://hlss.goodgame.ru/hls/187241.m3u8
@@ -197,6 +200,9 @@ https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:0,КиноСезон
 #EXTGRP: кино
 http://iptvin.ddns.net:2134/channel/7e5a40bb/index.m3u8?q=c2f105e41a177ab49ed3fee055dd0dd5
+#EXTINF:0,День Победы HD
+#EXTGRP: кино
+http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/5054/index.m3u8
 
 #EXTINF:0,минимакс-ussr-комедия HD
 #EXTGRP: кино
