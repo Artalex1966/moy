@@ -303,6 +303,9 @@ http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/9011/index.m3u
 #EXTINF:0,Министерство идей
 #EXTGRP: эфир
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:0,Оружие
+#EXTGRP: эфир
+http://saveukraine.only4.tv/5565/video.m3u8?token=y3DBG7q3sk
 #EXTINF:0,РЕН ТВ (-1)
 #EXTGRP: эфир
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV-1.m3u8
