@@ -309,7 +309,7 @@ http://iptv.ktkru.ru:8011/index.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV-1.m3u8
 #EXTINF:0,Рен ТВ 
 #EXTGRP: эфир
-http://dmi3y-tv.ru/hls/T2/CH_RENTVHD.m3u8
+http://iptv.ktkru.ru:8011/index.m3u8
 #EXTINF:0,Рен ТВ (+2)
 #EXTGRP: эфир
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_2.m3u8
