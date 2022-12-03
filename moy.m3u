@@ -182,12 +182,7 @@ http://hlss.goodgame.ru/hls/187241.m3u8
 #EXTINF:0,Fantastica Scifi
 #EXTGRP: кино
 https://v2.catcast.tv/content/38801/index.m3u8
-#EXTINF:0,BCU Cosmo OLD
-#EXTGRP: кино
-http://92.119.89.202:8080/17022/index.m3u8
-#EXTINF:0,BCU Fantastic HD
-#EXTGRP: кино
-http://77.72.22.106:8080/11032/index.m3u8
+
 
 #EXTINF:0,Видеокассета
 #EXTGRP: кино
