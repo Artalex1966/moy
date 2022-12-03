@@ -69,19 +69,19 @@ http://myott.top/stream/5MN5PV4P7R/62.m3u8
 http://myott.top/stream/D18A159NA2/62.m3u8
 
 #EXTINF:0,Discovery Science
-#EXTGRP: эфир
+#EXTGRP: Познавательное
 http://myott.top/stream/D18A159NA2/146.m3u8
 #EXTINF:0,Discovery Science
-#EXTGRP: эфир
+#EXTGRP: Познавательное
 http://myott.top/stream/P1SFH8IPR5/146.m3u8
 #EXTINF:0,Discovery Science
-#EXTGRP: эфир
+#EXTGRP: Познавательное
 https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
 #EXTINF:0,Наука 2.0
-#EXTGRP: эфир
+#EXTGRP: Познавательное
 http://myott.top/stream/P1SFH8IPR5/125.m3u8
 #EXTINF:0,Наука 2.0
-#EXTGRP: эфир
+#EXTGRP: Познавательное
 http://flu.ttk.mx:9090/Nauka/index.m3u8?token=orh6o
 #EXTINF:0 tvg-rec="0",VF Авто
 #EXTGRP: Познавательное
@@ -89,6 +89,9 @@ http://ds6g2mk3.ottclub.xyz/iptv/WUC9ADM4Q57C57/15511/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Авто
 #EXTGRP: Познавательное
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/15511/index.m3u8
+#EXTINF:0 tvg-rec="0",Авто 24
+#EXTGRP: Познавательное
+http://flu.ttk.mx:9090/Avto24/index.m3u8?token=orh6o
 #EXTINF:0,Дом Кино
 #EXTGRP: кино
 http://78.25.155.47:1309/channel/DOM_kino.ts
@@ -286,13 +289,13 @@ http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/737/index.m3u
 
 
 #EXTINF:0,Discovery Channel
-#EXTGRP: эфир
+#EXTGRP: Познавательное
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/9011/index.m3u
 #EXTINF:0,Министерство идей
-#EXTGRP: эфир
+#EXTGRP: Познавательное
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:0,Оружие
-#EXTGRP: эфир
+#EXTGRP: Познавательное
 http://saveukraine.only4.tv/5565/video.m3u8?token=y3DBG7q3sk
 #EXTINF:0,Рен ТВ 
 #EXTGRP: эфир
@@ -318,32 +321,32 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_7.m3u8
 #EXTGRP: эфир
 http://dmi3y-tv.ru/hls/T2/CH_TVC.m3u8
 #EXTINF:0,Известия ТВ
-#EXTGRP: Познавательное
+#EXTGRP: эфир
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:0,Известия ТВ HD
-#EXTGRP: Познавательное
+#EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
 #EXTINF:0,Известия ТВ
-#EXTGRP: Познавательное
+#EXTGRP: эфир
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/index.m3u8
 
 #EXTINF:0 tvg-rec="0",VF Стройка
 #EXTGRP: Познавательное
 http://ds6g2mk3.ottclub.xyz/iptv/WUC9ADM4Q57C57/16139/index.m3u8
 #EXTINF:0,FILM ХИТ HD
-#EXTGRP: Познавательное
+#EXTGRP: кино
 https://hls.goodgame.ru/manifest/153640_master.m3u8
 #EXTINF:0,STR TV
-#EXTGRP: Познавательное
+#EXTGRP: кино
 https://hls.goodgame.ru/hls/185110.m3u8
 #EXTINF:0,Akudji
-#EXTGRP: Познавательное
+#EXTGRP: кино
 https://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:0,PZN TV
-#EXTGRP: Познавательное
+#EXTGRP: кино
 https://hls.goodgame.ru/hls/180960.m3u8
 #EXTINF:0,FMC
-#EXTGRP: Познавательное
+#EXTGRP: кино
 https://hls.goodgame.ru/hls/187741.m3u8
 
 
