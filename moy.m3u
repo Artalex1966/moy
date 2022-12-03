@@ -218,10 +218,10 @@ http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/13019/index.m3u8
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13021/index.m3u
 #EXTINF:0,Дом Кино
 #EXTGRP: кино
-http://77.72.22.42:8080/9136/index.m3u8
-#EXTINF:0,Любимое HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINO/bw2000000/variant.m3u8
+#EXTINF:0,Любимое Кино
 #EXTGRP: кино
-http://94.103.95.253/korn/parkplay.php?id=/live/ru_lubimoe_kino_hd/playlist.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LUBIMOE/bw2000000/variant.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://50.7.149.34:8001/play/bcu_sssr_hd
@@ -297,7 +297,7 @@ http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/13016/index.m3u8
 https://autopilot.catcast.tv/content/38850/index.m3u8
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детский
-http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/737/index.m3u
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VGOSTYAHUSKAZKI/bw2000000/variant.m3u8
 
 
 #EXTINF:0,Discovery Channel
