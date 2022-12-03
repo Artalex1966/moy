@@ -148,9 +148,9 @@ http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/18199/index.m3u8
 #EXTGRP: кино
 http://he11o.akadatel.com/iptv/PEGD2P9BXPMSE2/18199/index.m3u8
 
-#EXTINF:0,Кино ТВ HD
+#EXTINF:0,Кино ТВ
 #EXTGRP: кино
-http://193.233.9.49/streams/media/KINO_TV_HD/index.m3u8
+http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
 https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
