@@ -145,9 +145,7 @@ http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/18199/index.m3u8
 #EXTINF:0,VF Кухня
 #EXTGRP: кино
 http://he11o.akadatel.com/iptv/PEGD2P9BXPMSE2/18199/index.m3u8
-#EXTINF:0,Рен ТВ 
-#EXTGRP: эфир
-http://foreign-default.persik.by:82/live/Ch63/index.m3u8
+
 #EXTINF:0,Кино ТВ HD
 #EXTGRP: кино
 http://193.233.9.49/streams/media/KINO_TV_HD/index.m3u8
@@ -172,12 +170,7 @@ http://foreign-default.persik.by:82/live/Ch221/index.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://94.103.95.253/korn/parkplay.php?id=/live/ru_ostrosuzhet_hd/playlist.m3u8
-#EXTINF:0,Kino Watch TV - Свежаки
-#EXTGRP: кино
-https://edge-01.kino.watch/fresh/index.m3u8
-#EXTINF:0,Kino Watch TV - Уже видел
-#EXTGRP: эфир
-https://edge-01.kino.watch/hit/index.m3u8
+
 #EXTINF:0,BEST Films HD
 #EXTGRP: кино
 http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/11050/index.m3u8
@@ -306,6 +299,9 @@ http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:0,Оружие
 #EXTGRP: эфир
 http://saveukraine.only4.tv/5565/video.m3u8?token=y3DBG7q3sk
+#EXTINF:0,Рен ТВ 
+#EXTGRP: эфир
+http://iptv.ktkru.ru:8011/index.m3u8
 #EXTINF:0,РЕН ТВ (-1)
 #EXTGRP: эфир
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV-1.m3u8
