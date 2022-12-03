@@ -189,6 +189,12 @@ http://hlss.goodgame.ru/hls/187241.m3u8
 #EXTINF:0,Fantastica Scifi
 #EXTGRP: кино
 https://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:0,BCU Fantastic
+#EXTGRP: кино
+http://50.7.149.34:8001/play/bcu_fantastic_hd
+#EXTINF:0,BCU Cosmo
+#EXTGRP: кино
+http://50.7.149.34:8001/play/bcu_cosmo_hd
 
 
 #EXTINF:0,Видеокассета
@@ -218,7 +224,7 @@ http://77.72.22.42:8080/9136/index.m3u8
 http://94.103.95.253/korn/parkplay.php?id=/live/ru_lubimoe_kino_hd/playlist.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/11026/index.m3u8
+http://50.7.149.34:8001/play/bcu_sssr_hd
 #EXTINF:0,KBC-Страна СССР
 #EXTGRP: кино
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/11091/index.m3u8
@@ -270,7 +276,7 @@ http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/727/index.m3u
 http://myott.top/stream/D18A159NA2/60.m3u8
 #EXTINF:0,Рыжий
 #EXTGRP: Детский
-http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/2052/index.m3u
+https://livetv.mylifeisgood.ml/channels/ryjii.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
 http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/543/index.m3u8
@@ -417,6 +423,9 @@ https://listen5.myradio24.com/atmo
 #EXTINF:0, Красная  Линия
 #EXTGRP: эфир
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:0,Discovery Science
+#EXTGRP: Познавательное
+https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
 
 #EXTINF:0,Конец
 
