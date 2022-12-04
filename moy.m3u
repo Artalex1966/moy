@@ -77,6 +77,9 @@ http://myott.top/stream/P1SFH8IPR5/146.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
 https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
+#EXTINF:0,Discovery
+#EXTGRP: Познавательное
+http://myott.top/stream/D18A159NA2/177.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP: Познавательное
 http://myott.top/stream/P1SFH8IPR5/125.m3u8
@@ -169,16 +172,22 @@ http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
 http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-http://194.113.234.110:4187
+http://myott.top/stream/D18A159NA2/126.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
 http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=orh6o
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
-http://94.103.95.253/korn/parkplay.php?id=/live/ru_ostrosuzhet_hd/playlist.m3u8
+http://myott.top/stream/D18A159NA2/214.m3u8
 #EXTINF:0,Родное Кино
 #EXTGRP: кино
-http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/126/index.m3u8
+http://myott.top/stream/D18A159NA2/242.m3u8
+#EXTINF:0,Наше новое кино
+#EXTGRP: кино
+http://myott.top/stream/D18A159NA2/128.m3u8
+#EXTINF:0,Киносемья
+#EXTGRP: кино
+http://myott.top/stream/D18A159NA2/170.m3u8
 
 #EXTINF:0,BEST Films HD
 #EXTGRP: кино
@@ -260,7 +269,7 @@ http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/18072/index.m3u8
 
 #EXTINF:0,Мосфильм. Золотая коллекция 
 #EXTGRP: кино
-http://hez1-flu.iptvstream.site/63/index.m3u8
+http://myott.top/stream/D18A159NA2/369.m3u8
 
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
