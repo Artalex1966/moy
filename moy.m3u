@@ -234,7 +234,7 @@ http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/13019/index.m3u8
 http://767dabbc.ottolok.net/iptv/EMMT98CMNBPHXB/13021/index.m3u
 #EXTINF:0,Дом Кино
 #EXTGRP: кино
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINO/bw2000000/variant.m3u8
+http://178.162.218.85:8081/rustv/domkino.stream/playlist.m3u8
 #EXTINF:0,Любимое Кино
 #EXTGRP: кино
 https://zabava-htlive.cdn.ngenix.net/hls/CH_LUBIMOE/bw2000000/variant.m3u8
