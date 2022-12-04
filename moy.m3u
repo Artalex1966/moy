@@ -98,6 +98,10 @@ http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/15511/index.m3u8
 #EXTINF:0 tvg-rec="0",Авто 24
 #EXTGRP: Познавательное
 http://flu.ttk.mx:9090/Avto24/index.m3u8?token=orh6o
+#EXTINF:0 tvg-rec="0",DTX
+#EXTGRP: Познавательное
+http://myott.top/stream/D18A159NA2/145.m3u8
+
 #EXTINF:0,Дом Кино
 #EXTGRP: кино
 http://78.25.155.47:1309/channel/DOM_kino.ts
@@ -306,7 +310,7 @@ http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/13016/index.m3u8
 https://autopilot.catcast.tv/content/38850/index.m3u8
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детский
-https://zabava-htlive.cdn.ngenix.net/hls/CH_VGOSTYAHUSKAZKI/bw2000000/variant.m3u8
+http://myott.top/stream/D18A159NA2/93.m3u8
 
 
 #EXTINF:0,Discovery Channel
