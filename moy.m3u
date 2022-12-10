@@ -1,4 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+#EXTINF:0,VF Новогодний
+#EXTGRP: кино
+http://767dabbc.ottolok.net/iptv/EMMT98CMNBPHXB/17035/index.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 http://78.25.155.47:1309/channel/Ros_24.ts
@@ -442,9 +445,9 @@ http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
 https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
-#EXTINF:0,VF Новогодний
+#EXTINF:0,Большая Игра Михаил Леонтьев
 #EXTGRP: кино
-http://767dabbc.ottolok.net/iptv/EMMT98CMNBPHXB/17035/index.m3u8
+https://youtu.be/C6vCi1Mknf0
 #EXTINF:0,Конец
 
 
