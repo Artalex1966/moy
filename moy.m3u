@@ -69,7 +69,10 @@ http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/18119/index.m3u
 http://myott.top/stream/5MN5PV4P7R/62.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
-http://myott.top/stream/D18A159NA2/62.m3u8
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/5051/index.m3u8
+#EXTINF:0,CineMan
+#EXTGRP: кино
+http://myott.top/stream/D18A159NA2/351.m3u8
 
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
