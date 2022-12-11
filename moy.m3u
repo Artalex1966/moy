@@ -241,9 +241,7 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/5054/index.m3u8
 #EXTINF:0,минимакс-ussr-комедия HD
 #EXTGRP: кино
 http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/13019/index.m3u8
-#EXTINF:0,CCCP сказки
-#EXTGRP: кино
-http://767dabbc.ottolok.net/iptv/EMMT98CMNBPHXB/13021/index.m3u
+
 #EXTINF:0,Дом Кино
 #EXTGRP: кино
 http://178.162.218.85:8081/rustv/domkino.stream/playlist.m3u8
@@ -290,6 +288,10 @@ http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/18072/index.m3u8
 #EXTGRP: кино
 http://myott.top/stream/D18A159NA2/369.m3u8
 
+----
+#EXTINF:0,CCCP сказки
+#EXTGRP: кино
+http://767dabbc.ottolok.net/iptv/EMMT98CMNBPHXB/13021/index.m3u
 #EXTINF:0,CCCP сказки
 #EXTGRP: кино
 http://767dabbc.ottolok.net/iptv/EMMT98CMNBPHXB/13021/index.m3u
