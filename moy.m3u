@@ -2,6 +2,9 @@
 #EXTINF:0,VF Новогодний
 #EXTGRP: кино
 http://767dabbc.ottolok.net/iptv/EMMT98CMNBPHXB/17035/index.m3u8
+#EXTINF:0,VF С новым годом!
+#EXTGRP: кино
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/15524/index.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 http://78.25.155.47:1309/channel/Ros_24.ts
@@ -287,6 +290,12 @@ http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/18072/index.m3u8
 #EXTGRP: кино
 http://myott.top/stream/D18A159NA2/369.m3u8
 
+#EXTINF:0,CCCP сказки
+#EXTGRP: кино
+http://767dabbc.ottolok.net/iptv/EMMT98CMNBPHXB/13021/index.m3u
+#EXTINF:0,PROKOP TV Сказки СССР
+#EXTGRP: Детский
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/19317/index.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
 http://dmi3y-tv.ru/hls/okko/CH_STSKIDS.m3u8
