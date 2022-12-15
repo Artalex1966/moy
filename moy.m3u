@@ -70,7 +70,7 @@ http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/18119/index.m3u
 http://myott.top/stream/5MN5PV4P7R/62.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
-http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/5051/index.m3u8
+http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/5051/index.m3u8
 #EXTINF:0,CineMan
 #EXTGRP: кино
 http://myott.top/stream/D18A159NA2/351.m3u8
@@ -159,6 +159,9 @@ https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0,Звезда
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8?version=2
+#EXTINF:0,Звезда Плюс
+#EXTGRP: эфир
+http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/10059/index.m3u8
 #EXTINF:0,VF Кухня
 #EXTGRP: кино
 http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/18199/index.m3u8
