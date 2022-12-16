@@ -43,9 +43,14 @@ http://myott.top/stream/7D4XYB2WFN/369.m3u8
 #EXTGRP: кино
 http://myott.top/stream/D18A159NA2/369.m3u8
 
-#EXTINF:0,Соловьев Live HD
+
+#EXTINF:0,ТВ Центр 
 #EXTGRP: эфир
-http://dmi3y-tv.ru/hls/CH_SOLOVEVLIVEHD.m3u8
+http://dmi3y-tv.ru/hls/T2/CH_TVC.m3u8
+#EXTINF:0,Известия ТВ
+#EXTGRP: эфир
+https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 http://dmi3y-tv.ru/hls/CH_SOLOVEVLIVE.m3u8
@@ -366,12 +371,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_4.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_7.m3u8
 
 
-#EXTINF:0,ТВ Центр 
-#EXTGRP: эфир
-http://dmi3y-tv.ru/hls/T2/CH_TVC.m3u8
-#EXTINF:0,Известия ТВ
-#EXTGRP: эфир
-https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+
 #EXTINF:0,Известия ТВ HD
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
@@ -466,6 +466,9 @@ https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
 #EXTINF:0,Россия 1 HD
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+#EXTINF:0,Соловьев Live HD
+#EXTGRP: эфир
+http://dmi3y-tv.ru/hls/CH_SOLOVEVLIVEHD.m3u8
 #EXTINF:0,Конец
 
 
