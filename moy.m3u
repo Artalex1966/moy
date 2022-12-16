@@ -62,6 +62,9 @@ http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/17006/index.m3u
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://he11o.akadatel.com/iptv/PEGD2P9BXPMSE2/17006/index.m3u8
+#EXTINF:0,Кинозал! Интерны ТВ
+#EXTGRP: кино
+http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/11060/index.m3u8
 #EXTINF:0,VF Игра престолов
 #EXTGRP: кино
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/18119/index.m3u
@@ -245,10 +248,10 @@ http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/13019/index.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: кино
-http://178.162.218.85:8081/rustv/domkino.stream/playlist.m3u8
+http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/154/index.m3u8
 #EXTINF:0,Любимое Кино
 #EXTGRP: кино
-https://zabava-htlive.cdn.ngenix.net/hls/CH_LUBIMOE/bw2000000/variant.m3u8
+http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/2106/index.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://50.7.149.34:8001/play/bcu_sssr_hd
