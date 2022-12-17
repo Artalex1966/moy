@@ -18,7 +18,6 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?v
 #EXTGRP: эфир
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2
 
-
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
@@ -31,7 +30,6 @@ http://iptv.ktkru.ru:8004/index.m3u8
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
 http://188.191.160.238:9099/channel/REN_TV.ts
-
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
@@ -435,12 +433,6 @@ http://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:0,Камин
 #EXTGRP: Релакс
 http://45.14.38.4:15000
-#EXTINF:0,Релакс HD
-#EXTGRP: Релакс
-http://140.238.127.147/streams/8.m3u8
-#EXTINF:0,Nature Relaxation HD
-#EXTGRP: Релакс
-https://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
 #EXTINF:0,Relax
 #EXTGRP: Релакс
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
@@ -448,20 +440,6 @@ https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 #EXTGRP: Релакс
 https://listen5.myradio24.com/atmo
 
-
-
-#EXTINF:0, Красная  Линия
-#EXTGRP: эфир
-http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:0,Discovery Science
-#EXTGRP: Познавательное
-https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
-#EXTINF:0,Россия 1 HD
-#EXTGRP: эфир
-https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
-#EXTINF:0,Соловьев Live HD
-#EXTGRP: эфир
-http://dmi3y-tv.ru/hls/CH_SOLOVEVLIVEHD.m3u8
 #EXTINF:0,KLI Premium HD
 #EXTGRP:Тест
 http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/KLI_Premium/video.m3u8?token=VG9oYV8zMTF8fFZHOW9ZVE14TVY5d2FXUnZjZz09
@@ -475,6 +453,9 @@ http://persik.by/stream/8174/22128/11295.m3u8
 #EXTINF:0,Мир технологий
 #EXTGRP:Тест
 http://persik.by/stream/8174/22128/11291.m3u8
+#EXTINF:0,Cinema
+#EXTGRP:Тест
+http://176.74.80.162:8099/Cinema/index.m3u8
 #EXTINF:0,Конец
 
 
