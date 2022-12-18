@@ -60,9 +60,12 @@ http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/17006/index.m3u
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://he11o.akadatel.com/iptv/QNDW4EGUVLQPH4/17006/index.m3u8
-#EXTINF:0,VF Игра престолов
+#EXTINF:0,VF Теория большого взрыва
 #EXTGRP: кино
-http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/18119/index.m3u
+http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15009/index.m3u8
+#EXTINF:0,VF Гарри Поттер 
+#EXTGRP: кино
+http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/14230/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://myott.top/stream/D18A159NA2/62.m3u8
