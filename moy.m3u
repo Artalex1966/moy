@@ -221,10 +221,10 @@ http://hlss.goodgame.ru/hls/187241.m3u8
 https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:0,BCU Fantastic
 #EXTGRP: кино
-http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/11032/index.m3u8
+http://50.7.149.34:8001/play/bcu_fantastic_hd
 #EXTINF:0,BCU Cosmo OLD
 #EXTGRP: кино
-http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/17022/index.m3u8
+http://50.7.149.34:8001/play/bcu_cosmo_hd
 #EXTINF:0,минимакс-UFO
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/13017/index.m3u8
