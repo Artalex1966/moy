@@ -177,6 +177,9 @@ https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
 #EXTINF:0,Кинопоказ
 #EXTGRP: кино
 http://46.151.151.245:10001/play/a002/index.m3u8
+#EXTINF:0,Премиальное HD
+#EXTGRP: кино
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
 http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
@@ -223,6 +226,9 @@ http://37trdlpj.otttv.pw/iptv/TMNT9LL8GCKRMT/11121/index.m3u8
 #EXTINF:0,BCU Cosmo OLD
 #EXTGRP: кино
 http://50.7.149.34:8001/play/bcu_cosmo_hd
+#EXTINF:0,BCU Fantastic HD
+#EXTGRP: кино
+http://50.7.149.34:8001/play/bcu_fantastic_hd
 #EXTINF:0,минимакс-UFO
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/13017/index.m3u8
@@ -440,6 +446,13 @@ https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 #EXTINF:0,Атмосфера
 #EXTGRP: Релакс
 https://listen5.myradio24.com/atmo
+#EXTINF:0,VF Леонид Гайдай
+#EXTGRP: кино
+http://37trdlpj.otttv.pw/iptv/TMNT9LL8GCKRMT/17004/index.m3u8
+#EXTINF:0,VF Луи де Фюнес
+#EXTGRP: кино
+http://37trdlpj.otttv.pw/iptv/TMNT9LL8GCKRMT/17000/index.m3u8
+
 
 
 #EXTINF:0,Конец
