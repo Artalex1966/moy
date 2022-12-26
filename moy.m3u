@@ -26,10 +26,10 @@ http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
 #EXTINF:0,НТВ
 #EXTGRP: эфир
-http://iptv.ktkru.ru:8004/index.m3u8
+http://flu.ttk.mx:9090/NTV/index.m3u8?token=orh6o
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
-http://iptv.ktkru.ru:8011/index.m3u8
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
