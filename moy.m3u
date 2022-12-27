@@ -43,6 +43,9 @@ http://91.207.180.142:80/mosfilm/index.m3u8
 #EXTINF:0,Известия ТВ
 #EXTGRP: эфир
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/index.m3u8
+#EXTINF:0,Известия Воронеж
+#EXTGRP: эфир
+http://185.23.80.28:8080/IzvestiyaVoronezh/index.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 http://dmi3y-tv.ru/hls/CH_SOLOVEVLIVE.m3u8
