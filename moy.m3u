@@ -22,7 +22,7 @@ http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
+http://livehlsvgtrkrf.cdnvideo.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
 #EXTINF:0,НТВ
 #EXTGRP: эфир
 http://flu.ttk.mx:9090/NTV/index.m3u8?token=orh6o
@@ -156,7 +156,7 @@ https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0,Звезда
 #EXTGRP: эфир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8?version=2
+https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8
 #EXTINF:0,Звезда Плюс
 #EXTGRP: эфир
 http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/10059/index.m3u8
