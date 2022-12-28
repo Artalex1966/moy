@@ -35,7 +35,7 @@ https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
 http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/9156/index.m3u8
+http://178.217.72.66:8080/mosfilm/video.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция 
 #EXTGRP: кино
 http://91.207.180.142:80/mosfilm/index.m3u8
