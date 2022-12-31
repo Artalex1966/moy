@@ -1,10 +1,13 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+#EXTINF:0,Новогодний музыка
+#EXTGRP: кино
+https://hls.youtb.workers.dev/video/Z1-3jTVsLmc.m3u8
 #EXTINF:0,VF Новогодний
 #EXTGRP: кино
-http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/17035/index.m3u8
+http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17035/index.m3u8
 #EXTINF:0,VF С новым годом!
 #EXTGRP: кино
-http://he11o.akadatel.com/iptv/QNDW4EGUVLQPH4/15524/index.m3u8
+http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15524/index.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 http://livehlsvgtrkrf.cdnvideo.ru/hls/russia_24/playlist_3.m3u8
