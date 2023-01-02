@@ -169,7 +169,7 @@ https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8
 #EXTINF:0,Звезда Плюс
 #EXTGRP: эфир
-http://iptv.mega.net.ru:8888/TVRU2/Spike/index.m3u8
+http://987a62d3.edemist.com/iptv/DWZLDP8TW66948/10059/index.m3u8
 #EXTINF:0,VF Кухня
 #EXTGRP: кино
 http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/18199/index.m3u8
@@ -215,7 +215,7 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 http://31.148.48.15:80/Rodnoe_kino/index.m3u8?token=test
 #EXTINF:0,Родное Кино
 #EXTGRP: кино
-http://myott.top/stream/DEKA6YA5JRN/242.m3u8
+http://play.wisp.cat/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FRodnoekino%2Fvideo.m3u8&login=ovasyk&key=PZlppH4
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
 http://myott.top/stream/D18A159NA2/128.m3u8
@@ -227,7 +227,7 @@ http://ott.server-iptv.live/620/video.m3u8?token=C7e7f66b17
 http://185.32.44.154/kinosemya/index.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: кино
-http://ott.server-iptv.live/610/video.m3u8?token=C7e7f66b17
+http://play.wisp.cat/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FKinosemya%2Fvideo.m3u8&login=ovasyk&key=PZlppH4
 
 #EXTINF:0,BEST Films HD
 #EXTGRP: кино
