@@ -42,9 +42,9 @@ http://2e36bf2d.ottrast.com/iptv/UBE23VSUAAZQKH/7347/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция 
 #EXTGRP: кино
 http://91.207.180.142:80/mosfilm/index.m3u8
-#EXTINF:0,Наше любимое кино
+#EXTINF:0,Кинохит
 #EXTGRP: эфир
-http://iptv.mega.net.ru:8888/TVRU2/Lubimoe_kino/index.m3u8
+http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Известия ТВ
 #EXTGRP: эфир
@@ -69,9 +69,9 @@ http://he11o.akadatel.com/iptv/QNDW4EGUVLQPH4/17006/index.m3u8
 #EXTINF:0,VF Теория большого взрыва
 #EXTGRP: кино
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15009/index.m3u8
-#EXTINF:0,VF Гарри Поттер 
+#EXTINF:0,Кино ТВ 
 #EXTGRP: кино
-http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/14230/index.m3u8
+http://95.217.196.109:8081/russia/kino_tv_sd_new/playlist.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://myott.top/stream/D18A159NA2/62.m3u8
