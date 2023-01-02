@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-#EXTINF:0,Новогодний музыка
+#EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
-https://hls.youtb.workers.dev/video/Z1-3jTVsLmc.m3u8
+http://rr3.vipshara-iptv.com/~109dda52c692840728b0297863aa7594d6b/1661/hls/pl.m3u8
 #EXTINF:0,VF Новогодний
 #EXTGRP: кино
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17035/index.m3u8
@@ -243,7 +243,7 @@ http://37trdlpj.otttv.pw/iptv/TMNT9LL8GCKRMT/11121/index.m3u8
 http://50.7.149.34:8001/play/bcu_cosmo_hd
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
-http://50.7.149.34:8001/play/bcu_fantastic_hd
+http://ip1.orgip.net/1606/video.m3u8?token=C7e7f66b17
 #EXTINF:0,минимакс-UFO
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/13017/index.m3u8
