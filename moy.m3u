@@ -72,6 +72,9 @@ http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15009/index.m3u8
 #EXTINF:0,Кино ТВ 
 #EXTGRP: кино
 http://95.217.196.109:8081/russia/kino_tv_sd_new/playlist.m3u8
+#EXTINF:0,Любимое Кино
+#EXTGRP: кино
+http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/2106/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://myott.top/stream/D18A159NA2/62.m3u8
@@ -272,9 +275,7 @@ http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/13019/index.m3u8
 #EXTINF:0,Дом Кино
 #EXTGRP: кино
 http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/154/index.m3u8
-#EXTINF:0,Любимое Кино
-#EXTGRP: кино
-http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/2106/index.m3u8
+
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://50.7.149.34:8001/play/bcu_sssr_hd
