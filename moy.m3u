@@ -71,10 +71,10 @@ http://he11o.akadatel.com/iptv/QNDW4EGUVLQPH4/17006/index.m3u8
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15009/index.m3u8
 #EXTINF:0,Кино ТВ 
 #EXTGRP: кино
-http://95.217.196.109:8081/russia/kino_tv_sd_new/playlist.m3u8
+http://rr3.iptv-ott.ru/~109dda52c692840728b0297863aa7594d6b/14210/hlsx/pl.m3u8
 #EXTINF:0,Любимое Кино
 #EXTGRP: кино
-http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/2106/index.m3u8
+http://rr3.tvdosug.net/~109dda52c692840728b0297863aa7594d6b/31421
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://myott.top/stream/D18A159NA2/62.m3u8
@@ -130,6 +130,12 @@ https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0,VIP Premiere
 #EXTGRP: кино
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,TV 1000 HD
+#EXTGRP: кино
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,TV 1000 Action HD
+#EXTGRP: кино
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:0,Кино 1 HD
 #EXTGRP: кино
