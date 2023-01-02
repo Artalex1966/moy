@@ -59,7 +59,7 @@ http://ott.inmart.tv:8081/19/index.m3u8
 
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
-http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/17006/index.m3u8
+http://2e36bf2d.ottrast.com/iptv/UBE23VSUAAZQKH/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/17006/index.m3u
@@ -232,15 +232,18 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/11050/index.m3u8
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 http://hlss.goodgame.ru/hls/187241.m3u8
+#EXTINF:0,Фантастика HD2
+#EXTGRP: кино
+http://saveukraine.1ce.xyz/6814/index.m3u8?token=BrpTwWY3TQ
 #EXTINF:0,Fantastica Scifi
 #EXTGRP: кино
 https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:0,VF Fantastic
 #EXTGRP: кино
 http://37trdlpj.otttv.pw/iptv/TMNT9LL8GCKRMT/11121/index.m3u8
-#EXTINF:0,BCU Cosmo OLD
+#EXTINF:0,BCU Cosmo
 #EXTGRP: кино
-http://50.7.149.34:8001/play/bcu_cosmo_hd
+http://saveukraine.1ce.xyz/7830/index.m3u8?token=BrpTwWY3TQ
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
 http://ip1.orgip.net/1606/video.m3u8?token=C7e7f66b17
