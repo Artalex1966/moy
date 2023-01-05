@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:0,Остросюжетное HD01
 #EXTGRP: кино
-http://ott.server-iptv.live/604/video.m3u8?token=S933AAA01B
+http://ott.server-iptv.live/604/video.m3u8?token=M4f082ab4c
 #EXTINF:0,VF Новогодний
 #EXTGRP: кино
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17035/index.m3u8
