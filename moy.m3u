@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-#EXTINF:0,Остросюжетное HD01
+#EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
-http://ott.server-iptv.live/604/video.m3u8?token=M4f082ab4c
+http://myott.top/stream/CUJ4ZVUK9V/214.m3u8
 #EXTINF:0,VF Новогодний
 #EXTGRP: кино
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17035/index.m3u8
@@ -41,7 +41,7 @@ http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 http://2e36bf2d.ottrast.com/iptv/UBE23VSUAAZQKH/7347/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция 
 #EXTGRP: кино
-http://91.207.180.142:80/mosfilm/index.m3u8
+http://myott.top/stream/W72RFQ29JP/369.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: эфир
 http://myott.top/stream/7D4XYB2WFN/126.m3u8
