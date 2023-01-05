@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
-http://he11o.akadatel.com/iptv/RGCGUZ7V6BXE9A/904/index.m3u8
+http://ott.server-iptv.live/604/video.m3u8?token=S933AAA01B
 #EXTINF:0,VF Новогодний
 #EXTGRP: кино
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17035/index.m3u8
@@ -71,7 +71,7 @@ http://he11o.akadatel.com/iptv/QNDW4EGUVLQPH4/17006/index.m3u8
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15009/index.m3u8
 #EXTINF:0,Кино ТВ 
 #EXTGRP: кино
-http://he11o.akadatel.com/iptv/D4KY78WZSCHQCV/2097/index.m3u8
+http://79.141.211.254:8000/KinoTV
 #EXTINF:0,Любимое Кино
 #EXTGRP: кино
 http://he11o.akadatel.com/iptv/RGCGUZ7V6BXE9A/2106/index.m3u8
