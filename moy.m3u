@@ -44,7 +44,7 @@ http://2e36bf2d.ottrast.com/iptv/UBE23VSUAAZQKH/7347/index.m3u8
 http://myott.top/stream/W72RFQ29JP/369.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: эфир
-http://myott.top/stream/7D4XYB2WFN/126.m3u8
+http://185.32.44.154/kinoxit/index.m3u8
 
 #EXTINF:0,Известия ТВ
 #EXTGRP: эфир
@@ -71,7 +71,7 @@ http://he11o.akadatel.com/iptv/QNDW4EGUVLQPH4/17006/index.m3u8
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15009/index.m3u8
 #EXTINF:0,Кино ТВ 
 #EXTGRP: кино
-http://myott.top/stream/7D4XYB2WFN/221.m3u8
+https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
 #EXTINF:0,Любимое Кино
 #EXTGRP: кино
 http://he11o.akadatel.com/iptv/RGCGUZ7V6BXE9A/2106/index.m3u8
@@ -125,7 +125,7 @@ http://myott.top/stream/D18A159NA2/145.m3u8
 http://78.25.155.47:1309/channel/DOM_kino.ts
 #EXTINF:0,6 Кадров
 #EXTGRP: кино
-http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/14231/index.m3u8
+http://37trdlpj.otttv.pw/iptv/TMNT9LL8GCKRMT/14231/index.m3u8
 
 #EXTINF:0,VIP Megahit
 #EXTGRP: кино
@@ -206,7 +206,7 @@ http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
 http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-http://myott.top/stream/93K4NA7ZUL/126.m3u8
+http://185.32.44.154/kinoxit/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
 http://ott.server-iptv.live/608/video.m3u8?token=C7e7f66b17
@@ -230,7 +230,7 @@ http://play.wisp.cat/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FRod
 http://myott.top/stream/D18A159NA2/128.m3u8
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
-http://ott.server-iptv.live/620/video.m3u8?token=C7e7f66b17
+http://109.197.192.121:8080/kinohit/index.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: кино
 http://185.32.44.154/kinosemya/index.m3u8
