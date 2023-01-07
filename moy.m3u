@@ -212,7 +212,7 @@ http://185.32.44.154/kinomiks/index.m3u8?token=iptv.org.ua
 http://185.32.44.154/kinoxit/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-http://ott.server-iptv.live/608/video.m3u8?token=C7e7f66b17
+http://srv-7-streaming.iptvin.site:8080/kinohit_hd/tracks-v1a1/mono.m3u8?token=e0d38753be030b532b7b9233494c2a2577f977cd-9765369435-1673157871-1673114671
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
 http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=orh6o
