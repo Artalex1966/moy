@@ -204,6 +204,9 @@ http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
 http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
+#EXTINF:0,Киномикс
+#EXTGRP: кино
+http://185.32.44.154/kinomiks/index.m3u8?token=iptv.org.ua
 #EXTINF:0,Кинохит
 #EXTGRP: кино
 http://185.32.44.154/kinoxit/index.m3u8
@@ -335,7 +338,7 @@ http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/19317/index.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_STSKIDS.m3u8
 #EXTINF:0,Карусель
 #EXTGRP: Детский
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
+https://sc.id-tv.kz:443/Karusel_36_37.m3u8
 #EXTINF:0,О!
 #EXTGRP: Детский
 http://live2.tvg.ge:8082/tv/O_SD/playlist.m3u8
