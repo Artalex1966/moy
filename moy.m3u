@@ -75,6 +75,9 @@ https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
 #EXTINF:0,Наше любимое Кино
 #EXTGRP: кино
 http://he11o.akadatel.com/iptv/RGCGUZ7V6BXE9A/2106/index.m3u8
+#EXTINF:0,Наше любимое Кино
+#EXTGRP: кино
+http://srv-3-streaming.iptvin.site:8080/lyubimoe/video.m3u8?token=50df652c1b0a93634ef4f34e54c1dad9a32ea091-9765369435-1673166025-1673122825
 #EXTINF:0,Кинопоказ HD
 #EXTGRP: кино
 http://myott.top/stream/W72RFQ29JP/64.m3u8
