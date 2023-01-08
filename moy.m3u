@@ -264,7 +264,7 @@ http://37trdlpj.otttv.pw/iptv/TMNT9LL8GCKRMT/11121/index.m3u8
 http://he11o.akadatel.com/iptv/RGCGUZ7V6BXE9A/17022/index.m3u8
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
-http://ip1.orgip.net/1606/video.m3u8?token=C7e7f66b17
+http://srv-4-streaming.iptvin.site:8080/bcufantastic/video.m3u8?token=181b37ca203ca06d39c90fc1d80d79225a17347e-9765369435-1673204414-1673161214
 #EXTINF:0,минимакс-UFO
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/13017/index.m3u8
@@ -293,7 +293,7 @@ http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/154/index.m3u8
 
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://50.7.149.34:8001/play/bcu_sssr_hd
+http://srv-4-streaming.iptvin.site:8080/bcusssr/index.m3u8?token=78e7d02d3a9703836c61560d892dad46072811b8-9765369435-1673204414-1673161214
 #EXTINF:0,KBC-Страна СССР
 #EXTGRP: кино
 http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/11091/index.m3u8
@@ -318,11 +318,11 @@ http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13022/index.m3u8
 
 #EXTINF:0,Память
 #EXTGRP: кино
-https://v2.catcast.tv/content/38821/index.m3u8
+http://autopilot.catcast.tv/content/38821/index.m3u8
 
 #EXTINF:0,Военное кино HD
 #EXTGRP: кино
-http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/18072/index.m3u8
+http://srv-6-streaming.iptvin.site:8080/voenkino/video.m3u8?token=63741f666b514e139490f0a75e53ec2a89a52b70-9765369435-1673204414-1673161214
 
 #EXTINF:0,Мосфильм. Золотая коллекция 
 #EXTGRP: кино
