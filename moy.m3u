@@ -2,6 +2,9 @@
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://srv-7-streaming.iptvin.site:8080/ostosuzhtnoe/video.m3u8?token=cb6603b2554a6c02d5bf12e945990264cee2f460-9765369435-1673211980-1673168780
+#EXTINF:0,Cinema Космос ТВ
+#EXTGRP: кино
+http://srv-5-streaming.iptvin.site:34768/cinemahd/video.m3u8?token=8dce3d41631ed9eb4dbbd5f1f2c0d4a3ccc8fda1-9765369435-1673211980-1673168780
 #EXTINF:0,VF Новогодний
 #EXTGRP: кино
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17035/index.m3u8
@@ -77,7 +80,7 @@ https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
 http://he11o.akadatel.com/iptv/RGCGUZ7V6BXE9A/2106/index.m3u8
 #EXTINF:0,Наше любимое Кино
 #EXTGRP: кино
-http://srv-3-streaming.iptvin.site:8080/lyubimoe/video.m3u8?token=cb6603b2554a6c02d5bf12e945990264cee2f460-9765369435-1673211980-1673168780
+http://srv-3-streaming.iptvin.site:8080/lyubimoe/video.m3u8?token=e01862813de45e88e2f84e86edaf8f8a451fb93b-9765369435-1673211980-1673168780
 #EXTINF:0,Кинопоказ HD
 #EXTGRP: кино
 http://myott.top/stream/W72RFQ29JP/64.m3u8
@@ -215,7 +218,7 @@ http://185.32.44.154/kinomiks/index.m3u8?token=iptv.org.ua
 http://185.32.44.154/kinoxit/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-http://srv-7-streaming.iptvin.site:8080/kinohit_hd/tracks-v1a1/mono.m3u8?token=cb6603b2554a6c02d5bf12e945990264cee2f460-9765369435-1673211980-1673168780
+http://srv-7-streaming.iptvin.site:8080/kinohit_hd/tracks-v1a1/mono.m3u8?token=d500fe801b82cff19ca1facdc0cbf109e64d223a-9765369435-1673211980-1673168780
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
 http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=orh6o
@@ -264,7 +267,7 @@ http://37trdlpj.otttv.pw/iptv/TMNT9LL8GCKRMT/11121/index.m3u8
 http://he11o.akadatel.com/iptv/RGCGUZ7V6BXE9A/17022/index.m3u8
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
-http://srv-4-streaming.iptvin.site:8080/bcufantastic/video.m3u8?token=cb6603b2554a6c02d5bf12e945990264cee2f460-9765369435-1673211980-1673168780
+http://srv-4-streaming.iptvin.site:8080/bcufantastic/video.m3u8?token=3231fea502d82ad111d1ca998173eac4dd71a3ea-9765369435-1673211980-1673168780
 #EXTINF:0,минимакс-UFO
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/13017/index.m3u8
@@ -293,7 +296,7 @@ http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/154/index.m3u8
 
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://srv-4-streaming.iptvin.site:8080/bcusssr/index.m3u8?token=cb6603b2554a6c02d5bf12e945990264cee2f460-9765369435-1673211980-1673168780
+http://srv-4-streaming.iptvin.site:8080/bcusssr/index.m3u8?token=82d48c59260c6cf6e29145c83e7fe9937cf0c443-9765369435-1673211980-1673168780
 #EXTINF:0,KBC-Страна СССР
 #EXTGRP: кино
 http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/11091/index.m3u8
@@ -322,7 +325,7 @@ http://autopilot.catcast.tv/content/38821/index.m3u8
 
 #EXTINF:0,Военное кино HD
 #EXTGRP: кино
-http://srv-6-streaming.iptvin.site:8080/voenkino/video.m3u8?token=cb6603b2554a6c02d5bf12e945990264cee2f460-9765369435-1673211980-1673168780
+http://srv-6-streaming.iptvin.site:8080/voenkino/video.m3u8?token=cf5138d9451b053b749bc4cc5161fdb7d200d00d-9765369435-1673211980-1673168780
 
 #EXTINF:0,Мосфильм. Золотая коллекция 
 #EXTGRP: кино
