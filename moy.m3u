@@ -1,10 +1,4 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-#EXTINF:0,Остросюжетное HD
-#EXTGRP: кино
-http://srv-7-streaming.iptvin.site:8080/ostosuzhtnoe/video.m3u8?token=cb6603b2554a6c02d5bf12e945990264cee2f460-9765369435-1673211980-1673168780
-#EXTINF:0,Cinema Космос ТВ
-#EXTGRP: кино
-http://srv-5-streaming.iptvin.site:34768/cinemahd/video.m3u8?token=8dce3d41631ed9eb4dbbd5f1f2c0d4a3ccc8fda1-9765369435-1673211980-1673168780
 #EXTINF:0,VF Новогодний
 #EXTGRP: кино
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17035/index.m3u8
