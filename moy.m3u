@@ -68,7 +68,8 @@ http://he11o.akadatel.com/iptv/QNDW4EGUVLQPH4/17006/index.m3u8
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15009/index.m3u8
 #EXTINF:0,Кино ТВ 
 #EXTGRP: кино
-https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
+https://cdntv.online/hls/4nxhur79ts/117.m3u8
+
 #EXTINF:0,Наше любимое Кино
 #EXTGRP: кино
 http://he11o.akadatel.com/iptv/RGCGUZ7V6BXE9A/2106/index.m3u8
@@ -100,7 +101,7 @@ https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
 http://dgfyy1lm.otttv.pw/iptv/NPFTZBM7EF776R/140/index.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP: Познавательное
-http://myott.top/stream/W72RFQ29JP/125.m3u8
+http://176.74.80.162:8099/Nauka/index.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP: Познавательное
 http://flu.ttk.mx:9090/Nauka/index.m3u8?token=orh6o
@@ -337,7 +338,7 @@ http://dmi3y-tv.ru/hls/okko/CH_STSKIDS.m3u8
 https://sc.id-tv.kz:443/Karusel_36_37.m3u8
 #EXTINF:0,О!
 #EXTGRP: Детский
-http://live2.tvg.ge:8082/tv/O_SD/playlist.m3u8
+http://31.134.132.249:8080/o_/index.m3u8
 #EXTINF:0,О!
 #EXTGRP: Детский
 http://flu.ttk.mx:9090/O!/index.m3u8?token=orh6o
