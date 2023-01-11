@@ -1,4 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+#EXTINF:0,Z!Fantastic HD
+#EXTGRP: кино
+https://cdntv.online/hls/4nxhur79ts/1388.m3u8
 #EXTINF:0,VF Новогодний
 #EXTGRP: кино
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17035/index.m3u8
@@ -63,9 +66,9 @@ http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17006/index.m3u
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://he11o.akadatel.com/iptv/QNDW4EGUVLQPH4/17006/index.m3u8
-#EXTINF:0,VF Теория большого взрыва
+#EXTINF:0,Кинозал! Интерны ТВ
 #EXTGRP: кино
-http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15009/index.m3u8
+http://ott.server-iptv.live/1655/video.m3u8?token=S933AAA01B
 #EXTINF:0,Кино ТВ 
 #EXTGRP: кино
 https://cdntv.online/hls/4nxhur79ts/117.m3u8
@@ -304,9 +307,9 @@ http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/14218/index.m3u
 #EXTINF:0,TOP USSR HD
 #EXTGRP: кино
 http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/13005/index.m3u8
-#EXTINF:0,USSR
+#EXTINF:0,KLI СССР HD
 #EXTGRP: кино
-http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/11102/index.m3u8
+https://cdntv.online/hls/4nxhur79ts/1376.m3u8
 #EXTINF:0,Советское кино
 #EXTGRP: кино
 http://iptvin.ddns.net:2134/channel/n4ef90b2b/index.m3u8?q=c2f105e41a177ab49ed3fee055dd0dd5
@@ -347,7 +350,7 @@ http://flu.ttk.mx:9090/O!/index.m3u8?token=orh6o
 https://livetv.mylifeisgood.ml/channels/ryjii.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
-http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/543/index.m3u8
+https://cdntv.online/hls/4nxhur79ts/149.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/909/index.m3u8
