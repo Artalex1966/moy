@@ -317,10 +317,6 @@ http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/13022/index.m3u8
 #EXTGRP: кино
 http://autopilot.catcast.tv/content/38821/index.m3u8
 
-#EXTINF:0,Военное кино HD
-#EXTGRP: кино
-http://srv-6-streaming.iptvin.site:8080/voenkino/video.m3u8?token=cf5138d9451b053b749bc4cc5161fdb7d200d00d-9765369435-1673211980-1673168780
-
 #EXTINF:0,Мосфильм. Золотая коллекция 
 #EXTGRP: кино
 http://myott.top/stream/D18A159NA2/369.m3u8
@@ -371,42 +367,13 @@ https://autopilot.catcast.tv/content/38850/index.m3u8
 http://myott.top/stream/D18A159NA2/93.m3u8
 
 
-#EXTINF:0,Discovery Channel
-#EXTGRP: Познавательное
-http://zb2dtrhm.russtv.net/iptv/CR9XR6L5C73ERG/9011/index.m3u
-#EXTINF:0,Министерство идей
-#EXTGRP: Познавательное
-http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-#EXTINF:0,Оружие
-#EXTGRP: Познавательное
-http://saveukraine.only4.tv/5565/video.m3u8?token=y3DBG7q3sk
-#EXTINF:0,Рен ТВ 
-#EXTGRP: эфир
-http://iptv.ktkru.ru:8011/index.m3u8
-#EXTINF:0,РЕН ТВ (-1)
-#EXTGRP: эфир
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV-1.m3u8
-#EXTINF:0,Рен ТВ 
-#EXTGRP: эфир
-http://iptv.ktkru.ru:8011/index.m3u8
-#EXTINF:0,Рен ТВ (+2)
-#EXTGRP: эфир
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_2.m3u8
+
 #EXTINF:0,РЕН ТВ (+4)
 #EXTGRP: эфир
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_4.m3u8
 #EXTINF:0,РЕН ТВ (+7)
 #EXTGRP: эфир
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_7.m3u8
-
-
-
-#EXTINF:0,Известия ТВ HD
-#EXTGRP: эфир
-https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
-#EXTINF:0,Известия ТВ
-#EXTGRP: эфир
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/index.m3u8
 
 #EXTINF:0 tvg-rec="0",VF Стройка
 #EXTGRP: Познавательное
@@ -430,19 +397,6 @@ https://hls.goodgame.ru/hls/187741.m3u8
 
 
 ----
-
-
-
-#EXTINF:0,Оплот
-#EXTGRP: Познавательное
-http://ott.inmart.tv:8081/54/index.m3u8
-#EXTINF:0,Оплот 2
-#EXTGRP: Познавательное
-http://ott.inmart.tv:8081/17/index.m3u8
-
-
-----
-
 
 #EXTINF:0,World of Tanks
 #EXTGRP: эфир
@@ -474,15 +428,6 @@ http://45.14.38.4:15000
 #EXTINF:0,Relax
 #EXTGRP: Релакс
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
-#EXTINF:0,Атмосфера
-#EXTGRP: Релакс
-https://listen5.myradio24.com/atmo
-#EXTINF:0,Свежаки
-#EXTGRP: кино
-https://edge-01.kino.watch/fresh/index.m3u8
-#EXTINF:0,Звезда плюс HD
-#EXTGRP: кино
-http://192.162.212.60:4880/zvezda_plus_hd/tracks-v1a1/playlist.m3u8
 
 
 
