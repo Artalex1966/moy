@@ -352,9 +352,9 @@ https://cdntv.online/hls/4nxhur79ts/149.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/909/index.m3u8
-#EXTINF:0,Чип и Дейл
+#EXTINF:0,Мультимания
 #EXTGRP: Детский
-http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/13064/index.m3u
+http://89.104.114.18:8080/multimania/index.m3u8
 #EXTINF:0,Disney
 #EXTGRP: Детский
 http://95.217.196.109:8081/russia/disney/playlist.m3u8
