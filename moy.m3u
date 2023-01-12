@@ -73,12 +73,16 @@ http://ott.server-iptv.live/1655/video.m3u8?token=S933AAA01B
 #EXTGRP: кино
 https://cdntv.online/hls/4nxhur79ts/117.m3u8
 
+#EXTINF:0,Дом Кино
+#EXTGRP: кино
+http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/154/index.m3u8
+
 #EXTINF:0,Наше любимое Кино
 #EXTGRP: кино
 http://he11o.akadatel.com/iptv/RGCGUZ7V6BXE9A/2106/index.m3u8
 #EXTINF:0,Наше любимое Кино
 #EXTGRP: кино
-http://rr3.tvdosug.net/~109dda52c692840728b0297863aa7594d6b/31421/hlsx/pl.m3u8
+https://cdntv.online/high/ub2n46dvaf/1149.m3u8
 #EXTINF:0,Кинопоказ HD
 #EXTGRP: кино
 http://myott.top/stream/W72RFQ29JP/64.m3u8
@@ -216,13 +220,13 @@ http://185.32.44.154/kinomiks/index.m3u8?token=iptv.org.ua
 http://185.32.44.154/kinoxit/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-http://srv-7-streaming.iptvin.site:8080/kinohit_hd/tracks-v1a1/mono.m3u8?token=d500fe801b82cff19ca1facdc0cbf109e64d223a-9765369435-1673211980-1673168780
+https://edge02.smart.az/o2/kinohit/playlist.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
 http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=orh6o
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
-http://myott.top/stream/UA8NHRKJA1/214.m3u8
+https://cdntv.online/high/ub2n46dvaf/902.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
@@ -286,9 +290,6 @@ http://iptvin.ddns.net:2134/channel/7e5a40bb/index.m3u8?q=c2f105e41a177ab49ed3fe
 #EXTGRP: кино
 http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/13019/index.m3u8
 
-#EXTINF:0,Дом Кино
-#EXTGRP: кино
-http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/154/index.m3u8
 
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
