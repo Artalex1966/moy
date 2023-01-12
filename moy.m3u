@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-#EXTINF:0,Z!Fantastic HD
+#EXTINF:0, VL Fantastic
 #EXTGRP: кино
-https://cdntv.online/hls/4nxhur79ts/1388.m3u8
+https://cdntv.online/hls/4nxhur79ts/1349.m3u8
 #EXTINF:0,VF Новогодний
 #EXTGRP: кино
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17035/index.m3u8
@@ -182,7 +182,7 @@ https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8
 #EXTINF:0,Звезда Плюс
 #EXTGRP: эфир
-http://987a62d3.edemist.com/iptv/DWZLDP8TW66948/10059/index.m3u8
+https://cdntv.online/hls/4nxhur79ts/1331.m3u8
 #EXTINF:0,VF Кухня
 #EXTGRP: кино
 http://717a0fbb.amazzin.pw/iptv/K6GU4YKSMQTK9M/18199/index.m3u8
@@ -280,9 +280,7 @@ https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:0,КиноСезон
 #EXTGRP: кино
 http://iptvin.ddns.net:2134/channel/7e5a40bb/index.m3u8?q=c2f105e41a177ab49ed3fee055dd0dd5
-#EXTINF:0,День Победы HD
-#EXTGRP: кино
-http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/5054/index.m3u8
+
 
 #EXTINF:0,минимакс-ussr-комедия HD
 #EXTGRP: кино
@@ -399,21 +397,6 @@ https://hls.goodgame.ru/hls/180960.m3u8
 https://hls.goodgame.ru/hls/187741.m3u8
 
 
-
-----
-
-#EXTINF:0,World of Tanks
-#EXTGRP: эфир
-https://hls.goodgame.ru/hls/136091_prem.m3u8
-#EXTINF:0,22222
-#EXTGRP: Познавательное
-https://hls.youtb.workers.dev/video/Kjc7Ma8LicU.m3u8
-#EXTINF:0,GTA5
-#EXTGRP: Познавательное
-https://hls.goodgame.ru/hls/137895.m3u8
-#EXTINF:0, Age of Empires IV
-#EXTGRP: Познавательное
-https://hls.goodgame.ru/hls/36707_prem.m3u8
 ----
 #EXTINF:0,Музыка 1 International
 #EXTGRP: Музыка
