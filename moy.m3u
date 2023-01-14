@@ -268,9 +268,7 @@ http://37trdlpj.otttv.pw/iptv/TMNT9LL8GCKRMT/11121/index.m3u8
 #EXTINF:0,BCU Cosmo OLD
 #EXTGRP: кино
 http://he11o.akadatel.com/iptv/RGCGUZ7V6BXE9A/17022/index.m3u8
-#EXTINF:0,BCU Fantastic HD
-#EXTGRP: кино
-http://srv-4-streaming.iptvin.site:8080/bcufantastic/video.m3u8?token=3231fea502d82ad111d1ca998173eac4dd71a3ea-9765369435-1673211980-1673168780
+
 #EXTINF:0,минимакс-UFO
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/13017/index.m3u8
