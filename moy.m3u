@@ -82,10 +82,11 @@ http://he11o.akadatel.com/iptv/RGCGUZ7V6BXE9A/2106/index.m3u8
 #EXTINF:0,Наше любимое Кино
 #EXTGRP: кино
 https://cdntv.online/high/ub2n46dvaf/1149.m3u8
+
 #EXTINF:0,Кинопоказ HD
 #EXTGRP: кино
 http://185.23.80.28:8080/Kinopokaz/index.m3u8
-#EXTINF:0,Кинопоказ
+#EXTINF:0,Кинопоказ 2
 #EXTGRP: кино
 http://46.151.151.245:10001/play/a002/index.m3u8
 #EXTINF:0,Cinema
