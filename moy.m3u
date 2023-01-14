@@ -2,6 +2,9 @@
 #EXTINF:0, VL Fantastic
 #EXTGRP: кино
 http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/11121/index.m3u8
+#EXTINF:0,Остросюжетное HD
+#EXTGRP: кино
+http://cz.iptv.monster/play/368/C75425AD0A3404B/video.m3u8
 #EXTINF:0,VF Новогодний
 #EXTGRP: кино
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17035/index.m3u8
