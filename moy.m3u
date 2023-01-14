@@ -138,9 +138,9 @@ http://myott.top/stream/D18A159NA2/145.m3u8
 #EXTINF:0,Дом Кино
 #EXTGRP: кино
 http://78.25.155.47:1309/channel/DOM_kino.ts
-#EXTINF:0,VF Городок
+#EXTINF:0,VF Уральские пельмени
 #EXTGRP: кино
-http://9cad36be.rossteleccom.net/iptv/8NSCRWFYDXKELY/18097/index.m3u8
+http://37trdlpj.otttv.pw/iptv/TMNT9LL8GCKRMT/18198/index.m3u8
 
 #EXTINF:0,VIP Megahit
 #EXTGRP: кино
@@ -340,7 +340,10 @@ http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/19317/index.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_STSKIDS.m3u8
 #EXTINF:0,Карусель
 #EXTGRP: Детский
-https://sc.id-tv.kz:443/Karusel_36_37.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:0,Карусель + 2
+#EXTGRP: Детский
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 #EXTINF:0,О!
 #EXTGRP: Детский
 http://cz.iptv.monster/play/182/C75425AD0A3404B/video.m3u8
