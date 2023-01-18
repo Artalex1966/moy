@@ -4,7 +4,7 @@
 http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/11121/index.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
-http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+http://wooblruiptvfullplaylist.tvclub.xyz/iptv/PTNRVGPED86DRB/9044/index.m3u8
 #EXTINF:0,VF Новогодний
 #EXTGRP: кино
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17035/index.m3u8
@@ -84,7 +84,10 @@ http://78.25.155.47:1309/channel/DOM_kino.ts
 http://he11o.akadatel.com/iptv/RGCGUZ7V6BXE9A/2106/index.m3u8
 #EXTINF:0,Наше любимое Кино
 #EXTGRP: кино
-http://wooblruiptvfullplaylist.tvclub.xyz/iptv/YMPD5AHPRW6UFW/2106/index.m3u8
+http://wooblruiptvfullplaylist.tvclub.xyz/iptv/PTNRVGPED86DRB/9062/index.m3u8
+#EXTINF:0,Наше любимое
+#EXTGRP: кино
+http://185.32.44.154/lubimoekino/index.m3u8
 
 #EXTINF:0,Кинопоказ HD
 #EXTGRP: кино
