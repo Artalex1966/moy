@@ -77,7 +77,7 @@ https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
 http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/476/stream.m3u8
-#EXTINF:0,Кино ТВ +2
+#EXTINF:0,Кино ТВ orig
 #EXTGRP: кино
 http://live-1.otcnet.ru/kinosem/tracks-v1a1/mono.m3u8
 #EXTINF:0,Дом Кино
@@ -86,13 +86,13 @@ http://78.25.155.47:1309/channel/DOM_kino.ts
 #EXTINF:0,Дом Кино
 #EXTGRP: кино
 http://78.25.155.47:1309/channel/DOM_kino.ts
-#EXTINF:0,Наше любимое Кино
+#EXTINF:0,Любимое ТВ HD
 #EXTGRP: кино
 http://he11o.akadatel.com/iptv/RGCGUZ7V6BXE9A/2106/index.m3u8
 #EXTINF:0,Наше любимое Кино
 #EXTGRP: кино
 http://9ea2ebdb.ucomist.net/iptv/445D9E2YVBUC9Q/2106/index.m3u8
-#EXTINF:0,Наше любимое
+#EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://185.32.44.154/lubimoekino/index.m3u8
 
