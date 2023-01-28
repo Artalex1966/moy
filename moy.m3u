@@ -428,8 +428,9 @@ http://he11o.akadatel.com/iptv/QNDW4EGUVLQPH4/15524/index.m3u8
 #EXTGRP: кино
 http://myott.top/stream/W72RFQ29JP/369.m3u8
 
-
-
+#EXTINF:0,Viasat History
+#EXTGRP: Познавательное
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0,Наука HD
 #EXTGRP: Познавательное
 https://edge02.smart.az/o1/nauka2/playlist.m3u8
@@ -445,7 +446,6 @@ http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-
 
 
 
