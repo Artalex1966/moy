@@ -427,6 +427,9 @@ http://he11o.akadatel.com/iptv/QNDW4EGUVLQPH4/15524/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция 
 #EXTGRP: кино
 http://myott.top/stream/W72RFQ29JP/369.m3u8
+#EXTINF:0,Мосфильм 
+#EXTGRP: кино
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSFILMHD/variant.m3u8?version=2
 
 
 #EXTINF:0,Наука HD
