@@ -410,7 +410,7 @@ http://01pqez2x.akciatv.ru/iptv/D2F95CS9QWVE4V/17057/index.m3u8
 http://45.14.38.4:15000
 #EXTINF:0,Relax
 #EXTGRP: Релакс
-https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:0,Discovery Science CEE
 #EXTGRP: Познавательное
 http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/723/stream.m3u8
@@ -449,8 +449,9 @@ http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-
-
+#EXTINF:0,Губерния ТВ (Воронеж)
+#EXTGRP: эфир
+https://rt-ct-vrzh-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8?version=2
 
 
 
