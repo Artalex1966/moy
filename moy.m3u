@@ -66,7 +66,7 @@ http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17006/index.m3u
 http://c8bcc51f.ottrast.com/iptv/ZCMH78WDSG7QQU/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
-http://he11o.akadatel.com/iptv/6ZGLX36ACHFVGH/17006/index.m3u8
+http://he11o.akadatel.com/iptv/A68UKTSFGXMKZV/17006/index.m3u8
 #EXTINF:0,СТС
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/480p.m3u8
@@ -82,7 +82,9 @@ https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0,Звезда
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8
-
+#EXTINF:0,.black
+#EXTGRP: эфир
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
 http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/476/stream.m3u8
@@ -147,7 +149,6 @@ http://flu.ttk.mx:9090/Avto24/index.m3u8?token=orh6o
 #EXTINF:0 tvg-rec="0",DTX
 #EXTGRP: Познавательное
 http://myott.top/stream/D18A159NA2/145.m3u8
-
 
 #EXTINF:0,VIP Megahit
 #EXTGRP: кино
