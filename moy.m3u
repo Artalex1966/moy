@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-#EXTINF:0,VF Disney Movie
+#EXTINF:0,Киномикс
 #EXTGRP: кино
-http://c8bcc51f.ottrast.com/iptv/ZCMH78WDSG7QQU/15010/index.m3u8
+http://78.25.155.47:1309/channel/Kino_plus.ts
 #EXTINF:0,PROKOP TV Сказки СССР
 #EXTGRP: кино
 http://01pqez2x.akciatv.ru/iptv/D2F95CS9QWVE4V/19317/index.m3u8
@@ -43,6 +43,9 @@ http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/7347/index.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: кино
+https://edge02.smart.az/o1/mosfilm/playlist.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
@@ -341,7 +344,7 @@ http://flu.ttk.mx:9090/O!/index.m3u8?token=orh6o
 http://c8bcc51f.ottrast.com/iptv/ZCMH78WDSG7QQU/2052/index.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
-https://cdntv.online/hls/4nxhur79ts/149.m3u8
+http://185.32.44.154/detskiymir/tracks-v1a1/index.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/909/index.m3u8
