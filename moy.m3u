@@ -8,6 +8,9 @@ http://01pqez2x.akciatv.ru/iptv/D2F95CS9QWVE4V/19317/index.m3u8
 #EXTINF:0,минимакс-UFO HD
 #EXTGRP: кино
 http://nl01.spr24.net/20727/mpegts?token=PBQtWYVTvpqktT
+#EXTINF:0,BCU Cosmo OLD
+#EXTGRP: кино
+http://he11o.akadatel.com/iptv/RNG6AADZEDTCXD/17022/index.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://ru01.spr24.net/122/mpegts?token=sqcTc9Vmx7uu5N
@@ -64,6 +67,9 @@ http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17006/index.m3u
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://c8bcc51f.ottrast.com/iptv/ZCMH78WDSG7QQU/17006/index.m3u8
+#EXTINF:0,VF Друзья
+#EXTGRP: кино
+http://he11o.akadatel.com/iptv/A68UKTSFGXMKZV/17006/index.m3u8
 #EXTINF:0,СТС
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/480p.m3u8
@@ -137,7 +143,7 @@ http://flu.ttk.mx:9090/Galaxy/index.m3u8?token=orh6o
 http://9cad36be.rossteleccom.net/iptv/8NSCRWFYDXKELY/15511/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Авто
 #EXTGRP: Познавательное
-http://he11o.akadatel.com/iptv/QNDW4EGUVLQPH4/15511/index.m3u8
+http://he11o.akadatel.com/iptv/A68UKTSFGXMKZV/15511/index.m3u8
 #EXTINF:0 tvg-rec="0",Авто 24
 #EXTGRP: Познавательное
 http://flu.ttk.mx:9090/Avto24/index.m3u8?token=orh6o
