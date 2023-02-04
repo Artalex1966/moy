@@ -46,6 +46,9 @@ http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/7347/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 https://edge02.smart.az/o1/mosfilm/playlist.m3u8
+#EXTINF:0,Советское кино
+#EXTGRP: кино
+https://mhd116.iptv2022.com/p/c_Y2SA7SF5sTGVXWXREH8w,1675627627/streaming/sovietmovs/324/1/index.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
