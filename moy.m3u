@@ -2,6 +2,9 @@
 #EXTINF:0,Киномикс
 #EXTGRP: кино
 http://78.25.155.47:1309/channel/Kino_plus.ts
+#EXTINF:0,КИНОКОМЕДИЯ
+#EXTGRP: кино
+http://91.220.135.165:81/25/index.m3u8
 #EXTINF:0,PROKOP TV Сказки СССР
 #EXTGRP: кино
 http://01pqez2x.akciatv.ru/iptv/D2F95CS9QWVE4V/19317/index.m3u8
