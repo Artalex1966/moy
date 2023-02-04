@@ -8,6 +8,9 @@ http://01pqez2x.akciatv.ru/iptv/D2F95CS9QWVE4V/19317/index.m3u8
 #EXTINF:0,минимакс-UFO HD
 #EXTGRP: кино
 http://nl01.spr24.net/20727/mpegts?token=PBQtWYVTvpqktT
+#EXTINF:0,KLI Fantastica
+#EXTGRP: кино
+http://r.faola.li/8038/index.m3u8?token=2qm9dRD427
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://ru01.spr24.net/122/mpegts?token=sqcTc9Vmx7uu5N
