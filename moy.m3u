@@ -1,18 +1,22 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-#EXTINF:0,Киномикс
-#EXTGRP: кино
-http://78.25.155.47:1309/channel/Kino_plus.ts
-#EXTINF:0,КИНОКОМЕДИЯ
-#EXTGRP: кино
-http://91.220.135.165:81/25/index.m3u8
 #EXTINF:0,PROKOP TV Сказки СССР
 #EXTGRP: кино
 http://01pqez2x.akciatv.ru/iptv/D2F95CS9QWVE4V/19317/index.m3u8
 
-#EXTINF:0,Остросюжетное HD
+----
+
+#EXTINF:0,VF Друзья
 #EXTGRP: кино
-http://ru01.spr24.net/122/mpegts?token=sqcTc9Vmx7uu5N
+http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17006/index.m3u
+#EXTINF:0,VF Друзья
+#EXTGRP: кино
+http://c8bcc51f.ottrast.com/iptv/ZCMH78WDSG7QQU/17006/index.m3u8
+#EXTINF:0,VF Друзья
+#EXTGRP: кино
+http://he11o.akadatel.com/iptv/A68UKTSFGXMKZV/17006/index.m3u8
+
 ---
+
 #EXTINF:0,Россия-24
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8
@@ -34,22 +38,6 @@ https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
 #EXTINF:0,Известия ТВ
 #EXTGRP: эфир
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/index.m3u8
-#EXTINF:0,Москва Доверие
-#EXTGRP: эфир
-http://flu.ttk.mx:9090/Doverie/index.m3u8?token=orh6o
-
-#EXTINF:0,Мосфильм. Золотая коллекция
-#EXTGRP: кино
-http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
-#EXTINF:0,Мосфильм. Золотая коллекция
-#EXTGRP: кино
-http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/7347/index.m3u8
-#EXTINF:0,Мосфильм. Золотая коллекция
-#EXTGRP: кино
-https://edge02.smart.az/o1/mosfilm/playlist.m3u8
-#EXTINF:0,Советское кино
-#EXTGRP: кино
-https://mhd116.iptv2022.com/p/c_Y2SA7SF5sTGVXWXREH8w,1675627627/streaming/sovietmovs/324/1/index.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
@@ -58,19 +46,14 @@ http://he11o.akadatel.com/iptv/RGCGUZ7V6BXE9A/5051/index.m3u8
 #EXTGRP: кино
 http://31.210.208.167:80/cinema/index.m3u8?token=test
 
-#EXTINF:0,Кинохит
+#EXTINF:0,Москва Доверие
 #EXTGRP: эфир
-http://185.32.44.154/kinoxit/index.m3u8
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
+#EXTINF:0,Москва Доверие
+#EXTGRP: эфир
+http://flu.ttk.mx:9090/Doverie/index.m3u8?token=orh6o
 
-#EXTINF:0,VF Друзья
-#EXTGRP: кино
-http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17006/index.m3u
-#EXTINF:0,VF Друзья
-#EXTGRP: кино
-http://c8bcc51f.ottrast.com/iptv/ZCMH78WDSG7QQU/17006/index.m3u8
-#EXTINF:0,VF Друзья
-#EXTGRP: кино
-http://he11o.akadatel.com/iptv/A68UKTSFGXMKZV/17006/index.m3u8
+
 #EXTINF:0,СТС
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/480p.m3u8
@@ -86,9 +69,85 @@ https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0,Звезда
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8
+
+#EXTINF:0,VIP Megahit
+#EXTGRP: кино
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,VIP Premiere
+#EXTGRP: кино
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,TV 1000 HD
+#EXTGRP: кино
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,TV 1000 Action HD
+#EXTGRP: кино
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0,.black
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+
+#EXTINF:0,Кино 1 HD
+#EXTGRP: кино
+http://01pqez2x.akciatv.ru/iptv/D2F95CS9QWVE4V/18069/index.m3u8
+#EXTINF:0,Кино 2 HD
+#EXTGRP: кино
+http://01pqez2x.akciatv.ru/iptv/D2F95CS9QWVE4V/18070/index.m3u8
+#EXTINF:0,Кино 1 International
+#EXTGRP: кино
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:0,Детское кино International
+#EXTGRP: кино
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0,Детское кино
+#EXTGRP: кино
+http://01pqez2x.akciatv.ru/iptv/D2F95CS9QWVE4V/18073/index.m3u8
+
+
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: кино
+http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: кино
+http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/7347/index.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: кино
+https://edge02.smart.az/o1/mosfilm/playlist.m3u8
+#EXTINF:0,Советское кино
+#EXTGRP: кино
+https://mhd116.iptv2022.com/p/c_Y2SA7SF5sTGVXWXREH8w,1675627627/streaming/sovietmovs/324/1/index.m3u8
+#EXTINF:0,Красная линия
+#EXTGRP: эфир
+http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
+
+
+#EXTINF:0,Киномикс
+#EXTGRP: кино
+http://78.25.155.47:1309/channel/Kino_plus.ts
+#EXTINF:0,КИНОКОМЕДИЯ
+#EXTGRP: кино
+http://91.220.135.165:81/25/index.m3u8
+#EXTINF:0,Мужское кино
+#EXTGRP: кино
+http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
+#EXTINF:0,Киномикс
+#EXTGRP: кино
+http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
+#EXTINF:0,Киномикс
+#EXTGRP: кино
+http://185.32.44.154/kinomiks/index.m3u8?token=iptv.org.ua
+#EXTINF:0,Кинохит
+#EXTGRP: кино
+http://185.32.44.154/kinoxit/index.m3u8
+#EXTINF:0,Кинохит
+#EXTGRP: кино
+https://edge02.smart.az/o2/kinohit/playlist.m3u8
+#EXTINF:0,Кинопремьера
+#EXTGRP: кино
+http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=orh6o
+
+#EXTINF:0,Кинохит
+#EXTGRP: эфир
+http://185.32.44.154/kinoxit/index.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
 http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/476/stream.m3u8
@@ -154,42 +213,8 @@ http://flu.ttk.mx:9090/Avto24/index.m3u8?token=orh6o
 #EXTGRP: Познавательное
 http://myott.top/stream/D18A159NA2/145.m3u8
 
-#EXTINF:0,VIP Megahit
-#EXTGRP: кино
-https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,VIP Premiere
-#EXTGRP: кино
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,TV 1000 HD
-#EXTGRP: кино
-https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,TV 1000 Action HD
-#EXTGRP: кино
-https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 
 
-#EXTINF:0,Кино 1 HD
-#EXTGRP: кино
-http://01pqez2x.akciatv.ru/iptv/D2F95CS9QWVE4V/18069/index.m3u8
-#EXTINF:0,Кино 2 HD
-#EXTGRP: кино
-http://01pqez2x.akciatv.ru/iptv/D2F95CS9QWVE4V/18070/index.m3u8
-#EXTINF:0,Кино 1 International
-#EXTGRP: кино
-http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:0,Детское кино International
-#EXTGRP: кино
-https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0,Детское кино
-#EXTGRP: кино
-http://01pqez2x.akciatv.ru/iptv/D2F95CS9QWVE4V/18073/index.m3u8
-
-#EXTINF:0,Москва Доверие
-#EXTGRP: эфир
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
-#EXTINF:0,Красная линия
-#EXTGRP: эфир
-http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
 
 #EXTINF:0,Звезда Плюс
 #EXTGRP: эфир
@@ -211,24 +236,7 @@ https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
 #EXTINF:0,Премиальное HD
 #EXTGRP: кино
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
-#EXTINF:0,Мужское кино
-#EXTGRP: кино
-http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
-#EXTINF:0,Киномикс
-#EXTGRP: кино
-http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
-#EXTINF:0,Киномикс
-#EXTGRP: кино
-http://185.32.44.154/kinomiks/index.m3u8?token=iptv.org.ua
-#EXTINF:0,Кинохит
-#EXTGRP: кино
-http://185.32.44.154/kinoxit/index.m3u8
-#EXTINF:0,Кинохит
-#EXTGRP: кино
-https://edge02.smart.az/o2/kinohit/playlist.m3u8
-#EXTINF:0,Кинопремьера
-#EXTGRP: кино
-http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=orh6o
+
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://9ea2ebdb.ucomist.net/iptv/445D9E2YVBUC9Q/904/index.m3u8
@@ -468,9 +476,6 @@ https://rt-ct-vrzh-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/v
 
 
 #EXTINF:0,Конец
-
-
-
 
 
 
