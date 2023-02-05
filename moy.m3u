@@ -2,6 +2,9 @@
 #EXTINF:0,PROKOP TV Сказки СССР
 #EXTGRP: кино
 http://01pqez2x.akciatv.ru/iptv/D2F95CS9QWVE4V/19317/index.m3u8
+#EXTINF:0,YOSSO TV Oblivion
+#EXTGRP: кино
+http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1780/stream.m3u8
 ----
 
 #EXTINF:0,VF Друзья
