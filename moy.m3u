@@ -476,7 +476,12 @@ http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:0,минимакс-UFO HD
 #EXTGRP: кино
 http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/13017/index.m3u8
-
+#EXTINF:0,KLI Fantastica
+#EXTGRP: кино
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/KLI_Fantastica/video.m3u8?token=c3MxOTYxfHxjM014T1RZeA==
+#EXTINF:0,YOSSO TV Oblivion
+#EXTGRP: кино
+http://bigteisti8.belyenochi.lifeyosso.fun:4399/Y-OBLIVION/video.m3u8?token=c3MxOTYxfHxjM014T1RZeA==
 
 
 
