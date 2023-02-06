@@ -1,9 +1,9 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="Взрослые",nal
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 group-title="Взрослые",Live Cams
-http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="Взрослые",01
+http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/2029/stream.m3u8
+#EXTINF:-1 group-title="Взрослые",02
+http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/2030/stream.m3u8
 #EXTINF:-1 group-title="Взрослые",Russian
 http://cdn.adultiptv.net/russian.m3u8
 #EXTINF:-1 group-title="Взрослые",Threesome
