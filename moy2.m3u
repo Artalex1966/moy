@@ -4,8 +4,8 @@
 http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/2029/stream.m3u8
 #EXTINF:-1 group-title="Взрослые",02
 http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/2030/stream.m3u8
-#EXTINF:-1 group-title="Взрослые",Russian
-http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="Взрослые",Cartoon
+http://144.76.58.245:2307/cartoon/index.m3u8
 #EXTINF:-1 group-title="Взрослые",Threesome
 http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1 group-title="Взрослые",Hardcore
