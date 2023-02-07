@@ -11,6 +11,9 @@ http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/13037/index.m3u8
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187241.m3u8
+#EXTINF:0,Кинозал! Хит
+#EXTGRP: кино
+https://hls.goodgame.ru/hls/153640.m3u8
 ----
 
 #EXTINF:0,VF Друзья
@@ -491,8 +494,16 @@ http://bigteisti1.belyenochi.lifeyosso.fun:56373/KLI_Fantastica/video.m3u8?token
 #EXTINF:0,YOSSO TV Oblivion
 #EXTGRP: кино
 http://bigteisti8.belyenochi.lifeyosso.fun:4399/Y-OBLIVION/video.m3u8?token=c3MxOTYxfHxjM014T1RZeA==
-
-
+---
+#EXTINF:0,Cinema Classic
+#EXTGRP: кино
+https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:0,Твоё ТВ
+#EXTGRP: кино
+http://84.38.180.145:8080/tvoetv/index.m3u8
+#EXTINF:0,FILM TV HD
+#EXTGRP: кино
+https://hls.goodgame.ru/hls/163253.m3u8
 
 #EXTINF:0,Конец
 
