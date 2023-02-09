@@ -56,7 +56,7 @@ http://31.210.208.167:80/cinema/index.m3u8?token=test
 
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
+http://185.23.80.28:8080/MoskvaDoverie/index.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
 http://flu.ttk.mx:9090/Doverie/index.m3u8?token=orh6o
