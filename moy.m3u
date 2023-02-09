@@ -501,6 +501,18 @@ http://84.38.180.145:8080/tvoetv/index.m3u8
 #EXTINF:0,FILM TV HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/163253.m3u8
+#EXTINF:0,STR TV
+#EXTGRP: кино
+https://hls.goodgame.ru/hls/185110.m3u8
+#EXTINF:0,PZN TV
+#EXTGRP: кино
+https://hls.goodgame.ru/hls/180960.m3u8
+#EXTINF:0,BackusTV
+#EXTGRP: кино
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:0,Хит Non Stop
+#EXTGRP: кино
+https://v2.catcast.tv/content/41621/index.m3u8
 
 #EXTINF:0,Конец
 
