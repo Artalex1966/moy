@@ -194,7 +194,7 @@ https://edge02.smart.az/o3/discoveryscience/playlist.m3u8
 http://9ea2ebdb.ucomist.net/iptv/445D9E2YVBUC9Q/140/index.m3u8
 #EXTINF:0,Наука HD
 #EXTGRP: Познавательное
-http://176.74.80.162:8099/Nauka/index.m3u8
+http://78.25.155.47:1309/channel/Nauka.ts
 #EXTINF:0,Наука HD
 #EXTGRP: Познавательное
 http://flu.ttk.mx:9090/Nauka/index.m3u8?token=orh6o
@@ -284,13 +284,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 #EXTINF:0,О!
 #EXTGRP: Детский
-http://c8bcc51f.ottrast.com/iptv/ZCMH78WDSG7QQU/727/index.m3u8
+http://185.23.80.28:8080/O/index.m3u8
 #EXTINF:0,О!
 #EXTGRP: Детский
 http://flu.ttk.mx:9090/O!/index.m3u8?token=orh6o
 #EXTINF:0,Рыжий
 #EXTGRP: Детский
-http://c8bcc51f.ottrast.com/iptv/ZCMH78WDSG7QQU/2052/index.m3u8
+http://185.23.80.28:8080/Ryzhij/index.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
 http://185.32.44.154/detskiymir/tracks-v1a1/index.m3u8
@@ -338,9 +338,12 @@ http://01pqez2x.akciatv.ru/iptv/D2F95CS9QWVE4V/17057/index.m3u8
 #EXTINF:0,Viasat History
 #EXTGRP: Познавательное
 https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,Discovery Science
+#EXTGRP: Познавательное
+https://nl01.spr24.net/303/mpegts?token=uUVbSpF8Wv26Ux
 #EXTINF:0,Наука HD
 #EXTGRP: Познавательное
-https://edge02.smart.az/o1/nauka2/playlist.m3u8
+https://nl01.spr24.net/20240/mpegts?token=uUVbSpF8Wv26Ux
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 http://ott.inmart.tv:8081/19/index.m3u8
@@ -361,6 +364,7 @@ http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/13017/index.m3u8
 #EXTINF:0,Cinema Classic
 #EXTGRP: кино
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+
 
 #EXTINF:0,FILM ХИТ HD
 #EXTGRP: кино
@@ -391,6 +395,10 @@ http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:0,Хит Non Stop
 #EXTGRP: кино
 https://v2.catcast.tv/content/41621/index.m3u8
+
+#EXTINF:0,KBC-Fantastic
+#EXTGRP: кино
+http://cdn.ser2.uztv.su:90/ZoaJU7BVJB/video.m3u8?token=WnfYPNH51jA9644m
 
 #EXTINF:0,Конец
 
