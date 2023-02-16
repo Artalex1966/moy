@@ -399,7 +399,9 @@ https://v2.catcast.tv/content/41621/index.m3u8
 #EXTINF:0,KBC-Fantastic
 #EXTGRP: кино
 http://cdn.ser2.uztv.su:90/ZoaJU7BVJB/video.m3u8?token=WnfYPNH51jA9644m
-
+#EXTINF:0,BCU Fantastic HD
+#EXTGRP: кино
+http://str09.ottg.tv/7834/video.m3u8?username=djek-vrn&password=I5FBW98ZEA&token=e629e3992983609164b953f6920f97a4&ch_id=886&req_host=pkjX3BL
 #EXTINF:0,Конец
 
 
