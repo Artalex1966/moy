@@ -253,11 +253,12 @@ http://hlss.goodgame.ru/hls/187241.m3u8
 
 
 
-
-
+#EXTINF:0,KLI СССР HD
+#EXTGRP: кино
+http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1937/stream.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://12133a05.edemist.com/iptv/T2NHCDKBBHQB86/11026/index.m3u8
+http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/11026/index.m3u8
 
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
@@ -299,7 +300,7 @@ http://185.32.44.154/detskiymir/tracks-v1a1/index.m3u8
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/909/index.m3u8
 #EXTINF:0,Мультиландия
 #EXTGRP: Детский
-http://c8bcc51f.ottrast.com/iptv/ZCMH78WDSG7QQU/5055/index.m3u8
+http://185.32.44.154/Multilandia/index.m3u8
 #EXTINF:0,Disney
 #EXTGRP: Детский
 http://95.217.196.109:8081/russia/disney/playlist.m3u8
@@ -402,6 +403,13 @@ http://cdn.ser2.uztv.su:90/ZoaJU7BVJB/video.m3u8?token=WnfYPNH51jA9644m
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
 http://str09.ottg.tv/7834/video.m3u8?username=djek-vrn&password=I5FBW98ZEA&token=e629e3992983609164b953f6920f97a4&ch_id=886&req_host=pkjX3BL
+-----
+#EXTINF:0,BOX Game HD
+#EXTGRP: Познавательное
+http://iptvcinema.site/box_game/index.m3u8?token=U2h1bGVybWFufHxVbTl0WVRJd01UUT0=
+
+
+
 #EXTINF:0,Конец
 
 
