@@ -410,8 +410,9 @@ http://str09.ottg.tv/7834/video.m3u8?username=djek-vrn&password=I5FBW98ZEA&token
 #EXTINF:0,BOX Game HD
 #EXTGRP: Познавательное
 http://iptvcinema.site/box_game/index.m3u8?token=U2h1bGVybWFufHxVbTl0WVRJd01UUT0=
-
-
+#EXTINF:0,MiTV Дубляж СССР
+#EXTGRP: кино
+http://iptvcinema.site/btv_dublyaj/index.m3u8?token=U2h1bGVybWFufHxVbTl0WVRJd01UUT0=
 
 #EXTINF:0,Конец
 
