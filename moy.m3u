@@ -229,11 +229,12 @@ http://146.158.0.56:80/ZvezdaPlus/index.m3u8
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/18199/index.m3u8
 
 
-
-
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
-http://9ea2ebdb.ucomist.net/iptv/445D9E2YVBUC9Q/904/index.m3u8
+http://stream.nlstream.ru:23055/play/a0ii
+#EXTINF:0,Остросюжетное HD
+#EXTGRP: кино
+http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/904/index.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
