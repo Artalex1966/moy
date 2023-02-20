@@ -412,22 +412,9 @@ https://v2.catcast.tv/content/41621/index.m3u8
 #EXTINF:0,Fresh Fantastic HD
 #EXTGRP: кино
 http://myott.top/stream/7D4XYB2WFN/429.m3u8
-#EXTINF:0,Dosug Fantastic HD
-#EXTGRP: кино
-http://iptvcinema.site/dosug_fantastic/index.m3u8?token=U2h1bGVybWFufHxVbTl0WVRJd01UUT0=
-#EXTINF:0,MiTV Фантастика HD
-#EXTGRP: кино
-http://iptvcinema.site/btv_fantasticahd/index.m3u8?token=U2h1bGVybWFufHxVbTl0WVRJd01UUT0=
-#EXTINF:0,BCU Fantastic HD
-#EXTGRP: кино
-http://iptvcinema.site/bcu_fantastic/index.m3u8?token=U2h1bGVybWFufHxVbTl0WVRJd01UUT0=
+
 -----
-#EXTINF:0,BOX Game HD
-#EXTGRP: Познавательное
-http://iptvcinema.site/box_game/index.m3u8?token=U2h1bGVybWFufHxVbTl0WVRJd01UUT0=
-#EXTINF:0,MiTV Дубляж СССР
-#EXTGRP: кино
-http://iptvcinema.site/btv_dublyaj/index.m3u8?token=U2h1bGVybWFufHxVbTl0WVRJd01UUT0=
+
 
 #EXTINF:0,Конец
 
