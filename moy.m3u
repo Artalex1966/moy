@@ -40,9 +40,9 @@ http://dmi3y-tv.ru/hls/CH_SOLOVEVLIVE.m3u8
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
-#EXTINF:0,Известия ТВ
-#EXTGRP: эфир
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/index.m3u8
+#EXTINF:0,Блокбастер
+#EXTGRP: кино
+http://185.23.80.28:8080/Blockbaster/index.m3u8
 
 
 #EXTINF:0,Cinema
