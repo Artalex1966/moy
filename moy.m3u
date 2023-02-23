@@ -254,10 +254,10 @@ http://hlss.goodgame.ru/hls/187241.m3u8
 
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1937/stream.m3u8
+http://185.246.66.5:8000/channel/n5c690da9/index.ts?q=dd21b7b5a71f22ac7fa79db1e2f192b4
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/11026/index.m3u8
+http://185.246.66.5:8000/channel/3b69cc91/index.ts?q=dd21b7b5a71f22ac7fa79db1e2f192b4
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://stream.nlstream.ru:23055/play/a0it
@@ -394,9 +394,9 @@ http://84.38.180.145:8080/tvoetv/index.m3u8
 #EXTINF:0,BackusTV
 #EXTGRP: кино
 http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:0,Хит Non Stop
+#EXTINF:0,Z!Fantastic HD
 #EXTGRP: кино
-https://v2.catcast.tv/content/41621/index.m3u8
+http://185.246.66.5:8000/channel/n41b18018/index.ts?q=dd21b7b5a71f22ac7fa79db1e2f192b4
 
 #EXTINF:0,Fresh Fantastic HD
 #EXTGRP: кино
