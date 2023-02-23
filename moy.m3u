@@ -44,9 +44,7 @@ https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
 #EXTGRP: эфир
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/index.m3u8
 
-#EXTINF:0,Cinema
-#EXTGRP: кино
-http://he11o.akadatel.com/iptv/RGCGUZ7V6BXE9A/5051/index.m3u8
+
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
@@ -57,12 +55,6 @@ http://31.210.208.167:80/cinema/index.m3u8?token=test
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
 http://185.23.80.28:8080/MoskvaDoverie/index.m3u8
-#EXTINF:0,Родное Кино
-#EXTGRP: кино
-http://play.wisp.cat/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FRodnoekino%2Fvideo.m3u8&login=ovasyk&key=PZlppH4
-#EXTINF:0,Киносемья
-#EXTGRP: кино
-http://play.wisp.cat/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FKinosemya%2Fvideo.m3u8&login=ovasyk&key=PZlppH4
 
 #EXTINF:0,СТС
 #EXTGRP: эфир
@@ -237,10 +229,7 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/18199/index.m3u8
 
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
-http://stream.nlstream.ru:23055/play/a0ii
-#EXTINF:0,Остросюжетное HD
-#EXTGRP: кино
-http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/904/index.m3u8
+http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/127/stream.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
