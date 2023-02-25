@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-#EXTINF:0,Минимакс-Комедия Classic
+#EXTINF:0,Блокбастер
 #EXTGRP: кино
-http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/13037/index.m3u8
+http://185.23.80.28:8080/Blockbaster/index.m3u8
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187241.m3u8
@@ -46,9 +46,7 @@ http://dmi3y-tv.ru/hls/CH_SOLOVEVLIVE.m3u8
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
-#EXTINF:0,Блокбастер
-#EXTGRP: кино
-http://185.23.80.28:8080/Blockbaster/index.m3u8
+
 
 
 #EXTINF:0,Cinema
