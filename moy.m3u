@@ -402,6 +402,9 @@ http://185.246.66.5:8000/channel/n41b18018/index.ts?q=dd21b7b5a71f22ac7fa79db1e2
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 https://nl01.spr24.net/122/mpegts?token=sqcTc9Vmx7uu5N
+#EXTINF:0,История
+#EXTGRP: кино
+http://l1iptv.xyz:80/adagio-discord@1/1@xZpWNf4md2@1/15076
 
 -----
 
