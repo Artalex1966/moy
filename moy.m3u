@@ -193,7 +193,7 @@ https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
 
 #EXTINF:0,Discovery Channel
 #EXTGRP: Познавательное
-http://9ea2ebdb.ucomist.net/iptv/445D9E2YVBUC9Q/140/index.m3u8
+http://45.11.139.43:8081/stream/discchanel/hls/playlist.m3u8
 #EXTINF:0,Наука HD
 #EXTGRP: Познавательное
 http://78.25.155.47:1309/channel/Nauka.ts
