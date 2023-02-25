@@ -399,9 +399,9 @@ http://stream.backustv.ru/live/btv/index.m3u8
 #EXTGRP: кино
 http://185.246.66.5:8000/channel/n41b18018/index.ts?q=dd21b7b5a71f22ac7fa79db1e2f192b4
 
-#EXTINF:0,Fresh Fantastic HD
+#EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
-http://myott.top/stream/7D4XYB2WFN/429.m3u8
+https://nl01.spr24.net/122/mpegts?token=sqcTc9Vmx7uu5N
 
 -----
 
