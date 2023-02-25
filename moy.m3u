@@ -27,7 +27,7 @@ http://88c0ad0b.ottrast.com/iptv/7VZGY6DT5243AH/17006/index.m3u8
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
-http://he11o.akadatel.com/iptv/A68UKTSFGXMKZV/17006/index.m3u8
+http://gavrilovka.tvclub.xyz/iptv/FYPU5KLUSENXCZ/17006/index.m3u
 
 ---
 
@@ -124,7 +124,7 @@ http://109.197.192.121:8080/mosfilm/index.m3u8
 https://edge02.smart.az/o1/mosfilm/playlist.m3u8
 #EXTINF:0,Советское кино
 #EXTGRP: кино
-http://iptvin.ddns.net:2134/channel/n4ef90b2b/index.m3u8?q=c2f105e41a177ab49ed3fee055dd0dd5
+http://gavrilovka.tvclub.xyz/iptv/FYPU5KLUSENXCZ/6392/index.m3u
 #EXTINF:0,Красная линия
 #EXTGRP: эфир
 http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
@@ -306,9 +306,9 @@ http://185.32.44.154/Multilandia/index.m3u8
 #EXTINF:0,Disney
 #EXTGRP: Детский
 http://95.217.196.109:8081/russia/disney/playlist.m3u8
-#EXTINF:0,YOSSO TV Союзмульт
+#EXTINF:0,минимакс-ussr-сказки HD
 #EXTGRP: Детский
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1773/stream.m3u8
+http://gavrilovka.tvclub.xyz/iptv/FYPU5KLUSENXCZ/13021/index.m3u
 #EXTINF:0,Мультсказки
 #EXTGRP: Детский
 https://autopilot.catcast.tv/content/38850/index.m3u8
