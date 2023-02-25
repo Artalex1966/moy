@@ -401,6 +401,9 @@ http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:0,Z!Fantastic HD
 #EXTGRP: кино
 http://185.246.66.5:8000/channel/n41b18018/index.ts?q=dd21b7b5a71f22ac7fa79db1e2f192b4
+#EXTINF:0,минимакс-UFO
+#EXTGRP: кино
+http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/13017/index.m3u8
 
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
