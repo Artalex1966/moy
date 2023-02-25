@@ -14,6 +14,9 @@ http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
 #EXTINF:0,КИНОМИКС
 #EXTGRP: кино
 http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
+#EXTINF:0,Кино ТВ
+#EXTGRP: кино
+https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
 ----
 
 #EXTINF:0,VF Друзья
@@ -187,12 +190,6 @@ http://185.32.44.154/discoveryscience/index.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
 https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
-#EXTINF:0,Discovery Science
-#EXTGRP: Познавательное
-http://632dc1f8.kazaktelekom.com/iptv/969V4NNXCTC2CT/136/index.m3u8
-#EXTINF:0,Discovery Science
-#EXTGRP: Познавательное
-https://edge02.smart.az/o3/discoveryscience/playlist.m3u8
 
 #EXTINF:0,Discovery Channel
 #EXTGRP: Познавательное
