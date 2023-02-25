@@ -362,9 +362,6 @@ http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:0,минимакс-UFO HD
-#EXTGRP: кино
-http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/13017/index.m3u8
 
 ---
 #EXTINF:0,Cinema Classic
@@ -404,6 +401,9 @@ http://185.246.66.5:8000/channel/n41b18018/index.ts?q=dd21b7b5a71f22ac7fa79db1e2
 #EXTINF:0,минимакс-UFO
 #EXTGRP: кино
 http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/13017/index.m3u8
+#EXTINF:0,Fresh Fantastic
+#EXTGRP: кино
+http://myott.top/stream/CUJ4ZVUK9V/429.m3u8
 
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
