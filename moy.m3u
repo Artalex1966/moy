@@ -14,9 +14,9 @@ http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
 #EXTINF:0,КИНОМИКС
 #EXTGRP: кино
 http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
-#EXTINF:0,Кино ТВ
+#EXTINF:0,Киноклуб
 #EXTGRP: кино
-https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
+http://autopilot.catcast.tv/content/39005/index.m3u8
 ----
 
 #EXTINF:0,VF Друзья
@@ -98,22 +98,13 @@ https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 #EXTGRP: кино
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:0,Кино 1 HD
-#EXTGRP: кино
-http://iptvcinema.site/kino_1/index.m3u8?token=U2h1bGVybWFufHxVbTl0WVRJd01UUT0=
-#EXTINF:0,Кино 2 HD
-#EXTGRP: кино
-http://iptvcinema.site/kino_2/index.m3u8?token=U2h1bGVybWFufHxVbTl0WVRJd01UUT0=
+
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0,Детское кино
-#EXTGRP: кино
-http://01pqez2x.akciatv.ru/iptv/D2F95CS9QWVE4V/18073/index.m3u8
-
 
 
 #EXTINF:0,Мосфильм. Золотая коллекция
@@ -225,7 +216,7 @@ http://myott.top/stream/D18A159NA2/145.m3u8
 http://146.158.0.56:80/ZvezdaPlus/index.m3u8
 #EXTINF:0,VF Кухня
 #EXTGRP: кино
-http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/18199/index.m3u8
+http://gavrilovka.klaipedalt.xyz/iptv/Y6D8WQK7Y2Y7WB/18199/index.m3u
 
 
 #EXTINF:0,Остросюжетное HD
@@ -400,7 +391,7 @@ http://stream.backustv.ru/live/btv/index.m3u8
 http://185.246.66.5:8000/channel/n41b18018/index.ts?q=dd21b7b5a71f22ac7fa79db1e2f192b4
 #EXTINF:0,минимакс-UFO
 #EXTGRP: кино
-http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/13017/index.m3u8
+http://gavrilovka.klaipedalt.xyz/iptv/Y6D8WQK7Y2Y7WB/13017/index.m3u
 #EXTINF:0,Fresh Fantastic
 #EXTGRP: кино
 http://myott.top/stream/CUJ4ZVUK9V/429.m3u8
