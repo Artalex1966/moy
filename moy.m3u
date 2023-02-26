@@ -409,6 +409,9 @@ https://s.catcast.tv/content/42612/index.m3u8?token=64dcd1ea5c14d9af449e69099669
 #EXTINF:0,Малдер тв:Советское
 #EXTGRP: кино
 https://v2.catcast.tv/content/42930/index.m3u8
+#EXTINF:0,IPTVPLAY PROMO
+#EXTGRP: кино
+https://iptvplay.catcast.tv/content/39161/index.m3u8
 
 -----
 
