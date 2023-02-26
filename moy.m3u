@@ -300,7 +300,7 @@ http://95.217.196.109:8081/russia/disney/playlist.m3u8
 http://gavrilovka.tvclub.xyz/iptv/FYPU5KLUSENXCZ/13021/index.m3u
 #EXTINF:0,Мультсказки
 #EXTGRP: Детский
-https://autopilot.catcast.tv/content/38850/index.m3u8
+https://iptvplay.catcast.tv/content/38850/index.m3u8
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детский
 http://myott.top/stream/D18A159NA2/93.m3u8
@@ -397,6 +397,13 @@ http://ott.server-iptv.live/1606/video.m3u8?token=SA66968D40
 #EXTINF:0,История
 #EXTGRP: кино
 http://l1iptv.xyz:80/adagio-discord@1/1@xZpWNf4md2@1/15076
+#EXTINF:0,High TV (Хай ТВ)
+#EXTGRP: кино
+https://live.high-tv.net/content/270/index.m3u8
+#EXTINF:0,Good Films
+#EXTGRP: кино
+https://s.catcast.tv/content/42612/index.m3u8?token=64dcd1ea5c14d9af449e69099669b57f
+
 
 -----
 
