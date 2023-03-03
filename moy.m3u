@@ -24,7 +24,7 @@ http://autopilot.catcast.tv/content/39005/index.m3u8
 
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
-http://88c0ad0b.ottrast.com/iptv/7VZGY6DT5243AH/17006/index.m3u8
+http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/17006/index.m3u8
@@ -243,15 +243,7 @@ http://hlss.goodgame.ru/hls/187241.m3u8
 
 
 
-#EXTINF:0,KLI СССР HD
-#EXTGRP: кино
-http://185.246.66.5:8000/channel/n5c690da9/index.ts?q=dd21b7b5a71f22ac7fa79db1e2f192b4
-#EXTINF:0,BCU СССР HD
-#EXTGRP: кино
-http://185.246.66.5:8000/channel/3b69cc91/index.ts?q=dd21b7b5a71f22ac7fa79db1e2f192b4
-#EXTINF:0,BCU СССР HD
-#EXTGRP: кино
-http://stream.nlstream.ru:23055/play/a0it
+
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/11061/index.m3u8
