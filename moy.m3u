@@ -242,8 +242,9 @@ http://185.32.44.154/kinosemya/index.m3u8
 http://hlss.goodgame.ru/hls/187241.m3u8
 
 
-
-
+#EXTINF:0,KBC-Страна СССР
+#EXTGRP: кино
+http://pd0ib21f.megatv.fun/iptv/GNSB6Z626A294L/11091/index.m3u8
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/11061/index.m3u8
@@ -252,7 +253,7 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/11061/index.m3u8
 http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/14218/index.m3u8
 #EXTINF:0,MiniMax Комедия U.S.S.R
 #EXTGRP: кино
-https://nl01.spr24.net/20733/mpegts?token=uUVbSpF8Wv26Ux
+http://pd0ib21f.megatv.fun/iptv/GNSB6Z626A294L/20733/index.m3u8
 
 
 
@@ -357,9 +358,9 @@ https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:0,FILM ХИТ HD
 #EXTGRP: кино
 https://hls.goodgame.ru/manifest/153640_master.m3u8
-#EXTINF:0,FILM TV HD
+#EXTINF:0,BOX Game HD
 #EXTGRP: кино
-https://hls.goodgame.ru/hls/163253.m3u8
+http://pd0ib21f.megatv.fun/iptv/GNSB6Z626A294L/19284/index.m3u8
 #EXTINF:0,STR TV
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/185110.m3u8
