@@ -20,6 +20,9 @@ https://iptvplay.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,Киноклуб
 #EXTGRP: кино
 http://autopilot.catcast.tv/content/39005/index.m3u8
+#EXTINF:0,Контент моего детства HD
+#EXTGRP: кино
+https://hls.goodgame.ru/hls/198091.m3u8
 ----
 
 #EXTINF:0,VF Друзья
@@ -259,9 +262,9 @@ http://pd0ib21f.megatv.fun/iptv/GNSB6Z626A294L/20733/index.m3u8
 
 ----
 
-#EXTINF:0,CCCP сказки
+#EXTINF:0,Мультики и Сказки HD
 #EXTGRP: кино
-http://he11o.akadatel.com/iptv/YNAWFGQVATNUZS/13021/index.m3u
+https://hls.goodgame.ru/hls/198446.m3u8
 #EXTINF:0,PROKOP TV Сказки СССР
 #EXTGRP: Детский
 http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/19317/index.m3u8
