@@ -151,7 +151,12 @@ http://78.25.155.47:1309/channel/Kino_plus.ts
 #EXTINF:0,Кинохит
 #EXTGRP: кино
 http://185.32.44.154/kinoxit/index.m3u8
-
+#EXTINF:0,Кинохит
+#EXTGRP: кино
+http://213.172.73.170:8081/nimble_live/1083__Kinoxit/playlist.m3u8
+#EXTINF:0,Киносемья
+#EXTGRP: кино
+http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
 http://vod.tuva.ru/kinotv/index.m3u8
@@ -189,6 +194,9 @@ http://78.25.155.47:1309/channel/Nauka.ts
 #EXTINF:0,Viasat History
 #EXTGRP: Познавательное
 https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,GALAXY
+#EXTGRP: Познавательное
+rtmp://178.159.112.198//galaxy
 #EXTINF:0,Звезда Плюс
 #EXTGRP: эфир
 http://146.158.0.56:80/ZvezdaPlus/index.m3u8
@@ -215,7 +223,9 @@ http://myott.top/stream/D18A159NA2/128.m3u8
 http://109.197.192.121:8080/kinohit/index.m3u8
 
 ---------
-
+#EXTINF:0,BCU СССР HD
+#EXTGRP: кино
+http://217.107.34.114:8006/playlist.m3u8
 #EXTINF:0,KBC-Страна СССР
 #EXTGRP: кино
 http://pd0ib21f.megatv.fun/iptv/GNSB6Z626A294L/11091/index.m3u8
@@ -225,6 +235,12 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/11061/index.m3u8
 #EXTINF:0,Dosug СССР HD
 #EXTGRP: кино
 http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/14218/index.m3u8
+#EXTINF:0, Советское кино
+#EXTGRP: кино
+https://mhd116.iptv2022.com/p/0ceDUhBpPJ-birn3QobbXQ,1678910392/streaming/sovietmovs/324/1/index.m3u8
+#EXTINF:0, Советские мультфильмы
+#EXTGRP: кино
+https://mhd116.iptv2022.com/p/_1jzxlArtheU2chPiMyU9w,1678910392/streaming/rusmult/324/1/index.m3u8
 
 ----
 
@@ -282,6 +298,18 @@ http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:0,Музыка Кино International
 #EXTGRP: Музыка
 http://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:0,Chill Out Zone Plus
+#EXTGRP: Радио
+https://chillout.zone/chillout_plus
+#EXTINF:0,RadioJazz Light
+#EXTGRP: Радио
+https://online.radiojazz.ua/RadioJazz_Light_HD
+#EXTINF:0,Radio101 Италия
+#EXTGRP: Радио
+https://pub0202.101.ru:8443/stream/pro/aac/64/291
+#EXTINF:0,Radio101 Pink Floyd
+#EXTGRP: Радио
+https://pub0202.101.ru:8443/stream/pro/aac/64/53
 -----------
 
 
@@ -349,7 +377,9 @@ https://v2.catcast.tv/content/42930/index.m3u8
 #EXTINF:0,IPTVPLAY PROMO
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/39161/index.m3u8
-
+#EXTINF:0, Экранизации HD
+#EXTGRP: кино
+http://fs2.persik.by/447587/index.m3u8
 -----
 
 
