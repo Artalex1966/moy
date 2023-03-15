@@ -258,7 +258,9 @@ http://185.32.44.154/detskiymir/tracks-v1a1/index.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/909/index.m3u8
-
+#EXTINF:0,Мультиландия
+#EXTGRP: Детский
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
 #EXTINF:0,Мультсказки
 #EXTGRP: Детский
 https://iptvplay.catcast.tv/content/38850/index.m3u8
