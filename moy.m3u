@@ -151,6 +151,9 @@ http://78.25.155.47:1309/channel/Nashe_kino.ts
 http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
 ---
 
+#EXTINF:0,Премиальное HD
+#EXTGRP: кино
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
 http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
@@ -252,10 +255,8 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/11061/index.m3u8
 http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/14218/index.m3u8
 #EXTINF:0, Советское кино
 #EXTGRP: кино
-https://mhd116.iptv2022.com/p/0ceDUhBpPJ-birn3QobbXQ,1678910392/streaming/sovietmovs/324/1/index.m3u8
-#EXTINF:0, Советские мультфильмы
-#EXTGRP: кино
-https://mhd116.iptv2022.com/p/_1jzxlArtheU2chPiMyU9w,1678910392/streaming/rusmult/324/1/index.m3u8
+http://cdn-lb.iptv2022.com/p/cPgexDWam7K2jhlmoii4Ig,1672950629/streaming/sovietmovs/324/1/tracks-v1a1/mono.m3u8
+
 
 ----
 
