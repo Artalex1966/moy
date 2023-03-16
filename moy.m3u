@@ -71,6 +71,15 @@ http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://31.210.208.167:80/cinema/index.m3u8?token=test
+#EXTINF:0,Популярное кино HD
+#EXTGRP: кино
+http://fs1.persik.by/482801/index.m3u8
+#EXTINF:0,Новинки HD
+#EXTGRP: кино
+http://fs1.persik.by/482832/index.m3u8
+#EXTINF:0,Топ кино HD
+#EXTGRP: кино
+http://fs1.persik.by/482444/index.m3u8
 
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
@@ -274,12 +283,12 @@ http://flu.ttk.mx:9090/O!/index.m3u8?token=orh6o
 #EXTINF:0,Рыжий
 #EXTGRP: Детский
 http://185.23.80.28:8080/Ryzhij/index.m3u8
-#EXTINF:0,Детский мир
+#EXTINF:0, Детские мультики
 #EXTGRP: Детский
-http://185.32.44.154/detskiymir/tracks-v1a1/index.m3u8
-#EXTINF:0,Мульт
+http://fs1.persik.by/484215/index.m3u8
+#EXTINF:0, Мульт сериал HD
 #EXTGRP: Детский
-http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/909/index.m3u8
+http://fs1.persik.by/483279/index.m3u8
 #EXTINF:0,Мультиландия
 #EXTGRP: Детский
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
@@ -386,6 +395,9 @@ https://iptvplay.catcast.tv/content/39161/index.m3u8
 #EXTINF:0, Экранизации HD
 #EXTGRP: кино
 http://fs2.persik.by/447587/index.m3u8
+#EXTINF:0,IPTV Malder:Твое Кино
+#EXTGRP: кино
+https://cdn.wasd.tv/live/1632464/index.m3u8
 -----
 
 
