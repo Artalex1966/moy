@@ -7,13 +7,13 @@ http://185.23.80.28:8080/Blockbaster/index.m3u8
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
-https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
+http://streamer1.ruslanatv.ru/russia/kino_tv_sd_new_2023/playlist.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: кино
 http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
-#EXTINF:0,Кинозал! Хит
+#EXTINF:0,Кинохит
 #EXTGRP: кино
-https://hls.goodgame.ru/hls/153640.m3u8
+http://streamer1.ruslanatv.ru/russia/kinohit_2023/playlist.m3u8
 
 #EXTINF:0,Память
 #EXTGRP: кино
@@ -126,7 +126,7 @@ http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/6392/index.m3u8
 http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/733/index.m3u
 #EXTINF:0,Кинокомедия HD
 #EXTGRP: кино
-http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/7248/index.m3u
+http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
 #EXTINF:0,CineMan Комедия
 #EXTGRP: кино
 http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/11011/index.m3u
@@ -144,7 +144,7 @@ http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
 http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
-http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
+http://streamer1.ruslanatv.ru/russia/kinomix_sd_2023/playlist.m3u8
 #EXTINF:0,Киномикс2
 #EXTGRP: кино
 http://78.25.155.47:1309/channel/Kino_plus.ts
@@ -200,6 +200,9 @@ rtmp://178.159.112.198//galaxy
 #EXTINF:0,Звезда Плюс
 #EXTGRP: эфир
 http://146.158.0.56:80/ZvezdaPlus/index.m3u8
+#EXTINF:0,История
+#EXTGRP: эфир
+http://streamer1.ruslanatv.ru/russia/istoriya_2023/playlist.m3u8
 #EXTINF:0 tvg-rec="0",VF Авто
 #EXTGRP: Познавательное
 http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/15511/index.m3u8
