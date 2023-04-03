@@ -89,9 +89,15 @@ http://fs1.persik.by/389396/index.m3u8
 #EXTINF:0,Кино-антистресс
 #EXTGRP: кино
 http://fs2.persik.by/485815/index.m3u8
+#EXTINF:0,Путешествие во времени
+#EXTGRP: кино
+http://fs1.persik.by/462737/index.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
 http://185.23.80.28:8080/MoskvaDoverie/index.m3u8
+#EXTINF:0,Любимое кино
+#EXTGRP: эфир
+http://178.160.249.210:8000/play/a2t2/index.m3u8
 
 #EXTINF:0,СТС
 #EXTGRP: эфир
@@ -140,13 +146,19 @@ http://176.222.190.76/btv/SWM/mosfilm/mosfilm.m3u8
 http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/6392/index.m3u8
 #EXTINF:0,Русская комедия
 #EXTGRP: кино
-http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/733/index.m3u
+http://178.160.249.210:8000/play/a2ui/index.m3u8
 #EXTINF:0,Кинокомедия HD
 #EXTGRP: кино
 http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
-#EXTINF:0,CineMan Комедия
+#EXTINF:0,Комедия HD
 #EXTGRP: кино
-http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/11011/index.m3u
+http://fs1.persik.by/409116/index.m3u8
+#EXTINF:0,Комедийные фильмы HD
+#EXTGRP: кино
+http://fs1.persik.by/489192/index.m3u8
+#EXTINF:0,Новые комедии
+#EXTGRP: кино
+http://fs1.persik.by/396985/index.m3u8
 
 #EXTINF:0,РОДНОЕ КИНО
 #EXTGRP: кино
@@ -307,8 +319,9 @@ https://iptvplay.catcast.tv/content/38850/index.m3u8
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детский
 http://myott.top/stream/D18A159NA2/93.m3u8
-
-
+#EXTINF:0,Советские мультфильмы
+#EXTGRP: Детский
+https://mhd116.iptv2022.com/p/KdGeaF02voPcjkZ9oqmW1w,1680634744/streaming/rusmult/324/1/index.m3u8
 
 
 
