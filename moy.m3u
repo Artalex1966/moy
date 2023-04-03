@@ -37,7 +37,7 @@ https://v2.catcast.tv/content/38720/index.m3u8
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
-http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/17006/index.m3u8
+http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/17006/index.m3u8
@@ -358,7 +358,9 @@ http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:0,Cinema Classic
 #EXTGRP: кино
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
-
+#EXTINF:0,VF Друзья
+#EXTGRP: кино
+http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/17006/index.m3u8
 
 #EXTINF:0,FILM ХИТ HD
 #EXTGRP: кино
@@ -390,6 +392,10 @@ http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:0,Fresh Fantastic
 #EXTGRP: кино
 http://myott.top/stream/CUJ4ZVUK9V/429.m3u8
+#EXTINF:0,Dosug Fantastic HD
+#EXTGRP: кино
+http://vlm3jjnd.megatv.fun/iptv/RHA3G7Y2NYUP4E/14210/index.m3u8
+
 
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
