@@ -70,7 +70,7 @@ https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
 http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
 #EXTINF:0,Cinema
 #EXTGRP: кино
-http://31.210.208.167:80/cinema/index.m3u8?token=test
+http://176.222.190.76/btv/SWM/CINEMA/CINEMA.m3u8
 #EXTINF:0,Популярное кино HD
 #EXTGRP: кино
 http://fs1.persik.by/482801/index.m3u8
@@ -184,7 +184,7 @@ http://78.25.155.47:1309/channel/DOM_kino.ts
 http://45.132.87.69:8080/nashelubimoe/index.m3u8
 #EXTINF:0,Любимое Кино
 #EXTGRP: кино
-http://6ntfrhmp.siauliairsavlt.pw/iptv/P9R584CSR5YAX6/722/index.m3u
+http://81.198.190.9:7878/nase_lubimoe_kino/video.m3u8
 #EXTINF:0,Кинопоказ HD
 #EXTGRP: кино
 http://185.23.80.28:8080/Kinopokaz/index.m3u8
@@ -203,6 +203,9 @@ https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
 #EXTINF:0,Discovery Channel
 #EXTGRP: Познавательное
 http://176.222.190.76/btv/SWM/discovery_hd/discovery_hd.m3u8
+#EXTINF:0,DOCUBOX HD
+#EXTGRP: Познавательное
+http://81.198.190.9:7878/DOCUBOX/video.m3u8
 #EXTINF:0,Наука HD
 #EXTGRP: Познавательное
 http://78.25.155.47:1309/channel/Nauka.ts
