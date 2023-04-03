@@ -71,16 +71,24 @@ http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://176.222.190.76/btv/SWM/CINEMA/CINEMA.m3u8
-#EXTINF:0,Популярное кино HD
+#EXTINF:0,Советское HD
 #EXTGRP: кино
-http://fs1.persik.by/482801/index.m3u8
-#EXTINF:0,Новинки HD
+http://fs1.persik.by/409124/index.m3u8
+#EXTINF:0,Триллеры HD
 #EXTGRP: кино
-http://fs1.persik.by/482832/index.m3u8
-#EXTINF:0,Топ кино HD
+http://fs1.persik.by/409125/index.m3u8
+#EXTINF:0,Семейные фильмы
 #EXTGRP: кино
-http://fs1.persik.by/482444/index.m3u8
-
+http://fs1.persik.by/487750/index.m3u8
+#EXTINF:0,Экшн-фильмы
+#EXTGRP: кино
+http://fs1.persik.by/487969/index.m3u8
+#EXTINF:0,Кино выходного дня
+#EXTGRP: кино
+http://fs1.persik.by/389396/index.m3u8
+#EXTINF:0,Кино-антистресс
+#EXTGRP: кино
+http://fs2.persik.by/485815/index.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
 http://185.23.80.28:8080/MoskvaDoverie/index.m3u8
