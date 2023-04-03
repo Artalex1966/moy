@@ -95,6 +95,9 @@ http://185.23.80.28:8080/MoskvaDoverie/index.m3u8
 EXTINF:0,Любимое HD
 #EXTGRP: кино
 http://fr01.spr24.net/139/mpegts?token=569XzbdmXUcUKN
+EXTINF:0,Любимое Кино
+#EXTGRP: кино
+http://fr01.spr24.net/335/mpegts?token=569XzbdmXUcUKN
 
 #EXTINF:0,СТС
 #EXTGRP: эфир
