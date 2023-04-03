@@ -387,18 +387,18 @@ https://hls.goodgame.ru/hls/187241.m3u8
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/38801/index.m3u8
 
-#EXTINF:0,Малдер тв:Советское
+#EXTINF:0,MiniMax Комедия U.S.S.R
 #EXTGRP: кино
-https://v2.catcast.tv/content/42930/index.m3u8
+http://am01.spr24.net/20733/mpegts?token=PBQtWYVTvpqktT
 #EXTINF:0,IPTVPLAY PROMO
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/39161/index.m3u8
 #EXTINF:0, Экранизации HD
 #EXTGRP: кино
 http://fs2.persik.by/447587/index.m3u8
-#EXTINF:0,IPTV Malder:Твое Кино
+#EXTINF:0,BCU STARS HD
 #EXTGRP: кино
-https://cdn.wasd.tv/live/1632464/index.m3u8
+http://am01.spr24.net/20833/mpegts?token=PBQtWYVTvpqktT
 -----
 
 
