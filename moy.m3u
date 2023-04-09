@@ -195,13 +195,10 @@ http://vod.tuva.ru/kinotv/index.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: кино
-http://78.25.155.47:1309/channel/DOM_kino.ts
+http://streamer1.ruslanatv.ru/russia/dom_kino_2023/playlist.m3u8
 #EXTINF:0,Любимое Кино
 #EXTGRP: кино
 http://45.132.87.69:8080/nashelubimoe/index.m3u8
-#EXTINF:0,Любимое Кино
-#EXTGRP: кино
-http://81.198.190.9:7878/nase_lubimoe_kino/video.m3u8
 #EXTINF:0,Кинопоказ HD
 #EXTGRP: кино
 http://185.23.80.28:8080/Kinopokaz/index.m3u8
