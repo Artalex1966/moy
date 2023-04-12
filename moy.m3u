@@ -70,6 +70,12 @@ http://176.222.190.76/btv/SWM/CINEMA/CINEMA.m3u8
 #EXTINF:0,Советское HD
 #EXTGRP: кино
 http://fs1.persik.by/409124/index.m3u8
+#EXTINF:0,Лёгкое кино
+#EXTGRP: кино
+http://fs1.persik.by/488004/index.m3u8
+#EXTINF:0,Мировое кино HD
+#EXTGRP: кино
+http://fs1.persik.by/488248/index.m3u8
 #EXTINF:0,Cinema Classic TV
 #EXTGRP: кино
 http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
