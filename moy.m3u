@@ -64,10 +64,6 @@ http://dmi3y-tv.ru/hls/CH_SOLOVEVLIVE.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
 
 
-
-#EXTINF:0,Cinema
-#EXTGRP: кино
-http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://176.222.190.76/btv/SWM/CINEMA/CINEMA.m3u8
@@ -76,35 +72,23 @@ http://176.222.190.76/btv/SWM/CINEMA/CINEMA.m3u8
 http://fs1.persik.by/409124/index.m3u8
 #EXTINF:0,Триллеры HD
 #EXTGRP: кино
-http://fs1.persik.by/409125/index.m3u8
-#EXTINF:0,Семейные фильмы
-#EXTGRP: кино
-http://fs1.persik.by/487750/index.m3u8
-#EXTINF:0,Экшн-фильмы
-#EXTGRP: кино
-http://fs1.persik.by/487969/index.m3u8
-#EXTINF:0,Кино выходного дня
-#EXTGRP: кино
-http://fs1.persik.by/389396/index.m3u8
-#EXTINF:0,Кино-антистресс
-#EXTGRP: кино
-http://fs2.persik.by/485815/index.m3u8
-#EXTINF:0,Путешествие во времени
-#EXTGRP: кино
-http://fs1.persik.by/462737/index.m3u8
+
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
 http://185.23.80.28:8080/MoskvaDoverie/index.m3u8
 #EXTINF:0,Любимое
 #EXTGRP: эфир
 rtmp://5.182.231.251//2106
+#EXTINF:0,Любимое кино
+#EXTGRP: эфир
+http://45.132.87.69:8080/nashelubimoe/index.m3u8
 
 #EXTINF:0,СТС
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/480p.m3u8
 #EXTINF:0,,СТС Love
 #EXTGRP: эфир
-http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
+https://mhd116.iptv2022.com/p/qVwyrvHExW1SeVXnAAqhDA,1681325976/streaming/stsloveott/324/1/index.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP: эфир
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
@@ -266,7 +250,7 @@ http://109.197.192.121:8080/kinohit/index.m3u8
 http://217.107.34.114:8006/playlist.m3u8
 #EXTINF:0,KBC-Страна СССР
 #EXTGRP: кино
-http://pd0ib21f.megatv.fun/iptv/GNSB6Z626A294L/11091/index.m3u8
+http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/11091/index.m3u8
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/11061/index.m3u8
@@ -425,9 +409,6 @@ http://am01.spr24.net/20733/mpegts?token=PBQtWYVTvpqktT
 #EXTINF:0,IPTVPLAY PROMO
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/39161/index.m3u8
-#EXTINF:0, Экранизации HD
-#EXTGRP: кино
-http://fs2.persik.by/447587/index.m3u8
 #EXTINF:0,BCU STARS HD
 #EXTGRP: кино
 http://am01.spr24.net/20833/mpegts?token=PBQtWYVTvpqktT
