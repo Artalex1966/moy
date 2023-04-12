@@ -70,9 +70,9 @@ http://176.222.190.76/btv/SWM/CINEMA/CINEMA.m3u8
 #EXTINF:0,Советское HD
 #EXTGRP: кино
 http://fs1.persik.by/409124/index.m3u8
-#EXTINF:0,Триллеры HD
+#EXTINF:0,Cinema Classic TV
 #EXTGRP: кино
-
+http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
 http://185.23.80.28:8080/MoskvaDoverie/index.m3u8
@@ -128,25 +128,23 @@ http://176.222.190.76/btv/SWM/mosfilm/mosfilm.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/6392/index.m3u8
-#EXTINF:0,Русская комедия
+#EXTINF:0,Классика Кино
 #EXTGRP: кино
-http://178.160.249.210:8000/play/a2ui/index.m3u8
+https://mhd116.iptv2022.com/p/K8JcAUTvqX81pAxxTItMew,1681412421/streaming/k_kino/324/1/index.m3u8
 #EXTINF:0,Кинокомедия HD
 #EXTGRP: кино
 http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
 #EXTINF:0,Комедия HD
 #EXTGRP: кино
 http://fs1.persik.by/409116/index.m3u8
-#EXTINF:0,Комедийные фильмы HD
+#EXTINF:0,Комедия
 #EXTGRP: кино
-http://fs1.persik.by/489192/index.m3u8
-#EXTINF:0,Новые комедии
-#EXTGRP: кино
-http://fs1.persik.by/396985/index.m3u8
+http://79.141.211.254:8000/Komedia
+
 
 #EXTINF:0,РОДНОЕ КИНО
 #EXTGRP: кино
-http://78.25.155.47:1309/channel/Nashe_kino.ts
+http://hlstv.kem.211.ru/239.211.211.144/stream.m3u8
 #EXTINF:0,Красная линия
 #EXTGRP: эфир
 http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
