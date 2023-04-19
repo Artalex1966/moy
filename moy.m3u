@@ -125,21 +125,16 @@ https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 
 
-#EXTINF:0,Мосфильм. Золотая коллекция
-#EXTGRP: кино
-http://109.197.192.121:8080/mosfilm/index.m3u8
+
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://176.222.190.76/btv/SWM/mosfilm/mosfilm.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/6392/index.m3u8
-#EXTINF:0,Классика Кино
-#EXTGRP: кино
-https://mhd116.iptv2022.com/p/K8JcAUTvqX81pAxxTItMew,1681412421/streaming/k_kino/324/1/index.m3u8
 #EXTINF:0,Кинокомедия HD
 #EXTGRP: кино
-http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
+http://93.125.34.51:30002/Kinokomedia/index.m3u8
 #EXTINF:0,Комедия HD
 #EXTGRP: кино
 http://fs1.persik.by/409116/index.m3u8
@@ -205,9 +200,6 @@ http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
 #EXTINF:0,Discovery Channel
 #EXTGRP: Познавательное
 http://176.222.190.76/btv/SWM/discovery_hd/discovery_hd.m3u8
-#EXTINF:0, Поп Наука
-#EXTGRP: Познавательное
-http://fs2.persik.by/476225/index.m3u8
 #EXTINF:0, Всё о мозге
 #EXTGRP: Познавательное
 http://fs2.persik.by/393802/index.m3u8
