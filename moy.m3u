@@ -7,7 +7,7 @@ http://185.23.80.28:8080/Blockbaster/index.m3u8
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
-http://streamer1.ruslanatv.ru/russia/kino_tv_sd_new_2023/playlist.m3u8
+http://185.23.80.28:8080/Kino_TV/index.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: кино
 http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
@@ -62,7 +62,9 @@ http://dmi3y-tv.ru/hls/CH_SOLOVEVLIVE.m3u8
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
-
+#EXTINF:0,Москва Доверие
+#EXTGRP: эфир
+http://185.23.80.28:8080/MoskvaDoverie/index.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
@@ -70,24 +72,26 @@ http://176.222.190.76/btv/SWM/CINEMA/CINEMA.m3u8
 #EXTINF:0,Советское HD
 #EXTGRP: кино
 http://fs1.persik.by/409124/index.m3u8
-#EXTINF:0,Лёгкое кино
-#EXTGRP: кино
-http://fs1.persik.by/488004/index.m3u8
+
 #EXTINF:0,Мировое кино HD
 #EXTGRP: кино
 http://fs1.persik.by/488248/index.m3u8
 #EXTINF:0,Cinema Classic TV
 #EXTGRP: кино
 http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
-#EXTINF:0,Москва Доверие
-#EXTGRP: эфир
-http://185.23.80.28:8080/MoskvaDoverie/index.m3u8
+#EXTINF:0,Классика кино
+#EXTGRP: кино
+http://cdn-lb.iptv2022.com/p/hmnUeLnjT55p4GouhicIxw,1674072033/streaming/k_kino/324/1/index.m3u8
+
 #EXTINF:0,Любимое
 #EXTGRP: эфир
 rtmp://5.182.231.251//2106
 #EXTINF:0,Любимое кино
 #EXTGRP: эфир
 http://45.132.87.69:8080/nashelubimoe/index.m3u8
+#EXTINF:0,Любимое кино
+#EXTGRP: эфир
+https://stream1.servers.chd-tv.tk/lubimoe/index.m3u8
 
 #EXTINF:0,СТС
 #EXTGRP: эфир
@@ -206,6 +210,9 @@ http://fs2.persik.by/393802/index.m3u8
 #EXTINF:0,Наука HD
 #EXTGRP: Познавательное
 rtmp://5.182.231.251//2155
+#EXTINF:0,Министерство идей
+#EXTGRP: Познавательное
+https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:0,Viasat History
 #EXTGRP: Познавательное
 https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
@@ -333,7 +340,9 @@ https://pub0202.101.ru:8443/stream/pro/aac/64/53
 -----------
 
 
-
+#EXTINF:0,Game Show
+#EXTGRP: эфир
+http://176.222.190.76/btv/SWM/etv/etv.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 http://ott.inmart.tv:8081/19/index.m3u8
