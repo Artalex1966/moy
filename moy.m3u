@@ -312,6 +312,9 @@ http://myott.top/stream/D18A159NA2/93.m3u8
 #EXTINF:0,Советские мультфильмы
 #EXTGRP: Детский
 https://mhd116.iptv2022.com/p/KdGeaF02voPcjkZ9oqmW1w,1680634744/streaming/rusmult/324/1/index.m3u8
+#EXTINF:0,Том и Джерри
+#EXTGRP: Детский
+http://saveukraine.1ce.xyz/8116/index.m3u8?token=HD32KSCHZF
 
 
 
@@ -417,6 +420,9 @@ https://iptvplay.catcast.tv/content/39161/index.m3u8
 #EXTINF:0,BCU STARS HD
 #EXTGRP: кино
 http://am01.spr24.net/20833/mpegts?token=PBQtWYVTvpqktT
+#EXTINF:0,VB Назад в СССР
+#EXTGRP: кино
+http://saveukraine.1ce.xyz/8742/index.m3u8?token=HD32KSCHZF
 -----
 
 
