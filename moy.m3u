@@ -89,9 +89,7 @@ rtmp://5.182.231.251//2106
 #EXTINF:0,Любимое кино
 #EXTGRP: эфир
 http://45.132.87.69:8080/nashelubimoe/index.m3u8
-#EXTINF:0,Любимое кино
-#EXTGRP: эфир
-https://stream1.servers.chd-tv.tk/lubimoe/index.m3u8
+
 
 #EXTINF:0,СТС
 #EXTGRP: эфир
