@@ -145,6 +145,9 @@ http://fs1.persik.by/409116/index.m3u8
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://79.141.211.254:8000/Komedia
+#EXTINF:0,Сити Эдем - КиноКомедия
+#EXTGRP: кино
+https://v2.catcast.tv/content/41331/index.m3u8
 
 
 #EXTINF:0,РОДНОЕ КИНО
@@ -225,9 +228,12 @@ http://streamer1.ruslanatv.ru/russia/istoriya_2023/playlist.m3u8
 #EXTINF:0 tvg-rec="0",Авто 24
 #EXTGRP: Познавательное
 http://109.197.192.121:8080/auto24/index.m3u8
-#EXTINF:0 tvg-rec="0",DTX
+#EXTINF:0,Классный 
 #EXTGRP: Познавательное
-http://myott.top/stream/D18A159NA2/145.m3u8
+https://v2.catcast.tv/content/37475/index.m3u8
+#EXTINF:0,Сити Эдем - КиноДок 
+#EXTGRP: Познавательное
+https://v2.catcast.tv/content/38354/index.m3u8
 -------
 
 #EXTINF:0,Наше новое кино
@@ -401,7 +407,12 @@ https://iptvplay.catcast.tv/content/38801/index.m3u8
 #EXTINF:0,IPTVPLAY PROMO
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/39161/index.m3u8
-
+#EXTINF:0,КИНО ВЫХОД
+#EXTGRP: кино
+https://v2.catcast.tv/content/40686/index.m3u8
+#EXTINF:0,Action Film
+#EXTGRP: кино
+https://v2.catcast.tv/content/36517/index.m3u8
 -----
 
 
