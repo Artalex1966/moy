@@ -140,12 +140,6 @@ http://fs1.persik.by/409116/index.m3u8
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://79.141.211.254:8000/Komedia
-#EXTINF:0,Сити Эдем - КиноКомедия
-#EXTGRP: кино
-https://v2.catcast.tv/content/41331/index.m3u8
-#EXTINF:0,6 КадроВ
-#EXTGRP: кино
-https://v2.catcast.tv/content/39566/index.m3u8
 
 
 #EXTINF:0,РОДНОЕ КИНО
