@@ -12,6 +12,9 @@ https://iptvplay.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,Киноклуб
 #EXTGRP: кино
 http://autopilot.catcast.tv/content/39005/index.m3u8
+#EXTINF:0,Видеокассета VHS
+#EXTGRP: кино
+https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
 http://kino-1.catcast.tv/content/38617/index.m3u8
@@ -51,6 +54,9 @@ http://dmi3y-tv.ru/hls/CH_SOLOVEVLIVE.m3u8
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
+#EXTINF:0,РЕН ТВ+2
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
 http://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist.m3u8
@@ -61,7 +67,9 @@ http://176.222.190.76/btv/SWM/CINEMA/CINEMA.m3u8
 #EXTINF:0,Советское HD
 #EXTGRP: кино
 http://fs1.persik.by/409124/index.m3u8
-
+#EXTINF:0,Кино и сериалы
+#EXTGRP: кино
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:0,Мировое кино HD
 #EXTGRP: кино
 http://fs1.persik.by/488248/index.m3u8
@@ -122,7 +130,7 @@ https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 http://176.222.190.76/btv/SWM/mosfilm/mosfilm.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/6392/index.m3u8
+http://hlstv.kem.211.ru/239.211.200.42/stream.m3u8
 #EXTINF:0,Кинокомедия HD
 #EXTGRP: кино
 http://93.125.34.51:30002/Kinokomedia/index.m3u8
@@ -397,6 +405,9 @@ https://iptvplay.catcast.tv/content/38801/index.m3u8
 #EXTINF:0,IPTVPLAY PROMO
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/39161/index.m3u8
+#EXTINF:0,Блокбастер HD
+#EXTGRP: кино
+http://hlstv.kem.211.ru/239.211.200.38/stream.m3u8
 
 -----
 
