@@ -1,40 +1,24 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-#EXTINF:0,КИНОBOX 
-#EXTGRP: кино
-https://v2.catcast.tv/content/38223/index.m3u8
+
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: кино
 http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
-#EXTINF:0,Фильмы и сериалы HD 
-#EXTGRP: кино
-https://v2.catcast.tv/content/37762/index.m3u8
 #EXTINF:0,Память
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/38821/index.m3u8
-#EXTINF:0,ссср тв
-#EXTGRP: кино
-https://v2.catcast.tv/content/39501/index.m3u8
 #EXTINF:0,Киноклуб
 #EXTGRP: кино
 http://autopilot.catcast.tv/content/39005/index.m3u8
-#EXTINF:0,Сити Эдем - КиноКлассика
-#EXTGRP: кино
-https://v2.catcast.tv/content/34185/index.m3u8
-#EXTINF:0,Прекрасное тв 
-#EXTGRP: кино
-https://v2.catcast.tv/content/39989/index.m3u8
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0,Детки тв 
-#EXTGRP: кино
-https://v2.catcast.tv/content/37384/index.m3u8
+
 ----
 
 #EXTINF:0,VF Друзья
@@ -69,7 +53,7 @@ http://dmi3y-tv.ru/hls/CH_SOLOVEVLIVE.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
-http://185.23.80.28:8080/MoskvaDoverie/index.m3u8
+http://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
@@ -413,18 +397,7 @@ https://iptvplay.catcast.tv/content/38801/index.m3u8
 #EXTINF:0,IPTVPLAY PROMO
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/39161/index.m3u8
-#EXTINF:0,КИНО ВЫХОД
-#EXTGRP: кино
-https://v2.catcast.tv/content/40686/index.m3u8
-#EXTINF:0,Action Film
-#EXTGRP: кино
-https://v2.catcast.tv/content/36517/index.m3u8
-#EXTINF:0,Сити Эдем - КиноЭкшен 
-#EXTGRP: кино
-https://v2.catcast.tv/content/41333/index.m3u8
-#EXTINF:0,КИНОBOX= BEST FILM
-#EXTGRP: кино
-https://v2.catcast.tv/content/40304/index.m3u8
+
 -----
 
 
