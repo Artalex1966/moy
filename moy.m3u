@@ -93,7 +93,7 @@ http://45.132.87.69:8080/nashelubimoe/index.m3u8
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/480p.m3u8
 #EXTINF:0,,СТС Love
 #EXTGRP: эфир
-https://mhd116.iptv2022.com/p/qVwyrvHExW1SeVXnAAqhDA,1681325976/streaming/stsloveott/324/1/index.m3u8
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP: эфир
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
@@ -408,6 +408,12 @@ https://iptvplay.catcast.tv/content/39161/index.m3u8
 #EXTINF:0,Блокбастер HD
 #EXTGRP: кино
 http://hlstv.kem.211.ru/239.211.200.38/stream.m3u8
+#EXTINF:0,Кинозал_Cineman ATV
+#EXTGRP: кино
+http://OTT-cdn.ucom.am/s66/04.m3u8
+#EXTINF:0,Кинозал 33
+#EXTGRP: кино
+https://v2.catcast.tv/content/39005/tracks-v1a1/index.m3u8
 
 -----
 
