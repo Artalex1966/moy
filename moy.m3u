@@ -1,19 +1,13 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-#EXTINF:0,Блокбастер
+#EXTINF:0,КИНОBOX 
 #EXTGRP: кино
-http://185.23.80.28:8080/Blockbaster/index.m3u8
+https://v2.catcast.tv/content/38223/index.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
-#EXTINF:0,Кино ТВ
-#EXTGRP: кино
-http://185.23.80.28:8080/Kino_TV/index.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: кино
 http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
-#EXTINF:0,Кинохит
-#EXTGRP: кино
-http://streamer1.ruslanatv.ru/russia/kinohit_2023/playlist.m3u8
 
 #EXTINF:0,Память
 #EXTGRP: кино
@@ -21,9 +15,12 @@ https://iptvplay.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,Киноклуб
 #EXTGRP: кино
 http://autopilot.catcast.tv/content/39005/index.m3u8
-#EXTINF:0,Контент моего детства HD
+#EXTINF:0,Сити Эдем - КиноКлассика
 #EXTGRP: кино
-https://hls.goodgame.ru/hls/198091.m3u8
+https://v2.catcast.tv/content/34185/index.m3u8
+#EXTINF:0,Прекрасное тв 
+#EXTGRP: кино
+https://v2.catcast.tv/content/39989/index.m3u8
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
 http://kino-1.catcast.tv/content/38617/index.m3u8
@@ -202,9 +199,6 @@ http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
 #EXTINF:0,Discovery Channel
 #EXTGRP: Познавательное
 http://176.222.190.76/btv/SWM/discovery_hd/discovery_hd.m3u8
-#EXTINF:0, Всё о мозге
-#EXTGRP: Познавательное
-http://fs2.persik.by/393802/index.m3u8
 #EXTINF:0,Наука HD
 #EXTGRP: Познавательное
 rtmp://5.182.231.251//2155
@@ -223,9 +217,6 @@ http://146.158.0.56:80/ZvezdaPlus/index.m3u8
 #EXTINF:0,История
 #EXTGRP: эфир
 http://streamer1.ruslanatv.ru/russia/istoriya_2023/playlist.m3u8
-#EXTINF:0 tvg-rec="0",VF Авто
-#EXTGRP: Познавательное
-http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/15511/index.m3u8
 #EXTINF:0 tvg-rec="0",Авто 24
 #EXTGRP: Познавательное
 http://109.197.192.121:8080/auto24/index.m3u8
@@ -234,13 +225,6 @@ http://109.197.192.121:8080/auto24/index.m3u8
 http://myott.top/stream/D18A159NA2/145.m3u8
 -------
 
-#EXTINF:0,Остросюжетное HD
-#EXTGRP: кино
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/127/stream.m3u8
-
-#EXTINF:0,Наше новое кино
-#EXTGRP: кино
-http://myott.top/stream/D18A159NA2/128.m3u8
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
 http://109.197.192.121:8080/kinohit/index.m3u8
@@ -312,7 +296,7 @@ http://myott.top/stream/D18A159NA2/93.m3u8
 https://mhd116.iptv2022.com/p/KdGeaF02voPcjkZ9oqmW1w,1680634744/streaming/rusmult/324/1/index.m3u8
 #EXTINF:0,Том и Джерри
 #EXTGRP: Детский
-http://saveukraine.1ce.xyz/8116/index.m3u8?token=HD32KSCHZF
+https://v2.catcast.tv/content/43075/index.m3u8
 
 
 
@@ -409,18 +393,10 @@ https://hls.goodgame.ru/hls/187241.m3u8
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/38801/index.m3u8
 
-#EXTINF:0,MiniMax Комедия U.S.S.R
-#EXTGRP: кино
-http://am01.spr24.net/20733/mpegts?token=PBQtWYVTvpqktT
 #EXTINF:0,IPTVPLAY PROMO
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/39161/index.m3u8
-#EXTINF:0,BCU STARS HD
-#EXTGRP: кино
-http://am01.spr24.net/20833/mpegts?token=PBQtWYVTvpqktT
-#EXTINF:0,VB Назад в СССР
-#EXTGRP: кино
-http://saveukraine.1ce.xyz/8742/index.m3u8?token=HD32KSCHZF
+
 -----
 
 
