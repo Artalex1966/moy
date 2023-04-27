@@ -398,7 +398,9 @@ http://OTT-cdn.ucom.am/s66/04.m3u8
 #EXTINF:0,Кинозал 33
 #EXTGRP: кино
 https://v2.catcast.tv/content/39005/tracks-v1a1/index.m3u8
-
+#EXTINF:0,555
+#EXTGRP: кино
+https://tv.2222.one/ch10.m3u8
 -----
 
 
