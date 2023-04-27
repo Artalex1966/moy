@@ -59,7 +59,7 @@ https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
-http://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist.m3u8
+http://185.23.80.26:8080/lb/MoskvaDoverie/index.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
@@ -67,6 +67,9 @@ http://176.222.190.76/btv/SWM/CINEMA/CINEMA.m3u8
 #EXTINF:0,Советское HD
 #EXTGRP: кино
 http://fs1.persik.by/409124/index.m3u8
+#EXTINF:0,Семья HD
+#EXTGRP: кино
+http://fs1.persik.by/409122_2/index.m3u8
 #EXTINF:0,Кино и сериалы
 #EXTGRP: кино
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
@@ -158,19 +161,13 @@ http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m
 http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
-http://streamer1.ruslanatv.ru/russia/kinomix_sd_2023/playlist.m3u8
-#EXTINF:0,Киномикс2
-#EXTGRP: кино
-http://78.25.155.47:1309/channel/Kino_plus.ts
+http://93.125.34.51:30002/Kinomix/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-http://185.32.44.154/kinoxit/index.m3u8
-#EXTINF:0,Кинохит
-#EXTGRP: кино
-http://213.172.73.170:8081/nimble_live/1083__Kinoxit/playlist.m3u8
+http://93.125.34.51:30002/Kinohit/index.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: кино
-http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
+http://93.125.34.51:30002/Kinosemya/index.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
 http://vod.tuva.ru/kinotv/index.m3u8
@@ -183,10 +180,7 @@ http://streamer1.ruslanatv.ru/russia/dom_kino_2023/playlist.m3u8
 http://45.132.87.69:8080/nashelubimoe/index.m3u8
 #EXTINF:0,Кинопоказ HD
 #EXTGRP: кино
-http://185.23.80.28:8080/Kinopokaz/index.m3u8
-#EXTINF:0,Кинопоказ HD orig
-#EXTGRP: кино
-http://46.151.151.245:10001/play/a002/index.m3u8
+http://185.23.80.26:8080/lb/Kinopokaz/index.m3u8
 
 -------
 #EXTINF:0,Discovery Science
@@ -272,7 +266,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 #EXTINF:0,О!
 #EXTGRP: Детский
-http://185.23.80.28:8080/O/index.m3u8
+http://176.222.190.76/btv/SWM/O/O.m3u8
 #EXTINF:0,О!
 #EXTGRP: Детский
 http://flu.ttk.mx:9090/O!/index.m3u8?token=orh6o
@@ -296,11 +290,7 @@ https://iptvplay.catcast.tv/content/38850/index.m3u8
 http://myott.top/stream/D18A159NA2/93.m3u8
 #EXTINF:0,Советские мультфильмы
 #EXTGRP: Детский
-https://mhd116.iptv2022.com/p/KdGeaF02voPcjkZ9oqmW1w,1680634744/streaming/rusmult/324/1/index.m3u8
-#EXTINF:0,Том и Джерри
-#EXTGRP: Детский
-https://v2.catcast.tv/content/43075/index.m3u8
-
+http://fs1.persik.by/409142/index.m3u8
 
 
 ----
