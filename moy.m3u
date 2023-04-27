@@ -249,9 +249,9 @@ http://cdn-lb.iptv2022.com/p/cPgexDWam7K2jhlmoii4Ig,1672950629/streaming/sovietm
 #EXTINF:0,Мультики и Сказки HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/198446.m3u8
-#EXTINF:0,PROKOP TV Сказки СССР
+#EXTINF:0,СУПЕРГЕРОИ HD
 #EXTGRP: Детский
-http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/19317/index.m3u8
+http://193.33.88.172/malish/tracks-v1a1/mono.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
 http://dmi3y-tv.ru/hls/okko/CH_STSKIDS.m3u8
@@ -272,7 +272,7 @@ http://176.222.190.76/btv/SWM/O/O.m3u8
 http://flu.ttk.mx:9090/O!/index.m3u8?token=orh6o
 #EXTINF:0,Рыжий
 #EXTGRP: Детский
-http://185.23.80.28:8080/Ryzhij/index.m3u8
+http://193.33.88.172/ryzhiy/tracks-v1a1/mono.m3u8
 #EXTINF:0, Детские мультики
 #EXTGRP: Детский
 http://fs1.persik.by/484215/index.m3u8
@@ -395,12 +395,7 @@ http://hlstv.kem.211.ru/239.211.200.38/stream.m3u8
 #EXTINF:0,Кинозал_Cineman ATV
 #EXTGRP: кино
 http://OTT-cdn.ucom.am/s66/04.m3u8
-#EXTINF:0,Кинозал 33
-#EXTGRP: кино
-https://v2.catcast.tv/content/39005/tracks-v1a1/index.m3u8
-#EXTINF:0,555
-#EXTGRP: кино
-https://tv.2222.one/ch10.m3u8
+
 -----
 
 
