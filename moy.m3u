@@ -242,7 +242,9 @@ http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/14218/index.m3u8
 #EXTINF:0, Советское кино
 #EXTGRP: кино
 http://cdn-lb.iptv2022.com/p/cPgexDWam7K2jhlmoii4Ig,1672950629/streaming/sovietmovs/324/1/tracks-v1a1/mono.m3u8
-
+#EXTINF:0,VF Фильмы СССР
+#EXTGRP: кино
+http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/10085/index.m3u8
 
 ----
 
@@ -291,6 +293,9 @@ http://myott.top/stream/D18A159NA2/93.m3u8
 #EXTINF:0,Советские мультфильмы
 #EXTGRP: Детский
 http://fs1.persik.by/409142/index.m3u8
+#EXTINF:0,MM Tom and Jerry HD
+#EXTGRP: Детский
+http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/13016/index.m3u8
 
 
 ----
@@ -318,9 +323,6 @@ https://pub0202.101.ru:8443/stream/pro/aac/64/53
 -----------
 
 
-#EXTINF:0,Game Show
-#EXTGRP: эфир
-http://176.222.190.76/btv/SWM/etv/etv.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 http://ott.inmart.tv:8081/19/index.m3u8
@@ -338,13 +340,14 @@ http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:0,Cinema Classic
 #EXTGRP: кино
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/17006/index.m3u8
-
-#EXTINF:0,FILM ХИТ HD
+#EXTINF:0,Друзья
 #EXTGRP: кино
-https://hls.goodgame.ru/manifest/153640_master.m3u8
+http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/11122/index.m3u8
+
 #EXTINF:0,BOX Game HD
 #EXTGRP: кино
 http://pd0ib21f.megatv.fun/iptv/GNSB6Z626A294L/19284/index.m3u8
@@ -378,6 +381,12 @@ http://vlm3jjnd.megatv.fun/iptv/RHA3G7Y2NYUP4E/14210/index.m3u8
 #EXTINF:0,BCU Cosmo HD
 #EXTGRP: кино
 http://fr01.spr24.net/20845/mpegts?token=569XzbdmXUcUKN
+#EXTINF:0,MM UFO HD
+#EXTGRP: кино
+http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/13017/index.m3u8
+#EXTINF:0,BCU Fantastic HD
+#EXTGRP: кино
+http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/11032/index.m3u8
 
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
@@ -395,6 +404,7 @@ http://hlstv.kem.211.ru/239.211.200.38/stream.m3u8
 #EXTINF:0,Кинозал_Cineman ATV
 #EXTGRP: кино
 http://OTT-cdn.ucom.am/s66/04.m3u8
+
 
 -----
 
