@@ -221,12 +221,10 @@ http://streamer1.ruslanatv.ru/russia/istoriya_2023/playlist.m3u8
 #EXTINF:0 tvg-rec="0",Авто 24
 #EXTGRP: Познавательное
 http://109.197.192.121:8080/auto24/index.m3u8
-#EXTINF:0,Классный 
+
+#EXTINF:0,Моя планета HD 
 #EXTGRP: Познавательное
-https://v2.catcast.tv/content/37475/index.m3u8
-#EXTINF:0,Сити Эдем - КиноДок 
-#EXTGRP: Познавательное
-https://v2.catcast.tv/content/38354/index.m3u8
+http://176.222.190.76/btv/SWM/PlanetaHD/PlanetaHD.m3u8
 -------
 
 #EXTINF:0,Наше новое кино
