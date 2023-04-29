@@ -92,6 +92,9 @@ rtmp://5.182.231.251//2106
 #EXTINF:0,Любимое кино
 #EXTGRP: эфир
 http://hlstv.kem.211.ru/239.211.211.187/stream.m3u8
+#EXTINF:0,Любимое кино
+#EXTGRP: эфир
+http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/722/index.m3u8
 
 
 #EXTINF:0,СТС
