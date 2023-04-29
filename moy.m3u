@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 
+#EXTINF:0,KBC-Легендарное
+#EXTGRP: кино
+http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/11083/index.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
