@@ -36,6 +36,9 @@ http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://vlm3jjnd.megatv.fun/iptv/RHA3G7Y2NYUP4E/17006/index.m3u8
+#EXTINF:0,Comedy Central
+#EXTGRP: кино
+https://cutt.ly/I4q00eP
 
 ---
 
@@ -67,9 +70,9 @@ http://185.23.80.26:8080/lb/MoskvaDoverie/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://176.222.190.76/btv/SWM/CINEMA/CINEMA.m3u8
-#EXTINF:0,Советское HD
+#EXTINF:0,Фильмы катастрофы
 #EXTGRP: кино
-http://fs1.persik.by/409124/index.m3u8
+http://fs1.persik.by/404445/index.m3u8
 #EXTINF:0,Семья HD
 #EXTGRP: кино
 http://fs1.persik.by/409122_2/index.m3u8
