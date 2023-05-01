@@ -58,12 +58,12 @@ http://dmi3y-tv.ru/hls/CH_SOLOVEVLIVE.m3u8
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
-#EXTINF:0,РЕН ТВ+2
+#EXTINF:0,МИР
 #EXTGRP: эфир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
-http://185.23.80.26:8080/lb/MoskvaDoverie/index.m3u8
+https://livehlsvgtrkrf.cdnvideo.ru/hls/doverie/playlist_3.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
