@@ -258,6 +258,9 @@ https://hls.goodgame.ru/hls/198446.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
 http://streamer1.ruslanatv.ru/russia/detskiy_mir_2023/playlist.m3u8
+#EXTINF:0,СУПЕРГЕРОИ
+#EXTGRP: Детский
+http://hlstv.kem.211.ru/239.211.211.36/stream.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
 http://dmi3y-tv.ru/hls/okko/CH_STSKIDS.m3u8
@@ -273,6 +276,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 #EXTINF:0,О!
 #EXTGRP: Детский
 http://176.222.190.76/btv/SWM/O/O.m3u8
+#EXTINF:0,О!
+#EXTGRP: Детский
+http://hlstv.kem.211.ru/239.211.211.168/stream.m3u8
 #EXTINF:0,Уникум
 #EXTGRP: Детский
 http://185.23.80.26:8080/lb/Unikum/index.m3u8
@@ -293,7 +299,7 @@ https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
 https://iptvplay.catcast.tv/content/38850/index.m3u8
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детский
-http://myott.top/stream/D18A159NA2/93.m3u8
+http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/737/index.m3u8
 #EXTINF:0,Советские мультфильмы
 #EXTGRP: Детский
 http://fs1.persik.by/409142/index.m3u8
