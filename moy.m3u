@@ -68,9 +68,9 @@ https://livehlsvgtrkrf.cdnvideo.ru/hls/doverie/playlist_3.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://176.222.190.76/btv/SWM/CINEMA/CINEMA.m3u8
-#EXTINF:0,Фильмы катастрофы
+#EXTINF:0,Кино-антистресс
 #EXTGRP: кино
-http://fs1.persik.by/404445/index.m3u8
+http://fs2.persik.by/485815_2/index.m3u8
 #EXTINF:0,Семья HD
 #EXTGRP: кино
 http://fs1.persik.by/409122_2/index.m3u8
@@ -255,15 +255,15 @@ http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/10085/index.m3u8
 #EXTINF:0,Мультики и Сказки HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/198446.m3u8
-#EXTINF:0,СУПЕРГЕРОИ HD
-#EXTGRP: Детский
-http://193.33.88.172/malish/tracks-v1a1/mono.m3u8
-#EXTINF:0,СТС Kids
-#EXTGRP: Детский
-http://dmi3y-tv.ru/hls/okko/CH_STSKIDS.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
 http://streamer1.ruslanatv.ru/russia/detskiy_mir_2023/playlist.m3u8
+#EXTINF:0,СТС Kids
+#EXTGRP: Детский
+http://dmi3y-tv.ru/hls/okko/CH_STSKIDS.m3u8
+#EXTINF:0,Мульт
+#EXTGRP: Детский
+http://185.23.80.26:8080/lb/Mult/index.m3u8
 #EXTINF:0,Карусель
 #EXTGRP: Детский
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
@@ -273,12 +273,12 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 #EXTINF:0,О!
 #EXTGRP: Детский
 http://176.222.190.76/btv/SWM/O/O.m3u8
-#EXTINF:0,О!
+#EXTINF:0,Уникум
 #EXTGRP: Детский
-http://flu.ttk.mx:9090/O!/index.m3u8?token=orh6o
+http://185.23.80.26:8080/lb/Unikum/index.m3u8
 #EXTINF:0,Рыжий
 #EXTGRP: Детский
-http://193.33.88.172/ryzhiy/tracks-v1a1/mono.m3u8
+http://185.23.80.26:8080/lb/Ryzhij/index.m3u8
 #EXTINF:0, Детские мультики
 #EXTGRP: Детский
 http://fs1.persik.by/484215/index.m3u8
@@ -407,6 +407,9 @@ http://hlstv.kem.211.ru/239.211.200.38/stream.m3u8
 #EXTINF:0,Кинозал_Cineman ATV
 #EXTGRP: кино
 http://OTT-cdn.ucom.am/s66/04.m3u8
+#EXTINF:0,Мир фокусов
+#EXTGRP: кино
+http://fs2.persik.by/463790/index.m3u8
 
 
 -----
