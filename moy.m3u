@@ -8,6 +8,9 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: кино
 http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
+#EXTINF:0,Кинопоказ
+#EXTGRP: кино
+http://185.23.80.26:8080/lb/Kinopokaz/index.m3u8
 #EXTINF:0,Память
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/38821/index.m3u8
@@ -412,13 +415,10 @@ https://iptvplay.catcast.tv/content/39161/index.m3u8
 http://hlstv.kem.211.ru/239.211.200.38/stream.m3u8
 #EXTINF:0,КИНО ТВ
 #EXTGRP: кино
-http://176.107.250.4:8004/ch133
+http://185.23.80.26:8080/lb/Kino_TV/index.m3u8
 #EXTINF:0,Мир фокусов
 #EXTGRP: кино
 http://fs2.persik.by/463790/index.m3u8
-#EXTINF:0,КСП
-#EXTGRP: кино
-https://v2.catcast.tv/content/41325/index.m3u8
 
 -----
 
