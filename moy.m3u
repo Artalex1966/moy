@@ -410,9 +410,9 @@ https://iptvplay.catcast.tv/content/39161/index.m3u8
 #EXTINF:0,Блокбастер HD
 #EXTGRP: кино
 http://hlstv.kem.211.ru/239.211.200.38/stream.m3u8
-#EXTINF:0,Кинозал_Cineman ATV
+#EXTINF:0,КИНО ТВ
 #EXTGRP: кино
-http://OTT-cdn.ucom.am/s66/04.m3u8
+http://176.107.250.4:8004/ch133
 #EXTINF:0,Мир фокусов
 #EXTGRP: кино
 http://fs2.persik.by/463790/index.m3u8
