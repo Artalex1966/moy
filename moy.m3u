@@ -416,7 +416,9 @@ http://176.107.250.4:8004/ch133
 #EXTINF:0,Мир фокусов
 #EXTGRP: кино
 http://fs2.persik.by/463790/index.m3u8
-
+#EXTINF:0,КСП
+#EXTGRP: кино
+https://v2.catcast.tv/content/41325/index.m3u8
 
 -----
 
