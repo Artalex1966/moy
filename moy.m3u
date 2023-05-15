@@ -32,6 +32,9 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0,Детское кино
+#EXTGRP: кино
+http://6aa246d5.ottrast.com/iptv/DM268LXK4NLN87/18073/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://6aa246d5.ottrast.com/iptv/DM268LXK4NLN87/13021/index.m3u8
