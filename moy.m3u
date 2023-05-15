@@ -67,7 +67,7 @@ http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-http://dmi3y-tv.ru/hls/CH_SOLOVEVLIVE.m3u8
+http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
