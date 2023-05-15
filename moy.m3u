@@ -23,9 +23,6 @@ https://iptvplay.catcast.tv/content/38821/index.m3u8
 #EXTINF:0,Киноклуб
 #EXTGRP: кино
 http://autopilot.catcast.tv/content/39005/index.m3u8
-#EXTINF:0,Видеокассета VHS
-#EXTGRP: кино
-https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
 http://kino-1.catcast.tv/content/38617/index.m3u8
@@ -401,6 +398,9 @@ http://84.38.180.145:8080/tvoetv/index.m3u8
 #EXTINF:0,BackusTV
 #EXTGRP: кино
 http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:0,Видеокассета VHS
+#EXTGRP: кино
+https://v2.catcast.tv/content/37925/index.m3u8
 
 #EXTINF:0,Fresh Fantastic
 #EXTGRP: кино
