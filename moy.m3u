@@ -64,16 +64,11 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?v
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:0,НТВ
 #EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 http://ott.inmart.tv:8081/19/index.m3u8
-#EXTINF:0,Соловьев Live
-#EXTGRP: эфир
-https://salam-2.rutube.ru/dive/river-3-302.rutube.ru/kG3x-LGETSLsf9VVPj7pDg/stream/genetta-301.m9.rutube.ru/vjedZbxEHhg-vRxNVd9uGw/1684250537/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
-#EXTINF:0,Соловьев Live
-#EXTGRP: эфир
-https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_4.m3u8?md5=iEjUF13MNLgZhRCsosiyuQ&e=1684234980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
@@ -82,7 +77,7 @@ https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
-https://livehlsvgtrkrf.cdnvideo.ru/hls/doverie/playlist_3.m3u8
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
@@ -293,7 +288,7 @@ http://dmi3y-tv.ru/hls/okko/CH_STSKIDS.m3u8
 http://185.23.80.26:8080/lb/Mult/index.m3u8
 #EXTINF:0,Карусель
 #EXTGRP: Детский
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 #EXTINF:0,Карусель + 2
 #EXTGRP: Детский
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
@@ -364,10 +359,20 @@ http://ott.inmart.tv:8081/19/index.m3u8
 http://livehlsvgtrkrf.cdnvideo.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
-http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
-http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:0,Соловьев Live
+#EXTGRP: эфир
+https://salam-2.rutube.ru/dive/river-3-302.rutube.ru/kG3x-LGETSLsf9VVPj7pDg/stream/genetta-301.m9.rutube.ru/vjedZbxEHhg-vRxNVd9uGw/1684250537/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
+#EXTINF:0,Соловьев Live
+#EXTGRP: эфир
+https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_4.m3u8?md5=iEjUF13MNLgZhRCsosiyuQ&e=1684234980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:0,Москва Доверие
+#EXTGRP: эфир
+https://livehlsvgtrkrf.cdnvideo.ru/hls/doverie/playlist_3.m3u8
+
 
 ---
 #EXTINF:0,Cinema Classic
