@@ -276,7 +276,7 @@ http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/10085/index.m3u8
 
 #EXTINF:0,Мультики и Сказки HD
 #EXTGRP: кино
-https://hls.goodgame.ru/hls/198446.m3u8
+http://fs2.persik.by/409143/index.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
 http://streamer1.ruslanatv.ru/russia/detskiy_mir_2023/playlist.m3u8
@@ -307,9 +307,9 @@ http://185.23.80.26:8080/lb/Unikum/index.m3u8
 #EXTINF:0,Рыжий
 #EXTGRP: Детский
 http://185.23.80.26:8080/lb/Ryzhij/index.m3u8
-#EXTINF:0, Детские мультики
+#EXTINF:0, Мама
 #EXTGRP: Детский
-http://fs1.persik.by/484215/index.m3u8
+http://streamer1.ruslanatv.ru/russia/mama_2023/playlist.m3u8
 #EXTINF:0, Мульт сериал HD
 #EXTGRP: Детский
 http://fs1.persik.by/483279/index.m3u8
@@ -368,7 +368,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-https://salam-2.rutube.ru/dive/river-3-302.rutube.ru/kG3x-LGETSLsf9VVPj7pDg/stream/genetta-301.m9.rutube.ru/vjedZbxEHhg-vRxNVd9uGw/1684250537/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
+https://s209.glaz.tv:8082/liveg/sollive.stream/chunks.m3u8?nimblesessionid=116038025&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDIzIDk6NTE6MzcgUE0maGFzaF92YWx1ZT1oOFlsL0YvWlhZZEE1b0hvUUNzNVJRPT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_4.m3u8?md5=iEjUF13MNLgZhRCsosiyuQ&e=1684234980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
