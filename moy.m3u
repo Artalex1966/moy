@@ -13,7 +13,7 @@ http://6aa246d5.ottrast.com/iptv/DM268LXK4NLN87/13037/index.m3u8
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: кино
-http://tbs-tv.com:8080/live/dark/kittylinetv/12898.m3u8
+http://93.189.224.24/MuzhskoeKino/index.m3u8
 #EXTINF:0,Кинопоказ
 #EXTGRP: кино
 http://185.23.80.26:8080/lb/Kinopokaz/index.m3u8
@@ -32,6 +32,9 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Детское кино
 #EXTGRP: кино
 http://6aa246d5.ottrast.com/iptv/DM268LXK4NLN87/18073/index.m3u8
+#EXTINF:0,Сказки
+#EXTGRP: кино
+http://fs2.persik.by/446714/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://6aa246d5.ottrast.com/iptv/DM268LXK4NLN87/13021/index.m3u8
