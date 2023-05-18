@@ -16,7 +16,7 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 http://93.189.224.24/MuzhskoeKino/index.m3u8
 #EXTINF:0,Кинопоказ
 #EXTGRP: кино
-http://185.23.80.26:8080/lb/Kinopokaz/index.m3u8
+http://185.23.80.26:8080/lb/Kino_TV/index.m3u8
 #EXTINF:0,Память
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/38821/index.m3u8
@@ -70,7 +70,7 @@ http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-http://ott.inmart.tv:8081/19/index.m3u8
+http://hlstv.kem.211.ru/239.211.211.104/stream.m3u8
 
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
@@ -354,9 +354,7 @@ https://pub0202.101.ru:8443/stream/pro/aac/64/53
 -----------
 
 
-#EXTINF:0,Соловьев Live
-#EXTGRP: эфир
-http://ott.inmart.tv:8081/19/index.m3u8
+
 #EXTINF:0,Россия-24
 #EXTGRP: эфир
 http://livehlsvgtrkrf.cdnvideo.ru/hls/russia_24/playlist_3.m3u8
@@ -368,10 +366,11 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-https://s209.glaz.tv:8082/liveg/sollive.stream/chunks.m3u8?nimblesessionid=116038025&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDIzIDk6NTE6MzcgUE0maGFzaF92YWx1ZT1oOFlsL0YvWlhZZEE1b0hvUUNzNVJRPT0mdmFsaWRtaW51dGVzPTIwMA==
+http://mhd.iptv2022.com/p/LokDSK5PA8_lUk30BDeOFA,1684525435/streaming/solovyevlive/324/1/index.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_4.m3u8?md5=iEjUF13MNLgZhRCsosiyuQ&e=1684234980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+http://ott.inmart.tv:8081/19/index.m3u8
+
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
 https://livehlsvgtrkrf.cdnvideo.ru/hls/doverie/playlist_3.m3u8
