@@ -461,9 +461,9 @@ http://185.23.80.26:8080/lb/Kino_TV/index.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/9044/index.m3u8
-#EXTINF:0,Остросюжетное HD
+#EXTINF:0,Clarity4K Сделано в СССР
 #EXTGRP: кино
-http://50.7.120.164:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=d0419375aaff1d4d14caa44344611307-1684246657-77i16i5i491
+http://test.clarity4k.ru/made_in_the_USSR_4K/video.m3u8?token=test
 #EXTINF:0,KBC-Гоблин
 #EXTGRP: кино
 http://6aa246d5.ottrast.com/iptv/DM268LXK4NLN87/20179/index.m3u8
