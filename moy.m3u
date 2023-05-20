@@ -76,6 +76,9 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
+http://hlstv.kem.211.ru/239.211.211.106/stream.m3u8
+#EXTINF:0,Cinema
+#EXTGRP: кино
 http://edge05.beetv.kz:80/btv/SWM/CINEMA/CINEMA.m3u8
 #EXTINF:0,Кино-антистресс
 #EXTGRP: кино
@@ -274,7 +277,7 @@ http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/10085/index.m3u8
 http://fs2.persik.by/409143/index.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
-http://streamer1.ruslanatv.ru/russia/detskiy_mir_2023/playlist.m3u8
+http://edge05.beetv.kz:80/btv/SWM/DetskyMir/DetskyMir.m3u8
 #EXTINF:0,СУПЕРГЕРОИ
 #EXTGRP: Детский
 http://hlstv.kem.211.ru/239.211.211.36/stream.m3u8
@@ -393,9 +396,9 @@ http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/17006/index.m3u8
 #EXTGRP: кино
 http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/17006/index.m3u8
 
-#EXTINF:0,BOX Game HD
+#EXTINF:0,Game Show
 #EXTGRP: кино
-http://6aa246d5.ottrast.com/iptv/DM268LXK4NLN87/19284/index.m3u8
+http://edge05.beetv.kz:80/btv/SWM/etv/etv.m3u8
 #EXTINF:0,STR TV
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/185110.m3u8
