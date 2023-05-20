@@ -83,10 +83,10 @@ http://fs2.persik.by/485815_2/index.m3u8
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://176.107.250.4:8004/ch157
+http://edge05.beetv.kz:80/btv/SWM/mosfilm/mosfilm.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://176.222.190.76/btv/SWM/mosfilm/mosfilm.m3u8
+http://178.160.249.210:8005/play/a06f/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://hlstv.kem.211.ru/239.211.200.42/stream.m3u8
