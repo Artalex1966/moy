@@ -69,7 +69,7 @@ http://hlstv.kem.211.ru/239.211.211.104/stream.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
 #EXTINF:0,МИР
 #EXTGRP: эфир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
@@ -126,6 +126,9 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/480p.m3u8
 #EXTINF:0,,СТС Love
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:0,СТС International
+#EXTGRP: эфир
+https://sc.id-tv.kz/STS_36_37.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP: эфир
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
@@ -165,7 +168,7 @@ http://93.125.34.51:30002/Kinokomedia/index.m3u8
 http://fs1.persik.by/409116/index.m3u8
 #EXTINF:0,Комедия
 #EXTGRP: кино
-http://79.141.211.254:8000/Komedia
+http://178.160.249.210:8006/play/a00y/index.m3u8
 
 
 #EXTINF:0,РОДНОЕ КИНО
@@ -389,12 +392,7 @@ https://livehlsvgtrkrf.cdnvideo.ru/hls/doverie/playlist_3.m3u8
 #EXTGRP: кино
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 
-#EXTINF:0,VF Друзья
-#EXTGRP: кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/17006/index.m3u8
-#EXTINF:0,Друзья
-#EXTGRP: кино
-http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/17006/index.m3u8
+
 
 #EXTINF:0,Game Show
 #EXTGRP: кино
@@ -440,7 +438,7 @@ http://fr01.spr24.net/20845/mpegts?token=569XzbdmXUcUKN
 http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/13017/index.m3u8
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
-http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/11032/index.m3u8
+https://stream1.servers.chd-tv.tk/bcu-fantastic/index.m3u8
 
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
@@ -461,9 +459,9 @@ http://185.23.80.26:8080/lb/Kino_TV/index.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/9044/index.m3u8
-#EXTINF:0,Остросюжетное HD
+#EXTINF:0,Sever TV Kino HD
 #EXTGRP: кино
-http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+https://hls.goodgame.ru/hls/146065.m3u8
 #EXTINF:0,KBC-Гоблин
 #EXTGRP: кино
 http://6aa246d5.ottrast.com/iptv/DM268LXK4NLN87/20179/index.m3u8
