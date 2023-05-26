@@ -42,10 +42,6 @@ http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://czrb8vng.ottclub.xyz/iptv/6ZGLX36ACHFVGH/17006/index.m3u8
-#EXTINF:0,Comedy Central
-#EXTGRP: кино
-https://cutt.ly/I4q00eP
-
 ---
 
 #EXTINF:0,Россия 24
@@ -82,6 +78,9 @@ http://hlstv.kem.211.ru/239.211.211.106/stream.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://edge05.beetv.kz:80/btv/SWM/CINEMA/CINEMA.m3u8
+#EXTINF:0,BCU Cinema 
+#EXTGRP: кино
+https://stream1.servers.chd-tv.tk/bcu-cinema/index.m3u8
 #EXTINF:0,Кино-антистресс
 #EXTGRP: кино
 http://fs2.persik.by/485815_2/index.m3u8
@@ -428,16 +427,16 @@ https://v2.catcast.tv/content/37925/index.m3u8
 
 #EXTINF:0,Fresh Fantastic
 #EXTGRP: кино
-http://myott.top/stream/DEKA6YA5JRN/429.m3u8
+http://6aa246d5.ottrast.com/iptv/DM268LXK4NLN87/19294/index.m3u8
 #EXTINF:0,KBC-Fantastic
 #EXTGRP: кино
 http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/11076/index.m3u8
 #EXTINF:0,Dosug Fantastic HD
 #EXTGRP: кино
 http://vlm3jjnd.megatv.fun/iptv/RHA3G7Y2NYUP4E/14210/index.m3u8
-#EXTINF:0,BCU Cosmo HD
+#EXTINF:0,BCU Cosmo 
 #EXTGRP: кино
-http://fr01.spr24.net/20845/mpegts?token=569XzbdmXUcUKN
+http://6aa246d5.ottrast.com/iptv/DM268LXK4NLN87/17022/index.m3u8
 #EXTINF:0,MM UFO HD
 #EXTGRP: кино
 http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/13017/index.m3u8
