@@ -60,7 +60,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-http://ott.inmart.tv:8081/19/index.m3u8
+http://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_6.m3u8
 
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
