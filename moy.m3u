@@ -78,9 +78,6 @@ http://hlstv.kem.211.ru/239.211.211.106/stream.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://edge05.beetv.kz:80/btv/SWM/CINEMA/CINEMA.m3u8
-#EXTINF:0,BCU Cinema 
-#EXTGRP: кино
-https://stream1.servers.chd-tv.tk/bcu-cinema/index.m3u8
 #EXTINF:0,Кино-антистресс
 #EXTGRP: кино
 http://fs2.persik.by/485815_2/index.m3u8
