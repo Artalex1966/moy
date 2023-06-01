@@ -465,6 +465,9 @@ https://hls.goodgame.ru/hls/146065.m3u8
 #EXTINF:0,KBC-Гоблин
 #EXTGRP: кино
 http://6aa246d5.ottrast.com/iptv/DM268LXK4NLN87/20179/index.m3u8
+#EXTINF:0,Какая Украина нам нужна?
+#EXTGRP: кино
+https://live-rian.cdnvideo.ru/rian/pressSMALL_foreign/tracks-v1a1/mono.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 -----
 
