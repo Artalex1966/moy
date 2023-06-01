@@ -380,6 +380,9 @@ http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 https://salam-mskm9-19.rutube.ru/dive/river-3-302.rutube.ru/0sXXW6QV83vCwrjAqka_LA/stream/musang-604.cvt.rutube.ru/mjse6-_xgZLLoQ7663ROKA/1685660840/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
+https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_6.m3u8?md5=8tgX9uA5Ct_NZLyKTIH7dg&e=1685646180&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:0,Соловьев Live
+#EXTGRP: эфир
 http://ott.inmart.tv:8081/19/index.m3u8
 
 #EXTINF:0,Москва Доверие
