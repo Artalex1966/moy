@@ -20,9 +20,10 @@ http://185.23.80.26:8080/lb/Kino_TV/index.m3u8
 #EXTINF:0,Память
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/38821/index.m3u8
-#EXTINF:0,Киноклуб
+
+#EXTINF:0,Контент моего детства
 #EXTGRP: кино
-http://autopilot.catcast.tv/content/39005/index.m3u8
+http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/20001/index.m3u8
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
 http://kino-1.catcast.tv/content/38617/index.m3u8
@@ -125,13 +126,19 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/480p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 #EXTINF:0,СТС International
 #EXTGRP: эфир
-https://sc.id-tv.kz/STS_36_37.m3u8
+http://edge05.beetv.kz:80/btv/icon/CTC_International/CTC_International.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP: эфир
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0,ТНТ4
 #EXTGRP: эфир
 https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,Суббота
+#EXTGRP: эфир
+https://livetv.mylifeisgood.ml/channels/subbota
+#EXTINF:0,Пятница
+#EXTGRP: эфир
+http://edge05.beetv.kz:80/btv/SWM/Pyatnica_KZ/Pyatnica_KZ.m3u8
 #EXTINF:0,Звезда
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8
@@ -455,7 +462,9 @@ https://hls.goodgame.ru/hls/187241.m3u8
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/38801/index.m3u8
-
+#EXTINF:0,Киноклуб
+#EXTGRP: кино
+http://autopilot.catcast.tv/content/39005/index.m3u8
 #EXTINF:0,IPTVPLAY PROMO
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/39161/index.m3u8
