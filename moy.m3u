@@ -375,6 +375,12 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:0,Россия РТР
+#EXTGRP: эфир
+http://edge05.beetv.kz:80/btv/SWM/SWM_RTR/SWM_RTR.m3u8
+#EXTINF:0,Планета РТР
+#EXTGRP: эфир
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/19370/index.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 https://salam-mskm9-19.rutube.ru/dive/river-3-302.rutube.ru/0sXXW6QV83vCwrjAqka_LA/stream/musang-604.cvt.rutube.ru/mjse6-_xgZLLoQ7663ROKA/1685660840/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
@@ -468,9 +474,9 @@ https://hls.goodgame.ru/hls/146065.m3u8
 #EXTINF:0,KBC-Гоблин
 #EXTGRP: кино
 http://6aa246d5.ottrast.com/iptv/DM268LXK4NLN87/20179/index.m3u8
-#EXTINF:0,Какая Украина нам нужна?
+#EXTINF:0,T+
 #EXTGRP: кино
-https://live-rian.cdnvideo.ru/rian/pressSMALL_foreign/tracks-v1a1/mono.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+http://213.108.175.226/telplushd/index.m3u8
 
 -----
 
