@@ -74,23 +74,23 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
-http://hlstv.kem.211.ru/239.211.211.106/stream.m3u8
+http://176.222.190.75/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
-http://edge05.beetv.kz:80/btv/SWM/CINEMA/CINEMA.m3u8
+rtmp://178.159.112.198//cinema
 #EXTINF:0,Кино-антистресс
 #EXTGRP: кино
 http://fs2.persik.by/485815_2/index.m3u8
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://edge05.beetv.kz:80/btv/SWM/mosfilm/mosfilm.m3u8
+rtmp://178.159.112.198//mosfilm
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://178.160.249.210:8005/play/a06f/index.m3u8
+http://46.151.151.245:10002/play/a0bi
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://hlstv.kem.211.ru/239.211.200.42/stream.m3u8
+http://176.222.190.75/btv/SWM/mosfilm/mosfilm.m3u8
 
 #EXTINF:0,Семья HD
 #EXTGRP: кино
@@ -113,7 +113,7 @@ http://cdn-lb.iptv2022.com/p/hmnUeLnjT55p4GouhicIxw,1674072033/streaming/k_kino/
 rtmp://5.182.231.251//2106
 #EXTINF:0,Любимое кино
 #EXTGRP: эфир
-http://hlstv.kem.211.ru/239.211.211.187/stream.m3u8
+http://45.132.87.69:8080/nashelubimoe/index.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: эфир
 http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/722/index.m3u8
