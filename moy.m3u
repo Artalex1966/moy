@@ -138,7 +138,7 @@ https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
 https://livetv.mylifeisgood.ml/channels/subbota
 #EXTINF:0,Пятница
 #EXTGRP: эфир
-http://edge05.beetv.kz:80/btv/SWM/Pyatnica_KZ/Pyatnica_KZ.m3u8
+https://livetv.mylifeisgood.ml/channels/friday.m3u8
 #EXTINF:0,Звезда
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8
@@ -398,15 +398,15 @@ http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovye
 #EXTGRP: эфир
 http://ott.inmart.tv:8081/19/index.m3u8
 
-#EXTINF:0,Москва Доверие
+#EXTINF:0,News Front
 #EXTGRP: эфир
-https://livehlsvgtrkrf.cdnvideo.ru/hls/doverie/playlist_3.m3u8
+https://2kita.com/tvboost/index.m3u8
 
-
----
-#EXTINF:0,Cinema Classic
+#EXTINF:0,Царьград ТВ
 #EXTGRP: кино
-https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+https://live-new.kinescopecdn.net/on-air/182276a1-1f52-4754-9fa6-f05292ccc160/093a575b-34ee-4c17-b665-5eb63d74c4be/480p/media.m3u8
+---
+
 
 
 
