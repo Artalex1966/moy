@@ -177,7 +177,7 @@ http://178.160.249.210:8006/play/a00y/index.m3u8
 
 #EXTINF:0,РОДНОЕ КИНО
 #EXTGRP: кино
-http://hlstv.kem.211.ru/239.211.211.144/stream.m3u8
+http://93.125.34.51:30002/RodnoeKino/index.m3u8
 #EXTINF:0,Красная линия
 #EXTGRP: эфир
 http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
@@ -204,7 +204,7 @@ http://vod.tuva.ru/kinotv/index.m3u8
 
 #EXTINF:0,Дом Кино
 #EXTGRP: кино
-http://edge05.beetv.kz:80/btv/SWM/Dom_Kino/Dom_Kino.m3u8
+http://streamer1.ruslanatv.ru/russia/dom_kino_2023/playlist.m3u8
 #EXTINF:0,Любимое Кино
 #EXTGRP: кино
 http://45.132.87.69:8080/nashelubimoe/index.m3u8
@@ -281,19 +281,19 @@ http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/10085/index.m3u8
 
 #EXTINF:0,Мультики и Сказки HD
 #EXTGRP: кино
-http://fs2.persik.by/409143/index.m3u8
+https://hls.goodgame.ru/hls/198446.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
-http://edge05.beetv.kz:80/btv/SWM/DetskyMir/DetskyMir.m3u8
+http://176.222.190.75/btv/SWM/DetskyMir/DetskyMir.m3u8
 #EXTINF:0,СУПЕРГЕРОИ
 #EXTGRP: Детский
-http://hlstv.kem.211.ru/239.211.211.36/stream.m3u8
+https://mhd116.iptv2022.com/p/bPlVK0TSgBlhQpnRxJPktQ,1685822410/streaming/malish/324/1/index.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
 http://dmi3y-tv.ru/hls/okko/CH_STSKIDS.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
-http://185.23.80.26:8080/lb/Mult/index.m3u8
+http://176.222.190.75/btv/SWM/SWM_Mult/SWM_Mult.m3u8
 #EXTINF:0,Карусель
 #EXTGRP: Детский
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
@@ -302,7 +302,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 #EXTINF:0,О!
 #EXTGRP: Детский
-http://176.222.190.76/btv/SWM/O/O.m3u8
+http://31.148.48.15:80/O/index.m3u8?token=test
 #EXTINF:0,О!
 #EXTGRP: Детский
 http://hlstv.kem.211.ru/239.211.211.168/stream.m3u8
@@ -311,13 +311,13 @@ http://hlstv.kem.211.ru/239.211.211.168/stream.m3u8
 http://185.23.80.26:8080/lb/Unikum/index.m3u8
 #EXTINF:0,Рыжий
 #EXTGRP: Детский
-http://185.23.80.26:8080/lb/Ryzhij/index.m3u8
+http://176.222.190.75/btv/SWM/Ryzhyi/Ryzhyi.m3u8
 #EXTINF:0, Мама
 #EXTGRP: Детский
 http://streamer1.ruslanatv.ru/russia/mama_2023/playlist.m3u8
-#EXTINF:0, Мульт сериал HD
+#EXTINF:0,Мультимания
 #EXTGRP: Детский
-http://fs1.persik.by/483279/index.m3u8
+https://mhd116.iptv2022.com/p/29e0y5-BP62WLjyvovWPAQ,1685822410/streaming/multimania/324/1/index.m3u8
 #EXTINF:0,Мультиландия
 #EXTGRP: Детский
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
@@ -390,10 +390,9 @@ http://edge05.beetv.kz:80/btv/SWM/SWM_RTR/SWM_RTR.m3u8
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/19370/index.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-https://salam-mskm9-19.rutube.ru/dive/river-3-302.rutube.ru/0sXXW6QV83vCwrjAqka_LA/stream/musang-604.cvt.rutube.ru/mjse6-_xgZLLoQ7663ROKA/1685660840/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
-#EXTINF:0,Соловьев Live
+http://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_6.m3u8
 #EXTGRP: эфир
-https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_6.m3u8?md5=8tgX9uA5Ct_NZLyKTIH7dg&e=1685646180&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/tracks-v3a1/mono.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 http://ott.inmart.tv:8081/19/index.m3u8
