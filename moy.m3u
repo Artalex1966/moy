@@ -13,7 +13,7 @@ http://6aa246d5.ottrast.com/iptv/DM268LXK4NLN87/13037/index.m3u8
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: кино
-http://hlstv.kem.211.ru/239.211.211.145/stream.m3u8
+https://mhd116.iptv2022.com/p/N-mitoYeQe7cDApzTbugAQ,1685822408/streaming/male-movie/324/1/index.m3u8
 #EXTINF:0,Кинопоказ
 #EXTGRP: кино
 http://185.23.80.26:8080/lb/Kino_TV/index.m3u8
@@ -84,7 +84,7 @@ http://fs2.persik.by/485815_2/index.m3u8
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-rtmp://178.159.112.198//mosfilm
+http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://46.151.151.245:10002/play/a0bi
@@ -113,7 +113,7 @@ http://cdn-lb.iptv2022.com/p/hmnUeLnjT55p4GouhicIxw,1674072033/streaming/k_kino/
 rtmp://5.182.231.251//2106
 #EXTINF:0,Любимое кино
 #EXTGRP: эфир
-http://45.132.87.69:8080/nashelubimoe/index.m3u8
+http://176.222.190.75/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: эфир
 http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/722/index.m3u8
