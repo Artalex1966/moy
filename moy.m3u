@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-#EXTINF:0,KBC-Легендарное
+#EXTINF:0,MiniMax Комедия U.S.S.R
 #EXTGRP: кино
-http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/11083/index.m3u8
+http://am01.spr24.net/20733/mpegts?token=deYfRE52qVzhEB
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/13037/index.m3u8
@@ -466,9 +466,9 @@ http://autopilot.catcast.tv/content/39005/index.m3u8
 #EXTINF:0,IPTVPLAY PROMO
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/39161/index.m3u8
-#EXTINF:0,Блокбастер HD
+#EXTINF:0,KBC-Легендарное
 #EXTGRP: кино
-http://hlstv.kem.211.ru/239.211.200.38/stream.m3u8
+http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/11083/index.m3u8
 #EXTINF:0,КИНО ТВ
 #EXTGRP: кино
 http://185.23.80.26:8080/lb/Kino_TV/index.m3u8
