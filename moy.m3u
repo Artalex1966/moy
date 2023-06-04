@@ -453,6 +453,9 @@ http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/13017/index.m3u8
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
 https://stream1.servers.chd-tv.tk/bcu-fantastic/index.m3u8
+#EXTINF:0,MiniMax Фантастика U.S.S.R
+#EXTGRP: кино
+http://am01.spr24.net/20732/mpegts?token=deYfRE52qVzhEB
 
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
