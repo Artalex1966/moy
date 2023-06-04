@@ -87,7 +87,7 @@ http://fs2.persik.by/485815_2/index.m3u8
 http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://46.151.151.245:10002/play/a0bi
+http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://176.222.190.75/btv/SWM/mosfilm/mosfilm.m3u8
