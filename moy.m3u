@@ -287,7 +287,7 @@ https://hls.goodgame.ru/hls/198446.m3u8
 http://176.222.190.75/btv/SWM/DetskyMir/DetskyMir.m3u8
 #EXTINF:0,СУПЕРГЕРОИ
 #EXTGRP: Детский
-https://mhd116.iptv2022.com/p/bPlVK0TSgBlhQpnRxJPktQ,1685822410/streaming/malish/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/sHrbl28vnQdvkRuYXC_SoA,1685898124/streaming/malish/324/1/index.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
 http://dmi3y-tv.ru/hls/okko/CH_STSKIDS.m3u8
@@ -315,9 +315,9 @@ http://176.222.190.75/btv/SWM/Ryzhyi/Ryzhyi.m3u8
 #EXTINF:0, Мама
 #EXTGRP: Детский
 http://streamer1.ruslanatv.ru/russia/mama_2023/playlist.m3u8
-#EXTINF:0,Мультимания
+#EXTINF:0,МультСезон
 #EXTGRP: Детский
-https://mhd116.iptv2022.com/p/29e0y5-BP62WLjyvovWPAQ,1685822410/streaming/multimania/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/U04zV0n0ZD9DaHJ2XoJOIQ,1685898124/streaming/multsezon/324/1/index.m3u8
 #EXTINF:0,Мультиландия
 #EXTGRP: Детский
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
@@ -334,12 +334,15 @@ http://cdn-lb.iptv2022.com/p/ioXVvgUFwYgyzU5ymjpdRw,1674888525/streaming/rusmult
 #EXTGRP: Детский
 http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/13016/index.m3u8
 
-#EXTINF:0,Детское кино
-#EXTGRP: кино
-http://cdn-lb.iptv2022.com/p/S0OlIDXGPkYoFkPKP4R8BA,1674888270/streaming/det_kino/324/1/tracks-v1a1/mono.m3u8
 #EXTINF:0,Сказки
 #EXTGRP: кино
 http://fs2.persik.by/446714/index.m3u8
+#EXTINF:0,Детские мультики
+#EXTGRP: кино
+http://fs1.persik.by/484215_2/index.m3u8
+#EXTINF:0,Детское кино
+#EXTGRP: кино
+http://cdn-lb.iptv2022.com/p/S0OlIDXGPkYoFkPKP4R8BA,1674888270/streaming/det_kino/324/1/tracks-v1a1/mono.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/13021/index.m3u8
