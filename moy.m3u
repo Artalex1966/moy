@@ -13,7 +13,7 @@ http://6aa246d5.ottrast.com/iptv/DM268LXK4NLN87/13037/index.m3u8
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: кино
-https://mhd116.iptv2022.com/p/N-mitoYeQe7cDApzTbugAQ,1685822408/streaming/male-movie/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/qqScR7HsR0TT5FmO9LZZag,1685898123/streaming/male-movie/324/1/index.m3u8
 #EXTINF:0,Кинопоказ
 #EXTGRP: кино
 http://185.23.80.26:8080/lb/Kino_TV/index.m3u8
@@ -42,7 +42,7 @@ http://6aa246d5.ottrast.com/iptv/DM268LXK4NLN87/17006/index.m3u8
 http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
-http://czrb8vng.ottclub.xyz/iptv/6ZGLX36ACHFVGH/17006/index.m3u8
+http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/17006/index.m3u8
 ---
 
 #EXTINF:0,Россия 24
@@ -167,12 +167,12 @@ https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0,Кинокомедия HD
 #EXTGRP: кино
 http://93.125.34.51:30002/Kinokomedia/index.m3u8
-#EXTINF:0,Комедия HD
+#EXTINF:0,Камеди HD
 #EXTGRP: кино
-http://fs1.persik.by/409116/index.m3u8
-#EXTINF:0,Комедия
+http://185.23.80.26:8080/lb/Camedi/index.m3u8
+#EXTINF:0,Комедийное HD
 #EXTGRP: кино
-http://178.160.249.210:8006/play/a00y/index.m3u8
+http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/912/index.m3u8
 
 
 #EXTINF:0,РОДНОЕ КИНО
@@ -379,15 +379,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:0,Россия 1
-#EXTGRP: эфир
-http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:0,Россия РТР
-#EXTGRP: эфир
-http://edge05.beetv.kz:80/btv/SWM/SWM_RTR/SWM_RTR.m3u8
-#EXTINF:0,Планета РТР
-#EXTGRP: эфир
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/19370/index.m3u8
+
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/tracks-v3a1/mono.m3u8
