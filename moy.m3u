@@ -21,15 +21,18 @@ http://185.23.80.26:8080/lb/Kino_TV/index.m3u8
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/38821/index.m3u8
 
-#EXTINF:0,Контент моего детства
+#EXTINF:0,Все тв
 #EXTGRP: кино
-http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/20001/index.m3u8
+https://cdn.wasd.tv/live/1378341/index.m3u8
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0,Olsib TV
+#EXTGRP: кино
+http://46.18.107.105:8409/iptv/channel/1.m3u8
 
 
 
