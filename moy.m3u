@@ -92,9 +92,9 @@ http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
-#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTINF:0,ДОМ КИНО
 #EXTGRP: кино
-http://176.222.190.75/btv/SWM/mosfilm/mosfilm.m3u8
+http://93.125.34.51:30002/DomKino/index.m3u8
 
 #EXTINF:0,Семья HD
 #EXTGRP: кино
@@ -102,9 +102,9 @@ http://fs1.persik.by/409122_2/index.m3u8
 #EXTINF:0,Кино и сериалы
 #EXTGRP: кино
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:0,Мировое кино HD
+#EXTINF:0,Киносемья
 #EXTGRP: кино
-http://fs1.persik.by/488248/index.m3u8
+http://93.125.34.51:30002/Kinosemya/index.m3u8
 #EXTINF:0,Cinema Classic TV
 #EXTGRP: кино
 http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
