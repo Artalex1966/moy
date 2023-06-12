@@ -482,9 +482,9 @@ http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/11083/index.m3u8
 #EXTINF:0,КИНО ТВ
 #EXTGRP: кино
 http://185.23.80.26:8080/lb/Kino_TV/index.m3u8
-#EXTINF:0,Остросюжетное HD
+#EXTINF:0,Мастер-класс
 #EXTGRP: кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/9044/index.m3u8
+http://fs2.persik.by/488359/index.m3u8
 #EXTINF:0, Аквариум
 #EXTGRP: кино
 http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=xxxxxxxx
