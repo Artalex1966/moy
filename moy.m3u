@@ -14,7 +14,7 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 #EXTINF:0,МУЖСКОЕ КИНО
 #EXTGRP: кино
 http://192.162.64.99:5100/play/a028/index.m3u8
-#EXTINF:0,Кинопоказ
+#EXTINF:0,Кино ТВ
 #EXTGRP: кино
 http://185.23.80.26:8080/lb/Kino_TV/index.m3u8
 #EXTINF:0,Память
