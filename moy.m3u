@@ -78,7 +78,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
-http://176.222.190.75/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
+http://192.162.64.99:5200/play/a029/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 rtmp://178.159.112.198//cinema
