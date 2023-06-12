@@ -340,6 +340,9 @@ http://cdn-lb.iptv2022.com/p/ioXVvgUFwYgyzU5ymjpdRw,1674888525/streaming/rusmult
 #EXTINF:0,MM Tom and Jerry HD
 #EXTGRP: Детский
 http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/13016/index.m3u8
+#EXTINF:0,Чип и Дейл спешат на помощь
+#EXTGRP: Детский
+https://stream6.servers.chd-tv.tk/chip-n-dale-rescue-rangers/index.m3u8
 
 #EXTINF:0,Сказки
 #EXTGRP: кино
