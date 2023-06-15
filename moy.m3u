@@ -117,10 +117,8 @@ http://cdn-lb.iptv2022.com/p/hmnUeLnjT55p4GouhicIxw,1674072033/streaming/k_kino/
 rtmp://5.182.231.251//2106
 #EXTINF:0,Любимое кино
 #EXTGRP: эфир
-http://176.222.190.75/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino.m3u8
-#EXTINF:0,Любимое кино
-#EXTGRP: эфир
-http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/722/index.m3u8
+http://45.132.87.69:8080/nashelubimoe/index.m3u8
+
 
 #EXTINF:0,СТС
 #EXTGRP: эфир
@@ -130,7 +128,7 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/480p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 #EXTINF:0,СТС International
 #EXTGRP: эфир
-http://edge05.beetv.kz:80/btv/icon/CTC_International/CTC_International.m3u8
+http://192.162.64.99:4000/play/a05h/index.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP: эфир
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
