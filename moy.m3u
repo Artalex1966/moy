@@ -40,7 +40,7 @@ http://93.125.34.51:30002/DomKino/index.m3u8
 ----
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
-http://6aa246d5.ottrast.com/iptv/DM268LXK4NLN87/17006/index.m3u8
+http://u9hgnx7x.rostelekom.xyz/iptv/Z7FXPQ65UHE72P/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/17006/index.m3u8
@@ -82,9 +82,9 @@ http://192.162.64.99:5200/play/a029/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 rtmp://178.159.112.198//cinema
-#EXTINF:0,Кино-антистресс
+#EXTINF:0,BCU CINEMA HD
 #EXTGRP: кино
-http://fs2.persik.by/485815_2/index.m3u8
+http://am01.spr24.net/20812/mpegts?token=deYfRE52qVzhEB
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
@@ -92,13 +92,7 @@ http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
-#EXTINF:0,ДОМ КИНО
-#EXTGRP: кино
-http://93.125.34.51:30002/DomKino/index.m3u8
 
-#EXTINF:0,Семья HD
-#EXTGRP: кино
-http://fs1.persik.by/409122_2/index.m3u8
 #EXTINF:0,Кино и сериалы
 #EXTGRP: кино
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
@@ -286,9 +280,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 #EXTINF:0,О!
 #EXTGRP: Детский
 http://192.162.64.99:5200/play/a039/index.m3u8
-#EXTINF:0,О!
+#EXTINF:0,KLI Мультики
 #EXTGRP: Детский
-https://sc.id-tv.kz/o_34_35.m3u8
+http://u9hgnx7x.rostelekom.xyz/iptv/Z7FXPQ65UHE72P/20048/index.m3u8
 #EXTINF:0,Уникум
 #EXTGRP: Детский
 http://185.23.80.26:8080/lb/Unikum/index.m3u8
