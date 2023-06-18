@@ -259,25 +259,6 @@ http://176.222.190.76/btv/SWM/PlanetaHD/PlanetaHD.m3u8
 #EXTGRP: кино
 http://109.197.192.121:8080/kinohit/index.m3u8
 
----------
-#EXTINF:0,BCU СССР HD
-#EXTGRP: кино
-http://217.107.34.114:8006/playlist.m3u8
-#EXTINF:0,KBC-Страна СССР
-#EXTGRP: кино
-http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/11091/index.m3u8
-#EXTINF:0,Кинозал! СССР
-#EXTGRP: кино
-http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/11061/index.m3u8
-#EXTINF:0,Dosug СССР HD
-#EXTGRP: кино
-http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/14218/index.m3u8
-#EXTINF:0, Советское кино
-#EXTGRP: кино
-http://cdn-lb.iptv2022.com/p/cPgexDWam7K2jhlmoii4Ig,1672950629/streaming/sovietmovs/324/1/tracks-v1a1/mono.m3u8
-#EXTINF:0,VF Фильмы СССР
-#EXTGRP: кино
-http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/10085/index.m3u8
 
 ----
 
@@ -460,7 +441,7 @@ http://am01.spr24.net/20846/mpegts?token=deYfRE52qVzhEB
 http://am01.spr24.net/20727/mpegts?token=deYfRE52qVzhEB
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
-https://stream1.servers.chd-tv.tk/bcu-fantastic/index.m3u8
+http://am01.spr24.net/20814/mpegts?token=deYfRE52qVzhEB
 #EXTINF:0,MiniMax Фантастика U.S.S.R
 #EXTGRP: кино
 http://am01.spr24.net/20732/mpegts?token=deYfRE52qVzhEB
@@ -486,6 +467,38 @@ http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=xxxxxxxx
 #EXTGRP: кино
 http://213.108.175.226/telplushd/index.m3u8
 
+
+---------
+#EXTINF:0,BCU СССР HD
+#EXTGRP: кино
+http://217.107.34.114:8006/playlist.m3u8
+#EXTINF:0,KBC-Страна СССР
+#EXTGRP: кино
+http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/11091/index.m3u8
+#EXTINF:0,Кинозал! СССР
+#EXTGRP: кино
+http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/11061/index.m3u8
+#EXTINF:0,Dosug СССР HD
+#EXTGRP: кино
+http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/14218/index.m3u8
+#EXTINF:0, Советское кино
+#EXTGRP: кино
+http://cdn-lb.iptv2022.com/p/cPgexDWam7K2jhlmoii4Ig,1672950629/streaming/sovietmovs/324/1/tracks-v1a1/mono.m3u8
+#EXTINF:0,VF Фильмы СССР
+#EXTGRP: кино
+http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/10085/index.m3u8
+#EXTINF:0,MiniMax Детектив U.S.S.R
+#EXTGRP: кино
+http://am01.spr24.net/20731/mpegts?token=deYfRE52qVzhEB
+#EXTINF:0,MiniMax Приключения U.S.S.R
+#EXTGRP: кино
+http://am01.spr24.net/20760/mpegts?token=deYfRE52qVzhEB
+#EXTINF:0,MiniMax Фантастика U.S.S.R
+#EXTGRP: кино
+http://am01.spr24.net/20732/mpegts?token=deYfRE52qVzhEB
+#EXTINF:0,MiniMax Сказки U.S.S.R
+#EXTGRP: кино
+http://am01.spr24.net/20750/mpegts?token=deYfRE52qVzhEB
 -----
 
 
