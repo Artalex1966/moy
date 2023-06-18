@@ -31,9 +31,9 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0,Блокбастер
+#EXTINF:0,Дом Кино
 #EXTGRP: кино
-http://185.23.80.26:8080/lb/Blockbaster/index.m3u8
+http://93.125.34.51:30002/DomKino/index.m3u8
 
 
 
@@ -466,7 +466,9 @@ http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=xxxxxxxx
 #EXTINF:0,T+
 #EXTGRP: кино
 http://213.108.175.226/telplushd/index.m3u8
-
+#EXTINF:0,Блокбастер
+#EXTGRP: кино
+http://185.23.80.26:8080/lb/Blockbaster/index.m3u8
 
 ---------
 #EXTINF:0,BCU СССР HD
