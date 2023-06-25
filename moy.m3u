@@ -211,7 +211,7 @@ http://185.23.80.26:8080/lb/Kinopokaz/index.m3u8
 -------
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
-http://93.125.34.51:30002/DiscoveryScience/index.m3u8
+http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/81/stream.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
 http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
