@@ -21,9 +21,9 @@ http://185.23.80.26:8080/lb/Kino_TV/index.m3u8
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/38821/index.m3u8
 
-#EXTINF:0,Все тв
+#EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-https://cdn.wasd.tv/live/1378341/index.m3u8
+http://217.107.34.114:8006/playlist.m3u8
 
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
@@ -33,7 +33,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Дом Кино
 #EXTGRP: кино
-http://93.125.34.51:30002/DomKino/index.m3u8
+http://88.216.83.245/domkino/index.m3u8
 
 
 
@@ -78,7 +78,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
-http://192.162.64.99:5200/play/a029/index.m3u8
+http://176.74.80.162:8099/Cinema/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 rtmp://178.159.112.198//cinema
