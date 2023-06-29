@@ -31,6 +31,9 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: кино
+http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
 #EXTINF:0,Дом Кино
 #EXTGRP: кино
 http://88.216.83.245/domkino/index.m3u8
@@ -86,9 +89,7 @@ rtmp://178.159.112.198//cinema
 #EXTGRP: кино
 http://am01.spr24.net/20812/mpegts?token=deYfRE52qVzhEB
 
-#EXTINF:0,Мосфильм. Золотая коллекция
-#EXTGRP: кино
-http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
+
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
