@@ -33,6 +33,9 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
+#EXTINF:0,Советское кино
+#EXTGRP: кино
+http://cdn-lb.iptv2022.com/p/cPgexDWam7K2jhlmoii4Ig,1672950629/streaming/sovietmovs/324/1/tracks-v1a1/mono.m3u8
 #EXTINF:0,Дом Кино
 #EXTGRP: кино
 http://88.216.83.245/domkino/index.m3u8
@@ -86,6 +89,13 @@ rtmp://178.159.112.198//cinema
 #EXTGRP: кино
 http://am01.spr24.net/20812/mpegts?token=deYfRE52qVzhEB
 
+#EXTINF:0,Остросюжетное HD
+#EXTGRP: кино
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:0,Премиальное HD
+#EXTGRP: кино
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
@@ -137,9 +147,6 @@ https://livetv.mylifeisgood.ml/channels/friday.m3u8
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8
 
-#EXTINF:0,Остросюжетное HD
-#EXTGRP: кино
-http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 
 #EXTINF:0,VIP Megahit
 #EXTGRP: кино
