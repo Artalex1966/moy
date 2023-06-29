@@ -77,11 +77,14 @@ https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
 #EXTINF:0,МИР
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:0,Discovery Science
+#EXTGRP: Познавательное
+http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
 
 
-#EXTINF:0,Cinema
+#EXTINF:0,Блокбастер
 #EXTGRP: кино
-http://176.74.80.162:8099/Cinema/index.m3u8
+http://185.23.80.26:8080/lb/Blockbaster/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 rtmp://178.159.112.198//cinema
