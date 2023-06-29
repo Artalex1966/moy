@@ -8,12 +8,12 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/13037/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://am01.spr24.net/20705/mpegts?token=deYfRE52qVzhEB
-#EXTINF:0,Остросюжетное HD
+#EXTINF:0,Москва Доверие
+#EXTGRP: эфир
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:0,Любимое
 #EXTGRP: кино
-http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
-#EXTINF:0,МУЖСКОЕ КИНО
-#EXTGRP: кино
-http://192.162.64.99:5100/play/a028/index.m3u8
+rtmp://5.182.231.251//2106
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
 http://185.23.80.26:8080/lb/Kino_TV/index.m3u8
@@ -74,9 +74,7 @@ https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
 #EXTINF:0,МИР
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:0,Москва Доверие
-#EXTGRP: эфир
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
@@ -138,6 +136,10 @@ https://livetv.mylifeisgood.ml/channels/friday.m3u8
 #EXTINF:0,Звезда
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8
+
+#EXTINF:0,Остросюжетное HD
+#EXTGRP: кино
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 
 #EXTINF:0,VIP Megahit
 #EXTGRP: кино
@@ -482,7 +484,7 @@ http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/14218/index.m3u8
 http://cdn-lb.iptv2022.com/p/cPgexDWam7K2jhlmoii4Ig,1672950629/streaming/sovietmovs/324/1/tracks-v1a1/mono.m3u8
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
-http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/10085/index.m3u8
+http://hynxrcyk.akciatv.ru/iptv/PMZPTBMAVXQUAP/10085/index.m3u8
 #EXTINF:0,MiniMax Детектив U.S.S.R
 #EXTGRP: кино
 http://am01.spr24.net/20731/mpegts?token=deYfRE52qVzhEB
