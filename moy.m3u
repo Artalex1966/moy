@@ -108,7 +108,7 @@ http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: кино
-http://93.125.34.51:30002/Kinosemya/index.m3u8
+http://88.216.83.245/Kinosemya/index.m3u8
 #EXTINF:0,Cinema Classic TV
 #EXTGRP: кино
 http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
@@ -173,7 +173,7 @@ https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:0,Кинокомедия HD
 #EXTGRP: кино
-http://93.125.34.51:30002/Kinokomedia/index.m3u8
+http://88.216.83.245/Kinokomedia/index.m3u8
 #EXTINF:0,Камеди HD
 #EXTGRP: кино
 http://185.23.80.26:8080/lb/Camedi/index.m3u8
@@ -184,15 +184,12 @@ http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/912/index.m3u8
 
 #EXTINF:0,РОДНОЕ КИНО
 #EXTGRP: кино
-http://93.125.34.51:30002/RodnoeKino/index.m3u8
+http://88.216.83.245/RodnoeKino/index.m3u8
 #EXTINF:0,Красная линия
 #EXTGRP: эфир
 http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
 ---
 
-#EXTINF:0,Премиальное HD
-#EXTGRP: кино
-http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
 http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
@@ -209,15 +206,6 @@ http://88.216.83.245/Kinosemya/index.m3u8
 #EXTGRP: кино
 http://vod.tuva.ru/kinotv/index.m3u8
 
-#EXTINF:0,Дом Кино
-#EXTGRP: кино
-http://streamer1.ruslanatv.ru/russia/dom_kino_2023/playlist.m3u8
-#EXTINF:0,Любимое Кино
-#EXTGRP: кино
-http://45.132.87.69:8080/nashelubimoe/index.m3u8
-#EXTINF:0,Кинопоказ HD
-#EXTGRP: кино
-http://185.23.80.26:8080/lb/Kinopokaz/index.m3u8
 
 -------
 #EXTINF:0,Discovery Science
