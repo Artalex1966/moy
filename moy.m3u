@@ -14,9 +14,9 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:0,Любимое
 #EXTGRP: кино
 rtmp://5.182.231.251//2106
-#EXTINF:0,Кино ТВ
+#EXTINF:0,KBC-Легендарное
 #EXTGRP: кино
-http://185.23.80.26:8080/lb/Kino_TV/index.m3u8
+http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/11083/index.m3u8
 #EXTINF:0,Память
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/38821/index.m3u8
@@ -82,15 +82,15 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
 
 
-#EXTINF:0,Блокбастер
+#EXTINF:0,BCU Cinema HD
 #EXTGRP: кино
-http://185.23.80.26:8080/lb/Blockbaster/index.m3u8
+http://ott.server-iptv.live/1602/video.m3u8?token=SC2CDFBE97
 #EXTINF:0,Cinema
 #EXTGRP: кино
 rtmp://178.159.112.198//cinema
-#EXTINF:0,Кинопремьера
+#EXTINF:0,CineMan Action
 #EXTGRP: кино
-http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiZWI2YzkwMGMtMWIwNC00NmE3LWEyMDctOWEzYzhiZjE0NmI5IiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA2LTI5VDE4OjUyOjE5WiIsInN0cmVhbV9uYW1lIjoiNzMiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJpbnQiLCJwcm9qZWN0Ijoidm9rYV9wcm9kdWN0aW9uIn0%3D/MCwCFHWt6O25AVS03ctO3a7dCKLuDfFkAhQP_ZGLYg_QqQrHupEh9CpUm59mPA%3D%3D/ip_v5/73.m3u8
+http://ott.server-iptv.live/689/video.m3u8?token=SC2CDFBE97
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
@@ -464,6 +464,9 @@ http://213.108.175.226/telplushd/index.m3u8
 http://185.23.80.26:8080/lb/Blockbaster/index.m3u8
 
 ---------
+#EXTINF:0,TOP USSR HD
+#EXTGRP: кино
+http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/13005/index.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://217.107.34.114:8006/playlist.m3u8
@@ -482,6 +485,9 @@ http://cdn-lb.iptv2022.com/p/cPgexDWam7K2jhlmoii4Ig,1672950629/streaming/sovietm
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
 http://hynxrcyk.akciatv.ru/iptv/PMZPTBMAVXQUAP/10085/index.m3u8
+#EXTINF:0,USSR
+#EXTGRP: кино
+http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/11102/index.m3u8
 #EXTINF:0,MiniMax Детектив U.S.S.R
 #EXTGRP: кино
 http://am01.spr24.net/20731/mpegts?token=deYfRE52qVzhEB
