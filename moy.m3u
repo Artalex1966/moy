@@ -174,9 +174,9 @@ https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0,Кинокомедия HD
 #EXTGRP: кино
 http://92.100.39.32:2289/play/KomediaTV/index.m3u8
-#EXTINF:0,Камеди HD
+#EXTINF:0,Камедия
 #EXTGRP: кино
-http://185.23.80.26:8080/lb/Camedi/index.m3u8
+rtmp://178.159.112.198//komedija
 #EXTINF:0,Комедийное HD
 #EXTGRP: кино
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/912/index.m3u8
