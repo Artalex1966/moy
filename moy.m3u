@@ -94,6 +94,9 @@ http://ott.server-iptv.live/689/video.m3u8?token=SC2CDFBE97
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:0,Остросюжетное HD
+#EXTGRP: кино
+http://eje0iyhn.otttv.pw/iptv/4N7GDCKT7KYNEP/904/index.m3u8
 #EXTINF:0,Премиальное HD
 #EXTGRP: кино
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
@@ -121,8 +124,7 @@ http://cdn-lb.iptv2022.com/p/hmnUeLnjT55p4GouhicIxw,1674072033/streaming/k_kino/
 rtmp://5.182.231.251//2106
 #EXTINF:0,Любимое кино
 #EXTGRP: эфир
-http://45.132.87.69:8080/nashelubimoe/index.m3u8
-
+http://b99239c0.akadatel.com/iptv/K7FUFDFEKWPBCZ/722/index.m3u8
 
 #EXTINF:0,СТС
 #EXTGRP: эфир
@@ -173,7 +175,7 @@ https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:0,Кинокомедия HD
 #EXTGRP: кино
-http://92.100.39.32:2289/play/KomediaTV/index.m3u8
+http://b99239c0.akadatel.com/iptv/K7FUFDFEKWPBCZ/145/index.m3u8
 #EXTINF:0,Камедия
 #EXTGRP: кино
 rtmp://178.159.112.198//komedija
@@ -184,7 +186,7 @@ http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/912/index.m3u8
 
 #EXTINF:0,РОДНОЕ КИНО
 #EXTGRP: кино
-http://92.100.39.32:2289/RodnoeKino/index.m3u8
+http://b99239c0.akadatel.com/iptv/K7FUFDFEKWPBCZ/126/index.m3u8
 #EXTINF:0,Красная линия
 #EXTGRP: эфир
 http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
@@ -192,7 +194,7 @@ http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
 
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
-http://bigteisti2.cdn.lifeyosso.fun:56374/muzhskoekino/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+http://cdntv.online/high/6bvy42tizr/128.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
 http://bigteisti10.cdn.lifeyosso.fun:32144/KINOMIKS/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
@@ -417,12 +419,12 @@ http://stream.backustv.ru/live/btv/index.m3u8
 #EXTGRP: кино
 https://v2.catcast.tv/content/37925/index.m3u8
 
-#EXTINF:0,Fresh Fantastic
+#EXTINF:0,Clarity4K Фантастика
 #EXTGRP: кино
-http://6aa246d5.ottrast.com/iptv/DM268LXK4NLN87/19294/index.m3u8
+https://nl01.spr24.net/20905/index.m3u8?token=6NKtDLCbKfZKiQ
 #EXTINF:0,KBC-Fantastic
 #EXTGRP: кино
-http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/11076/index.m3u8
+http://z5wyafgd.rostelekom.xyz/iptv/KT9WS3N3GNH2KT/11076/index.m3u8
 #EXTINF:0,Dosug Fantastic HD
 #EXTGRP: кино
 http://vlm3jjnd.megatv.fun/iptv/RHA3G7Y2NYUP4E/14210/index.m3u8
@@ -484,13 +486,19 @@ http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/14218/index.m3u8
 http://cdn-lb.iptv2022.com/p/cPgexDWam7K2jhlmoii4Ig,1672950629/streaming/sovietmovs/324/1/tracks-v1a1/mono.m3u8
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
-http://hynxrcyk.akciatv.ru/iptv/PMZPTBMAVXQUAP/10085/index.m3u8
+http://z5wyafgd.rostelekom.xyz/iptv/KT9WS3N3GNH2KT/10085/index.m3u8
 #EXTINF:0,Yosso TV Советские фильмы
 #EXTGRP: кино
 http://bigteisti1.cdn.lifeyosso.fun:56373/Y-SSSR/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
-#EXTINF:0,USSR
+#EXTINF:0,KLI СССР HD
 #EXTGRP: кино
-http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/11102/index.m3u8
+http://b99239c0.akadatel.com/iptv/K7FUFDFEKWPBCZ/18175/index.m3u8
+#EXTINF:0,Clarity4K Kинодети CССР
+#EXTGRP: кино
+https://nl01.spr24.net/20933/index.m3u8?token=6NKtDLCbKfZKiQ
+#EXTINF:0,Clarity4K Сделано в СССР
+#EXTGRP: кино
+https://nl01.spr24.net/20902/index.m3u8?token=6NKtDLCbKfZKiQ
 #EXTINF:0,MiniMax Детектив U.S.S.R
 #EXTGRP: кино
 http://am01.spr24.net/20731/mpegts?token=deYfRE52qVzhEB
