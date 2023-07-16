@@ -268,13 +268,13 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v
 http://cdn-lb.iptv2022.com/p/JBaGKLGXaiCwVyGtGgWung,1679163357/streaming/detmir/324/1/tracks-v3a1/mono.m3u8
 #EXTINF:0,СУПЕРГЕРОИ
 #EXTGRP: Детский
-http://192.162.64.99:5200/play/a03b/index.m3u8
+http://cdn-lb.iptv2022.com/p/d0Hb_UuxtY5kvCTuHT9iMQ,1688590814/streaming/malish/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
 http://dmi3y-tv.ru/hls/okko/CH_STSKIDS.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
-http://185.23.80.26:8080/lb/Mult/index.m3u8
+http://91.220.135.165:81/41/tracks-v1a1v1/playlist.m3u8
 #EXTINF:0,Карусель
 #EXTGRP: Детский
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
@@ -283,25 +283,22 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 #EXTINF:0,О!
 #EXTGRP: Детский
-http://192.162.64.99:5200/play/a039/index.m3u8
+http://31.148.48.15:80/O/index.m3u8?token=test
 #EXTINF:0,KLI Мультики
 #EXTGRP: Детский
 http://u9hgnx7x.rostelekom.xyz/iptv/Z7FXPQ65UHE72P/20048/index.m3u8
 #EXTINF:0,Уникум
 #EXTGRP: Детский
-http://185.23.80.26:8080/lb/Unikum/index.m3u8
+http://91.220.135.165:81/80/tracks-v1a1v1/playlist.m3u8
 #EXTINF:0,Рыжий
 #EXTGRP: Детский
 http://185.23.80.26:8080/lb/Ryzhij/index.m3u8
 #EXTINF:0, Мама
 #EXTGRP: Детский
 http://streamer1.ruslanatv.ru/russia/mama_2023/playlist.m3u8
-#EXTINF:0,Планета Дети
-#EXTGRP: Детский
-http://192.162.64.222:4000/play/a05n/index.m3u8
 #EXTINF:0,Лёва HD
 #EXTGRP: Детский
-http://192.162.64.99:5100/play/a035/index.m3u8
+http://strm.yandex.ru/kal/leva/leva0.m3u8
 #EXTINF:0,Мультиландия
 #EXTGRP: Детский
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
@@ -332,7 +329,7 @@ http://fs1.persik.by/484215_2/index.m3u8
 http://cdn-lb.iptv2022.com/p/S0OlIDXGPkYoFkPKP4R8BA,1674888270/streaming/det_kino/324/1/tracks-v1a1/mono.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-http://chili89.akadatel.com/iptv/UPYUB8LG455YZN/13021/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/13021/index.m3u8
 
 ----
 #EXTINF:0,Музыка 1 International
