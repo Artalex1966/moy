@@ -496,12 +496,7 @@ http://bigteisti1.cdn.lifeyosso.fun:56373/Y-SSSR/video.m3u8?token=TmV6bmFpa2F8fF
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
 http://b99239c0.akadatel.com/iptv/K7FUFDFEKWPBCZ/18175/index.m3u8
-#EXTINF:0,Clarity4K Kинодети CССР
-#EXTGRP: кино
-https://nl01.spr24.net/20933/index.m3u8?token=6NKtDLCbKfZKiQ
-#EXTINF:0,Clarity4K Сделано в СССР
-#EXTGRP: кино
-https://nl01.spr24.net/20902/index.m3u8?token=6NKtDLCbKfZKiQ
+
 #EXTINF:0,MiniMax Детектив U.S.S.R
 #EXTGRP: кино
 https://ch01.spr24.net/20731/mpegts?token=kPskxFZ8QhQbk3
@@ -510,7 +505,7 @@ https://ch01.spr24.net/20731/mpegts?token=kPskxFZ8QhQbk3
 https://nl01.spr24.net/20760/mpegts?token=6NKtDLCbKfZKiQ
 #EXTINF:0,MiniMax Фантастика U.S.S.R
 #EXTGRP: кино
-http://am01.spr24.net/20732/mpegts?token=deYfRE52qVzhEB
+https://ch01.spr24.net/20732/index.m3u8?token=kPskxFZ8QhQbk3
 #EXTINF:0,MiniMax Сказки U.S.S.R
 #EXTGRP: кино
 http://am01.spr24.net/20750/mpegts?token=deYfRE52qVzhEB
