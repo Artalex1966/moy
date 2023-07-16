@@ -182,6 +182,9 @@ rtmp://178.159.112.198//komedija
 #EXTINF:0,Комедийное HD
 #EXTGRP: кино
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/912/index.m3u8
+#EXTINF:0,MM Комедия HD
+#EXTGRP: кино
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/13038/index.m3u8
 
 
 #EXTINF:0,РОДНОЕ КИНО
@@ -437,9 +440,9 @@ http://am01.spr24.net/20727/mpegts?token=deYfRE52qVzhEB
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
 http://am01.spr24.net/20814/mpegts?token=deYfRE52qVzhEB
-#EXTINF:0,Relax Фантастика
+#EXTINF:0,MM Фантастика HD
 #EXTGRP: кино
-http://tv.relaxtv.fun/relax-fantasy/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/13062/index.m3u8
 
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
@@ -463,7 +466,7 @@ http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=xxxxxxxx
 http://213.108.175.226/telplushd/index.m3u8
 #EXTINF:0,Блокбастер
 #EXTGRP: кино
-http://185.23.80.26:8080/lb/Blockbaster/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/2436/index.m3u8
 
 ---------
 #EXTINF:0,TOP USSR HD
@@ -511,6 +514,9 @@ http://am01.spr24.net/20732/mpegts?token=deYfRE52qVzhEB
 #EXTINF:0,MiniMax Сказки U.S.S.R
 #EXTGRP: кино
 http://am01.spr24.net/20750/mpegts?token=deYfRE52qVzhEB
+#EXTINF:0,Контент Моего Детства
+#EXTGRP: кино
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/20001/index.m3u8
 -----
 
 
