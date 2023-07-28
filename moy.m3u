@@ -516,6 +516,9 @@ http://am01.spr24.net/20750/mpegts?token=deYfRE52qVzhEB
 #EXTINF:0,VF Ленфильм
 #EXTGRP: кино
 http://34f4d057.shukinuki.website/iptv/5BNGHS7FCH7RVA/18121/index.m3u8
+#EXTINF:0,VF Классика
+#EXTGRP: кино
+http://a6vfdncw.megatv.fun/iptv/LSMVBSRQY4ZR76/10053/index.m3u8
 -----
 
 
