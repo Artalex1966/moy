@@ -13,7 +13,7 @@ http://am01.spr24.net/20705/mpegts?token=deYfRE52qVzhEB
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:0,Любимое
 #EXTGRP: кино
-rtmp://5.182.231.251//2106
+http://fr01.spr24.net/139/mpegts?token=brm93nV8tUcCAN
 #EXTINF:0,KBC-Легендарное
 #EXTGRP: кино
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/11083/index.m3u8
