@@ -55,7 +55,9 @@ http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/17006/index.m3u8
-
+#EXTINF:0,VF Netflix
+#EXTGRP: кино
+http://f2u5ntiy.megogo.xyz/iptv/KCBY89CHVDU9VU/19427/index.m3u8
 ---
 
 #EXTINF:0,Россия 24
@@ -501,6 +503,9 @@ http://bigteisti1.cdn.lifeyosso.fun:56373/Y-SSSR/video.m3u8?token=TmV6bmFpa2F8fF
 #EXTGRP: кино
 http://b99239c0.akadatel.com/iptv/K7FUFDFEKWPBCZ/18175/index.m3u8
 
+#EXTINF:0,MM USSR 1941-1945
+#EXTGRP: кино
+http://f2u5ntiy.megogo.xyz/iptv/KCBY89CHVDU9VU/13018/index.m3u8
 #EXTINF:0,MiniMax Детектив U.S.S.R
 #EXTGRP: кино
 https://ch01.spr24.net/20731/mpegts?token=kPskxFZ8QhQbk3
