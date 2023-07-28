@@ -104,6 +104,9 @@ http://fr01.spr24.net/122/mpegts?token=brm93nV8tUcCAN
 #EXTINF:0,Премиальное HD
 #EXTGRP: кино
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+#EXTINF:0,Мужское Кино
+#EXTGRP: кино
+http://a6vfdncw.megatv.fun/iptv/LSMVBSRQY4ZR76/164/index.m3u8
 
 
 #EXTINF:0,Мосфильм. Золотая коллекция
