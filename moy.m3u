@@ -278,9 +278,9 @@ http://109.197.192.121:8080/kinohit/index.m3u8
 
 ----
 
-#EXTINF:0,Смотрим Детям
+#EXTINF:0,Мульт
 #EXTGRP: кино
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
+https://tbs01-edge11.itdc.ge/multtv/tracks-v1a1/mono.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
 http://cdn-lb.iptv2022.com/p/JBaGKLGXaiCwVyGtGgWung,1679163357/streaming/detmir/324/1/tracks-v3a1/mono.m3u8
@@ -307,7 +307,7 @@ http://31.148.48.15:80/O/index.m3u8?token=test
 http://u9hgnx7x.rostelekom.xyz/iptv/Z7FXPQ65UHE72P/20048/index.m3u8
 #EXTINF:0,Уникум
 #EXTGRP: Детский
-http://91.220.135.165:81/80/tracks-v1a1v1/playlist.m3u8
+https://tbs01-edge11.itdc.ge/detsky/tracks-v1a1/mono.m3u8
 #EXTINF:0,Рыжий
 #EXTGRP: Детский
 http://185.23.80.26:8080/lb/Ryzhij/index.m3u8
@@ -481,8 +481,7 @@ http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=xxxxxxxx
 http://213.108.175.226/telplushd/index.m3u8
 #EXTINF:0,Блокбастер
 #EXTGRP: кино
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TVHZBMA8RZYGA5/2436/index.m3u8
-
+https://stream-msk-01.ott.tricolor.tv:443/dtv/id645_MSKSG-PVR-1--Blokbaster_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY5MTc1NDUzMCwiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjkxMTQ5NzMwLCJzZXNzaW9uX2lkIjoiN2U0YTFjYjY4NDBmNjQyN2Y4MGY5MDgzMzJlODg2ZmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Pg6SSD3rPs1Nu3j4ZkJ8wdaBbaOyH6F_8Hb10kxupdk
 ---------
 #EXTINF:0,TOP USSR HD
 #EXTGRP: кино
