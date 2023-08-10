@@ -41,7 +41,7 @@ http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
 http://cdn-lb.iptv2022.com/p/cPgexDWam7K2jhlmoii4Ig,1672950629/streaming/sovietmovs/324/1/tracks-v1a1/mono.m3u8
 #EXTINF:0,Дом Кино
 #EXTGRP: кино
-http://88.216.83.245/domkino/index.m3u8
+http://persik.by/stream/1832/161161/302.m3u8
 
 
 
@@ -58,6 +58,9 @@ http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/17006/index.m3u8
 #EXTINF:0,VF Секс в большом городе
 #EXTGRP: кино
 http://7a0286fd.ottrast.com/iptv/EFKMEUVS7VU2NN/14224/index.m3u8
+#EXTINF:0,Yosso TV Забавное
+#EXTGRP: кино
+http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/14234/index.m3u8
 ---
 
 #EXTINF:0,Россия 24
@@ -97,9 +100,12 @@ http://34f4d057.shukinuki.website/iptv/5BNGHS7FCH7RVA/11004/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 rtmp://178.159.112.198//cinema
-#EXTINF:0,CineMan Action
+#EXTINF:0,VIP HIT
 #EXTGRP: кино
-http://ott.server-iptv.live/689/video.m3u8?token=SC2CDFBE97
+https://tbs01-edge11.itdc.ge/healthtv/tracks-v1a1/mono.m3u8
+#EXTINF:0,VIP FAMILY
+#EXTGRP: кино
+https://tbs01-edge11.itdc.ge/tv5/tracks-v1a1/mono.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
@@ -284,9 +290,9 @@ http://cdn-lb.iptv2022.com/p/d0Hb_UuxtY5kvCTuHT9iMQ,1688590814/streaming/malish/
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
 http://dmi3y-tv.ru/hls/okko/CH_STSKIDS.m3u8
-#EXTINF:0,Мульт
+#EXTINF:0,Маша и Медведь
 #EXTGRP: Детский
-http://91.220.135.165:81/41/tracks-v1a1v1/playlist.m3u8
+http://51.158.144.33:2021/masharus/index.m3u8
 #EXTINF:0,Карусель
 #EXTGRP: Детский
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
@@ -501,7 +507,7 @@ http://cdn-lb.iptv2022.com/p/cPgexDWam7K2jhlmoii4Ig,1672950629/streaming/sovietm
 http://q9lex2ys.ottclub.xyz/iptv/RRRBX7BTLXRUX5/10085/index.m3u8
 #EXTINF:0,Yosso TV Советские фильмы
 #EXTGRP: кино
-http://bigteisti1.cdn.lifeyosso.fun:56373/Y-SSSR/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/14175/index.m3u8
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
 http://85d06ba7.edmonst.net/iptv/3AX33XWNPTUXW4/18175/index.m3u8
