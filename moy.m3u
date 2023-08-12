@@ -17,9 +17,9 @@ http://fr01.spr24.net/139/mpegts?token=brm93nV8tUcCAN
 #EXTINF:0,KBC-Легендарное
 #EXTGRP: кино
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/11083/index.m3u8
-#EXTINF:0,Память
+#EXTINF:0,Мужское кино HD
 #EXTGRP: кино
-https://iptvplay.catcast.tv/content/38821/index.m3u8
+http://ott.watch/stream/BJSXLFD133/107.m3u8
 
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
