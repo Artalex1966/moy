@@ -23,7 +23,7 @@ http://s03.wsbof.com:8090/s/5d418625/muzhskoe-kino.m3u8
 
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://217.107.34.114:8006/playlist.m3u8
+http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/11026/index.m3u8
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
 http://kino-1.catcast.tv/content/38617/index.m3u8
@@ -55,7 +55,9 @@ http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/17006/index.m3u8
-
+#EXTINF:0,VF Кухня
+#EXTGRP: кино
+http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/18199/index.m3u8
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
 http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/14234/index.m3u8
