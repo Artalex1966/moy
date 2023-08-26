@@ -19,7 +19,7 @@ http://fr01.spr24.net/139/mpegts?token=brm93nV8tUcCAN
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/11083/index.m3u8
 #EXTINF:0,Мужское кино HD
 #EXTGRP: кино
-http://s03.wsbof.com:8090/s/5d418625/muzhskoe-kino.m3u8
+https://tbs01-edge11.itdc.ge/interesnoetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
@@ -41,7 +41,7 @@ http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
 http://cdn-lb.iptv2022.com/p/cPgexDWam7K2jhlmoii4Ig,1672950629/streaming/sovietmovs/324/1/tracks-v1a1/mono.m3u8
 #EXTINF:0,Дом Кино
 #EXTGRP: кино
-http://persik.by/stream/1832/161161/302.m3u8
+http://45.144.31.195:8031/playlist.m3u8
 
 
 
@@ -161,10 +161,10 @@ https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0,Суббота
 #EXTGRP: эфир
-https://livetv.mylifeisgood.ml/channels/subbota
+https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:0,Пятница
 #EXTGRP: эфир
-https://livetv.mylifeisgood.ml/channels/friday.m3u8
+https://tbs01-edge11.itdc.ge/friday/tracks-v1a1/mono.m3u8
 #EXTINF:0,Звезда
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8
