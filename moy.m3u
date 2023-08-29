@@ -259,9 +259,9 @@ rtmp://178.159.112.198//galaxy
 #EXTINF:0,Звезда Плюс
 #EXTGRP: эфир
 http://146.158.0.56:80/ZvezdaPlus/index.m3u8
-#EXTINF:0,Неизвестная Россия HD
+#EXTINF:0,Звезда Плюс HD
 #EXTGRP: эфир
-http://bigteisti9.cdn.lifeyosso.fun:30455/unknown_Russia/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+http://stv.mediacdn.ru/live/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:0 tvg-rec="0",Авто 24
 #EXTGRP: Познавательное
 http://109.197.192.121:8080/auto24/index.m3u8
@@ -541,9 +541,9 @@ https://cdn.wasd.tv/live/1378341/index.m3u8
 #EXTINF:0,VB Контент Моего Детства
 #EXTGRP: кино
 http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20001/index.m3u8
-#EXTINF:0,BOX Memory HD
+#EXTINF:0,Классика кино
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/ZLN8HEA4NGEAAS/19279/index.m3u8
+http://cdn-lb.iptv2022.com/p/hmnUeLnjT55p4GouhicIxw,1674072033/streaming/k_kino/324/1/index.m3u8
 -----
 
 
