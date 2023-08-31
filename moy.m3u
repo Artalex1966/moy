@@ -514,6 +514,9 @@ http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/14175/index.m3u8
 #EXTGRP: кино
 http://85d06ba7.edmonst.net/iptv/3AX33XWNPTUXW4/18175/index.m3u8
 
+#EXTINF:0,VF Наша победа
+#EXTGRP: кино
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/10083/index.m3u8
 #EXTINF:0,MM USSR 1941-1945
 #EXTGRP: кино
 http://iuhqittr.otttv.pw/iptv/WKNXDVD4MPUZGS/13018/index.m3u8
@@ -529,6 +532,9 @@ https://ch01.spr24.net/20732/index.m3u8?token=kPskxFZ8QhQbk3
 #EXTINF:0,MiniMax Сказки U.S.S.R
 #EXTGRP: кино
 http://am01.spr24.net/20750/mpegts?token=deYfRE52qVzhEB
+#EXTINF:0,VF Мосфильм
+#EXTGRP: кино
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/10084/index.m3u8
 #EXTINF:0,VF Ленфильм
 #EXTGRP: кино
 http://34f4d057.shukinuki.website/iptv/5BNGHS7FCH7RVA/18121/index.m3u8
