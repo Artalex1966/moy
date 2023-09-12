@@ -476,6 +476,12 @@ https://iptvplay.catcast.tv/content/38801/index.m3u8
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/39161/index.m3u8
 
+#EXTINF:0,Соловьев Live
+#EXTGRP: эфир
+https://salam-mskm9-36.rutube.ru/dive/river-3-311.rutube.ru/9d3Tiv8XELLS_AdWNkywTA/stream/genetta-312.m9.rutube.ru/Mi15ZxgDormvNo-GSdOJtA/1694634614/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
+#EXTINF:0,Соловьев Live
+#EXTGRP: эфир
+https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_6.m3u8?md5=EFy4-Q-AUrYiu_BTeVxMvA&e=1694552580&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 
 
 #EXTINF:0, Аквариум
