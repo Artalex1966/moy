@@ -98,6 +98,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
 http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
+#EXTINF:0,Наука
+#EXTGRP: Познавательное
+https://tbs01-edge11.itdc.ge/nayka/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0,CineMan
