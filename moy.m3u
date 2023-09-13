@@ -85,7 +85,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/tracks-v3a1/mono.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-http://ott.inmart.tv:8081/19/index.m3u8
+http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/index.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 http://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_6.m3u8
@@ -239,14 +239,14 @@ http://vod.tuva.ru/kinotv/index.m3u8
 -------
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
-http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/81/stream.m3u8
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/136/index.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
 http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
 
 #EXTINF:0,Discovery Channel
 #EXTGRP: Познавательное
-http://176.222.190.76/btv/SWM/discovery_hd/discovery_hd.m3u8
+http://tv3.skaztv.online:34001/16/video.m3u8?token=xJI5DVMjmrTRP2
 #EXTINF:0,Наука HD
 #EXTGRP: Познавательное
 rtmp://5.182.231.251//2155
@@ -289,7 +289,7 @@ http://109.197.192.121:8080/kinohit/index.m3u8
 https://tbs01-edge11.itdc.ge/multtv/tracks-v1a1/mono.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
-http://cdn-lb.iptv2022.com/p/JBaGKLGXaiCwVyGtGgWung,1679163357/streaming/detmir/324/1/tracks-v3a1/mono.m3u8
+http://streamer1.ruslanatv.ru/russia/detskiy_mir_2023/playlist.m3u8
 #EXTINF:0,СУПЕРГЕРОИ
 #EXTGRP: Детский
 http://cdn-lb.iptv2022.com/p/d0Hb_UuxtY5kvCTuHT9iMQ,1688590814/streaming/malish/324/1/tracks-v4a1/mono.m3u8
@@ -476,9 +476,7 @@ https://iptvplay.catcast.tv/content/38801/index.m3u8
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/39161/index.m3u8
 
-#EXTINF:0,Соловьев Live
-#EXTGRP: эфир
-https://salam-mskm9-36.rutube.ru/dive/river-3-311.rutube.ru/9d3Tiv8XELLS_AdWNkywTA/stream/genetta-312.m9.rutube.ru/Mi15ZxgDormvNo-GSdOJtA/1694634614/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
+
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_6.m3u8?md5=EFy4-Q-AUrYiu_BTeVxMvA&e=1694552580&hls_proxy_host=70b013ca21e8364cd537747cf862272b
