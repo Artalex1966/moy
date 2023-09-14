@@ -205,7 +205,7 @@ https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:0,Кинокомедия HD
 #EXTGRP: кино
-http://b99239c0.akadatel.com/iptv/K7FUFDFEKWPBCZ/145/index.m3u8
+http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
 #EXTINF:0,Камедия
 #EXTGRP: кино
 rtmp://178.159.112.198//komedija
@@ -227,16 +227,19 @@ http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
 
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
-http://cdntv.online/high/6bvy42tizr/128.m3u8
+https://tbs01-edge11.itdc.ge/interesnoetv/tracks-v1a1/mono.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
-http://bigteisti10.cdn.lifeyosso.fun:32144/KINOMIKS/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+https://tbs01-edge11.itdc.ge/kinomiks/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-http://bigteisti2.cdn.lifeyosso.fun:56374/kinohit/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+https://tbs01-edge11.itdc.ge/kinohit/tracks-v1a1/mono.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: кино
-http://bigteisti2.cdn.lifeyosso.fun:56374/kinosemya_sd/video.m3u8?token=TmV6bmFpa2F8fFRtVjZibUZwYTJFeE1URT0=
+http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
+#EXTINF:0,Кинопремьера HD
+#EXTGRP: кино
+https://tbs01-edge11.itdc.ge/kinopremyerahd/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
 http://vod.tuva.ru/kinotv/index.m3u8
@@ -503,7 +506,7 @@ http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=xxxxxxxx
 http://213.108.175.226/telplushd/index.m3u8
 #EXTINF:0,Блокбастер
 #EXTGRP: кино
-https://stream-msk-01.ott.tricolor.tv:443/dtv/id645_MSKSG-PVR-1--Blokbaster_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY5MTc1NDUzMCwiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjkxMTQ5NzMwLCJzZXNzaW9uX2lkIjoiN2U0YTFjYjY4NDBmNjQyN2Y4MGY5MDgzMzJlODg2ZmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Pg6SSD3rPs1Nu3j4ZkJ8wdaBbaOyH6F_8Hb10kxupdk
+https://stream-msk-01.ott.tricolor.tv:443/dtv/id645_MSKSG-PVR-1--Blokbaster_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTY5NTE4ODI5NiwiaHdpZCI6IjQ1OWQ2OGRkYjYxN2I0NjExYWYzZTMwZWU3ZDVkY2RmNTExOGY5N2MwYzMxYzk1MTNhYTY1ZDMxODAxZDc2ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNjk0NTgzNDk2LCJzZXNzaW9uX2lkIjoiMDNmMmI5ZjdhNmRjODJiNzJmZjAzYmZhNWYzMDYyYzEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CKhbW1iCbw4mgnh_E-eSLWu5amHGrjJ-NKsz6g1PM34
 ---------
 #EXTINF:0,TOP USSR HD
 #EXTGRP: кино
