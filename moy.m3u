@@ -58,9 +58,7 @@ http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/17006/index.m3u8
-#EXTINF:0,VF Кухня
-#EXTGRP: кино
-http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/18199/index.m3u8
+
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
 http://q9lex2ys.ottclub.xyz/iptv/RRRBX7BTLXRUX5/14234/index.m3u8
@@ -82,13 +80,11 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/tracks-v3a1/mono.m3u8
-#EXTINF:0,Соловьев Live
-#EXTGRP: эфир
 http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/index.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-http://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_6.m3u8
+http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/tracks-v3a1/mono.m3u8
+
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
@@ -396,10 +392,16 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
+http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/index.m3u8
+#EXTINF:0,Соловьев Live
+#EXTGRP: эфир
 http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/tracks-v3a1/mono.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 http://ott.inmart.tv:8081/19/index.m3u8
+#EXTINF:0,Соловьев Live
+#EXTGRP: эфир
+http://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_6.m3u8
 
 #EXTINF:0,News Front
 #EXTGRP: эфир
