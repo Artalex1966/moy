@@ -11,6 +11,9 @@ http://am01.spr24.net/20705/mpegts?token=deYfRE52qVzhEB
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:0,Любимое HD
+#EXTGRP: кино
+http://moobl.ru/iptv/Lyubimoye_hd.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
 http://b99239c0.akadatel.com/iptv/K7FUFDFEKWPBCZ/722/index.m3u8
@@ -58,6 +61,9 @@ http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/17006/index.m3u8
+#EXTINF:0,VF Друзья
+#EXTGRP: кино
+http://2hoqrvgn.akciatv.ru/iptv/SPFDNTXCXG4LU2/17006/index.m3u8
 
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
