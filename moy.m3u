@@ -414,10 +414,10 @@ http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovye
 http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/tracks-v3a1/mono.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-http://ott.inmart.tv:8081/19/index.m3u8
+http://cz.iptv.monster/play/5343/F2790C2E7884ABD/video.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-http://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist_6.m3u8
+http://ca.kinoshka.net/play/5343/F2790C2E7884ABD/video.m3u8
 
 #EXTINF:0,News Front
 #EXTGRP: эфир
@@ -469,7 +469,7 @@ https://v2.catcast.tv/content/37925/index.m3u8
 https://nl01.spr24.net/20905/index.m3u8?token=6NKtDLCbKfZKiQ
 #EXTINF:0,KBC-Fantastic
 #EXTGRP: кино
-http://z5wyafgd.rostelekom.xyz/iptv/KT9WS3N3GNH2KT/11076/index.m3u8
+http://ca.kinoshka.net/play/8813/F2790C2E7884ABD/video.m3u8
 #EXTINF:0,Dosug Fantastic HD
 #EXTGRP: кино
 http://vlm3jjnd.megatv.fun/iptv/RHA3G7Y2NYUP4E/14210/index.m3u8
@@ -550,7 +550,10 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/10083/index.m3u8
 http://iuhqittr.otttv.pw/iptv/WKNXDVD4MPUZGS/13018/index.m3u8
 #EXTINF:0,MiniMax Детектив U.S.S.R
 #EXTGRP: кино
+http://ca.kinoshka.net/play/6011/F2790C2E7884ABD/video.m3u8
+https://nl01.spr24.net/20731/mpegts?token=6NKtDLCbKfZKiQ
 https://ch01.spr24.net/20731/mpegts?token=kPskxFZ8QhQbk3
+
 #EXTINF:0,MiniMax Приключения U.S.S.R
 #EXTGRP: кино
 https://nl01.spr24.net/20760/mpegts?token=6NKtDLCbKfZKiQ
