@@ -576,6 +576,9 @@ http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20001/index.m3u8
 #EXTINF:0,Классика кино
 #EXTGRP: кино
 http://cdn-lb.iptv2022.com/p/hmnUeLnjT55p4GouhicIxw,1674072033/streaming/k_kino/324/1/index.m3u8
+#EXTINF:0,youtube
+#EXTGRP: кино
+https://www.youtube.com/watch?v=zAufLhWz0DQ&list=WL&index=9
 -----
 
 
