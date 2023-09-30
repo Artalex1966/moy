@@ -25,7 +25,7 @@ http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/11083/index.m3u8
 http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:0,Мужское кино HD
 #EXTGRP: кино
-https://tbs01-edge11.itdc.ge/interesnoetv/tracks-v1a1/mono.m3u8
+http://moobl.ru/iptv/Muzhskoe_kino.m3u8
 
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
@@ -41,11 +41,13 @@ https://v2.catcast.tv/content/38720/index.m3u8
 http://a6f378dc.kazaktelekom.com/iptv/WPKAQC322WE9UY/18073/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
+http://moobl.ru/iptv/Mosfilm.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: кино
+http://am01.spr24.net/429/mpegts?token=deYfRE52qVzhEB
 #EXTINF:0,Советское кино
 #EXTGRP: кино
-http://cdn-lb.iptv2022.com/p/cPgexDWam7K2jhlmoii4Ig,1672950629/streaming/sovietmovs/324/1/tracks-v1a1/mono.m3u8
-#EXTINF:0,Дом Кино
+http://moobl.ru/iptv/Sovetskoye_kino.m3u8
 #EXTGRP: кино
 http://45.144.31.195:8031/playlist.m3u8
 
@@ -87,9 +89,6 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/index.m3u8
-#EXTINF:0,Соловьев Live
-#EXTGRP: эфир
-http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/tracks-v3a1/mono.m3u8
 
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
@@ -104,7 +103,7 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/136/index.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
 http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
-#EXTINF:0,Наука
+#EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 http://moobl.ru/iptv/Nauka_20_hd.m3u8
 #EXTINF:0,Звезда Плюс HD
@@ -127,16 +126,9 @@ https://tbs01-edge11.itdc.ge/tv5/tracks-v1a1/mono.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
-#EXTINF:0,Остросюжетное HD
+#EXTINF:0,Блокбастер
 #EXTGRP: кино
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/904/index.m3u8
-#EXTINF:0,Премиальное HD
-#EXTGRP: кино
-http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
-#EXTINF:0,Мужское Кино
-#EXTGRP: кино
-http://a6vfdncw.megatv.fun/iptv/LSMVBSRQY4ZR76/164/index.m3u8
-
+http://moobl.ru/iptv/Blokbaster.m3u8
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
@@ -148,19 +140,6 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 #EXTINF:0, КИНО ТВ
 #EXTGRP: кино
 http://91.234.255.18:8000/play/a00w/index.m3u8
-#EXTINF:0,Cinema Classic TV
-#EXTGRP: кино
-http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
-#EXTINF:0,Классика кино
-#EXTGRP: кино
-http://cdn-lb.iptv2022.com/p/hmnUeLnjT55p4GouhicIxw,1674072033/streaming/k_kino/324/1/index.m3u8
-
-#EXTINF:0,Любимое
-#EXTGRP: эфир
-rtmp://5.182.231.251//2106
-#EXTINF:0,Любимое кино
-#EXTGRP: эфир
-http://b99239c0.akadatel.com/iptv/K7FUFDFEKWPBCZ/722/index.m3u8
 
 #EXTINF:0,СТС
 #EXTGRP: эфир
@@ -258,22 +237,12 @@ http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
 http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
-
-#EXTINF:0,Discovery Channel
+#EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
-http://tv3.skaztv.online:34001/16/video.m3u8?token=xJI5DVMjmrTRP2
-#EXTINF:0,Наука HD
-#EXTGRP: Познавательное
-rtmp://5.182.231.251//2155
-#EXTINF:0,Министерство идей
-#EXTGRP: Познавательное
-https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+http://moobl.ru/iptv/Nauka_20.m3u8
 #EXTINF:0,Viasat History
 #EXTGRP: Познавательное
 https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,GALAXY
-#EXTGRP: Познавательное
-rtmp://178.159.112.198//galaxy
 #EXTINF:0,Звезда Плюс
 #EXTGRP: эфир
 http://146.158.0.56:80/ZvezdaPlus/index.m3u8
@@ -559,7 +528,7 @@ https://nl01.spr24.net/20731/mpegts?token=6NKtDLCbKfZKiQ
 https://nl01.spr24.net/20760/mpegts?token=6NKtDLCbKfZKiQ
 #EXTINF:0,MiniMax Фантастика U.S.S.R
 #EXTGRP: кино
-https://ch01.spr24.net/20732/index.m3u8?token=kPskxFZ8QhQbk3
+http://am01.spr24.net/20732/mpegts?token=deYfRE52qVzhEB
 #EXTINF:0,MiniMax Сказки U.S.S.R
 #EXTGRP: кино
 http://am01.spr24.net/20750/mpegts?token=deYfRE52qVzhEB
@@ -573,12 +542,6 @@ https://cdn.wasd.tv/live/1378341/index.m3u8
 #EXTINF:0,VB Контент Моего Детства
 #EXTGRP: кино
 http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20001/index.m3u8
-#EXTINF:0,Классика кино
-#EXTGRP: кино
-http://cdn-lb.iptv2022.com/p/hmnUeLnjT55p4GouhicIxw,1674072033/streaming/k_kino/324/1/index.m3u8
-#EXTINF:0,youtube
-#EXTGRP: кино
-https://p2-78.pvvstream.pro/LxD20Q-V35FRsd7JmsECSQ/1695941476/-46417318_456259020/360/vkvd87.mycdn.me/?expires=1696195408193&srcIp=185.213.88.141&pr=40&srcAg=UNKNOWN&ms=45.136.22.177&type=1&subId=2231760128693&sig=5061ABlLPC0&ct=0&urls=185.226.52.136&clientType=13&appId=512000384397&id=1477600414458play
 -----
 
 
