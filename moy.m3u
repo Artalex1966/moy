@@ -110,20 +110,33 @@ http://moobl.ru/iptv/Nauka_20_hd.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP: эфир
 http://stv.mediacdn.ru/live/cdn/zvezdaplus/playlist_hdhigh.m3u8
+#EXTINF:0,Viasat History
+#EXTGRP: Познавательное
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
 
 
-#EXTINF:0,CineMan
-#EXTGRP: кино
-http://34f4d057.shukinuki.website/iptv/5BNGHS7FCH7RVA/11004/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 https://ucdn.beetv.kz/btv/live/hls/000000239.m3u8
-#EXTINF:0,VIP HIT
+#EXTINF:0,VIP Megahit
 #EXTGRP: кино
-https://tbs01-edge11.itdc.ge/healthtv/tracks-v1a1/mono.m3u8
-#EXTINF:0,VIP FAMILY
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,VIP Premiere
 #EXTGRP: кино
-https://tbs01-edge11.itdc.ge/tv5/tracks-v1a1/mono.m3u8
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,VIP Comedy
+#EXTGRP: кино
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:0,TV 1000 Русское Кино
+#EXTGRP: кино
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTINF:0,TV 1000 HD
+#EXTGRP: кино
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,TV 1000 Action HD
+#EXTGRP: кино
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
@@ -168,45 +181,10 @@ https://tbs01-edge11.itdc.ge/friday/tracks-v1a1/mono.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8
 
 
-#EXTINF:0,VIP Megahit
-#EXTGRP: кино
-https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,VIP Premiere
-#EXTGRP: кино
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,VIP Comedy
-#EXTGRP: кино
-https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
-#EXTINF:0,TV 1000 Русское Кино
-#EXTGRP: кино
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
-#EXTINF:0,TV 1000 HD
-#EXTGRP: кино
-https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,TV 1000 Action HD
-#EXTGRP: кино
-https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 
 
 
-#EXTINF:0,Кинокомедия HD
-#EXTGRP: кино
-http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
-#EXTINF:0,Камедия
-#EXTGRP: кино
-rtmp://178.159.112.198//komedija
-#EXTINF:0,Комедийное HD
-#EXTGRP: кино
-http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/912/index.m3u8
-#EXTINF:0,MM Комедия HD
-#EXTGRP: кино
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/13038/index.m3u8
 
-
-#EXTINF:0,РОДНОЕ КИНО
-#EXTGRP: кино
-http://b99239c0.akadatel.com/iptv/K7FUFDFEKWPBCZ/126/index.m3u8
-#EXTINF:0,Красная линия
 #EXTGRP: эфир
 http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
 ---
@@ -241,9 +219,7 @@ http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 http://moobl.ru/iptv/Nauka_20.m3u8
-#EXTINF:0,Viasat History
-#EXTGRP: Познавательное
-https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
+
 #EXTINF:0,Звезда Плюс
 #EXTGRP: эфир
 http://146.158.0.56:80/ZvezdaPlus/index.m3u8
@@ -253,13 +229,8 @@ http://stv.mediacdn.ru/live/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:0 tvg-rec="0",Авто 24
 #EXTGRP: Познавательное
 http://109.197.192.121:8080/auto24/index.m3u8
-#EXTINF:0,Тео-ТВ
-#EXTGRP: Познавательное
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
 
-#EXTINF:0,Моя планета HD 
-#EXTGRP: Познавательное
-http://176.222.190.76/btv/SWM/PlanetaHD/PlanetaHD.m3u8
+
 -------
 
 #EXTINF:0,Наше новое кино
