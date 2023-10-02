@@ -113,6 +113,9 @@ http://stv.mediacdn.ru/live/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:0,Viasat History
 #EXTGRP: Познавательное
 https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,ТЕХНО 24
+#EXTGRP: Познавательное
+https://ucdn.beetv.kz/btv/live/hls/000000008.m3u8
 
 
 #EXTINF:0,Cinema
@@ -296,7 +299,7 @@ https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
 http://ru02.spr24.net/20849/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0,MM Tom and Jerry HD
 #EXTGRP: Детский
-http://ru02.spr24.net/20747/index.m3u8?token=eLnP9PP6hCQ2Ab
+http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/13016/index.m3u8
 #EXTINF:0,Чип и Дейл спешат на помощь
 #EXTGRP: Детский
 https://stream6.servers.chd-tv.tk/chip-n-dale-rescue-rangers/index.m3u8
