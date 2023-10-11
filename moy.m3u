@@ -44,7 +44,7 @@ http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/18073/index.m3u8
 http://moobl.ru/iptv/Mosfilm.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://am01.spr24.net/429/mpegts?token=deYfRE52qVzhEB
+http://ru02.spr24.net/429/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0,Советское кино
 #EXTGRP: кино
 http://moobl.ru/iptv/Sovetskoye_kino.m3u8
