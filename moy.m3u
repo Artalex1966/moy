@@ -13,7 +13,7 @@ http://ru02.spr24.net/20705/index.m3u8?token=eLnP9PP6hCQ2Ab
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:0,Любимое HD
 #EXTGRP: кино
-http://moobl.ru/iptv/Lyubimoye_hd.m3u8
+https://ru02.spr24.net/139/mpegts?token=pzYpZ55UqddWQT
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
 http://b99239c0.akadatel.com/iptv/K7FUFDFEKWPBCZ/722/index.m3u8
@@ -25,7 +25,7 @@ http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/11083/index.m3u8
 http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:0,Мужское кино HD
 #EXTGRP: кино
-http://moobl.ru/iptv/Muzhskoe_kino.m3u8
+https://tbs01-edge11.itdc.ge/interesnoetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
@@ -38,7 +38,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Детское кино
 #EXTGRP: кино
-http://a6f378dc.kazaktelekom.com/iptv/WPKAQC322WE9UY/18073/index.m3u8
+http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/18073/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://moobl.ru/iptv/Mosfilm.m3u8
@@ -187,17 +187,8 @@ https://tbs01-edge11.itdc.ge/friday/tracks-v1a1/mono.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8
 
 
-
-
-
-
-#EXTGRP: эфир
-http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
 ---
 
-#EXTINF:0,Мужское кино
-#EXTGRP: кино
-https://tbs01-edge11.itdc.ge/interesnoetv/tracks-v1a1/mono.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
 https://tbs01-edge11.itdc.ge/kinomiks/tracks-v1a1/mono.m3u8
