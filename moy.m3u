@@ -422,13 +422,13 @@ http://ca.kinoshka.net/play/8813/F2790C2E7884ABD/video.m3u8
 http://vlm3jjnd.megatv.fun/iptv/RHA3G7Y2NYUP4E/14210/index.m3u8
 #EXTINF:0,BCU Cosmo 
 #EXTGRP: кино
-http://am01.spr24.net/20846/mpegts?token=deYfRE52qVzhEB
+http://ru02.spr24.net/20846/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0,MM UFO HD
 #EXTGRP: кино
-http://am01.spr24.net/20727/mpegts?token=deYfRE52qVzhEB
+http://ru02.spr24.net/20727/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
-http://am01.spr24.net/20814/mpegts?token=deYfRE52qVzhEB
+http://ru02.spr24.net/20814/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0,MM Фантастика HD
 #EXTGRP: кино
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/13062/index.m3u8
@@ -494,16 +494,16 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/10083/index.m3u8
 http://f226adcc.edemist.com/iptv/MMZTQB59ARBQ76/6010/index.m3u8
 #EXTINF:0,MiniMax Детектив U.S.S.R
 #EXTGRP: кино
-http://ca.kinoshka.net/play/6011/F2790C2E7884ABD/video.m3u8
+http://ru02.spr24.net/20731/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0,MiniMax Приключения U.S.S.R
 #EXTGRP: кино
-https://nl01.spr24.net/20760/mpegts?token=6NKtDLCbKfZKiQ
+http://ru02.spr24.net/20760/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0,MiniMax Фантастика U.S.S.R
 #EXTGRP: кино
-http://am01.spr24.net/20732/mpegts?token=deYfRE52qVzhEB
+http://ru02.spr24.net/20732/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0,MiniMax Сказки U.S.S.R
 #EXTGRP: кино
-http://am01.spr24.net/20750/mpegts?token=deYfRE52qVzhEB
+http://ru02.spr24.net/20750/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0,VF Мосфильм
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/10084/index.m3u8
