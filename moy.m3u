@@ -90,6 +90,9 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/index.m3u8
+#EXTINF:0,Царьград ТВ
+#EXTGRP: Познавательное
+https://live-new.kinescopecdn.net/on-air/182276a1-1f52-4754-9fa6-f05292ccc160/093a575b-34ee-4c17-b665-5eb63d74c4be/480p/media.m3u8
 
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
@@ -119,8 +122,13 @@ https://ucdn.beetv.kz/btv/live/hls/000000008.m3u8
 #EXTINF:0,Liberty Наука HD
 #EXTGRP: Познавательное
 http://193.123.63.171:8080/channel/n34d7cd0f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+#EXTINF:0,Царьград ТВ
+#EXTGRP: Познавательное
+https://live-new.kinescopecdn.net/on-air/182276a1-1f52-4754-9fa6-f05292ccc160/093a575b-34ee-4c17-b665-5eb63d74c4be/480p/media.m3u8
 
-
+#EXTINF:0,Фантастика HD
+#EXTGRP: кино
+http://hlss.goodgame.ru/hls/187241.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 https://ucdn.beetv.kz/btv/live/hls/000000239.m3u8
@@ -218,7 +226,7 @@ http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
 http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
-http://moobl.ru/iptv/Nauka_20.m3u8
+http://stream01.vnet.am/Nauka/mono.m3u8
 
 #EXTINF:0,Звезда Плюс
 #EXTGRP: эфир
