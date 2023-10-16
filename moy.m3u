@@ -29,7 +29,7 @@ https://tbs01-edge11.itdc.ge/interesnoetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-https://pl01.spr24.net/20830/mpegts?token=sahq4aKzNEtvsw
+http://217.107.34.114:8006/playlist.m3u8
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
 http://kino-1.catcast.tv/content/38617/index.m3u8
@@ -242,10 +242,10 @@ http://109.197.192.121:8080/kinohit/index.m3u8
 
 #EXTINF:0,Мульт
 #EXTGRP: кино
-https://tbs01-edge11.itdc.ge/multtv/tracks-v1a1/mono.m3u8
+http://moobl.ru/iptv/Mult.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
-http://streamer1.ruslanatv.ru/russia/detskiy_mir_2023/playlist.m3u8
+http://moobl.ru/iptv/Detsky_mir.m3u8
 #EXTINF:0,СУПЕРГЕРОИ
 #EXTGRP: Детский
 http://cdn-lb.iptv2022.com/p/d0Hb_UuxtY5kvCTuHT9iMQ,1688590814/streaming/malish/324/1/tracks-v4a1/mono.m3u8
@@ -512,7 +512,7 @@ https://cdn.wasd.tv/live/1378341/index.m3u8
 http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20001/index.m3u8
 #EXTINF:0,Minimax 007
 #EXTGRP: кино
-http://ca.kinoshka.net/play/6001/F2790C2E7884ABD/video.m3u8
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/6001/index.m3u8
 -----
 
 
