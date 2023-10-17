@@ -39,6 +39,9 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Детское кино
 #EXTGRP: кино
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/18073/index.m3u8
+#EXTINF:0,Кино 2 International
+#EXTGRP: кино
+http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/18070/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://moobl.ru/iptv/Mosfilm.m3u8
@@ -66,7 +69,7 @@ http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/17006/index.m3u8
 http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
-http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/17006/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/17006/index.m3u8
 
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
@@ -127,7 +130,10 @@ https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000000008.m3u8
 #EXTINF:0,Liberty Наука HD
 #EXTGRP: Познавательное
-http://193.123.63.171:8080/channel/n34d7cd0f/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/19305/index.m3u8
+#EXTINF:0MM Experiment HD
+#EXTGRP: Познавательное
+http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/19412/index.m3u8
 
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
@@ -434,9 +440,9 @@ http://ru02.spr24.net/20727/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
 http://ru02.spr24.net/20814/index.m3u8?token=eLnP9PP6hCQ2Ab
-#EXTINF:0,MM Фантастика HD
+#EXTINF:0,Eye Cyber HD
 #EXTGRP: кино
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7P7K9TBGDSLUY4/13062/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/20220/index.m3u8
 
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
@@ -524,6 +530,9 @@ http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20001/index.m3u8
 #EXTINF:0,VF Воронины
 #EXTGRP: кино
 http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/13083/index.m3u8
+#EXTINF:0,VF Реальные пацаны
+#EXTGRP: кино
+http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/17015/index.m3u8
 -----
 
 
