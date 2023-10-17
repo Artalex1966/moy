@@ -90,6 +90,9 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/index.m3u8
+#EXTINF:0,Соловьев Live
+#EXTGRP: эфир
+http://cz.iptv.monster/play/5343/F2790C2E7884ABD/video.m3u8
 
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
