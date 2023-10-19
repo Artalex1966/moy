@@ -61,6 +61,13 @@ http://45.144.31.195:8031/playlist.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/17006/index.m3u8
+#EXTINF:0,VF Друзья
+#EXTGRP: кино
+http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/6392/index.m3u8
+#EXTINF:0,VF Друзья
+#EXTGRP: кино
+http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/17006/index.m3u8
+
 #EXTINF:0,MM Воронины
 #EXTGRP: кино
 http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/13031/index.m3u8
