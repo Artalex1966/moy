@@ -543,7 +543,7 @@ http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20001/index.m3u8
 http://185.246.66.143:8000/channel/n410fdb4f/index.ts?q=fcb604c07e3f19c73a883bedb3051ccc
 #EXTINF:0,1ts
 #EXTGRP: кино
-https://192.168.2.121/1.ts
+http://192.168.2.121:5001/get/95/_NOTRANSCODE_D:\Videos\Dok\Тим Гилен Монополия - Кто владеет миром.mp4
 -----
 
 
