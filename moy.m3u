@@ -541,9 +541,9 @@ http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20001/index.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://185.246.66.143:8000/channel/n410fdb4f/index.ts?q=fcb604c07e3f19c73a883bedb3051ccc
-#EXTINF:0,1ts
+#EXTINF:0, Монополия - Кто владеет миром
 #EXTGRP: кино
-http://192.168.2.121:5001/get/95/_NOTRANSCODE_D:\Videos\Dok\Тим Гилен Монополия - Кто владеет миром.mp4
+http://192.168.2.121:45397/MediaServer/VideoItems/1d84ea4b310d1a8f192da47346e9d4cf.mp4%3Fclientuuid%3Dc3b5919e-32ba-4d27-8972-313cd28d0238%3Binfokey%3Dec3c1b2fc6d4ca21da2f589510c93366%3Bupdateid%3D12884901888%3Bfileext%3D.mp4
 -----
 
 
