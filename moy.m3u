@@ -515,6 +515,9 @@ http://bqu9xew2.megatv.fun/iptv/WMH4PGAX9ZRUAB/14175/index.m3u8
 #EXTGRP: кино
 http://214c02fa.rossteleccom.net/iptv/TXZHN4PNTUAXAQ/18175/index.m3u8
 
+#EXTINF:0,Военное кино HD
+#EXTGRP: кино
+http://vivk17.ottolok.net/iptv/L2V42NKZNF4YKV/18072/index.m3u8
 #EXTINF:0,VF Наша победа
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/10083/index.m3u8
