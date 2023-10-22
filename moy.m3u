@@ -16,7 +16,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 https://ru02.spr24.net/139/mpegts?token=pzYpZ55UqddWQT
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
-http://b99239c0.akadatel.com/iptv/K7FUFDFEKWPBCZ/722/index.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000283.m3u8
 #EXTINF:0,KBC-Легендарное
 #EXTGRP: кино
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/11083/index.m3u8
@@ -136,7 +136,7 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/136/index.m3u8
 http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
-http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/2155/index.m3u8
+http://view.my-tv.biz/tv/3c9374f5ae/987e9469e4/video.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/2155/index.m3u8
