@@ -155,7 +155,7 @@ https://ucdn.beetv.kz/btv/live/hls/000000008.m3u8
 #EXTINF:0,Liberty Наука HD
 #EXTGRP: Познавательное
 http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/19305/index.m3u8
-#EXTINF:0MM Experiment HD
+#EXTINF:0,MM Experiment HD
 #EXTGRP: Познавательное
 http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/19412/index.m3u8
 
@@ -557,9 +557,6 @@ http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20001/index.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://185.246.66.143:8000/channel/n410fdb4f/index.ts?q=fcb604c07e3f19c73a883bedb3051ccc
-#EXTINF:0,Марс и шланг
-#EXTGRP: кино
-http://192.168.2.121:45397/MediaServer/VideoItems/c4cbc1155970f7fb2a2dded96f992c24.mp4%3Fclientuuid%3Dc3b5919e-32ba-4d27-8972-313cd28d0238%3Binfokey%3Dec3c1b2fc6d4ca21da2f589510c93366%3Bupdateid%3D12884901888%3Bfileext%3D.mp4
 
 
 #EXTINF:0,Конец
