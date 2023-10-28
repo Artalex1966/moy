@@ -142,7 +142,7 @@ http://view.my-tv.biz/tv/3c9374f5ae/987e9469e4/video.m3u8
 http://moobl.ru/hls/Nauka_20_hd.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
-http://3.troya.tv:34000/ch073/mono.m3u8?token=rl_melfrdenis.qKjQLNgJigYoNraLV8acYhfl6wggrEf9rtJEmlJBdpaleAAQJPkqtZB5f2hpUjm2
+http://moobl.ru/hls/Nauka_20_hd.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP: эфир
 http://stv.mediacdn.ru/live/cdn/zvezdaplus/playlist_hdhigh.m3u8
@@ -151,7 +151,7 @@ http://stv.mediacdn.ru/live/cdn/zvezdaplus/playlist_hdhigh.m3u8
 https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0,ТЕХНО 24
 #EXTGRP: Познавательное
-https://ucdn.beetv.kz/btv/live/hls/000000008.m3u8
+http://moobl.ru/hls/Texno_24.m3u8
 #EXTINF:0,Liberty Наука HD
 #EXTGRP: Познавательное
 http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/19305/index.m3u8
