@@ -53,7 +53,7 @@ http://moobl.ru/hls/Mosfilm.m3u8
 http://ru02.spr24.net/429/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0,Советское кино
 #EXTGRP: кино
-http://moobl.ru/iptv/Sovetskoye_kino.m3u8
+http://moobl.ru/hls/Sovetskoye_kino.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://45.144.31.195:8031/playlist.m3u8
@@ -139,7 +139,7 @@ http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
 http://view.my-tv.biz/tv/3c9374f5ae/987e9469e4/video.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
-http://moobl.ru/iptv/Nauka_20_hd.m3u8
+http://moobl.ru/hls/Nauka_20_hd.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 http://3.troya.tv:34000/ch073/mono.m3u8?token=rl_melfrdenis.qKjQLNgJigYoNraLV8acYhfl6wggrEf9rtJEmlJBdpaleAAQJPkqtZB5f2hpUjm2
@@ -189,7 +189,7 @@ https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:0,Блокбастер
 #EXTGRP: кино
-http://moobl.ru/iptv/Blokbaster.m3u8
+http://moobl.ru/hls/Blokbaster.m3u8
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
 http://9bcrmvle.dienalt.org/iptv/FW8R85B2KQSKT8/14230/index.m3u8
@@ -283,10 +283,10 @@ http://109.197.192.121:8080/kinohit/index.m3u8
 
 #EXTINF:0,Мульт
 #EXTGRP: кино
-http://moobl.ru/iptv/Mult.m3u8
+http://moobl.ru/hls/Mult.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
-http://moobl.ru/iptv/Detsky_mir.m3u8
+http://moobl.ru/hls/Detsky_mir.m3u8
 #EXTINF:0,СУПЕРГЕРОИ
 #EXTGRP: Детский
 http://cdn-lb.iptv2022.com/p/d0Hb_UuxtY5kvCTuHT9iMQ,1688590814/streaming/malish/324/1/tracks-v4a1/mono.m3u8
