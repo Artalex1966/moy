@@ -80,6 +80,9 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/15009/index.m3u8
 #EXTINF:0,VF Теория большого взрыва
 #EXTGRP: кино
 http://vivk17.ottolok.net/iptv/L2V42NKZNF4YKV/15009/index.m3u8
+#EXTINF:0,VF Уральские пельмени
+#EXTGRP: кино
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18198/index.m3u8
 
 #EXTINF:0,VF Универ
 #EXTGRP: кино
@@ -167,6 +170,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/19305/index.m3u8
 #EXTINF:0,MM Experiment HD
 #EXTGRP: Познавательное
 http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/19412/index.m3u8
+#EXTINF:0,MM Открытия HD
+#EXTGRP: Познавательное
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19415/index.m3u8
 
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
@@ -344,6 +350,12 @@ http://ru02.spr24.net/20849/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0,Советские мультфильмы
 #EXTGRP: Детский
 https://rostishkatv.fun/iptv/FREE_USER?channel=118
+#EXTINF:0,KBC-Союз МУЛЬТZAL
+#EXTGRP: Детский
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11090/index.m3u8
+#EXTINF:0,VF Союзмультфильм
+#EXTGRP: Детский
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/14238/index.m3u8
 #EXTINF:0,MM Tom and Jerry HD
 #EXTGRP: Детский
 http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/13016/index.m3u8
@@ -536,6 +548,9 @@ http://214c02fa.rossteleccom.net/iptv/TXZHN4PNTUAXAQ/18175/index.m3u8
 #EXTINF:0,Военное кино HD
 #EXTGRP: кино
 http://vivk17.ottolok.net/iptv/L2V42NKZNF4YKV/18072/index.m3u8
+#EXTINF:0,Военное кино HD
+#EXTGRP: кино
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18072/index.m3u8
 #EXTINF:0,VF Наша победа
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/10083/index.m3u8
@@ -566,9 +581,12 @@ http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/13082/index.m3u8
 #EXTINF:0,VB Контент Моего Детства
 #EXTGRP: кино
 http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20001/index.m3u8
-#EXTINF:0,1984
+#EXTINF:0,Liberty Сказки FHD
 #EXTGRP: кино
-https://9bc-a3e-2200g0.v.plground.live:10402/hs/52/1698320627/SHj7CBww4p4Qm2NFQkYk6w/637/806637/3/index-f1-v1-sa3-a1.m3u8
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19304/index.m3u8
+#EXTINF:0,Prokop TV Сказки СССР
+#EXTGRP: кино
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19317/index.m3u8
 
 
 #EXTINF:0,Конец
