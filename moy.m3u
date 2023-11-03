@@ -84,6 +84,9 @@ http://vivk17.ottolok.net/iptv/L2V42NKZNF4YKV/15009/index.m3u8
 #EXTINF:0,VF Универ
 #EXTGRP: кино
 http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/13084/index.m3u8
+#EXTINF:0,VF Универ новая общага
+#EXTGRP: кино
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/17013/index.m3u8
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
 http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/13082/index.m3u8
@@ -100,6 +103,9 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11060/index.m3u8
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
 http://q9lex2ys.ottclub.xyz/iptv/RRRBX7BTLXRUX5/14234/index.m3u8
+#EXTINF:0,VF Thriller
+#EXTGRP: кино
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13089/index.m3u8
 
 ---
 
@@ -335,6 +341,9 @@ https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
 #EXTINF:0,Советские мультфильмы
 #EXTGRP: Детский
 http://ru02.spr24.net/20849/index.m3u8?token=eLnP9PP6hCQ2Ab
+#EXTINF:0,Советские мультфильмы
+#EXTGRP: Детский
+https://rostishkatv.fun/iptv/FREE_USER?channel=118
 #EXTINF:0,MM Tom and Jerry HD
 #EXTGRP: Детский
 http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/13016/index.m3u8
