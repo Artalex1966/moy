@@ -356,6 +356,9 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11090/index.m3u8
 #EXTINF:0,VF Союзмультфильм
 #EXTGRP: Детский
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/14238/index.m3u8
+#EXTINF:0,BCU Мультсериал HD
+#EXTGRP: Детский
+http://185.246.66.143:8000/channel/17dcce27/index.ts?q=fcb604c07e3f19c73a883bedb3051ccc
 #EXTINF:0,MM Tom and Jerry HD
 #EXTGRP: Детский
 http://kdxafepy.tvclub.xyz/iptv/BS8U7MXAF4Q4FF/13016/index.m3u8
@@ -560,6 +563,9 @@ http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/13018/index.m3u8
 #EXTINF:0,MiniMax Детектив U.S.S.R
 #EXTGRP: кино
 http://ru02.spr24.net/20731/index.m3u8?token=eLnP9PP6hCQ2Ab
+#EXTINF:0,MiniMax Детектив U.S.S.R
+#EXTGRP: кино
+https://nl01.spr24.net/20731/index.m3u8?token=6NKtDLCbKfZKiQ
 #EXTINF:0,MiniMax Приключения U.S.S.R
 #EXTGRP: кино
 http://ru02.spr24.net/20760/index.m3u8?token=eLnP9PP6hCQ2Ab
