@@ -607,7 +607,7 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19317/index.m3u8
 http://192.168.2.121:8080
 #EXTINF:0,OBS_поток
 #EXTGRP: кино
-rtmp://127.0.0.1/live
+rtmp://192.168.2.121/live
 
 #EXTINF:0,Конец
 
