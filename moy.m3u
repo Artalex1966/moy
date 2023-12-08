@@ -1,7 +1,16 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+#EXTINF:0,VeleS С Новым годом!
+#EXTGRP: кино
+https://ch01.spr24.net/21022/mpegts?token=YRZ9ep8ifpCCr6
 #EXTINF:0,MiniMax Комедия U.S.S.R
 #EXTGRP: кино
 http://ru02.spr24.net/20733/index.m3u8?token=eLnP9PP6hCQ2Ab
+#EXTINF:0,Oasis Soviet Comedy HD
+#EXTGRP: кино
+https://ch01.spr24.net/20991/mpegts?token=YRZ9ep8ifpCCr6
+#EXTINF:0,VeleS СССР
+#EXTGRP: кино
+https://ch01.spr24.net/21020/mpegts?token=YRZ9ep8ifpCCr6
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/13037/index.m3u8
@@ -14,22 +23,9 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:0,Любимое HD
 #EXTGRP: кино
 https://ru02.spr24.net/139/mpegts?token=pzYpZ55UqddWQT
-#EXTINF:0,Любимое кино
-#EXTGRP: кино
-https://ucdn.beetv.kz/btv/live/hls/000000283.m3u8
 #EXTINF:0,KBC-Легендарное
 #EXTGRP: кино
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/11083/index.m3u8
-#EXTINF:0,Cinema Classic TV
-#EXTGRP: кино
-http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
-#EXTINF:0,Мужское кино HD
-#EXTGRP: кино
-https://tbs01-edge11.itdc.ge/interesnoetv/tracks-v1a1/mono.m3u8
-#EXTINF:0,Остросюжетное HD
-#EXTGRP: кино
-http://ott.watch/stream/2ZYCRE4JK5/214.m3u8
-
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11026/index.m3u8
@@ -57,9 +53,6 @@ http://moobl.ru/hls/Mosfilm.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://ru02.spr24.net/429/index.m3u8?token=eLnP9PP6hCQ2Ab
-#EXTINF:0,Советское кино
-#EXTGRP: кино
-http://moobl.ru/hls/Sovetskoye_kino.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://45.144.31.195:8031/playlist.m3u8
@@ -170,9 +163,9 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
 #EXTINF:0,Viasat History
 #EXTGRP: Познавательное
 https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,ТЕХНО 24
+#EXTINF:0, Царьград
 #EXTGRP: Познавательное
-http://moobl.ru/hls/Texno_24.m3u8
+https://live.kinescopecdn.net/on-air/182276a1-1f52-4754-9fa6-f05292ccc160/093a575b-34ee-4c17-b665-5eb63d74c4be/480p/media.m3u8
 #EXTINF:0,Liberty Наука HD
 #EXTGRP: Познавательное
 http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/19305/index.m3u8
@@ -183,9 +176,12 @@ http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/19412/index.m3u8
 #EXTGRP: Познавательное
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19415/index.m3u8
 
-#EXTINF:0,Фантастика HD
+#EXTINF:0,BCU CINEMA HD
 #EXTGRP: кино
-http://hlss.goodgame.ru/hls/187241.m3u8
+https://nl01.spr24.net/20812/mpegts?token=6NKtDLCbKfZKiQ
+#EXTINF:0,Cinema
+#EXTGRP: кино
+http://iptv.mega.net.ru:8888/History_HD/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 https://ucdn.beetv.kz/btv/live/hls/000000239.m3u8
