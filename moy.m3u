@@ -59,6 +59,9 @@ http://moobl.ru/hls/Mosfilm_hd.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://ru02.spr24.net/429/index.m3u8?token=eLnP9PP6hCQ2Ab
+#EXTINF:0,Мосфильм. Золотая коллекция2
+#EXTGRP: кино
+http://arbiter.bolshoe.tv/?path=abr4/mosfilm/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDIzIDc6NTc6NTkgUE0maGFzaF92YWx1ZT1mQVEvUkMvcUJKcVR3aWdpRWR1TmhRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://45.144.31.195:8031/playlist.m3u8
