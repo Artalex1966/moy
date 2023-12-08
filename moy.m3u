@@ -20,15 +20,18 @@ http://ru02.spr24.net/20705/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-#EXTINF:0,Любимое HD
+#EXTINF:0,Любимое
 #EXTGRP: кино
-https://ru02.spr24.net/139/mpegts?token=pzYpZ55UqddWQT
-#EXTINF:0,KBC-Легендарное
+http://iptv.mega.net.ru:8888/Lubimoe_kino/index.m3u8
+#EXTINF:0,VeleS Киноплёнка
 #EXTGRP: кино
-http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/11083/index.m3u8
+https://eu01.spr24.net/21014/mpegts?token=9qr2dcKkhQ26UU
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11026/index.m3u8
+#EXTINF:0,VeleS Movie Hits
+#EXTGRP: кино
+https://eu01.spr24.net/21017/mpegts?token=9qr2dcKkhQ26UU
 #EXTINF:0,Кино 1
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18069/index.m3u8
