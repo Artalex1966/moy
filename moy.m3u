@@ -26,9 +26,6 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:0,Любимое
 #EXTGRP: кино
 http://iptv.mega.net.ru:8888/Lubimoe_kino/index.m3u8
-#EXTINF:0,VeleS Киноплёнка
-#EXTGRP: кино
-https://eu01.spr24.net/21014/mpegts?token=9qr2dcKkhQ26UU
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11026/index.m3u8
@@ -169,9 +166,6 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
 #EXTINF:0,Viasat History
 #EXTGRP: Познавательное
 https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0, Царьград
-#EXTGRP: Познавательное
-https://live.kinescopecdn.net/on-air/182276a1-1f52-4754-9fa6-f05292ccc160/093a575b-34ee-4c17-b665-5eb63d74c4be/480p/media.m3u8
 #EXTINF:0,Liberty Наука HD
 #EXTGRP: Познавательное
 http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/19305/index.m3u8
