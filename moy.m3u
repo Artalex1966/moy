@@ -70,9 +70,10 @@ http://moobl.ru/hls/Mosfilm_hd.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://ru02.spr24.net/429/index.m3u8?token=eLnP9PP6hCQ2Ab
-#EXTINF:0,Мосфильм. Золотая коллекция2
+
+#EXTINF:0,Родное кино
 #EXTGRP: кино
-http://arbiter.bolshoe.tv/?path=abr4/mosfilm/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDIzIDc6NTc6NTkgUE0maGFzaF92YWx1ZT1mQVEvUkMvcUJKcVR3aWdpRWR1TmhRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://iptv.mega.net.ru:8888/Rodnoe_kino/index.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://45.144.31.195:8031/playlist.m3u8
@@ -96,16 +97,10 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/13094/index.m3u8
 #EXTINF:0,VF Теория большого взрыва
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/15009/index.m3u8
-#EXTINF:0,VF Теория большого взрыва
-#EXTGRP: кино
-http://vivk17.ottolok.net/iptv/L2V42NKZNF4YKV/15009/index.m3u8
 #EXTINF:0,VF Уральские пельмени
 #EXTGRP: кино
 http://abbe806a.ottolok.net/iptv/CHTE6X3QY7TNFA/18198/index.m3u8
 
-#EXTINF:0,VF Универ
-#EXTGRP: кино
-http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/13084/index.m3u8
 #EXTINF:0,VF Универ новая общага
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/17013/index.m3u8
@@ -115,9 +110,6 @@ http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/13082/index.m3u8
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
 http://fa3d4eb0.akadatel.com/iptv/MNEDUZTF2UKGSA/13082/index.m3u8
-#EXTINF:0,VF Кухня
-#EXTGRP: кино
-http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/18199/index.m3u8
 #EXTINF:0,Кинозал! Интерны ТВ
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11060/index.m3u8
@@ -154,7 +146,7 @@ http://cz.iptv.monster/play/5343/F2790C2E7884ABD/video.m3u8
 
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
-https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:0,МИР
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
@@ -180,15 +172,9 @@ http://stv.mediacdn.ru/live/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:0,Звезда Плюс
 #EXTGRP: эфир
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
-#EXTINF:0,Viasat History
-#EXTGRP: Познавательное
-https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,Liberty Наука HD
-#EXTGRP: Познавательное
-http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/19305/index.m3u8
 #EXTINF:0,MM Experiment HD
 #EXTGRP: Познавательное
-http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/19412/index.m3u8
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19412/index.m3u8
 #EXTINF:0,MM Открытия HD
 #EXTGRP: Познавательное
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19415/index.m3u8
@@ -199,27 +185,24 @@ https://nl01.spr24.net/20812/mpegts?token=6NKtDLCbKfZKiQ
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://iptv.mega.net.ru:8888/History_HD/index.m3u8
-#EXTINF:0,Cinema
-#EXTGRP: кино
-https://ucdn.beetv.kz/btv/live/hls/000000239.m3u8
 #EXTINF:0,VIP Megahit
 #EXTGRP: кино
-https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000869.m3u8
 #EXTINF:0,VIP Premiere
 #EXTGRP: кино
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000868.m3u8
 #EXTINF:0,VIP Comedy
 #EXTGRP: кино
-https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000870.m3u8
 #EXTINF:0,TV 1000 Русское Кино
 #EXTGRP: кино
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+http://iptv.mega.net.ru:8888/TV1000_Russkoe_kino/index.m3u8
 #EXTINF:0,TV 1000 HD
 #EXTGRP: кино
-https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+http://iptv.mega.net.ru:8888/TV1000/index.m3u8
 #EXTINF:0,TV 1000 Action HD
 #EXTGRP: кино
-https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+http://iptv.mega.net.ru:8888/TV1000_Action/index.m3u8
 
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
