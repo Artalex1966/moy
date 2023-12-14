@@ -93,7 +93,9 @@ http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://vivk17.ottolok.net/iptv/L2V42NKZNF4YKV/17006/index.m3u8
-
+#EXTINF:0,VF Гарри Поттер
+#EXTGRP: кино
+http://abbe806a.ottolok.net/iptv/CHTE6X3QY7TNFA/14230/index.m3u8
 #EXTINF:0,VF Клиника
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/13094/index.m3u8
@@ -194,13 +196,13 @@ https://nl01.spr24.net/20812/mpegts?token=6NKtDLCbKfZKiQ
 http://iptv.mega.net.ru:8888/History_HD/index.m3u8
 #EXTINF:0,VIP Megahit
 #EXTGRP: кино
-https://ucdn.beetv.kz/btv/live/hls/000000869.m3u8
+https://livetv.mylifeisgood.net.ru/channels/vip_megahit.m3u8
 #EXTINF:0,VIP Premiere
 #EXTGRP: кино
-https://ucdn.beetv.kz/btv/live/hls/000000868.m3u8
+https://livetv.mylifeisgood.net.ru/channels/vip_premiere.m3u8
 #EXTINF:0,VIP Comedy
 #EXTGRP: кино
-https://ucdn.beetv.kz/btv/live/hls/000000870.m3u8
+https://livetv.mylifeisgood.net.ru/channels/vip_comedy.m3u8
 #EXTINF:0,TV 1000 Русское Кино
 #EXTGRP: кино
 http://iptv.mega.net.ru:8888/TV1000_Russkoe_kino/index.m3u8
@@ -217,9 +219,7 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 #EXTINF:0,Блокбастер
 #EXTGRP: кино
 http://moobl.ru/hls/Blokbaster.m3u8
-#EXTINF:0,VF Гарри Поттер
-#EXTGRP: кино
-http://9bcrmvle.dienalt.org/iptv/FW8R85B2KQSKT8/14230/index.m3u8
+
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
