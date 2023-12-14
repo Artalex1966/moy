@@ -312,7 +312,7 @@ http://moobl.ru/hls/Detsky_mir.m3u8
 http://cdn-lb.iptv2022.com/p/d0Hb_UuxtY5kvCTuHT9iMQ,1688590814/streaming/malish/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
-http://dmi3y-tv.ru/hls/okko/CH_STSKIDS.m3u8
+http://iptv.mega.net.ru:8888/CTC_Kids_HD/index.m3u8
 #EXTINF:0,Маша и Медведь
 #EXTGRP: Детский
 http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/13042/index.m3u8
@@ -342,13 +342,19 @@ http://moobl.ru/hls/Mama.m3u8
 http://strm.yandex.ru/kal/leva/leva0.m3u8
 #EXTINF:0,Мультиландия
 #EXTGRP: Детский
-https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
+http://iptv.mega.net.ru:8888/Multimania/index.m3u8
+#EXTINF:0,МУЛЬТИМАНИЯ
+#EXTGRP: Детский
+https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 #EXTINF:0,Мультсказки
 #EXTGRP: Детский
 https://iptvplay.catcast.tv/content/38850/index.m3u8
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детский
 https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF:0,СоюзМультфильм
+#EXTGRP: Детский
+http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:0,Советские мультфильмы
 #EXTGRP: Детский
 http://ru02.spr24.net/20849/index.m3u8?token=eLnP9PP6hCQ2Ab
@@ -367,7 +373,10 @@ http://185.246.66.143:8000/channel/17dcce27/index.ts?q=fcb604c07e3f19c73a883bedb
 #EXTINF:0,MM Tom and Jerry HD
 #EXTGRP: Детский
 http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/13016/index.m3u8
-#EXTINF:0,Чип и Дейл спешат на помощь
+#EXTINF:0,Чип и Дейл
+#EXTGRP: Детский
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:0,Дисней
 #EXTGRP: Детский
 http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/13064/index.m3u8
 
