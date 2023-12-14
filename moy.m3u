@@ -182,6 +182,10 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19412/index.m3u8
 #EXTGRP: Познавательное
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19415/index.m3u8
 
+#EXTINF:0,VIP FAMILY
+#EXTGRP: кино
+https://tbs01-edge17.itdc.ge/tv5/index.m3u8
+
 #EXTINF:0,BCU CINEMA HD
 #EXTGRP: кино
 https://nl01.spr24.net/20812/mpegts?token=6NKtDLCbKfZKiQ
