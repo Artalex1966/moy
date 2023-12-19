@@ -69,11 +69,11 @@ http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/18070/index.m3u8
 http://moobl.ru/hls/Mosfilm_hd.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://ru02.spr24.net/429/index.m3u8?token=eLnP9PP6hCQ2Ab
+http://moobl.ru/hls/Mosfilm.m3u8
 
 #EXTINF:0,Родное кино
 #EXTGRP: кино
-http://iptv.mega.net.ru:8888/Rodnoe_kino/index.m3u8
+http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
 #EXTINF:0,Советское кино
 #EXTGRP: кино
 http://cdn-lb.iptv2022.com/p/NEEP5Fh7ASH1TQZQUHA2bQ,1700267079/streaming/sovietmovs/324/1/index.m3u8
@@ -177,6 +177,9 @@ http://146.158.0.56/ZvezdaPlus/mono.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP: эфир
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
+#EXTINF:0,ХОЧУ ВСЕ ЗНАТЬ
+#EXTGRP: Познавательное
+https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
 #EXTINF:0,MM Experiment HD
 #EXTGRP: Познавательное
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19412/index.m3u8
