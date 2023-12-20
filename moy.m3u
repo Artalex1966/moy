@@ -34,7 +34,10 @@ http://ru02.spr24.net/20705/index.m3u8?token=eLnP9PP6hCQ2Ab
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:0,Любимое
 #EXTGRP: кино
-http://iptv.mega.net.ru:8888/Lubimoe_kino/index.m3u8
+http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/9143/index.m3u8
+#EXTINF:0,Наше любимое HD
+#EXTGRP: кино
+http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/2106/index.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11026/index.m3u8
@@ -70,10 +73,13 @@ http://moobl.ru/hls/Mosfilm_hd.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://moobl.ru/hls/Mosfilm.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: кино
+http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 
 #EXTINF:0,Родное кино
 #EXTGRP: кино
-http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
+http://188.113.190.15/317/video.m3u8
 #EXTINF:0,Советское кино
 #EXTGRP: кино
 http://cdn-lb.iptv2022.com/p/NEEP5Fh7ASH1TQZQUHA2bQ,1700267079/streaming/sovietmovs/324/1/index.m3u8
@@ -161,7 +167,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/136/index.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
-http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
+http://ott.watch/stream/BJSXLFD133/146.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 http://q3nygo9p.russtv.net/iptv/PDD9PC98TGZATH/2155/index.m3u8
@@ -224,9 +230,7 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 http://moobl.ru/hls/Blokbaster.m3u8
 
 
-#EXTINF:0,Мосфильм. Золотая коллекция
-#EXTGRP: кино
-http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
+
 
 #EXTINF:0,Кино и сериалы
 #EXTGRP: кино
