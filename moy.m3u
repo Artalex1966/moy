@@ -23,9 +23,9 @@ http://ru02.spr24.net/20991/index.m3u8?token=eLnP9PP6hCQ2Ab
 #EXTINF:0,Fresh Soviet
 #EXTGRP: кино
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/19301/index.m3u8
-#EXTINF:0,TOP USSR HD
+#EXTINF:0,ТВОЕ ТВ HD - ЮМОР
 #EXTGRP: кино
-http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13005/index.m3u8
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/13037/index.m3u8
@@ -67,9 +67,9 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Детское кино
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18073/index.m3u8
-#EXTINF:0,Кино 2 International
+#EXTINF:0,Военное кино
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/18070/index.m3u8
+http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/18072/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://moobl.ru/hls/Mosfilm_hd.m3u8
@@ -79,6 +79,10 @@ http://moobl.ru/hls/Mosfilm.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
+
+#EXTINF:0,Кинозал! СССР
+#EXTGRP: кино
+http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/11061/index.m3u8
 
 #EXTINF:0,Родное кино
 #EXTGRP: кино
@@ -164,6 +168,12 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:0,МИР
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:0,НТВ Хит
+#EXTGRP: эфир
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:0,НТВ Сериал
+#EXTGRP: эфир
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
