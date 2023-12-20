@@ -70,6 +70,7 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18073/index.m3u8
 #EXTINF:0,Военное кино
 #EXTGRP: кино
 http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/18072/index.m3u8
+
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://moobl.ru/hls/Mosfilm_hd.m3u8
@@ -83,7 +84,6 @@ http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
 http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/11061/index.m3u8
-
 #EXTINF:0,Родное кино
 #EXTGRP: кино
 http://188.113.190.15/317/video.m3u8
@@ -93,8 +93,6 @@ http://cdn-lb.iptv2022.com/p/NEEP5Fh7ASH1TQZQUHA2bQ,1700267079/streaming/sovietm
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://45.144.31.195:8031/playlist.m3u8
-
-
 
 ----
 #EXTINF:0,VF Друзья
@@ -196,6 +194,9 @@ http://146.158.0.56/ZvezdaPlus/mono.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP: эфир
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
+#EXTINF:0,BOX DOCU HD
+#EXTGRP: Познавательное
+http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/20153/index.m3u8
 #EXTINF:0,ХОЧУ ВСЕ ЗНАТЬ
 #EXTGRP: Познавательное
 https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
