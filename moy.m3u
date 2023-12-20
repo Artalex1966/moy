@@ -23,6 +23,9 @@ https://ch01.spr24.net/20991/mpegts?token=YRZ9ep8ifpCCr6
 #EXTINF:0,Fresh Soviet
 #EXTGRP: кино
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/19301/index.m3u8
+#EXTINF:0,TOP USSR HD
+#EXTGRP: кино
+http://1ba06e29.ottolok.net/iptv/SC6FQMTAN2X5K7/13005/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/13037/index.m3u8
