@@ -114,6 +114,9 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/15009/index.m3u8
 #EXTINF:0,VF Уральские пельмени
 #EXTGRP: кино
 http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/14231/index.m3u8
+#EXTINF:0,TVPlay 6 Кадров
+#EXTGRP: кино
+http://cdn.klimedia.space/lb/TVPlay6Kadrov/index.m3u8?token=klimedia.space:VXNlcjEwMDA6VXNlcjEwMDA=
 #EXTINF:0,ТВОЕ ТВ HD - ЮМОР
 #EXTGRP: кино
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
@@ -312,9 +315,15 @@ http://109.197.192.121:8080/auto24/index.m3u8
 
 -------
 
-#EXTINF:0,Наше новое кино
+#EXTINF:0,TVPlay Новьё Мир HD
 #EXTGRP: кино
-http://109.197.192.121:8080/kinohit/index.m3u8
+http://cdn.klimedia.space/lb/TVPlayNovyoWorldHD/index.m3u8?token=klimedia.space:VXNlcjEwMDA6VXNlcjEwMDA=
+#EXTINF:0,TVPlay Новьё RUS HD
+#EXTGRP: кино
+http://cdn.klimedia.space/lb/TVPlayNovyoRUSHD/index.m3u8?token=klimedia.space:VXNlcjEwMDA6VXNlcjEwMDA=
+#EXTINF:0,TVPlay Гарри Поттер HD
+#EXTGRP: кино
+http://cdn.klimedia.space/lb/TVPlayGarryPotter/index.m3u8?token=klimedia.space:VXNlcjEwMDA6VXNlcjEwMDA=
 
 
 ----
