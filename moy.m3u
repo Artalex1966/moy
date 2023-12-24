@@ -101,7 +101,7 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/17006/index.m3u8
 http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
-http://vivk17.ottolok.net/iptv/L2V42NKZNF4YKV/17006/index.m3u8
+http://abbe806a.ottolok.net/iptv/CHTE6X3QY7TNFA/17006/index.m3u8
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
 http://abbe806a.ottolok.net/iptv/CHTE6X3QY7TNFA/14230/index.m3u8
@@ -136,7 +136,12 @@ http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/14234/index.m3u8
 #EXTINF:0,Magic Action HD
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18066/index.m3u8
-
+#EXTINF:0,CineMan Thriller
+#EXTGRP: кино
+http://ott.server-iptv.live/686/video.m3u8?token=M4f082ab4c
+#EXTINF:0,CineMan Action
+#EXTGRP: кино
+http://ott.server-iptv.live/689/video.m3u8?token=M4f082ab4c
 ---
 
 #EXTINF:0,Россия 24
@@ -194,12 +199,6 @@ http://146.158.0.56/ZvezdaPlus/mono.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP: эфир
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
-#EXTINF:0,BOX DOCU HD
-#EXTGRP: Познавательное
-http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/20153/index.m3u8
-#EXTINF:0,ХОЧУ ВСЕ ЗНАТЬ
-#EXTGRP: Познавательное
-https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
 #EXTINF:0,MM Experiment HD
 #EXTGRP: Познавательное
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19412/index.m3u8
