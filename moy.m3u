@@ -163,7 +163,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/index.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-https://streaming.televizor-24-tochka.ru/live/26-req_offset_28000000-req_window_0-1k_v5.m3u8
+http://92.242.110.52:9835/udp/238.1.12.13:1234
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
