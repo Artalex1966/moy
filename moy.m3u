@@ -142,6 +142,9 @@ http://ott.server-iptv.live/686/video.m3u8?token=M4f082ab4c
 #EXTINF:0,CineMan Action
 #EXTGRP: кино
 http://ott.server-iptv.live/689/video.m3u8?token=M4f082ab4c
+#EXTINF:0,Cinema
+#EXTGRP: кино
+http://213.172.73.170:8081/nimble_live/1142__Sinema/playlist.m3u8
 ---
 
 #EXTINF:0,Россия 24
@@ -209,9 +212,12 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19415/index.m3u8
 #EXTGRP: кино
 https://tbs01-edge17.itdc.ge/tv5/index.m3u8
 
-#EXTINF:0,BCU CINEMA HD
+#EXTINF:0,Кинопоказ
 #EXTGRP: кино
-https://nl01.spr24.net/20812/mpegts?token=6NKtDLCbKfZKiQ
+http://185.26.157.3:8080/live/kinopokaz/mono.m3u8
+#EXTINF:0,Кино ТВ
+#EXTGRP: кино
+http://185.26.157.3:8080/live/kinotv/mono.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://iptv.mega.net.ru:8888/History_HD/index.m3u8
@@ -226,13 +232,13 @@ https://livetv.mylifeisgood.net.ru/channels/vip_premiere.m3u8
 https://livetv.mylifeisgood.net.ru/channels/vip_comedy.m3u8
 #EXTINF:0,TV 1000 Русское Кино
 #EXTGRP: кино
-http://iptv.mega.net.ru:8888/TV1000_Russkoe_kino/index.m3u8
+http://213.172.73.170:8081/nimble_live/1075__Tv_1000_Russkoye_Kino/playlist.m3u8
 #EXTINF:0,TV 1000 HD
 #EXTGRP: кино
-http://iptv.mega.net.ru:8888/TV1000/index.m3u8
+http://213.172.73.170:8081/nimble_live/1073__Tv_1000/playlist.m3u8
 #EXTINF:0,TV 1000 Action HD
 #EXTGRP: кино
-http://iptv.mega.net.ru:8888/TV1000_Action/index.m3u8
+http://213.172.73.170:8081/nimble_live/1072__Tv_1000_Action/playlist.m3u8
 
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
