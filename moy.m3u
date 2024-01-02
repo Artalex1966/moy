@@ -130,6 +130,9 @@ http://fa3d4eb0.akadatel.com/iptv/MNEDUZTF2UKGSA/13082/index.m3u8
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11060/index.m3u8
 
+#EXTINF:0,Кино ТВ
+#EXTGRP: кино
+http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/14234/index.m3u8
