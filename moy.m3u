@@ -205,19 +205,9 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19412/index.m3u8
 #EXTGRP: Познавательное
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19415/index.m3u8
 
-#EXTINF:0,VIP FAMILY
-#EXTGRP: кино
-https://tbs01-edge17.itdc.ge/tv5/index.m3u8
 
-#EXTINF:0,Кинопоказ
-#EXTGRP: кино
-http://185.26.157.3:8080/live/kinopokaz/mono.m3u8
-#EXTINF:0,Кино ТВ
-#EXTGRP: кино
-http://185.26.157.3:8080/live/kinotv/mono.m3u8
-#EXTINF:0,Cinema
-#EXTGRP: кино
-http://iptv.mega.net.ru:8888/History_HD/index.m3u8
+
+
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
 http://195.245.99.251:8101
@@ -247,12 +237,7 @@ http://moobl.ru/hls/Blokbaster.m3u8
 
 
 
-#EXTINF:0,Кино и сериалы
-#EXTGRP: кино
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:0, КИНО ТВ
-#EXTGRP: кино
-http://91.234.255.18:8000/play/a00w/index.m3u8
+
 
 #EXTINF:0,СТС
 #EXTGRP: эфир
@@ -277,7 +262,7 @@ http://109.248.236.21:4433/udp/238.1.1.12:1234
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:0,Пятница
 #EXTGRP: эфир
-https://tbs01-edge11.itdc.ge/friday/tracks-v1a1/mono.m3u8
+http://ru.seetv.cc/play/9/E5E8424564E73AE/video.m3u8
 #EXTINF:0,Звезда
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
