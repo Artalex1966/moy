@@ -114,9 +114,7 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/15009/index.m3u8
 #EXTINF:0,VF Уральские пельмени
 #EXTGRP: кино
 http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/14231/index.m3u8
-#EXTINF:0,TVPlay 6 Кадров
-#EXTGRP: кино
-http://cdn.klimedia.space/lb/TVPlay6Kadrov/index.m3u8?token=klimedia.space:VXNlcjEwMDA6VXNlcjEwMDA=
+
 #EXTINF:0,ТВОЕ ТВ HD - ЮМОР
 #EXTGRP: кино
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
@@ -133,6 +131,9 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11060/index.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
 http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:0,Cobra TV Triller
+#EXTGRP: кино
+http://158.101.194.132:8888/channel/n1dfef8a2/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/14234/index.m3u8
