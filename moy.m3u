@@ -299,17 +299,7 @@ http://stv.mediacdn.ru/live/cdn/zvezdaplus/playlist_hdhigh.m3u8
 http://109.197.192.121:8080/auto24/index.m3u8
 
 
--------
-
-#EXTINF:0,TVPlay Новьё Мир HD
-#EXTGRP: кино
-http://cdn.klimedia.space/lb/TVPlayNovyoWorldHD/index.m3u8?token=klimedia.space:VXNlcjEwMDA6VXNlcjEwMDA=
-#EXTINF:0,TVPlay Новьё RUS HD
-#EXTGRP: кино
-http://cdn.klimedia.space/lb/TVPlayNovyoRUSHD/index.m3u8?token=klimedia.space:VXNlcjEwMDA6VXNlcjEwMDA=
-#EXTINF:0,TVPlay Гарри Поттер HD
-#EXTGRP: кино
-http://cdn.klimedia.space/lb/TVPlayGarryPotter/index.m3u8?token=klimedia.space:VXNlcjEwMDA6VXNlcjEwMDA=
+------
 
 
 ----
@@ -319,7 +309,7 @@ http://cdn.klimedia.space/lb/TVPlayGarryPotter/index.m3u8?token=klimedia.space:V
 http://moobl.ru/hls/Mult.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
-http://moobl.ru/hls/Detsky_mir.m3u8
+http://moobl.ru/hls/Detsky_mir_hd.m3u8
 #EXTINF:0,СУПЕРГЕРОИ
 #EXTGRP: Детский
 http://cdn-lb.iptv2022.com/p/d0Hb_UuxtY5kvCTuHT9iMQ,1688590814/streaming/malish/324/1/tracks-v4a1/mono.m3u8
