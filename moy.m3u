@@ -4,7 +4,7 @@
 https://ch01.spr24.net/21022/mpegts?token=YRZ9ep8ifpCCr6
 #EXTINF:0,VeleS С Новым годом!
 #EXTGRP: кино
-http://ru02.spr24.net/21022/index.m3u8?token=eLnP9PP6hCQ2Ab
+http://am01.spr24.net/21022/index.m3u8?token=YRZ9ep8ifpCCr6
 #EXTINF:0,VF С новым годом!
 #EXTGRP: кино
 http://hpazn1lg.otttv.pw/iptv/9GPGH2968YPMXX/15524/index.m3u8
@@ -16,7 +16,7 @@ http://am01.spr24.net/17035/index.m3u8?token=YRZ9ep8ifpCCr6
 http://am01.spr24.net/20733/index.m3u8?token=YRZ9ep8ifpCCr6
 #EXTINF:0,MiniMax Комедия U.S.S.R
 #EXTGRP: кино
-http://ru02.spr24.net/20733/index.m3u8?token=eLnP9PP6hCQ2Ab
+http://am01.spr24.net/20733/index.m3u8?token=YRZ9ep8ifpCCr6
 #EXTINF:0,минимакс-ussr-комедия HD
 #EXTGRP: кино
 http://q3nygo9p.russtv.net/iptv/PDD9PC98TGZATH/13019/index.m3u8
@@ -29,7 +29,7 @@ http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/19301/index.m3u8
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/13037/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
-http://ru02.spr24.net/20705/index.m3u8?token=eLnP9PP6hCQ2Ab
+http://am01.spr24.net/20705/index.m3u8?token=YRZ9ep8ifpCCr6
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
@@ -130,6 +130,9 @@ http://158.101.194.132:8888/channel/n1dfef8a2/index.m3u8?q=4df2c8476b65d08b14ea2
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/14234/index.m3u8
+#EXTINF:0,Yosso TV Забавное
+#EXTGRP: кино
+http://rhsbjv7k.tvclub.xyz/iptv/K3VWCFWK7UAKK7/14234/index.m3u8
 #EXTINF:0,Magic Action HD
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18066/index.m3u8
@@ -318,7 +321,7 @@ http://cdn-lb.iptv2022.com/p/d0Hb_UuxtY5kvCTuHT9iMQ,1688590814/streaming/malish/
 http://iptv.mega.net.ru:8888/CTC_Kids_HD/index.m3u8
 #EXTINF:0,Маша и Медведь
 #EXTGRP: Детский
-http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/13042/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/K3VWCFWK7UAKK7/18165/index.m3u8
 #EXTINF:0,Карусель
 #EXTGRP: Детский
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
@@ -360,7 +363,7 @@ https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:0,Советские мультфильмы
 #EXTGRP: Детский
-http://ru02.spr24.net/20849/index.m3u8?token=eLnP9PP6hCQ2Ab
+http://am01.spr24.net/20849/index.m3u8?token=YRZ9ep8ifpCCr6
 #EXTINF:0,Советские мультфильмы
 #EXTGRP: Детский
 https://rostishkatv.fun/iptv/FREE_USER?channel=118
@@ -492,13 +495,13 @@ http://ca.kinoshka.net/play/8813/F2790C2E7884ABD/video.m3u8
 http://vlm3jjnd.megatv.fun/iptv/RHA3G7Y2NYUP4E/14210/index.m3u8
 #EXTINF:0,BCU Cosmo 
 #EXTGRP: кино
-http://ru02.spr24.net/20846/index.m3u8?token=eLnP9PP6hCQ2Ab
+http://am01.spr24.net/20846/index.m3u8?token=YRZ9ep8ifpCCr6
 #EXTINF:0,MM UFO HD
 #EXTGRP: кино
-http://ru02.spr24.net/20727/index.m3u8?token=eLnP9PP6hCQ2Ab
+http://am01.spr24.net/20727/index.m3u8?token=YRZ9ep8ifpCCr6
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
-http://ru02.spr24.net/20814/index.m3u8?token=eLnP9PP6hCQ2Ab
+http://am01.spr24.net/20814/index.m3u8?token=YRZ9ep8ifpCCr6
 #EXTINF:0,Eye Cyber HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/20220/index.m3u8
@@ -570,19 +573,16 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/10083/index.m3u8
 http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/13018/index.m3u8
 #EXTINF:0,MiniMax Детектив U.S.S.R
 #EXTGRP: кино
-http://ru02.spr24.net/20731/index.m3u8?token=eLnP9PP6hCQ2Ab
-#EXTINF:0,MiniMax Детектив U.S.S.R
-#EXTGRP: кино
-https://nl01.spr24.net/20731/index.m3u8?token=6NKtDLCbKfZKiQ
+http://am01.spr24.net/20731/index.m3u8?token=YRZ9ep8ifpCCr6
 #EXTINF:0,MiniMax Приключения U.S.S.R
 #EXTGRP: кино
-http://ru02.spr24.net/20760/index.m3u8?token=eLnP9PP6hCQ2Ab
+http://am01.spr24.net/20760/index.m3u8?token=YRZ9ep8ifpCCr6
 #EXTINF:0,MiniMax Фантастика U.S.S.R
 #EXTGRP: кино
-http://ru02.spr24.net/20732/index.m3u8?token=eLnP9PP6hCQ2Ab
+http://am01.spr24.net/20732/index.m3u8?token=YRZ9ep8ifpCCr6
 #EXTINF:0,MiniMax Сказки U.S.S.R
 #EXTGRP: кино
-http://ru02.spr24.net/20750/index.m3u8?token=eLnP9PP6hCQ2Ab
+http://am01.spr24.net/20750/index.m3u8?token=YRZ9ep8ifpCCr6
 #EXTINF:0,VF Мосфильм
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/10084/index.m3u8
@@ -591,10 +591,7 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/10084/index.m3u8
 http://99c385b6.amazzin.pw/iptv/K2LTLTY5Y7X65V/19433/index.m3u8
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
-http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/13082/index.m3u8
-#EXTINF:0,VB Контент Моего Детства
-#EXTGRP: кино
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20001/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/K3VWCFWK7UAKK7/13082/index.m3u8
 #EXTINF:0,Liberty Сказки FHD
 #EXTGRP: кино
 http://abbe806a.ottolok.net/iptv/CHTE6X3QY7TNFA/19304/index.m3u8
