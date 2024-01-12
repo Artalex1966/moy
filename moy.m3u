@@ -330,13 +330,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 http://31.148.48.15:80/O/index.m3u8?token=test
 #EXTINF:0,KLI Мультики
 #EXTGRP: Детский
-http://u9hgnx7x.rostelekom.xyz/iptv/Z7FXPQ65UHE72P/20048/index.m3u8
+http://8d2a6081.ottolok.net/iptv/A9AKEETLYY6BD9/20048/index.m3u8
 #EXTINF:0,Уникум
 #EXTGRP: Детский
 https://tbs01-edge11.itdc.ge/detsky/tracks-v1a1/mono.m3u8
-#EXTINF:0,Рыжий
+#EXTINF:0,Мульт
 #EXTGRP: Детский
-http://185.23.80.26:8080/lb/Ryzhij/index.m3u8
+http://8d2a6081.ottolok.net/iptv/A9AKEETLYY6BD9/9188/index.m3u8
 #EXTINF:0, Мама
 #EXTGRP: Детский
 http://moobl.ru/hls/Mama.m3u8
@@ -345,7 +345,7 @@ http://moobl.ru/hls/Mama.m3u8
 http://strm.yandex.ru/kal/leva/leva0.m3u8
 #EXTINF:0,Мультиландия
 #EXTGRP: Детский
-http://iptv.mega.net.ru:8888/Multimania/index.m3u8
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/5055/index.m3u8
 #EXTINF:0,МУЛЬТИМАНИЯ
 #EXTGRP: Детский
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
@@ -366,26 +366,26 @@ http://am01.spr24.net/20849/index.m3u8?token=YRZ9ep8ifpCCr6
 https://s30.glaz.tv:8082/liveg/sovmulttv.stream/playlist.m3u8
 #EXTINF:0,KBC-Союз МУЛЬТZAL
 #EXTGRP: Детский
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11090/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/HAA39Q9RE8T9CA/11090/index.m3u8
 #EXTINF:0,VF Союзмультфильм
 #EXTGRP: Детский
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/14238/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/HAA39Q9RE8T9CA/14238/index.m3u8
 #EXTINF:0,BCU Мультсериал HD
 #EXTGRP: Детский
 http://185.246.66.143:8000/channel/17dcce27/index.ts?q=fcb604c07e3f19c73a883bedb3051ccc
 #EXTINF:0,MM Tom and Jerry HD
 #EXTGRP: Детский
-http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/13016/index.m3u8
+http://8d2a6081.ottolok.net/iptv/A9AKEETLYY6BD9/13016/index.m3u8
 #EXTINF:0,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:0,Дисней
 #EXTGRP: Детский
-http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/13064/index.m3u8
+http://8d2a6081.ottolok.net/iptv/A9AKEETLYY6BD9/13064/index.m3u8
 
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/13021/index.m3u8
+http://8d2a6081.ottolok.net/iptv/A9AKEETLYY6BD9/13021/index.m3u8
 
 ----
 #EXTINF:0,Музыка 1 International
