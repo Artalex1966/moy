@@ -114,6 +114,9 @@ http://fa3d4eb0.akadatel.com/iptv/MNEDUZTF2UKGSA/13082/index.m3u8
 #EXTINF:0,Кинозал! Интерны ТВ
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11060/index.m3u8
+#EXTINF:0,VF Disney Movie
+#EXTGRP: кино
+http://38f68fbc.akadatel.com/iptv/EHWK3EFZVGCMFE/15010/index.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
