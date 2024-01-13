@@ -54,7 +54,7 @@ https://v2.catcast.tv/content/38720/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/QPZM8QC2P9EKG7/18073/index.m3u8
 #EXTINF:0,Военное кино
 #EXTGRP: кино
-http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/18072/index.m3u8
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18072/index.m3u8
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
@@ -186,6 +186,9 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/136/index.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
 http://ott.watch/stream/BJSXLFD133/146.m3u8
+#EXTINF:0,Discovery
+#EXTGRP: Познавательное
+http://lb.homeiptv.org/lb0/Discovery_Channel/video.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 http://q3nygo9p.russtv.net/iptv/PDD9PC98TGZATH/2155/index.m3u8
@@ -207,7 +210,6 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19412/index.m3u8
 #EXTINF:0,MM Открытия HD
 #EXTGRP: Познавательное
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19415/index.m3u8
-
 
 
 
@@ -270,7 +272,6 @@ http://ru.seetv.cc/play/9/E5E8424564E73AE/video.m3u8
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 
-
 ---
 
 #EXTINF:0,Киномикс
@@ -300,12 +301,7 @@ http://stv.mediacdn.ru/live/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:0 tvg-rec="0",Авто 24
 #EXTGRP: Познавательное
 http://109.197.192.121:8080/auto24/index.m3u8
-
-
 ------
-
-
-----
 
 #EXTINF:0,Мульт
 #EXTGRP: кино
@@ -400,12 +396,6 @@ http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:0,Музыка Кино International
 #EXTGRP: Музыка
 http://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:0,Chill Out Zone Plus
-#EXTGRP: Радио
-https://chillout.zone/chillout_plus
-#EXTINF:0,RadioJazz Light
-#EXTGRP: Радио
-https://online.radiojazz.ua/RadioJazz_Light_HD
 #EXTINF:0,Radio101 Италия
 #EXTGRP: Радио
 https://pub0202.101.ru:8443/stream/pro/aac/64/291
@@ -416,38 +406,6 @@ https://pub0202.101.ru:8443/stream/pro/aac/64/53
 
 
 
-#EXTINF:0,Россия-24
-#EXTGRP: эфир
-http://livehlsvgtrkrf.cdnvideo.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:0,Первый канал
-#EXTGRP: эфир
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
-#EXTINF:0,Россия 1
-#EXTGRP: эфир
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-
-#EXTINF:0,Соловьев Live
-#EXTGRP: эфир
-http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/index.m3u8
-#EXTINF:0,Соловьев Live
-#EXTGRP: эфир
-http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/tracks-v3a1/mono.m3u8
-#EXTINF:0,Соловьев Live
-#EXTGRP: эфир
-http://cz.iptv.monster/play/5343/F2790C2E7884ABD/video.m3u8
-#EXTINF:0,Соловьев Live
-#EXTGRP: эфир
-http://ca.kinoshka.net/play/5343/F2790C2E7884ABD/video.m3u8
-
-#EXTINF:0,News Front
-#EXTGRP: эфир
-https://2kita.com/tvboost/index.m3u8
-#EXTINF:0,Царьград ТВ
-#EXTGRP: эфир
-https://live-new.kinescopecdn.net/on-air/182276a1-1f52-4754-9fa6-f05292ccc160/093a575b-34ee-4c17-b665-5eb63d74c4be/480p/media.m3u8
-#EXTINF:0,Дума ТВ
-#EXTGRP: эфир
-https://dumatv.iptv2022.com/tracks-v1a1/mono.m3u8
 ---
 
 
@@ -513,27 +471,8 @@ https://hls.goodgame.ru/hls/187241.m3u8
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/38801/index.m3u8
 
-#EXTINF:0,IPTVPLAY PROMO
-#EXTGRP: кино
-https://iptvplay.catcast.tv/content/39161/index.m3u8
 
 
-#EXTINF:0,Соловьев Live
-#EXTGRP: эфир
-https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_6.m3u8?md5=EFy4-Q-AUrYiu_BTeVxMvA&e=1694552580&hls_proxy_host=70b013ca21e8364cd537747cf862272b
-
-
-#EXTINF:0, Аквариум
-#EXTGRP: кино
-http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=xxxxxxxx
-
-#EXTINF:0,T+
-#EXTGRP: кино
-http://213.108.175.226/telplushd/index.m3u8
-#EXTINF:0,Блокбастер
-#EXTGRP: кино
-https://stream-msk-01.ott.tricolor.tv:443/dtv/id645_MSKSG-PVR-1--Blokbaster_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTY5NTE4ODI5NiwiaHdpZCI6IjQ1OWQ2OGRkYjYxN2I0NjExYWYzZTMwZWU3ZDVkY2RmNTExOGY5N2MwYzMxYzk1MTNhYTY1ZDMxODAxZDc2ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNjk0NTgzNDk2LCJzZXNzaW9uX2lkIjoiMDNmMmI5ZjdhNmRjODJiNzJmZjAzYmZhNWYzMDYyYzEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CKhbW1iCbw4mgnh_E-eSLWu5amHGrjJ-NKsz6g1PM34
----------
 #EXTINF:0,TOP USSR HD
 #EXTGRP: кино
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/13005/index.m3u8
@@ -559,9 +498,7 @@ http://bqu9xew2.megatv.fun/iptv/WMH4PGAX9ZRUAB/14175/index.m3u8
 #EXTGRP: кино
 http://214c02fa.rossteleccom.net/iptv/TXZHN4PNTUAXAQ/18175/index.m3u8
 
-#EXTINF:0,Военное кино HD
-#EXTGRP: кино
-http://vivk17.ottolok.net/iptv/L2V42NKZNF4YKV/18072/index.m3u8
+
 #EXTINF:0,Военное кино HD
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18072/index.m3u8
@@ -601,9 +538,6 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19317/index.m3u8
 #EXTINF:0,MediaService Lorenz TV
 #EXTGRP: кино
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
-#EXTINF:0,OBS_поток
-#EXTGRP: кино
-rtmp://192.168.2.121/live
 
 #EXTINF:0,Конец
 
