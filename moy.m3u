@@ -276,13 +276,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 
 #EXTINF:0,Киномикс
 #EXTGRP: кино
-https://tbs01-edge11.itdc.ge/kinomiks/tracks-v1a1/mono.m3u8
+http://moobl.ru/hls/Kinomix_HD.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-https://tbs01-edge11.itdc.ge/kinohit/tracks-v1a1/mono.m3u8
+https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: кино
-http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
+https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
 #EXTINF:0,Кинопремьера HD
 #EXTGRP: кино
 https://tbs01-edge11.itdc.ge/kinopremyerahd/tracks-v1a1/mono.m3u8
