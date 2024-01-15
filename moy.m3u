@@ -136,9 +136,9 @@ http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11007/index.m3u8
 #EXTINF:0,CineMan Action
 #EXTGRP: кино
 http://ott.watch/stream/BJSXLFD133/351.m3u8
-#EXTINF:0,Мужское Кино
+#EXTINF:0,TOP Cinema HD
 #EXTGRP: кино
-http://b978frvq.russtv.net/iptv/V9CTWZW4MSYT5N/164/index.m3u8
+http://lb.homeiptv.org/lb0/TOP_CINEMA_HD/video.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
@@ -317,7 +317,7 @@ http://moobl.ru/hls/Detsky_mir_hd.m3u8
 http://cdn-lb.iptv2022.com/p/d0Hb_UuxtY5kvCTuHT9iMQ,1688590814/streaming/malish/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
-http://iptv.mega.net.ru:8888/CTC_Kids_HD/index.m3u8
+http://lb.homeiptv.org/lb0/STS_Kids/video.m3u8
 #EXTINF:0,Маша и Медведь
 #EXTGRP: Детский
 http://rhsbjv7k.tvclub.xyz/iptv/K3VWCFWK7UAKK7/18165/index.m3u8
@@ -330,12 +330,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 #EXTINF:0,О!
 #EXTGRP: Детский
 http://31.148.48.15:80/O/index.m3u8?token=test
-#EXTINF:0,KLI Мультики
-#EXTGRP: Детский
-http://8d2a6081.ottolok.net/iptv/A9AKEETLYY6BD9/20048/index.m3u8
 #EXTINF:0,Уникум
 #EXTGRP: Детский
-https://tbs01-edge11.itdc.ge/detsky/tracks-v1a1/mono.m3u8
+http://lb.homeiptv.org/lb0/Unikum/video.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
 http://8d2a6081.ottolok.net/iptv/A9AKEETLYY6BD9/9188/index.m3u8
