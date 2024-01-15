@@ -114,9 +114,6 @@ http://38f68fbc.akadatel.com/iptv/EHWK3EFZVGCMFE/13082/index.m3u8
 #EXTINF:0,Кинозал! Интерны ТВ
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11060/index.m3u8
-#EXTINF:0, Киномикс
-#EXTGRP: кино
-http://moobl.ru/hls/Kinomix_HD.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
@@ -200,7 +197,7 @@ http://moobl.ru/hls/Nauka_20_hd.m3u8
 http://moobl.ru/hls/Nauka_20_hd.m3u8
 #EXTINF:0,Звезда Плюс 
 #EXTGRP: эфир
-https://mhd116.iptv2022.com/p/bpsPmJX33hyqZCUBOcbM-w,1705266003/streaming/zvezdaplus/324/1/tracks-v4a1/mono.m3u8
+http://4.troya.one:34000/ch724/mono.m3u8?token=g5a.hI3L9KO8TXdDJTt0lGH4i8n0O6ECUOe5L9VYO_fpwA49fNqQUKWagAUgKx6HnDMh
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP: эфир
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
