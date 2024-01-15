@@ -539,9 +539,15 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19317/index.m3u8
 #EXTGRP: кино
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
 
-#EXTINF:0,Любимые фильмы TV
-#EXTGRP: кино
-https://ok.ru/videoembed/4475848826576
+#EXTINF:0,Россия 24
+#EXTGRP: эфир
+http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
+#EXTINF:0,Россия 1
+#EXTGRP: эфир
+http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+#EXTINF:0,Первый канал
+#EXTGRP: эфир
+http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:0,Конец
 
 
