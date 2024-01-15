@@ -201,6 +201,9 @@ http://4.troya.one:34000/ch724/mono.m3u8?token=g5a.hI3L9KO8TXdDJTt0lGH4i8n0O6ECU
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP: эфир
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
+#EXTINF:0,Звезда Плюс 
+#EXTGRP: эфир
+http://moobl.ru/hls/Zvezda_plus.m3u8
 #EXTINF:0,ХОЧУ ВСЕ ЗНАТЬ
 #EXTGRP: эфир
 https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
