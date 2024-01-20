@@ -133,15 +133,15 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18066/index.m3u8
 #EXTINF:0,CineMan Thriller
 #EXTGRP: кино
 http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11007/index.m3u8
-#EXTINF:0,CineMan Action
-#EXTGRP: кино
-http://ott.watch/stream/BJSXLFD133/351.m3u8
 #EXTINF:0,TOP Cinema HD
 #EXTGRP: кино
 http://lb.homeiptv.org/lb0/TOP_CINEMA_HD/video.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+#EXTINF:0,Фантастика HD
+#EXTGRP: кино
+https://hls.goodgame.ru/hls/187241.m3u8
 ---
 
 #EXTINF:0,Россия 24
@@ -177,15 +177,15 @@ https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTGRP: эфир
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 
+#EXTINF:0,Galaxy
+#EXTGRP: Познавательное
+https://streamer1.connectto.com/529/mono.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP: Познавательное
-http://myteve.online:8080/Abraham/6b3ca724a0/80201
-#EXTINF:0,Discovery Science
-#EXTGRP: Познавательное
-http://ott.watch/stream/BJSXLFD133/146.m3u8
+http://moobl.ru/hls/Discovery_science_hd.m3u8
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
-http://lb.homeiptv.org/lb0/Discovery_Channel/video.m3u8
+http://edge02.odtv.az/o5/discovery/playlist.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 http://q3nygo9p.russtv.net/iptv/PDD9PC98TGZATH/2155/index.m3u8
@@ -207,6 +207,9 @@ http://moobl.ru/hls/Zvezda_plus.m3u8
 #EXTINF:0,ХОЧУ ВСЕ ЗНАТЬ
 #EXTGRP: эфир
 https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
+#EXTINF:0 tvg-rec="0",Авто 24
+#EXTGRP: Познавательное
+http://109.197.192.121:8080/auto24/index.m3u8
 #EXTINF:0,MM Experiment HD
 #EXTGRP: Познавательное
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19412/index.m3u8
@@ -234,17 +237,6 @@ http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1471/hlsx/pl.m3u8
 #EXTINF:0,TV 1000 Action HD
 #EXTGRP: кино
 http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/1472/hlsx/pl.m3u8
-
-#EXTINF:0,Остросюжетное HD
-#EXTGRP: кино
-http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
-#EXTINF:0,Блокбастер
-#EXTGRP: кино
-http://moobl.ru/hls/Blokbaster.m3u8
-
-
-
-
 
 
 #EXTINF:0,СТС
@@ -301,9 +293,7 @@ http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP: эфир
 http://stv.mediacdn.ru/live/cdn/zvezdaplus/playlist_hdhigh.m3u8
-#EXTINF:0 tvg-rec="0",Авто 24
-#EXTGRP: Познавательное
-http://109.197.192.121:8080/auto24/index.m3u8
+
 ------
 
 #EXTINF:0,Мульт
@@ -464,9 +454,7 @@ http://am01.spr24.net/20814/index.m3u8?token=YRZ9ep8ifpCCr6
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/20220/index.m3u8
 
-#EXTINF:0,Фантастика HD
-#EXTGRP: кино
-https://hls.goodgame.ru/hls/187241.m3u8
+
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/38801/index.m3u8
@@ -548,6 +536,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
+
 #EXTINF:0,Конец
 
 
