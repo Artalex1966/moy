@@ -134,9 +134,9 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18066/index.m3u8
 #EXTINF:0,CineMan Thriller
 #EXTGRP: кино
 http://udx8otqf.megatv.fun/iptv/LA6R78MSWZYFXS/11007/index.m3u8
-#EXTINF:0,CineMan Top
+#EXTINF:0,Manas TV
 #EXTGRP: кино
-http://udx8otqf.megatv.fun/iptv/LA6R78MSWZYFXS/11005/index.m3u8
+http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
@@ -296,6 +296,9 @@ http://stream01.vnet.am/Nauka/mono.m3u8
 http://stv.mediacdn.ru/live/cdn/zvezdaplus/playlist_hdhigh.m3u8
 
 ------
+#EXTINF:0,Lolo TV
+#EXTGRP: Детский
+https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8
 
 #EXTINF:0,Мульт
 #EXTGRP: кино
@@ -306,9 +309,6 @@ http://moobl.ru/hls/Detsky_mir_hd.m3u8
 #EXTINF:0,СУПЕРГЕРОИ
 #EXTGRP: Детский
 http://cdn-lb.iptv2022.com/p/d0Hb_UuxtY5kvCTuHT9iMQ,1688590814/streaming/malish/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:0,Lolo TV
-#EXTGRP: Детский
-https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8
 #EXTINF:0,Маша и Медведь
 #EXTGRP: Детский
 http://rhsbjv7k.tvclub.xyz/iptv/K3VWCFWK7UAKK7/18165/index.m3u8
