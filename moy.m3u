@@ -66,9 +66,9 @@ http://135.181.115.81/russia/mosfilm/playlist.m3u8
 #EXTGRP: кино
 http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 
-#EXTINF:0,Кинозал! СССР
+#EXTINF:0,Советская киноклассика HD
 #EXTGRP: кино
-http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11061/index.m3u8
+http://46.8.21.67:2021/channel/nbae71fb/index.m3u8?q=04697ed7ab7329da70c2a2191d07d2f0
 #EXTINF:0,Родное кино
 #EXTGRP: кино
 http://91.205.165.11:22888/play/136/index.m3u8
@@ -118,9 +118,9 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11060/index.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
 http://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:0,Кинопоказ HD
+#EXTINF:0,TVPlay Новьё Мир HD
 #EXTGRP: кино
-https://st6.allplay.uz/3/iptv-45/tracks-v1.m3u8
+http://cdn.klimedia.space/lb/TVPlayNovyoWorldHD/index.m3u8?token=klimedia.space:c2VtYTE5NzQ6c2VtYTE5NzQ=
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/14234/index.m3u8
@@ -221,7 +221,7 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19415/index.m3u8
 
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/2002/hlsx/pl.m3u8
+http://91.205.199.3:80/vipmegahit/index.m3u8
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
 http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/2003/hlsx/pl.m3u8
@@ -305,9 +305,9 @@ http://moobl.ru/hls/Detsky_mir_hd.m3u8
 #EXTINF:0,СУПЕРГЕРОИ
 #EXTGRP: Детский
 http://cdn-lb.iptv2022.com/p/d0Hb_UuxtY5kvCTuHT9iMQ,1688590814/streaming/malish/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:0,СТС Kids
+#EXTINF:0,2X2
 #EXTGRP: Детский
-http://lb.homeiptv.org/lb0/STS_Kids/video.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:0,Маша и Медведь
 #EXTGRP: Детский
 http://rhsbjv7k.tvclub.xyz/iptv/K3VWCFWK7UAKK7/18165/index.m3u8
@@ -322,10 +322,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 http://31.148.48.15:80/O/index.m3u8?token=test
 #EXTINF:0,Уникум
 #EXTGRP: Детский
-http://lb.homeiptv.org/lb0/Unikum/video.m3u8
+http://176.222.190.11/btv/SWM/Detsky_SWM/Detsky_SWM.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
-http://8d2a6081.ottolok.net/iptv/A9AKEETLYY6BD9/9188/index.m3u8
+https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
 #EXTINF:0, Мама
 #EXTGRP: Детский
 http://moobl.ru/hls/Mama.m3u8
@@ -338,9 +338,9 @@ http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/5055/index.m3u8
 #EXTINF:0,МУЛЬТИМАНИЯ
 #EXTGRP: Детский
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
-#EXTINF:0,Мультсказки
+#EXTINF:0,Рыжий
 #EXTGRP: Детский
-https://iptvplay.catcast.tv/content/38850/index.m3u8
+https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детский
 https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
@@ -362,9 +362,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/HAA39Q9RE8T9CA/14238/index.m3u8
 #EXTINF:0,BCU Мультсериал HD
 #EXTGRP: Детский
 http://185.246.66.143:8000/channel/17dcce27/index.ts?q=fcb604c07e3f19c73a883bedb3051ccc
-#EXTINF:0,MM Tom and Jerry HD
+#EXTINF:0,TiJi
 #EXTGRP: Детский
-http://8d2a6081.ottolok.net/iptv/A9AKEETLYY6BD9/13016/index.m3u8
+https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:0,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
