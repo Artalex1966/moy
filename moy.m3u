@@ -102,6 +102,9 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/15009/index.m3u8
 #EXTINF:0,VF 6 кадров
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/14231/index.m3u8
+#EXTINF:0,TVPlay Маски Шоу
+#EXTGRP: кино
+http://cdn.klimedia.space/lb/TVPLAYMaskiShow/index.m3u8?token=klimedia.space:c2VtYTE5NzQ6c2VtYTE5NzQ=
 
 #EXTINF:0,ТВОЕ ТВ HD - ЮМОР
 #EXTGRP: кино
@@ -118,6 +121,9 @@ http://919f1338.ottrast.com/iptv/5GRC7VQS8CAGPN/31713/index.m3u8
 #EXTINF:0,Кинозал! Интерны ТВ
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11060/index.m3u8
+#EXTINF:0,Русский Роман
+#EXTGRP: кино
+http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
@@ -545,6 +551,12 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTGRP: эфир
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 
+#EXTINF:0,IPTVPlay Память
+#EXTGRP: кино
+http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=A9JzEETTau0Ee3
+#EXTINF:0,Крепкое кино
+#EXTGRP: кино
+http://91.207.115.228:5000/c162
 #EXTINF:0,Конец
 
 
