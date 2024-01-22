@@ -212,17 +212,20 @@ http://moobl.ru/hls/Nauka_20_hd.m3u8
 #EXTGRP: Познавательное
 http://moobl.ru/hls/Nauka_20_hd.m3u8
 #EXTINF:0,Звезда Плюс 
-#EXTGRP: эфир
+#EXTGRP: Познавательное
 http://4.troya.one:34000/ch724/mono.m3u8?token=g5a.hI3L9KO8TXdDJTt0lGH4i8n0O6ECUOe5L9VYO_fpwA49fNqQUKWagAUgKx6HnDMh
 #EXTINF:0,Звезда Плюс HD
-#EXTGRP: эфир
+#EXTGRP: Познавательное
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
 #EXTINF:0,Звезда Плюс 
-#EXTGRP: эфир
+#EXTGRP: Познавательное
 http://moobl.ru/hls/Zvezda_plus.m3u8
 #EXTINF:0,ХОЧУ ВСЕ ЗНАТЬ
-#EXTGRP: эфир
+#EXTGRP: Познавательное
 https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
+#EXTINF:0,Viju History HD
+#EXTGRP: Познавательное
+http://rhsbjv7k.tvclub.xyz/iptv/LCTFZKA4F92N5Q/203/index.m3u8
 #EXTINF:0 tvg-rec="0",Авто 24
 #EXTGRP: Познавательное
 http://109.197.192.121:8080/auto24/index.m3u8
