@@ -316,9 +316,7 @@ http://moobl.ru/hls/Mult.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
 http://moobl.ru/hls/Detsky_mir_hd.m3u8
-#EXTINF:0,СУПЕРГЕРОИ
-#EXTGRP: Детский
-http://cdn-lb.iptv2022.com/p/d0Hb_UuxtY5kvCTuHT9iMQ,1688590814/streaming/malish/324/1/tracks-v4a1/mono.m3u8
+
 #EXTINF:0,Карусель
 #EXTGRP: Детский
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
