@@ -63,15 +63,9 @@ http://135.181.115.81/russia/mosfilm/playlist.m3u8
 #EXTGRP: кино
 http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 
-#EXTINF:0,Советская киноклассика HD
-#EXTGRP: кино
-http://46.8.21.67:2021/channel/nbae71fb/index.m3u8?q=04697ed7ab7329da70c2a2191d07d2f0
 #EXTINF:0,Родное кино
 #EXTGRP: кино
 http://91.205.165.11:22888/play/136/index.m3u8
-#EXTINF:0,Советское кино
-#EXTGRP: кино
-http://cdn-lb.iptv2022.com/p/NEEP5Fh7ASH1TQZQUHA2bQ,1700267079/streaming/sovietmovs/324/1/index.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://moobl.ru/hls/Dom_kino.m3u8
@@ -124,15 +118,22 @@ http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
 http://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:0,Dosug Hit HD
+#EXTINF:0,Кинопоказ
 #EXTGRP: кино
-http://lb.homeiptv.org/lb0/Dosug_Hit_HD/video.m3u8
-#EXTINF:0,TVPlay Новьё Мир HD
+http://94.232.104.237:8000/play/047/index.m3u8
+#EXTINF:0,Киномикс
 #EXTGRP: кино
-http://cdn.klimedia.space/lb/TVPlayNovyoWorldHD/index.m3u8?token=klimedia.space:c2VtYTE5NzQ6c2VtYTE5NzQ=
-#EXTINF:0,MediaService Lorenz TV
+http://moobl.ru/hls/Kinomix_HD.m3u8
+#EXTINF:0,Кинохит
 #EXTGRP: кино
-http://84.38.180.145:8080/Uhierjfk/index.m3u8
+https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
+#EXTINF:0,Киносемья
+#EXTGRP: кино
+https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
+#EXTINF:0,Кинопремьера
+#EXTGRP: кино
+http://91.205.165.11:22888/play/125/index.m3u8
+
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/14234/index.m3u8
@@ -172,7 +173,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/index.m3u8
+http://92.53.64.197:5050/Solovyov_live/video.m3u8?token=A9JzEETTau0Ee3
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 http://92.242.110.52:9835/udp/238.1.12.13:1234
@@ -284,15 +285,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 
 ---
 
-#EXTINF:0,Киномикс
-#EXTGRP: кино
-http://moobl.ru/hls/Kinomix_HD.m3u8
-#EXTINF:0,Кинохит
-#EXTGRP: кино
-https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
-#EXTINF:0,Киносемья
-#EXTGRP: кино
-https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
+
 #EXTINF:0,Кинопремьера HD
 #EXTGRP: кино
 https://tbs01-edge11.itdc.ge/kinopremyerahd/tracks-v1a1/mono.m3u8
@@ -323,9 +316,6 @@ http://moobl.ru/hls/Detsky_mir_hd.m3u8
 #EXTINF:0,СУПЕРГЕРОИ
 #EXTGRP: Детский
 http://cdn-lb.iptv2022.com/p/d0Hb_UuxtY5kvCTuHT9iMQ,1688590814/streaming/malish/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:0,Маша и Медведь
-#EXTGRP: Детский
-http://rhsbjv7k.tvclub.xyz/iptv/K3VWCFWK7UAKK7/18165/index.m3u8
 #EXTINF:0,Карусель
 #EXTGRP: Детский
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
@@ -365,32 +355,15 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:0,Советские мультфильмы
 #EXTGRP: Детский
 http://am01.spr24.net/20849/index.m3u8?token=YRZ9ep8ifpCCr6
-#EXTINF:0,Советские мультфильмы
-#EXTGRP: Детский
-https://s30.glaz.tv:8082/liveg/sovmulttv.stream/playlist.m3u8
-#EXTINF:0,KBC-Союз МУЛЬТZAL
-#EXTGRP: Детский
-http://rhsbjv7k.tvclub.xyz/iptv/HAA39Q9RE8T9CA/11090/index.m3u8
 #EXTINF:0,VF Союзмультфильм
 #EXTGRP: Детский
 http://rhsbjv7k.tvclub.xyz/iptv/HAA39Q9RE8T9CA/14238/index.m3u8
-#EXTINF:0,BCU Мультсериал HD
-#EXTGRP: Детский
-http://185.246.66.143:8000/channel/17dcce27/index.ts?q=fcb604c07e3f19c73a883bedb3051ccc
 #EXTINF:0,TiJi
 #EXTGRP: Детский
 https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:0,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:0,Дисней
-#EXTGRP: Детский
-http://8d2a6081.ottolok.net/iptv/A9AKEETLYY6BD9/13064/index.m3u8
-
-#EXTINF:0,MM USSR Сказки HD
-#EXTGRP: кино
-http://8d2a6081.ottolok.net/iptv/A9AKEETLYY6BD9/13021/index.m3u8
-
 ----
 #EXTINF:0,Музыка 1 International
 #EXTGRP: Музыка
@@ -556,6 +529,9 @@ http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=A9JzEETTau0Ee3
 #EXTINF:0,Крепкое кино
 #EXTGRP: кино
 http://91.207.115.228:5000/c162
+#EXTINF:0,MediaService Lorenz TV
+#EXTGRP: кино
+http://84.38.180.145:8080/Uhierjfk/index.m3u8
 #EXTINF:0,Конец
 
 
