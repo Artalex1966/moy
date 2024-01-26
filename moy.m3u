@@ -127,18 +127,6 @@ http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:0,Кинопоказ
 #EXTGRP: кино
 http://94.232.104.237:8000/play/047/index.m3u8
-#EXTINF:0,Киномикс
-#EXTGRP: кино
-http://212.22.76.51:82/Kinomiks/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинохит
-#EXTGRP: кино
-https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
-#EXTINF:0,Киносемья
-#EXTGRP: кино
-https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
-#EXTINF:0,Кинопремьера
-#EXTGRP: кино
-https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
@@ -192,12 +180,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:0,МИР
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:0,НТВ Хит
-#EXTGRP: эфир
-https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:0,НТВ Сериал
-#EXTGRP: эфир
-https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+
 
 #EXTINF:0,Galaxy
 #EXTGRP: Познавательное
@@ -235,9 +218,20 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19412/index.m3u8
 #EXTINF:0,MM Открытия HD
 #EXTGRP: Познавательное
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19415/index.m3u8
-
-
-
+---
+#EXTINF:0,Киномикс
+#EXTGRP: кино
+http://212.22.76.51:82/Kinomiks/tracks-v1a1/mono.m3u8
+#EXTINF:0,Кинохит
+#EXTGRP: кино
+https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
+#EXTINF:0,Киносемья
+#EXTGRP: кино
+https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
+#EXTINF:0,Кинопремьера
+#EXTGRP: кино
+https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
+----
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
 http://91.205.199.3:80/vipmegahit/index.m3u8
@@ -256,8 +250,13 @@ http://213.172.73.170:8081/nimble_live/1073__Tv_1000/playlist.m3u8
 #EXTINF:0,TV 1000 Action HD
 #EXTGRP: кино
 http://213.172.73.170:8081/nimble_live/1072__Tv_1000_Action/playlist.m3u8
-
-
+---
+#EXTINF:0,НТВ Хит
+#EXTGRP: эфир
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:0,НТВ Сериал
+#EXTGRP: эфир
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:0,СТС
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
