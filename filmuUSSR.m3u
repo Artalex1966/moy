@@ -1,6 +1,3 @@
-#EXTM3U url-tvg=https://iptvx.one/epg/epg.xml.gz 
-#EXTINF:-1,Плейлист от Маvv !
-http://ott.server-iptv.live/214/video.m3u8?token=S933AAA01B
 #EXTINF:-1,Алешкина любовь (1961)
 https://hye1eaipby4w.takedwn.ws/04_19_19/04/19/19/sKCQJqeT/1080_xHEFyXvX.mp4/index-v1-a1.m3u8
 #EXTINF:-1,Алые паруса (1961)
