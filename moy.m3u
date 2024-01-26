@@ -120,6 +120,9 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11060/index.m3u8
 #EXTINF:0,Cobra Thriller HD
 #EXTGRP: кино
 http://cdn.klimedia.space/lb/cobratriller/index.m3u8?token=klimedia.space:bGtnanNmc2dzZ2d1czlkZzBpZmkwOTpsa2dqc2ZzZ3NnZ3VzOWRnMGlmaTA5
+#EXTINF:0,Мужское кино
+#EXTGRP: кино
+http://cdn.klimedia.space/lb/Muzhskoe-kino/index.m3u8?token=klimedia.space:bGtnanNmc2dzZ2d1czlkZzBpZmkwOTpsa2dqc2ZzZ3NnZ3VzOWRnMGlmaTA5
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
