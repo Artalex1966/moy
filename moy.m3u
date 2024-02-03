@@ -169,6 +169,9 @@ https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 https://hls.goodgame.ru/hls/187241.m3u8
 ---
 
+#EXTINF:0,Известия
+#EXTGRP: эфир
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
@@ -205,13 +208,13 @@ https://streamer1.connectto.com/529/mono.m3u8
 http://moobl.ru/hls/Discovery_science_hd.m3u8
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
-http://edge02.odtv.az/o5/discovery/playlist.m3u8
+http://213.172.73.170:8081/nimble_live/1094__Discovery_Channel/playlist.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
-http://moobl.ru/hls/Nauka_20_hd.m3u8
-#EXTINF:0, Наука 2.0
+https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
+#EXTINF:0, Техно 24
 #EXTGRP: Познавательное
-http://moobl.ru/hls/Nauka_20_hd.m3u8
+https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP: Познавательное
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
@@ -226,7 +229,7 @@ https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
 http://moobl.ru/hls/Viju_History_hd.m3u8
 #EXTINF:0 tvg-rec="0",Авто 24
 #EXTGRP: Познавательное
-http://109.197.192.121:8080/auto24/index.m3u8
+http://213.172.73.170:8081/nimble_live/1054__Avto_24/playlist.m3u8
 #EXTINF:0,MM Experiment HD
 #EXTGRP: Познавательное
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19412/index.m3u8
