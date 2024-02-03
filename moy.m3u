@@ -1,7 +1,4 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-#EXTINF:0,Смотрим Кино и сериалы
-#EXTGRP: кино
-http://moobl.ru/hls/Kino_i_serialy.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
