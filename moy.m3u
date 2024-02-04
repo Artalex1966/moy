@@ -1,5 +1,12 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 
+#EXTINF:0,MiTV Клон
+#EXTGRP: кино
+http://88.99.142.126/0454/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,MiTV Мосфильм
+#EXTGRP: кино
+http://88.99.142.126/10012/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/VPGPCMLUT5RPG8/13019/index.m3u8
@@ -77,7 +84,7 @@ http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
-http://188.113.190.15/317/video.m3u8
+https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://hls.k-telecom.org:8081/kt/23/playlist.m3u8
@@ -555,6 +562,11 @@ http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=A9JzEETTau0Ee3
 #EXTINF:0,MediaService Lorenz TV
 #EXTGRP: кино
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
+#EXTINF:0,MiTV Жан поль Бельмондо
+#EXTGRP: кино
+http://88.99.142.126/0213/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+
+
 #EXTINF:0,Конец
 
 
