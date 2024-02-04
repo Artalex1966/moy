@@ -410,7 +410,7 @@ https://pub0202.101.ru:8443/stream/pro/aac/64/53
 
 #EXTINF:0,E TV
 #EXTGRP: кино
-http://cdn-01.bonus-tv.ru/gsl/tracks-v1a1/mono.m3u8
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:0,Game Show
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19284/index.m3u8
