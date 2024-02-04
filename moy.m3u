@@ -29,7 +29,7 @@ http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/2106/index.m3u8
 http://6caj18yf.tvclub.xyz/iptv/TK2MQQSNWWU3CZ/11026/index.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://38f68fbc.akadatel.com/iptv/EHWK3EFZVGCMFE/11026/index.m3u8
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/11026/index.m3u8
 
 #EXTINF:0,Сити Эдем - Кино Классика
 #EXTGRP: кино
@@ -77,10 +77,10 @@ http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
-http://185.235.187.10:8888/play/a019/index.m3u8
+http://188.113.190.15/317/video.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
-http://moobl.ru/hls/Dom_kino.m3u8
+http://hls.k-telecom.org:8081/kt/23/playlist.m3u8
 
 ----
 #EXTINF:0,VF Друзья
@@ -90,6 +90,7 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/17006/index.m3u8
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/17006/index.m3u8
 #EXTINF:0,VF Друзья
+#EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/8T27RV8PPL5EKE/17006/index.m3u8
 #EXTGRP: кино
 #EXTINF:0,VF Клиника
@@ -119,7 +120,7 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13082/index.m3u8
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
-http://38f68fbc.akadatel.com/iptv/EHWK3EFZVGCMFE/13082/index.m3u8
+http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/13082/index.m3u8
 #EXTINF:0,Коломбо
 #EXTGRP: кино
 http://919f1338.ottrast.com/iptv/5GRC7VQS8CAGPN/31713/index.m3u8
