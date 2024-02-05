@@ -6,6 +6,9 @@ http://88.99.142.126/0454/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,MiTV Мосфильм
 #EXTGRP: кино
 http://88.99.142.126/10012/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,MiTV Мосфильм 3
+#EXTGRP: кино
+http://88.99.142.126/10003/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
 http://46.8.21.67:2021/channel/nbae71fb/index.m3u8?q=04697ed7ab7329da70c2a2191d07d2f0
@@ -102,6 +105,12 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/8T27RV8PPL5EKE/17006/index.m3u8
+#EXTINF:0,MiTV Друзья
+#EXTGRP: кино
+http://88.99.142.126/0372/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,MiTV Игра престолов
+#EXTGRP: кино
+http://88.99.142.126/0059/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTGRP: кино
 #EXTINF:0,VF Клиника
 #EXTGRP: кино
