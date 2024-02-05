@@ -254,10 +254,10 @@ https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
 #EXTINF:0,Звезда Плюс 
 #EXTGRP: Познавательное
-http://moobl.ru/hls/Zvezda_plus.m3u8
-#EXTINF:0,ХОЧУ ВСЕ ЗНАТЬ
+http://woobl.ru/hls2/Zvezda_plus.m3u8
+#EXTINF:0,Кто Есть Кто
 #EXTGRP: Познавательное
-https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
+https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
 #EXTINF:0,Viju History HD
 #EXTGRP: Познавательное
 http://moobl.ru/hls/Viju_History_hd.m3u8
