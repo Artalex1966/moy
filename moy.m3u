@@ -83,6 +83,9 @@ http://135.181.115.81/russia/mosfilm/playlist.m3u8
 #EXTGRP: кино
 http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 
+#EXTINF:0,КІНО ТV VHS
+#EXTGRP: кино
+https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
 #EXTINF:0,ВИДЕОКАССЕТА
 #EXTGRP: кино
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
@@ -249,6 +252,9 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
 #EXTINF:0,Звезда Плюс 
 #EXTGRP: Познавательное
 http://woobl.ru/hls2/Zvezda_plus.m3u8
+#EXTINF:0,ОРУЖИЕ
+#EXTGRP: Познавательное
+https://bkm.beetv.kz/btv/live/hls/000000308.m3u8
 #EXTINF:0,Кто Есть Кто
 #EXTGRP: Познавательное
 https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
