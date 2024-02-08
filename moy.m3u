@@ -440,9 +440,7 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19284/index.m3u8
 #EXTINF:0,Prosto GAME
 #EXTGRP: кино
 http://iptv.prosto.tv:7000/ch322/video.m3u8?secret=xxxxxxxx
-#EXTINF:0,STR TV
-#EXTGRP: кино
-https://hls.goodgame.ru/hls/185110.m3u8
+
 #EXTINF:0,Akudji
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/5346.m3u8
@@ -464,12 +462,7 @@ http://stream.backustv.ru/live/btv/index.m3u8
 #EXTGRP: кино
 https://v2.catcast.tv/content/37925/index.m3u8
 
-#EXTINF:0,Clarity4K Фантастика
-#EXTGRP: кино
-https://nl01.spr24.net/20905/index.m3u8?token=6NKtDLCbKfZKiQ
-#EXTINF:0,KBC-Fantastic
-#EXTGRP: кино
-http://ca.kinoshka.net/play/8813/F2790C2E7884ABD/video.m3u8
+
 #EXTINF:0,Dosug Fantastic HD
 #EXTGRP: кино
 http://vlm3jjnd.megatv.fun/iptv/RHA3G7Y2NYUP4E/14210/index.m3u8
@@ -479,12 +472,10 @@ http://am01.spr24.net/20846/index.m3u8?token=YRZ9ep8ifpCCr6
 #EXTINF:0,MM UFO HD
 #EXTGRP: кино
 http://am01.spr24.net/20727/index.m3u8?token=YRZ9ep8ifpCCr6
-#EXTINF:0,BCU Fantastic HD
-#EXTGRP: кино
-http://am01.spr24.net/20814/index.m3u8?token=YRZ9ep8ifpCCr6
+
 #EXTINF:0,Eye Cyber HD
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/WR5CRL6ARK3R7Y/20220/index.m3u8
+http://lzhifbas.otttv.pw/iptv/BQM7ZK5X2WWXTF/20220/index.m3u8
 
 
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА
@@ -501,22 +492,22 @@ http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/13005/index.m3u8
 http://217.107.34.114:8006/playlist.m3u8
 #EXTINF:0,KBC-Страна СССР
 #EXTGRP: кино
-http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/11091/index.m3u8
+http://lzhifbas.otttv.pw/iptv/BQM7ZK5X2WWXTF/11091/index.m3u8
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/11061/index.m3u8
 #EXTINF:0,Dosug СССР HD
 #EXTGRP: кино
-http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/14218/index.m3u8
+http://lzhifbas.otttv.pw/iptv/BQM7ZK5X2WWXTF/14218/index.m3u8
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
-http://q9lex2ys.ottclub.xyz/iptv/RRRBX7BTLXRUX5/10085/index.m3u8
+http://lzhifbas.otttv.pw/iptv/BQM7ZK5X2WWXTF/10085/index.m3u8
 #EXTINF:0,Yosso TV Советские фильмы
 #EXTGRP: кино
 http://bqu9xew2.megatv.fun/iptv/WMH4PGAX9ZRUAB/14175/index.m3u8
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
-http://214c02fa.rossteleccom.net/iptv/TXZHN4PNTUAXAQ/18175/index.m3u8
+http://lzhifbas.otttv.pw/iptv/BQM7ZK5X2WWXTF/18175/index.m3u8
 
 
 #EXTINF:0,Военное кино HD
@@ -527,7 +518,7 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18072/index.m3u8
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/10083/index.m3u8
 #EXTINF:0,MM USSR 1941-1945
 #EXTGRP: кино
-http://fy85vtdq.tvclub.xyz/iptv/C8U5CEHN93ZUDM/13018/index.m3u8
+http://lzhifbas.otttv.pw/iptv/BQM7ZK5X2WWXTF/13018/index.m3u8
 #EXTINF:0,MiniMax Детектив U.S.S.R
 #EXTGRP: кино
 http://am01.spr24.net/20731/index.m3u8?token=YRZ9ep8ifpCCr6
