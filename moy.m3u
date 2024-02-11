@@ -87,7 +87,7 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18072/index.m3u8
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://178.212.71.253:8002/play/a002/index.m3u8
+http://109.248.236.21:4433/udp/238.1.1.100:1234
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://f1c76cfb.ottolok.net/iptv/28NWGDA5384CDW/6392/index.m3u8
