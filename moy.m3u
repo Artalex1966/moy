@@ -6,9 +6,12 @@ http://88.99.142.126/0454/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,MiTV Мосфильм
 #EXTGRP: кино
 http://88.99.142.126/10012/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,MiTV Мосфильм 3
+#EXTINF:0,MiTV Старый добрый фильм
 #EXTGRP: кино
-http://88.99.142.126/10003/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+http://88.99.142.126/0909/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,MiTV Советские детские фильмы
+#EXTGRP: кино
+http://88.99.142.126/00116/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 
 
 #EXTINF:0,MM USSR Комедия HD
@@ -141,7 +144,10 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13082/index.m3u8
 http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/13082/index.m3u8
 #EXTINF:0,Коломбо
 #EXTGRP: кино
-http://919f1338.ottrast.com/iptv/5GRC7VQS8CAGPN/31713/index.m3u8
+http://88.99.142.126/0813/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,Мисс Марпл
+#EXTGRP: кино
+http://88.99.142.126/0386/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,MM Агата Кристи HD
 #EXTGRP: кино
 http://cef23ac9.rossteleccom.net/iptv/3SQTKBV3BAKFT6/13024/index.m3u8
@@ -171,9 +177,9 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/14234/index.m3u8
 #EXTINF:0,Magic Action HD
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18066/index.m3u8
-#EXTINF:0,CineMan Thriller
+#EXTINF:0,MiTV Джейсон Стейтем
 #EXTGRP: кино
-http://udx8otqf.megatv.fun/iptv/LA6R78MSWZYFXS/11007/index.m3u8
+http://88.99.142.126/0103/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 
 #EXTINF:0,ТВОЕ ТВ
 #EXTGRP: кино
@@ -243,6 +249,9 @@ http://213.172.73.170:8081/nimble_live/1094__Discovery_Channel/playlist.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
+#EXTINF:0,MiTV Учебные фильмы СССР
+#EXTGRP: Познавательное
+http://88.99.142.126/00105/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0, Техно 24
 #EXTGRP: Познавательное
 https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
@@ -408,6 +417,9 @@ https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:0,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:0,MiTV Вспыш и чудо-машинки
+#EXTGRP: Детский
+http://88.99.142.126/3005/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 ----
 #EXTINF:0,Музыка 1 International
 #EXTGRP: Музыка
@@ -568,7 +580,12 @@ http://84.38.180.145:8080/Uhierjfk/index.m3u8
 #EXTINF:0,MiTV Жан поль Бельмондо
 #EXTGRP: кино
 http://88.99.142.126/0213/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-
+#EXTINF:0,MiTV Театр «Современник»
+#EXTGRP: кино
+http://88.99.142.126/0014/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,MiTV Улицы разбитых фонарей
+#EXTGRP: кино
+http://88.99.142.126/0930/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 
 #EXTINF:0,Конец
 
