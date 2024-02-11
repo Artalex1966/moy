@@ -190,9 +190,9 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/14234/index.m3u8
 #EXTINF:0,Magic Action HD
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18066/index.m3u8
-#EXTINF:0,MiTV Джейсон Стейтем
+#EXTINF:0,Cine+ Hit HD
 #EXTGRP: кино
-http://88.99.142.126/0103/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+http://hls9.freeott.top:2082/CINE_HIT_HD_LW/video.m3u8
 
 #EXTINF:0,ТВОЕ ТВ
 #EXTGRP: кино
