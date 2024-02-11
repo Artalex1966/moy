@@ -6,12 +6,12 @@ http://88.99.142.126/0454/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,MiTV Мосфильм
 #EXTGRP: кино
 http://88.99.142.126/10019/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,MiTV Беларусьфильм
+#EXTINF:0,Беларусьфильм
 #EXTGRP: кино
-http://88.99.142.126/0464/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,MiTV Киностудия Горького
+http://pe7bw0xr.tvclub.xyz/iptv/27HZBNKDKT9BRH/18125/index.m3u8
+#EXTINF:0,Киностудия Горького
 #EXTGRP: кино
-http://88.99.142.126/0009/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+http://pe7bw0xr.tvclub.xyz/iptv/27HZBNKDKT9BRH/18122/index.m3u8
 #EXTINF:0,MiTV Старый добрый фильм
 #EXTGRP: кино
 http://88.99.142.126/0909/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
@@ -53,6 +53,9 @@ http://6caj18yf.tvclub.xyz/iptv/TK2MQQSNWWU3CZ/11026/index.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/11026/index.m3u8
+#EXTINF:0, Кинозал СССР
+#EXTGRP: кино
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/862S4G3MF5A432/11061/index.m3u8
 
 #EXTINF:0,Сити Эдем - Кино Классика
 #EXTGRP: кино
@@ -140,9 +143,9 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/15009/index.m3u8
 #EXTINF:0,VF 6 кадров
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/14231/index.m3u8
-#EXTINF:0,MiTV Наша раша
+#EXTINF:0,Наша раша
 #EXTGRP: кино
-http://88.99.142.126/0706/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+http://pe7bw0xr.tvclub.xyz/iptv/27HZBNKDKT9BRH/17010/index.m3u8
 #EXTINF:0,ТВОЕ ТВ HD - ЮМОР
 #EXTGRP: кино
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
@@ -166,10 +169,10 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/13024/index.m3u8
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11060/index.m3u8
 #EXTINF:0,Cobra Thriller HD
 #EXTGRP: кино
-http://158.101.194.132:8888/channel/56064960/index.m3u8?q=dd6a3e461985773cccdea0ca722ccc88
-#EXTINF:0,Комедия
+http://x3c1rsvw.ottclub.xyz/iptv/RU6QNP357UUZXT/20215/index.m3u8
+#EXTINF:0,CineMan Top
 #EXTGRP: кино
-http://91.142.158.107:8092/play/30/index.m3u8
+http://hls4.freeott.top:2082/CineMan-TOP/video.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
@@ -197,9 +200,16 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+EXTINF:0,1FILMAX
+#EXTGRP: кино
+https://hls.goodgame.ru/hls/204708_720.m3u8
+EXTINF:0,2FILMAX
+#EXTGRP: кино
+https://hls.goodgame.ru/hls/204717.m3u8
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187241.m3u8
+
 ---
 
 #EXTINF:0,Известия
