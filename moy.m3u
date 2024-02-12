@@ -93,7 +93,7 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18072/index.m3u8
 http://109.248.236.21:4433/udp/238.1.1.100:1234
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://f1c76cfb.ottolok.net/iptv/28NWGDA5384CDW/6392/index.m3u8
+http://yfleknat.tvclub.xyz/iptv/YRUL7ULLXSR9T9/6392/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
@@ -104,6 +104,9 @@ https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
 #EXTINF:0,ВИДЕОКАССЕТА
 #EXTGRP: кино
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
+#EXTINF:0,VHS-ка
+#EXTGRP: кино
+http://strm.yandex.ru/kal/vhs_ka/vhs_ka0.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
@@ -121,12 +124,9 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/8T27RV8PPL5EKE/17006/index.m3u8
-#EXTINF:0,MiTV Друзья
+#EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
-http://88.99.142.126/0372/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,MiTV Игра престолов
-#EXTGRP: кино
-http://88.99.142.126/0059/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+http://yfleknat.tvclub.xyz/iptv/YRUL7ULLXSR9T9/14230/index.m3u8
 #EXTGRP: кино
 #EXTINF:0,VF Клиника
 #EXTGRP: кино
@@ -193,9 +193,9 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/14234/index.m3u8
 #EXTINF:0,Magic Action HD
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18066/index.m3u8
-#EXTINF:0,Cine+ Hit HD
+#EXTINF:0, Мужское кино HD
 #EXTGRP: кино
-http://hls9.freeott.top:2082/CINE_HIT_HD_LW/video.m3u8
+http://hlstest.eltex-media.ru:8085/menfilm/index.m3u8
 
 #EXTINF:0,ТВОЕ ТВ
 #EXTGRP: кино
