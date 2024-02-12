@@ -196,10 +196,10 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
-EXTINF:0,1FILMAX
+#EXTINF:0,1FILMAX
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/204708_720.m3u8
-EXTINF:0,2FILMAX
+#EXTINF:0,2FILMAX
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/204717.m3u8
 #EXTINF:0,Фантастика HD
