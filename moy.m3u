@@ -234,6 +234,9 @@ http://92.242.110.52:9835/udp/238.1.12.13:1234
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
+#EXTINF:0,Звезда
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:0,МИР
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
@@ -347,9 +350,7 @@ https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:0,Пятница
 #EXTGRP: эфир
 http://ru.seetv.cc/play/9/E5E8424564E73AE/video.m3u8
-#EXTINF:0,Звезда
-#EXTGRP: эфир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+
 
 ---
 
