@@ -177,6 +177,9 @@ http://hls4.freeott.top:2082/CineMan-TOP/video.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
 http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:0,Кино ТВ+7
+#EXTGRP: кино
+http://live-1.otcnet.ru/kinosem/playlist.m3u8
 #EXTINF:0,Кинопоказ
 #EXTGRP: кино
 http://94.232.104.237:8000/play/047/index.m3u8
@@ -262,7 +265,7 @@ https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 https://streamer1.connectto.com/529/mono.m3u8
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
-https://bkm.beetv.kz/btv/live/hls/000001496.m3u8
+http://185.32.44.154/DiscoveryChannelHD/index.m3u8
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
 http://213.172.73.170:8081/nimble_live/1094__Discovery_Channel/playlist.m3u8
@@ -553,16 +556,16 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/10083/index.m3u8
 http://pe7bw0xr.tvclub.xyz/iptv/27HZBNKDKT9BRH/13018/index.m3u8
 #EXTINF:0,MiniMax Детектив U.S.S.R
 #EXTGRP: кино
-http://am01.spr24.net/20731/index.m3u8?token=YRZ9ep8ifpCCr6
+http://eu01.spr24.net/20731/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MiniMax Приключения U.S.S.R
 #EXTGRP: кино
-http://am01.spr24.net/20760/index.m3u8?token=YRZ9ep8ifpCCr6
+http://eu01.spr24.net/20760/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MiniMax Фантастика U.S.S.R
 #EXTGRP: кино
-http://am01.spr24.net/20732/index.m3u8?token=YRZ9ep8ifpCCr6
+http://eu01.spr24.net/20732/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MiniMax Сказки U.S.S.R
 #EXTGRP: кино
-http://am01.spr24.net/20750/index.m3u8?token=YRZ9ep8ifpCCr6
+http://eu01.spr24.net/20750/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,VF Мосфильм
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/10084/index.m3u8
