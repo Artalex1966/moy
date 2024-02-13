@@ -87,9 +87,10 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18073/index.m3u8
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18072/index.m3u8
 
+
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://109.248.236.21:4433/udp/238.1.1.100:1234
+http://woobl.ru/hls987/Mosfilm.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://yfleknat.tvclub.xyz/iptv/YRUL7ULLXSR9T9/6392/index.m3u8
@@ -599,6 +600,10 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTGRP: эфир
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 
+
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: кино
+http://109.248.236.21:4433/udp/238.1.1.100:1234
 #EXTINF:0,IPTVPlay Память
 #EXTGRP: кино
 http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=A9JzEETTau0Ee3
