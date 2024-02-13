@@ -15,6 +15,9 @@ http://pe7bw0xr.tvclub.xyz/iptv/27HZBNKDKT9BRH/18122/index.m3u8
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
 http://34a839d2.akadatel.com/iptv/Y3R3GHA87NFHAD/10085/index.m3u8
+#EXTINF:0, MM USSR Сказки
+#EXTGRP: кино
+http://cdn.iptv11.com/806/video.m3u8?token=9E7E92411DA7A
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -163,9 +166,9 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11060/index.m3u8
 #EXTINF:0,Cobra Thriller HD
 #EXTGRP: кино
 http://x3c1rsvw.ottclub.xyz/iptv/RU6QNP357UUZXT/20215/index.m3u8
-#EXTINF:0,BOX MEMORY HD
+#EXTINF:0, CineMan Top
 #EXTGRP: кино
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/19279/index.m3u8
+http://cdn.iptv11.com/845/video.m3u8?token=9E7E92411DA7A
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
