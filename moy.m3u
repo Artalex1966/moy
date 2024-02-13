@@ -156,7 +156,7 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13082/index.m3u8
 http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/13082/index.m3u8
 #EXTINF:0,Коломбо
 #EXTGRP: кино
-http://88.99.142.126/0813/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+http://cdn.iptv11.com/2258/video.m3u8?token=9E7E92411DA7A
 #EXTINF:0,Мисс Марпл
 #EXTGRP: кино
 http://88.99.142.126/0386/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
@@ -277,9 +277,9 @@ http://213.172.73.170:8081/nimble_live/1094__Discovery_Channel/playlist.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
-#EXTINF:0,MiTV Учебные фильмы СССР
+#EXTINF:0, MiTV UFO
 #EXTGRP: Познавательное
-http://88.99.142.126/00105/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+http://cdn.iptv11.com/2002/video.m3u8?token=9E7E92411DA7A
 #EXTINF:0, Техно 24
 #EXTGRP: Познавательное
 https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
@@ -297,7 +297,7 @@ https://bkm.beetv.kz/btv/live/hls/000000308.m3u8
 https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
 #EXTINF:0,MiTV Города Советского Союза
 #EXTGRP: Познавательное
-http://88.99.142.126/0008/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+http://cdn.iptv11.com/2007/video.m3u8?token=9E7E92411DA7A
 #EXTINF:0 tvg-rec="0",Авто 24
 #EXTGRP: Познавательное
 http://213.172.73.170:8081/nimble_live/1054__Avto_24/playlist.m3u8
