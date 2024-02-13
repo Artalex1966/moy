@@ -98,9 +98,6 @@ http://yfleknat.tvclub.xyz/iptv/YRUL7ULLXSR9T9/6392/index.m3u8
 #EXTGRP: кино
 http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 
-#EXTINF:0,КІНО ТV VHS
-#EXTGRP: кино
-https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
 #EXTINF:0,ВИДЕОКАССЕТА
 #EXTGRP: кино
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
@@ -188,7 +185,7 @@ http://live-1.otcnet.ru/kinosem/playlist.m3u8
 http://94.232.104.237:8000/play/047/index.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/904/index.m3u8
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/904/index.m3u8
 
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
