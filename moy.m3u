@@ -3,6 +3,9 @@
 #EXTINF:0,MiTV Клон
 #EXTGRP: кино
 http://88.99.142.126/0454/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,MiTV Клон
+#EXTGRP: кино
+http://cdn.iptv11.com/2221/video.m3u8?token=9E7E92411DA7A
 #EXTINF:0,Мосфильм
 #EXTGRP: кино
 http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/10084/index.m3u8
@@ -157,6 +160,9 @@ http://88.99.142.126/0813/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,Мисс Марпл
 #EXTGRP: кино
 http://88.99.142.126/0386/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,Мисс Марпл
+#EXTGRP: кино
+http://cdn.iptv11.com/2155/video.m3u8?token=9E7E92411DA7A
 #EXTINF:0,MM Агата Кристи HD
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/13024/index.m3u8
@@ -609,6 +615,9 @@ http://88.99.142.126/0930/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,MiTV Агент 007
 #EXTGRP: кино
 http://88.99.142.126/0094/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,MiTV Агент 007
+#EXTGRP: кино
+http://cdn.iptv11.com/980/video.m3u8?token=9E7E92411DA7A
 #EXTINF:0,Агент 007
 #EXTGRP: кино
 http://lrfdzo0r.tvclub.xyz/iptv/Q9P4KKCV6KVQQD/31715/index.m3u8
