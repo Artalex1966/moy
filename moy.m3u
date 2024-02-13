@@ -402,18 +402,18 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 #EXTINF:0,Карусель + 2
 #EXTGRP: Детский
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-#EXTINF:0,О!
+#EXTINF:0,Cупергерои
 #EXTGRP: Детский
-http://31.148.48.15:80/O/index.m3u8?token=test
+http://91.207.115.228:5000/c71
 #EXTINF:0,Уникум
 #EXTGRP: Детский
 http://176.222.190.11/btv/SWM/Detsky_SWM/Detsky_SWM.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
 https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
-#EXTINF:0, Мама
+#EXTINF:0,Чижик
 #EXTGRP: Детский
-http://moobl.ru/hls/Mama.m3u8
+http://strm.yandex.ru/kal/chizhik/chizhik0.m3u8
 #EXTINF:0,Лёва HD
 #EXTGRP: Детский
 http://strm.yandex.ru/kal/leva/leva0.m3u8
@@ -444,9 +444,7 @@ https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:0,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:0,MiTV Вспыш и чудо-машинки
-#EXTGRP: Детский
-http://88.99.142.126/3005/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+
 ----
 #EXTINF:0,Музыка 1 International
 #EXTGRP: Музыка
