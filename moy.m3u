@@ -18,9 +18,9 @@ http://pe7bw0xr.tvclub.xyz/iptv/27HZBNKDKT9BRH/18122/index.m3u8
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/C7WL6QCNMEEGH4/10085/index.m3u8
-#EXTINF:0, MM USSR Сказки
+#EXTINF:0,+TV
 #EXTGRP: кино
-http://cdn.iptv11.com/806/video.m3u8?token=9E7E92411DA7A
+http://178.124.179.122:8088/PlusTV/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
