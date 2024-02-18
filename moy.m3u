@@ -121,6 +121,9 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/17006/index.m3u8
+#EXTINF:0,TVPlay Друзья
+#EXTGRP: кино
+http://95.143.191.33:5050/TVPlayDruzyaHD.tv/video.m3u8?token=YcxPBZP54byH82
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
 http://yfleknat.tvclub.xyz/iptv/YRUL7ULLXSR9T9/14230/index.m3u8
@@ -203,6 +206,9 @@ http://hlstest.eltex-media.ru:8085/menfilm/index.m3u8
 #EXTINF:0,ТВОЕ ТВ
 #EXTGRP: кино
 http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:0,BCU Cinema
+#EXTGRP: кино
+http://hls127.homeiptv.org:8880/BCUCinemaHD/video.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
@@ -272,15 +278,16 @@ https://streamer1.connectto.com/529/mono.m3u8
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
 http://185.32.44.154/DiscoveryChannelHD/index.m3u8
-#EXTINF:0,Discovery
+#EXTINF:0,DocuBox HD
 #EXTGRP: Познавательное
-http://cdn.iptv11.com/DiscoveryChannel/video.m3u8?token=9E7E92411DA7A
+http://hls127.homeiptv.org:8880/DocuBox_HD/video.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
-#EXTINF:0, MiTV UFO
+#EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
-http://cdn.iptv11.com/2002/video.m3u8?token=9E7E92411DA7A
+http://ott-cdn.ucom.am/s98/04.m3u8
+
 #EXTINF:0, Техно 24
 #EXTGRP: Познавательное
 https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
@@ -289,19 +296,20 @@ https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
 #EXTINF:0,Звезда Плюс 
 #EXTGRP: Познавательное
-http://woobl.ru/hls2/Zvezda_plus.m3u8
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:0,ОРУЖИЕ
 #EXTGRP: Познавательное
-https://bkm.beetv.kz/btv/live/hls/000000308.m3u8
+http://hls127.homeiptv.org:8880/Oruzhie/video.m3u8
 #EXTINF:0,Кто Есть Кто
 #EXTGRP: Познавательное
 https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
-#EXTINF:0,MiTV Города Советского Союза
-#EXTGRP: Познавательное
-http://cdn.iptv11.com/2007/video.m3u8?token=9E7E92411DA7A
+
 #EXTINF:0 tvg-rec="0",Авто 24
 #EXTGRP: Познавательное
-http://213.172.73.170:8081/nimble_live/1054__Avto_24/playlist.m3u8
+http://109.239.208.82/auto24/index.m3u8
+#EXTINF:0 tvg-rec="0",Авто+
+#EXTGRP: Познавательное
+http://94.232.104.237:8000/play/087/index.m3u8
 #EXTINF:0,MM Experiment HD
 #EXTGRP: Познавательное
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19412/index.m3u8
@@ -389,12 +397,12 @@ https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8
 #EXTGRP: Детский
 http://195.9.195.3:8080/hls/198446.m3u8
 
-#EXTINF:0,Мульт
+#EXTINF:0,O!
 #EXTGRP: кино
-http://moobl.ru/hls/Mult.m3u8
+http://94.232.104.237:8000/play/241/index.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
-http://moobl.ru/hls/Detsky_mir_hd.m3u8
+http://hls127.homeiptv.org:8880/Detskiy_Mir/video.m3u8
 
 #EXTINF:0,Карусель
 #EXTGRP: Детский
@@ -606,22 +614,25 @@ http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/6392/index.m3u8
 #EXTGRP: кино
 http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=A9JzEETTau0Ee3
 
-#EXTINF:0,MediaService Lorenz TV
+#EXTINF:0,Кинозал 1
 #EXTGRP: кино
-http://84.38.180.145:8080/Uhierjfk/index.m3u8
-#EXTINF:0,MiTV Ваш любимый детектив
+https://ipv4.bozztv.com/dvrfl07/ushba13/tracks-v1a1/mono.m3u8
+#EXTINF:0,Кинозал 2
 #EXTGRP: кино
-http://88.99.142.126/0005/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,MiTV Театр «Современник»
+https://ipv4.bozztv.com/dvrfl07/ushba14/tracks-v1a1/mono.m3u8
+#EXTINF:0,Кинозал 3
 #EXTGRP: кино
-http://88.99.142.126/0014/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,MiTV Улицы разбитых фонарей
+https://ipv4.bozztv.com/dvrfl07/ushba24/tracks-v1a1/mono.m3u8
+#EXTINF:0,Кинозал 4
 #EXTGRP: кино
-http://88.99.142.126/0930/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+https://ipv4.bozztv.com/dvrfl07/ushba26/tracks-v1a1/mono.m3u8
+#EXTINF:0,Кинозал 35
+#EXTGRP: кино
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 #EXTINF:0,MiTV Агент 007
 #EXTGRP: кино
 http://88.99.142.126/0094/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,MiTV Агент 007
+#EXTINF:0,troya Агент 007
 #EXTGRP: кино
 http://4.troya.one:34000/ch1214/mono.m3u8?token=ananev.f7RF1INn-8aO1ygfbg6gRgaBre9Q-EGucKC_3WPV1IUXxCGA9lNlnCFKp-N-FhE4
 #EXTINF:0,Агент 007
