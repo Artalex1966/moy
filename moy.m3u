@@ -287,7 +287,9 @@ https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 http://ott-cdn.ucom.am/s98/04.m3u8
-
+#EXTINF:0, National Geographic
+#EXTGRP: Познавательное
+http://stream02.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:0, Техно 24
 #EXTGRP: Познавательное
 https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
@@ -610,10 +612,10 @@ http://109.248.236.21:4433/udp/238.1.1.100:1234
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/6392/index.m3u8
-#EXTINF:0,IPTVPlay Память
-#EXTGRP: кино
-http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=A9JzEETTau0Ee3
 
+#EXTINF:0,Кинозал 16
+#EXTGRP: кино
+https://ipv4.bozztv.com/dvrfl07/ushba-films-t/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кинозал 1
 #EXTGRP: кино
 https://ipv4.bozztv.com/dvrfl07/ushba13/tracks-v1a1/mono.m3u8
