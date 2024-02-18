@@ -170,16 +170,13 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11060/index.m3u8
 #EXTINF:0,Cobra Thriller HD
 #EXTGRP: кино
 http://x3c1rsvw.ottclub.xyz/iptv/RU6QNP357UUZXT/20215/index.m3u8
-#EXTINF:0, CineMan Top
+#EXTINF:0, CineMan Action
 #EXTGRP: кино
-http://cdn.iptv11.com/845/video.m3u8?token=9E7E92411DA7A
+http://rhsbjv7k.tvclub.xyz/iptv/C7WL6QCNMEEGH4/11006/index.m3u8
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
 http://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:0,Кино ТВ+7
-#EXTGRP: кино
-http://live-1.otcnet.ru/kinosem/playlist.m3u8
 #EXTINF:0,Кинопоказ
 #EXTGRP: кино
 http://94.232.104.237:8000/play/047/index.m3u8
@@ -187,9 +184,6 @@ http://94.232.104.237:8000/play/047/index.m3u8
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/904/index.m3u8
 
-#EXTINF:0,Yosso TV Забавное
-#EXTGRP: кино
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/14234/index.m3u8
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/14234/index.m3u8
