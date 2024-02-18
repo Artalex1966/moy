@@ -161,9 +161,6 @@ http://cdn.iptv11.com/2258/video.m3u8?token=9E7E92411DA7A
 #EXTINF:0,Мисс Марпл
 #EXTGRP: кино
 http://88.99.142.126/0386/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,Мисс Марпл
-#EXTGRP: кино
-http://cdn.iptv11.com/2155/video.m3u8?token=9E7E92411DA7A
 #EXTINF:0,MM Агата Кристи HD
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/13024/index.m3u8
@@ -176,9 +173,10 @@ http://x3c1rsvw.ottclub.xyz/iptv/RU6QNP357UUZXT/20215/index.m3u8
 #EXTINF:0, CineMan Action
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/C7WL6QCNMEEGH4/11006/index.m3u8
-#EXTINF:0,BCU Action HD
+#EXTINF:0,BCU Action
 #EXTGRP: кино
-http://hls127.homeiptv.org:8880/BCUActionHD/video.m3u8
+http://hls10.homeiptv.org:8880/BCUActionHD/video.m3u8
+
 
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
@@ -192,7 +190,7 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/904/index.m3u8
 
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
-http://hls127.homeiptv.org:8880/YOSSO-ZABAVNOE/video.m3u8
+http://hls10.homeiptv.org:8880/YOSSO-ZABAVNOE/video.m3u8
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/14234/index.m3u8
@@ -208,7 +206,7 @@ http://hlstest.eltex-media.ru:8085/menfilm/index.m3u8
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0,BCU Cinema
 #EXTGRP: кино
-http://hls127.homeiptv.org:8880/BCUCinemaHD/video.m3u8
+http://hls10.homeiptv.org:8880/BCUCinemaHD/video.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
@@ -354,7 +352,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:0,СТС International
 #EXTGRP: эфир
-http://moobl.ru/hls/STS_int.m3u8
+http://ott-cdn.ucom.am/s52/04.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP: эфир
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
@@ -404,7 +402,7 @@ http://195.9.195.3:8080/hls/198446.m3u8
 http://94.232.104.237:8000/play/241/index.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
-http://hls127.homeiptv.org:8880/Detskiy_Mir/video.m3u8
+http://hls10.homeiptv.org:8880/Detskiy_Mir/video.m3u8
 
 #EXTINF:0,Карусель
 #EXTGRP: Детский
@@ -722,22 +720,22 @@ http://109.248.236.21:4433/udp/238.1.1.100:1234
 #EXTGRP: кино
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/6392/index.m3u8
 
-#EXTINF:0,Кинозал 16
+#EXTINF:0,Кинозалы 16
 #EXTGRP: кино
 https://ipv4.bozztv.com/dvrfl07/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозал 1
+#EXTINF:0,Кинозалы 1
 #EXTGRP: кино
 https://ipv4.bozztv.com/dvrfl07/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозал 2
+#EXTINF:0,Кинозалы 2
 #EXTGRP: кино
 https://ipv4.bozztv.com/dvrfl07/ushba14/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозал 3
+#EXTINF:0,Кинозалы 3
 #EXTGRP: кино
 https://ipv4.bozztv.com/dvrfl07/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозал 4
+#EXTINF:0,Кинозалы 4
 #EXTGRP: кино
 https://ipv4.bozztv.com/dvrfl07/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозал 35
+#EXTINF:0,Кинозалы 35
 #EXTGRP: кино
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 #EXTINF:0,MiTV Агент 007
