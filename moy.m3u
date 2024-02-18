@@ -280,13 +280,13 @@ https://streamer1.connectto.com/529/mono.m3u8
 http://185.32.44.154/DiscoveryChannelHD/index.m3u8
 #EXTINF:0,DocuBox HD
 #EXTGRP: Познавательное
-http://hls127.homeiptv.org:8880/DocuBox_HD/video.m3u8
+http://94.232.104.237:8000/play/205/index.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
-http://ott-cdn.ucom.am/s98/04.m3u8
+http://109.239.208.82/nauka20/index.m3u8
 #EXTINF:0, National Geographic
 #EXTGRP: Познавательное
 http://stream02.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
@@ -301,7 +301,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:0,ОРУЖИЕ
 #EXTGRP: Познавательное
-http://hls127.homeiptv.org:8880/Oruzhie/video.m3u8
+http://185.37.150.40:8092/orujie/playlist.m3u8
 #EXTINF:0,Кто Есть Кто
 #EXTGRP: Познавательное
 https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
