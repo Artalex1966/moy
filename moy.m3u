@@ -11,16 +11,19 @@ http://cdn.iptv11.com/2221/video.m3u8?token=9E7E92411DA7A
 http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/10084/index.m3u8
 #EXTINF:0,Беларусьфильм
 #EXTGRP: кино
-http://pe7bw0xr.tvclub.xyz/iptv/27HZBNKDKT9BRH/18125/index.m3u8
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18125/index.m3u8
 #EXTINF:0,Киностудия Горького
 #EXTGRP: кино
-http://pe7bw0xr.tvclub.xyz/iptv/27HZBNKDKT9BRH/18122/index.m3u8
+http://yfleknat.tvclub.xyz/iptv/YRUL7ULLXSR9T9/18122/index.m3u8
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/C7WL6QCNMEEGH4/10085/index.m3u8
-#EXTINF:0,+TV
+http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/10085/index.m3u8
+#EXTINF:0,MiTV Старый добрый фильм
 #EXTGRP: кино
-http://178.124.179.122:8088/PlusTV/index.m3u8
+http://88.99.142.126/0909/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,MiTV Советские детские фильмы
+#EXTGRP: кино
+http://88.99.142.126/00116/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -157,7 +160,7 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13082/index.m3u8
 http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/13082/index.m3u8
 #EXTINF:0,Коломбо
 #EXTGRP: кино
-http://cdn.iptv11.com/2258/video.m3u8?token=9E7E92411DA7A
+http://88.99.142.126/0813/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,Мисс Марпл
 #EXTGRP: кино
 http://88.99.142.126/0386/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
@@ -303,6 +306,9 @@ http://185.37.150.40:8092/orujie/playlist.m3u8
 #EXTINF:0,Кто Есть Кто
 #EXTGRP: Познавательное
 https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
+#EXTINF:0,MiTV UFO
+#EXTGRP: Познавательное
+http://88.99.142.126/0003/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 
 #EXTINF:0 tvg-rec="0",Авто 24
 #EXTGRP: Познавательное
@@ -310,12 +316,12 @@ http://109.239.208.82/auto24/index.m3u8
 #EXTINF:0 tvg-rec="0",Авто+
 #EXTGRP: Познавательное
 http://94.232.104.237:8000/play/087/index.m3u8
-#EXTINF:0,MM Experiment HD
+#EXTINF:0,MiTV Разрушители легенд
 #EXTGRP: Познавательное
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19412/index.m3u8
+http://88.99.142.126/3066/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,MM Открытия HD
 #EXTGRP: Познавательное
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19415/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/19415/index.m3u8
 ---
 
 ----
@@ -396,6 +402,9 @@ https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8
 #EXTINF:0,Мультики и Сказки HD
 #EXTGRP: Детский
 http://195.9.195.3:8080/hls/198446.m3u8
+#EXTINF:0,MiTV Щенячий патруль
+#EXTGRP: Детский
+http://88.99.142.126/3007/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 
 #EXTINF:0,O!
 #EXTGRP: кино
