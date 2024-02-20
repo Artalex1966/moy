@@ -207,9 +207,9 @@ http://hlstest.eltex-media.ru:8085/menfilm/index.m3u8
 #EXTINF:0,ТВОЕ ТВ
 #EXTGRP: кино
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:0,BCU Cinema
+#EXTINF:0,CineMan TOP
 #EXTGRP: кино
-http://fgrux1bj.ukminlt.fun/iptv/V9PN3EDPEX5H45/11029/index.m3u8
+http://fgrux1bj.ukminlt.fun/iptv/V9PN3EDPEX5H45/11005/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
