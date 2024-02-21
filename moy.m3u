@@ -3,9 +3,6 @@
 #EXTINF:0,MiTV Клон
 #EXTGRP: кино
 http://88.99.142.126/0454/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,MiTV Клон
-#EXTGRP: кино
-http://cdn.iptv11.com/2221/video.m3u8?token=9E7E92411DA7A
 #EXTINF:0,Мосфильм
 #EXTGRP: кино
 http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/10084/index.m3u8
@@ -14,7 +11,7 @@ http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/10084/index.m3u8
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18125/index.m3u8
 #EXTINF:0,Киностудия Горького
 #EXTGRP: кино
-http://yfleknat.tvclub.xyz/iptv/YRUL7ULLXSR9T9/18122/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/18122/index.m3u8
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/10085/index.m3u8
@@ -616,113 +613,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 
 
-=============
-#EXTINF:-1 tvg-name="Кинозалы 1  [Ushba TV]" group-title="Разное",Кинозалы 1  [Ushba TV] [640x270]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 10  [Ushba TV]" group-title="Разное",Кинозалы 10  [Ushba TV] [592x320]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 11  [Ushba TV]" group-title="Разное",Кинозалы 11  [Ushba TV] [576x320]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-films-h/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 12  [Ushba TV]" group-title="Разное",Кинозалы 12  [Ushba TV] [576x304]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-films-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 13  [Ushba TV]" group-title="Разное",Кинозалы 13  [Ushba TV] [704x384]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-films-j/index.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 14  [Ushba TV]" group-title="Разное",Кинозалы 14  [Ushba TV] [720x384]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 15  [Ushba TV]" group-title="Разное",Кинозалы 15  [Ushba TV] [720x304]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 16  [Ushba TV]" group-title="Разное",Кинозалы 16  [Ushba TV] [672x400]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 17  [Ushba TV]" group-title="Разное",Кинозалы 17  [Ushba TV] [704x304]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 18  [Ushba TV]" group-title="Разное",Кинозалы 18  [Ushba TV] [720x384]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-films-n/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 19  [Ushba TV]" group-title="Разное",Кинозалы 19  [Ushba TV] [624x344]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 2  [Ushba TV]" group-title="Разное",Кинозалы 2  [Ushba TV] [1280x720]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba14/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 20  [Ushba TV]" group-title="Разное",Кинозалы 20  [Ushba TV] [508x288]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 21  [Ushba TV]" group-title="Разное",Кинозалы 21  [Ushba TV] [640x352]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-films-o/index.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 22  [Ushba TV]" group-title="Разное",Кинозалы 22  [Ushba TV] [720x364]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-films-s/index.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 23  [Ushba TV]" group-title="Разное",Кинозалы 23  [Ushba TV] [720x384]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-films-w/index.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 24  [Ushba TV]" group-title="Разное",Кинозалы 24  [Ushba TV] [668x416]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 25  [Ushba TV]" group-title="Разное",Кинозалы 25  [Ushba TV] [704x538]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 26  [Ushba TV]" group-title="Разное",Кинозалы 26  [Ushba TV] [720x340]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-b/index.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 27  [Ushba TV]" group-title="Разное",Кинозалы 27  [Ushba TV] [718x544]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 28  [Ushba TV]" group-title="Разное",Кинозалы 28  [Ushba TV] [640x480]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 29  [Ushba TV]" group-title="Разное",Кинозалы 29  [Ushba TV] [718x574]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 3  [Ushba TV]" group-title="Разное",Кинозалы 3  [Ushba TV] [1280x720]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 30  [Ushba TV]" group-title="Разное",Кинозалы 30  [Ushba TV] [672x352]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 31  [Ushba TV]" group-title="Разное",Кинозалы 31  [Ushba TV] [688x512]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 32  [Ushba TV]" group-title="Разное",Кинозалы 32  [Ushba TV] [704x544]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-k/index.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 33  [Ushba TV]" group-title="Разное",Кинозалы 33  [Ushba TV] [640x480]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 34  [Ushba TV]" group-title="Разное",Кинозалы 34  [Ushba TV] [704x512]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 35  [Ushba TV]" group-title="Разное",Кинозалы 35  [Ushba TV] [696x320]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 4  [Ushba TV]" group-title="Разное",Кинозалы 4  [Ushba TV] [1280x720]
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-https://ipv4.bozztv.com/dvrfl07/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 5  [Ushba TV]" group-title="Разное",Кинозалы 5  [Ushba TV] [720x304]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 6  [Ushba TV]" group-title="Разное",Кинозалы 6  [Ushba TV] [640x272]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 7  [Ushba TV]" group-title="Разное",Кинозалы 7  [Ushba TV] [720x304]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-films-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 8  [Ushba TV]" group-title="Разное",Кинозалы 8  [Ushba TV] [672x272]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 9  [Ushba TV]" group-title="Разное",Кинозалы 9  [Ushba TV] [720x298]
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-https://ipv4.bozztv.com/dvrfl07/ushba-films-f/tracks-v1a1/mono.m3u8
-
 ======================
 
 #EXTINF:0,Мосфильм. Золотая коллекция
@@ -732,22 +622,7 @@ http://109.248.236.21:4433/udp/238.1.1.100:1234
 #EXTGRP: кино
 http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/6392/index.m3u8
 
-#EXTINF:0,Кинозалы 16
-#EXTGRP: кино
-https://ipv4.bozztv.com/dvrfl07/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 1
-#EXTGRP: кино
-https://ipv4.bozztv.com/dvrfl07/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 2
-#EXTGRP: кино
-https://ipv4.bozztv.com/dvrfl07/ushba14/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 3
-#EXTGRP: кино
-https://ipv4.bozztv.com/dvrfl07/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 4
-#EXTGRP: кино
-https://ipv4.bozztv.com/dvrfl07/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 35
+
 #EXTGRP: кино
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 #EXTINF:0,MiTV Агент 007
