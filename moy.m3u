@@ -600,6 +600,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/19304/index.m3u8
 #EXTINF:0,Prokop TV Сказки СССР
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/19317/index.m3u8
+#EXTINF:0,IPTVPLAY МультСказки
+#EXTGRP: кино
+http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 
 
 #EXTINF:0,Россия 24
