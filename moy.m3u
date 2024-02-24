@@ -15,6 +15,9 @@ http://fgrux1bj.ukminlt.fun/iptv/V9PN3EDPEX5H45/18122/index.m3u8
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/10085/index.m3u8
+#EXTINF:0,TVPlay Советское Кино
+#EXTGRP: кино
+http://95.143.191.33:5050/TVPlaySovKinoHD.tv/video.m3u8?token=YcxPBZP54byH82
 #EXTINF:0,MiTV Старый добрый фильм
 #EXTGRP: кино
 http://88.99.142.126/0909/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
@@ -55,6 +58,9 @@ http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/11026/index.m3u8
 #EXTINF:0, Кинозал СССР
 #EXTGRP: кино
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/862S4G3MF5A432/11061/index.m3u8
+#EXTINF:0, Советская Киноклассика
+#EXTGRP: кино
+http://hls.k-telecom.org:8081/kt/125/playlist.m3u8
 
 #EXTINF:0,Сити Эдем - Кино Классика
 #EXTGRP: кино
@@ -140,6 +146,9 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/13094/index.m3u8
 #EXTINF:0,VF Теория большого взрыва
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/15009/index.m3u8
+#EXTINF:0,Приколы 1  [Ushba TV]
+#EXTGRP: кино
+https://ipv4.bozztv.com/dvrfl07/ushba11/tracks-v1a1/mono.m3u8
 #EXTINF:0,VF 6 кадров
 #EXTGRP: кино
 http://88.99.142.126/0333/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
@@ -163,7 +172,7 @@ http://88.99.142.126/0813/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 http://88.99.142.126/0386/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,MM Агата Кристи HD
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/K3VWCFWK7UAKK7/13024/index.m3u8
+http://dc67ba57.cbilant.com/iptv/SESPZVV922UXEK/13024/index.m3u8
 #EXTINF:0,Кинозал! Интерны ТВ
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11060/index.m3u8
@@ -300,6 +309,9 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
 #EXTINF:0,Звезда Плюс 
 #EXTGRP: Познавательное
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
+#EXTINF:0,MiTV Компьютеры в СССР - как это было
+#EXTGRP: Познавательное
+http://88.99.142.126/00107/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,ОРУЖИЕ
 #EXTGRP: Познавательное
 http://185.37.150.40:8092/orujie/playlist.m3u8
@@ -405,6 +417,9 @@ http://195.9.195.3:8080/hls/198446.m3u8
 #EXTINF:0,MiTV Щенячий патруль
 #EXTGRP: Детский
 http://88.99.142.126/3007/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,MiTV Фиксики
+#EXTGRP: Детский
+http://88.99.142.126/0326/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 
 #EXTINF:0,O!
 #EXTGRP: кино
@@ -461,6 +476,8 @@ https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:0,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+
+
 
 ----
 #EXTINF:0,Музыка 1 International
