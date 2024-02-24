@@ -8,10 +8,10 @@ http://88.99.142.126/0454/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/10084/index.m3u8
 #EXTINF:0,Беларусьфильм
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/18125/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/72GDQ7UXN3TCEZ/2402/index.m3u8
 #EXTINF:0,Киностудия Горького
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/18122/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/72GDQ7UXN3TCEZ/2402/index.m3u8
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/10085/index.m3u8
@@ -619,6 +619,22 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 ==================
 #EXTINF:0,MiTV Мосфильм 1
 http://88.99.142.126/10001/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,MiTV Мосфильм 2
+http://88.99.142.126/10002/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,MiTV Мосфильм 3
+http://88.99.142.126/10003/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,MiTV Мосфильм 4
+http://88.99.142.126/10004/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,MiTV Мосфильм 5
+http://88.99.142.126/10005/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,MiTV Мосфильм 6
+http://88.99.142.126/10006/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,MiTV Мосфильм 7
+http://88.99.142.126/10007/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,MiTV Мосфильм 8
+http://88.99.142.126/10008/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,MiTV Мосфильм 9
+http://88.99.142.126/10009/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,MiTV Мосфильм 10
 http://88.99.142.126/10010/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,MiTV Мосфильм 11
@@ -639,24 +655,8 @@ http://88.99.142.126/10017/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 http://88.99.142.126/10018/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,MiTV Мосфильм 19
 http://88.99.142.126/10019/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,MiTV Мосфильм 2
-http://88.99.142.126/10002/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,MiTV Мосфильм 20
 http://88.99.142.126/10020/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,MiTV Мосфильм 3
-http://88.99.142.126/10003/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,MiTV Мосфильм 4
-http://88.99.142.126/10004/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,MiTV Мосфильм 5
-http://88.99.142.126/10005/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,MiTV Мосфильм 6
-http://88.99.142.126/10006/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,MiTV Мосфильм 7
-http://88.99.142.126/10007/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,MiTV Мосфильм 8
-http://88.99.142.126/10008/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,MiTV Мосфильм 9
-http://88.99.142.126/10009/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 ======================
 
 #EXTINF:0,Мосфильм. Золотая коллекция
