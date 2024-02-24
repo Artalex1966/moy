@@ -8,10 +8,10 @@ http://88.99.142.126/0454/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/10084/index.m3u8
 #EXTINF:0,Беларусьфильм
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/72GDQ7UXN3TCEZ/2402/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/72GDQ7UXN3TCEZ/18125/index.m3u8
 #EXTINF:0,Киностудия Горького
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/72GDQ7UXN3TCEZ/2402/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/72GDQ7UXN3TCEZ/18122/index.m3u8
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/10085/index.m3u8
@@ -657,6 +657,10 @@ http://88.99.142.126/10018/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 http://88.99.142.126/10019/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,MiTV Мосфильм 20
 http://88.99.142.126/10020/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,MiTV Киностудия Горького
+http://88.99.142.126/0009/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,MiTV Беларусьфильм
+http://88.99.142.126/0464/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 ======================
 
 #EXTINF:0,Мосфильм. Золотая коллекция
