@@ -92,10 +92,6 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18073/index.m3u8
 #EXTINF:0,Военное кино
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18072/index.m3u8
-#EXTINF:0,MM USSR 1941-1945 HD
-#EXTGRP: кино
-http://fgrux1bj.ukminlt.fun/iptv/V9PN3EDPEX5H45/13018/index.m3u8
-
 #EXTINF:0,Родное кино
 #EXTGRP: кино
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
@@ -599,9 +595,18 @@ http://lzhifbas.otttv.pw/iptv/BQM7ZK5X2WWXTF/20220/index.m3u8
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА
 #EXTGRP: кино
 https://iptvplay.catcast.tv/content/38801/index.m3u8
+#EXTINF:0,MiTV Агент 007
+#EXTGRP: кино
+http://88.99.142.126/0094/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,troya Агент 007
+#EXTGRP: кино
+http://4.troya.one:34000/ch1214/mono.m3u8?token=ananev.f7RF1INn-8aO1ygfbg6gRgaBre9Q-EGucKC_3WPV1IUXxCGA9lNlnCFKp-N-FhE4
+#EXTINF:0,Агент 007
+#EXTGRP: кино
+http://lrfdzo0r.tvclub.xyz/iptv/Q9P4KKCV6KVQQD/31715/index.m3u8
 
 
-
+================
 #EXTINF:0,TOP USSR HD
 #EXTGRP: кино
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/13005/index.m3u8
@@ -669,17 +674,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/19317/index.m3u8
 http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 
 
-#EXTINF:0,Россия 24
-#EXTGRP: эфир
-http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
-#EXTINF:0,Россия 1
-#EXTGRP: эфир
-http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
-#EXTINF:0,Первый канал
-#EXTGRP: эфир
-http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
-
-
 ==================
 #EXTINF:0,MiTV Мосфильм 1
 http://88.99.142.126/10001/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
@@ -727,25 +721,26 @@ http://88.99.142.126/0009/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 http://88.99.142.126/0464/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 ======================
 
-#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTINF:0,FILM TV
 #EXTGRP: кино
-http://109.248.236.21:4433/udp/238.1.1.100:1234
-#EXTINF:0,Мосфильм. Золотая коллекция
+http://hlss.goodgame.ru/hls/157269.m3u8
+#EXTINF:0,FILM TV2
 #EXTGRP: кино
-http://vkt7de4u.ottclub.xyz/iptv/UWNY8LY95DLV97/6392/index.m3u8
+http://hlss.goodgame.ru/hls/163253.m3u8
+#EXTINF:0,FILM TV3
+#EXTGRP: кино
+http://hlss.goodgame.ru/hls/204708.m3u8
+#EXTINF:0,FILM TV4
+#EXTGRP: кино
+http://hlss.goodgame.ru/hls/204717.m3u8
+#EXTINF:0,FILM TV5
+#EXTGRP: кино
+http://hlss.goodgame.ru/hls/204722.m3u8
+#EXTINF:0,FILM TV6
+#EXTGRP: кино
+http://hlss.goodgame.ru/hls/206461.m3u8
 
 
-#EXTGRP: кино
-https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF:0,MiTV Агент 007
-#EXTGRP: кино
-http://88.99.142.126/0094/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,troya Агент 007
-#EXTGRP: кино
-http://4.troya.one:34000/ch1214/mono.m3u8?token=ananev.f7RF1INn-8aO1ygfbg6gRgaBre9Q-EGucKC_3WPV1IUXxCGA9lNlnCFKp-N-FhE4
-#EXTINF:0,Агент 007
-#EXTGRP: кино
-http://lrfdzo0r.tvclub.xyz/iptv/Q9P4KKCV6KVQQD/31715/index.m3u8
 #EXTINF:0,Голубой огонек
 #EXTGRP: Музыка
 http://88.99.142.126/0007/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
