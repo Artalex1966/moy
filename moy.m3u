@@ -64,19 +64,19 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/862S4G3MF5A432/11061/inde
 #EXTINF:0, Советская Киноклассика
 #EXTGRP: кино
 http://hls.k-telecom.org:8081/kt/125/playlist.m3u8
+==
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: кино
+http://woobl.ru/hls987/Mosfilm.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: кино
+http://ott.server-iptv.live/659/video.m3u8?token=SA78E90643
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: кино
+http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
+==
 
-#EXTINF:0,Сити Эдем - Кино Классика
-#EXTGRP: кино
-https://autopilot.catcast.tv/content/34185/index.m3u8
-#EXTINF:0,Сити Эдем - Кино Экшен
-#EXTGRP: кино
-https://autopilot.catcast.tv/content/41333/index.m3u8
-#EXTINF:0,Сити Эдем - Кино Комедия
-#EXTGRP: кино
-https://autopilot.catcast.tv/content/41331/index.m3u8
-#EXTINF:0,Сити Эдем - Кино Детектив
-#EXTGRP: кино
-https://autopilot.catcast.tv/content/41327/index.m3u8
+
 #EXTINF:0,Кино 1
 #EXTGRP: кино
 http://udx8otqf.megatv.fun/iptv/LA6R78MSWZYFXS/18069/index.m3u8
@@ -96,29 +96,18 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18073/index.m3u8
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18072/index.m3u8
 
-
-#EXTINF:0,Мосфильм. Золотая коллекция
-#EXTGRP: кино
-http://woobl.ru/hls987/Mosfilm.m3u8
-#EXTINF:0,Мосфильм. Золотая коллекция
-#EXTGRP: кино
-http://ott.server-iptv.live/659/video.m3u8?token=SA78E90643
-#EXTINF:0,Мосфильм. Золотая коллекция
-#EXTGRP: кино
-http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
-
-#EXTINF:0,ВИДЕОКАССЕТА
-#EXTGRP: кино
-https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
-#EXTINF:0,VHS-ка
-#EXTGRP: кино
-http://strm.yandex.ru/kal/vhs_ka/vhs_ka0.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://hls.k-telecom.org:8081/kt/23/playlist.m3u8
+
+
+
+
+
+
 
 ----
 #EXTINF:0,VF Друзья
@@ -152,21 +141,6 @@ http://88.99.142.126/0401/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,VF Теория большого взрыва
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/15009/index.m3u8
-#EXTINF:0,Приколы 1  [Ushba TV]
-#EXTGRP: кино
-https://ipv4.bozztv.com/dvrfl07/ushba11/tracks-v1a1/mono.m3u8
-#EXTINF:0,VF 6 кадров
-#EXTGRP: кино
-http://88.99.142.126/0333/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,Наша раша
-#EXTGRP: кино
-http://88.99.142.126/0706/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
-#EXTINF:0,Каламбур
-#EXTGRP: кино
-http://88.99.142.126/0035/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
-#EXTINF:0,ТВОЕ ТВ HD - ЮМОР
-#EXTGRP: кино
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13082/index.m3u8
@@ -182,61 +156,31 @@ http://88.99.142.126/0386/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,MM Агата Кристи HD
 #EXTGRP: кино
 http://dc67ba57.cbilant.com/iptv/SESPZVV922UXEK/13024/index.m3u8
+==============
+#EXTINF:0,Приколы 1  [Ushba TV]
+#EXTGRP: кино
+https://ipv4.bozztv.com/dvrfl07/ushba11/tracks-v1a1/mono.m3u8
+#EXTINF:0,VF 6 кадров
+#EXTGRP: кино
+http://88.99.142.126/0333/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,Наша раша
+#EXTGRP: кино
+http://88.99.142.126/0706/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
+#EXTINF:0,Каламбур
+#EXTGRP: кино
+http://88.99.142.126/0035/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
+#EXTINF:0,ТВОЕ ТВ HD - ЮМОР
+#EXTGRP: кино
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:0,Кинозал! Интерны ТВ
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11060/index.m3u8
-#EXTINF:0,Cobra Thriller HD
-#EXTGRP: кино
-http://x3c1rsvw.ottclub.xyz/iptv/RU6QNP357UUZXT/20215/index.m3u8
-#EXTINF:0, CineMan Action
-#EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/C7WL6QCNMEEGH4/11006/index.m3u8
-#EXTINF:0,BCU Action
-#EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/11027/index.m3u8
+==================
 
 
-#EXTINF:0,Кино ТВ
-#EXTGRP: кино
-http://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:0,Кинопоказ
-#EXTGRP: кино
-http://94.232.104.237:8000/play/047/index.m3u8
-#EXTINF:0,Остросюжетное HD
-#EXTGRP: кино
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/904/index.m3u8
 
-#EXTINF:0,Yosso TV Забавное
-#EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/14234/index.m3u8
-#EXTINF:0,Yosso TV Забавное
-#EXTGRP: кино
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/14234/index.m3u8
-#EXTINF:0,Magic Action HD
-#EXTGRP: кино
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18066/index.m3u8
-#EXTINF:0, Мужское кино HD
-#EXTGRP: кино
-http://hlstest.eltex-media.ru:8085/menfilm/index.m3u8
 
-#EXTINF:0,ТВОЕ ТВ
-#EXTGRP: кино
-http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:0,CineMan TOP
-#EXTGRP: кино
-http://fgrux1bj.ukminlt.fun/iptv/V9PN3EDPEX5H45/11005/index.m3u8
-#EXTINF:0,Cinema
-#EXTGRP: кино
-https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
-#EXTINF:0,1FILMAX
-#EXTGRP: кино
-https://hls.goodgame.ru/hls/204708_720.m3u8
-#EXTINF:0,2FILMAX
-#EXTGRP: кино
-https://hls.goodgame.ru/hls/204717.m3u8
-#EXTINF:0,Фантастика HD
-#EXTGRP: кино
-https://hls.goodgame.ru/hls/187241.m3u8
+
 
 ---
 
@@ -252,8 +196,6 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?v
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2
-
-
 #EXTINF:0,НТВ
 #EXTGRP: эфир
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
@@ -274,20 +216,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 
 ---
-#EXTINF:0,Киномикс
-#EXTGRP: кино
-https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
-#EXTINF:0,Кинохит
-#EXTGRP: кино
-https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
-#EXTINF:0,Киносемья
-#EXTGRP: кино
-https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
-#EXTINF:0,Кинопремьера
-#EXTGRP: кино
-https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
-----
-
+==========
 #EXTINF:0,Galaxy
 #EXTGRP: Познавательное
 https://streamer1.connectto.com/529/mono.m3u8
@@ -360,9 +289,95 @@ https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
 #EXTINF:0,Документалка 1
 #EXTGRP: Познавательное
 https://ipv4.bozztv.com/dvrfl07/ushba28/tracks-v1a1/mono.m3u8
+======================
+
+
+#EXTINF:0,Cinema
+#EXTGRP: кино
+https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+#EXTINF:0,1FILMAX
+#EXTGRP: кино
+https://hls.goodgame.ru/hls/204708_720.m3u8
+#EXTINF:0,2FILMAX
+#EXTGRP: кино
+https://hls.goodgame.ru/hls/204717.m3u8
+#EXTINF:0,Фантастика HD
+#EXTGRP: кино
+https://hls.goodgame.ru/hls/187241.m3u8
+#EXTINF:0,Cobra Thriller HD
+#EXTGRP: кино
+http://158.101.194.132:8888/channel/56064960/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
+#EXTINF:0,Кино ТВ
+#EXTGRP: кино
+http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:0,Кинопоказ
+#EXTGRP: кино
+http://94.232.104.237:8000/play/047/index.m3u8
+#EXTINF:0,Остросюжетное HD
+#EXTGRP: кино
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/904/index.m3u8
+#EXTINF:0,Yosso TV Забавное
+#EXTGRP: кино
+http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/14234/index.m3u8
+#EXTINF:0,Yosso TV Забавное
+#EXTGRP: кино
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/14234/index.m3u8
+#EXTINF:0,Magic Action HD
+#EXTGRP: кино
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18066/index.m3u8
+#EXTINF:0, Мужское кино HD
+#EXTGRP: кино
+http://hlstest.eltex-media.ru:8085/menfilm/index.m3u8
+#EXTINF:0, CineMan Action
+#EXTGRP: кино
+http://rhsbjv7k.tvclub.xyz/iptv/C7WL6QCNMEEGH4/11006/index.m3u8
+#EXTINF:0,BCU Action
+#EXTGRP: кино
+http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/11027/index.m3u8
+#EXTINF:0,CineMan TOP
+#EXTGRP: кино
+http://fgrux1bj.ukminlt.fun/iptv/V9PN3EDPEX5H45/11005/index.m3u8
+#EXTINF:0,ВИДЕОКАССЕТА
+#EXTGRP: кино
+https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
+#EXTINF:0,VHS-ка
+#EXTGRP: кино
+http://strm.yandex.ru/kal/vhs_ka/vhs_ka0.m3u8
+#EXTINF:0,Сити Эдем - Кино Классика
+#EXTGRP: кино
+https://autopilot.catcast.tv/content/34185/index.m3u8
+#EXTINF:0,Сити Эдем - Кино Экшен
+#EXTGRP: кино
+https://autopilot.catcast.tv/content/41333/index.m3u8
+#EXTINF:0,Сити Эдем - Кино Комедия
+#EXTGRP: кино
+https://autopilot.catcast.tv/content/41331/index.m3u8
+#EXTINF:0,Сити Эдем - Кино Детектив
+#EXTGRP: кино
+https://autopilot.catcast.tv/content/41327/index.m3u8
+
+
+
+
+#EXTINF:0,Киномикс
+#EXTGRP: кино
+https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
+#EXTINF:0,Кинохит
+#EXTGRP: кино
+https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
+#EXTINF:0,Киносемья
+#EXTGRP: кино
+https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
+#EXTINF:0,Кинопремьера
+#EXTGRP: кино
+https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
+----
+
 
 ---
-
+#EXTINF:0,ТВОЕ ТВ
+#EXTGRP: кино
+http://tvoetv.space:8080/tvoetv/index.m3u8
 ----
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
@@ -417,22 +432,6 @@ http://ru.seetv.cc/play/9/E5E8424564E73AE/video.m3u8
 
 ---
 
-
-#EXTINF:0,Кинопремьера HD
-#EXTGRP: кино
-https://tbs01-edge11.itdc.ge/kinopremyerahd/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кино ТВ
-#EXTGRP: кино
-http://vod.tuva.ru/kinotv/index.m3u8
-
-
--------
-#EXTINF:0, Наука 2.0
-#EXTGRP: Познавательное
-http://stream01.vnet.am/Nauka/mono.m3u8
-#EXTINF:0,Звезда Плюс HD
-#EXTGRP: эфир
-http://stv.mediacdn.ru/live/cdn/zvezdaplus/playlist_hdhigh.m3u8
 
 ------
 #EXTINF:0,Lolo TV
@@ -556,6 +555,14 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19284/index.m3u8
 #EXTGRP: игры
 http://iptv.prosto.tv:7000/ch322/video.m3u8?secret=xxxxxxxx
 =============================
+-------
+#EXTINF:0, Наука 2.0
+#EXTGRP: Познавательное
+http://stream01.vnet.am/Nauka/mono.m3u8
+#EXTINF:0,Звезда Плюс HD
+#EXTGRP: эфир
+http://stv.mediacdn.ru/live/cdn/zvezdaplus/playlist_hdhigh.m3u8
+
 #EXTINF:0,Akudji
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/5346.m3u8
