@@ -288,6 +288,9 @@ https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
 #EXTINF:0,Galaxy
 #EXTGRP: Познавательное
 https://streamer1.connectto.com/529/mono.m3u8
+#EXTINF:0,Kosmo
+#EXTGRP: Познавательное
+http://88.99.142.126/3027/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
@@ -303,12 +306,15 @@ https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 http://109.239.208.82/nauka20/index.m3u8
+#EXTINF:0,Галилео
+#EXTGRP: Познавательное
+http://88.99.142.126/0414/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
 #EXTINF:0, National Geographic
 #EXTGRP: Познавательное
 http://stream02.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
-#EXTINF:0, Техно 24
+#EXTINF:0,Лекторий Достоевский
 #EXTGRP: Познавательное
-https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
+https://ipv4.bozztv.com/dvrfl07/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP: Познавательное
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
@@ -318,6 +324,12 @@ http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:0,MiTV Компьютеры в СССР - как это было
 #EXTGRP: Познавательное
 http://88.99.142.126/00107/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,Города Советского Союза
+#EXTGRP: Познавательное
+http://88.99.142.126/0008/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
+#EXTINF:0,Star Media
+#EXTGRP: Познавательное
+https://ipv4.bozztv.com/dvrfl07/ushba4/tracks-v1a1/mono.m3u8
 #EXTINF:0,ОРУЖИЕ
 #EXTGRP: Познавательное
 http://185.37.150.40:8092/orujie/playlist.m3u8
@@ -327,7 +339,6 @@ https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
 #EXTINF:0,MiTV UFO
 #EXTGRP: Познавательное
 http://88.99.142.126/0003/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-
 #EXTINF:0 tvg-rec="0",Авто 24
 #EXTGRP: Познавательное
 http://109.239.208.82/auto24/index.m3u8
@@ -340,6 +351,13 @@ http://88.99.142.126/3066/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,MM Открытия HD
 #EXTGRP: Познавательное
 http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/19415/index.m3u8
+#EXTINF:0, Техно 24
+#EXTGRP: Познавательное
+https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
+#EXTINF:0,Документалка 1
+#EXTGRP: Познавательное
+https://ipv4.bozztv.com/dvrfl07/ushba28/tracks-v1a1/mono.m3u8
+
 ---
 
 ----
@@ -426,6 +444,12 @@ http://88.99.142.126/3007/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,MiTV Фиксики
 #EXTGRP: Детский
 http://88.99.142.126/0326/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,Вспышки чудо-машинки
+#EXTGRP: Детский
+http://88.99.142.126/3005/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
+#EXTINF:0,Утиные истории
+#EXTGRP: Детский
+http://88.99.142.126/0083/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
 
 #EXTINF:0,O!
 #EXTGRP: кино
@@ -472,10 +496,16 @@ https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:0,Советские мультфильмы
 #EXTGRP: Детский
+http://88.99.142.126/0018/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
+#EXTINF:0,Советские мультфильмы
+#EXTGRP: Детский
 http://am01.spr24.net/20849/index.m3u8?token=YRZ9ep8ifpCCr6
 #EXTINF:0,VF Союзмультфильм
 #EXTGRP: Детский
 http://rhsbjv7k.tvclub.xyz/iptv/HAA39Q9RE8T9CA/14238/index.m3u8
+#EXTINF:0,Спокойной ночи, малыши!
+#EXTGRP: Детский
+http://88.99.142.126/0019/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
 #EXTINF:0,TiJi
 #EXTGRP: Детский
 https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
@@ -507,17 +537,22 @@ https://pub0202.101.ru:8443/stream/pro/aac/64/53
 
 ---
 
-
+#EXTINF:0,Gameplay трейлеры
+#EXTGRP: игры
+https://ipv4.bozztv.com/dvrfl07/ushba44/index.m3u8
+#EXTINF:0,Gameplay
+#EXTGRP: игры
+https://ipv4.bozztv.com/dvrfl07/ushba31/tracks-v1a1/mono.m3u8
 #EXTINF:0,E TV
-#EXTGRP: кино
+#EXTGRP: игры
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:0,Game Show
-#EXTGRP: кино
+#EXTGRP: игры
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19284/index.m3u8
 #EXTINF:0,Prosto GAME
-#EXTGRP: кино
+#EXTGRP: игры
 http://iptv.prosto.tv:7000/ch322/video.m3u8?secret=xxxxxxxx
-
+=============================
 #EXTINF:0,Akudji
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/5346.m3u8
@@ -705,6 +740,9 @@ http://4.troya.one:34000/ch1214/mono.m3u8?token=ananev.f7RF1INn-8aO1ygfbg6gRgaBr
 #EXTINF:0,Агент 007
 #EXTGRP: кино
 http://lrfdzo0r.tvclub.xyz/iptv/Q9P4KKCV6KVQQD/31715/index.m3u8
+#EXTINF:0,Голубой огонек
+#EXTGRP: Музыка
+http://88.99.142.126/0007/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
 
 #EXTINF:0,Конец
 
