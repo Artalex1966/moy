@@ -8,13 +8,13 @@ http://88.99.142.126/0107/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
 http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/10084/index.m3u8
 #EXTINF:0,Беларусьфильм
 #EXTGRP: кино
-http://fgrux1bj.ukminlt.fun/iptv/V9PN3EDPEX5H45/18125/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/K3VWCFWK7UAKK7/18125/index.m3u8
 #EXTINF:0,Киностудия Горького
 #EXTGRP: кино
-http://fgrux1bj.ukminlt.fun/iptv/V9PN3EDPEX5H45/18122/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/18122/index.m3u8
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
-http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/10085/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/10085/index.m3u8
 #EXTINF:0,TVPlay Советское Кино
 #EXTGRP: кино
 http://95.143.191.33:5050/TVPlaySovKinoHD.tv/video.m3u8?token=YcxPBZP54byH82
@@ -36,10 +36,10 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13019/index.m3u8
 http://dc67ba57.cbilant.com/iptv/SESPZVV922UXEK/19301/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
-http://udx8otqf.megatv.fun/iptv/LA6R78MSWZYFXS/13037/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/13037/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
-http://c6bd3474.rossteleccom.net/iptv/WLCDAMB56R7DMS/13037/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/LQTD3Z4445XSB5/13037/index.m3u8
 #EXTINF:0,Москва Доверие
 #EXTGRP: эфир
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
@@ -101,12 +101,7 @@ https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
 http://hls.k-telecom.org:8081/kt/23/playlist.m3u8
 
 
-
-
-
-
-
-----
+======
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/17006/index.m3u8
