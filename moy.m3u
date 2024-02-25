@@ -70,7 +70,7 @@ http://woobl.ru/hls987/Mosfilm.m3u8
 http://ott.server-iptv.live/659/video.m3u8?token=SA78E90643
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
+http://hls.k-telecom.org:8081/kt/251/playlist.m3u8
 ==
 
 
@@ -132,7 +132,7 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/13094/index.m3u8
 http://88.99.142.126/0401/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,VF Теория большого взрыва
 #EXTGRP: кино
-http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/15009/index.m3u8
+http://88.99.142.126/0368/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13082/index.m3u8
@@ -151,6 +151,9 @@ http://dc67ba57.cbilant.com/iptv/SESPZVV922UXEK/13024/index.m3u8
 #EXTINF:0,MiTV Клон
 #EXTGRP: кино
 http://88.99.142.126/0454/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,Секретные материалы
+#EXTGRP: кино
+http://88.99.142.126/0359/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
 
 
 ==============
