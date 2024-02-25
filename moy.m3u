@@ -130,9 +130,9 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/17006/index.m3u8
-#EXTINF:0,TVPlay Друзья
+#EXTINF:0,MiTV Друзья
 #EXTGRP: кино
-http://95.143.191.33:5050/TVPlayDruzyaHD.tv/video.m3u8?token=YcxPBZP54byH82
+http://88.99.142.126/0372/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
 http://yfleknat.tvclub.xyz/iptv/YRUL7ULLXSR9T9/14230/index.m3u8
@@ -160,7 +160,10 @@ https://ipv4.bozztv.com/dvrfl07/ushba11/tracks-v1a1/mono.m3u8
 http://88.99.142.126/0333/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,Наша раша
 #EXTGRP: кино
-http://pe7bw0xr.tvclub.xyz/iptv/27HZBNKDKT9BRH/17010/index.m3u8
+http://88.99.142.126/0706/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
+#EXTINF:0,Каламбур
+#EXTGRP: кино
+http://88.99.142.126/0035/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
 #EXTINF:0,ТВОЕ ТВ HD - ЮМОР
 #EXTGRP: кино
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
@@ -308,7 +311,7 @@ https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
 http://109.239.208.82/nauka20/index.m3u8
 #EXTINF:0,Галилео
 #EXTGRP: Познавательное
-http://88.99.142.126/0414/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
+http://88.99.142.126/0414/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0, National Geographic
 #EXTGRP: Познавательное
 http://stream02.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
@@ -326,7 +329,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 http://88.99.142.126/00107/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,Города Советского Союза
 #EXTGRP: Познавательное
-http://88.99.142.126/0008/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
+http://88.99.142.126/0008/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,Star Media
 #EXTGRP: Познавательное
 https://ipv4.bozztv.com/dvrfl07/ushba4/tracks-v1a1/mono.m3u8
