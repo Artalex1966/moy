@@ -1,4 +1,35 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+#EXTINF:0,Известия
+#EXTGRP: эфир
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8
+#EXTINF:0,Россия 24
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:0,Первый канал
+#EXTGRP: эфир
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+#EXTINF:0,Россия 1
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2
+#EXTINF:0,НТВ
+#EXTGRP: эфир
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+#EXTINF:0,Соловьев Live
+#EXTGRP: эфир
+https://player.smotrim.ru/iframe/stream/live_id/63338
+#EXTINF:0,Соловьев Live
+#EXTGRP: эфир
+http://92.242.110.52:9835/udp/238.1.12.13:1234
+#EXTINF:0,РЕН ТВ
+#EXTGRP: эфир
+http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
+#EXTINF:0,Звезда
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:0,МИР
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+========
 
 #EXTINF:0,Леонид Гайдай
 #EXTGRP: кино
@@ -72,8 +103,6 @@ http://ott.server-iptv.live/659/video.m3u8?token=SA78E90643
 #EXTGRP: кино
 http://hls.k-telecom.org:8081/kt/251/playlist.m3u8
 ==
-
-
 #EXTINF:0,Кино 1
 #EXTGRP: кино
 http://udx8otqf.megatv.fun/iptv/LA6R78MSWZYFXS/18069/index.m3u8
@@ -157,61 +186,37 @@ http://88.99.142.126/0359/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
 
 ==============
 #EXTINF:0,Приколы 1  [Ushba TV]
-#EXTGRP: кино
+#EXTGRP:Юмор
 https://ipv4.bozztv.com/dvrfl07/ushba11/tracks-v1a1/mono.m3u8
 #EXTINF:0,VF 6 кадров
-#EXTGRP: кино
+#EXTGRP:Юмор
 http://88.99.142.126/0333/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,Наша раша
-#EXTGRP: кино
+#EXTGRP:Юмор
 http://88.99.142.126/0706/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
 #EXTINF:0,Каламбур
-#EXTGRP: кино
+#EXTGRP:Юмор
 http://88.99.142.126/0035/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
 #EXTINF:0,ТВОЕ ТВ HD - ЮМОР
-#EXTGRP: кино
+#EXTGRP:Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:0,Кинозал! Интерны ТВ
-#EXTGRP: кино
+#EXTGRP:Юмор
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11060/index.m3u8
+#EXTINF:0,MiTV Одна за всех
+#EXTGRP:Юмор
+http://88.99.142.126/0324/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,MiTV Уральские пельмени
+#EXTGRP:Юмор
+http://88.99.142.126/0168/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 ==================
 
-#EXTINF:0,Известия
-#EXTGRP: эфир
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8
-#EXTINF:0,Россия 24
-#EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:0,Первый канал
-#EXTGRP: эфир
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
-#EXTINF:0,Россия 1
-#EXTGRP: эфир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2
-#EXTINF:0,НТВ
-#EXTGRP: эфир
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
-#EXTINF:0,Соловьев Live
-#EXTGRP: эфир
-https://player.smotrim.ru/iframe/stream/live_id/63338
-#EXTINF:0,Соловьев Live
-#EXTGRP: эфир
-http://92.242.110.52:9835/udp/238.1.12.13:1234
-#EXTINF:0,РЕН ТВ
-#EXTGRP: эфир
-http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
-#EXTINF:0,Звезда
-#EXTGRP: эфир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:0,МИР
-#EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 
 ---
 ==========
 #EXTINF:0,Galaxy
 #EXTGRP: Познавательное
-https://streamer1.connectto.com/529/mono.m3u8
+http://camera.global-x.ru/Galaxy/mono.m3u8
 #EXTINF:0,Kosmo
 #EXTGRP: Познавательное
 http://88.99.142.126/3027/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
@@ -236,24 +241,12 @@ http://88.99.142.126/0414/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0, National Geographic
 #EXTGRP: Познавательное
 http://stream02.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
-#EXTINF:0,Лекторий Достоевский
-#EXTGRP: Познавательное
-https://ipv4.bozztv.com/dvrfl07/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP: Познавательное
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
 #EXTINF:0,Звезда Плюс 
 #EXTGRP: Познавательное
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
-#EXTINF:0,MiTV Компьютеры в СССР - как это было
-#EXTGRP: Познавательное
-http://88.99.142.126/00107/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,Города Советского Союза
-#EXTGRP: Познавательное
-http://88.99.142.126/0008/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,Star Media
-#EXTGRP: Познавательное
-https://ipv4.bozztv.com/dvrfl07/ushba4/tracks-v1a1/mono.m3u8
 #EXTINF:0,ОРУЖИЕ
 #EXTGRP: Познавательное
 http://185.37.150.40:8092/orujie/playlist.m3u8
@@ -275,12 +268,15 @@ http://88.99.142.126/3066/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,MM Открытия HD
 #EXTGRP: Познавательное
 http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/19415/index.m3u8
-#EXTINF:0, Техно 24
-#EXTGRP: Познавательное
-https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
 #EXTINF:0,Документалка 1
 #EXTGRP: Познавательное
 https://ipv4.bozztv.com/dvrfl07/ushba28/tracks-v1a1/mono.m3u8
+#EXTINF:0,Лекторий Достоевский
+#EXTGRP: Познавательное
+https://ipv4.bozztv.com/dvrfl07/ushba3/tracks-v1a1/mono.m3u8
+#EXTINF:0,Star Media
+#EXTGRP: Познавательное
+https://ipv4.bozztv.com/dvrfl07/ushba4/tracks-v1a1/mono.m3u8
 ======================
 
 
@@ -631,8 +627,9 @@ http://bqu9xew2.megatv.fun/iptv/WMH4PGAX9ZRUAB/14175/index.m3u8
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
 http://lzhifbas.otttv.pw/iptv/BQM7ZK5X2WWXTF/18175/index.m3u8
+---
 
-
+---
 #EXTINF:0,Военное кино HD
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18072/index.m3u8
