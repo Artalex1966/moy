@@ -94,7 +94,7 @@ http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/11026/index.m3u8
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/862S4G3MF5A432/11061/index.m3u8
 #EXTINF:0, Советская Киноклассика
 #EXTGRP: кино
-http://hls.k-telecom.org:8081/kt/125/playlist.m3u8
+http://rr2.73mtv.org/~106f9711ce410c81bdb8151e157f4f1aaed/83621/hls/pl.m3u8
 ==
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
@@ -104,7 +104,7 @@ http://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m
 http://ott.server-iptv.live/659/video.m3u8?token=SA78E90643
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://ott.watch/stream/WA7KUVATXV/369.m3u8
+http://178.212.236.3:8802/play/404
 ==
 #EXTINF:0,Кино 1
 #EXTGRP: кино
@@ -142,9 +142,12 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/17006/index.m3u8
-#EXTINF:0,MiTV Друзья
+#EXTINF:0,TVPlay Друзья
 #EXTGRP: кино
-http://88.99.142.126/0372/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
+http://95.143.191.33:5050/TVPlayDruzyaHD.tv/video.m3u8?token=YcxPBZP54byH82
+#EXTINF:0,TVPlay Игра Престолов
+#EXTGRP: кино
+http://95.143.191.33:5050/TVPlayIgraPrestolov/video.m3u8?token=YcxPBZP54byH82
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/14230/index.m3u8
@@ -487,21 +490,16 @@ https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детский
 https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
-#EXTINF:0,СоюзМультфильм
-#EXTGRP: Детский
-http://194.26.229.213/souzmultfilm/index.m3u8
+
 #EXTINF:0,Советские мультфильмы
 #EXTGRP: Детский
-http://88.99.142.126/0018/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
+http://95.143.191.33:5050/TVPlaySovMultHD.tv/video.m3u8?token=YcxPBZP54byH82
 #EXTINF:0,Советские мультфильмы
 #EXTGRP: Детский
 http://am01.spr24.net/20849/index.m3u8?token=YRZ9ep8ifpCCr6
 #EXTINF:0,VF Союзмультфильм
 #EXTGRP: Детский
 http://rhsbjv7k.tvclub.xyz/iptv/HAA39Q9RE8T9CA/14238/index.m3u8
-#EXTINF:0,Спокойной ночи, малыши!
-#EXTGRP: Детский
-http://88.99.142.126/0019/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
 #EXTINF:0,TiJi
 #EXTGRP: Детский
 https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
@@ -744,9 +742,7 @@ http://hlss.goodgame.ru/hls/204722.m3u8
 http://hlss.goodgame.ru/hls/206461.m3u8
 
 
-#EXTINF:0,Голубой огонек
-#EXTGRP: Музыка
-http://88.99.142.126/0007/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
+
 
 #EXTINF:0,Конец
 
