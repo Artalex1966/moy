@@ -330,10 +330,10 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18066/index.m3u8
 http://hlstest.eltex-media.ru:8085/menfilm/index.m3u8
 #EXTINF:0, CineMan Action
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/C7WL6QCNMEEGH4/11006/index.m3u8
+http://ott.watch/stream/WA7KUVATXV/351.m3u8
 #EXTINF:0,BCU Action
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/11027/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/DZSD2KTZ2E483Y/11027/index.m3u8
 #EXTINF:0,CineMan TOP
 #EXTGRP: кино
 http://fgrux1bj.ukminlt.fun/iptv/V9PN3EDPEX5H45/11005/index.m3u8
@@ -743,9 +743,10 @@ http://hlss.goodgame.ru/hls/204717.m3u8
 #EXTINF:0,FILM TV5
 #EXTGRP: кино
 http://hlss.goodgame.ru/hls/204722.m3u8
-#EXTINF:0,Magic Galaxy HD
+
+#EXTINF:0,Блокбастер HD
 #EXTGRP: кино
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/18067/index.m3u8
+http://ott.watch/stream/WA7KUVATXV/364.m3u8
 
 
 #EXTINF:0,Конец
