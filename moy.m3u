@@ -31,9 +31,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 ========
 
-#EXTINF:0,Леонид Гайдай
+#EXTINF:0,VF Леонид Гайдай
 #EXTGRP: кино
-http://88.99.142.126/0107/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
+http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/17004/index.m3u8
 #EXTINF:0,Мосфильм
 #EXTGRP: кино
 http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/10084/index.m3u8
@@ -92,6 +92,12 @@ http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/11026/index.m3u8
 #EXTINF:0, Кинозал СССР
 #EXTGRP: кино
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/862S4G3MF5A432/11061/index.m3u8
+#EXTINF:0,USSR
+#EXTGRP: кино
+http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/11102/index.m3u8
+#EXTINF:0,TOP USSR HD
+#EXTGRP: кино
+http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/13005/index.m3u8
 #EXTINF:0, Советская Киноклассика
 #EXTGRP: кино
 http://rr2.73mtv.org/~106f9711ce410c81bdb8151e157f4f1aaed/83621/hls/pl.m3u8
