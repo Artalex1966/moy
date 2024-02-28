@@ -129,7 +129,7 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18072/index.m3u8
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
-http://hls.k-telecom.org:8081/kt/23/playlist.m3u8
+http://188.113.190.15/119/video.m3u8
 
 
 ======
@@ -465,10 +465,10 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 #EXTINF:0,Cупергерои
 #EXTGRP: Детский
-http://91.207.115.228:5000/c71
+http://188.113.190.15/162/video.m3u8
 #EXTINF:0,Уникум
 #EXTGRP: Детский
-http://176.222.190.11/btv/SWM/Detsky_SWM/Detsky_SWM.m3u8
+http://188.113.190.15/41/video.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
 https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
@@ -480,7 +480,7 @@ http://strm.yandex.ru/kal/chizhik/chizhik0.m3u8
 http://strm.yandex.ru/kal/leva/leva0.m3u8
 #EXTINF:0,Мультиландия
 #EXTGRP: Детский
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/5055/index.m3u8
+http://188.113.190.15/108/video.m3u8
 #EXTINF:0,МУЛЬТИМАНИЯ
 #EXTGRP: Детский
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
