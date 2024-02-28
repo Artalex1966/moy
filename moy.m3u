@@ -108,7 +108,7 @@ http://178.212.236.3:8802/play/404
 ==
 #EXTINF:0,Кино 1
 #EXTGRP: кино
-http://udx8otqf.megatv.fun/iptv/LA6R78MSWZYFXS/18069/index.m3u8
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/18069/index.m3u8
 #EXTINF:0,Кино 2
 #EXTGRP: кино
 http://gyn3jfva.ottclub.xyz/iptv/BMFKVKCFHB9QU2/18070/index.m3u8
@@ -274,9 +274,9 @@ http://88.99.142.126/3066/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,MM Открытия HD
 #EXTGRP: Познавательное
 http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/19415/index.m3u8
-#EXTINF:0,Документалка 1
+#EXTINF:0,VB Назад в СССР HD
 #EXTGRP: Познавательное
-https://ipv4.bozztv.com/dvrfl07/ushba28/tracks-v1a1/mono.m3u8
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/20175/index.m3u8
 #EXTINF:0,Лекторий Достоевский
 #EXTGRP: Познавательное
 https://ipv4.bozztv.com/dvrfl07/ushba3/tracks-v1a1/mono.m3u8
@@ -737,11 +737,9 @@ http://hlss.goodgame.ru/hls/204717.m3u8
 #EXTINF:0,FILM TV5
 #EXTGRP: кино
 http://hlss.goodgame.ru/hls/204722.m3u8
-#EXTINF:0,FILM TV6
+#EXTINF:0,Magic Galaxy HD
 #EXTGRP: кино
-http://hlss.goodgame.ru/hls/206461.m3u8
-
-
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/18067/index.m3u8
 
 
 #EXTINF:0,Конец
