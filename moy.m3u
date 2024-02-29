@@ -49,9 +49,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/10085/index.m3u8
 #EXTINF:0,TVPlay Советское Кино
 #EXTGRP: кино
 http://95.143.191.33:5050/TVPlaySovKinoHD.tv/video.m3u8?token=YcxPBZP54byH82
-#EXTINF:0,MiTV Старый добрый фильм
+#EXTINF:0,VF Классика
 #EXTGRP: кино
-http://88.99.142.126/0909/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+http://rhsbjv7k.tvclub.xyz/iptv/8FVYMXT65EZEMU/10053/index.m3u8
 #EXTINF:0,Prokop TV Сказки СССР
 #EXTGRP: кино
 http://158.101.194.132:8888/channel/1943057b/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
@@ -197,9 +197,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/NESLTM3DHX4CGC/13096/index.m3u8
 #EXTINF:0,Приколы 1  [Ushba TV]
 #EXTGRP:Юмор
 https://ipv4.bozztv.com/dvrfl07/ushba11/tracks-v1a1/mono.m3u8
-#EXTINF:0,VF 6 кадров
+#EXTINF:0,VF Comedy Woman
 #EXTGRP:Юмор
-http://88.99.142.126/0333/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+http://rhsbjv7k.tvclub.xyz/iptv/8FVYMXT65EZEMU/18101/index.m3u8
 #EXTINF:0,Наша раша
 #EXTGRP:Юмор
 http://88.99.142.126/0706/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
@@ -434,24 +434,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 
 
 ------
-#EXTINF:0,Lolo TV
-#EXTGRP: Детский
-https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8
 #EXTINF:0,Мультики и Сказки HD
 #EXTGRP: Детский
 http://195.9.195.3:8080/hls/198446.m3u8
-#EXTINF:0,MiTV Щенячий патруль
-#EXTGRP: Детский
-http://88.99.142.126/3007/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,MiTV Фиксики
-#EXTGRP: Детский
-http://88.99.142.126/0326/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,Вспышки чудо-машинки
-#EXTGRP: Детский
-http://88.99.142.126/3005/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
-#EXTINF:0,Утиные истории
-#EXTGRP: Детский
-http://88.99.142.126/0083/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
 
 #EXTINF:0,O!
 #EXTGRP: кино
@@ -509,6 +494,9 @@ https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:0,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:0,Tom and Jerry
+#EXTGRP: Детский
+http://rhsbjv7k.tvclub.xyz/iptv/8FVYMXT65EZEMU/13078/index.m3u8
 
 
 
@@ -679,8 +667,9 @@ http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 
 
 ==================
-#EXTINF:0,MiTV Мосфильм 1
-http://88.99.142.126/10001/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: кино
+http://109.248.236.21:4433/udp/238.1.1.100:1234
 #EXTINF:0,MiTV Мосфильм 2
 http://88.99.142.126/10002/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,MiTV Мосфильм 3
