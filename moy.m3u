@@ -52,9 +52,6 @@ http://95.143.191.33:5050/TVPlaySovKinoHD.tv/video.m3u8?token=YcxPBZP54byH82
 #EXTINF:0,MiTV Старый добрый фильм
 #EXTGRP: кино
 http://88.99.142.126/0909/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,MiTV Советские детские фильмы
-#EXTGRP: кино
-http://88.99.142.126/00116/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,Prokop TV Сказки СССР
 #EXTGRP: кино
 http://158.101.194.132:8888/channel/1943057b/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
@@ -67,7 +64,7 @@ http://345f89f7.ottrast.com/iptv/K3VWCFWK7UAKK7/13019/index.m3u8
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13019/index.m3u8
 #EXTINF:0,Fresh Soviet
 #EXTGRP: кино
-http://dc67ba57.cbilant.com/iptv/SESPZVV922UXEK/19301/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/NESLTM3DHX4CGC/19301/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://fgrux1bj.ukminlt.fun/iptv/V9PN3EDPEX5H45/13037/index.m3u8
@@ -91,7 +88,7 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/862S4G3MF5A432/11026/inde
 http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/11026/index.m3u8
 #EXTINF:0, Кинозал СССР
 #EXTGRP: кино
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/862S4G3MF5A432/11061/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/NESLTM3DHX4CGC/11061/index.m3u8
 #EXTINF:0,USSR
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11102/index.m3u8
@@ -167,18 +164,15 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13094/index.m3u8
 #EXTINF:0,VF Клиника
 #EXTGRP: кино
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/13094/index.m3u8
-#EXTINF:0,MiTV Клиника
-#EXTGRP: кино
-http://88.99.142.126/0401/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,VF Теория большого взрыва
 #EXTGRP: кино
-http://88.99.142.126/0368/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
+http://rhsbjv7k.tvclub.xyz/iptv/NESLTM3DHX4CGC/15009/index.m3u8
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13082/index.m3u8
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
-http://66527a8f.otttv.pw/iptv/9WSYBSDHLXGU6F/13082/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/NESLTM3DHX4CGC/13082/index.m3u8
 #EXTINF:0,Коломбо
 #EXTGRP: кино
 http://88.99.142.126/0813/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
@@ -191,9 +185,12 @@ http://dc67ba57.cbilant.com/iptv/SESPZVV922UXEK/13024/index.m3u8
 #EXTINF:0,MiTV Клон
 #EXTGRP: кино
 http://88.99.142.126/0454/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,Секретные материалы
+#EXTINF:0,VF The X-Files (Секретные материалы)
 #EXTGRP: кино
-http://88.99.142.126/0359/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
+http://rhsbjv7k.tvclub.xyz/iptv/NESLTM3DHX4CGC/17002/index.m3u8
+#EXTINF:0,MM USSR Детектив HD
+#EXTGRP: кино
+http://rhsbjv7k.tvclub.xyz/iptv/NESLTM3DHX4CGC/13096/index.m3u8
 
 
 ==============
