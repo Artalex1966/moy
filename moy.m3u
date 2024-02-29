@@ -717,6 +717,10 @@ http://88.99.142.126/0009/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 http://88.99.142.126/0464/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 ======================
 
+
+#EXTINF:0,Кино ТВ
+#EXTGRP: кино
+https://tvcdnpotok.com/504/index.m3u8?wmsAuthSign=4d93556d0e24e9bbc7c48e52772e7f8b-1709221708-64i13i102i581
 #EXTINF:0,FILM TV
 #EXTGRP: кино
 http://hlss.goodgame.ru/hls/157269.m3u8
