@@ -39,23 +39,20 @@ http://188.113.190.15/327/video.m3u8
 http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/10084/index.m3u8
 #EXTINF:0,Беларусьфильм
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/K3VWCFWK7UAKK7/18125/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/8VXVBRTDB9QZSG/18125/index.m3u8
 #EXTINF:0,Киностудия Горького
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/18122/index.m3u8
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/10085/index.m3u8
-#EXTINF:0,TVPlay Советское Кино
-#EXTGRP: кино
-http://95.143.191.33:5050/TVPlaySovKinoHD.tv/video.m3u8?token=YcxPBZP54byH82
 #EXTINF:0,VF Классика
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/8FVYMXT65EZEMU/10053/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://345f89f7.ottrast.com/iptv/K3VWCFWK7UAKK7/13019/index.m3u8
+http://345f89f7.ottrast.com/iptv/8VXVBRTDB9QZSG/13019/index.m3u8
 #EXTINF:0,MiniMax Комедия U.S.S.R
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13019/index.m3u8
@@ -77,9 +74,6 @@ http://ip1.orgip.net/619/video.m3u8?token=M4f082ab4c
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/2106/index.m3u8
-#EXTINF:0,BCU СССР HD
-#EXTGRP: кино
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/862S4G3MF5A432/11026/index.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/11026/index.m3u8
@@ -130,6 +124,19 @@ https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://188.113.190.15/119/video.m3u8
+
+#EXTINF:0,Cinema
+#EXTGRP: кино
+https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+#EXTINF:0,1FILMAX
+#EXTGRP: кино
+https://hls.goodgame.ru/hls/204708_720.m3u8
+#EXTINF:0,2FILMAX
+#EXTGRP: кино
+https://hls.goodgame.ru/hls/204717.m3u8
+#EXTINF:0,Кино ТВ
+#EXTGRP: кино
+http://vod.tuva.ru/kinotv/index.m3u8
 
 
 ======
@@ -286,15 +293,7 @@ https://ipv4.bozztv.com/dvrfl07/ushba4/tracks-v1a1/mono.m3u8
 ======================
 
 
-#EXTINF:0,Cinema
-#EXTGRP: кино
-https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
-#EXTINF:0,1FILMAX
-#EXTGRP: кино
-https://hls.goodgame.ru/hls/204708_720.m3u8
-#EXTINF:0,2FILMAX
-#EXTGRP: кино
-https://hls.goodgame.ru/hls/204717.m3u8
+
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187241.m3u8
