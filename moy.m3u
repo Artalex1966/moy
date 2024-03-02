@@ -668,15 +668,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/19317/index.m3u8
 http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 
 
-==================
-#EXTINF:0,Мосфильм. Золотая коллекция
-#EXTGRP: кино
-http://109.248.236.21:4433/udp/238.1.1.100:1234
 
-#EXTINF:0,MiTV Киностудия Горького
-http://88.99.142.126/0009/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,MiTV Беларусьфильм
-http://88.99.142.126/0464/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 ======================
 
 
