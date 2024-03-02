@@ -702,6 +702,12 @@ http://hlss.goodgame.ru/hls/204722.m3u8
 #EXTINF:0,Блокбастер HD
 #EXTGRP: кино
 http://ott.watch/stream/WA7KUVATXV/364.m3u8
+#EXTINF:0,Fresh Thriller HD
+#EXTGRP: кино
+http://ott.watch/stream/DBPHZGF6QQE/434.m3u8
+#EXTINF:0,CineMan Action HD
+#EXTGRP: кино
+http://ott.watch/stream/DBPHZGF6QQE/351.m3u8
 
 
 #EXTINF:0,Конец
