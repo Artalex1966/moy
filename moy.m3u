@@ -48,7 +48,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/18122/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/10085/index.m3u8
 #EXTINF:0,VF Классика
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/S68HG38S5DWGCN/10053/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/TMQ8NBYBDQ4DTU/10053/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -73,7 +73,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 http://ip1.orgip.net/619/video.m3u8?token=M4f082ab4c
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
-http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/2106/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/2106/index.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/11026/index.m3u8
@@ -158,10 +158,10 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/17006/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/17006/index.m3u8
 #EXTINF:0,VF Игра престолов
 #EXTGRP: кино
-http://319b2990.rossteleccom.net/iptv/8FVYMXT65EZEMU/18119/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/18119/index.m3u8
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/14230/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/NESLTM3DHX4CGC/14230/index.m3u8
 #EXTGRP: кино
 #EXTINF:0,VF Клиника
 #EXTGRP: кино
@@ -234,9 +234,7 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18198/index.m3u8
 #EXTINF:0,Galaxy
 #EXTGRP: Познавательное
 http://camera.global-x.ru/Galaxy/mono.m3u8
-#EXTINF:0,Prokop TV Docu
-#EXTGRP: Познавательное
-http://194.26.229.213/Prokop-TV-Docu-HD/video.m3u8
+
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
@@ -252,9 +250,7 @@ https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 http://109.239.208.82/nauka20/index.m3u8
-#EXTINF:0,Prokop TV Docu HD
-#EXTGRP: Познавательное
-http://158.101.194.132:8888/channel/7f457439/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
+
 #EXTINF:0, National Geographic
 #EXTGRP: Познавательное
 http://stream02.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
@@ -270,9 +266,9 @@ http://185.37.150.40:8092/orujie/playlist.m3u8
 #EXTINF:0,Кто Есть Кто
 #EXTGRP: Познавательное
 https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
-#EXTINF:0,MiTV UFO
+#EXTINF:0,Prokop TV Docu
 #EXTGRP: Познавательное
-http://88.99.142.126/0003/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
+http://194.26.229.213/Prokop-TV-Docu-HD/video.m3u8
 #EXTINF:0 tvg-rec="0",Авто 24
 #EXTGRP: Познавательное
 http://109.239.208.82/auto24/index.m3u8
@@ -281,7 +277,7 @@ http://109.239.208.82/auto24/index.m3u8
 http://94.232.104.237:8000/play/087/index.m3u8
 #EXTINF:0,Разрушители легенд
 #EXTGRP: Познавательное
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/19412/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/19412/index.m3u8
 #EXTINF:0,MM Открытия HD
 #EXTGRP: Познавательное
 http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/19415/index.m3u8
