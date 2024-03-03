@@ -478,9 +478,9 @@ https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
 #EXTGRP: Детский
 https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
 
-#EXTINF:0,Советские мультфильмы
+#EXTINF:0,Disney
 #EXTGRP: Детский
-http://95.143.191.33:5050/TVPlaySovMultHD.tv/video.m3u8?token=YcxPBZP54byH82
+http://hls.goodgame.ru/hls/198455.m3u8
 #EXTINF:0,Советские мультфильмы
 #EXTGRP: Детский
 http://am01.spr24.net/20849/index.m3u8?token=YRZ9ep8ifpCCr6
@@ -706,7 +706,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/DTU9KS3H4VWN83/19300/index.m3u8
 #EXTINF:0,CineMan Action HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/DTU9KS3H4VWN83/11006/index.m3u8
-
+#EXTINF:0,Про100TV
+#EXTGRP: кино
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 
 #EXTINF:0,Конец
 
