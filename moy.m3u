@@ -92,6 +92,9 @@ http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/14175/index.m3u8
 #EXTINF:0, Советская Киноклассика
 #EXTGRP: кино
 http://rr2.73mtv.org/~106f9711ce410c81bdb8151e157f4f1aaed/83621/hls/pl.m3u8
+#EXTINF:0,Dosug СССР HD
+#EXTGRP: кино
+http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/14218/index.m3u8
 
 ==
 #EXTINF:0,Мосфильм. Золотая коллекция
