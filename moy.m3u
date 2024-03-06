@@ -105,7 +105,7 @@ http://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m
 http://87.99.87.203:2007/channel/615be641/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:0,Prokop TV Сказки СССР
 #EXTGRP: кино
-http://194.26.229.213/Prokop-TV-skazki-ussr/video.m3u8
+http://158.101.194.132:8888/channel/1943057b/index.m3u8?q=c7dfcdd8ed206c50dcf3e13bb3b7ae4b
 ==
 #EXTINF:0,Кино 1
 #EXTGRP: кино
@@ -246,9 +246,7 @@ http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
 http://edge02.odtv.az/o5/discovery/playlist.m3u8
-#EXTINF:0,DocuBox HD
-#EXTGRP: Познавательное
-http://94.232.104.237:8000/play/205/index.m3u8
+
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
@@ -273,11 +271,14 @@ http://185.37.150.40:8092/orujie/playlist.m3u8
 https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
 #EXTINF:0,Prokop TV Docu
 #EXTGRP: Познавательное
-http://194.26.229.213/Prokop-TV-Docu-HD/video.m3u8
-#EXTINF:0 tvg-rec="0",Авто 24
+http://158.101.194.132:8888/channel/7f457439/index.m3u8?q=c7dfcdd8ed206c50dcf3e13bb3b7ae4b
+#EXTINF:0,DocuBox HD
+#EXTGRP: Познавательное
+http://94.232.104.237:8000/play/205/index.m3u8
+#EXTINF:0,Авто 24
 #EXTGRP: Познавательное
 http://109.239.208.82/auto24/index.m3u8
-#EXTINF:0 tvg-rec="0",Авто+
+#EXTINF:0,Авто+
 #EXTGRP: Познавательное
 http://94.232.104.237:8000/play/087/index.m3u8
 #EXTINF:0,Разрушители легенд
