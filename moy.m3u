@@ -49,6 +49,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/10085/index.m3u8
 #EXTINF:0,VF Классика
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/TMQ8NBYBDQ4DTU/10053/index.m3u8
+#EXTINF:0,VeleS СССР
+#EXTGRP: кино
+http://ru02.spr24.net/21020/mpegts?token=45UYwCTbAVBazU
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
