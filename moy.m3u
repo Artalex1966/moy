@@ -703,7 +703,10 @@ http://ott.watch/stream/WA7KUVATXV/364.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/DTU9KS3H4VWN83/19300/index.m3u8
 #EXTINF:0,CineMan Action HD
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/DTU9KS3H4VWN83/11006/index.m3u8
+http://ott.server-iptv.live/689/video.m3u8?token=M4f082ab4c
+#EXTINF:0,CineMan Top
+#EXTGRP: кино
+http://ott.server-iptv.live/683/video.m3u8?token=M4f082ab4c
 #EXTINF:0,Про100TV
 #EXTGRP: кино
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
