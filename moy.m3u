@@ -106,9 +106,7 @@ http://109.248.236.21:4433/udp/238.1.1.100:1234
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://87.99.87.203:2007/channel/615be641/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
-#EXTINF:0,Prokop TV Сказки СССР
-#EXTGRP: кино
-http://158.101.194.132:8888/channel/1943057b/index.m3u8?q=c7dfcdd8ed206c50dcf3e13bb3b7ae4b
+
 ==
 #EXTINF:0,Кино 1
 #EXTGRP: кино
@@ -216,21 +214,12 @@ https://ipv4.bozztv.com/dvrfl07/ushba11/tracks-v1a1/mono.m3u8
 #EXTINF:0,VF Comedy Woman
 #EXTGRP:Юмор
 http://rhsbjv7k.tvclub.xyz/iptv/8FVYMXT65EZEMU/18101/index.m3u8
-#EXTINF:0,VF Наша Раша
-#EXTGRP:Юмор
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/17010/index.m3u8
-#EXTINF:0,Каламбур
-#EXTGRP:Юмор
-http://88.99.142.126/0035/index.m3u8?token=WXVyQmFzOlRpZ3J0ZWxlYzQ5
 #EXTINF:0,ТВОЕ ТВ HD - ЮМОР
 #EXTGRP:Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:0,Кинозал! Интерны ТВ
 #EXTGRP:Юмор
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11060/index.m3u8
-#EXTINF:0,TVPlay Городок
-#EXTGRP:Юмор
-http://95.143.191.33:5050/TVPlayGorodok/video.m3u8?token=YcxPBZP54byH82
 #EXTINF:0,Уральские пельмени
 #EXTGRP:Юмор
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18198/index.m3u8
@@ -702,9 +691,6 @@ http://hlss.goodgame.ru/hls/204717.m3u8
 #EXTGRP: кино
 http://hlss.goodgame.ru/hls/204722.m3u8
 
-#EXTINF:0,EYE CYBER
-#EXTGRP: кино
-http://balancer.velestore.su/bal_c9l8u2d4f9l1a3r7e9/EYE_CYBER/video.m3u8?token=ZGltYXN8fE1USXpORFUyTnpnPQ==
 
 #EXTINF:0,Блокбастер HD
 #EXTGRP: кино
