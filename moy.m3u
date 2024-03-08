@@ -700,6 +700,9 @@ http://hlss.goodgame.ru/hls/204717.m3u8
 #EXTINF:0,FILM TV5
 #EXTGRP: кино
 http://hlss.goodgame.ru/hls/204722.m3u8
+#EXTINF:0,BOX Cyber HD
+#EXTGRP: кино
+http://rhsbjv7k.tvclub.xyz/iptv/LQTD3Z4445XSB5/19421/index.m3u8
 
 
 #EXTINF:0,Блокбастер HD
@@ -720,6 +723,9 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:0,BCU Сваты
 #EXTGRP: кино
 http://ott.server-iptv.live/1633/video.m3u8?token=M4f082ab4c
+#EXTINF:0,MM Сваты
+#EXTGRP: кино
+http://rhsbjv7k.tvclub.xyz/iptv/LQTD3Z4445XSB5/13051/index.m3u8
 
 #EXTINF:0,Конец
 
