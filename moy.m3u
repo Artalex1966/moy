@@ -235,6 +235,10 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18198/index.m3u8
 #EXTGRP: Познавательное
 http://camera.global-x.ru/Galaxy/mono.m3u8
 
+#EXTINF:0,Космический
+#EXTGRP: Познавательное
+http://ott.server-iptv.live/418/video.m3u8?token=M4f082ab4c
+
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
@@ -325,9 +329,12 @@ http://hlstest.eltex-media.ru:8085/menfilm/index.m3u8
 #EXTINF:0, CineMan Action
 #EXTGRP: кино
 http://ott.watch/stream/WA7KUVATXV/351.m3u8
+#EXTINF:0,BCU Catastrophe
+#EXTGRP: кино
+http://ott.server-iptv.live/1601/video.m3u8?token=M4f082ab4c
 #EXTINF:0,BCU Action
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/DZSD2KTZ2E483Y/11027/index.m3u8
+http://ott.server-iptv.live/1600/video.m3u8?token=M4f082ab4c
 #EXTINF:0,VF Thriller
 #EXTGRP: кино
 http://319b2990.rossteleccom.net/iptv/8FVYMXT65EZEMU/13089/index.m3u8
@@ -710,6 +717,9 @@ http://ott.server-iptv.live/683/video.m3u8?token=M4f082ab4c
 #EXTINF:0,Про100TV
 #EXTGRP: кино
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:0,BCU Сваты
+#EXTGRP: кино
+http://ott.server-iptv.live/1633/video.m3u8?token=M4f082ab4c
 
 #EXTINF:0,Конец
 
