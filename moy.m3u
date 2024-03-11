@@ -681,9 +681,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/19317/index.m3u8
 #EXTGRP: кино
 http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 
-#EXTINF:0,Retrovision Classic
+#EXTINF:0,Мосфильм Золотая коллекция
 #EXTGRP: кино
-https://ipv4.bozztv.com/dvrfl07/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSFILM/variant.m3u8?version=2
 
 ======================
 
