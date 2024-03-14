@@ -100,7 +100,7 @@ http://34f4d057.shukinuki.website/iptv/SESPZVV922UXEK/13005/index.m3u8
 http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/14175/index.m3u8
 #EXTINF:0, Советская Киноклассика
 #EXTGRP: кино
-http://rr2.73mtv.org/~106f9711ce410c81bdb8151e157f4f1aaed/83621/hls/pl.m3u8
+http://ch01.spr24.net/20797/index.m3u8?token=YRZ9ep8ifpCCr6
 #EXTINF:0,Dosug СССР HD
 #EXTGRP: кино
 http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/14218/index.m3u8
@@ -250,7 +250,7 @@ http://ott.server-iptv.live/418/video.m3u8?token=M4f082ab4c
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
-http://edge02.odtv.az/o5/discovery/playlist.m3u8
+http://83.234.207.29:8006/play/a01e/index.m3u8
 
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
@@ -292,6 +292,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/19412/index.m3u8
 #EXTINF:0,MM Открытия HD
 #EXTGRP: Познавательное
 http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/19415/index.m3u8
+#EXTINF:0,История
+#EXTGRP: Познавательное
+http://109.239.208.82:80/history/index.m3u8
 #EXTINF:0,VB Назад в СССР HD
 #EXTGRP: Познавательное
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/20175/index.m3u8
