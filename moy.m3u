@@ -37,18 +37,21 @@ http://188.113.190.15/327/video.m3u8
 #EXTINF:0,Мосфильм
 #EXTGRP: кино
 http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/10084/index.m3u8
+#EXTINF:0,Ленфильм
+#EXTGRP: кино
+http://pbulvkyg.tvclub.xyz/iptv/NHEW4G5FUQK24Q/18121/index.m3u8
 #EXTINF:0,Беларусьфильм
 #EXTGRP: кино
 http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/18125/index.m3u8
 #EXTINF:0,Киностудия Горького
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/18122/index.m3u8
+http://pbulvkyg.tvclub.xyz/iptv/NHEW4G5FUQK24Q/18122/index.m3u8
 #EXTINF:0,Одесская киностудия
 #EXTGRP: кино
 http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/18120/index.m3u8
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
-http://eqatmiyg.megogo.xyz/iptv/VEXVELA6Z7PXH6/10085/index.m3u8
+http://pbulvkyg.tvclub.xyz/iptv/NHEW4G5FUQK24Q/10085/index.m3u8
 #EXTINF:0,VF Классика
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/TMQ8NBYBDQ4DTU/10053/index.m3u8
@@ -725,16 +728,14 @@ http://rhsbjv7k.tvclub.xyz/iptv/DTU9KS3H4VWN83/19300/index.m3u8
 http://ott.server-iptv.live/689/video.m3u8?token=M4f082ab4c
 #EXTINF:0,CineMan Top
 #EXTGRP: кино
-http://ott.server-iptv.live/683/video.m3u8?token=M4f082ab4c
+http://ip1.orgip.net/683/video.m3u8?token=M4f082ab4c
 #EXTINF:0,Про100TV
 #EXTGRP: кино
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:0,BCU Сваты
+#EXTINF:0,MiniMax Сказки U.S.S.R
 #EXTGRP: кино
-http://ott.server-iptv.live/1633/video.m3u8?token=M4f082ab4c
-#EXTINF:0,MM Сваты
-#EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/LQTD3Z4445XSB5/13051/index.m3u8
+https://eu01.spr24.net/20750/index.m3u8?token=tkwp6ncUx4cefr
+
 
 #EXTINF:0,Конец
 
