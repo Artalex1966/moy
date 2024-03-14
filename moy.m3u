@@ -689,7 +689,7 @@ http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 
 #EXTINF:0,Мосфильм Золотая коллекция
 #EXTGRP: кино
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSFILM/variant.m3u8?version=2
+https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
 
 ======================
 
@@ -720,12 +720,12 @@ http://rhsbjv7k.tvclub.xyz/iptv/LQTD3Z4445XSB5/19421/index.m3u8
 #EXTINF:0,Блокбастер HD
 #EXTGRP: кино
 http://ott.watch/stream/WA7KUVATXV/364.m3u8
-#EXTINF:0,Fresh Thriller HD
+#EXTINF:0,CineMan Thriller
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/DTU9KS3H4VWN83/19300/index.m3u8
-#EXTINF:0,CineMan Action HD
+http://ip1.orgip.net/686/video.m3u8?token=M4f082ab4c
+#EXTINF:0,Классика кино
 #EXTGRP: кино
-http://ott.server-iptv.live/689/video.m3u8?token=M4f082ab4c
+http://158.101.214.187:8080/channel/345683c0/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:0,CineMan Top
 #EXTGRP: кино
 http://ip1.orgip.net/683/video.m3u8?token=M4f082ab4c
@@ -735,6 +735,9 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:0,MiniMax Сказки U.S.S.R
 #EXTGRP: кино
 https://eu01.spr24.net/20750/index.m3u8?token=tkwp6ncUx4cefr
+#EXTINF:0,CineMan Сваты
+#EXTGRP: кино
+http://ip1.orgip.net/684/video.m3u8?token=M4f082ab4c
 
 
 #EXTINF:0,Конец
