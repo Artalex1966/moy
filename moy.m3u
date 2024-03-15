@@ -304,6 +304,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/19415/index.m3u8
 #EXTINF:0,История
 #EXTGRP: Познавательное
 http://109.239.208.82:80/history/index.m3u8
+#EXTINF:0,BOX Memory HD
+#EXTGRP: Познавательное
+http://eu01.spr24.net/20858/index.m3u8?token=Ti8qDtheX2PUkt
 #EXTINF:0,VB Назад в СССР HD
 #EXTGRP: Познавательное
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/20175/index.m3u8
