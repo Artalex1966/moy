@@ -497,7 +497,9 @@ https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детский
 https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
-
+#EXTINF:0,Oasis RUS Мульт HD
+#EXTGRP: Детский
+http://eu01.spr24.net/20987/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Disney
 #EXTGRP: Детский
 http://hls.goodgame.ru/hls/198455.m3u8
@@ -513,9 +515,18 @@ https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:0,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:0,MiniMax Tom and Jerry
+#EXTGRP: Детский
+http://eu01.spr24.net/20747/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Tom and Jerry
 #EXTGRP: Детский
 http://rhsbjv7k.tvclub.xyz/iptv/8FVYMXT65EZEMU/13078/index.m3u8
+#EXTINF:0,Oasis Disney Мультсериалы HD
+#EXTGRP: Детский
+http://eu01.spr24.net/21002/index.m3u8?token=tkwp6ncUx4cefr
+#EXTINF:0,MiniMax Walt Disney
+#EXTGRP: Детский
+http://eu01.spr24.net/20753/index.m3u8?token=tkwp6ncUx4cefr
 
 
 
