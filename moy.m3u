@@ -137,7 +137,10 @@ https://v2.catcast.tv/content/38720/index.m3u8
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18073/index.m3u8
 #EXTINF:0,Военное кино
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/NESLTM3DHX4CGC/18072/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/PPSXXCCMQBN2L9/18072/index.m3u8
+#EXTINF:0,MM USSR 1941-1945 HD
+#EXTGRP: кино
+http://5azloj1g.ottclub.xyz/iptv/PPSXXCCMQBN2L9/13018/index.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
