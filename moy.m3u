@@ -36,7 +36,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 http://188.113.190.15/327/video.m3u8
 #EXTINF:0,Мосфильм
 #EXTGRP: кино
-http://jl83zkro.tvclub.xyz/iptv/N8Y5CY8CL8RVCL/10084/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/NESLTM3DHX4CGC/10084/index.m3u8
+
 #EXTINF:0,Ленфильм
 #EXTGRP: кино
 http://pbulvkyg.tvclub.xyz/iptv/NHEW4G5FUQK24Q/18121/index.m3u8
@@ -140,10 +141,12 @@ https://v2.catcast.tv/content/38720/index.m3u8
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18073/index.m3u8
 #EXTINF:0,Военное кино
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/PPSXXCCMQBN2L9/18072/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/NESLTM3DHX4CGC/18072/index.m3u8
+
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-http://5azloj1g.ottclub.xyz/iptv/PPSXXCCMQBN2L9/13018/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/NESLTM3DHX4CGC/13018/index.m3u8
+
 #EXTINF:0,Родное кино
 #EXTGRP: кино
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
@@ -163,9 +166,7 @@ https://hls.goodgame.ru/hls/204717.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
 http://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:0,Viasat Kino Action
-#EXTGRP: кино
-http://89.254.128.5:22280/viasat_kino_action/index.m3u8
+
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/NESLTM3DHX4CGC/14234/index.m3u8
