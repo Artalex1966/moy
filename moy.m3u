@@ -31,7 +31,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:0,ТВЦ
 #EXTGRP: эфир
-https://mhd116.iptv2022.com/p/bedLyyQQqgHBRLnnngr8VA,1710709204/streaming/tvc/324/1/tracks-v4a1/mono.m3u8
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 ========
 
 #EXTINF:0,Наше новое кино
@@ -163,6 +163,19 @@ https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
 #EXTGRP: кино
 http://188.113.190.15/119/video.m3u8
 
+#EXTINF:0,Кинохит
+#EXTGRP: кино
+https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
+#EXTINF:0,Киномикс
+#EXTGRP: кино
+https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
+#EXTINF:0,Киносемья
+#EXTGRP: кино
+https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
+#EXTINF:0,Кинокомедия
+#EXTGRP: кино
+https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
+---
 #EXTINF:0,Cinema
 #EXTGRP: кино
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
