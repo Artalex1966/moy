@@ -29,6 +29,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:0,МИР
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP: эфир
+https://mhd116.iptv2022.com/p/bedLyyQQqgHBRLnnngr8VA,1710709204/streaming/tvc/324/1/tracks-v4a1/mono.m3u8
 ========
 
 #EXTINF:0,Наше новое кино
@@ -111,6 +114,9 @@ http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/14218/index.m3u8
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
 http://3cf4uvyq.rostelekom.xyz/iptv/DEN36D8WRUG324/13060/index.m3u8
+#EXTINF:0,Советское кино
+#EXTGRP: кино
+https://mhd116.iptv2022.com/p/fWlMmer3_ZBF4SSXqatQaQ,1710709209/streaming/sovietmovs/324/1/index.m3u8
 
 ==
 #EXTINF:0,Мосфильм. Золотая коллекция
@@ -122,6 +128,9 @@ http://109.248.236.21:4433/udp/238.1.1.100:1234
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://87.99.87.203:2007/channel/615be641/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:0,НОСТАЛЬГИЯ
+#EXTGRP: кино
+http://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
 
 ==
 #EXTINF:0,Кино 1
@@ -295,7 +304,7 @@ http://94.232.104.237:8000/play/205/index.m3u8
 http://109.239.208.82/auto24/index.m3u8
 #EXTINF:0,Авто+
 #EXTGRP: Познавательное
-http://94.232.104.237:8000/play/087/index.m3u8
+http://83.234.207.29:8003/play/a00u/index.m3u8
 #EXTINF:0,Разрушители легенд
 #EXTGRP: Познавательное
 http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/19412/index.m3u8
