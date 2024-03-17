@@ -130,7 +130,7 @@ http://109.248.236.21:4433/udp/238.1.1.100:1234
 http://87.99.87.203:2007/channel/615be641/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:0,НОСТАЛЬГИЯ
 #EXTGRP: кино
-http://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
+http://146.158.0.56/Nostalgiya/index.m3u8
 
 ==
 #EXTINF:0,Кино 1
