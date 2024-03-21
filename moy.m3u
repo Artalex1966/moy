@@ -303,9 +303,9 @@ http://185.37.150.40:8092/orujie/playlist.m3u8
 #EXTINF:0,Кто Есть Кто
 #EXTGRP: Познавательное
 https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
-#EXTINF:0,Prokop TV Docu
+#EXTINF:0,Документалкка
 #EXTGRP: Познавательное
-http://158.101.194.132:8888/channel/7f457439/index.m3u8?q=c7dfcdd8ed206c50dcf3e13bb3b7ae4b
+https://ipv4.bozztv.com/dvrfl07/ushba38/tracks-v1a1/mono.m3u8
 #EXTINF:0,DocuBox HD
 #EXTGRP: Познавательное
 http://94.232.104.237:8000/play/205/index.m3u8
