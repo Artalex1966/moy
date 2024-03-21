@@ -783,6 +783,10 @@ https://eu01.spr24.net/20750/index.m3u8?token=tkwp6ncUx4cefr
 #EXTGRP: кино
 http://ip1.orgip.net/684/video.m3u8?token=M4f082ab4c
 
+#EXTINF:0, HALF-L1FE: ДОКУМЕНТАЛЬНЫЙ ФИЛЬМ К 25 ЛЕТИЮ ИГРЫ (2023) 
+#EXTGRP: кино
+https://kinoleha.net/player/half-life-dokumentalnyj-film-k-25-letiyu.mp4?small
+
 
 #EXTINF:0,Конец
 
