@@ -41,7 +41,7 @@ http://188.113.190.15/327/video.m3u8
 
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/10085/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/MHTPDP44RP2N7L/10085/index.m3u8
 #EXTINF:0,VF Классика
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/TMQ8NBYBDQ4DTU/10053/index.m3u8
@@ -168,7 +168,7 @@ http://vod.tuva.ru/kinotv/index.m3u8
 
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/CPWYWPECQLUT8X/14234/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/MHTPDP44RP2N7L/14234/index.m3u8
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/14234/index.m3u8
@@ -183,13 +183,13 @@ http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/17006/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/17006/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/17006/index.m3u8
 #EXTINF:0,VF Игра престолов
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/PSW43AC4PBQYTW/18119/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/18119/index.m3u8
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/14230/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/14230/index.m3u8
 #EXTGRP: кино
 #EXTINF:0,VF Клиника
 #EXTGRP: кино
@@ -199,7 +199,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/13094/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/13094/index.m3u8
 #EXTINF:0,VF Клиника
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/FDCLX33GYRHMFF/13094/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/MHTPDP44RP2N7L/13094/index.m3u8
 #EXTINF:0,VF Теория большого взрыва
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/FDCLX33GYRHMFF/15009/index.m3u8
@@ -212,18 +212,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/NESLTM3DHX4CGC/13082/index.m3u8
 #EXTINF:0,Коломбо
 #EXTGRP: кино
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31713/index.m3u8
-#EXTINF:0,Мисс Марпл
-#EXTGRP: кино
-http://88.99.142.126/0386/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
 #EXTINF:0,MM Агата Кристи HD
 #EXTGRP: кино
 http://319b2990.rossteleccom.net/iptv/8FVYMXT65EZEMU/13024/index.m3u8
-#EXTINF:0,MiTV Клон
-#EXTGRP: кино
-http://88.99.142.126/0454/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,MM USSR Детектив HD
-#EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/NESLTM3DHX4CGC/13096/index.m3u8
 
 ==============
 #EXTINF:0,Приколы 1  [Ushba TV]
