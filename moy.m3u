@@ -38,22 +38,7 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
 http://188.113.190.15/327/video.m3u8
-#EXTINF:0,Мосфильм
-#EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/NESLTM3DHX4CGC/10084/index.m3u8
 
-#EXTINF:0,Ленфильм
-#EXTGRP: кино
-http://pbulvkyg.tvclub.xyz/iptv/NHEW4G5FUQK24Q/18121/index.m3u8
-#EXTINF:0,Беларусьфильм
-#EXTGRP: кино
-http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/18125/index.m3u8
-#EXTINF:0,Киностудия Горького
-#EXTGRP: кино
-http://eqatmiyg.megogo.xyz/iptv/VEXVELA6Z7PXH6/18122/index.m3u8
-#EXTINF:0,Одесская киностудия
-#EXTGRP: кино
-http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/18120/index.m3u8
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/NESLTM3DHX4CGC/10085/index.m3u8
@@ -783,9 +768,21 @@ https://eu01.spr24.net/20750/index.m3u8?token=tkwp6ncUx4cefr
 #EXTGRP: кино
 http://ip1.orgip.net/684/video.m3u8?token=M4f082ab4c
 
-#EXTINF:0, HALF-L1FE: ДОКУМЕНТАЛЬНЫЙ ФИЛЬМ К 25 ЛЕТИЮ ИГРЫ (2023) 
+#EXTINF:0,Мосфильм
 #EXTGRP: кино
-https://kinoleha.net/player/half-life-dokumentalnyj-film-k-25-letiyu.mp4?small
+http://rhsbjv7k.tvclub.xyz/iptv/NESLTM3DHX4CGC/10084/index.m3u8
+#EXTINF:0,Ленфильм
+#EXTGRP: кино
+http://pbulvkyg.tvclub.xyz/iptv/NHEW4G5FUQK24Q/18121/index.m3u8
+#EXTINF:0,Беларусьфильм
+#EXTGRP: кино
+http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/18125/index.m3u8
+#EXTINF:0,Киностудия Горького
+#EXTGRP: кино
+http://eqatmiyg.megogo.xyz/iptv/VEXVELA6Z7PXH6/18122/index.m3u8
+#EXTINF:0,Одесская киностудия
+#EXTGRP: кино
+http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/18120/index.m3u8
 
 
 #EXTINF:0,Конец
