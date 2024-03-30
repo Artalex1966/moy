@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 
-#EXTINF:0,Известия
+#EXTINF:0,360°
 #EXTGRP: эфир
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8
+http://146.158.0.56:80/360HD/index.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
@@ -75,7 +75,7 @@ http://ip1.orgip.net/619/video.m3u8?token=M4f082ab4c
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/2106/index.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://ott.server-iptv.live/1632/video.m3u8?token=SA78E90643
+http://rhsbjv7k.tvclub.xyz/iptv/23GKMLCSCVL7SA/11026/index.m3u8
 #EXTINF:0, Кинозал СССР
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/23GKMLCSCVL7SA/11061/index.m3u8
