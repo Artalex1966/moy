@@ -39,9 +39,6 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTGRP: кино
 http://188.113.190.15/327/video.m3u8
 
-#EXTINF:0,VF Фильмы СССР
-#EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/BWLFCKYQ48RESM/10085/index.m3u8
 #EXTINF:0,VF Классика
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/23GKMLCSCVL7SA/10053/index.m3u8
@@ -50,7 +47,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/23GKMLCSCVL7SA/10053/index.m3u8
 http://ru02.spr24.net/21020/mpegts?token=45UYwCTbAVBazU
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/MHTPDP44RP2N7L/18175/index.m3u8
+http://ott.server-iptv.live/1600/video.m3u8?token=SA78E90643
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -78,7 +75,7 @@ http://ip1.orgip.net/619/video.m3u8?token=M4f082ab4c
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/2106/index.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/11026/index.m3u8
+http://ott.server-iptv.live/1632/video.m3u8?token=SA78E90643
 #EXTINF:0, Кинозал СССР
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/23GKMLCSCVL7SA/11061/index.m3u8
@@ -747,7 +744,9 @@ http://eqatmiyg.megogo.xyz/iptv/VEXVELA6Z7PXH6/18122/index.m3u8
 #EXTINF:0,Одесская киностудия
 #EXTGRP: кино
 http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/18120/index.m3u8
-
+#EXTINF:0,VF Фильмы СССР
+#EXTGRP: кино
+http://rhsbjv7k.tvclub.xyz/iptv/BWLFCKYQ48RESM/10085/index.m3u8
 
 #EXTINF:0,Конец
 
