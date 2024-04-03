@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 
-#EXTINF:0,360°
-#EXTGRP: эфир
-http://146.158.0.56:80/360HD/index.m3u8
+
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
@@ -30,24 +28,14 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:0,МИР
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:0,ТВЦ
-#EXTGRP: эфир
-http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+
 ========
 
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
 http://188.113.190.15/327/video.m3u8
 
-#EXTINF:0,VF Классика
-#EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/23GKMLCSCVL7SA/10053/index.m3u8
-#EXTINF:0,VeleS СССР
-#EXTGRP: кино
-http://ru02.spr24.net/21020/mpegts?token=45UYwCTbAVBazU
-#EXTINF:0,KLI СССР HD
-#EXTGRP: кино
-http://ott.server-iptv.live/1600/video.m3u8?token=SA78E90643
+
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -102,9 +90,6 @@ https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://109.248.236.21:4433/udp/238.1.1.100:1234
-#EXTINF:0,Мосфильм. Золотая коллекция
-#EXTGRP: кино
-http://87.99.87.203:2007/channel/615be641/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 
 ==
 #EXTINF:0,Кино 1
@@ -747,6 +732,16 @@ http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/18120/index.m3u8
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/BWLFCKYQ48RESM/10085/index.m3u8
+#EXTINF:0,VF Классика
+#EXTGRP: кино
+http://rhsbjv7k.tvclub.xyz/iptv/23GKMLCSCVL7SA/10053/index.m3u8
+
+#EXTINF:0,VeleS СССР
+#EXTGRP: кино
+http://ru02.spr24.net/21020/mpegts?token=45UYwCTbAVBazU
+#EXTINF:0,KLI СССР HD
+#EXTGRP: кино
+http://ott.server-iptv.live/1600/video.m3u8?token=SA78E90643
 
 #EXTINF:0,Конец
 
