@@ -224,7 +224,10 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18198/index.m3u8
 http://camera.global-x.ru/Galaxy/mono.m3u8
 #EXTINF:0,Космический
 #EXTGRP: Познавательное
-http://ott.server-iptv.live/418/video.m3u8?token=M4f082ab4c
+https://bkm.beetv.kz/btv/live/hls/000001220.m3u8
+#EXTINF:0,Curiosity Stream HD
+#EXTGRP: Познавательное
+http://109.248.236.21:4433/udp/238.1.1.112:1234
 
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
@@ -258,9 +261,7 @@ https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
 #EXTINF:0,Документалкка
 #EXTGRP: Познавательное
 https://ipv4.bozztv.com/dvrfl07/ushba38/tracks-v1a1/mono.m3u8
-#EXTINF:0,Curiosity Stream HD
-#EXTGRP: Познавательное
-http://109.248.236.21:4433/udp/238.1.1.112:1234
+
 #EXTINF:0,Авто 24
 #EXTGRP: Познавательное
 http://109.239.208.82/auto24/index.m3u8
