@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 
-
+#EXTINF:0,360 Новости
+#EXTGRP: эфир
+http://188.113.190.15/226/mono.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
@@ -28,14 +30,42 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:0,МИР
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:0,Москва Доверие
+#EXTGRP: эфир
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 
 ========
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: кино
+https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: кино
+http://109.248.236.21:4433/udp/238.1.1.100:1234
+#EXTINF:0,Родное кино
+#EXTGRP: кино
+https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
+#EXTINF:0,Дом кино
+#EXTGRP: кино
+http://188.113.190.15/119/video.m3u8
+#EXTINF:0,Кино 1 International
+#EXTGRP: кино
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:0,Детское кино International
+#EXTGRP: кино
+https://v2.catcast.tv/content/38720/index.m3u8
 
+#EXTINF:0,Кино 1
+#EXTGRP: кино
+http://rhsbjv7k.tvclub.xyz/iptv/23GKMLCSCVL7SA/18069/index.m3u8
+#EXTINF:0,Кино 2
+#EXTGRP: кино
+http://gyn3jfva.ottclub.xyz/iptv/BMFKVKCFHB9QU2/18070/index.m3u8
+#EXTINF:0,Детское кино
+#EXTGRP: кино
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18073/index.m3u8
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
 http://188.113.190.15/327/video.m3u8
-
-
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -52,18 +82,20 @@ http://908e3c5e.rossteleccom.net/iptv/23GKMLCSCVL7SA/13037/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13037/index.m3u8
-#EXTINF:0,Москва Доверие
-#EXTGRP: эфир
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:0,BCU СССР HD
+#EXTGRP: кино
+http://ru.troya.one:34000/ch789/mono.m3u8?token=tuketamo.ZJhgoVlBJ6uOyBCvRv2WXsSU5ZdjZV3l8BSGusd4GQ6ZLJF22kOrzFntTDqXyof2
+#EXTINF:0,BCU СССР HD
+#EXTGRP: кино
+http://rhsbjv7k.tvclub.xyz/iptv/Z5DUM7S8DRMZ4F/11026/index.m3u8
+
 #EXTINF:0,Любимое
 #EXTGRP: кино
 http://ip1.orgip.net/619/video.m3u8?token=M4f082ab4c
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/2106/index.m3u8
-#EXTINF:0,BCU СССР HD
-#EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/Z5DUM7S8DRMZ4F/11026/index.m3u8
+
 #EXTINF:0, Кинозал СССР
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/23GKMLCSCVL7SA/11061/index.m3u8
@@ -76,51 +108,43 @@ http://34f4d057.shukinuki.website/iptv/23GKMLCSCVL7SA/13005/index.m3u8
 #EXTINF:0,YOSSO TV Советские фильмы
 #EXTGRP: кино
 http://96dc02c9.ottolok.net/iptv/9XRHZ7MZ9PNWS6/14175/index.m3u8
+#EXTINF:0,Советское кино
+#EXTGRP: кино
+http://158.101.214.187:8080/channel/3073be8d/index.m3u8?q=b3aed6023d7c12e2be7c01190b88f823
+#EXTINF:0,Советское родное
+#EXTGRP: кино
+http://91.207.114.209:5000/c161
 #EXTINF:0, Советская Киноклассика
 #EXTGRP: кино
 https://ru02.spr24.net/20797/mpegts?token=45UYwCTbAVBazU
 #EXTINF:0,Dosug СССР HD
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/14218/index.m3u8
+http://w8jxz0uh.ottclub.xyz/iptv/BG3TE5HEQRXENC/14218/index.m3u8
+
 
 ==
-#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTINF:0,Clarity4K Сделано в СССР
 #EXTGRP: кино
-https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
-#EXTINF:0,Мосфильм. Золотая коллекция
+https://eu01.spr24.net/20902/index.m3u8?token=tkwp6ncUx4cefr
+#EXTINF:0,Clarity4K Kинодети СССР
 #EXTGRP: кино
-http://109.248.236.21:4433/udp/238.1.1.100:1234
-
+https://eu01.spr24.net/20933/index.m3u8?token=tkwp6ncUx4cefr
+#EXTINF:0,DITV Фильмы
+#EXTGRP: кино
+http://ditv.ydns.eu:8888/channel/5a942ce4/index.m3u8?q=ff32fdc3e0a934596d30e22ea7d0f841
+#EXTINF:0,СитиЭдем КиноФантастика
+#EXTGRP: кино
+https://v2.catcast.tv/content/45268/index.m3u8
+#EXTINF:0,Сити Эдем - КиноКомедия
+#EXTGRP: кино
+https://v2.catcast.tv/content/41331/index.m3u8
+#EXTINF:0,Сити Эдем - КиноКлассика
+#EXTGRP: кино
+https://v2.catcast.tv/content/34185/index.m3u8
 ==
-#EXTINF:0,Кино 1
-#EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/23GKMLCSCVL7SA/18069/index.m3u8
-#EXTINF:0,Кино 2
-#EXTGRP: кино
-http://gyn3jfva.ottclub.xyz/iptv/BMFKVKCFHB9QU2/18070/index.m3u8
-#EXTINF:0,Кино 1 International
-#EXTGRP: кино
-http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:0,Детское кино International
-#EXTGRP: кино
-https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0,Детское кино
-#EXTGRP: кино
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18073/index.m3u8
-#EXTINF:0,Военное кино
-#EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/18072/index.m3u8
 
-#EXTINF:0,MM USSR 1941-1945 HD
-#EXTGRP: кино
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13018/index.m3u8
 
-#EXTINF:0,Родное кино
-#EXTGRP: кино
-https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
-#EXTINF:0,Дом кино
-#EXTGRP: кино
-http://188.113.190.15/119/video.m3u8
+
 
 #EXTINF:0,Кинохит
 #EXTGRP: кино
@@ -277,6 +301,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/19415/index.m3u8
 #EXTINF:0,История
 #EXTGRP: Познавательное
 http://109.239.208.82:80/history/index.m3u8
+#EXTINF:0,BOX Stories HD
+#EXTGRP: Познавательное
+http://streamer.enchart.one/42/45fdc198116df7d28b674ae78e9166e13ea11418/2262/stream.m3u8
 #EXTINF:0,VB Назад в СССР HD
 #EXTGRP: Познавательное
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/20175/index.m3u8
@@ -743,6 +770,13 @@ http://ru02.spr24.net/21020/mpegts?token=45UYwCTbAVBazU
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
 http://ott.server-iptv.live/1600/video.m3u8?token=SA78E90643
+
+#EXTINF:0,Военное кино
+#EXTGRP: кино
+http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/18072/index.m3u8
+#EXTINF:0,MM USSR 1941-1945 HD
+#EXTGRP: кино
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13018/index.m3u8
 
 #EXTINF:0,Конец
 
