@@ -126,22 +126,13 @@ http://ru02.spr24.net/21020/mpegts?token=Ti8qDtheX2PUkt
 
 
 ==
-#EXTINF:0,Clarity4K Сделано в СССР
-#EXTGRP: кино
-http://eu01.spr24.net/20902/index.m3u8?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4K Kинодети СССР
-#EXTGRP: кино
-http://eu01.spr24.net/20933/index.m3u8?token=Ti8qDtheX2PUkt
-#EXTINF:0,DITV Фильмы
-#EXTGRP: кино
-http://ditv.ydns.eu:8888/channel/5a942ce4/index.m3u8?q=ff32fdc3e0a934596d30e22ea7d0f841
-#EXTINF:0,СитиЭдем КиноФантастика
+#EXTINF:0,СитиЭдем Фантастика
 #EXTGRP: кино
 https://v2.catcast.tv/content/45268/index.m3u8
-#EXTINF:0,Сити Эдем - КиноКомедия
+#EXTINF:0,СитиЭдем Комедия
 #EXTGRP: кино
 https://v2.catcast.tv/content/41331/index.m3u8
-#EXTINF:0,Сити Эдем - КиноКлассика
+#EXTINF:0,СитиЭдем Классика
 #EXTGRP: кино
 https://v2.catcast.tv/content/34185/index.m3u8
 ==
