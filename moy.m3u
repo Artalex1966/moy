@@ -120,15 +120,18 @@ https://ru02.spr24.net/20797/mpegts?token=45UYwCTbAVBazU
 #EXTINF:0,Dosug СССР HD
 #EXTGRP: кино
 http://w8jxz0uh.ottclub.xyz/iptv/BG3TE5HEQRXENC/14218/index.m3u8
+#EXTINF:0,VeleS СССР
+#EXTGRP: кино
+http://ru02.spr24.net/21020/mpegts?token=Ti8qDtheX2PUkt
 
 
 ==
 #EXTINF:0,Clarity4K Сделано в СССР
 #EXTGRP: кино
-https://eu01.spr24.net/20902/index.m3u8?token=tkwp6ncUx4cefr
+http://eu01.spr24.net/20902/index.m3u8?token=Ti8qDtheX2PUkt
 #EXTINF:0,Clarity4K Kинодети СССР
 #EXTGRP: кино
-https://eu01.spr24.net/20933/index.m3u8?token=tkwp6ncUx4cefr
+http://eu01.spr24.net/20933/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,DITV Фильмы
 #EXTGRP: кино
 http://ditv.ydns.eu:8888/channel/5a942ce4/index.m3u8?q=ff32fdc3e0a934596d30e22ea7d0f841
