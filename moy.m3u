@@ -70,9 +70,9 @@ http://188.113.190.15/327/video.m3u8
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/23GKMLCSCVL7SA/13019/index.m3u8
-#EXTINF:0,MiniMax Комедия U.S.S.R
+#EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13019/index.m3u8
+http://de.seetv.cc/play/6012/F2A51DBF9E61FF2/video.m3u8
 #EXTINF:0,Fresh Soviet
 #EXTGRP: кино
 http://w8jxz0uh.ottclub.xyz/iptv/BG3TE5HEQRXENC/19301/index.m3u8
@@ -95,6 +95,9 @@ http://ip1.orgip.net/619/video.m3u8?token=M4f082ab4c
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/2106/index.m3u8
+#EXTINF:0,Наше любимое HD
+#EXTGRP: кино
+http://1.1usd.tv:34000/ch139/mono.m3u8?token=1usdtv_lutoev1.uyU08iXuDux6dhdjwmIPVoJxQKT1xDda6oeqpoyeAK5R7YY_PISkuu3SfQk0tYs7
 
 #EXTINF:0, Кинозал СССР
 #EXTGRP: кино
@@ -108,6 +111,9 @@ http://34f4d057.shukinuki.website/iptv/23GKMLCSCVL7SA/13005/index.m3u8
 #EXTINF:0,YOSSO TV Советские фильмы
 #EXTGRP: кино
 http://96dc02c9.ottolok.net/iptv/9XRHZ7MZ9PNWS6/14175/index.m3u8
+#EXTINF:0,YOSSO TV Советские фильмы
+#EXTGRP: кино
+http://nl.seetv.cc/play/8775/6ABCC340C8C5218/video.m3u8
 #EXTINF:0,Советское кино
 #EXTGRP: кино
 http://158.101.214.187:8080/channel/3073be8d/index.m3u8?q=b3aed6023d7c12e2be7c01190b88f823
@@ -123,6 +129,12 @@ http://w8jxz0uh.ottclub.xyz/iptv/BG3TE5HEQRXENC/14218/index.m3u8
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
 http://ru02.spr24.net/21020/mpegts?token=Ti8qDtheX2PUkt
+#EXTINF:0,KLI СССР HD
+#EXTGRP: кино
+http://cdntv.online/hls/5n7esukajf/1376.m3u8
+#EXTINF:0,UZ-Союз-Фильмы HD
+#EXTGRP: кино
+http://de.seetv.cc/play/6080/F2A51DBF9E61FF2/video.m3u8
 
 
 ==
@@ -165,9 +177,15 @@ https://hls.goodgame.ru/hls/204717.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
 http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:0,Кино ТВ
+#EXTGRP: кино
+http://nl.seetv.cc/play/381/6ABCC340C8C5218/video.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://ott.watch/stream/WA7KUVATXV/214.m3u8
+#EXTINF:0,Остросюжетное HD
+#EXTGRP: кино
+http://1.1usd.tv:34000/ch072/mono.m3u8?token=1usdtv_lutoev1.uyU08iXuDux6dhdjwmIPVrYR2ncSn2gSf2t2QvY_vm38rCBqeYJ7KpYAq1DpdWUD
 
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
