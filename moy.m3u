@@ -92,12 +92,9 @@ http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/11102/index.m3u8
 #EXTINF:0,TOP USSR HD
 #EXTGRP: кино
 http://34f4d057.shukinuki.website/iptv/23GKMLCSCVL7SA/13005/index.m3u8
-#EXTINF:0,YOSSO TV Советские фильмы
+#EXTINF:0,Советская Киноклассика
 #EXTGRP: кино
-http://96dc02c9.ottolok.net/iptv/9XRHZ7MZ9PNWS6/14175/index.m3u8
-#EXTINF:0,YOSSO TV Советские фильмы
-#EXTGRP: кино
-http://y7x4wevn.russtv.net/iptv/7FEKEL4HCUY792/14175/index.m3u8
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/83621/hls/pl.m3u8
 #EXTINF:0,Советское кино
 #EXTGRP: кино
 http://158.101.214.187:8080/channel/3073be8d/index.m3u8?q=b3aed6023d7c12e2be7c01190b88f823
@@ -115,7 +112,7 @@ http://cdntv.online/hls/5n7esukajf/1376.m3u8
 
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
-http://188.113.190.15/327/video.m3u8
+https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
@@ -149,7 +146,7 @@ https://hls.goodgame.ru/hls/204717.m3u8
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
-http://nl.seetv.cc/play/381/6ABCC340C8C5218/video.m3u8
+http://83.234.207.29:8013/play/a00m/index.m3u8
 #EXTINF:0,Кинопоказ
 #EXTGRP: кино
 http://de.seetv.cc/play/129/2436BFC0964DB88/video.m3u8
@@ -158,7 +155,7 @@ http://de.seetv.cc/play/129/2436BFC0964DB88/video.m3u8
 http://ott.watch/stream/WA7KUVATXV/214.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
-http://1.1usd.tv:34000/ch072/mono.m3u8?token=1usdtv_lutoev1.uyU08iXuDux6dhdjwmIPVrYR2ncSn2gSf2t2QvY_vm38rCBqeYJ7KpYAq1DpdWUD
+http://ott.server-iptv.live/604/video.m3u8?token=M4f082ab4c
 
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
@@ -210,23 +207,8 @@ http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31713/index.m3u8
 #EXTGRP: кино
 http://319b2990.rossteleccom.net/iptv/MHTPDP44RP2N7L/13024/index.m3u8
 
-==============
-#EXTINF:0,Приколы 1  [Ushba TV]
-#EXTGRP:Юмор
-https://ipv4.bozztv.com/dvrfl07/ushba11/tracks-v1a1/mono.m3u8
-#EXTINF:0,ТВОЕ ТВ HD - ЮМОР
-#EXTGRP:Юмор
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0,Кинозал! Интерны ТВ
-#EXTGRP:Юмор
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11060/index.m3u8
-#EXTINF:0,Уральские пельмени
-#EXTGRP:Юмор
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18198/index.m3u8
-==================
 
 
----
 ==========
 #EXTINF:0,Galaxy
 #EXTGRP: Познавательное
