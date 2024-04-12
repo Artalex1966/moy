@@ -87,15 +87,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/2106/index.m3u8
 #EXTGRP: кино
 http://1.1usd.tv:34000/ch139/mono.m3u8?token=1usdtv_lutoev1.uyU08iXuDux6dhdjwmIPVoJxQKT1xDda6oeqpoyeAK5R7YY_PISkuu3SfQk0tYs7
 
-#EXTINF:0, Кинозал СССР
-#EXTGRP: кино
-http://y7x4wevn.russtv.net/iptv/9XRHZ7MZ9PNWS6/11061/index.m3u8
-#EXTINF:0,USSR
-#EXTGRP: кино
-http://wiaqmjixghuycc.rostelekom.xyz/iptv/5YS5CCM3AGT2T9/11102/index.m3u8
-#EXTINF:0,TOP USSR HD
-#EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/8VXVBRTDB9QZSG/13005/index.m3u8
+
 #EXTINF:0,Советская Киноклассика
 #EXTGRP: кино
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/83621/hls/pl.m3u8
@@ -106,9 +98,7 @@ http://158.101.214.187:8080/channel/3073be8d/index.m3u8?q=b3aed6023d7c12e2be7c01
 #EXTINF:0,Dosug СССР HD
 #EXTGRP: кино
 http://w8jxz0uh.ottclub.xyz/iptv/BG3TE5HEQRXENC/14218/index.m3u8
-#EXTINF:0,VF Фильмы СССР
-#EXTGRP: кино
-http://b345253e.cbilant.com/iptv/QLRUBRMBTHNHSE/10085/index.m3u8
+
 
 ==
 
