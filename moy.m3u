@@ -40,7 +40,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://109.248.236.21:4433/udp/238.1.1.100:1234
+http://178.212.236.3:8802/play/404
 #EXTINF:0,Советское родное
 #EXTGRP: кино
 http://91.207.114.209:5000/c161
@@ -53,6 +53,10 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
+
+#EXTINF:0,DITV КОМЕДИИ СССР
+#EXTGRP: кино
+http://ditv.ydns.eu:8888/channel/71499338/index.m3u8?q=2160f1b20c2e683582fee2850d3e600a
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -102,9 +106,9 @@ http://158.101.214.187:8080/channel/3073be8d/index.m3u8?q=b3aed6023d7c12e2be7c01
 #EXTINF:0,Dosug СССР HD
 #EXTGRP: кино
 http://w8jxz0uh.ottclub.xyz/iptv/BG3TE5HEQRXENC/14218/index.m3u8
-#EXTINF:0,KLI СССР HD
+#EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
-http://cdntv.online/hls/5n7esukajf/1376.m3u8
+http://b345253e.cbilant.com/iptv/QLRUBRMBTHNHSE/10085/index.m3u8
 
 ==
 
