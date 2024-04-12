@@ -213,6 +213,9 @@ https://bkm.beetv.kz/btv/live/hls/000001220.m3u8
 #EXTINF:0,Curiosity Stream HD
 #EXTGRP: Познавательное
 http://109.248.236.21:4433/udp/238.1.1.112:1234
+#EXTINF:0,Curiosity Stream HD
+#EXTGRP: Познавательное
+http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/9072/index.m3u8
 
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
