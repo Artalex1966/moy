@@ -136,7 +136,7 @@ https://hls.goodgame.ru/hls/204717.m3u8
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
-http://83.234.207.29:8013/play/a00m/index.m3u8
+http://91.142.158.107:8092/play/28/index.m3u8
 #EXTINF:0,Кинопоказ
 #EXTGRP: кино
 https://cdntv.online/high/d62e9ntsvh/904.m3u8
