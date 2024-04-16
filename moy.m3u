@@ -54,9 +54,15 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
 
-#EXTINF:0,DITV КОМЕДИИ СССР
+#EXTINF:0,Отечественное кино
 #EXTGRP: кино
-http://ditv.ydns.eu:8888/channel/71499338/index.m3u8?q=2160f1b20c2e683582fee2850d3e600a
+https://fs2.persik.by/Otechestvennoe2/index.m3u8
+#EXTINF:0,MM USSR 1941-1945 HD
+#EXTGRP: кино
+http://bda1bc05.cbilant.com/iptv/KGNQF88SNNYPWZ/13018/index.m3u8
+#EXTINF:0,Военное кино
+#EXTGRP: кино
+http://220db755.cbilant.com/iptv/6EEP549BQ8R33R/18072/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -93,7 +99,7 @@ http://1.1usd.tv:34000/ch139/mono.m3u8?token=1usdtv_lutoev1.uyU08iXuDux6dhdjwmIP
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/83621/hls/pl.m3u8
 #EXTINF:0,Советское кино
 #EXTGRP: кино
-http://158.101.214.187:8080/channel/3073be8d/index.m3u8?q=b3aed6023d7c12e2be7c01190b88f823
+https://cdntv.online/low/qksgl8puzt/139.m3u8
 #EXTINF:0,Prokop TV Сказки СССР
 #EXTGRP: кино
 http://194.26.229.213/Prokop-TV-skazki-ussr/video.m3u8
@@ -193,9 +199,15 @@ http://rhsbjv7k.tvclub.xyz/iptv/NESLTM3DHX4CGC/13082/index.m3u8
 #EXTINF:0,Коломбо
 #EXTGRP: кино
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31713/index.m3u8
+#EXTINF:0,Коломбо
+#EXTGRP: кино
+http://olpjsfw9.rostelekom.xyz/iptv/RYKZ6QXL2ZTZ7S/31713/index.m3u8
 #EXTINF:0,MM Агата Кристи HD
 #EXTGRP: кино
 http://319b2990.rossteleccom.net/iptv/MHTPDP44RP2N7L/13024/index.m3u8
+#EXTINF:0,MM Агата Кристи HD
+#EXTGRP: кино
+http://olpjsfw9.rostelekom.xyz/iptv/RYKZ6QXL2ZTZ7S/13024/index.m3u8
 
 
 
