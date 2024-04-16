@@ -75,13 +75,13 @@ http://rhsbjv7k.tvclub.xyz/iptv/LQTD3Z4445XSB5/13019/index.m3u8
 http://908e3c5e.rossteleccom.net/iptv/23GKMLCSCVL7SA/13037/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13037/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/LQTD3Z4445XSB5/13037/index.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://u1svtkpe.rostelekom.xyz/iptv/7FEKEL4HCUY792/11026/index.m3u8
+http://158.101.194.132:8888/channel/f772f5e/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/Z5DUM7S8DRMZ4F/11026/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/LQTD3Z4445XSB5/11026/index.m3u8
 
 #EXTINF:0,Любимое
 #EXTGRP: кино
@@ -145,10 +145,10 @@ http://vod.tuva.ru/kinotv/index.m3u8
 http://91.142.158.107:8092/play/28/index.m3u8
 #EXTINF:0,Кинопоказ
 #EXTGRP: кино
-https://cdntv.online/high/d62e9ntsvh/904.m3u8
+http://158.101.214.187:8080/channel/6e3f2603/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
-https://cdntv.online/high/d62e9ntsvh/902.m3u8
+http://46.17.46.31:2021/channel/790108dc/index.m3u8?q=ab97a53c9e9996b0a558e8a6c612c4f8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://ott.server-iptv.live/604/video.m3u8?token=M4f082ab4c
@@ -171,7 +171,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/17006/index.m3u8
-#EXTINF:0,Друзья
+#EXTINF:0,Друзья (укр)
 #EXTGRP: кино
 http://158.101.194.132:8888/channel/na2f4f34/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
 #EXTINF:0,VF Гарри Поттер
