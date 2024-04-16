@@ -57,12 +57,7 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Отечественное кино
 #EXTGRP: кино
 https://fs2.persik.by/Otechestvennoe2/index.m3u8
-#EXTINF:0,MM USSR 1941-1945 HD
-#EXTGRP: кино
-http://bda1bc05.cbilant.com/iptv/KGNQF88SNNYPWZ/13018/index.m3u8
-#EXTINF:0,Военное кино
-#EXTGRP: кино
-http://220db755.cbilant.com/iptv/6EEP549BQ8R33R/18072/index.m3u8
+
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
