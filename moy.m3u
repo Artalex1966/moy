@@ -64,17 +64,16 @@ https://fs2.persik.by/Otechestvennoe2/index.m3u8
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13019/index.m3u8
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/LQTD3Z4445XSB5/13019/index.m3u8
+http://4b74cc2e.megogo.xyz/iptv/V85KD9ALX5DHSB/13019/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/23GKMLCSCVL7SA/13037/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/LQTD3Z4445XSB5/13037/index.m3u8
+http://4b74cc2e.megogo.xyz/iptv/V85KD9ALX5DHSB/13037/index.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://158.101.194.132:8888/channel/f772f5e/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
-#EXTINF:0,BCU СССР HD
+http://4b74cc2e.megogo.xyz/iptv/V85KD9ALX5DHSB/11026/index.m3u8
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/LQTD3Z4445XSB5/11026/index.m3u8
 
@@ -98,7 +97,9 @@ https://cdntv.online/low/qksgl8puzt/139.m3u8
 #EXTINF:0,Prokop TV Сказки СССР
 #EXTGRP: кино
 http://194.26.229.213/Prokop-TV-skazki-ussr/video.m3u8
-
+#EXTINF:0,Твоё ТВ Юмор
+#EXTGRP: кино
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 ==
 
 #EXTINF:0,Наше новое кино
@@ -166,9 +167,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/17006/index.m3u8
-#EXTINF:0,Друзья (укр)
+#EXTINF:0,VF Игра престолов
 #EXTGRP: кино
-http://158.101.194.132:8888/channel/na2f4f34/index.m3u8?q=580fb0b34c1163f3524a3248938a2cee
+http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/18119/index.m3u8
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/14230/index.m3u8
