@@ -81,7 +81,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/8FVYMXT65EZEMU/11026/index.m3u8
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/LQTD3Z4445XSB5/11026/index.m3u8
 
-#EXTINF:0,Любимое
+#EXTINF:0,Любимое кино
 #EXTGRP: кино
 http://ip1.orgip.net/619/video.m3u8?token=M4f082ab4c
 #EXTINF:0,Наше любимое HD
@@ -104,6 +104,9 @@ http://194.26.229.213/Prokop-TV-skazki-ussr/video.m3u8
 #EXTINF:0,Твоё ТВ Юмор
 #EXTGRP: кино
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:0,Про100TV
+#EXTGRP: кино
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 ==
 
 #EXTINF:0,Наше новое кино
@@ -131,6 +134,9 @@ https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+#EXTINF:0,CineMan Top
+#EXTGRP: кино
+http://ip1.orgip.net/683/video.m3u8?token=M4f082ab4c
 #EXTINF:0,1FILMAX
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/204708_720.m3u8
