@@ -5,16 +5,16 @@
 http://188.113.190.15/226/mono.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+http://woobl.ru/hls987/Russia_24.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2
+http://woobl.ru/hls987/Russia_1.m3u8
 #EXTINF:0,НТВ
 #EXTGRP: эфир
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+http://woobl.ru/hls987/NTV.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 https://player.smotrim.ru/iframe/stream/live_id/63338
