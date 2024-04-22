@@ -5,13 +5,13 @@
 http://188.113.190.15/226/mono.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
-http://woobl.ru/hls987/Russia_24.m3u8
+http://stream01.vnet.am/Rossia24/mono.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
-http://woobl.ru/hls987/Russia_1.m3u8
+http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:0,НТВ
 #EXTGRP: эфир
 http://woobl.ru/hls987/NTV.m3u8
