@@ -53,12 +53,6 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0,Военное кино
-#EXTGRP: кино
-http://352c2131.rossteleccom.net/iptv/PBRGAYRNV97DAH/18072/index.m3u8
-#EXTINF:0,Военное кино HD
-#EXTGRP: кино
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18072/index.m3u8
 
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
