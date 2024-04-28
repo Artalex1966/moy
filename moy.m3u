@@ -37,10 +37,10 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 ========
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
+https://edge03-alm.beetv.kz/bpk-token/2an@xtx5bcf344hiuxvqkdyq5p5de0323pqixjm50uba/btv/SWM/mosfilm/mosfilm_576p_2000kbps.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-https://edge03-alm.beetv.kz/bpk-token/2an@xtx5bcf344hiuxvqkdyq5p5de0323pqixjm50uba/btv/SWM/mosfilm/mosfilm_576p_2000kbps.m3u8
+https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
 #EXTINF:0,Советское родное
 #EXTGRP: кино
 http://91.207.114.209:5000/c161
