@@ -87,7 +87,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/13037/index.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
-http://ip1.orgip.net/619/video.m3u8?token=M4f082ab4c
+https://bkm.beetv.kz/btv/live/hls/000000283.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/2106/index.m3u8
@@ -95,10 +95,16 @@ http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/2106/index.m3u8
 #EXTGRP: кино
 http://1.1usd.tv:34000/ch139/mono.m3u8?token=1usdtv_lutoev1.uyU08iXuDux6dhdjwmIPVoJxQKT1xDda6oeqpoyeAK5R7YY_PISkuu3SfQk0tYs7
 
-
 #EXTINF:0,Prokop TV Сказки СССР
 #EXTGRP: кино
 http://194.26.229.213/Prokop-TV-skazki-ussr/video.m3u8
+
+#EXTINF:0,Кинозал 40
+#EXTGRP: кино
+https://ipv4.bozztv.com/dvrfl07/ushba-films-n/tracks-v1a1/mono.m3u8
+
+
+
 
 ==
 
