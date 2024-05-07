@@ -98,24 +98,9 @@ http://1.1usd.tv:34000/ch139/mono.m3u8?token=1usdtv_lutoev1.uyU08iXuDux6dhdjwmIP
 #EXTINF:0,Prokop TV Сказки СССР
 #EXTGRP: кино
 http://194.26.229.213/Prokop-TV-skazki-ussr/video.m3u8
-#EXTINF:0,BCU СССР HD
-#EXTGRP: кино
-http://str28.ottg.app/9118/video.m3u8?token=443838617b5249cf1f748aa0f47fbb74
-#EXTINF:0,Чебуротор Назад в СССР HD
-#EXTGRP: кино
-http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi8dDblBCimoiGdgYYpD7URGm0qzpXfhcN3nA43Xta5BL/ts
-#EXTINF:0,Комедия
-#EXTGRP: кино
-http://188.113.190.15/214/tracks-v1a1/index.m3u8
-#EXTINF:0,Сити Эдем - КиноКомедия
-#EXTGRP: кино
-https://autopilot.catcast.tv/content/41331/index.m3u8
-#EXTINF:0,Сити Эдем - КиноКлассика
-#EXTGRP: кино
-https://v2.catcast.tv/content/34185/index.m3u8
-#EXTINF:0,Кинозал 40
-#EXTGRP: кино
-https://ipv4.bozztv.com/dvrfl07/ushba-films-n/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:0, Видеокассета
 #EXTGRP: кино
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
