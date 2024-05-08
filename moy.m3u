@@ -247,6 +247,10 @@ https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
 #EXTGRP: Познавательное
 http://109.239.208.82/nauka20/index.m3u8
 
+#EXTINF:0, H2 HD
+#EXTGRP: Познавательное
+https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
+
 #EXTINF:0, National Geographic
 #EXTGRP: Познавательное
 http://stream02.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
@@ -274,7 +278,7 @@ http://109.239.208.82/auto24/index.m3u8
 http://83.234.207.29:8003/play/a00u/index.m3u8
 #EXTINF:0,Разрушители легенд
 #EXTGRP: Познавательное
-http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/19412/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/RYKZ6QXL2ZTZ7S/19412/index.m3u8
 #EXTINF:0,MM Открытия HD
 #EXTGRP: Познавательное
 http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/19415/index.m3u8
