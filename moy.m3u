@@ -213,7 +213,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/13094/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/MHTPDP44RP2N7L/13094/index.m3u8
 #EXTINF:0,VF Теория большого взрыва
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/FDCLX33GYRHMFF/15009/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/RYKZ6QXL2ZTZ7S/15009/index.m3u8
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/9XRHZ7MZ9PNWS6/13082/index.m3u8
@@ -244,10 +244,10 @@ http://camera.global-x.ru/Galaxy/mono.m3u8
 https://bkm.beetv.kz/btv/live/hls/000001220.m3u8
 #EXTINF:0,Curiosity Stream HD
 #EXTGRP: Познавательное
-http://iuhqittr.otttv.pw/iptv/WKNXDVD4MPUZGS/9072/index.m3u8
+http://iuhqittr.otttv.pw/iptv/9XRHZ7MZ9PNWS6/9072/index.m3u8
 #EXTINF:0,Curiosity Stream HD
 #EXTGRP: Познавательное
-http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/9072/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/RYKZ6QXL2ZTZ7S/9072/index.m3u8
 
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
@@ -306,7 +306,7 @@ http://109.239.208.82:80/history/index.m3u8
 http://streamer.enchart.one/42/45fdc198116df7d28b674ae78e9166e13ea11418/2262/stream.m3u8
 #EXTINF:0,VB Назад в СССР HD
 #EXTGRP: Познавательное
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/20175/index.m3u8
+http://2615a5d9.edmonst.net/iptv/RYKZ6QXL2ZTZ7S/20175/index.m3u8
 #EXTINF:0,Лекторий Достоевский
 #EXTGRP: Познавательное
 https://ipv4.bozztv.com/dvrfl07/ushba3/tracks-v1a1/mono.m3u8
@@ -317,16 +317,7 @@ https://ipv4.bozztv.com/dvrfl07/ushba4/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:0,Фантастика HD
-#EXTGRP: кино
-https://hls.goodgame.ru/hls/187241.m3u8
-#EXTINF:0,Кино ТВ
-#EXTGRP: кино
-http://vod.tuva.ru/kinotv/index.m3u8
 
-#EXTINF:0,Остросюжетное HD
-#EXTGRP: кино
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/904/index.m3u8
 
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
@@ -382,13 +373,7 @@ https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
 https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
-----
 
-
----
-#EXTINF:0,ТВОЕ ТВ
-#EXTGRP: кино
-http://tvoetv.space:8080/tvoetv/index.m3u8
 ----
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
@@ -439,11 +424,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:0,Пятница
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-
-
 ---
-
-
 ------
 #EXTINF:0,Мультики и Сказки HD
 #EXTGRP: Детский
