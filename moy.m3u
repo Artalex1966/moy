@@ -90,24 +90,13 @@ http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/13037/index.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
-https://bkm.beetv.kz/btv/live/hls/000000283.m3u8
+http://188.113.190.15/53/tracks-v1a1/index.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/2106/index.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://olpjsfw9.rostelekom.xyz/iptv/RYKZ6QXL2ZTZ7S/2106/index.m3u8
-
-#EXTINF:0,Prokop TV Сказки СССР
-#EXTGRP: кино
-http://194.26.229.213/Prokop-TV-skazki-ussr/video.m3u8
-
-#EXTINF:0,4K Комедия СССР 1
-#EXTGRP: кино
-http://87.99.87.203:2007/channel/n5b8f1b17/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:0,4K Комедия СССР 2
-#EXTGRP: кино
-http://87.99.87.203:2007/channel/n5b8f1b16/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 
 
 
