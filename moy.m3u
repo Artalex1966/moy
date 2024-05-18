@@ -88,6 +88,10 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13037/index.m3u8
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/13037/index.m3u8
 
+#EXTINF:0,Советское Кино
+#EXTGRP: кино
+http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
 http://188.113.190.15/53/tracks-v1a1/index.m3u8
@@ -98,8 +102,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/2106/index.m3u8
 #EXTGRP: кино
 http://olpjsfw9.rostelekom.xyz/iptv/RYKZ6QXL2ZTZ7S/2106/index.m3u8
 
-
-
+#EXTINF:0,СитиЭдем КиноЭкшен
+#EXTGRP: кино
+https://v2.catcast.tv/content/41333/index.m3u8
 #EXTINF:0,Видеокассета
 #EXTGRP: кино
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
@@ -252,6 +257,10 @@ https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
 #EXTGRP: Познавательное
 http://109.239.208.82/nauka20/index.m3u8
 
+#EXTINF:0,Сити Эдем - КиноДок
+#EXTGRP: Познавательное
+https://v2.catcast.tv/content/38354/index.m3u8
+
 #EXTINF:0, H2 HD
 #EXTGRP: Познавательное
 https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
@@ -281,21 +290,13 @@ http://109.239.208.82/auto24/index.m3u8
 #EXTINF:0,Авто+
 #EXTGRP: Познавательное
 http://83.234.207.29:8003/play/a00u/index.m3u8
-#EXTINF:0,Разрушители легенд
+
+#EXTINF:0,История
 #EXTGRP: Познавательное
-http://rhsbjv7k.tvclub.xyz/iptv/RYKZ6QXL2ZTZ7S/19412/index.m3u8
-#EXTINF:0,MM Открытия HD
-#EXTGRP: Познавательное
-http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/19415/index.m3u8
+http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:0,История
 #EXTGRP: Познавательное
 http://109.239.208.82:80/history/index.m3u8
-#EXTINF:0,BOX Stories HD
-#EXTGRP: Познавательное
-http://streamer.enchart.one/42/45fdc198116df7d28b674ae78e9166e13ea11418/2262/stream.m3u8
-#EXTINF:0,VB Назад в СССР HD
-#EXTGRP: Познавательное
-http://2615a5d9.edmonst.net/iptv/RYKZ6QXL2ZTZ7S/20175/index.m3u8
 #EXTINF:0,Лекторий Достоевский
 #EXTGRP: Познавательное
 https://ipv4.bozztv.com/dvrfl07/ushba3/tracks-v1a1/mono.m3u8
