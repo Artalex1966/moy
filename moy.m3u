@@ -51,6 +51,9 @@ http://91.207.114.209:5000/c161
 #EXTINF:0,Наше детство
 #EXTGRP: кино
 http://193.201.98.10:5000/c163
+#EXTINF:0,Комедия
+#EXTGRP: кино
+http://193.201.98.10:5000/c168
 
 #EXTINF:0,Дом кино
 #EXTGRP: кино
@@ -104,12 +107,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/2106/index.m3u8
 #EXTGRP: кино
 http://olpjsfw9.rostelekom.xyz/iptv/RYKZ6QXL2ZTZ7S/2106/index.m3u8
 
-#EXTINF:0,Наше родное кино
+#EXTINF:0,Крепкое кино
 #EXTGRP: кино
 http://193.201.98.10:5000/c162
-#EXTINF:0,Комедия
-#EXTGRP: кино
-http://193.201.98.10:5000/c168
+
 #EXTINF:0,СитиЭдем КиноЭкшен
 #EXTGRP: кино
 https://v2.catcast.tv/content/41333/index.m3u8
