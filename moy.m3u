@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-#EXTINF:0,Первый канал
-#EXTGRP: эфир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
@@ -661,14 +659,6 @@ http://hlss.goodgame.ru/hls/204722.m3u8
 
 
 
-#EXTINF:0,Блокбастер HD
-#EXTGRP: кино
-http://ott.watch/stream/WA7KUVATXV/364.m3u8
-#EXTINF:0,CineMan Thriller
-#EXTGRP: кино
-http://ip1.orgip.net/686/video.m3u8?token=M4f082ab4c
-
-
 
 #EXTINF:0,CineMan Сваты
 #EXTGRP: кино
@@ -676,7 +666,7 @@ http://ip1.orgip.net/684/video.m3u8?token=M4f082ab4c
 
 #EXTINF:0,Мосфильм
 #EXTGRP: кино
-http://352c2131.rossteleccom.net/iptv/PBRGAYRNV97DAH/10084/index.m3u8
+http://352c2131.rossteleccom.net/iptv/MHTPDP44RP2N7L/10084/index.m3u8
 #EXTINF:0,Ленфильм
 #EXTGRP: кино
 http://215602c2.kazaktelekom.com/iptv/Q9ZPNXGPEYBRN3KARM7LTYTB/18121/index.m3u8
@@ -691,16 +681,16 @@ http://eqatmiyg.megogo.xyz/iptv/VEXVELA6Z7PXH6/18122/index.m3u8
 http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/18120/index.m3u8
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
-http://fe8bb087.edmonst.net/iptv/P6STKYHV4R4QP7/10085/index.m3u8
+http://fe8bb087.edmonst.net/iptv/MHTPDP44RP2N7L/10085/index.m3u8
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
-http://352c2131.rossteleccom.net/iptv/PBRGAYRNV97DAH/11061/index.m3u8
+http://352c2131.rossteleccom.net/iptv/MHTPDP44RP2N7L/11061/index.m3u8
 #EXTINF:0,USSR
 #EXTGRP: кино
 http://215602c2.kazaktelekom.com/iptv/Q9ZPNXGPEYBRN3KARM7LTYTB/11102/index.m3u8
 #EXTINF:0,TOP USSR HD
 #EXTGRP: кино
-http://4c714bd4.kazaktelekom.com/iptv/C4S35FG2BTA8YZ/13005/index.m3u8
+http://4c714bd4.kazaktelekom.com/iptv/MHTPDP44RP2N7L/13005/index.m3u8
 
 
 
