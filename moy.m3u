@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-
+#EXTINF:0,Первый канал
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
@@ -34,10 +36,10 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 ========
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://91.207.114.209:5000/c29
+http://92.242.110.52:9835/udp/238.1.11.51:1234
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://193.201.98.10:5000/c29
+http://46.8.29.51:2020/channel/2bac7f96/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 
 #EXTINF:0,Советское родное
 #EXTGRP: кино
