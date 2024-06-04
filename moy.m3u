@@ -37,6 +37,9 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 http://92.242.110.52:9835/udp/238.1.11.51:1234
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
+http://ip1.orgip.net/659/video.m3u8?token=M4f082ab4c
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: кино
 http://46.8.29.51:2020/channel/2bac7f96/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 
 #EXTINF:0,Советское родное
@@ -395,7 +398,7 @@ http://188.113.190.15/19/video.m3u8
 http://185.37.150.40:8092/THT4/playlist.m3u8
 #EXTINF:0, ТНТ4 International
 #EXTGRP: эфир
-http://109.248.236.21:4433/udp/238.1.1.12:1234
+http://ip1.orgip.net/121/video.m3u8?token=M4f082ab4c
 #EXTINF:0,Суббота
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
@@ -691,8 +694,9 @@ http://215602c2.kazaktelekom.com/iptv/Q9ZPNXGPEYBRN3KARM7LTYTB/11102/index.m3u8
 #EXTINF:0,TOP USSR HD
 #EXTGRP: кино
 http://4c714bd4.kazaktelekom.com/iptv/MHTPDP44RP2N7L/13005/index.m3u8
-
-
+#EXTINF:0,CineMan
+#EXTGRP: кино
+http://ip1.orgip.net/683/video.m3u8?token=M4f082ab4c
 
 #EXTINF:0,Конец
 
