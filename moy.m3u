@@ -102,17 +102,19 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/2106/index.m3u8
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/2106/index.m3u8
 
-#EXTINF:0,Крепкое кино
-#EXTGRP: кино
-http://91.207.114.209:5000/c162
-#EXTINF:0,Кинозал 4
-#EXTGRP: кино
-http://91.207.114.209:5000/c164
-#EXTINF:0,Кинозал 5
-#EXTGRP: кино
-http://91.207.114.209:5000/c165
 
-
+#EXTINF:0,FILM TV2
+#EXTGRP: кино
+http://hlss.goodgame.ru/hls/163253.m3u8
+#EXTINF:0,FILM TV3
+#EXTGRP: кино
+http://hlss.goodgame.ru/hls/204708.m3u8
+#EXTINF:0,FILM TV4
+#EXTGRP: кино
+http://hlss.goodgame.ru/hls/204717.m3u8
+#EXTINF:0,FILM TV5
+#EXTGRP: кино
+http://hlss.goodgame.ru/hls/204722.m3u8
 #EXTINF:0,СитиЭдем КиноЭкшен
 #EXTGRP: кино
 https://v2.catcast.tv/content/41333/index.m3u8
@@ -476,15 +478,7 @@ http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:0,Музыка Кино International
 #EXTGRP: Музыка
 http://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:0,Мелодии и ритмы зарубежной эстрады
-#EXTGRP: Музыка
-http://mk3gi6qohdjrudj.russtv.net/iptv/2YYD3945CN8K86/17057/index.m3u8
-#EXTINF:0,Radio101 Италия
-#EXTGRP: Радио
-https://pub0202.101.ru:8443/stream/pro/aac/64/291
-#EXTINF:0,Radio101 Pink Floyd
-#EXTGRP: Радио
-https://pub0202.101.ru:8443/stream/pro/aac/64/53
+
 -----------
 
 
@@ -507,146 +501,23 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19284/index.m3u8
 #EXTGRP: игры
 http://iptv.prosto.tv:7000/ch322/video.m3u8?secret=xxxxxxxx
 =============================
--------
-#EXTINF:0, Наука 2.0
-#EXTGRP: Познавательное
-http://stream01.vnet.am/Nauka/mono.m3u8
-#EXTINF:0,Звезда Плюс HD
-#EXTGRP: эфир
-http://stv.mediacdn.ru/live/cdn/zvezdaplus/playlist_hdhigh.m3u8
-
 #EXTINF:0,Akudji
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:0,PZN TV
-#EXTGRP: кино
-https://hls.goodgame.ru/hls/180960.m3u8
 #EXTINF:0,FMC
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187741.m3u8
-
-#EXTINF:0,Твоё ТВ
-#EXTGRP: кино
-http://84.38.180.145:8080/tvoetv/index.m3u8
-
 #EXTINF:0,BackusTV
 #EXTGRP: кино
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:0,Видеокассета VHS
 #EXTGRP: кино
 https://v2.catcast.tv/content/37925/index.m3u8
-
-
-#EXTINF:0,Dosug Fantastic HD
-#EXTGRP: кино
-http://vlm3jjnd.megatv.fun/iptv/RHA3G7Y2NYUP4E/14210/index.m3u8
-#EXTINF:0,BCU Cosmo 
-#EXTGRP: кино
-http://am01.spr24.net/20846/index.m3u8?token=YRZ9ep8ifpCCr6
-#EXTINF:0,MM UFO HD
-#EXTGRP: кино
-http://am01.spr24.net/20727/index.m3u8?token=YRZ9ep8ifpCCr6
-
-#EXTINF:0,Eye Cyber HD
-#EXTGRP: кино
-http://lzhifbas.otttv.pw/iptv/BQM7ZK5X2WWXTF/20220/index.m3u8
-
-
-#EXTINF:0,IPTVPLAY ФАНТАСТИКА
-#EXTGRP: кино
-https://iptvplay.catcast.tv/content/38801/index.m3u8
-#EXTINF:0,MiTV Агент 007
-#EXTGRP: кино
-http://88.99.142.126/0094/index.m3u8?token=dGVzdHBsYXlsaXN0OnRlc3RwbGF5bGlzdA==
-#EXTINF:0,troya Агент 007
-#EXTGRP: кино
-http://4.troya.one:34000/ch1214/mono.m3u8?token=ananev.f7RF1INn-8aO1ygfbg6gRgaBre9Q-EGucKC_3WPV1IUXxCGA9lNlnCFKp-N-FhE4
-#EXTINF:0,Агент 007
-#EXTGRP: кино
-http://lrfdzo0r.tvclub.xyz/iptv/Q9P4KKCV6KVQQD/31715/index.m3u8
-
-
-================
-#EXTINF:0,TOP USSR HD
-#EXTGRP: кино
-http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/13005/index.m3u8
-#EXTINF:0,BCU СССР HD
-#EXTGRP: кино
-http://217.107.34.114:8006/playlist.m3u8
-#EXTINF:0,KBC-Страна СССР
-#EXTGRP: кино
-http://lzhifbas.otttv.pw/iptv/BQM7ZK5X2WWXTF/11091/index.m3u8
-#EXTINF:0,Кинозал! СССР
-#EXTGRP: кино
-http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/11061/index.m3u8
-#EXTINF:0,Dosug СССР HD
-#EXTGRP: кино
-http://lzhifbas.otttv.pw/iptv/BQM7ZK5X2WWXTF/14218/index.m3u8
-#EXTINF:0,VF Фильмы СССР
-#EXTGRP: кино
-http://lzhifbas.otttv.pw/iptv/BQM7ZK5X2WWXTF/10085/index.m3u8
-#EXTINF:0,Yosso TV Советские фильмы
-#EXTGRP: кино
-http://bqu9xew2.megatv.fun/iptv/WMH4PGAX9ZRUAB/14175/index.m3u8
-#EXTINF:0,KLI СССР HD
-#EXTGRP: кино
-http://lzhifbas.otttv.pw/iptv/BQM7ZK5X2WWXTF/18175/index.m3u8
----
-
----
-#EXTINF:0,Военное кино HD
-#EXTGRP: кино
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/18072/index.m3u8
-#EXTINF:0,VF Наша победа
-#EXTGRP: кино
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/10083/index.m3u8
-#EXTINF:0,MM USSR 1941-1945
-#EXTGRP: кино
-http://pe7bw0xr.tvclub.xyz/iptv/27HZBNKDKT9BRH/13018/index.m3u8
-#EXTINF:0,MiniMax Детектив U.S.S.R
-#EXTGRP: кино
-http://eu01.spr24.net/20731/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,MiniMax Приключения U.S.S.R
-#EXTGRP: кино
-http://eu01.spr24.net/20760/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,MiniMax Фантастика U.S.S.R
-#EXTGRP: кино
-http://eu01.spr24.net/20732/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,MiniMax Сказки U.S.S.R
-#EXTGRP: кино
-http://eu01.spr24.net/20750/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,VF Мосфильм
-#EXTGRP: кино
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/10084/index.m3u8
-#EXTINF:0,Yosso TV Наше Детское
-#EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/19433/index.m3u8
-#EXTINF:0,VF Тайны следствия
-#EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/K3VWCFWK7UAKK7/13082/index.m3u8
-#EXTINF:0,Liberty Сказки FHD
-#EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/19304/index.m3u8
-#EXTINF:0,Prokop TV Сказки СССР
-#EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/19317/index.m3u8
-#EXTINF:0,IPTVPLAY МультСказки
-#EXTGRP: кино
-http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
-
-#EXTINF:0,Мосфильм Золотая коллекция
-#EXTGRP: кино
-https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
-
 ======================
 
 
-#EXTINF:0,Кино ТВ
-#EXTGRP: кино
-https://tvcdnpotok.com/504/index.m3u8?wmsAuthSign=4d93556d0e24e9bbc7c48e52772e7f8b-1709221708-64i13i102i581
-#EXTINF:0,FILM TV
-#EXTGRP: кино
-http://hlss.goodgame.ru/hls/157269.m3u8
+
+
 #EXTINF:0,FILM TV2
 #EXTGRP: кино
 http://hlss.goodgame.ru/hls/163253.m3u8
@@ -663,40 +534,8 @@ http://hlss.goodgame.ru/hls/204722.m3u8
 
 
 
-#EXTINF:0,CineMan Сваты
-#EXTGRP: кино
-http://ip1.orgip.net/684/video.m3u8?token=M4f082ab4c
 
-#EXTINF:0,Мосфильм
-#EXTGRP: кино
-http://352c2131.rossteleccom.net/iptv/MHTPDP44RP2N7L/10084/index.m3u8
-#EXTINF:0,Ленфильм
-#EXTGRP: кино
-http://215602c2.kazaktelekom.com/iptv/Q9ZPNXGPEYBRN3KARM7LTYTB/18121/index.m3u8
-#EXTINF:0,Беларусьфильм
-#EXTGRP: кино
-http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/18125/index.m3u8
-#EXTINF:0,Киностудия Горького
-#EXTGRP: кино
-http://eqatmiyg.megogo.xyz/iptv/VEXVELA6Z7PXH6/18122/index.m3u8
-#EXTINF:0,Одесская киностудия
-#EXTGRP: кино
-http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/18120/index.m3u8
-#EXTINF:0,VF Фильмы СССР
-#EXTGRP: кино
-http://fe8bb087.edmonst.net/iptv/MHTPDP44RP2N7L/10085/index.m3u8
-#EXTINF:0,Кинозал! СССР
-#EXTGRP: кино
-http://352c2131.rossteleccom.net/iptv/MHTPDP44RP2N7L/11061/index.m3u8
-#EXTINF:0,USSR
-#EXTGRP: кино
-http://215602c2.kazaktelekom.com/iptv/Q9ZPNXGPEYBRN3KARM7LTYTB/11102/index.m3u8
-#EXTINF:0,TOP USSR HD
-#EXTGRP: кино
-http://4c714bd4.kazaktelekom.com/iptv/MHTPDP44RP2N7L/13005/index.m3u8
-#EXTINF:0,CineMan
-#EXTGRP: кино
-http://ip1.orgip.net/683/video.m3u8?token=M4f082ab4c
+
 
 #EXTINF:0,Конец
 
