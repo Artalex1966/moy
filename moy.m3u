@@ -51,7 +51,9 @@ http://96dc02c9.ottolok.net/iptv/7LNPRS4449MZZZ/11026/index.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://srv-4-streaming.iptvin.fun:8080/bcusssr/index.m3u8?token=eb6a55362e519b2408e01a92017916819ad46c95-9765370107-1717789364-1717746164
-
+#EXTINF:0,Сделано в СССР
+#EXTGRP: кино
+https://fs2.persik.by/Otechestvennoe3/index.m3u8?bw943083431704.m3u8
 #EXTINF:0,Сделано в СССР
 #EXTGRP: кино
 https://online.vse-tv.net/ussr_onl/index.mpd
@@ -403,16 +405,16 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:0,СТС International
 #EXTGRP: эфир
-http://otv.wotom.net:4433/udp/238.1.1.67:1234
+https://cdn1.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP: эфир
 http://188.113.190.15/19/video.m3u8
 #EXTINF:0,ТНТ4
 #EXTGRP: эфир
-http://185.37.150.40:8092/THT4/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:0, ТНТ4 International
 #EXTGRP: эфир
-http://ip1.orgip.net/121/video.m3u8?token=M4f082ab4c
+http://sc.id-tv.kz/tnt4_34_35.m3u8
 #EXTINF:0,Суббота
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
