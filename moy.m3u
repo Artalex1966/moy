@@ -42,6 +42,9 @@ http://ip1.orgip.net/659/video.m3u8?token=M4f082ab4c
 #EXTGRP: кино
 http://46.8.29.51:2020/channel/2bac7f96/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 
+#EXTINF:0,Отечественное кино
+#EXTGRP: кино
+https://fs2.persik.by/Otechestvennoe3/index.m3u8?bw943083431704.m3u8
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NTIxOTAwODUyMzg5OCIsImV4cCI6MTcxODAxNzUxMCwiaHdpZCI6IjE5NTE5NjcwNGEzNDg1ZDFhYTRhMzk5NThjNzk3NzBhNTg4MGEzMjkyNWFmN2VhNmQ1Y2QzYjM3YmNhMDk4MDMiLCJsYXN0X3JlcV9kYXRlIjoxNzE3NDEyNzEwLCJzZXNzaW9uX2lkIjoiMWMyOTFlOTBhNmE1MjUwYmJlMjk3MWNkYjdkMDY2NzYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CJQ2tSg6LyxGhTzLXqeOgYNo80qjbJTezmOK0T0VHwA
@@ -546,10 +549,21 @@ http://hlss.goodgame.ru/hls/204717.m3u8
 http://hlss.goodgame.ru/hls/204722.m3u8
 
 
-
-
-
-
+#EXTINF:0,TOP USSR
+#EXTGRP: кино
+http://de.1usd.tv:34000/ch1072/mono.m3u8?token=1usdtv_mish_08.lsBw6AA7VtYYMPtxs9N-TQUuFXTR9sG2Z3uORKtuPoe-mq_K0gnEXq-7l96yeIpF
+#EXTINF:0,Кинозал! СССР
+#EXTGRP: кино
+http://7kxt9rbm.tvclub.xyz/iptv/UP4EZUTEKBXD4D/11061/index.m3u8
+#EXTINF:0,Yosso советскии фильмы
+#EXTGRP: кино
+http://7kxt9rbm.tvclub.xyz/iptv/UP4EZUTEKBXD4D/14175/index.m3u8
+#EXTINF:0,Clarity4K Кино CCCР
+#EXTGRP: кино
+http://str01.ottg.app/7890/mpegts?token=86861220c3b965aee286df05b52063aa
+#EXTINF:0,VF Фильмы СССР
+#EXTGRP: кино
+http://95.165.138.112:9981/stream/channelid/139683543?profile=pass
 
 #EXTINF:0,Конец
 
