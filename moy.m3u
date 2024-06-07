@@ -538,15 +538,15 @@ https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:0,FILM TV2
 #EXTGRP: кино
 http://hlss.goodgame.ru/hls/163253.m3u8
-#EXTINF:0,FILM TV3
+#EXTINF:0,Фильмы ретровидения
 #EXTGRP: кино
-http://hlss.goodgame.ru/hls/204708.m3u8
-#EXTINF:0,FILM TV4
+https://ipv4.bozztv.com/dvrfl07/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF:0,Ретровидение Кинопанорама
 #EXTGRP: кино
-http://hlss.goodgame.ru/hls/204717.m3u8
-#EXTINF:0,FILM TV5
+https://ipv4.bozztv.com/dvrfl07/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
+#EXTINF:0,Кинозалы 24
 #EXTGRP: кино
-http://hlss.goodgame.ru/hls/204722.m3u8
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0,TOP USSR
@@ -564,6 +564,9 @@ http://str01.ottg.app/7890/mpegts?token=86861220c3b965aee286df05b52063aa
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
 http://95.165.138.112:9981/stream/channelid/139683543?profile=pass
+#EXTINF:0,Военное Кино HD
+#EXTGRP: кино
+http://43zvd7dq.megatv.fun/iptv/7LNPRS4449MZZZ/18072/index.m3u8
 
 #EXTINF:0,Конец
 
