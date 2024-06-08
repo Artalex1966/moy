@@ -535,9 +535,9 @@ https://v2.catcast.tv/content/37925/index.m3u8
 
 
 
-#EXTINF:0,FILM TV2
+#EXTINF:0,veles киноплёнка
 #EXTGRP: кино
-http://hlss.goodgame.ru/hls/163253.m3u8
+http://43zvd7dq.megatv.fun/iptv/QX6TFFFGNU9LAQ/31638/index.m3u8
 #EXTINF:0,Фильмы ретровидения
 #EXTGRP: кино
 https://ipv4.bozztv.com/dvrfl07/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
@@ -548,6 +548,12 @@ https://ipv4.bozztv.com/dvrfl07/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 #EXTGRP: кино
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
 
+#EXTINF:0,Ретро
+#EXTGRP: кино
+http://de.1usd.tv:34000/ch508/mono.m3u8?token=1usdtv_mish_08.lsBw6AA7VtYYMPtxs9N-TU1_3e6BGRsT3LRbLPPwMVUZleihQtJSiLmGh-MRMX3c
+#EXTINF:0,veles ссср эдем
+#EXTGRP: кино
+http://43zvd7dq.megatv.fun/iptv/QX6TFFFGNU9LAQ/31643/index.m3u8
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
 http://x3c1rsvw.ottclub.xyz/iptv/QX6TFFFGNU9LAQ/18175/index.m3u8
@@ -566,6 +572,21 @@ http://str01.ottg.app/7890/mpegts?token=86861220c3b965aee286df05b52063aa
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
 http://95.165.138.112:9981/stream/channelid/139683543?profile=pass
+#EXTINF:0,VF Киностудия им. Горького
+#EXTGRP: кино
+http://95.165.138.112:9981/stream/channelid/319603136?profile=pass
+#EXTINF:0,VF VF Ленфильм
+#EXTGRP: кино
+http://95.165.138.112:9981/stream/channelid/930071411?profile=pass
+#EXTINF:0,VF Одесская киностудия
+#EXTGRP: кино
+http://95.165.138.112:9981/stream/channelid/207465928?profile=pass
+#EXTINF:0,VF Свердловская киностудия
+#EXTGRP: кино
+http://95.165.138.112:9981/stream/channelid/1639332301?profile=pass
+#EXTINF:0,VF Мосфильм
+#EXTGRP: кино
+http://95.165.138.112:9981/stream/channelid/361361198?profile=pass
 #EXTINF:0,Военное Кино HD
 #EXTGRP: кино
 http://43zvd7dq.megatv.fun/iptv/QX6TFFFGNU9LAQ/18072/index.m3u8
