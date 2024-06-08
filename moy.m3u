@@ -51,15 +51,16 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclass
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://96dc02c9.ottolok.net/iptv/QX6TFFFGNU9LAQ/11026/index.m3u8
-#EXTINF:0,KLI СССР HD
+#EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://x3c1rsvw.ottclub.xyz/iptv/QX6TFFFGNU9LAQ/18175/index.m3u8
+http://7kxt9rbm.tvclub.xyz/iptv/UP4EZUTEKBXD4D/11026/index.m3u8
+#EXTINF:0,VF Фильмы СССР
+#EXTGRP: кино
+http://95.165.138.112:9981/stream/channelid/139683543?profile=pass
 #EXTINF:0,Сделано в СССР
 #EXTGRP: кино
 https://online.vse-tv.net/ussr_onl/index.mpd
-#EXTINF:0,Комедия
-#EXTGRP: кино
-http://188.113.190.15/214/mono.m3u8
+
 
 #EXTINF:0,Дом кино
 #EXTGRP: кино
@@ -113,7 +114,9 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/2106/index.m3u8
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/2106/index.m3u8
 
-
+#EXTINF:0,Комедия
+#EXTGRP: кино
+http://188.113.190.15/214/mono.m3u8
 #EXTINF:0,FILM TV2
 #EXTGRP: кино
 http://hlss.goodgame.ru/hls/163253.m3u8
@@ -545,7 +548,9 @@ https://ipv4.bozztv.com/dvrfl07/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 #EXTGRP: кино
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:0,KLI СССР HD
+#EXTGRP: кино
+http://x3c1rsvw.ottclub.xyz/iptv/QX6TFFFGNU9LAQ/18175/index.m3u8
 #EXTINF:0,TOP USSR
 #EXTGRP: кино
 http://de.1usd.tv:34000/ch1072/mono.m3u8?token=1usdtv_mish_08.lsBw6AA7VtYYMPtxs9N-TQUuFXTR9sG2Z3uORKtuPoe-mq_K0gnEXq-7l96yeIpF
