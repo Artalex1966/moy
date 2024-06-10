@@ -54,13 +54,15 @@ http://96dc02c9.ottolok.net/iptv/QX6TFFFGNU9LAQ/11026/index.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://7kxt9rbm.tvclub.xyz/iptv/UP4EZUTEKBXD4D/11026/index.m3u8
-#EXTINF:0,VF Фильмы СССР
+#EXTINF:0,Clarity4K Кино CCCР
 #EXTGRP: кино
-http://95.165.138.112:9981/stream/channelid/139683543?profile=pass
+http://str01.ottg.app/7890/mpegts?token=86861220c3b965aee286df05b52063aa
 #EXTINF:0,Сделано в СССР
 #EXTGRP: кино
 https://online.vse-tv.net/ussr_onl/index.mpd
-
+#EXTINF:0,Ретро
+#EXTGRP: кино
+http://de.1usd.tv:34000/ch508/mono.m3u8?token=1usdtv_mish_08.lsBw6AA7VtYYMPtxs9N-TU1_3e6BGRsT3LRbLPPwMVUZleihQtJSiLmGh-MRMX3c
 
 #EXTINF:0,Дом кино
 #EXTGRP: кино
@@ -566,27 +568,8 @@ http://7kxt9rbm.tvclub.xyz/iptv/UP4EZUTEKBXD4D/11061/index.m3u8
 #EXTINF:0,Yosso советскии фильмы
 #EXTGRP: кино
 http://7kxt9rbm.tvclub.xyz/iptv/UP4EZUTEKBXD4D/14175/index.m3u8
-#EXTINF:0,Clarity4K Кино CCCР
-#EXTGRP: кино
-http://str01.ottg.app/7890/mpegts?token=86861220c3b965aee286df05b52063aa
-#EXTINF:0,VF Фильмы СССР
-#EXTGRP: кино
-http://95.165.138.112:9981/stream/channelid/139683543?profile=pass
-#EXTINF:0,VF Киностудия им. Горького
-#EXTGRP: кино
-http://95.165.138.112:9981/stream/channelid/319603136?profile=pass
-#EXTINF:0,VF VF Ленфильм
-#EXTGRP: кино
-http://95.165.138.112:9981/stream/channelid/930071411?profile=pass
-#EXTINF:0,VF Одесская киностудия
-#EXTGRP: кино
-http://95.165.138.112:9981/stream/channelid/207465928?profile=pass
-#EXTINF:0,VF Свердловская киностудия
-#EXTGRP: кино
-http://95.165.138.112:9981/stream/channelid/1639332301?profile=pass
-#EXTINF:0,VF Мосфильм
-#EXTGRP: кино
-http://95.165.138.112:9981/stream/channelid/361361198?profile=pass
+
+
 #EXTINF:0,Военное Кино HD
 #EXTGRP: кино
 http://43zvd7dq.megatv.fun/iptv/QX6TFFFGNU9LAQ/18072/index.m3u8
