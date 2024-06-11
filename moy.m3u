@@ -47,7 +47,7 @@ http://46.8.29.51:2020/channel/2bac7f96/index.m3u8?q=a38daa3bb08ae3e108c4b30fae7
 https://fs2.persik.by/Otechestvennoe3/index.m3u8?bw943083431704.m3u8
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
-https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NTIxOTAwODUyMzg5OCIsImV4cCI6MTcxODAxNzUxMCwiaHdpZCI6IjE5NTE5NjcwNGEzNDg1ZDFhYTRhMzk5NThjNzk3NzBhNTg4MGEzMjkyNWFmN2VhNmQ1Y2QzYjM3YmNhMDk4MDMiLCJsYXN0X3JlcV9kYXRlIjoxNzE3NDEyNzEwLCJzZXNzaW9uX2lkIjoiMWMyOTFlOTBhNmE1MjUwYmJlMjk3MWNkYjdkMDY2NzYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CJQ2tSg6LyxGhTzLXqeOgYNo80qjbJTezmOK0T0VHwA
+http://srv-2-streaming.iptvin.fun:8080/soviet_kinoklass_hd/index.m3u8?token=b78871d8ce0e6cd9564b2958656669a2834dbc0d-9765370107-1718147461-1718104261
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://96dc02c9.ottolok.net/iptv/QX6TFFFGNU9LAQ/11026/index.m3u8
