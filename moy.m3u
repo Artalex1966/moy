@@ -63,13 +63,16 @@ https://online.vse-tv.net/ussr_onl/index.mpd
 #EXTINF:0,Ретро
 #EXTGRP: кино
 http://de.1usd.tv:34000/ch508/mono.m3u8?token=1usdtv_mish_08.lsBw6AA7VtYYMPtxs9N-TU1_3e6BGRsT3LRbLPPwMVUZleihQtJSiLmGh-MRMX3c
+#EXTINF:0,TB21
+#EXTGRP: кино
+http://188.113.190.15/47/mono.m3u8
 
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://188.113.190.15/119/video.m3u8
-#EXTINF:0,Дом кино
+#EXTINF:0,Дом кино Премиум HD
 #EXTGRP: кино
-http://188.113.190.15/119/mono.m3u8
+http://188.113.190.15/91/mono.m3u8
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
 http://kino-1.catcast.tv/content/38617/index.m3u8
