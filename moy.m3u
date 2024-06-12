@@ -48,12 +48,6 @@ https://fs2.persik.by/Otechestvennoe3/index.m3u8?bw943083431704.m3u8
 #EXTINF:0,Советское родное
 #EXTGRP: кино
 http://91.207.115.228:5000/c161
-#EXTINF:0,BCU СССР HD
-#EXTGRP: кино
-http://96dc02c9.ottolok.net/iptv/QX6TFFFGNU9LAQ/11026/index.m3u8
-#EXTINF:0,BCU СССР HD
-#EXTGRP: кино
-http://7kxt9rbm.tvclub.xyz/iptv/UP4EZUTEKBXD4D/11026/index.m3u8
 #EXTINF:0,Clarity4K Кино CCCР
 #EXTGRP: кино
 http://str01.ottg.app/7890/mpegts?token=86861220c3b965aee286df05b52063aa
@@ -69,6 +63,9 @@ https://fs2.persik.by/Otechestvennoe3/index.m3u8
 #EXTINF:0,USSR
 #EXTGRP: кино
 http://asch75.kazaktelekom.com/iptv/EBBDX25MF7G6MC/11102/index.m3u8
+#EXTINF:0,USSR
+#EXTGRP: кино
+http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/11102/index.m3u8
 #EXTINF:0,Ретро
 #EXTGRP: кино
 http://de.1usd.tv:34000/ch508/mono.m3u8?token=1usdtv_mish_08.lsBw6AA7VtYYMPtxs9N-TU1_3e6BGRsT3LRbLPPwMVUZleihQtJSiLmGh-MRMX3c
