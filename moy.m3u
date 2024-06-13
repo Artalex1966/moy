@@ -42,9 +42,7 @@ http://ip1.orgip.net/659/video.m3u8?token=M4f082ab4c
 #EXTGRP: кино
 http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 
-#EXTINF:0,Отечественное кино
-#EXTGRP: кино
-https://fs2.persik.by/Otechestvennoe3/index.m3u8?bw943083431704.m3u8
+
 #EXTINF:0,Советское родное
 #EXTGRP: кино
 http://91.207.115.228:5000/c161
@@ -54,12 +52,7 @@ http://str01.ottg.app/7890/mpegts?token=86861220c3b965aee286df05b52063aa
 #EXTINF:0,Сделано в СССР
 #EXTGRP: кино
 https://online.vse-tv.net/ussr_onl/index.mpd
-#EXTINF:0,PersikTV  Советские комедии
-#EXTGRP: кино
-http://fs2.persik.by/Soviet_Comedy6/index.m3u8
-#EXTINF:0,PersikTV Отечественное кино
-#EXTGRP: кино
-https://fs2.persik.by/Otechestvennoe3/index.m3u8
+
 #EXTINF:0,USSR
 #EXTGRP: кино
 http://asch75.kazaktelekom.com/iptv/EBBDX25MF7G6MC/11102/index.m3u8
@@ -146,9 +139,7 @@ https://v2.catcast.tv/content/41333/index.m3u8
 #EXTINF:0,СитиЭдем КиноКомедия
 #EXTGRP: кино
 https://v2.catcast.tv/content/41331/index.m3u8
-#EXTINF:0,Prokop TV Cinema Best
-#EXTGRP: кино
-http://fs2.persik.by/Cinema_Best2/index.m3u8
+
 #EXTINF:0,α cinema
 #EXTGRP: кино
 http://hlss.goodgame.ru/hls/205072.m3u8
