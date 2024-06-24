@@ -42,7 +42,9 @@ http://ip1.orgip.net/659/video.m3u8?token=M4f082ab4c
 #EXTGRP: кино
 http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 
-
+#EXTINF:0,KLI USSR HD
+#EXTGRP: кино
+http://s1.iptvcinema.ru/kli_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://str01.ottg.app/9118/video.m3u8?token=86861220c3b965aee286df05b52063aa
@@ -52,6 +54,15 @@ http://str01.ottg.app/3374/video.m3u8?token=86861220c3b965aee286df05b52063aa
 #EXTINF:0,Clarity4K Кино CCCР
 #EXTGRP: кино
 http://str01.ottg.app/7890/mpegts?token=86861220c3b965aee286df05b52063aa
+#EXTINF:0,DITV КОМЕДИИ СССР
+#EXTGRP: кино
+http://ditv.ydns.eu:8888/channel/71499338/index.m3u8?q=1d0bb4934fdb81ec1609425586135cfd
+#EXTINF:0,VeleS СССР
+#EXTGRP: кино
+http://s1.iptvcinema.ru/veles_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
+#EXTINF:0,Yosso TV Советские фильмы
+#EXTGRP: кино
+http://cdn.balelbrus.com/balancer/bigteisti1/Y-SSSR/Q29zbW9zMTc3fHxRMjlUYlc5VE1UYzNRMjlUYlc5VE1UYzM=/index.m3u8
 
 #EXTINF:0,USSR
 #EXTGRP: кино
