@@ -43,12 +43,12 @@ http://ip1.orgip.net/659/video.m3u8?token=M4f082ab4c
 http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 
 
-#EXTINF:0,Советское родное
+#EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://91.207.115.228:5000/c161
-#EXTINF:0,Родное кино
+http://str01.ottg.app/9118/video.m3u8?token=86861220c3b965aee286df05b52063aa
+#EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-http://188.113.190.15/317/video.m3u8
+http://str01.ottg.app/3374/video.m3u8?token=86861220c3b965aee286df05b52063aa
 #EXTINF:0,Clarity4K Кино CCCР
 #EXTGRP: кино
 http://str01.ottg.app/7890/mpegts?token=86861220c3b965aee286df05b52063aa
