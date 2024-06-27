@@ -157,10 +157,9 @@ https://v2.catcast.tv/content/41333/index.m3u8
 #EXTGRP: кино
 https://v2.catcast.tv/content/41331/index.m3u8
 
-#EXTINF:0,α cinema
+#EXTINF:0,CineMan
 #EXTGRP: кино
-http://hlss.goodgame.ru/hls/205072.m3u8
-
+http://ip1.orgip.net/688/video.m3u8?token=M4f082ab4c
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187241.m3u8
@@ -169,7 +168,7 @@ https://hls.goodgame.ru/hls/187241.m3u8
 
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
-https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
+http://188.113.190.15/337/mono.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
@@ -383,12 +382,18 @@ https://autopilot.catcast.tv/content/40783/index.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
 https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
+#EXTINF:0,Киномикс
+#EXTGRP: кино
+http://188.113.190.15/308/mono.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
 https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: кино
 https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
+#EXTINF:0,Киносемья
+#EXTGRP: кино
+http://188.113.190.15/311/mono.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
 https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
