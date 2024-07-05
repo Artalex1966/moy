@@ -45,18 +45,21 @@ http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 #EXTINF:0,KLI USSR HD
 #EXTGRP: кино
 http://s1.iptvcinema.ru/kli_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
+#EXTINF:0,Fresh Soviet
+#EXTGRP: кино
+http://rr3.8v8i8p.com/~301736849543375526E505731754D/61859/hls/pl.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://str01.ottg.app/9118/video.m3u8?token=86861220c3b965aee286df05b52063aa
+http://s1.iptvcinema.ru/bcu_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://str01.ottg.app/3374/video.m3u8?token=86861220c3b965aee286df05b52063aa
-#EXTINF:0,Clarity4K Кино CCCР
+#EXTINF:0,Prokop TV Cкaзки CCCP
 #EXTGRP: кино
-http://str01.ottg.app/7890/mpegts?token=86861220c3b965aee286df05b52063aa
-#EXTINF:0,DITV КОМЕДИИ СССР
+http://rr3.8v8i8p.com/~301736849543375526E505731754D/73664/hls/pl.m3u8
+#EXTINF:0,USSR HD
 #EXTGRP: кино
-http://ditv.ydns.eu:8888/channel/71499338/index.m3u8?q=1d0bb4934fdb81ec1609425586135cfd
+http://s1.iptvcinema.ru/pg_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
 http://s1.iptvcinema.ru/veles_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
@@ -89,9 +92,18 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0,Детское кино
+#EXTGRP: кино
+http://s1.iptvcinema.ru/detskoe_kino/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
+#EXTINF:0,Кино 1
+#EXTGRP: кино
+http://s1.iptvcinema.ru/kino_1/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
+#EXTINF:0,Кино 2
+#EXTGRP: кино
+http://s1.iptvcinema.ru/kino_2/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
 #EXTINF:0,Военное кино
 #EXTGRP: кино
-http://34f4d057.shukinuki.website/iptv/MHTPDP44RP2N7L/18072/index.m3u8
+http://s1.iptvcinema.ru/voennoe_kino/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
 #EXTINF:0,Военное кино
 #EXTGRP: кино
 http://43zvd7dq.megatv.fun/iptv/QX6TFFFGNU9LAQ/18072/index.m3u8
