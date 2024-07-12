@@ -60,6 +60,9 @@ http://s1.iptvcinema.ru/veles_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5
 #EXTINF:0,Dosug СССР HD
 #EXTGRP: кино
 http://s1.iptvcinema.ru/dosug_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
+#EXTINF:0,CineMan CCCP 4K
+#EXTGRP: кино
+http://ip1.orgip.net/1602/video.m3u8?token=Md7ac19a92
 
 #EXTINF:0,Дом кино
 #EXTGRP: кино
@@ -129,6 +132,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/2106/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+#EXTINF:0,CineMan TOP
+#EXTGRP: кино
+http://ip1.orgip.net/683/video.m3u8?token=Md7ac19a92
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://188.113.190.15/214/mono.m3u8
