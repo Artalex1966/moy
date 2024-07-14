@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 
+#EXTINF:0,360
+#EXTGRP: эфир
+https://strm.yandex.ru/kal/360tv/360tv0.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
@@ -60,9 +63,7 @@ http://s1.iptvcinema.ru/veles_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5
 #EXTINF:0,Dosug СССР HD
 #EXTGRP: кино
 http://s1.iptvcinema.ru/dosug_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
-#EXTINF:0,Советская Киноклассика
-#EXTGRP: кино
-http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/83621/hls/pl.m3u8
+
 
 #EXTINF:0,Дом кино
 #EXTGRP: кино
