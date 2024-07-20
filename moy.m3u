@@ -97,15 +97,12 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13018/index.m3u8
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
 http://olpjsfw9.rostelekom.xyz/iptv/GND3B9YB2KUEYX/13018/index.m3u8
-
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13096/index.m3u8
 #EXTINF:0,MM USSR Детектив HD 
 #EXTGRP: кино
 http://olpjsfw9.rostelekom.xyz/iptv/4628FRVFBAMNVW/13096/index.m3u8
-
-
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13019/index.m3u8
@@ -139,13 +136,10 @@ http://ip1.orgip.net/683/video.m3u8?token=Md7ac19a92
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://188.113.190.15/214/mono.m3u8
-#EXTINF:0,FILM TV2
-#EXTGRP: кино
-http://hlss.goodgame.ru/hls/163253.m3u8
-#EXTINF:0,FILM TV3
+#EXTINF:0,1FILMAX
 #EXTGRP: кино
 http://hlss.goodgame.ru/hls/204708.m3u8
-#EXTINF:0,FILM TV4
+#EXTINF:0,2FILMAX
 #EXTGRP: кино
 http://hlss.goodgame.ru/hls/204717.m3u8
 #EXTINF:0,FILM TV5
@@ -181,6 +175,9 @@ http://80.245.93.242:9030/play/a03g/index.m3u8
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
 http://80.245.93.242:9030/play/a030/index.m3u8
+#EXTINF:0,Мужское кино
+#EXTGRP: кино
+http://188.113.190.15/316/mono.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
 http://80.245.93.242:9030/play/a019/index.m3u8
