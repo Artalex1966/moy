@@ -174,31 +174,31 @@ http://ip1.orgip.net/1606/video.m3u8?token=Md7ac19a92
 
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
-http://188.113.190.15/327/mono.m3u8
+http://80.245.93.242:9030/play/a031/index.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
-http://188.113.190.15/317/mono.m3u8
+http://80.245.93.242:9030/play/a03g/index.m3u8
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
-http://188.113.190.15/316/mono.m3u8
+http://80.245.93.242:9030/play/a030/index.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
-http://188.113.190.15/309/mono.m3u8
+http://80.245.93.242:9030/play/a019/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-http://188.113.190.15/313/mono.m3u8
+http://80.245.93.242:9030/play/a02w/index.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
-http://188.113.190.15/308/mono.m3u8
+http://80.245.93.242:9030/play/a02u/index.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: кино
-http://188.113.190.15/311/mono.m3u8
+http://80.245.93.242:9030/play/a033/index.m3u8
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
-http://188.113.190.15/129/mono.m3u8
+http://80.245.93.242:9030/play/a02x/index.m3u8
 #EXTINF:0,Киносвидание
 #EXTGRP: кино
-http://188.113.190.15/310/mono.m3u8
+http://80.245.93.242:9030/play/a02v/index.m3u8
 ---
 
 #EXTINF:0,1FILMAX
