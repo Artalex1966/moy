@@ -133,6 +133,9 @@ http://91.218.160.212:8015/play/a01z/index.m3u8
 #EXTINF:0,CineMan TOP
 #EXTGRP: кино
 http://ip1.orgip.net/683/video.m3u8?token=Md7ac19a92
+#EXTINF:0,CineMan PREMIUM
+#EXTGRP: кино
+http://ott.server-iptv.live/1664/video.m3u8?token=M4f082ab4c
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://188.113.190.15/214/mono.m3u8
