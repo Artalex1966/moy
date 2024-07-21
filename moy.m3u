@@ -87,9 +87,6 @@ http://s1.iptvcinema.ru/kino_2/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5Tnpj
 #EXTINF:0,Военное кино
 #EXTGRP: кино
 http://s1.iptvcinema.ru/voennoe_kino/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
-#EXTINF:0,Военное кино
-#EXTGRP: кино
-http://43zvd7dq.megatv.fun/iptv/QX6TFFFGNU9LAQ/18072/index.m3u8
 
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
@@ -111,7 +108,7 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13019/index.m3u8
 http://olpjsfw9.rostelekom.xyz/iptv/GND3B9YB2KUEYX/13019/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13037/index.m3u8
+http://s1.iptvcinema.ru/minimax_comedyclassic/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/13037/index.m3u8
@@ -130,6 +127,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/2106/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://91.218.160.212:8015/play/a01z/index.m3u8
+#EXTINF:0,BCU Cinema HD
+#EXTGRP: кино
+http://s1.iptvcinema.ru/bcu_cinema/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
 #EXTINF:0,CineMan TOP
 #EXTGRP: кино
 http://ip1.orgip.net/683/video.m3u8?token=Md7ac19a92
@@ -157,15 +157,21 @@ https://v2.catcast.tv/content/41331/index.m3u8
 #EXTINF:0,СитиЭдем КиноДетектив
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/41327/index.m3u8
-#EXTINF:0,СитиЭдем КиноМистика
+#EXTINF:0,BCU Action HD
 #EXTGRP: кино
-https://autopilot.catcast.tv/content/40783/index.m3u8
+http://s1.iptvcinema.ru/bcu_action/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187241.m3u8
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
 http://ip1.orgip.net/1606/video.m3u8?token=Md7ac19a92
+#EXTINF:0,Минимакс-Фантастика HD
+#EXTGRP: кино
+http://s1.iptvcinema.ru/minimax_fantastic/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
+#EXTINF:0,Fresh Fantastic
+#EXTGRP: кино
+http://s1.iptvcinema.ru/fresh_fantastic/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
 
 ==
 
