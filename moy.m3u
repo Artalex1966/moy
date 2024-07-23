@@ -127,15 +127,15 @@ http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/2106/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://91.218.160.212:8015/play/a01z/index.m3u8
-#EXTINF:0,BCU Cinema HD
+#EXTINF:0,Кинопоказ
 #EXTGRP: кино
-http://s1.iptvcinema.ru/bcu_cinema/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
+http://45.93.46.27:8887/8139/video.m3u8
 #EXTINF:0,CineMan TOP
 #EXTGRP: кино
 http://ip1.orgip.net/683/video.m3u8?token=Md7ac19a92
-#EXTINF:0,CineMan PREMIUM
+#EXTINF:0,Остросюжетное
 #EXTGRP: кино
-http://ott.server-iptv.live/1664/video.m3u8?token=M4f082ab4c
+http://45.93.46.27:8887/8184/video.m3u8
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://188.113.190.15/214/mono.m3u8
