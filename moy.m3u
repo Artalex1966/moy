@@ -44,13 +44,13 @@ http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 
 #EXTINF:0,KLI USSR HD
 #EXTGRP: кино
-http://s1.iptvcinema.ru/kli_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
+http://12.troya.one:34000/ch2274/mono.m3u8?token=rl_i19.aOFCGelcbizbjN_fKtMZ4XmhBuqdaYoI9pDTz7-MMdNdghCw72ZayacLjkIwkyGB
 #EXTINF:0,Fresh Soviet
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/61859/hls/pl.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://s1.iptvcinema.ru/bcu_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
+http://rhsbjv7k.tvclub.xyz/iptv/QX6TFFFGNU9LAQ/11026/index.m3u8
 #EXTINF:0,Prokop TV Cкaзки CCCP
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/73664/hls/pl.m3u8
@@ -59,7 +59,7 @@ http://rr3.8v8i8p.com/~301736849543375526E505731754D/73664/hls/pl.m3u8
 http://s1.iptvcinema.ru/pg_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
-http://s1.iptvcinema.ru/veles_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
+http://12.troya.one:34000/ch2597/mono.m3u8?token=rl_i19.aOFCGelcbizbjN_fKtMZ4b0bol-I4a1uWQ5wVWnFkHPFR8yigVaVruV6rHj9TC89
 #EXTINF:0,Dosug СССР HD
 #EXTGRP: кино
 http://s1.iptvcinema.ru/dosug_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
