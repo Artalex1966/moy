@@ -157,21 +157,16 @@ https://v2.catcast.tv/content/41331/index.m3u8
 #EXTINF:0,СитиЭдем КиноДетектив
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/41327/index.m3u8
-#EXTINF:0,BCU Action HD
+#EXTINF:0,КИНО ТВ HD
 #EXTGRP: кино
-http://s1.iptvcinema.ru/bcu_action/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
+http://s.only4.tv/0147/index.m3u8?token=diR3Bf9AiQ
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187241.m3u8
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
 http://ip1.orgip.net/1606/video.m3u8?token=Md7ac19a92
-#EXTINF:0,Минимакс-Фантастика HD
-#EXTGRP: кино
-http://s1.iptvcinema.ru/minimax_fantastic/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
-#EXTINF:0,Fresh Fantastic
-#EXTGRP: кино
-http://s1.iptvcinema.ru/fresh_fantastic/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
+
 
 ==
 
