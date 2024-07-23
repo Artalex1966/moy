@@ -142,6 +142,9 @@ http://ip1.orgip.net/683/video.m3u8?token=Md7ac19a92
 #EXTINF:0,Остросюжетное
 #EXTGRP: кино
 http://45.93.46.27:8887/8184/video.m3u8
+#EXTINF:0,КИНО ТВ HD
+#EXTGRP: кино
+http://45.93.46.27:8887/8207/video.m3u8
 
 #EXTINF:0,1FILMAX
 #EXTGRP: кино
@@ -161,9 +164,7 @@ https://v2.catcast.tv/content/41331/index.m3u8
 #EXTINF:0,СитиЭдем КиноДетектив
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/41327/index.m3u8
-#EXTINF:0,КИНО ТВ HD
-#EXTGRP: кино
-http://80.245.93.242:9030/play/sfd556/index.m3u8
+
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187241.m3u8
