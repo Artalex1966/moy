@@ -124,6 +124,12 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/2106/index.m3u8
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/2106/index.m3u8
 
+#EXTINF:0,Комедия
+#EXTGRP: кино
+http://188.113.190.15/214/mono.m3u8
+#EXTINF:0,Камеди HD
+#EXTGRP: кино
+http://stream.rutvportal.com:8085/CamedyHD/video.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://91.218.160.212:8015/play/a01z/index.m3u8
@@ -136,9 +142,7 @@ http://ip1.orgip.net/683/video.m3u8?token=Md7ac19a92
 #EXTINF:0,Остросюжетное
 #EXTGRP: кино
 http://45.93.46.27:8887/8184/video.m3u8
-#EXTINF:0,Комедия
-#EXTGRP: кино
-http://188.113.190.15/214/mono.m3u8
+
 #EXTINF:0,1FILMAX
 #EXTGRP: кино
 http://hlss.goodgame.ru/hls/204708.m3u8
