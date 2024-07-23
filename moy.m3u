@@ -163,7 +163,7 @@ https://v2.catcast.tv/content/41331/index.m3u8
 https://autopilot.catcast.tv/content/41327/index.m3u8
 #EXTINF:0,КИНО ТВ HD
 #EXTGRP: кино
-http://s.only4.tv/0147/index.m3u8?token=diR3Bf9AiQ
+http://80.245.93.242:9030/play/sfd556/index.m3u8
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187241.m3u8
