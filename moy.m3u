@@ -72,7 +72,12 @@ http://ru2.troya.one:34000/ch2688/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeR
 #EXTINF:0,KBC-Страна СССР HD
 #EXTGRP: кино
 http://ru2.troya.one:34000/ch2835/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeRRZtBDoTbFeV2MBnoEzvdHIYEC58y53xzDkdOlQrBXdWw
-
+#EXTINF:0,Clarity4K Комедия СССР 1
+#EXTGRP: кино
+http://ru2.troya.one:34000/ch2621/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeRRZxHmp0Y8AioF3JfnJLwKcZ7bircVwpoNZDsSIOnnmvD
+#EXTINF:0,Clarity4K Комедия СССР 2
+#EXTGRP: кино
+http://ru2.troya.one:34000/ch2622/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeRRTMAQ2p0U-Nnkw1DMno6Qty0T8EyCdg3X1ONjRPLvxmm
 
 #EXTINF:0,Дом кино
 #EXTGRP: кино
