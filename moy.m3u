@@ -42,9 +42,9 @@ http://91.218.160.212:8015/play/a023/index.m3u8
 #EXTGRP: кино
 http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 
-#EXTINF:0,KLI USSR HD
+#EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
-http://ru2.troya.one:34000/ch2274/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeRRZ_GjZ_BTPimg9X77ffHqdEz1nuAnprf2EtgUrR7xhDQ
+http://defd5660.ucomist.net/iptv/BEX5MXMV8ZL2QLGDN9XZ4LVD/10085/index.m3u8
 #EXTINF:0,Fresh Soviet
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/61859/hls/pl.m3u8
@@ -54,21 +54,20 @@ http://stream.rutvportal.com:8085/BCUSSSRHD/video.m3u8
 #EXTINF:0,Prokop TV Cкaзки CCCP
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/73664/hls/pl.m3u8
-#EXTINF:0,MM USSR Сказки HD
+#EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
-http://ru2.troya.one:34000/ch1226/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeRRTjCKtfPCYzuYIrmomz0tr_AoYOtbw8OyXetobZwd1nT
-#EXTINF:0,TOP USSR
+http://defd5660.ucomist.net/iptv/BEX5MXMV8ZL2QLGDN9XZ4LVD/11061/index.m3u8
+#EXTINF:0,KLI СССР HD
 #EXTGRP: кино
-http://ru2.troya.one:34000/ch1072/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeRRX-YDr8_6GMKhAVT7LzvRn30OdkEMQ4kk9Lk0vblB1sh
-#EXTINF:0,VeleS СССР
+http://cc80c231.akadatel.com/iptv/RGX84ZN8ZMN6Y5/18175/index.m3u8
 #EXTGRP: кино
 http://ru2.troya.one:34000/ch2597/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeRRfGGtjP2FvyVsPj3B-IdNq9VHmTKi91q_0caDPF2c1tJ
 #EXTINF:0,Yosso TV Советские Фильмы
 #EXTGRP: кино
 http://ru2.troya.one:34000/ch1301/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeRRa27m7KP474h73wgQZ3MUIBfZ89zpbPFGB8mgc9ntA8K
-#EXTINF:0,Oasis Soviet Comedy
+#EXTINF:0,Dosug TV СССР HD
 #EXTGRP: кино
-http://ru2.troya.one:34000/ch2688/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeRRatUc8tXcBAy4yI4R3gnW-z_O8WhZ9oDwYQX2_EMrhXV
+http://cc80c231.akadatel.com/iptv/RGX84ZN8ZMN6Y5/14218/index.m3u8
 #EXTINF:0,KBC-Страна СССР HD
 #EXTGRP: кино
 http://ru2.troya.one:34000/ch2835/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeRRZtBDoTbFeV2MBnoEzvdHIYEC58y53xzDkdOlQrBXdWw
