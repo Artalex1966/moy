@@ -50,7 +50,7 @@ http://ru2.troya.one:34000/ch2274/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeR
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/61859/hls/pl.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://ru2.troya.one:34000/ch789/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeRRQXH-0I31_x5ccRCmNtYfHWtPa14KlIOjWSc3rdjti8Z
+http://stream.rutvportal.com:8085/BCUSSSRHD/video.m3u8
 #EXTINF:0,Prokop TV Cкaзки CCCP
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/73664/hls/pl.m3u8
@@ -133,7 +133,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/13037/index.m3u8
 http://188.113.190.15/53/mono.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/2106/index.m3u8
+http://45.93.46.27:8887/8310/video.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/2106/index.m3u8
