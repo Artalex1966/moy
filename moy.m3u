@@ -44,25 +44,34 @@ http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 
 #EXTINF:0,KLI USSR HD
 #EXTGRP: кино
-http://12.troya.one:34000/ch2274/mono.m3u8?token=rl_i19.aOFCGelcbizbjN_fKtMZ4XmhBuqdaYoI9pDTz7-MMdNdghCw72ZayacLjkIwkyGB
+http://ru2.troya.one:34000/ch2274/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeRRZ_GjZ_BTPimg9X77ffHqdEz1nuAnprf2EtgUrR7xhDQ
 #EXTINF:0,Fresh Soviet
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/61859/hls/pl.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/QX6TFFFGNU9LAQ/11026/index.m3u8
+http://ru2.troya.one:34000/ch789/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeRRQXH-0I31_x5ccRCmNtYfHWtPa14KlIOjWSc3rdjti8Z
 #EXTINF:0,Prokop TV Cкaзки CCCP
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/73664/hls/pl.m3u8
-#EXTINF:0,USSR HD
+#EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-http://s1.iptvcinema.ru/pg_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
+http://ru2.troya.one:34000/ch1226/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeRRTjCKtfPCYzuYIrmomz0tr_AoYOtbw8OyXetobZwd1nT
+#EXTINF:0,TOP USSR
+#EXTGRP: кино
+http://ru2.troya.one:34000/ch1072/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeRRX-YDr8_6GMKhAVT7LzvRn30OdkEMQ4kk9Lk0vblB1sh
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
-http://12.troya.one:34000/ch2597/mono.m3u8?token=rl_i19.aOFCGelcbizbjN_fKtMZ4b0bol-I4a1uWQ5wVWnFkHPFR8yigVaVruV6rHj9TC89
-#EXTINF:0,Dosug СССР HD
+http://ru2.troya.one:34000/ch2597/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeRRfGGtjP2FvyVsPj3B-IdNq9VHmTKi91q_0caDPF2c1tJ
+#EXTINF:0,Yosso TV Советские Фильмы
 #EXTGRP: кино
-http://s1.iptvcinema.ru/dosug_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
+http://ru2.troya.one:34000/ch1301/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeRRa27m7KP474h73wgQZ3MUIBfZ89zpbPFGB8mgc9ntA8K
+#EXTINF:0,Oasis Soviet Comedy
+#EXTGRP: кино
+http://ru2.troya.one:34000/ch2688/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeRRatUc8tXcBAy4yI4R3gnW-z_O8WhZ9oDwYQX2_EMrhXV
+#EXTINF:0,KBC-Страна СССР HD
+#EXTGRP: кино
+http://ru2.troya.one:34000/ch2835/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeRRZtBDoTbFeV2MBnoEzvdHIYEC58y53xzDkdOlQrBXdWw
 
 
 #EXTINF:0,Дом кино
