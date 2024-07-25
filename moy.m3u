@@ -50,7 +50,7 @@ http://ru2.troya.one:34000/ch2835/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/61859/hls/pl.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://3.troya.one:34000/ch789/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bdiu9tRpy1nN1XBXF4nE2PzGhIW-CAIVAFiMzM8tP5aSkv
+http://stream.rutvportal.com:8085/BCUSSSRHD/video.m3u8
 #EXTINF:0,Prokop TV Cкaзки CCCP
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/73664/hls/pl.m3u8
@@ -179,7 +179,6 @@ https://hls.goodgame.ru/hls/187241.m3u8
 #EXTGRP: кино
 http://ip1.orgip.net/1606/video.m3u8?token=Md7ac19a92
 
-
 ==
 
 #EXTINF:0,Наше новое кино
@@ -214,12 +213,6 @@ http://80.245.93.242:9030/play/a02x/index.m3u8
 #EXTGRP: кино
 http://80.245.93.242:9030/play/a02v/index.m3u8
 ---
-
-
-
-
-
-
 
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
@@ -260,9 +253,6 @@ http://908e3c5e.rossteleccom.net/iptv/9XRHZ7MZ9PNWS6/13082/index.m3u8
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/13082/index.m3u8
-
-
-
 
 ==========
 #EXTINF:0,Galaxy
@@ -477,47 +467,13 @@ https://v2.catcast.tv/content/37925/index.m3u8
 ======================
 
 
-
-
-#EXTINF:0,veles киноплёнка
-#EXTGRP: кино
-http://43zvd7dq.megatv.fun/iptv/QX6TFFFGNU9LAQ/31638/index.m3u8
-#EXTINF:0,Фильмы ретровидения
-#EXTGRP: кино
-https://ipv4.bozztv.com/dvrfl07/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:0,Ретровидение Кинопанорама
-#EXTGRP: кино
-https://ipv4.bozztv.com/dvrfl07/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 24
-#EXTGRP: кино
-https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-
-#EXTINF:0,Ретро
-#EXTGRP: кино
-http://de.1usd.tv:34000/ch508/mono.m3u8?token=1usdtv_mish_08.lsBw6AA7VtYYMPtxs9N-TU1_3e6BGRsT3LRbLPPwMVUZleihQtJSiLmGh-MRMX3c
-#EXTINF:0,veles ссср эдем
-#EXTGRP: кино
-http://43zvd7dq.megatv.fun/iptv/QX6TFFFGNU9LAQ/31643/index.m3u8
-#EXTINF:0,KLI СССР HD
-#EXTGRP: кино
-http://x3c1rsvw.ottclub.xyz/iptv/QX6TFFFGNU9LAQ/18175/index.m3u8
-#EXTINF:0,TOP USSR
-#EXTGRP: кино
-http://de.1usd.tv:34000/ch1072/mono.m3u8?token=1usdtv_mish_08.lsBw6AA7VtYYMPtxs9N-TQUuFXTR9sG2Z3uORKtuPoe-mq_K0gnEXq-7l96yeIpF
-#EXTINF:0,Кинозал! СССР
-#EXTGRP: кино
-http://7kxt9rbm.tvclub.xyz/iptv/UP4EZUTEKBXD4D/11061/index.m3u8
-#EXTINF:0,Yosso советскии фильмы
-#EXTGRP: кино
-http://7kxt9rbm.tvclub.xyz/iptv/UP4EZUTEKBXD4D/14175/index.m3u8
-
-
 #EXTINF:0,Военное Кино HD
 #EXTGRP: кино
 http://43zvd7dq.megatv.fun/iptv/QX6TFFFGNU9LAQ/18072/index.m3u8
 #EXTINF:0,Кинозал! Bond 007
 #EXTGRP: кино
 http://cb163385.amazzin.pw/iptv/CRR58M997HSD98/31715/index.m3u8
+
 #EXTINF:0,Конец
 
 
