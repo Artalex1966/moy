@@ -42,9 +42,9 @@ http://91.218.160.212:8015/play/a023/index.m3u8
 #EXTGRP: кино
 http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 
-#EXTINF:0,VF Фильмы СССР
+#EXTINF:0,KBC-Страна СССР HD
 #EXTGRP: кино
-http://defd5660.ucomist.net/iptv/BEX5MXMV8ZL2QLGDN9XZ4LVD/10085/index.m3u8
+http://ru2.troya.one:34000/ch2835/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S5UkXEwqAiyLu3TWEoKlwISgJDw1sE8s6eUsW5_1lbvt
 #EXTINF:0,Fresh Soviet
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/61859/hls/pl.m3u8
@@ -60,23 +60,25 @@ http://3.troya.one:34000/ch1072/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bd
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
 http://3.troya.one:34000/ch2274/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bditrrqCkDlxv6tK4rjwegBekkVwBYePHwJUn7nAjq8MlV
-#EXTGRP: кино
-http://ru2.troya.one:34000/ch2597/mono.m3u8?token=rl_kedr21.BOQacWYhAYedfPEdtYeRRfGGtjP2FvyVsPj3B-IdNq9VHmTKi91q_0caDPF2c1tJ
+
 #EXTINF:0,Yosso TV Советские Фильмы
 #EXTGRP: кино
 http://3.troya.one:34000/ch1301/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bdijb8RBvzVOD_hzEjDA2uJtzz3bymy5Hb053fiOONQ7_A
 #EXTINF:0,Dosug TV СССР HD
 #EXTGRP: кино
-http://cc80c231.akadatel.com/iptv/RGX84ZN8ZMN6Y5/14218/index.m3u8
+
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
-http://3.troya.one:34000/ch2597/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bdiop-6xRmZlNch6sfd2_yILOgto4oUSGasu_sT3AqKOrd
+http://ru2.troya.one:34000/ch2597/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S794P89dgeq_3BxZn3yWCmODuDFhq5hLFoXdB7sJB6q3
 #EXTINF:0,Clarity4K Комедия СССР 1
 #EXTGRP: кино
 http://3.troya.one:34000/ch2621/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bdigdOccH_SOWmFsFDzWC793HqWQxaFnMOv6TKgb3EbXsN
 #EXTINF:0,Clarity4K Комедия СССР 2
 #EXTGRP: кино
 http://3.troya.one:34000/ch2622/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bdig7e9whuVA-jObGiA-pqE3SqflYgg4tMIBkEEjqoRc6m
+#EXTINF:0,Oasis Soviet Comedy
+#EXTGRP: кино
+http://ru2.troya.one:34000/ch2688/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S888uUVeBiAtHl9UAgOKboXGgoXNP46N_z4fNeijPpGI
 
 #EXTINF:0,Дом кино
 #EXTGRP: кино
@@ -91,15 +93,7 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Детское кино
 #EXTGRP: кино
 http://s1.iptvcinema.ru/detskoe_kino/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
-#EXTINF:0,Кино 1
-#EXTGRP: кино
-http://s1.iptvcinema.ru/kino_1/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
-#EXTINF:0,Кино 2
-#EXTGRP: кино
-http://s1.iptvcinema.ru/kino_2/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
-#EXTINF:0,Военное кино
-#EXTGRP: кино
-http://s1.iptvcinema.ru/voennoe_kino/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
+
 
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
@@ -158,16 +152,16 @@ http://45.93.46.27:8887/8184/video.m3u8
 #EXTINF:0,КИНО ТВ HD
 #EXTGRP: кино
 http://45.93.46.27:8887/8207/video.m3u8
-
+#EXTINF:0,Кино Экшен
+#EXTGRP: кино
+https://v2.catcast.tv/content/41333/index.m3u8
 #EXTINF:0,1FILMAX
 #EXTGRP: кино
-http://hlss.goodgame.ru/hls/204708.m3u8
+https://hls.goodgame.ru/hls/204708_720.m3u8
 #EXTINF:0,2FILMAX
 #EXTGRP: кино
-http://hlss.goodgame.ru/hls/204717.m3u8
-#EXTINF:0,FILM TV5
-#EXTGRP: кино
-http://hlss.goodgame.ru/hls/204722.m3u8
+https://hls.goodgame.ru/hls/204717.m3u8
+
 #EXTINF:0,СитиЭдем КиноЭкшен
 #EXTGRP: кино
 https://v2.catcast.tv/content/41333/index.m3u8
@@ -221,39 +215,15 @@ http://80.245.93.242:9030/play/a02x/index.m3u8
 http://80.245.93.242:9030/play/a02v/index.m3u8
 ---
 
-#EXTINF:0,1FILMAX
-#EXTGRP: кино
-https://hls.goodgame.ru/hls/204708_720.m3u8
-#EXTINF:0,2FILMAX
-#EXTGRP: кино
-https://hls.goodgame.ru/hls/204717.m3u8
-#EXTINF:0,Кино ТВ
-#EXTGRP: кино
-http://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:0,Кино ТВ
-#EXTGRP: кино
-http://91.142.158.107:8092/play/28/index.m3u8
-#EXTINF:0,Кинопоказ
-#EXTGRP: кино
-http://91.207.114.209:5000/c28
-#EXTINF:0,Кино Экшен
-#EXTGRP: кино
-https://v2.catcast.tv/content/41333/index.m3u8
-#EXTINF:0,Остросюжетное HD
-#EXTGRP: кино
-http://cdntv.online/middle/8vhj6nu4dc/902.m3u8
-#EXTINF:0,Остросюжетное HD
-#EXTGRP: кино
-http://ott.server-iptv.live/604/video.m3u8?token=M4f082ab4c
+
+
+
+
 
 
 #EXTINF:0,Yosso TV Забавное
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/14234/index.m3u8
-#EXTINF:0,Yosso TV Забавное
-#EXTGRP: кино
-http://olpjsfw9.rostelekom.xyz/iptv/MHTPDP44RP2N7L/14234/index.m3u8
-
+http://ru2.troya.one:34000/ch1307/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S4bUR6IkA_f9WgtGQLISnYD38bwfKqlah77d6_LPcGAI
 
 ======
 #EXTINF:0,VF Друзья
