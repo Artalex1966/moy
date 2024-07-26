@@ -76,9 +76,9 @@ http://3.troya.one:34000/ch2621/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bd
 #EXTINF:0,Clarity4K Комедия СССР 2
 #EXTGRP: кино
 http://3.troya.one:34000/ch2622/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bdig7e9whuVA-jObGiA-pqE3SqflYgg4tMIBkEEjqoRc6m
-#EXTINF:0,Oasis Soviet Comedy
+#EXTINF:0,USSR HD
 #EXTGRP: кино
-http://ru2.troya.one:34000/ch2688/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S888uUVeBiAtHl9UAgOKboXGgoXNP46N_z4fNeijPpGI
+http://s.only4.tv/6601/index.m3u8?token=diR3Bf9AiQ
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
 http://b78e00fe.ottolok.net/iptv/8PKVCNK28BR6BX/11061/index.m3u8
@@ -166,6 +166,9 @@ http://91.142.158.107:8092/play/28/index.m3u8
 #EXTINF:0,Блокбастер HD
 #EXTGRP: кино
 http://3.troya.one:34000/ch689/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bdimV5RaVbbQShvTYBzPS9LlAKsUrYXjaVox5mRbnrBjUa
+#EXTINF:0,Премиальное HD
+#EXTGRP: кино
+http://stream.rutvportal.com:8085/PremialnoeHD/video.m3u8
 #EXTINF:0,1FILMAX
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/204708_720.m3u8
@@ -176,9 +179,9 @@ https://hls.goodgame.ru/hls/204717.m3u8
 #EXTINF:0,СитиЭдем КиноЭкшен
 #EXTGRP: кино
 https://v2.catcast.tv/content/41333/index.m3u8
-#EXTINF:0,СитиЭдем КиноКомедия
+#EXTINF:0,BCU Action HD
 #EXTGRP: кино
-https://v2.catcast.tv/content/41331/index.m3u8
+http://stream.rutvportal.com:8085/BCUActionHD/video.m3u8
 #EXTINF:0,СитиЭдем КиноДетектив
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/41327/index.m3u8
@@ -188,7 +191,7 @@ https://autopilot.catcast.tv/content/41327/index.m3u8
 https://hls.goodgame.ru/hls/187241.m3u8
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
-http://ip1.orgip.net/1606/video.m3u8?token=Md7ac19a92
+http://stream.rutvportal.com:8085/BCUFantasticHD/video.m3u8
 
 ==
 
