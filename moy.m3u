@@ -82,6 +82,9 @@ http://ru2.troya.one:34000/ch2688/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9MK4UEMK8KLSKF/11061/index.m3u8
+#EXTINF:0,Советская киноклассика
+#EXTGRP: кино
+https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODIxOTAwODY1NzcwMyIsImV4cCI6MTcyMjI0MDA1NywiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzIxNjM1MjU3LCJzZXNzaW9uX2lkIjoiM2RlMTQ4MzY1NjJiMjc2Nzk2ODRhMmRkOWNlMGY3NTMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.D19DpPMAlg_LD0nzzps84uXzkG2roHmtA7y9o30aZF4
 
 #EXTINF:0, Иллюзион+
 #EXTGRP: кино
@@ -475,9 +478,9 @@ https://v2.catcast.tv/content/37925/index.m3u8
 ======================
 
 
-#EXTINF:0,Военное Кино HD
+#EXTINF:0,Камин
 #EXTGRP: кино
-http://43zvd7dq.megatv.fun/iptv/QX6TFFFGNU9LAQ/18072/index.m3u8
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:0,Авариум
 #EXTGRP: кино
 http://49.12.129.114:41921/aquarium/manifest.m3u8
