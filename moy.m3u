@@ -79,7 +79,13 @@ http://3.troya.one:34000/ch2622/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bd
 #EXTINF:0,Oasis Soviet Comedy
 #EXTGRP: кино
 http://ru2.troya.one:34000/ch2688/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S888uUVeBiAtHl9UAgOKboXGgoXNP46N_z4fNeijPpGI
+#EXTINF:0,Кинозал! СССР
+#EXTGRP: кино
+http://rhsbjv7k.tvclub.xyz/iptv/9MK4UEMK8KLSKF/11061/index.m3u8
 
+#EXTINF:0, Иллюзион+
+#EXTGRP: кино
+http://188.113.190.15/45/tracks-v1a1/index.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://188.113.190.15/119/video.m3u8
@@ -90,6 +96,9 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0,Детское кино
+#EXTGRP: кино
+http://rhsbjv7k.tvclub.xyz/iptv/9MK4UEMK8KLSKF/18073/index.m3u8
 
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
@@ -122,7 +131,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/13037/index.m3u8
 http://188.113.190.15/53/mono.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
-http://3.troya.one:34000/ch139/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bdisRk5jCaiYU7qvV58e87LhHsZAa_SF5_iyPLVTtorRxu
+http://195.211.27.149:8887/8310/index.m3u8?token=test
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://6.troya.today:34000/ch139/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCFj4EwWRcJHd347Torw-VvjekJxdSEATw0MT-NYwsGFb
@@ -138,16 +147,19 @@ http://stream.rutvportal.com:8085/CamedyHD/video.m3u8
 http://91.218.160.212:8015/play/a01z/index.m3u8
 #EXTINF:0,Кинопоказ
 #EXTGRP: кино
-http://45.93.46.27:8887/8139/video.m3u8
+http://94.232.104.237:8011/kinopokaz/index.m3u8
 #EXTINF:0,CineMan TOP
 #EXTGRP: кино
 http://ip1.orgip.net/683/video.m3u8?token=Md7ac19a92
+#EXTINF:0,CineMan
+#EXTGRP: кино
+http://ott.server-iptv.live/682/video.m3u8?token=M4f082ab4c
 #EXTINF:0,Остросюжетное
 #EXTGRP: кино
 http://6.troya.today:34000/ch072/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCPRHyUN1eCVzk-teuB1XLGGhSIENqYy-kv5bM17gt2V2
 #EXTINF:0,КИНО ТВ HD
 #EXTGRP: кино
-http://45.93.46.27:8887/8207/video.m3u8
+http://91.142.158.107:8092/play/28/index.m3u8
 #EXTINF:0,Блокбастер HD
 #EXTGRP: кино
 http://3.troya.one:34000/ch689/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bdimV5RaVbbQShvTYBzPS9LlAKsUrYXjaVox5mRbnrBjUa
@@ -466,9 +478,9 @@ https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:0,Военное Кино HD
 #EXTGRP: кино
 http://43zvd7dq.megatv.fun/iptv/QX6TFFFGNU9LAQ/18072/index.m3u8
-#EXTINF:0,Кинозал! Bond 007
+#EXTINF:0,Авариум
 #EXTGRP: кино
-http://cb163385.amazzin.pw/iptv/CRR58M997HSD98/31715/index.m3u8
+http://49.12.129.114:41921/aquarium/manifest.m3u8
 
 #EXTINF:0,Конец
 
