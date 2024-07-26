@@ -90,10 +90,6 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0,Детское кино
-#EXTGRP: кино
-http://s1.iptvcinema.ru/detskoe_kino/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
-
 
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
@@ -129,7 +125,7 @@ http://188.113.190.15/53/mono.m3u8
 http://45.93.46.27:8887/8310/video.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/2106/index.m3u8
+http://6.troya.today:34000/ch139/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCFj4EwWRcJHd347Torw-VvjekJxdSEATw0MT-NYwsGFb
 
 #EXTINF:0,Комедия
 #EXTGRP: кино
