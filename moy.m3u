@@ -169,22 +169,20 @@ http://45.93.46.27:8887/8184/video.m3u8
 #EXTINF:0,КИНО ТВ HD
 #EXTGRP: кино
 http://185.112.140.28:80/Kino_TV/index.m3u8
-#EXTINF:0,Блокбастер HD
-#EXTGRP: кино
-http://3.troya.one:34000/ch689/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bdimV5RaVbbQShvTYBzPS9LlAKsUrYXjaVox5mRbnrBjUa
+
 
 #EXTINF:0,viju+ TV1000 Action
 #EXTGRP: кино
 http://212.0.213.132:9053/TV1000_Action/index.m3u8
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
-http://91.205.199.3:80/vipmegahit/index.m3u8
+http://185.112.140.28:80/VIPMegahit/index.m3u8
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/2003/hlsx/pl.m3u8
+http://188.113.190.15/201/tracks-v1a1/index.m3u8
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/2001/hlsx/pl.m3u8
+http://91.205.199.3/vipcomedi/index.m3u8
 
 
 
