@@ -1,8 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 
-#EXTINF:0,360
-#EXTGRP: эфир
-https://strm.yandex.ru/kal/360tv/360tv0.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
@@ -137,7 +134,13 @@ http://188.113.190.15/53/mono.m3u8
 http://195.211.27.149:8887/8310/index.m3u8?token=test
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
-http://6.troya.today:34000/ch139/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCFj4EwWRcJHd347Torw-VvjekJxdSEATw0MT-NYwsGFb
+http://45.93.46.27:8887/8310/video.m3u8
+#EXTINF:0,MM Семейный 1 HD
+#EXTGRP: кино
+http://45.93.46.27:8887/8449/video.m3u8
+#EXTINF:0,MM Семейный 2 HD
+#EXTGRP: кино
+http://45.93.46.27:8887/8442/video.m3u8
 
 #EXTINF:0,Комедия
 #EXTGRP: кино
@@ -162,26 +165,28 @@ http://ott.server-iptv.live/682/video.m3u8?token=M4f082ab4c
 http://6.troya.today:34000/ch072/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCPRHyUN1eCVzk-teuB1XLGGhSIENqYy-kv5bM17gt2V2
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
-http://stream.rutvportal.com:8085/OstrosuzhetnoeHD/video.m3u8
+http://45.93.46.27:8887/8184/video.m3u8
 #EXTINF:0,КИНО ТВ HD
 #EXTGRP: кино
 http://185.112.140.28:80/Kino_TV/index.m3u8
 #EXTINF:0,Блокбастер HD
 #EXTGRP: кино
 http://3.troya.one:34000/ch689/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bdimV5RaVbbQShvTYBzPS9LlAKsUrYXjaVox5mRbnrBjUa
-#EXTINF:0,1FILMAX
-#EXTGRP: кино
-https://hls.goodgame.ru/hls/204708_720.m3u8
-#EXTINF:0,2FILMAX
-#EXTGRP: кино
-https://hls.goodgame.ru/hls/204717.m3u8
 
-#EXTINF:0,СитиЭдем КиноЭкшен
+#EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
-https://v2.catcast.tv/content/41333/index.m3u8
-#EXTINF:0,BCU Action HD
+http://91.205.199.3:80/vipmegahit/index.m3u8
+#EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
-http://stream.rutvportal.com:8085/BCUActionHD/video.m3u8
+http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/2003/hlsx/pl.m3u8
+#EXTINF:0,viju+ Comedy HD
+#EXTGRP: кино
+http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/2001/hlsx/pl.m3u8
+
+
+#EXTINF:0,TV1000 Action
+#EXTGRP: кино
+http://212.0.213.132:9053/TV1000_Action/index.m3u8
 
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
@@ -481,6 +486,17 @@ http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:0,Видеокассета VHS
 #EXTGRP: кино
 https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:0,1FILMAX
+#EXTGRP: кино
+https://hls.goodgame.ru/hls/204708_720.m3u8
+#EXTINF:0,2FILMAX
+#EXTGRP: кино
+https://hls.goodgame.ru/hls/204717.m3u8
+
+#EXTINF:0,СитиЭдем КиноЭкшен
+#EXTGRP: кино
+https://v2.catcast.tv/content/41333/index.m3u8
+
 ======================
 
 
