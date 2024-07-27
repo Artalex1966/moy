@@ -137,10 +137,10 @@ http://195.211.27.149:8887/8310/index.m3u8?token=test
 http://45.93.46.27:8887/8310/video.m3u8
 #EXTINF:0,MM Семейный 1 HD
 #EXTGRP: кино
-http://195.211.27.149:8449/8310/index.m3u8?token=test
+http://9.troya.one:34000/ch1274/mono.m3u8?token=rl_moroz5.A7mHJqRXs2FbUfK1HHdUSSlBuPNRvkcmXuAqowx6oBJKQ_7dFonhV0YVrNBly45x
 #EXTINF:0,MM Семейный 2 HD
 #EXTGRP: кино
-http://45.93.46.27:8887/8442/video.m3u8
+http://9.troya.one:34000/ch1270/mono.m3u8?token=rl_moroz5.A7mHJqRXs2FbUfK1HHdUScD1o4VDKBp9WJjFbOkMQBrLRHVJh-3XU2qbrmPoIwEO
 
 #EXTINF:0,Комедия
 #EXTGRP: кино
@@ -183,8 +183,9 @@ http://188.113.190.15/201/tracks-v1a1/index.m3u8
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
 http://91.205.199.3/vipcomedi/index.m3u8
-
-
+#EXTINF:0,BCU Action HD
+#EXTGRP: кино
+http://9.troya.one:34000/ch769/mono.m3u8?token=rl_moroz5.A7mHJqRXs2FbUfK1HHdUSVq2Fa3xvi9XukR292JzefbLgGn0TUJ_RbAfmhQcLt4o
 
 
 #EXTINF:0,Фантастика HD
@@ -195,7 +196,7 @@ https://hls.goodgame.ru/hls/187241.m3u8
 http://stream.rutvportal.com:8085/BCUFantasticHD/video.m3u8
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
-http://srv-4-streaming.iptvin.fun:8080/bcufantastic/video.m3u8?token=0dd8e1acd67e28c8fe828bd19407e9af9dfa62f4-4039139223-1722151879-1722108679
+http://9.troya.one:34000/ch773/mono.m3u8?token=rl_moroz5.A7mHJqRXs2FbUfK1HHdUSdZ75BSJkIteT0Ry8Lkyyz8WuHhyI9PVXDkE7OP_-TBK
 
 ==
 
