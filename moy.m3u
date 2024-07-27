@@ -137,7 +137,7 @@ http://195.211.27.149:8887/8310/index.m3u8?token=test
 http://45.93.46.27:8887/8310/video.m3u8
 #EXTINF:0,MM Семейный 1 HD
 #EXTGRP: кино
-http://45.93.46.27:8887/8449/video.m3u8
+http://195.211.27.149:8449/8310/index.m3u8?token=test
 #EXTINF:0,MM Семейный 2 HD
 #EXTGRP: кино
 http://45.93.46.27:8887/8442/video.m3u8
@@ -173,6 +173,9 @@ http://185.112.140.28:80/Kino_TV/index.m3u8
 #EXTGRP: кино
 http://3.troya.one:34000/ch689/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bdimV5RaVbbQShvTYBzPS9LlAKsUrYXjaVox5mRbnrBjUa
 
+#EXTINF:0,viju+ TV1000 Action
+#EXTGRP: кино
+http://212.0.213.132:9053/TV1000_Action/index.m3u8
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
 http://91.205.199.3:80/vipmegahit/index.m3u8
@@ -184,9 +187,7 @@ http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/2003/hlsx/pl.m3u8
 http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/2001/hlsx/pl.m3u8
 
 
-#EXTINF:0,TV1000 Action
-#EXTGRP: кино
-http://212.0.213.132:9053/TV1000_Action/index.m3u8
+
 
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
