@@ -45,9 +45,7 @@ http://ru2.troya.one:34000/ch2835/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S
 #EXTINF:0,Fresh Soviet
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/61859/hls/pl.m3u8
-#EXTINF:0,BCU СССР HD
-#EXTGRP: кино
-http://stream.rutvportal.com:8085/BCUSSSRHD/video.m3u8
+
 #EXTINF:0,Prokop TV Cкaзки CCCP
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/73664/hls/pl.m3u8
@@ -61,27 +59,15 @@ http://3.troya.one:34000/ch2274/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bd
 #EXTINF:0,Yosso TV Советские Фильмы
 #EXTGRP: кино
 http://3.troya.one:34000/ch1301/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bdijb8RBvzVOD_hzEjDA2uJtzz3bymy5Hb053fiOONQ7_A
-#EXTINF:0,Советское кино
-#EXTGRP: кино
-http://api.peers.tv/timeshift/sovetskoekino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjIxNjIxNTgsImlhdCI6MTcyMjA3NTc1OCwiY2lkIjo2LCJ1aWQiOjgwMTQxNDAxNSwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.xfk5QOLgOOG_-QSz6_vcq87_KhXIEGFHxq_DpIN6708&offset=10
+
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
 http://ru2.troya.one:34000/ch2597/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S794P89dgeq_3BxZn3yWCmODuDFhq5hLFoXdB7sJB6q3
-#EXTINF:0,Clarity4K Комедия СССР 1
-#EXTGRP: кино
-http://3.troya.one:34000/ch2621/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bdigdOccH_SOWmFsFDzWC793HqWQxaFnMOv6TKgb3EbXsN
-#EXTINF:0,Clarity4K Комедия СССР 2
-#EXTGRP: кино
-http://3.troya.one:34000/ch2622/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bdig7e9whuVA-jObGiA-pqE3SqflYgg4tMIBkEEjqoRc6m
+
 #EXTINF:0,USSR HD
 #EXTGRP: кино
 http://s.only4.tv/6601/index.m3u8?token=diR3Bf9AiQ
-#EXTINF:0,Кинозал! СССР
-#EXTGRP: кино
-http://b78e00fe.ottolok.net/iptv/8PKVCNK28BR6BX/11061/index.m3u8
-#EXTINF:0,Советская киноклассика
-#EXTGRP: кино
-https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODIxOTAwODY1NzcwMyIsImV4cCI6MTcyMjI0MDA1NywiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzIxNjM1MjU3LCJzZXNzaW9uX2lkIjoiM2RlMTQ4MzY1NjJiMjc2Nzk2ODRhMmRkOWNlMGY3NTMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.D19DpPMAlg_LD0nzzps84uXzkG2roHmtA7y9o30aZF4
+
 
 #EXTINF:0, Иллюзион+
 #EXTGRP: кино
@@ -96,9 +82,6 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0,Детское кино
-#EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/9MK4UEMK8KLSKF/18073/index.m3u8
 
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
@@ -145,15 +128,10 @@ http://9.troya.one:34000/ch1270/mono.m3u8?token=rl_moroz5.A7mHJqRXs2FbUfK1HHdUSc
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://188.113.190.15/214/mono.m3u8
-#EXTINF:0,Камеди HD
-#EXTGRP: кино
-http://stream.rutvportal.com:8085/CamedyHD/video.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://91.218.160.212:8015/play/a01z/index.m3u8
-#EXTINF:0,Кинопоказ
-#EXTGRP: кино
-http://94.232.104.237:8011/kinopokaz/index.m3u8
+
 #EXTINF:0,CineMan TOP
 #EXTGRP: кино
 http://ip1.orgip.net/683/video.m3u8?token=Md7ac19a92
@@ -173,13 +151,13 @@ http://185.112.140.28:80/Kino_TV/index.m3u8
 
 #EXTINF:0,viju+ TV1000 Action
 #EXTGRP: кино
-http://212.0.213.132:9053/TV1000_Action/index.m3u8
+http://188.113.190.15/30/tracks-v1a1/index.m3u8
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
 http://185.112.140.28:80/VIPMegahit/index.m3u8
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
-http://188.113.190.15/201/tracks-v1a1/index.m3u8
+http://185.112.140.28:80/VIPPremiere/index.m3u8
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
 http://91.205.199.3/vipcomedi/index.m3u8
@@ -191,9 +169,6 @@ http://9.troya.one:34000/ch769/mono.m3u8?token=rl_moroz5.A7mHJqRXs2FbUfK1HHdUSVq
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187241.m3u8
-#EXTINF:0,BCU Fantastic HD
-#EXTGRP: кино
-http://stream.rutvportal.com:8085/BCUFantasticHD/video.m3u8
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
 http://9.troya.one:34000/ch773/mono.m3u8?token=rl_moroz5.A7mHJqRXs2FbUfK1HHdUSdZ75BSJkIteT0Ry8Lkyyz8WuHhyI9PVXDkE7OP_-TBK
