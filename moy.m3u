@@ -61,7 +61,9 @@ http://3.troya.one:34000/ch2274/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bd
 #EXTINF:0,Yosso TV Советские Фильмы
 #EXTGRP: кино
 http://3.troya.one:34000/ch1301/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bdijb8RBvzVOD_hzEjDA2uJtzz3bymy5Hb053fiOONQ7_A
-
+#EXTINF:0,Dosug СССР HD
+#EXTGRP: кино
+http://s1.iptvcinema.ru/dosug_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
 http://ru2.troya.one:34000/ch2597/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S794P89dgeq_3BxZn3yWCmODuDFhq5hLFoXdB7sJB6q3
