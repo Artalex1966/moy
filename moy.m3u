@@ -152,7 +152,7 @@ http://45.93.46.27:8887/8184/video.m3u8
 http://185.112.140.28:80/Kino_TV/index.m3u8
 
 
-#EXTINF:0,viju+ TV1000 Action
+#EXTINF:0,TV1000 Action
 #EXTGRP: кино
 http://188.113.190.15/30/tracks-v1a1/index.m3u8
 #EXTINF:0,viju+ Megahit HD
@@ -163,7 +163,7 @@ http://185.112.140.28:80/VIPMegahit/index.m3u8
 http://185.112.140.28:80/VIPPremiere/index.m3u8
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-http://91.205.199.3/vipcomedi/index.m3u8
+http://185.112.140.28:80/VIPComedy/index.m3u8
 #EXTINF:0,BCU Action HD
 #EXTGRP: кино
 http://9.troya.one:34000/ch769/mono.m3u8?token=rl_moroz5.A7mHJqRXs2FbUfK1HHdUSVq2Fa3xvi9XukR292JzefbLgGn0TUJ_RbAfmhQcLt4o
