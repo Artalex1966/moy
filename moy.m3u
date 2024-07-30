@@ -39,6 +39,10 @@ http://185.112.140.28:80/Mosfilm/index.m3u8
 #EXTGRP: кино
 http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 
+#EXTINF:0,Наше
+#EXTGRP: кино
+http://178.16.151.67/nashe/index.m3u8
+
 #EXTINF:0,KBC-Страна СССР HD
 #EXTGRP: кино
 http://ru2.troya.one:34000/ch2835/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S5UkXEwqAiyLu3TWEoKlwISgJDw1sE8s6eUsW5_1lbvt
@@ -67,6 +71,12 @@ http://ru2.troya.one:34000/ch2597/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S
 #EXTINF:0,USSR HD
 #EXTGRP: кино
 http://s.only4.tv/6601/index.m3u8?token=diR3Bf9AiQ
+#EXTINF:0,Советская киноклассика
+#EXTGRP: кино
+http://130.193.124.214:8028/play/a05z/index.m3u8
+#EXTINF:0,Советская киноклассика +2
+#EXTGRP: кино
+http://46.8.29.51:2020/channel/nbae71fb/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 
 
 #EXTINF:0, Иллюзион+
@@ -114,16 +124,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/13037/index.m3u8
 http://188.113.190.15/53/mono.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
-http://bl2.provds.pw/~301736849543375526E505731754D/31421/
+http://46.8.29.51:2020/channel/55c93d7e/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/2106/index.m3u8
-#EXTINF:0,MM Семейный 1 HD
-#EXTGRP: кино
-http://9.troya.one:34000/ch1274/mono.m3u8?token=rl_moroz5.A7mHJqRXs2FbUfK1HHdUSSlBuPNRvkcmXuAqowx6oBJKQ_7dFonhV0YVrNBly45x
-#EXTINF:0,MM Семейный 2 HD
-#EXTGRP: кино
-http://9.troya.one:34000/ch1270/mono.m3u8?token=rl_moroz5.A7mHJqRXs2FbUfK1HHdUScD1o4VDKBp9WJjFbOkMQBrLRHVJh-3XU2qbrmPoIwEO
 
 #EXTINF:0,Комедия
 #EXTGRP: кино
@@ -141,18 +145,15 @@ http://ott.server-iptv.live/682/video.m3u8?token=M4f082ab4c
 #EXTINF:0,CineMan Thriller
 #EXTGRP: кино
 http://bl2.provds.pw/~301736849543375526E505731754D/45284/
-#EXTINF:0,Остросюжетное
-#EXTGRP: кино
-http://6.troya.today:34000/ch072/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCPRHyUN1eCVzk-teuB1XLGGhSIENqYy-kv5bM17gt2V2
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
-http://45.93.46.27:8887/8184/video.m3u8
+http://46.8.29.51:2020/channel/790108dc/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:0,КИНО ТВ HD
 #EXTGRP: кино
 http://185.112.140.28:80/Kino_TV/index.m3u8
 
 
-#EXTINF:0,TV1000 Action
+#EXTINF:0,viju TV1000 Action
 #EXTGRP: кино
 http://188.113.190.15/30/tracks-v1a1/index.m3u8
 #EXTINF:0,viju+ Megahit HD
