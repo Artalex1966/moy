@@ -34,7 +34,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 ========
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://91.218.160.212:8015/play/a023/index.m3u8
+http://185.112.140.28:80/Mosfilm/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
