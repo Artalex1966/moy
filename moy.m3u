@@ -39,10 +39,6 @@ http://185.112.140.28:80/Mosfilm/index.m3u8
 #EXTGRP: кино
 http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 
-#EXTINF:0,Наше
-#EXTGRP: кино
-http://178.16.151.67/nashe/index.m3u8
-
 #EXTINF:0,KBC-Страна СССР HD
 #EXTGRP: кино
 http://ru2.troya.one:34000/ch2835/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S5UkXEwqAiyLu3TWEoKlwISgJDw1sE8s6eUsW5_1lbvt
@@ -167,9 +163,12 @@ http://6.troya.today:34000/ch773/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOnd
 #EXTINF:0,BCU Action HD
 #EXTGRP: кино
 http://6.troya.today:34000/ch769/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCIw4v-kz9d9w0oXmg2E_wUKlawIrmNI-E3IdmyVp2mCC
-#EXTINF:0, BCU Catastrophe HD
+#EXTINF:0,BCU Catastrophe HD
 #EXTGRP: кино
 http://6.troya.today:34000/ch770/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCCnZQQdi3iaMmLYFPTWVH41oqNubuHdyN1B21WGe-T4B
+#EXTINF:0,Prokop TV Cinema Best HD
+#EXTGRP: кино
+http://158.101.194.132:8888/channel/1f541eaf/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
 
 
 #EXTINF:0,viju TV1000 Action
