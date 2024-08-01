@@ -53,17 +53,17 @@ http://6.troya.today:34000/ch789/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOnd
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/73664/hls/pl.m3u8
 #EXTINF:0,TOP USSR
 #EXTGRP: кино
-http://s1.iptvcinema.ru/top_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
+http://6.troya.today:34000/ch1072/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCDG0avuZyrJZbird3M_LlwIcsPjJFqP-7FFxiS5r879G
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
-http://s1.iptvcinema.ru/kli_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
+http://6.troya.today:34000/ch2274/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCE1cVy8vNy8psgaI48LXRsNYJPWVdfZ26caoTb4nAKl_
 
 #EXTINF:0,Yosso TV Советские Фильмы
 #EXTGRP: кино
-http://3.troya.one:34000/ch1301/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bdijb8RBvzVOD_hzEjDA2uJtzz3bymy5Hb053fiOONQ7_A
-#EXTINF:0,Dosug СССР HD
+http://6.troya.today:34000/ch1301/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCBtCRg5R4zIiXFdPrgVQgvs0bK3XWympDQVyQ8Jq_Nam
+#EXTINF:0, Clarity4K Сделано в СССР
 #EXTGRP: кино
-http://s1.iptvcinema.ru/dosug_ussr/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
+http://6.troya.today:34000/ch1436/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCPi5pbdaIUrVNknzm6b4TyYOOgYLfbyDLLKP4-ZsyVwn
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
 http://ru2.troya.one:34000/ch2597/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S794P89dgeq_3BxZn3yWCmODuDFhq5hLFoXdB7sJB6q3
@@ -144,13 +144,13 @@ http://91.218.160.212:8015/play/a01z/index.m3u8
 
 #EXTINF:0,CineMan TOP
 #EXTGRP: кино
-http://ip1.orgip.net/683/video.m3u8?token=Md7ac19a92
+http://6.troya.today:34000/ch1031/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCE_zRAjcb8HakdE-IuyJL_j6KCJoO3sUgwSmnfrDZE2A
 #EXTINF:0,CineMan
 #EXTGRP: кино
-http://ott.server-iptv.live/682/video.m3u8?token=M4f082ab4c
-#EXTINF:0,CineMan Thriller
+http://6.troya.today:34000/ch1030/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCO2G7CC2747FY8HgqNzBfRO7TF-yQaBxAWrFWXB3hQOZ
+#EXTINF:0, CineMan Action
 #EXTGRP: кино
-http://bl2.provds.pw/~301736849543375526E505731754D/45284/
+http://6.troya.today:34000/ch1032/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCFEWJTomeKhiO2WF3XlW26U9b32NbbzJ6TBy2g7eX6Tv
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://46.8.29.51:2020/channel/790108dc/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
@@ -161,7 +161,9 @@ http://185.112.140.28:80/Kino_TV/index.m3u8
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187241.m3u8
-
+#EXTINF:0, Fresh Fantastic
+#EXTGRP: кино
+http://6.troya.today:34000/ch1725/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCF3bPyMz78nURZ0S-lXU3DrwUVW985jKZ6Ne-kBvyqGr
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
 http://6.troya.today:34000/ch773/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCIkvh1U51qLrkwm1qRBUtYVZOPy8aV77z-aT5hkSOA1f
