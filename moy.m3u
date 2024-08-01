@@ -82,9 +82,9 @@ http://46.8.29.51:2020/channel/nbae71fb/index.m3u8?q=a38daa3bb08ae3e108c4b30fae7
 #EXTINF:0, Иллюзион+
 #EXTGRP: кино
 http://188.113.190.15/45/tracks-v1a1/index.m3u8
-#EXTINF:0,LIVE:Сваты
+#EXTINF:0,Топ кино
 #EXTGRP: кино
-https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/17.m3u8
+http://fs2.persik.by/TopKino_10/index.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://188.113.190.15/119/video.m3u8
@@ -138,19 +138,26 @@ http://6.troya.today:34000/ch139/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOnd
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://188.113.190.15/214/mono.m3u8
+#EXTINF:0,Советские комедии
+#EXTGRP: кино
+http://fs2.persik.by/Soviet_Comedy9/index.m3u8
+#EXTINF:0,АНТИСТРЕСС
+#EXTGRP: кино
+http://fs2.persik.by/Kino_Antistress8/index.m3u8
+
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://91.218.160.212:8015/play/a01z/index.m3u8
 
 #EXTINF:0,CineMan TOP
 #EXTGRP: кино
-http://6.troya.today:34000/ch1031/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCE_zRAjcb8HakdE-IuyJL_j6KCJoO3sUgwSmnfrDZE2A
+http://ip1.orgip.net/683/video.m3u8?token=M4f082ab4c
 #EXTINF:0,CineMan
 #EXTGRP: кино
-http://6.troya.today:34000/ch1030/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCO2G7CC2747FY8HgqNzBfRO7TF-yQaBxAWrFWXB3hQOZ
+http://ip1.orgip.net/682/video.m3u8?token=M4f082ab4c
 #EXTINF:0, CineMan Action
 #EXTGRP: кино
-http://6.troya.today:34000/ch1032/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCFEWJTomeKhiO2WF3XlW26U9b32NbbzJ6TBy2g7eX6Tv
+http://ip1.orgip.net/689/video.m3u8?token=M4f082ab4c
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://46.8.29.51:2020/channel/790108dc/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
