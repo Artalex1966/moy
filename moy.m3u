@@ -75,9 +75,6 @@ http://46.8.29.51:2020/channel/nbae71fb/index.m3u8?q=a38daa3bb08ae3e108c4b30fae7
 #EXTINF:0, Иллюзион+
 #EXTGRP: кино
 http://188.113.190.15/45/tracks-v1a1/index.m3u8
-#EXTINF:0,Топ кино
-#EXTGRP: кино
-http://fs2.persik.by/TopKino_10/index.m3u8
 #EXTINF:0,CineMan Cвaты
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/62337/hls/pl.m3u8
@@ -131,12 +128,6 @@ http://rr3.8v8i8p.com/~301736849543375526E505731754D/31421/hls/pl.m3u8
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://188.113.190.15/214/mono.m3u8
-#EXTINF:0,Советские комедии
-#EXTGRP: кино
-http://fs2.persik.by/Soviet_Comedy9/index.m3u8
-#EXTINF:0,АНТИСТРЕСС
-#EXTGRP: кино
-http://fs2.persik.by/Kino_Antistress8/index.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
