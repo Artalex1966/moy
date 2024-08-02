@@ -78,6 +78,9 @@ http://188.113.190.15/45/tracks-v1a1/index.m3u8
 #EXTINF:0,Топ кино
 #EXTGRP: кино
 http://fs2.persik.by/TopKino_10/index.m3u8
+#EXTINF:0,CineMan Cвaты
+#EXTGRP: кино
+http://rr3.8v8i8p.com/~301736849543375526E505731754D/62337/hls/pl.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://188.113.190.15/119/video.m3u8
@@ -88,9 +91,6 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0,Военное Кино
-#EXTGRP: кино
-http://s1.iptvcinema.ru/voennoe_kino/index.m3u8?token=U2FuamEwNHx8VTJGdWFtRXdOREF5TnpjPQ==
 
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
@@ -126,7 +126,7 @@ http://188.113.190.15/53/mono.m3u8
 http://46.8.29.51:2020/channel/55c93d7e/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
-http://1.1usd.tv:34000/ch139/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdATe5BwN55_8aKm7wWTxlf_7RHI6InedyRON1OtEG0mo
+http://rr3.8v8i8p.com/~301736849543375526E505731754D/31421/hls/pl.m3u8
 
 #EXTINF:0,Комедия
 #EXTGRP: кино
@@ -140,17 +140,17 @@ http://fs2.persik.by/Kino_Antistress8/index.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
-http://91.218.160.212:8015/play/a01z/index.m3u8
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,CineMan TOP
 #EXTGRP: кино
-http://ip1.orgip.net/683/video.m3u8?token=M4f082ab4c
+http://rr3.8v8i8p.com/~301736849543375526E505731754D/29842/hls/pl.m3u8
 #EXTINF:0,CineMan
 #EXTGRP: кино
-http://ip1.orgip.net/682/video.m3u8?token=M4f082ab4c
-#EXTINF:0, CineMan Action
+http://rr3.8v8i8p.com/~301736849543375526E505731754D/53382/hls/pl.m3u8
+#EXTINF:0,Cineman Action
 #EXTGRP: кино
-http://ip1.orgip.net/689/video.m3u8?token=M4f082ab4c
+http://rr3.8v8i8p.com/~301736849543375526E505731754D/63846/hls/pl.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://46.8.29.51:2020/channel/790108dc/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
@@ -163,13 +163,14 @@ http://185.112.140.28:80/Kino_TV/index.m3u8
 https://hls.goodgame.ru/hls/187241.m3u8
 #EXTINF:0, Fresh Fantastic
 #EXTGRP: кино
-http://6.troya.today:34000/ch1725/mono.m3u8?token=rl_silvio1.0HbXYzseAQucBYcyqOndCF3bPyMz78nURZ0S-lXU3DrwUVW985jKZ6Ne-kBvyqGr
+http://rr3.8v8i8p.com/~301736849543375526E505731754D/79274/hls/pl.m3u8
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
 http://3.troya.one:34000/ch773/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bdikKJolljI_nwOo4xsNg787_cPDB1tHxfxRznIIHESjXk
-#EXTINF:0,BCU Action HD
+#EXTINF:0,Cobra TV Thriller
 #EXTGRP: кино
-http://3.troya.one:34000/ch769/mono.m3u8?token=rl_03062017.UIVpqOAh5FZG9z1VE7bdijCYdZX3M9_iCnGiGOesxwEWyeaioplbeQvGheSFqPHE
+http://rr3.8v8i8p.com/~301736849543375526E505731754D/82945/hls/pl.m3u8
+
 #EXTINF:0,Prokop TV Cinema Best HD
 #EXTGRP: кино
 http://158.101.194.132:8888/channel/1f541eaf/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
@@ -177,7 +178,7 @@ http://158.101.194.132:8888/channel/1f541eaf/index.m3u8?q=99d798ea83e3f8bc7a2bc6
 
 #EXTINF:0,viju TV1000 Action
 #EXTGRP: кино
-http://188.113.190.15/30/tracks-v1a1/index.m3u8
+http://185.112.140.28:80/TV1000Action/index.m3u8
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
 http://185.112.140.28:80/VIPMegahit/index.m3u8
