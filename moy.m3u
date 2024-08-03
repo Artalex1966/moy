@@ -131,7 +131,7 @@ http://188.113.190.15/214/mono.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
-http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+http://185.112.140.28:80/Cinema/index.m3u8
 #EXTINF:0,CineMan Premium
 #EXTGRP: кино
 http://ott.server-iptv.live/1664/video.m3u8?token=M4f082ab4c
