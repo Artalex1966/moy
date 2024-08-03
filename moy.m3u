@@ -56,7 +56,7 @@ http://rr3.8v8i8p.com/~301736849543375526E505731754D/73664/hls/pl.m3u8
 http://3.troya.one:34000/ch1072/mono.m3u8?token=lios01.eMav6c3IkJemsUQDaZ79VeLzUZj622Ri_1VUFSIjr8MnIGf6JuPMQAx_e3ULSwO0
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
-http://3.troya.one:34000/ch2274/mono.m3u8?token=lios01.eMav6c3IkJemsUQDaZ79VQXPdOgh5HztrqHj32Z7c84fOMKUTAyP5H8du6drgWuo
+http://cdntv.online/high/uydk9tp52z/1376.m3u8
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
 http://ru2.troya.one:34000/ch2597/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S794P89dgeq_3BxZn3yWCmODuDFhq5hLFoXdB7sJB6q3
@@ -157,12 +157,15 @@ http://89.104.114.2:8080/kinopokaz/index.m3u8
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187241.m3u8
+#EXTINF:0, VL Fantastic
+#EXTGRP: кино
+http://cdntv.online/high/uydk9tp52z/1349.m3u8
 #EXTINF:0, Fresh Fantastic
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/79274/hls/pl.m3u8
-#EXTINF:0,BCU Fantastic
+#EXTINF:0, KLI Fantastica HD
 #EXTGRP: кино
-http://ua.1usd.tv:34000/ch773/mono.m3u8?token=1usdtv_lyyt.ORkT-qxvJtvVsAhpjyktU5kuZqURS7JNYeEipFtBCNlkfm2aZ-xaSkdXZoVeKsoB
+http://cdntv.online/high/uydk9tp52z/1373.m3u8
 #EXTINF:0,MM UFO HD
 #EXTGRP: кино
 http://195.211.27.149:8887/8410/index.m3u8?token=test
