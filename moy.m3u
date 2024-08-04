@@ -60,13 +60,15 @@ http://cdntv.online/high/uydk9tp52z/1376.m3u8
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
 http://ru2.troya.one:34000/ch2597/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S794P89dgeq_3BxZn3yWCmODuDFhq5hLFoXdB7sJB6q3
-
+#EXTINF:0,Clarity4K Комедия СССР 1
+#EXTGRP: кино
+http://cdntv.online/high/uydk9tp52z/1584.m3u8
 #EXTINF:0,USSR HD
 #EXTGRP: кино
 http://s.only4.tv/6601/index.m3u8?token=diR3Bf9AiQ
-#EXTINF:0,Советская киноклассика
+#EXTINF:0,CineMan CCCP 4K
 #EXTGRP: кино
-http://130.193.124.214:8028/play/a05z/index.m3u8
+http://cdntv.online/high/uydk9tp52z/1682.m3u8
 #EXTINF:0,Советская киноклассика +2
 #EXTGRP: кино
 http://46.8.29.51:2020/channel/nbae71fb/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
