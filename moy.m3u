@@ -137,13 +137,13 @@ http://185.112.140.28:80/Cinema/index.m3u8
 http://ott.server-iptv.live/1664/video.m3u8?token=M4f082ab4c
 #EXTINF:0,CineMan TOP
 #EXTGRP: кино
-http://rr3.8v8i8p.com/~301736849543375526E505731754D/29842/hls/pl.m3u8
+http://cdntv.online/high/uydk9tp52z/1256.m3u8
 #EXTINF:0,CineMan
 #EXTGRP: кино
-http://rr3.8v8i8p.com/~301736849543375526E505731754D/53382/hls/pl.m3u8
+http://cdntv.online/high/uydk9tp52z/1255.m3u8
 #EXTINF:0,Cineman Action
 #EXTGRP: кино
-http://rr3.8v8i8p.com/~301736849543375526E505731754D/63846/hls/pl.m3u8
+http://cdntv.online/high/uydk9tp52z/1257.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://46.8.29.51:2020/channel/790108dc/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
@@ -157,18 +157,18 @@ http://89.104.114.2:8080/kinopokaz/index.m3u8
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187241.m3u8
-#EXTINF:0, VL Fantastic
+#EXTINF:0,VL Fantastic
 #EXTGRP: кино
 http://cdntv.online/high/uydk9tp52z/1349.m3u8
 #EXTINF:0, Fresh Fantastic
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/79274/hls/pl.m3u8
-#EXTINF:0, KLI Fantastica HD
+#EXTINF:0,KLI Fantastica HD
 #EXTGRP: кино
 http://cdntv.online/high/uydk9tp52z/1373.m3u8
-#EXTINF:0,MM UFO HD
+#EXTINF:0,Z!Fantastic HD
 #EXTGRP: кино
-http://195.211.27.149:8887/8410/index.m3u8?token=test
+http://cdntv.online/high/uydk9tp52z/1388.m3u8
 #EXTINF:0,Cobra TV Thriller
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/82945/hls/pl.m3u8
