@@ -119,7 +119,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/13037/index.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
-http://188.113.190.15/53/mono.m3u8
+http://195.211.27.149:8887/8310/index.m3u8?token=test
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://tv.light-net.ru:8005/play/a067
@@ -258,9 +258,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/17006/index.m3u8
 #EXTINF:0,VF Игра престолов
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/18119/index.m3u8
-#EXTINF:0,Кинозал! Интерны ТВ
-#EXTGRP: кино
-http://ott.server-iptv.live/1655/video.m3u8?token=M4f082ab4c
 #EXTGRP: кино
 #EXTINF:0,VF Клиника
 #EXTGRP: кино
@@ -417,13 +414,13 @@ http://188.113.190.15/162/video.m3u8
 http://188.113.190.15/41/video.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
-https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
+http://94.232.104.237:8011/multhd/index.m3u8
 #EXTINF:0,Чижик
 #EXTGRP: Детский
 http://strm.yandex.ru/kal/chizhik/chizhik0.m3u8
 #EXTINF:0,Лёва HD
 #EXTGRP: Детский
-http://strm.yandex.ru/kal/leva/leva0.m3u8
+http://rr3.8v8i8p.com/~301736849543375526E505731754D/42298/hls/pl.m3u8
 #EXTINF:0,Мультиландия
 #EXTGRP: Детский
 http://188.113.190.15/108/video.m3u8
@@ -432,16 +429,16 @@ http://188.113.190.15/108/video.m3u8
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 #EXTINF:0,Рыжий
 #EXTGRP: Детский
-https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
+http://rr3.8v8i8p.com/~301736849543375526E505731754D/54383/hls/pl.m3u8
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детский
-https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
-#EXTINF:0,TiJi
+https://stream2.cinerama.uz/1270/tracks-v1a1/mono.m3u8
+#EXTINF:0,Советские мультфильмы
 #EXTGRP: Детский
-https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
-#EXTINF:0,Чип и Дейл
+http://cdntv.online/high/uydk9tp52z/165.m3u8
+#EXTINF:0,Cartoons Big
 #EXTGRP: Детский
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+http://rr3.8v8i8p.com/~301736849543375526E505731754D/32851/hls/pl.m3u8
 
 
 
