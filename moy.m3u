@@ -50,13 +50,13 @@ http://bl2.provds.pw/~301736849543375526E505731754D/61859/
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/73664/hls/pl.m3u8
 #EXTINF:0,TOP USSR
 #EXTGRP: кино
-http://3.troya.one:34000/ch1072/mono.m3u8?token=lios01.eMav6c3IkJemsUQDaZ79VeLzUZj622Ri_1VUFSIjr8MnIGf6JuPMQAx_e3ULSwO0
+http://ru3.troya.one:34000/ch1072/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnjIZwo_WdPX5vCKEre3s5DbazTQH2FOKB3KcVqWaBoKD51
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
 http://cdntv.online/high/uydk9tp52z/1376.m3u8
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
-http://ru2.troya.one:34000/ch2597/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S794P89dgeq_3BxZn3yWCmODuDFhq5hLFoXdB7sJB6q3
+http://ru3.troya.one:34000/ch2597/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnjIZDGoERu3zf5ZSwOOEkSNPnkPlPdo6ZP6EkeSCd8QxlH
 #EXTINF:0,Clarity4K Комедия СССР 1
 #EXTGRP: кино
 http://cdntv.online/high/uydk9tp52z/1584.m3u8
@@ -71,7 +71,7 @@ http://cdntv.online/high/uydk9tp52z/1682.m3u8
 http://46.8.29.51:2020/channel/nbae71fb/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://ca.ukrainske.tv/7120/5EA2AF4303AF555/video.m3u8
+http://ru3.troya.one:34000/ch789/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnjIZO7KHP7M7voO9ktDdvsaBxY7C0Hb11GyrKKSuMD7GzQ
 
 
 #EXTINF:0, Иллюзион+
@@ -130,6 +130,9 @@ http://rr3.8v8i8p.com/~301736849543375526E505731754D/31421/hls/pl.m3u8
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://188.113.190.15/214/mono.m3u8
+#EXTINF:0,Clarity4k Классика Кино
+#EXTGRP: кино
+http://ru3.troya.one:34000/ch2506/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnjIZXeCPizIp_Qi-70_ZJ4flAeBbxC_Ui87o3KxlUeXPhZ
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
@@ -173,17 +176,17 @@ http://cdntv.online/high/uydk9tp52z/1388.m3u8
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4ODg3Lzg0MTAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImFlMDVjZmFlIiwicCI6ImFlMDVjZmFlOTA4NTM1Y2IiLCJjIjoiNjg5IiwidCI6IjdlOGY2ZGZjYWU4MTcwMDZmMmMyMTE2YjU2NDllZmNjIiwiZCI6IjI5NjQwIiwiciI6IjI5MzkxIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODQxMC9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:0,Minimax Фантастика
 #EXTGRP: кино
-http://ca.ukrainske.tv/6050/5EA2AF4303AF555/video.m3u8
+http://ru3.troya.one:34000/ch1267/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnjIfbQBiU8p0A7eLI-zbu8bctF0hiJTURKDhXzSiVJlv7y
 #EXTINF:0,KBC_fantastic
 #EXTGRP: кино
-http://ca.ukrainske.tv/8813/5EA2AF4303AF555/video.m3u8
+http://ru3.troya.one:34000/ch2840/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnjIWUK6niRKkkpI_F_tJ7TdyjE6n-v4ipIXTbg9SpSFB0u
 
 #EXTINF:0,Cobra TV Thriller
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/82945/hls/pl.m3u8
 #EXTINF:0,BCU Action HD
 #EXTGRP: кино
-http://ca.ukrainske.tv/7100/5EA2AF4303AF555/video.m3u8
+http://ru3.troya.one:34000/ch769/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnjITEoZ_3zCvxogChZxo6rLKIShB-nL55JRninrykrkNU6
 #EXTINF:0,Prokop TV Cinema Best HD
 #EXTGRP: кино
 http://158.101.194.132:8888/channel/1f541eaf/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
