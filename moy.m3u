@@ -45,9 +45,6 @@ http://ru2.troya.one:34000/ch2835/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S
 #EXTINF:0,Fresh Soviet
 #EXTGRP: кино
 http://bl2.provds.pw/~301736849543375526E505731754D/61859/
-#EXTINF:0,BCU СССР HD
-#EXTGRP: кино
-http://ua.1usd.tv:34000/ch789/mono.m3u8?token=1usdtv_lyyt.ORkT-qxvJtvVsAhpjyktU07loqT2IQX8XOqO2ue6cInsVAgaAJ6Ho_XsDFhnzHeK
 #EXTINF:0,Prokop TV Cкaзки CCCP
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/73664/hls/pl.m3u8
@@ -134,9 +131,6 @@ http://188.113.190.15/214/mono.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://185.112.140.28:80/Cinema/index.m3u8
-#EXTINF:0,CineMan Premium
-#EXTGRP: кино
-http://ott.server-iptv.live/1664/video.m3u8?token=M4f082ab4c
 #EXTINF:0,CineMan TOP
 #EXTGRP: кино
 http://cdntv.online/high/uydk9tp52z/1256.m3u8
@@ -182,23 +176,19 @@ http://rr3.8v8i8p.com/~301736849543375526E505731754D/82945/hls/pl.m3u8
 #EXTINF:0,Prokop TV Cinema Best HD
 #EXTGRP: кино
 http://158.101.194.132:8888/channel/1f541eaf/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
-#EXTINF:0,BCU Action
-#EXTGRP: кино
-http://ua.1usd.tv:34000/ch769/mono.m3u8?token=1usdtv_lyyt.ORkT-qxvJtvVsAhpjyktU11rAlhY3DSL0ejoqHGbV-mLjCB_CCl2GJvGlwoPvoZ2
-
 
 #EXTINF:0,viju TV1000 Action
 #EXTGRP: кино
 http://185.112.140.28:80/TV1000Action/index.m3u8
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
-http://185.112.140.28:80/VIPMegahit/index.m3u8
+http://188.113.190.15/202/mono.m3u8
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
-http://185.112.140.28:80/VIPPremiere/index.m3u8
+http://188.113.190.15/201/mono.m3u8
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-http://185.112.140.28:80/VIPComedy/index.m3u8
+http://188.113.190.15/203/mono.m3u8
 
 
 
