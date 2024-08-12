@@ -119,17 +119,17 @@ http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/13037/index.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
-http://195.211.27.149:8887/8310/index.m3u8?token=test
+http://iptv.mega.net.ru:8888/Lubimoe_kino/mono.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
-http://tv.light-net.ru:8005/play/a067
+http://195.211.27.149:8887/8310/index.m3u8?token=test
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/31421/hls/pl.m3u8
 
 #EXTINF:0,Комедия
 #EXTGRP: кино
-http://188.113.190.15/214/mono.m3u8
+http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:0,Clarity4k Классика Кино
 #EXTGRP: кино
 http://ru3.troya.one:34000/ch2506/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnjIZXeCPizIp_Qi-70_ZJ4flAeBbxC_Ui87o3KxlUeXPhZ
@@ -154,7 +154,7 @@ http://46.8.29.51:2020/channel/790108dc/index.m3u8?q=a38daa3bb08ae3e108c4b30fae7
 http://185.112.140.28:80/Kino_TV/index.m3u8
 #EXTINF:0,Кинопоказ
 #EXTGRP: кино
-http://89.104.114.2:8080/kinopokaz/index.m3u8
+http://185.112.140.28:80/Kinopokaz/index.m3u8
 
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
@@ -187,22 +187,20 @@ http://rr3.8v8i8p.com/~301736849543375526E505731754D/82945/hls/pl.m3u8
 #EXTINF:0,BCU Action HD
 #EXTGRP: кино
 http://ru3.troya.one:34000/ch769/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnjITEoZ_3zCvxogChZxo6rLKIShB-nL55JRninrykrkNU6
-#EXTINF:0,Prokop TV Cinema Best HD
-#EXTGRP: кино
-http://158.101.194.132:8888/channel/1f541eaf/index.m3u8?q=99d798ea83e3f8bc7a2bc65530edd218
+
 
 #EXTINF:0,viju TV1000 Action
 #EXTGRP: кино
-http://185.112.140.28:80/TV1000Action/index.m3u8
+http://91.205.199.3:80/tv1000action/index.m3u8
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
-http://188.113.190.15/202/mono.m3u8
+http://91.205.199.3/vipmegahit/index.m3u8
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
-http://188.113.190.15/201/mono.m3u8
+http://185.112.140.28:80/VIPPremiere/index.m3u8
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-http://188.113.190.15/203/mono.m3u8
+http://185.112.140.28:80/VIPComedy/index.m3u8
 
 
 
@@ -211,38 +209,34 @@ http://188.113.190.15/203/mono.m3u8
 
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
-http://188.113.190.15/327/video.m3u8
+http://185.112.140.28:80/Nashe_Novoe_Kino/index.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
-http://188.113.190.15/317/video.m3u8
+http://185.112.140.28:80/Rodnoe_Kino/index.m3u8
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
-http://188.113.190.15/316/mono.m3u8
-#EXTINF:0,Мужское кино
-#EXTGRP: кино
-http://188.113.190.15/316/video.m3u8
-
+http://45.159.74.14:80/MujskoeKino/index.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
-http://188.113.190.15/309/video.m3u8
+http://185.112.140.28:80/Kinopremera/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-http://188.113.190.15/313/video.m3u8
+http://188.190.222.48:8765/Kinohit_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
-http://188.113.190.15/308/video.m3u8
+http://195.158.222.115:8001/play/a0b2/index.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: кино
-http://188.113.190.15/311/video.m3u8
+http://195.158.222.115:8001/play/a0bg/index.m3u8
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
-http://188.113.190.15/129/video.m3u8
+http://94.232.104.237:8011/komediyatv/index.m3u8
 #EXTINF:0,Киносвидание
 #EXTGRP: кино
-http://188.113.190.15/310/video.m3u8
+http://188.190.222.48:8765/Kinosvidanie/tracks-v1a1/mono.m3u8
 #EXTINF:0,Киносерия
 #EXTGRP: кино
-http://188.113.190.15/312/video.m3u8
+http://195.158.222.115:8001/play/a0ba/index.m3u8
 ---
 
 #EXTINF:0,Yosso TV Забавное
@@ -388,16 +382,18 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:0,Мультики и Сказки HD
 #EXTGRP: Детский
 http://195.9.195.3:8080/hls/198446.m3u8
-
+#EXTINF:0,СоюзМультфильм
+#EXTGRP: Детский
+http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:0,O!
 #EXTGRP: Детский
-http://188.113.190.15/136/tracks-v1a1/index.m3u8
+http://flu.ttk.mx:90/O!/mono.m3u8?token=hs06e
 #EXTINF:0,Мама
 #EXTGRP: Детский
 http://188.113.190.15/87/mono.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
-http://stream01.vnet.am/CartoonNetwork/mono.m3u8?checkedby:iptvcat.com
+http://195.158.222.115:8001/play/a081/index.m3u8
 #EXTINF:0,Наше детство
 #EXTGRP: Детский
 http://91.207.114.209:5000/c163
@@ -412,7 +408,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 http://188.113.190.15/162/video.m3u8
 #EXTINF:0,Уникум
 #EXTGRP: Детский
-http://188.113.190.15/41/video.m3u8
+http://hls127.homeiptv.org:8880/Unikum/video.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
 http://94.232.104.237:8011/multhd/index.m3u8
@@ -424,7 +420,7 @@ http://strm.yandex.ru/kal/chizhik/chizhik0.m3u8
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/42298/hls/pl.m3u8
 #EXTINF:0,Мультиландия
 #EXTGRP: Детский
-http://188.113.190.15/108/video.m3u8
+http://31.148.48.15:80/Multilandiya/index.m3u8?token=test
 #EXTINF:0,МУЛЬТИМАНИЯ
 #EXTGRP: Детский
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
