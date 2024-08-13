@@ -169,15 +169,9 @@ http://cdntv.online/high/uydk9tp52z/1373.m3u8
 #EXTINF:0,Z!Fantastic HD
 #EXTGRP: кино
 http://cdntv.online/high/uydk9tp52z/1388.m3u8
-#EXTINF:0,MM UFO
-#EXTGRP: кино
-http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4ODg3Lzg0MTAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImFlMDVjZmFlIiwicCI6ImFlMDVjZmFlOTA4NTM1Y2IiLCJjIjoiNjg5IiwidCI6IjdlOGY2ZGZjYWU4MTcwMDZmMmMyMTE2YjU2NDllZmNjIiwiZCI6IjI5NjQwIiwiciI6IjI5MzkxIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODQxMC9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:0,Minimax Фантастика
 #EXTGRP: кино
 http://ru3.troya.one:34000/ch1267/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnjIfbQBiU8p0A7eLI-zbu8bctF0hiJTURKDhXzSiVJlv7y
-#EXTINF:0,KBC_fantastic
-#EXTGRP: кино
-http://ru3.troya.one:34000/ch2840/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnjIWUK6niRKkkpI_F_tJ7TdyjE6n-v4ipIXTbg9SpSFB0u
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
 http://ip1.orgip.net/1606/video.m3u8?token=M39f51d0fd
@@ -294,10 +288,10 @@ http://188.113.190.15/146/mono.m3u8
 
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
-http://188.113.190.15/96/mono.m3u8
+http://195.158.222.115:8000/play/104/index.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
-http://109.239.208.82/nauka20/index.m3u8
+http://94.232.104.237:8011/nauka/index.m3u8
 
 #EXTINF:0, National Geographic
 #EXTGRP: Познавательное
@@ -312,45 +306,21 @@ http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:0,Кто Есть Кто
 #EXTGRP: Познавательное
 http://188.113.190.15/82/mono.m3u8
-#EXTINF:0,HDL
-#EXTGRP: Познавательное
-http://188.113.190.15/330/mono.m3u8
 
 #EXTINF:0,Авто 24
 #EXTGRP: Познавательное
-http://109.239.208.82/auto24/index.m3u8
+http://91.205.199.3:80/avto24/index.m3u8
 #EXTINF:0,Авто плюс
 #EXTGRP: Познавательное
-http://188.113.190.15/83/mono.m3u8
+http://94.232.104.237:8011/avtoplus/index.m3u8
 
 #EXTINF:0,История
 #EXTGRP: Познавательное
 http://stream01.vnet.am/Istoria/mono.m3u8
-#EXTINF:0,История
-#EXTGRP: Познавательное
-http://109.239.208.82:80/history/index.m3u8
+
 
 ======================
 
-#EXTINF:0,viju+ Megahit HD
-#EXTGRP: кино
-http://91.205.199.3:80/vipmegahit/index.m3u8
-#EXTINF:0,viju+ Premiere HD
-#EXTGRP: кино
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/2003/hlsx/pl.m3u8
-#EXTINF:0,viju+ Comedy HD
-#EXTGRP: кино
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/2001/hlsx/pl.m3u8
-#EXTINF:0,TV 1000 Русское Кино
-#EXTGRP: кино
-http://tv.streams.baikal-telecom.net/TV1000RuKino/index.m3u8
-#EXTINF:0,TV 1000 HD
-#EXTGRP: кино
-http://213.172.73.170:8081/nimble_live/1073__Tv_1000/playlist.m3u8
-#EXTINF:0,TV 1000 Action HD
-#EXTGRP: кино
-http://213.172.73.170:8081/nimble_live/1072__Tv_1000_Action/playlist.m3u8
----
 #EXTINF:0,НТВ Хит
 #EXTGRP: эфир
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
@@ -479,21 +449,18 @@ http://kino-1.catcast.tv/content/37739/index.m3u8
 
 ---
 
-#EXTINF:0,Gameplay трейлеры
+#EXTINF:0,Gameplay AhiLpnz
 #EXTGRP: игры
-https://ipv4.bozztv.com/dvrfl07/ushba44/index.m3u8
-#EXTINF:0,Gameplay
+https://hls.goodgame.ru/hls/2022.m3u8
+#EXTINF:0,Gameplay dAcentTV
 #EXTGRP: игры
-https://ipv4.bozztv.com/dvrfl07/ushba31/tracks-v1a1/mono.m3u8
+https://hls.goodgame.ru/manifest/1850_master.m3u8
 #EXTINF:0,E TV
 #EXTGRP: игры
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:0,Game Show
+#EXTINF:0,GAME
 #EXTGRP: игры
-http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19284/index.m3u8
-#EXTINF:0,Prosto GAME
-#EXTGRP: игры
-http://iptv.prosto.tv:7000/ch322/video.m3u8?secret=xxxxxxxx
+https://hls.goodgame.ru/hls/22416.m3u8
 =============================
 #EXTINF:0,Akudji
 #EXTGRP: кино
