@@ -377,6 +377,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 
 ------
+#EXTINF:0,Чип и Дейл
+#EXTGRP: Детский
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:0,Мультики и Сказки HD
 #EXTGRP: Детский
 http://195.9.195.3:8080/hls/198446.m3u8
@@ -431,9 +434,15 @@ https://stream2.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:0,Советские мультфильмы
 #EXTGRP: Детский
 http://cdntv.online/high/uydk9tp52z/165.m3u8
-#EXTINF:0,Cartoons Big
+#EXTINF:0,Мультфильмы большие
 #EXTGRP: Детский
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/32851/hls/pl.m3u8
+#EXTINF:0,Sunset Kids
+#EXTGRP: Детский
+https://stream.sunset-media.ru:443/Free/Free/4.m3u8
+#EXTINF:0,Nickelodeon
+#EXTGRP: Детский
+https://st1.uzdigital.tv/Nickelodeon/tracks-v1a1/mono.m3u8
 
 
 
