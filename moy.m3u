@@ -178,13 +178,16 @@ http://ru3.troya.one:34000/ch1267/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnj
 #EXTINF:0,KBC_fantastic
 #EXTGRP: кино
 http://ru3.troya.one:34000/ch2840/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnjIWUK6niRKkkpI_F_tJ7TdyjE6n-v4ipIXTbg9SpSFB0u
+#EXTINF:0,BCU Fantastic HD
+#EXTGRP: кино
+http://ip1.orgip.net/1606/video.m3u8?token=M39f51d0fd
 
 #EXTINF:0,Cobra TV Thriller
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/82945/hls/pl.m3u8
-#EXTINF:0,BCU Action HD
+#EXTINF:0,CineMan Thriller
 #EXTGRP: кино
-http://ru3.troya.one:34000/ch769/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnjITEoZ_3zCvxogChZxo6rLKIShB-nL55JRninrykrkNU6
+http://ip1.orgip.net/686/video.m3u8?token=M39f51d0fd
 
 
 #EXTINF:0,viju TV1000 Action
@@ -251,9 +254,12 @@ http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/17006/index.m3u8
-#EXTINF:0,VF Игра престолов
+#EXTINF:0,CineMan Скорая помощь
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/18119/index.m3u8
+http://ip1.orgip.net/694/video.m3u8?token=M39f51d0fd
+#EXTINF:0,CineMan CineMan Универ
+#EXTGRP: кино
+http://ip1.orgip.net/1656/video.m3u8?token=M39f51d0fd
 #EXTGRP: кино
 #EXTINF:0,VF Клиника
 #EXTGRP: кино
@@ -377,6 +383,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 
 ------
+#EXTINF:0,Cartoon Classics
+#EXTGRP: Детский
+http://195.158.222.115:8001/play/a08g/index.m3u8
 #EXTINF:0,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
@@ -391,7 +400,7 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 http://flu.ttk.mx:90/O!/mono.m3u8?token=hs06e
 #EXTINF:0,Мама
 #EXTGRP: Детский
-http://188.113.190.15/87/mono.m3u8
+https://stream2.cinerama.uz/1244/tracks-v1a1/mono.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
 http://195.158.222.115:8001/play/a081/index.m3u8
@@ -406,19 +415,13 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 #EXTINF:0,Cупергерои
 #EXTGRP: Детский
-http://188.113.190.15/162/video.m3u8
+http://31.210.208.171:8080/malysh/index.m3u8?token=+W2MSER
 #EXTINF:0,Уникум
 #EXTGRP: Детский
-http://hls127.homeiptv.org:8880/Unikum/video.m3u8
+https://stream2.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
 http://94.232.104.237:8011/multhd/index.m3u8
-#EXTINF:0,Чижик
-#EXTGRP: Детский
-http://strm.yandex.ru/kal/chizhik/chizhik0.m3u8
-#EXTINF:0,Лёва HD
-#EXTGRP: Детский
-http://rr3.8v8i8p.com/~301736849543375526E505731754D/42298/hls/pl.m3u8
 #EXTINF:0,Мультиландия
 #EXTGRP: Детский
 http://31.148.48.15:80/Multilandiya/index.m3u8?token=test
@@ -443,6 +446,18 @@ https://stream.sunset-media.ru:443/Free/Free/4.m3u8
 #EXTINF:0,Nickelodeon
 #EXTGRP: Детский
 https://st1.uzdigital.tv/Nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP: Детский
+http://94.232.104.237:8011/cartoonnetwork/index.m3u8
+#EXTINF:0,СТС Kids
+#EXTGRP: Детский
+http://iptv.mega.net.ru:8888/CTC_Kids/mono.m3u8
+#EXTINF:0,Tiji
+#EXTGRP: Детский
+http://iptv.mega.net.ru:8888/Tiji/mono.m3u8
+#EXTINF:0,Киномульт
+#EXTGRP: Детский
+http://195.158.222.115:8001/play/a08f/index.m3u8
 
 
 
