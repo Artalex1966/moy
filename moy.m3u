@@ -128,9 +128,12 @@ http://rr3.8v8i8p.com/~301736849543375526E505731754D/31421/hls/pl.m3u8
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://91.142.158.107:8092/play/30/index.m3u8
-#EXTINF:0,Clarity4k Классика Кино
+#EXTINF:0,Семейное кино
 #EXTGRP: кино
-http://ru3.troya.one:34000/ch2506/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnjIZXeCPizIp_Qi-70_ZJ4flAeBbxC_Ui87o3KxlUeXPhZ
+http://91.207.114.220:9001/play/a07w/index.m3u8
+#EXTINF:0,Крепкое кино
+#EXTGRP: кино
+http://91.207.114.220:9001/play/a0d6/index.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
