@@ -53,19 +53,19 @@ http://rr3.8v8i8p.com/~301736849543375526E505731754D/73664/hls/pl.m3u8
 http://ru3.troya.one:34000/ch1072/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnjIZwo_WdPX5vCKEre3s5DbazTQH2FOKB3KcVqWaBoKD51
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
-http://cdntv.online/high/uydk9tp52z/1376.m3u8
+https://cdntv.online/high/8lub1cqep9/1376.m3u8
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
 http://ru3.troya.one:34000/ch2597/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnjIZDGoERu3zf5ZSwOOEkSNPnkPlPdo6ZP6EkeSCd8QxlH
 #EXTINF:0,Clarity4K Комедия СССР 1
 #EXTGRP: кино
-http://cdntv.online/high/uydk9tp52z/1584.m3u8
+https://cdntv.online/high/8lub1cqep9/1584.m3u8
 #EXTINF:0,USSR HD
 #EXTGRP: кино
 http://s.only4.tv/6601/index.m3u8?token=diR3Bf9AiQ
 #EXTINF:0,CineMan CCCP 4K
 #EXTGRP: кино
-http://cdntv.online/high/uydk9tp52z/1682.m3u8
+https://cdntv.online/high/8lub1cqep9/1682.m3u8
 #EXTINF:0,Советская киноклассика +2
 #EXTGRP: кино
 http://46.8.29.51:2020/channel/nbae71fb/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
@@ -162,16 +162,16 @@ http://185.112.140.28:80/Kinopokaz/index.m3u8
 https://hls.goodgame.ru/hls/187241.m3u8
 #EXTINF:0,VL Fantastic
 #EXTGRP: кино
-http://cdntv.online/high/uydk9tp52z/1349.m3u8
+https://cdntv.online/high/8lub1cqep9/1349.m3u8
 #EXTINF:0, Fresh Fantastic
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/79274/hls/pl.m3u8
 #EXTINF:0,KLI Fantastica HD
 #EXTGRP: кино
-http://cdntv.online/high/uydk9tp52z/1373.m3u8
+https://cdntv.online/high/8lub1cqep9/1373.m3u8
 #EXTINF:0,Z!Fantastic HD
 #EXTGRP: кино
-http://cdntv.online/high/uydk9tp52z/1388.m3u8
+https://cdntv.online/high/8lub1cqep9/1388.m3u8
 #EXTINF:0,Minimax Фантастика
 #EXTGRP: кино
 http://ru3.troya.one:34000/ch1267/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnjIfbQBiU8p0A7eLI-zbu8bctF0hiJTURKDhXzSiVJlv7y
@@ -285,10 +285,6 @@ http://iuhqittr.otttv.pw/iptv/9XRHZ7MZ9PNWS6/9072/index.m3u8
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
-#EXTINF:0,DocuBox
-#EXTGRP: Познавательное
-http://188.113.190.15/146/mono.m3u8
-
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 http://195.158.222.115:8000/play/104/index.m3u8
