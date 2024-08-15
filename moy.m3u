@@ -39,36 +39,24 @@ http://185.112.140.28:80/Mosfilm/index.m3u8
 #EXTGRP: кино
 http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 
-#EXTINF:0,KBC-Страна СССР HD
-#EXTGRP: кино
-http://ru2.troya.one:34000/ch2835/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S5UkXEwqAiyLu3TWEoKlwISgJDw1sE8s6eUsW5_1lbvt
-#EXTINF:0,Fresh Soviet
-#EXTGRP: кино
-http://bl2.provds.pw/~301736849543375526E505731754D/61859/
 #EXTINF:0,Prokop TV Cкaзки CCCP
 #EXTGRP: кино
-http://rr3.8v8i8p.com/~301736849543375526E505731754D/73664/hls/pl.m3u8
-#EXTINF:0,TOP USSR
+http://rr3.8v8i8p.com/~10913fb54855bdd1c7d61ed5b9fc82a7162/73664/hls/pl.m3u8
+#EXTINF:0,MM Комедия USSR
 #EXTGRP: кино
-http://ru3.troya.one:34000/ch1072/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnjIZwo_WdPX5vCKEre3s5DbazTQH2FOKB3KcVqWaBoKD51
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4ODg3Lzg3NDQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImFlMDVjZmFlIiwicCI6ImFlMDVjZmFlOTA4NTM1Y2IiLCJjIjoiNTAzIiwidCI6IjdlOGY2ZGZjYWU4MTcwMDZmMmMyMTE2YjU2NDllZmNjIiwiZCI6IjI5NjQwIiwiciI6IjI5MzkxIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODc0NC9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
 https://cdntv.online/high/8lub1cqep9/1376.m3u8
-#EXTINF:0,VeleS СССР
-#EXTGRP: кино
-http://ru3.troya.one:34000/ch2597/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnjIZDGoERu3zf5ZSwOOEkSNPnkPlPdo6ZP6EkeSCd8QxlH
 #EXTINF:0,Clarity4K Комедия СССР 1
 #EXTGRP: кино
 https://cdntv.online/high/8lub1cqep9/1584.m3u8
-#EXTINF:0,USSR HD
+#EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-http://s.only4.tv/6601/index.m3u8?token=diR3Bf9AiQ
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4ODg3Lzg4OTQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjM2YjY1ODY2IiwicCI6IjM2YjY1ODY2MDE1ZTNhNmYiLCJjIjoiNTc4IiwidCI6IjY0MTMwYzRiNmNjZTgyZDU5YzEzYTAzY2M1MjZlNzlkIiwiZCI6IjI3NjQyIiwiciI6IjI3NDQ1IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODg5NC9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:0,CineMan CCCP 4K
 #EXTGRP: кино
 https://cdntv.online/high/8lub1cqep9/1682.m3u8
-#EXTINF:0,Советская киноклассика +2
-#EXTGRP: кино
-http://46.8.29.51:2020/channel/nbae71fb/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:0,Советское кино
 #EXTGRP: кино
 http://91.207.114.220:9001/play/a0aq/index.m3u8
@@ -149,7 +137,7 @@ http://cdntv.online/high/uydk9tp52z/1255.m3u8
 http://cdntv.online/high/uydk9tp52z/1257.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
-http://46.8.29.51:2020/channel/790108dc/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1MTo4ODg3LzgxODQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImFlMDVjZmFlIiwicCI6ImFlMDVjZmFlOTA4NTM1Y2IiLCJjIjoiMTc0IiwidCI6IjdlOGY2ZGZjYWU4MTcwMDZmMmMyMTE2YjU2NDllZmNjIiwiZCI6IjI5NjQwIiwiciI6IjI5MzkxIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODE4NC9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:0,КИНО ТВ HD
 #EXTGRP: кино
 http://185.112.140.28:80/Kino_TV/index.m3u8
