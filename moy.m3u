@@ -57,6 +57,9 @@ http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4OD
 #EXTINF:0,CineMan CCCP 4K
 #EXTGRP: кино
 https://cdntv.online/high/8lub1cqep9/1682.m3u8
+#EXTINF:0,Clarity4K Кино СССР
+#EXTGRP: кино
+http://u.vipl.one/hls/furmkyzd5t/1559.m3u8
 #EXTINF:0,Советское кино
 #EXTGRP: кино
 http://91.207.114.220:9001/play/a0aq/index.m3u8
