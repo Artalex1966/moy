@@ -42,6 +42,9 @@ http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 #EXTINF:0,Prokop TV Cкaзки CCCP
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~10913fb54855bdd1c7d61ed5b9fc82a7162/73664/hls/pl.m3u8
+#EXTINF:0,Clarity4K Kинодети CССР
+#EXTGRP: кино
+http://87.99.87.203:2007/channel/4f21ced1/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
 #EXTINF:0,MM Комедия USSR
 #EXTGRP: кино
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4ODg3Lzg3NDQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImFlMDVjZmFlIiwicCI6ImFlMDVjZmFlOTA4NTM1Y2IiLCJjIjoiNTAzIiwidCI6IjdlOGY2ZGZjYWU4MTcwMDZmMmMyMTE2YjU2NDllZmNjIiwiZCI6IjI5NjQwIiwiciI6IjI5MzkxIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODc0NC9pbmRleC5tM3U4P3R/index.m3u8
@@ -50,7 +53,7 @@ http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4OD
 http://ip1.orgip.net/1600/video.m3u8?token=M39f51d0fd
 #EXTINF:0,Clarity4K Комедия СССР 1
 #EXTGRP: кино
-https://cdntv.online/high/uydk9tp52z/1584.m3u8
+http://87.99.87.203:2007/channel/n5b8f1b17/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4ODg3Lzg4OTQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjM2YjY1ODY2IiwicCI6IjM2YjY1ODY2MDE1ZTNhNmYiLCJjIjoiNTc4IiwidCI6IjY0MTMwYzRiNmNjZTgyZDU5YzEzYTAzY2M1MjZlNzlkIiwiZCI6IjI3NjQyIiwiciI6IjI3NDQ1IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODg5NC9pbmRleC5tM3U4P3R/index.m3u8
@@ -122,6 +125,9 @@ http://rr3.8v8i8p.com/~301736849543375526E505731754D/31421/hls/pl.m3u8
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://94.232.104.237:8011/disney/index.m3u8
+#EXTINF:0,Семейное
+#EXTGRP: кино
+http://fs2.persik.by/Semejnoe8/index.m3u8
 #EXTINF:0,Семейное кино
 #EXTGRP: кино
 http://91.207.114.220:9001/play/a07w/index.m3u8
@@ -154,9 +160,9 @@ http://185.112.140.28:80/Kinopokaz/index.m3u8
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187241.m3u8
-#EXTINF:0,VL Fantastic
+#EXTINF:0,Путешествие во времени
 #EXTGRP: кино
-https://cdntv.online/high/uydk9tp52z/1349.m3u8
+http://fs2.persik.by/Puteshestvie_vo_vremeni8/index.m3u8
 #EXTINF:0, Fresh Fantastic
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/79274/hls/pl.m3u8
@@ -166,9 +172,9 @@ https://cdntv.online/high/uydk9tp52z/1373.m3u8
 #EXTINF:0,Z!Fantastic HD
 #EXTGRP: кино
 https://cdntv.online/high/uydk9tp52z/1388.m3u8
-#EXTINF:0,Minimax Фантастика
+#EXTINF:0,Clarity4K Фантастика
 #EXTGRP: кино
-http://ru3.troya.one:34000/ch1267/mono.m3u8?token=asp110784.AHb2IXM440YuIxqBmhnjIfbQBiU8p0A7eLI-zbu8bctF0hiJTURKDhXzSiVJlv7y
+http://87.99.87.203:2007/channel/15197eb5/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
 http://ip1.orgip.net/1606/video.m3u8?token=M39f51d0fd
