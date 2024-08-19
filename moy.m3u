@@ -50,13 +50,13 @@ http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4OD
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4ODg3Lzg4OTQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjFlZDk2NDU3IiwicCI6IjFlZDk2NDU3YzYwYWNiNWMiLCJjIjoiNTc4IiwidCI6IjFjMTBjMTdmNWE3YzNmNDkxYzNiODQzYjUzOTY3NmQxIiwiZCI6IjI2NjYxIiwiciI6IjI2NDczIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODg5NC9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
-http://cdntv.online/high/rzi7cke96s/1376.m3u8
+http://cdn.klimedia.online/lb/kliussr/index.m3u8?token=klimedia.space:YWtkc2xqZmRhOTBnOGY6YWtkc2xqZmRhOTBnOGY=
 #EXTINF:0,Clarity4K Комедия СССР 1
 #EXTGRP: кино
 http://87.99.87.203:2007/channel/n5b8f1b17/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
-#EXTINF:0,CineMan CCCP 4K
+#EXTINF:0,USSR HD
 #EXTGRP: кино
-http://ip1.orgip.net/1602/video.m3u8?token=Md7ac19a92
+http://cdn.klimedia.online/lb/pg_ussr/index.m3u8?token=klimedia.space:YWtkc2xqZmRhOTBnOGY6YWtkc2xqZmRhOTBnOGY=
 #EXTINF:0,Clarity4K Кино СССР
 #EXTGRP: кино
 https://cdntv.online/high/rzi7cke96s/1559.m3u8
