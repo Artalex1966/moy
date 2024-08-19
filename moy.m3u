@@ -181,7 +181,7 @@ http://ip1.orgip.net/1606/video.m3u8?token=M39f51d0fd
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/82945/hls/pl.m3u8
 #EXTINF:0,CineMan Thriller
 #EXTGRP: кино
-http://ip1.orgip.net/686/video.m3u8?token=M39f51d0fd
+http://195.158.222.115:8000/play/a052/index.m3u8
 #EXTINF:0,Clarity4K Boevik
 #EXTGRP: кино
 http://hls127.homeiptv.org:8880/Clarity4K_Boevik/video.m3u8
