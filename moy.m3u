@@ -41,7 +41,7 @@ http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 
 #EXTINF:0,Clarity4K Kинодети CССР
 #EXTGRP: кино
-http://87.99.87.203:2007/channel/4f21ced1/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
+http://cdntv.online/high/uydk9tp52z/1665.m3u8
 #EXTINF:0,MM Комедия USSR
 #EXTGRP: кино
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4ODg3Lzg3NDQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImFlMDVjZmFlIiwicCI6ImFlMDVjZmFlOTA4NTM1Y2IiLCJjIjoiNTAzIiwidCI6IjdlOGY2ZGZjYWU4MTcwMDZmMmMyMTE2YjU2NDllZmNjIiwiZCI6IjI5NjQwIiwiciI6IjI5MzkxIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODc0NC9pbmRleC5tM3U4P3R/index.m3u8
@@ -71,7 +71,7 @@ http://91.207.114.220:9001/play/a0aq/index.m3u8
 
 #EXTINF:0,CineMan Cвaты
 #EXTGRP: кино
-http://195.158.222.115:8000/play/a04w/index.m3u8
+http://cdntv.online/high/uydk9tp52z/1265.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://185.112.140.28:80/DomKino/index.m3u8
@@ -137,10 +137,10 @@ http://91.207.114.220:9001/play/a0d6/index.m3u8
 http://185.112.140.28:80/Cinema/index.m3u8
 #EXTINF:0,CineMan TOP
 #EXTGRP: кино
-http://195.158.222.115:8000/play/a04v/index.m3u8
+http://cdntv.online/high/uydk9tp52z/1256.m3u8
 #EXTINF:0,CineMan
 #EXTGRP: кино
-http://195.158.222.115:8000/play/a04u/index.m3u8
+http://cdntv.online/high/uydk9tp52z/1255.m3u8
 #EXTINF:0,Cineman Action
 #EXTGRP: кино
 http://cdntv.online/high/rzi7cke96s/1257.m3u8
@@ -163,9 +163,6 @@ http://fs2.persik.by/Puteshestvie_vo_vremeni8/index.m3u8
 #EXTINF:0, Fresh Fantastic
 #EXTGRP: кино
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/79274/hls/pl.m3u8
-#EXTINF:0,MiniMax Фантастика
-#EXTGRP: кино
-http://195.158.222.115:8000/play/a00k/index.m3u8
 #EXTINF:0,Z!Fantastic HD
 #EXTGRP: кино
 https://cdntv.online/high/rzi7cke96s/1388.m3u8
@@ -175,6 +172,10 @@ http://87.99.87.203:2007/channel/15197eb5/index.m3u8?q=92e2ce7ea739863e3dafd254b
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
 http://ip1.orgip.net/1606/video.m3u8?token=M39f51d0fd
+
+#EXTINF:0,MM Скорость HD
+#EXTGRP: кино
+http://hls127.homeiptv.org:8880/minimax-skorost-m4f/video.m3u8
 
 #EXTINF:0,Cobra TV Thriller
 #EXTGRP: кино
