@@ -174,11 +174,17 @@ http://rr3.8v8i8p.com/~301736849543375526E505731754D/79274/hls/pl.m3u8
 https://cdntv.online/high/rzi7cke96s/1388.m3u8
 #EXTINF:0,Clarity4K Фантастика
 #EXTGRP: кино
-http://87.99.87.203:2007/channel/15197eb5/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
+http://hls127.homeiptv.org:8880/Clarity4K_Fantastic/video.m3u8
 #EXTINF:0,KLI Fantastic HD
 #EXTGRP: кино
 http://cdn.klimedia.space/lb/klifantastica/index.m3u8?token=klimedia.space:cGF2ZWxhbGV4MjAxNTphbHVjYXJkMTk4Nw==
 
+#EXTINF:0,1FILMAX
+#EXTGRP: кино
+https://hls.goodgame.ru/hls/204708_720.m3u8
+#EXTINF:0,Видеокасета VHS
+#EXTGRP: кино
+https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:0,MM Скорость HD
 #EXTGRP: кино
 http://hls127.homeiptv.org:8880/minimax-skorost-m4f/video.m3u8
