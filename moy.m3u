@@ -122,6 +122,12 @@ http://rr3.8v8i8p.com/~301736849543375526E505731754D/31421/hls/pl.m3u8
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://94.232.104.237:8011/disney/index.m3u8
+#EXTINF:0,MM Семейный 1
+#EXTGRP: кино
+http://195.211.27.149:8887/8442/index.m3u8?token=test
+#EXTINF:0,MM Семейный 2
+#EXTGRP: кино
+http://195.211.27.149:8887/8449/index.m3u8?token=test
 #EXTINF:0,Семейное
 #EXTGRP: кино
 http://fs2.persik.by/Semejnoe8/index.m3u8
@@ -169,9 +175,9 @@ https://cdntv.online/high/rzi7cke96s/1388.m3u8
 #EXTINF:0,Clarity4K Фантастика
 #EXTGRP: кино
 http://87.99.87.203:2007/channel/15197eb5/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
-#EXTINF:0,BCU Fantastic HD
+#EXTINF:0,KLI Fantastic HD
 #EXTGRP: кино
-http://ip1.orgip.net/1606/video.m3u8?token=M39f51d0fd
+http://cdn.klimedia.space/lb/klifantastica/index.m3u8?token=klimedia.space:cGF2ZWxhbGV4MjAxNTphbHVjYXJkMTk4Nw==
 
 #EXTINF:0,MM Скорость HD
 #EXTGRP: кино
