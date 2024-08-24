@@ -48,15 +48,12 @@ http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4OD
 #EXTINF:0,MM Фантастика USSR
 #EXTGRP: кино
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4ODg3Lzg4OTQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjFlZDk2NDU3IiwicCI6IjFlZDk2NDU3YzYwYWNiNWMiLCJjIjoiNTc4IiwidCI6IjFjMTBjMTdmNWE3YzNmNDkxYzNiODQzYjUzOTY3NmQxIiwiZCI6IjI2NjYxIiwiciI6IjI2NDczIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODg5NC9pbmRleC5tM3U4P3R/index.m3u8
-#EXTINF:0,KLI СССР HD
-#EXTGRP: кино
-http://cdn.klimedia.online/lb/kliussr/index.m3u8?token=klimedia.space:YWtkc2xqZmRhOTBnOGY6YWtkc2xqZmRhOTBnOGY=
 #EXTINF:0,Clarity4K Комедия СССР 1
 #EXTGRP: кино
 http://87.99.87.203:2007/channel/n5b8f1b17/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
-#EXTINF:0,USSR HD
+#EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://cdn.klimedia.online/lb/pg_ussr/index.m3u8?token=klimedia.space:YWtkc2xqZmRhOTBnOGY6YWtkc2xqZmRhOTBnOGY=
+http://str13.ottg.cc/9118/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
 #EXTINF:0,Clarity4K Кино СССР
 #EXTGRP: кино
 https://cdntv.online/high/rzi7cke96s/1559.m3u8
@@ -175,9 +172,9 @@ https://cdntv.online/high/rzi7cke96s/1388.m3u8
 #EXTINF:0,Clarity4K Фантастика
 #EXTGRP: кино
 http://hls127.homeiptv.org:8880/Clarity4K_Fantastic/video.m3u8
-#EXTINF:0,KLI Fantastic HD
+#EXTINF:0,MM UFO HD
 #EXTGRP: кино
-http://cdn.klimedia.space/lb/klifantastica/index.m3u8?token=klimedia.space:cGF2ZWxhbGV4MjAxNTphbHVjYXJkMTk4Nw==
+http://str13.ottg.cc/4264/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
 
 #EXTINF:0,1FILMAX
 #EXTGRP: кино
