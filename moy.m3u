@@ -66,6 +66,9 @@ http://u.vipl.one/high/rzi7cke96s/1590.m3u8
 #EXTINF:0,Советское кино
 #EXTGRP: кино
 http://91.207.114.220:9001/play/a0aq/index.m3u8
+#EXTINF:0,Отечественное кино
+#EXTGRP: кино
+https://fs2.persik.by/Otechestvennoe/index.m3u8
 
 
 
@@ -135,16 +138,22 @@ http://91.207.114.220:9001/play/a07w/index.m3u8
 #EXTINF:0,Крепкое кино
 #EXTGRP: кино
 http://91.207.114.220:9001/play/a0d6/index.m3u8
+#EXTINF:0,Топ кино
+#EXTGRP: кино
+http://fs2.persik.by/TopKino_12/index.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://185.112.140.28:80/Cinema/index.m3u8
 #EXTINF:0,CineMan TOP
 #EXTGRP: кино
-http://cdntv.online/high/uydk9tp52z/1256.m3u8
+http://ip1.orgip.net/683/video.m3u8?token=Md7ac19a92
 #EXTINF:0,CineMan
 #EXTGRP: кино
 http://cdntv.online/high/uydk9tp52z/1255.m3u8
+#EXTINF:0,CineMan Premium
+#EXTGRP: кино
+http://ip1.orgip.net/1664/video.m3u8?token=Md7ac19a92
 #EXTINF:0,Cineman Action
 #EXTGRP: кино
 http://cdntv.online/high/rzi7cke96s/1257.m3u8
@@ -195,7 +204,7 @@ http://hls127.homeiptv.org:8880/minimax-skorost-m4f/video.m3u8
 http://rr3.8v8i8p.com/~301736849543375526E505731754D/82945/hls/pl.m3u8
 #EXTINF:0,CineMan Thriller
 #EXTGRP: кино
-http://195.158.222.115:8000/play/a052/index.m3u8
+http://ott.server-iptv.live/686/video.m3u8?token=M4f082ab4c
 #EXTINF:0,Clarity4K Boevik
 #EXTGRP: кино
 http://hls127.homeiptv.org:8880/Clarity4K_Boevik/video.m3u8
@@ -267,10 +276,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/17006/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/17006/index.m3u8
 #EXTINF:0,CineMan Скорая помощь
 #EXTGRP: кино
-http://ip1.orgip.net/694/video.m3u8?token=M39f51d0fd
+http://ip1.orgip.net/694/video.m3u8?token=Md7ac19a92
 #EXTINF:0,CineMan Универ
 #EXTGRP: кино
-http://ip1.orgip.net/1656/video.m3u8?token=M39f51d0fd
+http://ip1.orgip.net/1656/video.m3u8?token=Md7ac19a92
 #EXTGRP: кино
 #EXTINF:0,VF Клиника
 #EXTGRP: кино
