@@ -115,9 +115,7 @@ http://iptv.mega.net.ru:8888/Lubimoe_kino/mono.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://195.211.27.149:8887/8310/index.m3u8?token=test
-#EXTINF:0,Наше любимое HD
-#EXTGRP: кино
-http://rr3.8v8i8p.com/~301736849543375526E505731754D/31421/hls/pl.m3u8
+
 
 #EXTINF:0,Комедия
 #EXTGRP: кино
