@@ -48,12 +48,18 @@ http://91.207.114.220:9001/play/a0aj/index.m3u8
 #EXTINF:0,MM Комедия USSR
 #EXTGRP: кино
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4ODg3Lzg3NDQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImFlMDVjZmFlIiwicCI6ImFlMDVjZmFlOTA4NTM1Y2IiLCJjIjoiNTAzIiwidCI6IjdlOGY2ZGZjYWU4MTcwMDZmMmMyMTE2YjU2NDllZmNjIiwiZCI6IjI5NjQwIiwiciI6IjI5MzkxIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODc0NC9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0,MM USSR Детектив HD
+#EXTGRP: кино
+http://str13.ottg.cc/7483/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
 #EXTINF:0,MM Фантастика USSR
 #EXTGRP: кино
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4ODg3Lzg4OTQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjFlZDk2NDU3IiwicCI6IjFlZDk2NDU3YzYwYWNiNWMiLCJjIjoiNTc4IiwidCI6IjFjMTBjMTdmNWE3YzNmNDkxYzNiODQzYjUzOTY3NmQxIiwiZCI6IjI2NjYxIiwiciI6IjI2NDczIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODg5NC9pbmRleC5tM3U4P3R/index.m3u8
-#EXTINF:0,Clarity4K Комедия СССР 1
+#EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-http://87.99.87.203:2007/channel/n5b8f1b17/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
+http://str13.ottg.cc/3599/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
+#EXTINF:0,Liberty Союз 4K
+#EXTGRP: кино
+http://str13.ottg.cc/4195/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://str13.ottg.cc/9118/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
@@ -89,31 +95,9 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
 
-#EXTINF:0,MM USSR 1941-1945 HD
-#EXTGRP: кино
-http://908e3c5e.rossteleccom.net/iptv/QX6TFFFGNU9LAQ/13018/index.m3u8
-#EXTINF:0,MM USSR 1941-1945 HD
-#EXTGRP: кино
-http://olpjsfw9.rostelekom.xyz/iptv/GND3B9YB2KUEYX/13018/index.m3u8
-#EXTINF:0,MM USSR Детектив HD
-#EXTGRP: кино
-http://908e3c5e.rossteleccom.net/iptv/QX6TFFFGNU9LAQ/13096/index.m3u8
-#EXTINF:0,MM USSR Детектив HD 
-#EXTGRP: кино
-http://olpjsfw9.rostelekom.xyz/iptv/GND3B9YB2KUEYX/13096/index.m3u8
-#EXTINF:0,MM USSR Комедия HD
-#EXTGRP: кино
-http://908e3c5e.rossteleccom.net/iptv/9XRHZ7MZ9PNWS6/13019/index.m3u8
-#EXTINF:0,MM USSR Комедия HD
-#EXTGRP: кино
-http://olpjsfw9.rostelekom.xyz/iptv/GND3B9YB2KUEYX/13019/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
-http://908e3c5e.rossteleccom.net/iptv/9XRHZ7MZ9PNWS6/13037/index.m3u8
-#EXTINF:0,MM Комедия Classic HD
-#EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/13037/index.m3u8
-
+http://str13.ottg.cc/4024/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
 
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
