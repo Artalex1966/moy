@@ -42,6 +42,9 @@ http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 #EXTINF:0,Clarity4K Kинодети CССР
 #EXTGRP: кино
 http://cdntv.online/high/uydk9tp52z/1665.m3u8
+#EXTINF:0,Наше детство
+#EXTGRP: кино
+http://91.207.114.220:9001/play/a0aj/index.m3u8
 #EXTINF:0,MM Комедия USSR
 #EXTGRP: кино
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4ODg3Lzg3NDQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImFlMDVjZmFlIiwicCI6ImFlMDVjZmFlOTA4NTM1Y2IiLCJjIjoiNTAzIiwidCI6IjdlOGY2ZGZjYWU4MTcwMDZmMmMyMTE2YjU2NDllZmNjIiwiZCI6IjI5NjQwIiwiciI6IjI5MzkxIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODc0NC9pbmRleC5tM3U4P3R/index.m3u8
@@ -245,16 +248,16 @@ http://185.112.140.28:80/Kinopremera/index.m3u8
 http://188.190.222.48:8765/Kinohit_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
-http://195.158.222.115:8001/play/a0b2/index.m3u8
+http://hls127.homeiptv.org:8880/iConcerts_HD/video.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: кино
-http://195.158.222.115:8001/play/a0bg/index.m3u8
+http://91.205.199.3/kinosemyahd/index.m3u8
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
 http://94.232.104.237:8011/komediyatv/index.m3u8
 #EXTINF:0,Киносвидание
 #EXTGRP: кино
-http://188.190.222.48:8765/Kinosvidanie/tracks-v1a1/mono.m3u8
+http://91.205.199.3/kinosvidanie/index.m3u8
 #EXTINF:0,Киносерия
 #EXTGRP: кино
 http://195.158.222.115:8001/play/a0ba/index.m3u8
@@ -310,7 +313,7 @@ http://iuhqittr.otttv.pw/iptv/9XRHZ7MZ9PNWS6/9072/index.m3u8
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
-http://195.158.222.115:8000/play/104/index.m3u8
+http://iptv.mega.net.ru:8888/Nauka_2_0/mono.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 http://94.232.104.237:8011/nauka/index.m3u8
@@ -360,7 +363,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 https://cdn1.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP: эфир
-http://195.158.222.115:8000/play/19/index.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:0,ТНТ4
 #EXTGRP: эфир
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
