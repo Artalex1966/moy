@@ -41,10 +41,7 @@ http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 
 #EXTINF:0,Clarity4K Kинодети CССР
 #EXTGRP: кино
-http://cdntv.online/high/uydk9tp52z/1665.m3u8
-#EXTINF:0,Наше детство
-#EXTGRP: кино
-http://91.207.114.220:9001/play/a0aj/index.m3u8
+http://str13.ottg.cc/8550/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
 #EXTINF:0,MM Комедия USSR
 #EXTGRP: кино
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4ODg3Lzg3NDQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImFlMDVjZmFlIiwicCI6ImFlMDVjZmFlOTA4NTM1Y2IiLCJjIjoiNTAzIiwidCI6IjdlOGY2ZGZjYWU4MTcwMDZmMmMyMTE2YjU2NDllZmNjIiwiZCI6IjI5NjQwIiwiciI6IjI5MzkxIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODc0NC9pbmRleC5tM3U4P3R/index.m3u8
@@ -57,6 +54,9 @@ http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4OD
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
 http://str13.ottg.cc/3599/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
+#EXTINF:0,MM USSR Приключения HD
+#EXTGRP: кино
+http://str13.ottg.cc/9068/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
 #EXTINF:0,Liberty Союз 4K
 #EXTGRP: кино
 http://str13.ottg.cc/4195/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
@@ -68,7 +68,7 @@ http://str13.ottg.cc/9118/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
 http://cdn.blinktv.cc/kli_ssr_hd/index.m3u8?token=Z2Vvcmd5ODl8fGFIUnFlWEprY25KNWJtMXFPRGt6TkE9PQ=
 #EXTINF:0,Clarity4K Кино СССР
 #EXTGRP: кино
-http://cdn2.blinktv.cc/Clarity4K_kinosssr/index.m3u8?token=Z2Vvcmd5ODl8fGFIUnFlWEprY25KNWJtMXFPRGt6TkE9PQ=
+http://str13.ottg.cc/7890/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
 #EXTINF:0,KBC-Страна СССР
 #EXTGRP: кино
 http://cdn.blinktv.cc/36506/index.m3u8?token=Sm9uc29ufHxNVEV4TVRFeE1URT0=
@@ -118,10 +118,10 @@ http://str13.ottg.cc/8420/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
 http://94.232.104.237:8011/disney/index.m3u8
 #EXTINF:0,MM Семейный 1
 #EXTGRP: кино
-http://195.211.27.149:8887/8442/index.m3u8?token=test
+http://str13.ottg.cc/1358/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
 #EXTINF:0,MM Семейный 2
 #EXTGRP: кино
-http://195.211.27.149:8887/8449/index.m3u8?token=test
+http://str13.ottg.cc/2262/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
 #EXTINF:0,Семейное
 #EXTGRP: кино
 http://fs2.persik.by/Semejnoe8/index.m3u8
@@ -193,7 +193,7 @@ https://hls.goodgame.ru/hls/204708_720.m3u8
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:0,BCU VHS HD
 #EXTGRP: кино
-http://ip1.orgip.net/1620/video.m3u8?token=Md7ac19a92
+http://str13.ottg.cc/3239/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
 #EXTINF:0,MM Скорость HD
 #EXTGRP: кино
 http://hls127.homeiptv.org:8880/minimax-skorost-m4f/video.m3u8
