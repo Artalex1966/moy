@@ -41,10 +41,10 @@ http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 
 #EXTINF:0,Clarity4K Kинодети CССР
 #EXTGRP: кино
-http://str13.ottg.cc/8550/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
-#EXTINF:0,MM USSR Сказки HD
+http://u.vipl.one/high/cnikqmzafl/1665.m3u8
+#EXTINF:0,Чебур ТВ - Наше Детство СССР
 #EXTGRP: кино
-http://str13.ottg.cc/3374/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
+http://chiburator.monster:8000/play/TvpI2Zsw5wyFqa6FD7wFjYGREFUNypG6Gupmefms6bE/ts
 #EXTINF:0,MM Комедия USSR
 #EXTGRP: кино
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4ODg3Lzg3NDQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImFlMDVjZmFlIiwicCI6ImFlMDVjZmFlOTA4NTM1Y2IiLCJjIjoiNTAzIiwidCI6IjdlOGY2ZGZjYWU4MTcwMDZmMmMyMTE2YjU2NDllZmNjIiwiZCI6IjI5NjQwIiwiciI6IjI5MzkxIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODc0NC9pbmRleC5tM3U4P3R/index.m3u8
@@ -60,11 +60,18 @@ http://str13.ottg.cc/3599/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
 http://str13.ottg.cc/9068/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
-
-
-#EXTINF:0,Liberty Союз 4K
+#EXTINF:0,Чебур ТВ - СССР 60-е
 #EXTGRP: кино
-http://str13.ottg.cc/4195/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
+http://chiburator.monster:8000/play/TvpI2Zsw5wyFqa6FD7wFjXp82X0dzZsYqIUIzeKCbj4/ts
+#EXTINF:0,Чебур ТВ - СССР 70-е
+#EXTGRP: кино
+http://chiburator.monster:8000/play/TvpI2Zsw5wyFqa6FD7wFjY2-kFWvYGdzdhjCmaeWP6c/ts
+#EXTINF:0,Чебур ТВ - СССР 80-е
+#EXTGRP: кино
+http://chiburator.monster:8000/play/TvpI2Zsw5wyFqa6FD7wFjYJKWLf-9NoA2DwPR_9AFOw/ts
+
+
+
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://str13.ottg.cc/9118/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
@@ -73,10 +80,13 @@ http://str13.ottg.cc/9118/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
 http://u.vipl.one/high/cnikqmzafl/1376.m3u8
 #EXTINF:0,Clarity4K Кино СССР
 #EXTGRP: кино
-http://str13.ottg.cc/7890/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
-#EXTINF:0,KBC-Страна СССР
+http://u.vipl.one/high/cnikqmzafl/1559.m3u8
+#EXTINF:0,Clarity4K Комедия СССР 1
 #EXTGRP: кино
-http://cdn.blinktv.cc/36506/index.m3u8?token=Sm9uc29ufHxNVEV4TVRFeE1URT0=
+http://u.vipl.one/high/cnikqmzafl/1584.m3u8
+#EXTINF:0,Clarity4K Комедия СССР 2
+#EXTGRP: кино
+http://u.vipl.one/high/cnikqmzafl/1583.m3u8
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAwODcxMDAxNSIsImV4cCI6MTcyNTMwMzA5MSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzI0Njk4MjkxLCJzZXNzaW9uX2lkIjoiOWJkMjM4ZDM4ZmI5NzYzNmNhZGYyNDIyNDg4NDgzNjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.LuUuVS0GHlk2kURlL7o8Mvf9LwLykdcuyGOWzG-2FSE
@@ -187,12 +197,7 @@ http://str13.ottg.cc/4264/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
 #EXTINF:0,1FILMAX
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/204708_720.m3u8
-#EXTINF:0,Видеокасета VHS
-#EXTGRP: кино
-https://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:0,VHS-ка HD
-#EXTGRP: кино
-http://88.218.242.237:8000/play/a00x
+
 #EXTINF:0,MM Скорость HD
 #EXTGRP: кино
 http://hls127.homeiptv.org:8880/minimax-skorost-m4f/video.m3u8
