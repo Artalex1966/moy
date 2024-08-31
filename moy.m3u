@@ -61,9 +61,7 @@ http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/13018/index.m3u8
 #EXTGRP: кино
 http://str13.ottg.cc/9068/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
 
-#EXTINF:0,BCU СССР HD
-#EXTGRP: кино
-http://tanishew.rossteleccom.net/iptv/ESB8F2Z2HXXGE7/11026/index.m3u8
+
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
 http://u.vipl.one/high/cnikqmzafl/1376.m3u8
