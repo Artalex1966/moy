@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz"
-#EXTM3U x-tvg-url="http://programtv.ru/xmltv.xml.gz"
 
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
