@@ -59,7 +59,7 @@ http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4OD
 http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/13018/index.m3u8
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-http://str13.ottg.cc/9068/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
+http://10c1f5ff.cbilant.com/iptv/9F5SVLUTS6N2T32GH2ERSD4R/13060/index.m3u8
 
 
 #EXTINF:0,KLI СССР HD
@@ -101,7 +101,7 @@ https://v2.catcast.tv/content/38720/index.m3u8
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
-http://str13.ottg.cc/4024/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
+http://10c1f5ff.cbilant.com/iptv/9F5SVLUTS6N2T32GH2ERSD4R/13037/index.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
@@ -109,26 +109,21 @@ http://iptv.mega.net.ru:8888/Lubimoe_kino/mono.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://195.211.27.149:8887/8310/index.m3u8?token=test
-#EXTINF:0,Наше любимое HD
-#EXTGRP: кино
-http://str13.ottg.cc/8420/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
 
 
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://94.232.104.237:8011/disney/index.m3u8
-#EXTINF:0,MM Семейный 1
-#EXTGRP: кино
-http://str13.ottg.cc/1358/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
-#EXTINF:0,MM Семейный 2
-#EXTGRP: кино
-http://str13.ottg.cc/2262/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
+
 #EXTINF:0,Семейное
 #EXTGRP: кино
 http://fs2.persik.by/Semejnoe8/index.m3u8
 #EXTINF:0,Семейное кино
 #EXTGRP: кино
 http://91.207.114.220:9001/play/a07w/index.m3u8
+#EXTINF:0,Кино выходного дня
+#EXTGRP: кино
+http://fs2.persik.by/Kino_vihodnogo_dnia5/index.m3u8
 
 
 #EXTINF:0,Крепкое кино
@@ -162,6 +157,9 @@ http://fs2.persik.by/Trillery_Boeviki3/index.m3u8
 #EXTINF:0,БОЕВИКИ
 #EXTGRP: кино
 http://fs2.persik.by/Boeviki_11/index.m3u8
+#EXTINF:0,MM UFO HD
+#EXTGRP: кино
+http://195.211.27.149:8887/8411/index.m3u8?token=test
 
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
@@ -179,9 +177,12 @@ https://hls.goodgame.ru/hls/187241.m3u8
 #EXTINF:0,Путешествие во времени
 #EXTGRP: кино
 http://fs2.persik.by/Puteshestvie_vo_vremeni8/index.m3u8
-#EXTINF:0, Fresh Fantastic
+#EXTINF:0,Fresh Fantastic
 #EXTGRP: кино
 http://u.vipl.one/high/k7jmaefy8d/1349.m3u8
+#EXTINF:0,MM UFO HD
+#EXTGRP: кино
+http://195.211.27.149:8887/8410/index.m3u8?token=test
 #EXTINF:0,VL Fantastic
 #EXTGRP: кино
 https://cdntv.online/high/rzi7cke96s/1388.m3u8
@@ -351,10 +352,10 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 https://cdn1.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP: эфир
-http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:0,ТНТ4
 #EXTGRP: эфир
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:0, ТНТ4 International
 #EXTGRP: эфир
 http://sc.id-tv.kz/tnt4_34_35.m3u8
