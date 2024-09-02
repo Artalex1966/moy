@@ -50,7 +50,7 @@ http://u.vipl.one/high/k7jmaefy8d/1532.m3u8
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4ODg3Lzg3NDQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImFlMDVjZmFlIiwicCI6ImFlMDVjZmFlOTA4NTM1Y2IiLCJjIjoiNTAzIiwidCI6IjdlOGY2ZGZjYWU4MTcwMDZmMmMyMTE2YjU2NDllZmNjIiwiZCI6IjI5NjQwIiwiciI6IjI5MzkxIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODc0NC9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-http://a3b13fac.cbilant.com/iptv/4YGKHFMHAFHADW/13096/index.m3u8
+http://ost.ru-tv.site/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4ODg3Lzg2NTYvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4MzZhMjliIiwicCI6ImE4MzZhMjliNGYxYjNlYjciLCJjIjoiNTExIiwidCI6ImU5YmIyMjRhZjQwZWY0MTgxOTJiMTBjY2IxNjVhMDljIiwiZCI6IjcyNjU2IiwiciI6Ijc0MTAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODY1Ni9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4ODg3Lzg4OTQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjFlZDk2NDU3IiwicCI6IjFlZDk2NDU3YzYwYWNiNWMiLCJjIjoiNTc4IiwidCI6IjFjMTBjMTdmNWE3YzNmNDkxYzNiODQzYjUzOTY3NmQxIiwiZCI6IjI2NjYxIiwiciI6IjI2NDczIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODg5NC9pbmRleC5tM3U4P3R/index.m3u8
@@ -85,9 +85,9 @@ http://91.207.114.220:9001/play/a0aq/index.m3u8
 http://fs2.persik.by/Soviet_Comedy9/index.m3u8
 
 
-#EXTINF:0,CineMan Cвaты
+#EXTINF:0,MM Cвaты
 #EXTGRP: кино
-http://cdntv.online/high/uydk9tp52z/1265.m3u8
+http://ost.ru-tv.site/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4ODg3Lzg4OTMvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4MzZhMjliIiwicCI6ImE4MzZhMjliNGYxYjNlYjciLCJjIjoiNTgyIiwidCI6ImU5YmIyMjRhZjQwZWY0MTgxOTJiMTBjY2IxNjVhMDljIiwiZCI6IjcyNjU2IiwiciI6Ijc0MTAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODg5My9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://185.112.140.28:80/DomKino/index.m3u8
@@ -112,6 +112,9 @@ http://iptv.mega.net.ru:8888/Lubimoe_kino/mono.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://195.211.27.149:8887/8310/index.m3u8?token=test
+#EXTINF:0,Наше любимое HD
+#EXTGRP: кино
+http://ost.ru-tv.site/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1NDo4ODg3LzgzMTAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4MzZhMjliIiwicCI6ImE4MzZhMjliNGYxYjNlYjciLCJjIjoiMjQ4IiwidCI6ImU5YmIyMjRhZjQwZWY0MTgxOTJiMTBjY2IxNjVhMDljIiwiZCI6IjcyNjU2IiwiciI6Ijc0MTAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODMxMC9pbmRleC5tM3U4P3R/index.m3u8
 
 
 #EXTINF:0,Комедия
@@ -139,16 +142,16 @@ http://91.207.114.220:9001/play/a0d6/index.m3u8
 http://185.112.140.28:80/Cinema/index.m3u8
 #EXTINF:0,CineMan TOP
 #EXTGRP: кино
-http://ip1.orgip.net/683/video.m3u8?token=Md7ac19a92
+http://ost.ru-tv.site/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4MzZhMjliIiwicCI6ImE4MzZhMjliNGYxYjNlYjciLCJjIjoiMTAxMSIsInQiOiJlOWJiMjI0YWY0MGVmNDE4MTkyYjEwY2NiMTY1YTA5YyIsImQiOiI3MjY1NiIsInIiOiI3NDEwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODk1OS9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:0,CineMan
 #EXTGRP: кино
-http://cdntv.online/high/uydk9tp52z/1255.m3u8
+http://ost.ru-tv.site/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4MzZhMjliIiwicCI6ImE4MzZhMjliNGYxYjNlYjciLCJjIjoiMTAwNiIsInQiOiJlOWJiMjI0YWY0MGVmNDE4MTkyYjEwY2NiMTY1YTA5YyIsImQiOiI3MjY1NiIsInIiOiI3NDEwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODk1Mi9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:0,CineMan Premium
 #EXTGRP: кино
 http://ip1.orgip.net/1664/video.m3u8?token=Md7ac19a92
 #EXTINF:0,Cineman Action
 #EXTGRP: кино
-http://cdntv.online/high/rzi7cke96s/1257.m3u8
+http://ost.ru-tv.site/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4MzZhMjliIiwicCI6ImE4MzZhMjliNGYxYjNlYjciLCJjIjoiMTAxMyIsInQiOiJlOWJiMjI0YWY0MGVmNDE4MTkyYjEwY2NiMTY1YTA5YyIsImQiOiI3MjY1NiIsInIiOiI3NDEwMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODk2MS9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:0,CineMan Thriller
 #EXTGRP: кино
 http://ott.server-iptv.live/686/video.m3u8?token=M4f082ab4c
@@ -161,9 +164,6 @@ http://fs2.persik.by/Trillery_Boeviki3/index.m3u8
 #EXTINF:0,БОЕВИКИ
 #EXTGRP: кино
 http://fs2.persik.by/Boeviki_11/index.m3u8
-#EXTINF:0,MM UFO HD
-#EXTGRP: кино
-http://195.211.27.149:8887/8411/index.m3u8?token=test
 
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
@@ -186,7 +186,7 @@ http://fs2.persik.by/Puteshestvie_vo_vremeni8/index.m3u8
 http://u.vipl.one/high/k7jmaefy8d/1349.m3u8
 #EXTINF:0,MM UFO HD
 #EXTGRP: кино
-http://195.211.27.149:8887/8410/index.m3u8?token=test
+http://ost.ru-tv.site/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4ODg3Lzg0MTAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImE4MzZhMjliIiwicCI6ImE4MzZhMjliNGYxYjNlYjciLCJjIjoiNjg5IiwidCI6ImU5YmIyMjRhZjQwZWY0MTgxOTJiMTBjY2IxNjVhMDljIiwiZCI6IjcyNjU2IiwiciI6Ijc0MTAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODQxMC9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:0,VL Fantastic
 #EXTGRP: кино
 https://cdntv.online/high/rzi7cke96s/1388.m3u8
