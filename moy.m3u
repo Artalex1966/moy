@@ -102,6 +102,9 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://10c1f5ff.cbilant.com/iptv/9F5SVLUTS6N2T32GH2ERSD4R/13037/index.m3u8
+#EXTINF:0, Clarity4k Классика кино
+#EXTGRP: кино
+http://cdntv.online/high/mwxyvd8tpz/1565.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
