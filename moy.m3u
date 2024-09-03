@@ -89,6 +89,9 @@ http://91.207.114.220:9001/play/a0aq/index.m3u8
 #EXTINF:0,Советские комедии
 #EXTGRP: кино
 http://fs2.persik.by/Soviet_Comedy9/index.m3u8
+#EXTINF:0,Отечественное кино
+#EXTGRP: кино
+https://fs2.persik.by/Otechestvennoe/index.m3u8
 
 
 #EXTINF:0,MM Cвaты
