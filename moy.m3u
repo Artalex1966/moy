@@ -34,7 +34,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 ========
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://185.112.140.28:80/Mosfilm/index.m3u8
+http://hls127.homeiptv.org:8880/Mosfilm/video.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
@@ -51,16 +51,16 @@ http://u.vipl.one/high/k7jmaefy8d/1532.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/13019/index.m3u8
 #EXTINF:0,MM USSR Комедия
 #EXTGRP: кино
-http://10c1f5ff.cbilant.com/iptv/9F5SVLUTS6N2T32GH2ERSD4R/13019/index.m3u8
+http://10c1f5ff.cbilant.com/iptv/7LNPRS4449MZZZ/13019/index.m3u8
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/13096/index.m3u8
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-http://10c1f5ff.cbilant.com/iptv/9F5SVLUTS6N2T32GH2ERSD4R/13096/index.m3u8
+http://10c1f5ff.cbilant.com/iptv/7LNPRS4449MZZZ/13096/index.m3u8
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-http://10c1f5ff.cbilant.com/iptv/9F5SVLUTS6N2T32GH2ERSD4R/13022/index.m3u8
+http://10c1f5ff.cbilant.com/iptv/7LNPRS4449MZZZ/13022/index.m3u8
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/13022/index.m3u8
@@ -69,10 +69,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/13022/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/13018/index.m3u8
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-http://10c1f5ff.cbilant.com/iptv/9F5SVLUTS6N2T32GH2ERSD4R/13018/index.m3u8
+http://10c1f5ff.cbilant.com/iptv/7LNPRS4449MZZZ/13018/index.m3u8
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-http://10c1f5ff.cbilant.com/iptv/9F5SVLUTS6N2T32GH2ERSD4R/13060/index.m3u8
+http://10c1f5ff.cbilant.com/iptv/7LNPRS4449MZZZ/13060/index.m3u8
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/13060/index.m3u8
@@ -120,7 +120,7 @@ https://v2.catcast.tv/content/38720/index.m3u8
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
-http://10c1f5ff.cbilant.com/iptv/9F5SVLUTS6N2T32GH2ERSD4R/13037/index.m3u8
+http://10c1f5ff.cbilant.com/iptv/7LNPRS4449MZZZ/13037/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/13037/index.m3u8
