@@ -246,19 +246,19 @@ http://91.205.199.3:80/vipcomedi/index.m3u8
 
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
-http://185.112.140.28:80/Nashe_Novoe_Kino/index.m3u8
+http://91.205.199.3/nashenovoekino/index.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
-http://185.112.140.28:80/Rodnoe_Kino/index.m3u8
+http://91.205.199.3/rodnoekino/index.m3u8
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
-http://45.159.74.14:80/MujskoeKino/index.m3u8
+http://91.207.114.220:9001/play/a04t/index.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
-http://185.112.140.28:80/Kinopremera/index.m3u8
+http://91.205.199.3/kinopremerahd/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-http://188.190.222.48:8765/Kinohit_HD/tracks-v1a1/mono.m3u8
+http://91.205.199.3/kinoxithd/index.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
 http://hls127.homeiptv.org:8880/iConcerts_HD/video.m3u8
@@ -267,13 +267,13 @@ http://hls127.homeiptv.org:8880/iConcerts_HD/video.m3u8
 http://91.205.199.3/kinosemyahd/index.m3u8
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
-http://94.232.104.237:8011/komediyatv/index.m3u8
+http://91.207.114.220:9001/play/a04r/index.m3u8
 #EXTINF:0,Киносвидание
 #EXTGRP: кино
 http://91.205.199.3/kinosvidanie/index.m3u8
 #EXTINF:0,Киносерия
 #EXTGRP: кино
-http://195.158.222.115:8001/play/a0ba/index.m3u8
+https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 ---
 
 #EXTINF:0,Yosso TV Забавное
@@ -337,17 +337,17 @@ http://iuhqittr.otttv.pw/iptv/9XRHZ7MZ9PNWS6/9072/index.m3u8
 
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
-http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
+http://iptv.mega.net.ru:8888/Galaxy_TV/mono.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 http://iptv.mega.net.ru:8888/Nauka_2_0/mono.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
-http://94.232.104.237:8011/nauka/index.m3u8
+http://hls127.homeiptv.org:8880/NAUKA/video.m3u8
 
 #EXTINF:0, National Geographic
 #EXTGRP: Познавательное
-http://stream02.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
+rtmp://92.119.88.58//2336
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP: Познавательное
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
@@ -357,7 +357,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 
 #EXTINF:0,Кто Есть Кто
 #EXTGRP: Познавательное
-http://188.113.190.15/82/mono.m3u8
+http://91.207.114.220:9001/play/a02u/index.m3u8
 
 #EXTINF:0,Авто 24
 #EXTGRP: Познавательное
