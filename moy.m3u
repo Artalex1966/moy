@@ -94,6 +94,9 @@ http://u.vipl.one/high/mwxyvd8tpz/1583.m3u8
 #EXTINF:0,Советское кино
 #EXTGRP: кино
 http://91.207.114.220:9001/play/a0aq/index.m3u8
+#EXTINF:0,Ретро
+#EXTGRP: кино
+https://stream1.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0,MM Cвaты
@@ -134,19 +137,13 @@ http://ost.ru-tv.site/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1N
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://91.205.199.3/komedia/index.m3u8
-
-
-#EXTINF:0,Семейное
+#EXTINF:0,Сеть приколов
 #EXTGRP: кино
-http://fs2.persik.by/Semejnoe8/index.m3u8
+http://91.205.199.3/gagsnetwork/index.m3u8
+
 #EXTINF:0,Семейное кино
 #EXTGRP: кино
 http://91.207.114.220:9001/play/a07w/index.m3u8
-#EXTINF:0,Кино выходного дня
-#EXTGRP: кино
-http://fs2.persik.by/Kino_vihodnogo_dnia5/index.m3u8
-
-
 #EXTINF:0,Крепкое кино
 #EXTGRP: кино
 http://91.207.114.220:9001/play/a0d6/index.m3u8
@@ -172,12 +169,6 @@ http://ott.server-iptv.live/686/video.m3u8?token=M4f082ab4c
 #EXTINF:0,Clarity4K Boevik
 #EXTGRP: кино
 http://hls127.homeiptv.org:8880/Clarity4K_Boevik/video.m3u8
-#EXTINF:0,Триллеры-Боевики
-#EXTGRP: кино
-http://fs2.persik.by/Trillery_Boeviki3/index.m3u8
-#EXTINF:0,БОЕВИКИ
-#EXTGRP: кино
-http://fs2.persik.by/Boeviki_11/index.m3u8
 
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
@@ -192,9 +183,6 @@ http://hls127.homeiptv.org:8880/Kinopokaz_HD/video.m3u8
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187241.m3u8
-#EXTINF:0,Путешествие во времени
-#EXTGRP: кино
-http://fs2.persik.by/Puteshestvie_vo_vremeni8/index.m3u8
 #EXTINF:0,Fresh Fantastic
 #EXTGRP: кино
 http://u.vipl.one/high/k7jmaefy8d/1349.m3u8
@@ -214,6 +202,9 @@ http://u.vipl.one/high/k7jmaefy8d/1373.m3u8
 #EXTINF:0,1FILMAX
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/204708_720.m3u8
+#EXTINF:0,2FILMAX
+#EXTGRP: кино
+https://hls.goodgame.ru/hls/204717.m3u8
 
 #EXTINF:0,MM Скорость HD
 #EXTGRP: кино
@@ -228,7 +219,7 @@ http://91.205.199.3:80/tv1000action/index.m3u8
 http://91.205.199.3/vipmegahit/index.m3u8
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
-http://185.112.140.28:80/VIPPremiere/index.m3u8
+http://iptv.mega.net.ru:8888/ViP_Premiere_HD/mono.m3u8
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
 http://91.205.199.3:80/vipcomedi/index.m3u8
@@ -325,9 +316,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/13082/index.m3u8
 #EXTINF:0,Galaxy
 #EXTGRP: Познавательное
 http://camera.global-x.ru/Galaxy/mono.m3u8
-#EXTINF:0,Curiosity Stream HD
+#EXTINF:0,Первый Космический HD
 #EXTGRP: Познавательное
-http://iuhqittr.otttv.pw/iptv/9XRHZ7MZ9PNWS6/9072/index.m3u8
+http://iptv.mega.net.ru:8888/Eureka_HD/mono.m3u8
 
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
