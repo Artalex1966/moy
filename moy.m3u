@@ -374,7 +374,7 @@ http://flu.ttk.mx:90/O!/mono.m3u8?token=hs06e
 http://195.211.27.149:8887/8158/index.m3u8?token=test
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
-http://api.peers.tv/timeshift/detskij_mir/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjU3NzkxNzcsImlhdCI6MTcyNTY5Mjc3NywiY2lkIjo2LCJ1aWQiOjgyMTg4ODUwOCwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.TJMKDsJucWKOpFG5LdFz1_4VV577hQrXUjE38O3Ltv4&offset=10
+http://195.26.83.96:7007/play/14/index.m3u8
 #EXTINF:0, Планета Дети
 #EXTGRP: Детский
 http://91.207.114.220:9001/play/a0ai/index.m3u8
@@ -414,6 +414,12 @@ http://cdntv.online/high/uydk9tp52z/165.m3u8
 #EXTINF:0,Tiji
 #EXTGRP: Детский
 http://iptv.mega.net.ru:8888/Tiji/mono.m3u8
+#EXTINF:0,СТС Kids
+#EXTGRP: Детский
+http://91.205.199.3/stskids/index.m3u8
+#EXTINF:0,CARTOON NETWORK
+#EXTGRP: Детский
+http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 
 
 ----
