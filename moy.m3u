@@ -46,10 +46,10 @@ http://fr01.spr24.net/20933/mpegts?token=nqBRKu7e5wN2bd
 #EXTGRP: кино
 http://u.vipl.one/high/k7jmaefy8d/1532.m3u8
 
-#EXTINF:0,MM USSR Комедия
+#EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/13019/index.m3u8
-#EXTINF:0,MM USSR Комедия
+#EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/13019/index.m3u8
 #EXTINF:0,MM USSR Детектив HD
@@ -113,6 +113,9 @@ http://iptv.mega.net.ru:8888/Lubimoe_kino/mono.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://195.211.27.149:8887/8310/index.m3u8?token=test
+#EXTINF:0,Наше любимое HD
+#EXTGRP: кино
+http://cdn.ottg.tv/8420/video.m3u8?username=alex02354&password=247820&token=9c6b7707197dd7d28d9effe37ae9fdd6&ch_id=480&req_host=pkjX3BL
 
 #EXTINF:0,Комедия
 #EXTGRP: кино
@@ -295,6 +298,9 @@ http://iptv.mega.net.ru:8888/Nauka_2_0/mono.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 http://hls127.homeiptv.org:8880/NAUKA/video.m3u8
+#EXTINF:0,Нано HD
+#EXTGRP: Познавательное
+http://cdn.ottg.tv/1215/video.m3u8?username=alex02354&password=247820&token=9c6b7707197dd7d28d9effe37ae9fdd6&ch_id=191&req_host=pkjX3BL
 
 #EXTINF:0, National Geographic
 #EXTGRP: Познавательное
@@ -407,7 +413,7 @@ https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 http://91.205.199.3/disney/index.m3u8
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детский
-http://api.peers.tv/timeshift/v_gostyah_u_skazki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjU3NzkxNzcsImlhdCI6MTcyNTY5Mjc3NywiY2lkIjo2LCJ1aWQiOjgyMTg4ODUwOCwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.TJMKDsJucWKOpFG5LdFz1_4VV577hQrXUjE38O3Ltv4&offset=10
+http://cdn.ottg.tv/9375/video.m3u8?username=alex02354&password=247820&token=9c6b7707197dd7d28d9effe37ae9fdd6&ch_id=319&req_host=pkjX3BL
 #EXTINF:0,Советские мультфильмы
 #EXTGRP: Детский
 http://cdntv.online/high/uydk9tp52z/165.m3u8
