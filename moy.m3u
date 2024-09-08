@@ -88,6 +88,9 @@ http://91.207.114.220:9001/play/a0aq/index.m3u8
 #EXTINF:0,Советская киноклассика HD
 #EXTGRP: кино
 http://Galina1.edmonst.net/iptv/WB2HA9VFH25SDE/2146/index.m3u8
+#EXTINF:0,Ретро
+#EXTGRP: кино
+http://1.1usd.tv:34000/ch508/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdM8AhSgvr1IJw8jEkjpsoaPqkyJ06zPeA-et3fOmwzJ5
 
 #EXTINF:0,Дом кино
 #EXTGRP: кино
@@ -414,19 +417,27 @@ http://91.205.199.3/disney/index.m3u8
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детский
 http://cdn.ottg.tv/9375/video.m3u8?username=alex02354&password=247820&token=9c6b7707197dd7d28d9effe37ae9fdd6&ch_id=319&req_host=pkjX3BL
-#EXTINF:0,Советские мультфильмы
+#EXTINF:0,Рыжий
 #EXTGRP: Детский
-http://cdntv.online/high/uydk9tp52z/165.m3u8
+http://1.1usd.tv:34000/ch618/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdG2X7pQxbMC6S-aReWEBHRkvKSe_OY8dC9lRDsQLex0o
 #EXTINF:0,Tiji
 #EXTGRP: Детский
 http://iptv.mega.net.ru:8888/Tiji/mono.m3u8
+#EXTINF:0,TimTam
+#EXTGRP: Детский
+http://1.1usd.tv:34000/ch484/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHoORQKsoM2sKfGp9Iv0pDl11rKg07Qmyr4Lsj1Ah2ZA
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
 http://91.205.199.3/stskids/index.m3u8
 #EXTINF:0,CARTOON NETWORK
 #EXTGRP: Детский
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
-
+#EXTINF:0,BCU Kids
+#EXTGRP: Детский
+http://1.1usd.tv:34000/ch786/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJdt2XN_Wl5TPqUszZZf4a2cPCgxkZ4bhiIgs5j-zd5d
+#EXTINF:0,CineMan Kids
+#EXTGRP: Детский
+http://1.1usd.tv:34000/ch1029/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOMQirnuv3S5EEOdhFiC2pLqPYVYhrRGvkqwMssox_VQ
 
 ----
 #EXTINF:0,Музыка 1 International
