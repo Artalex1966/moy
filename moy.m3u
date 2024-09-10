@@ -317,7 +317,7 @@ http://iptv.mega.net.ru:8888/Eureka_HD/mono.m3u8
 
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
-http://iptv.mega.net.ru:8888/Galaxy_TV/mono.m3u8
+http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 http://iptv.mega.net.ru:8888/Nauka_2_0/mono.m3u8
