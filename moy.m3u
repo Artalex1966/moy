@@ -121,7 +121,7 @@ http://195.211.27.149:8887/8310/index.m3u8?token=test
 #EXTGRP: кино
 http://cdn.ottg.tv/8420/video.m3u8?username=alex02354&password=247820&token=9c6b7707197dd7d28d9effe37ae9fdd6&ch_id=480&req_host=pkjX3BL
 
-#EXTINF:0,TOP 80,e 
+#EXTINF:0,TOP 80e
 #EXTGRP: кино
 http://1.1usd.tv:34000/ch1069/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJxApLnuHc2n53IqE8azyHMv1lGtmKciXNsDxp1JU27g
 #EXTINF:0,TOP MIX
