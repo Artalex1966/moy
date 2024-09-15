@@ -171,7 +171,7 @@ http://ip1.orgip.net/1664/video.m3u8?token=Md7ac19a92
 http://ott.server-iptv.live/686/video.m3u8?token=M4f082ab4c
 #EXTINF:0,CineMan Катастрофы
 #EXTGRP: кино
-http://ott.server-iptv.live/693/video.m3u8?token=M4f082ab4c
+http://ip1.orgip.net/693/video.m3u8?token=A3b61a999e
 #EXTINF:0,Clarity4K Boevik
 #EXTGRP: кино
 http://hls127.homeiptv.org:8880/Clarity4K_Boevik/video.m3u8
