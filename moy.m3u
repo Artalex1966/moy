@@ -87,9 +87,9 @@ http://u.vipl.one/high/mwxyvd8tpz/1376.m3u8
 #EXTINF:0,TOP USSR HD
 #EXTGRP: кино
 http://1.1usd.tv:34000/ch1072/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdB1cFqODqZGfOiWpuNTKv6BEjFIfZNqh075aUj1G6j0l
-#EXTINF:0, Dosug TV СССР
+#EXTINF:0,CineMan CCCP 4K
 #EXTGRP: кино
-https://rr3.vip3ip.net/~210f24bf09f5d96bbad80adfe5f6275547d/16010
+http://ott.server-iptv.live/1602/video.m3u8?token=S793FB1732
 
 #EXTINF:0,Советское кино
 #EXTGRP: кино
@@ -159,10 +159,10 @@ http://91.205.199.3:80/sinema/index.m3u8
 http://1.1usd.tv:34000/ch1071/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLwOZcWtjUNs5axlp3B9YAb7EkuHnX3xni7PgJ81arXC
 #EXTINF:0,CineMan
 #EXTGRP: кино
-http://cdntv.online/high/rzi7cke96s/1255.m3u8
+http://ott.server-iptv.live/682/video.m3u8?token=S793FB1732
 #EXTINF:0,CineMan Top
 #EXTGRP: кино
-http://cdntv.online/high/rzi7cke96s/1256.m3u8
+http://ott.server-iptv.live/683/video.m3u8?token=S793FB1732
 #EXTINF:0,CineMan Premium
 #EXTGRP: кино
 http://ip1.orgip.net/1664/video.m3u8?token=Md7ac19a92
@@ -177,7 +177,7 @@ http://ip1.orgip.net/693/video.m3u8?token=A3b61a999e
 http://hls127.homeiptv.org:8880/Clarity4K_Boevik/video.m3u8
 #EXTINF:0,Cineman VHS HD
 #EXTGRP: кино
-http://ott.watch/stream/LZLG5DMDX8/474.m3u8
+http://ott.server-iptv.live/685/video.m3u8?token=S793FB1732
 
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
@@ -323,6 +323,9 @@ http://iptv.mega.net.ru:8888/Galaxy_TV/mono.m3u8
 #EXTINF:0,Первый Космический HD
 #EXTGRP: Познавательное
 http://iptv.mega.net.ru:8888/Eureka_HD/mono.m3u8
+#EXTINF:0,КОСМОС
+#EXTGRP: Познавательное
+http://fs2.persik.by/Kosmo5/index.m3u8
 
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
@@ -404,9 +407,12 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:0,Мультики и Сказки HD
 #EXTGRP: Детский
 http://195.9.195.3:8080/hls/198446.m3u8
-#EXTINF:0,СоюзМультфильм
+#EXTINF:0,Ну, погоди!
 #EXTGRP: Детский
 http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:0,Советские мультфильмы
+#EXTGRP: Детский
+http://s83.chas.tv:8081/chas/sovmulttv.stream/playlist.m3u8
 #EXTINF:0,O!
 #EXTGRP: Детский
 http://flu.ttk.mx:90/O!/mono.m3u8?token=hs06e
@@ -433,7 +439,7 @@ http://31.210.208.171:8080/malysh/index.m3u8?token=+W2MSER
 http://hls127.homeiptv.org:8880/Unikum/video.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
-http://91.205.199.3/detskimir/index.m3u8
+http://s5.merlive.am:80/Mult/index.m3u8
 #EXTINF:0,Лёва
 #EXTGRP: Детский
 http://91.205.199.3/planb/index.m3u8
