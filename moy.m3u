@@ -84,12 +84,12 @@ http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/13060/index.m3u8
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
 http://u.vipl.one/high/mwxyvd8tpz/1376.m3u8
-#EXTINF:0,TOP USSR HD
+#EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
-http://1.1usd.tv:34000/ch1072/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdB1cFqODqZGfOiWpuNTKv6BEjFIfZNqh075aUj1G6j0l
-#EXTINF:0,CineMan CCCP 4K
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11061/index.m3u8
+#EXTINF:0,USSR
 #EXTGRP: кино
-http://ott.server-iptv.live/1602/video.m3u8?token=S793FB1732
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11102/index.m3u8
 
 #EXTINF:0,Советское кино
 #EXTGRP: кино
@@ -150,6 +150,10 @@ http://91.207.114.220:9001/play/a07w/index.m3u8
 #EXTINF:0,Крепкое кино
 #EXTGRP: кино
 http://91.207.114.220:9001/play/a0d6/index.m3u8
+
+#EXTINF:0,The X-Files
+#EXTGRP: кино
+http://0be0256e.edemist.com/iptv/U9PVCA4Y3NZ945EBCFVQHUF5/11055/index.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
