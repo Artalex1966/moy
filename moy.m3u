@@ -150,10 +150,6 @@ http://91.207.114.220:9001/play/a07w/index.m3u8
 #EXTGRP: кино
 http://91.207.114.220:9001/play/a0d6/index.m3u8
 
-#EXTINF:0,The X-Files
-#EXTGRP: кино
-http://0be0256e.edemist.com/iptv/U9PVCA4Y3NZ945EBCFVQHUF5/11055/index.m3u8
-
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://91.205.199.3:80/sinema/index.m3u8
