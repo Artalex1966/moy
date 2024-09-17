@@ -87,10 +87,9 @@ http://u.vipl.one/high/mwxyvd8tpz/1376.m3u8
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
 http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11061/index.m3u8
-#EXTINF:0,USSR
+#EXTINF:0,СОВЕТСКИЕ ФИЛЬМЫ
 #EXTGRP: кино
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11102/index.m3u8
-
+https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAwODcxMDAxNSIsImV4cCI6MTcyNzAxMzYzNywiaHdpZCI6IjEwMDJlYTViOWQzYmJkNzc1YmY0ODM5YzUzOGM1MWM2ZWE3ODI4ZGE0MDdhMGNkNTJkYjgyMzUzOWQyZGRhMTEiLCJsYXN0X3JlcV9kYXRlIjoxNzI2NDA4ODM3LCJzZXNzaW9uX2lkIjoiMDc1Y2I3MTM4M2ZmOWE0NDY2NzYxMTViZDE5NTFjYmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9M-HhNq2lZw_q4S8gSyqQEXFhhOB3hLyoykVE8JV_vg
 #EXTINF:0,Советское кино
 #EXTGRP: кино
 http://91.207.114.220:9001/play/a0aq/index.m3u8
