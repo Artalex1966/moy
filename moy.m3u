@@ -78,6 +78,13 @@ http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/13060/index.m3u8
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/C7AKWHXW7C8DGP/13060/index.m3u8
+#EXTINF:0,KLI СССР HD
+#EXTGRP: кино
+http://ip1.orgip.net/1600/video.m3u8?token=Md7ac19a92
+#EXTINF:0,CineMan CCCP 4K
+#EXTGRP: кино
+http://ip1.orgip.net/1602/video.m3u8?token=Md7ac19a92
+
 
 #EXTINF:0,Советское кино
 #EXTGRP: кино
@@ -85,7 +92,7 @@ http://91.207.114.220:9001/play/a0aq/index.m3u8
 
 #EXTINF:0,Ретро
 #EXTGRP: кино
-http://1.1usd.tv:34000/ch508/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdM8AhSgvr1IJw8jEkjpsoaPqkyJ06zPeA-et3fOmwzJ5
+http://91.224.169.250:5000/c37
 
 #EXTINF:0,Дом кино
 #EXTGRP: кино
@@ -102,7 +109,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/QX6TFFFGNU9LAQ/13037/index.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
-http://s5.merlive.am:80/lubimoekino/index.m3u8
+http://iptv.mega.net.ru:8888/Lubimoe_kino/mono.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://195.211.27.149:8887/8310/index.m3u8?token=test
@@ -128,15 +135,12 @@ http://91.207.114.220:9001/play/a0d6/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://91.205.199.3:80/sinema/index.m3u8
-#EXTINF:0,TOP Cinema HD
-#EXTGRP: кино
-http://1.1usd.tv:34000/ch1071/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLwOZcWtjUNs5axlp3B9YAb7EkuHnX3xni7PgJ81arXC
 #EXTINF:0,CineMan
 #EXTGRP: кино
 http://ott.server-iptv.live/682/video.m3u8?token=Md7ac19a92
 #EXTINF:0,CineMan Top
 #EXTGRP: кино
-http://ott.server-iptv.live/683/video.m3u8?token=Md7ac19a92
+http://ip1.orgip.net/683/video.m3u8?token=Md7ac19a92
 #EXTINF:0,CineMan Premium
 #EXTGRP: кино
 http://ip1.orgip.net/1664/video.m3u8?token=Md7ac19a92
@@ -172,6 +176,8 @@ http://u.vipl.one/high/rzi7cke96s/1349.m3u8
 #EXTINF:0,MM UFO HD
 #EXTGRP: кино
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly80NS45My40Ni4yODo4ODg3Lzg0MTAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjQ5MTViNjE2IiwicCI6IjQ5MTViNjE2ZDIyY2VkMjIiLCJjIjoiNjg5IiwidCI6IjEyMTRkNWEwZmMzZWU5OGZiZDc5N2QwNmMzMzFkMzM3IiwiZCI6IjE5MjI1MSIsInIiOiIxOTYwNDciLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODQxMC9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:0,BCU Fantastic HD
+http://ip1.orgip.net/1606/video.m3u8?token=Md7ac19a92
 
 #EXTINF:0,VL Fantastic
 #EXTGRP: кино
