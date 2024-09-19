@@ -78,6 +78,14 @@ http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/13060/index.m3u8
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/C7AKWHXW7C8DGP/13060/index.m3u8
+#EXTINF:0,MM USSR Сказки HD
+#EXTGRP: кино
+http://8tmwvjsv.siauliairsavlt.pw/iptv/DC6CUMKYM29GCD/13021/index.m3u8
+#EXTINF:0,MM USSR Сказки HD
+#EXTGRP: кино
+http://8tmwvjsv.siauliairsavlt.pw/iptv/6A3YGEL87BM6D8/13021/index.m3u8
+
+
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
 http://ip1.orgip.net/1600/video.m3u8?token=Md7ac19a92
@@ -156,6 +164,14 @@ http://hls127.homeiptv.org:8880/Clarity4K_Boevik/video.m3u8
 #EXTINF:0,Cineman VHS HD
 #EXTGRP: кино
 http://ott.server-iptv.live/685/video.m3u8?token=Md7ac19a92
+
+
+#EXTINF:0,The X-Files
+#EXTGRP: кино
+http://0be0256e.edemist.com/iptv/U9PVCA4Y3NZ945EBCFVQHUF5/11055/index.m3u8
+#EXTINF:0,The X-Files
+#EXTGRP: кино
+http://bde77664.edmonst.net/iptv/RVZUSXS84UCAA5SAD75YKZWL/11055/index.m3u8
 
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
