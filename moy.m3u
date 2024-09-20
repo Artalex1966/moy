@@ -143,6 +143,10 @@ https://hls.goodgame.ru/hls/204717.m3u8
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187241.m3u8
+#EXTINF:0,BCU Kinorating HD
+#EXTGRP: кино
+http://hls127.homeiptv.org:8880/BCUKinoratingHD/video.m3u8
+
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
@@ -162,7 +166,7 @@ http://ip1.orgip.net/686/video.m3u8?token=A3b61a999e
 #EXTINF:0,CineMan Катастрофы
 #EXTGRP: кино
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8yMTMuMTM3Ljg0LjEyMTo4ODg3Lzg3NDYvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImJhMWNkMGE1IiwicCI6ImJhMWNkMGE1YmE2OTliYzQiLCJjIjoiNTA2IiwidCI6ImY3NTkyYmIwZWFmMGExZjE2MjhmNGZiZDM4OTJmOTQ2IiwiZCI6Ijg1OTYxIiwiciI6Ijg3NzExIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODc0Ni9pbmRleC5tM3U4P3R/index.m3u8
-#EXTINF:0,Clarity4K Boevik
+#EXTINF:0,Clarity4K Боевик
 #EXTGRP: кино
 http://hls127.homeiptv.org:8880/Clarity4K_Boevik/video.m3u8
 #EXTINF:0,Cineman VHS HD
@@ -274,6 +278,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/17006/index.m3u8
 #EXTINF:0,CineMan Скорая помощь
 #EXTGRP: кино
 http://ip1.orgip.net/694/video.m3u8?token=Md7ac19a92
+#EXTINF:0,Kinozal! Универ ТВ
+#EXTGRP: кино
+http://hls127.homeiptv.org:8880/Kinozal_univer/video.m3u8
 #EXTINF:0,CineMan Универ
 #EXTGRP: кино
 http://ip1.orgip.net/1656/video.m3u8?token=Md7ac19a92
