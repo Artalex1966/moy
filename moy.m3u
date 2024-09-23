@@ -137,9 +137,7 @@ https://hls.goodgame.ru/hls/204708_720.m3u8
 #EXTINF:0,2FILMAX
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/204717.m3u8
-#EXTINF:0,Блокбастер HD
-#EXTGRP: кино
-http://hls127.homeiptv.org:8880/Blockbaster_HD/video.m3u8
+
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187241.m3u8
