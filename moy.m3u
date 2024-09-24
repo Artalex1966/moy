@@ -34,7 +34,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 ========
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://hls127.homeiptv.org:8880/Mosfilm/video.m3u8
+http://s5.merlive.am:80/mosfilm/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://91.205.199.3:80/mosfilm/index.m3u8
@@ -81,11 +81,6 @@ http://8tmwvjsv.siauliairsavlt.pw/iptv/DC6CUMKYM29GCD/13021/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://8tmwvjsv.siauliairsavlt.pw/iptv/54KGS8CCN6BZGC/13021/index.m3u8
-
-
-#EXTINF:0,KLI СССР HD
-#EXTGRP: кино
-http://ip1.orgip.net/1600/video.m3u8?token=Md7ac19a92
 
 #EXTINF:0,Советское кино
 #EXTGRP: кино
@@ -141,12 +136,7 @@ https://hls.goodgame.ru/hls/204717.m3u8
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187241.m3u8
-#EXTINF:0,BCU Kinorating HD
-#EXTGRP: кино
-http://hls127.homeiptv.org:8880/BCUKinoratingHD/video.m3u8
-#EXTINF:0,BCU Stars HD
-#EXTGRP: кино
-http://hls127.homeiptv.org:8880/BCUStarsHD/video.m3u8
+
 #EXTINF:0,PersikTV Киномикс 
 #EXTGRP: кино
 https://fs2.persik.by/Kino_Miks10/index.m3u8
@@ -169,11 +159,6 @@ http://ip1.orgip.net/686/video.m3u8?token=A3b61a999e
 #EXTINF:0,CineMan Катастрофы
 #EXTGRP: кино
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8yMTMuMTM3Ljg0LjEyMTo4ODg3Lzg3NDYvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImJhMWNkMGE1IiwicCI6ImJhMWNkMGE1YmE2OTliYzQiLCJjIjoiNTA2IiwidCI6ImY3NTkyYmIwZWFmMGExZjE2MjhmNGZiZDM4OTJmOTQ2IiwiZCI6Ijg1OTYxIiwiciI6Ijg3NzExIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODc0Ni9pbmRleC5tM3U4P3R/index.m3u8
-#EXTINF:0,Clarity4K Боевик
-#EXTGRP: кино
-http://hls127.homeiptv.org:8880/Clarity4K_Boevik/video.m3u8
-
-
 
 #EXTINF:0,The X-Files
 #EXTGRP: кино
@@ -185,9 +170,6 @@ http://bde77664.edmonst.net/iptv/54KGS8CCN6BZGC/11055/index.m3u8
 #EXTINF:0,КИНО ТВ HD
 #EXTGRP: кино
 http://91.205.199.3:80/kinotvhd/index.m3u8
-#EXTINF:0,Кинопоказ
-#EXTGRP: кино
-http://hls127.homeiptv.org:8880/Kinopokaz_HD/video.m3u8
 
 
 #EXTINF:0,MM Киберпанк HD
@@ -207,13 +189,6 @@ http://hls127.homeiptv.org:8880/Clarity4K_Fantastic/video.m3u8
 #EXTINF:0,KLI Fantastica HD
 #EXTGRP: кино
 http://u.vipl.one/high/rzi7cke96s/1373.m3u8
-
-
-
-#EXTINF:0,MM Скорость HD
-#EXTGRP: кино
-http://hls127.homeiptv.org:8880/minimax-skorost-m4f/video.m3u8
-
 
 #EXTINF:0,viju TV1000 Action
 #EXTGRP: кино
@@ -250,7 +225,7 @@ http://91.205.199.3/kinopremerahd/index.m3u8
 http://91.205.199.3/kinoxithd/index.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
-http://hls127.homeiptv.org:8880/iConcerts_HD/video.m3u8
+https://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: кино
 http://91.205.199.3/kinosemyahd/index.m3u8
