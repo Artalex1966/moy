@@ -200,16 +200,16 @@ http://91.205.199.3:80/vipcomedi/index.m3u8
 
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
-http://77.235.1.13/nashenovoekino/index.m3u8
+http://77.235.1.13/nashe_novoe_kino/index.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
-http://77.235.1.13/rodnoekino/index.m3u8
+http://77.235.1.13/rodnoe_kino/index.m3u8
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
 http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
-http://77.235.1.13/kinopremerahd/index.m3u8
+http://77.235.1.13/kinopremiera/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
 http://77.235.1.13/kinohit/index.m3u8
@@ -218,7 +218,7 @@ http://77.235.1.13/kinohit/index.m3u8
 https://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: кино
-http://77.235.1.13/kinosemyahd/index.m3u8
+http://77.235.1.13/kinosemiya/index.m3u8
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
 http://s5.merlive.am:80/Kinokomedia/index.m3u8
