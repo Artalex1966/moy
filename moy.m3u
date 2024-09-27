@@ -105,10 +105,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/13037/index.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
-http://iptv.mega.net.ru:8888/Lubimoe_kino/mono.m3u8
-#EXTINF:0,Наше любимое HD
+http://141.95.55.143/CH521/index.m3u8
+#EXTINF:0,Любимый HD
 #EXTGRP: кино
-http://195.211.27.149:8887/8310/index.m3u8?token=test
+http://77.235.1.13/lubimiy_hd/index.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://cdn.ottg.tv/8420/video.m3u8?username=alex02354&password=247820&token=9c6b7707197dd7d28d9effe37ae9fdd6&ch_id=480&req_host=pkjX3BL
@@ -146,10 +146,10 @@ https://fs2.persik.by/Kino_Miks10/index.m3u8
 http://91.205.199.3:80/sinema/index.m3u8
 #EXTINF:0,CineMan
 #EXTGRP: кино
-http://cdntv.online/high/h7u4lmpecd/1255.m3u8
+http://77.235.1.13/tv100_action/index.m3u8
 #EXTINF:0,CineMan Top
 #EXTGRP: кино
-http://cdntv.online/high/h7u4lmpecd/1256.m3u8
+http://77.235.1.13/tv100_top/index.m3u8
 #EXTINF:0,CineMan Premium
 #EXTGRP: кино
 http://ip1.orgip.net/1664/video.m3u8?token=Md7ac19a92
@@ -200,31 +200,31 @@ http://91.205.199.3:80/vipcomedi/index.m3u8
 
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
-http://91.205.199.3/nashenovoekino/index.m3u8
+http://77.235.1.13/nashenovoekino/index.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
-http://91.205.199.3/rodnoekino/index.m3u8
+http://77.235.1.13/rodnoekino/index.m3u8
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
-http://91.207.114.220:9001/play/a04t/index.m3u8
+http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
-http://91.205.199.3/kinopremerahd/index.m3u8
+http://77.235.1.13/kinopremerahd/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-http://91.205.199.3/kinoxithd/index.m3u8
+http://77.235.1.13/kinohit/index.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
 https://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: кино
-http://91.205.199.3/kinosemyahd/index.m3u8
+http://77.235.1.13/kinosemyahd/index.m3u8
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
-http://91.207.114.220:9001/play/a04r/index.m3u8
+http://s5.merlive.am:80/Kinokomedia/index.m3u8
 #EXTINF:0,Киносвидание
 #EXTGRP: кино
-http://91.205.199.3/kinosvidanie/index.m3u8
+http://77.235.1.13/kinosvidanie/index.m3u8
 #EXTINF:0,Киносерия
 #EXTGRP: кино
 https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
@@ -241,7 +241,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/17006/index.m3u8
-
+#EXTINF:0,Универ 13 лет спустя
+#EXTGRP: кино
+http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/19.m3u8
 #EXTINF:0,VF Универ
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/13084/index.m3u8
