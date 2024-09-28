@@ -85,7 +85,12 @@ http://8tmwvjsv.siauliairsavlt.pw/iptv/7LNPRS4449MZZZ/13021/index.m3u8
 #EXTINF:0,Советское кино
 #EXTGRP: кино
 http://91.207.114.220:9001/play/a0aq/index.m3u8
-
+#EXTINF:0,KLI СССР HD
+#EXTGRP: кино
+http://ip1.orgip.net/1600/video.m3u8?token=Md7ac19a92
+#EXTINF:0,CineMan CCCP 4K
+#EXTGRP: кино
+http://ip1.orgip.net/1602/video.m3u8?token=Md7ac19a92
 #EXTINF:0,Ретро
 #EXTGRP: кино
 http://91.224.169.250:5000/c37
@@ -113,7 +118,9 @@ http://77.235.1.13/lubimiy_hd/index.m3u8
 #EXTGRP: кино
 http://cdn.ottg.tv/8420/video.m3u8?username=alex02354&password=247820&token=9c6b7707197dd7d28d9effe37ae9fdd6&ch_id=480&req_host=pkjX3BL
 
-
+#EXTINF:0,Смотрим:Тестовый канал 3
+#EXTGRP: кино
+https://player.smotrim.ru/iframe/stream/live_id/64718
 #EXTINF:0,Русская Комедия
 #EXTGRP: кино
 http://91.205.199.3/komedia/index.m3u8
