@@ -82,6 +82,9 @@ http://8tmwvjsv.siauliairsavlt.pw/iptv/DC6CUMKYM29GCD/13021/index.m3u8
 #EXTGRP: кино
 http://8tmwvjsv.siauliairsavlt.pw/iptv/7LNPRS4449MZZZ/13021/index.m3u8
 
+#EXTINF:0,YOSSO TV Советские фильмы
+#EXTGRP: кино
+http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/14175/index.m3u8
 #EXTINF:0, СОВЕТСКИЕ ФИЛЬМЫ
 #EXTGRP: кино
 https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwODkzMTAxOCIsImV4cCI6MTcyNzUxNDcxOCwiaHdpZCI6ImMwZDNjMGUyN2VkOTE4YTFhMmQ4YmMxOWRlMTVkMjMzODc4ODMyNDg3MWY3NzYxZDBjZTdjY2JmNmQ0ZWE1YTEiLCJsYXN0X3JlcV9kYXRlIjoxNzI2OTA5OTE4LCJzZXNzaW9uX2lkIjoiYmJiZjFjZjgwNWZhNjQ4NzBiMTJkOWEwMDYxOGY3MGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.4yonG7iTrQ4NPDwRcDIAYP-epfS14sylvyHsLmXrg_Y
@@ -160,6 +163,9 @@ http://ip1.orgip.net/1664/video.m3u8?token=Md7ac19a92
 #EXTINF:0,CineMan Thriller
 #EXTGRP: кино
 http://ip1.orgip.net/686/video.m3u8?token=A3b61a999e
+#EXTINF:0,CineMan Action HD
+#EXTGRP: кино
+http://ott.watch/stream/LZLG5DMDX8/351.m3u8
 
 #EXTINF:0,The X-Files
 #EXTGRP: кино
@@ -175,14 +181,9 @@ http://91.205.199.3:80/kinotvhd/index.m3u8
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
 http://ip1.orgip.net/1606/video.m3u8?token=Md7ac19a92
-
-#EXTINF:0,VL Fantastic
+#EXTINF:0,Fresh Fantastic HD
 #EXTGRP: кино
-https://cdntv.online/high/rzi7cke96s/1388.m3u8
-
-#EXTINF:0,KLI Fantastica HD
-#EXTGRP: кино
-http://u.vipl.one/high/rzi7cke96s/1373.m3u8
+http://ott.watch/stream/LZLG5DMDX8/429.m3u8
 
 #EXTINF:0,viju TV1000 Action
 #EXTGRP: кино
