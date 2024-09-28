@@ -87,12 +87,7 @@ http://96dc02c9.ottolok.net/iptv/7LNPRS4449MZZZ/14175/index.m3u8
 #EXTINF:0,YOSSO TV Советские фильмы
 #EXTGRP: кино
 http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/14175/index.m3u8
-#EXTINF:0, СОВЕТСКИЕ ФИЛЬМЫ
-#EXTGRP: кино
-https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwODkzMTAxOCIsImV4cCI6MTcyNzUxNDcxOCwiaHdpZCI6ImMwZDNjMGUyN2VkOTE4YTFhMmQ4YmMxOWRlMTVkMjMzODc4ODMyNDg3MWY3NzYxZDBjZTdjY2JmNmQ0ZWE1YTEiLCJsYXN0X3JlcV9kYXRlIjoxNzI2OTA5OTE4LCJzZXNzaW9uX2lkIjoiYmJiZjFjZjgwNWZhNjQ4NzBiMTJkOWEwMDYxOGY3MGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.4yonG7iTrQ4NPDwRcDIAYP-epfS14sylvyHsLmXrg_Y
-#EXTINF:0,Советская киноклассика
-#EXTGRP: кино
-https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwODkzMTAxOCIsImV4cCI6MTcyNzUxNDcxOCwiaHdpZCI6ImMwZDNjMGUyN2VkOTE4YTFhMmQ4YmMxOWRlMTVkMjMzODc4ODMyNDg3MWY3NzYxZDBjZTdjY2JmNmQ0ZWE1YTEiLCJsYXN0X3JlcV9kYXRlIjoxNzI2OTA5OTE4LCJzZXNzaW9uX2lkIjoiYmJiZjFjZjgwNWZhNjQ4NzBiMTJkOWEwMDYxOGY3MGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.4yonG7iTrQ4NPDwRcDIAYP-epfS14sylvyHsLmXrg_Y
+
 #EXTINF:0,Ретро
 #EXTGRP: кино
 http://91.224.169.250:5000/c37
@@ -256,17 +251,17 @@ http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/19.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/13084/index.m3u8
 #EXTINF:0,VF Универ
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/C7AKWHXW7C8DGP/13084/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/HH856FPH8XVA9F/13084/index.m3u8
 #EXTINF:0,VF Универ новая общага
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/17013/index.m3u8
 #EXTINF:0,VF Универ новая общага
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/C7AKWHXW7C8DGP/17013/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/HH856FPH8XVA9F/17013/index.m3u8
 
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
-http://70a75805.rossteleccom.net/iptv/C7AKWHXW7C8DGP/13082/index.m3u8
+http://70a75805.rossteleccom.net/iptv/HH856FPH8XVA9F/13082/index.m3u8
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/13082/index.m3u8
