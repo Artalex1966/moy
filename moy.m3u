@@ -365,7 +365,7 @@ http://s83.chas.tv:8081/chas/sovmulttv.stream/playlist.m3u8
 http://flu.ttk.mx:90/O!/mono.m3u8?token=hs06e
 #EXTINF:0,Мама
 #EXTGRP: Детский
-http://195.211.27.149:8887/8158/index.m3u8?token=test
+http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwODkzMTAxOCIsImV4cCI6MTcyODEzNTQ5MiwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI3NTMwNjkyLCJzZXNzaW9uX2lkIjoiMDg3NDdiMWJlNDg0YzYyYTljZGYwM2FhZDA5NGYwZDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DyEzaLk6kQP5-3x_Gzy574ZvrDb53C9yPuEaMM3BmC0
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
 http://195.26.83.96:7007/play/14/index.m3u8
@@ -383,7 +383,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 http://31.210.208.171:8080/malysh/index.m3u8?token=+W2MSER
 #EXTINF:0,Уникум
 #EXTGRP: Детский
-http://hls127.homeiptv.org:8880/Unikum/video.m3u8
+http://stream2.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
 http://s5.merlive.am:80/Mult/index.m3u8
@@ -392,7 +392,7 @@ http://s5.merlive.am:80/Mult/index.m3u8
 http://91.205.199.3/planb/index.m3u8
 #EXTINF:0,Мультиландия
 #EXTGRP: Детский
-http://195.211.27.149:8887/8056/index.m3u8?token=test
+http://91.205.199.3/multilandia/index.m3u8
 #EXTINF:0,МУЛЬТИМАНИЯ
 #EXTGRP: Детский
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
@@ -404,7 +404,7 @@ http://91.205.199.3/disney/index.m3u8
 http://cdn.ottg.tv/9375/video.m3u8?username=alex02354&password=247820&token=9c6b7707197dd7d28d9effe37ae9fdd6&ch_id=319&req_host=pkjX3BL
 #EXTINF:0,Рыжий
 #EXTGRP: Детский
-http://1.1usd.tv:34000/ch618/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdG2X7pQxbMC6S-aReWEBHRkvKSe_OY8dC9lRDsQLex0o
+http://stream2.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:0,Tiji
 #EXTGRP: Детский
 http://iptv.mega.net.ru:8888/Tiji/mono.m3u8
@@ -417,12 +417,12 @@ http://91.205.199.3/stskids/index.m3u8
 #EXTINF:0,CARTOON NETWORK
 #EXTGRP: Детский
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
-#EXTINF:0,BCU Kids
+#EXTINF:0,Пингвин Лоло
 #EXTGRP: Детский
-http://1.1usd.tv:34000/ch786/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJdt2XN_Wl5TPqUszZZf4a2cPCgxkZ4bhiIgs5j-zd5d
-#EXTINF:0,CineMan Kids
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:0, Мамонтёнок
 #EXTGRP: Детский
-http://1.1usd.tv:34000/ch1029/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdOMQirnuv3S5EEOdhFiC2pLqPYVYhrRGvkqwMssox_VQ
+http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 
 ----
 #EXTINF:0,Музыка 1 International
