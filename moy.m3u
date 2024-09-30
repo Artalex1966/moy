@@ -88,6 +88,13 @@ http://be46f721.ottrast.com/iptv/SATF9RNDA6U65Z/14175/index.m3u8
 #EXTGRP: кино
 http://96dc02c9.ottolok.net/iptv/8FTSCDAQ6NEXXN/14175/index.m3u8
 
+#EXTINF:0,BCU СССР HD
+#EXTGRP: кино
+http://1.1usd.tv:34000/ch789/mono.m3u8?token=papouxris.zuow05M-C_zQJQ7KerCml146KvYyoQA0_8YUf_KdKlZ22Xqsp768NHEp-6xxmrSa
+#EXTINF:0,Fresh Soviet
+#EXTGRP: кино
+http://1.1usd.tv:34000/ch1732/mono.m3u8?token=papouxris.zuow05M-C_zQJQ7KerCmlx3c2vcUrSk8iXtKNJCdvGmB4UIck-katkf34SsvTvmB
+
 #EXTINF:0,Ретро
 #EXTGRP: кино
 http://91.224.169.250:5000/c37
