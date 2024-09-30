@@ -128,10 +128,15 @@ http://s1.starcinemax.ru:2095/0011/index.m3u8?token=WmFyaWt8fE1USXpORFUy
 #EXTGRP: кино
 http://s1.starcinemax.ru:2095/0008/index.m3u8?token=WmFyaWt8fE1USXpORFUy
 
-
 #EXTINF:0,Русская Комедия
 #EXTGRP: кино
+http://91.224.169.250:5000/c11
+#EXTINF:0,Кинокомедия
+#EXTGRP: кино
 http://91.205.199.3/komedia/index.m3u8
+#EXTINF:0,КОМЕДИЙНОЕ HD
+#EXTGRP: кино
+http://iptv.mega.net.ru:8888/Kinopokaz_HD_2/mono.m3u8
 
 
 #EXTINF:0,Семейное кино
