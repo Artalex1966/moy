@@ -34,7 +34,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 ========
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://s5.merlive.am:80/mosfilm/index.m3u8
+http://185.50.148.2:7706/Mosfilm/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://91.205.199.3:80/mosfilm/index.m3u8
@@ -82,18 +82,16 @@ http://96dc02c9.ottolok.net/iptv/TZHAER8A88Z4RG/13021/index.m3u8
 #EXTGRP: кино
 http://8tmwvjsv.siauliairsavlt.pw/iptv/TLYE8Y5MQQFMNL/13021/index.m3u8
 
-#EXTINF:0,YOSSO TV Советские фильмы
+#EXTINF:0,Советские комедии
 #EXTGRP: кино
-http://1.1usd.tv:34000/ch1301/mono.m3u8?token=papouxris.zuow05M-C_zQJQ7KerCml5M6IDqNfVdUSylBrN747m1FYCx6U_LyrcBOgHvq1OFG
-#EXTINF:0,BCU СССР HD
+http://fs2.persik.by/Soviet_Comedy10/index.m3u8
+#EXTINF:0,Легкое кино
 #EXTGRP: кино
-http://1.1usd.tv:34000/ch789/mono.m3u8?token=papouxris.zuow05M-C_zQJQ7KerCml146KvYyoQA0_8YUf_KdKlZ22Xqsp768NHEp-6xxmrSa
-#EXTINF:0,Fresh Soviet
+http://fs2.persik.by/Legkoe_Kino8/index.m3u8
+#EXTINF:0,Советская киноклассика
 #EXTGRP: кино
-http://1.1usd.tv:34000/ch1732/mono.m3u8?token=papouxris.zuow05M-C_zQJQ7KerCmlx3c2vcUrSk8iXtKNJCdvGmB4UIck-katkf34SsvTvmB
-#EXTINF:0,TOP USSR
-#EXTGRP: кино
-http://1.1usd.tv:34000/ch1072/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdB1cFqODqZGfOiWpuNTKv6CHkLnDasEXSZ1aZ5KG-wgS
+https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwODkzMTAxOCIsImV4cCI6MTcyODEzNTQ5MiwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI3NTMwNjkyLCJzZXNzaW9uX2lkIjoiMDg3NDdiMWJlNDg0YzYyYTljZGYwM2FhZDA5NGYwZDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DyEzaLk6kQP5-3x_Gzy574ZvrDb53C9yPuEaMM3BmC0
+
 
 #EXTINF:0,Ретро
 #EXTGRP: кино
