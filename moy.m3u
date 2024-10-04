@@ -132,9 +132,9 @@ http://s1.starcinemax.ru:2095/0011/index.m3u8?token=WmFyaWt8fE1USXpORFUy
 #EXTINF:0,CMS Киностудия Горького
 #EXTGRP: кино
 http://s1.starcinemax.ru:2095/0009/index.m3u8?token=SGFtYXJ8fE1USXpORFUy
-#EXTINF:0,CMS Города Советского Союза
+#EXTINF:0,CMS Программа "Время"
 #EXTGRP: кино
-http://s1.starcinemax.ru:2095/0008/index.m3u8?token=WmFyaWt8fE1USXpORFUy
+http://s1.starcinemax.ru:2095/0013/index.m3u8?token=UGxvdG9uS2lyaWx8fGQzZDNNVEpyYkE9PQ==
 
 #EXTINF:0,Русская Комедия
 #EXTGRP: кино
@@ -294,9 +294,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/NRZVSN7WGR2LW3/13082/index.m3u8
 #EXTINF:0,Galaxy
 #EXTGRP: Познавательное
 http://94.230.128.105:8080//Galaxy_TV/index.m3u8
-#EXTINF:0,Первый Космический HD
+#EXTINF:0,CMS UFO
 #EXTGRP: Познавательное
-http://iptv.mega.net.ru:8888/Eureka_HD/mono.m3u8
+http://s1.starcinemax.ru:2095/0003/index.m3u8?token=UGxvdG9uS2lyaWx8fGQzZDNNVEpyYkE9PQ==
 #EXTINF:0,КОСМОС
 #EXTGRP: Познавательное
 http://fs2.persik.by/Kosmo5/index.m3u8
