@@ -82,6 +82,9 @@ http://96dc02c9.ottolok.net/iptv/TZHAER8A88Z4RG/13021/index.m3u8
 #EXTGRP: кино
 http://8tmwvjsv.siauliairsavlt.pw/iptv/TLYE8Y5MQQFMNL/13021/index.m3u8
 
+#EXTINF:0,Fresh Soviet
+#EXTGRP: кино
+http://1.1usd.tv:34000/ch1732/mono.m3u8?token=papouxris.zuow05M-C_zQJQ7KerCmlx3c2vcUrSk8iXtKNJCdvGmB4UIck-katkf34SsvTvmB
 #EXTINF:0,Советские комедии
 #EXTGRP: кино
 http://fs2.persik.by/Soviet_Comedy10/index.m3u8
@@ -168,6 +171,9 @@ https://hls.goodgame.ru/hls/187241.m3u8
 #EXTINF:0,PersikTV Киномикс 
 #EXTGRP: кино
 https://fs2.persik.by/Kino_Miks10/index.m3u8
+#EXTINF:0,VeleS Кинопленка
+#EXTGRP: кино
+http://1.1usd.tv:34000/ch2592/mono.m3u8?token=papouxris.zuow05M-C_zQJQ7KerCml7IAt66eowc6ad4GVu_wJHxNmR-oSnx9uFG-SdS_SmRM
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
@@ -183,10 +189,10 @@ http://77.235.1.13/tv100_top/index.m3u8
 http://ip1.orgip.net/1664/video.m3u8?token=Md7ac19a92
 #EXTINF:0,CineMan Thriller
 #EXTGRP: кино
-http://ip1.orgip.net/686/video.m3u8?token=A3b61a999e
+http://cdn.troya.one:80/ch1033/mono.m3u8?token=rl_liverpool10.Zk0wsIop3qK0aiipA9nmp9n0uk4TzfC6bVZTSJhm1GJEexa9mH4rfXNkSXXHK96E
 #EXTINF:0,CineMan Action HD
 #EXTGRP: кино
-http://ott.watch/stream/LZLG5DMDX8/351.m3u8
+http://3.troya.one:34000/ch1032/mono.m3u8?token=rl_baskak.q3XLyOWWTAjodu7N159-2uabibomDfNjdKXpKEBRcA8FmK1nludlrK8nsblRj4Tw
 
 #EXTINF:0,The X-Files
 #EXTGRP: кино
