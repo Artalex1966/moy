@@ -82,9 +82,9 @@ http://96dc02c9.ottolok.net/iptv/TZHAER8A88Z4RG/13021/index.m3u8
 #EXTGRP: кино
 http://8tmwvjsv.siauliairsavlt.pw/iptv/TLYE8Y5MQQFMNL/13021/index.m3u8
 
-#EXTINF:0,Fresh Soviet
+#EXTINF:0,Советское кино
 #EXTGRP: кино
-http://1.1usd.tv:34000/ch1732/mono.m3u8?token=papouxris.zuow05M-C_zQJQ7KerCmlx3c2vcUrSk8iXtKNJCdvGmB4UIck-katkf34SsvTvmB
+http://91.207.114.220:9001/play/a0aq/index.m3u8
 #EXTINF:0,Советские комедии
 #EXTGRP: кино
 http://fs2.persik.by/Soviet_Comedy10/index.m3u8
@@ -93,7 +93,7 @@ http://fs2.persik.by/Soviet_Comedy10/index.m3u8
 http://fs2.persik.by/Legkoe_Kino8/index.m3u8
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
-https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwODkzMTAxOCIsImV4cCI6MTcyODEzNTQ5MiwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI3NTMwNjkyLCJzZXNzaW9uX2lkIjoiMDg3NDdiMWJlNDg0YzYyYTljZGYwM2FhZDA5NGYwZDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DyEzaLk6kQP5-3x_Gzy574ZvrDb53C9yPuEaMM3BmC0
+https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwODkzMTAxOCIsImV4cCI6MTcyODc4MDIxNSwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI4MTc1NDE1LCJzZXNzaW9uX2lkIjoiZDZiZTc4NGJjMDUyMDE5ZTMwYjQxMmFiY2E4ZDRlMmUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aeb08byyvR72r04WrA3YOg7zWcHuMwwVgXGzoOHMOmU
 
 
 #EXTINF:0,Ретро
@@ -135,9 +135,7 @@ http://s1.starcinemax.ru:2095/0011/index.m3u8?token=WmFyaWt8fE1USXpORFUy
 #EXTINF:0,CMS Киностудия Горького
 #EXTGRP: кино
 http://s1.starcinemax.ru:2095/0009/index.m3u8?token=SGFtYXJ8fE1USXpORFUy
-#EXTINF:0,CMS Программа "Время"
-#EXTGRP: кино
-http://s1.starcinemax.ru:2095/0013/index.m3u8?token=UGxvdG9uS2lyaWx8fGQzZDNNVEpyYkE9PQ==
+
 
 #EXTINF:0,Русская Комедия
 #EXTGRP: кино
@@ -220,7 +218,7 @@ http://91.205.199.3:80/tv1000action/index.m3u8
 http://91.205.199.3/vipmegahit/index.m3u8
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
-http://iptv.mega.net.ru:8888/ViP_Premiere_HD/mono.m3u8
+http://193.242.190.6:8099/200/index.m3u8
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
 http://91.205.199.3:80/vipcomedi/index.m3u8
@@ -232,31 +230,31 @@ http://91.205.199.3:80/vipcomedi/index.m3u8
 
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
-http://77.235.1.13/nashe_novoe_kino/index.m3u8
+http://185.112.140.28:8080/Nashe_Novoe_Kino/index.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
-http://77.235.1.13/rodnoe_kino/index.m3u8
+http://185.112.140.28:8080/Rodnoe_Kino/index.m3u8
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
-http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv
+http://91.207.114.220:9001/play/a04t/index.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
-http://77.235.1.13/kinopremiera/index.m3u8
+http://185.112.140.28:8080/Kinopremera/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-http://77.235.1.13/kinohit/index.m3u8
+http://91.207.114.220:9001/play/a0d3/index.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
 https://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: кино
-http://77.235.1.13/kinosemiya/index.m3u8
+http://193.242.190.6:8099/85/index.m3u8
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
 http://s5.merlive.am:80/Kinokomedia/index.m3u8
 #EXTINF:0,Киносвидание
 #EXTGRP: кино
-http://77.235.1.13/kinosvidanie/index.m3u8
+http://185.112.140.28:8080/Kinosvidanie/index.m3u8
 #EXTINF:0,Киносерия
 #EXTGRP: кино
 https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
