@@ -91,14 +91,16 @@ http://fs2.persik.by/Soviet_Comedy10/index.m3u8
 #EXTINF:0,Легкое кино
 #EXTGRP: кино
 http://fs2.persik.by/Legkoe_Kino8/index.m3u8
-#EXTINF:0,Советская киноклассика
+#EXTINF:0,Отечественное кино
 #EXTGRP: кино
-https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwODkzMTAxOCIsImV4cCI6MTcyODc4MDIxNSwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI4MTc1NDE1LCJzZXNzaW9uX2lkIjoiZDZiZTc4NGJjMDUyMDE5ZTMwYjQxMmFiY2E4ZDRlMmUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aeb08byyvR72r04WrA3YOg7zWcHuMwwVgXGzoOHMOmU
-
+http://persik.by:80/stream/8330/207094/11147.m3u8
+#EXTINF:0,Советские сериалы
+#EXTGRP: кино
+http://persik.by:80/stream/8330/207094/11031.m3u8
 
 #EXTINF:0,Ретро
 #EXTGRP: кино
-http://91.224.169.250:5000/c37
+http://stream2.cinerama.uz:80/1047/manifest.m3u8
 
 #EXTINF:0,Дом кино
 #EXTGRP: кино
@@ -165,6 +167,9 @@ https://hls.goodgame.ru/hls/204717.m3u8
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187241.m3u8
+#EXTINF:0,Фантастика pers
+#EXTGRP: кино
+http://persik.by:80/stream/8330/207094/10715.m3u8
 
 #EXTINF:0,PersikTV Киномикс 
 #EXTGRP: кино
