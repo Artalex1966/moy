@@ -87,9 +87,6 @@ http://96dc02c9.ottolok.net/iptv/TZHAER8A88Z4RG/13021/index.m3u8
 #EXTGRP: кино
 http://8tmwvjsv.siauliairsavlt.pw/iptv/TLYE8Y5MQQFMNL/13021/index.m3u8
 
-#EXTINF:0,Prokop TV сказки СССР
-#EXTGRP: кино
-http://158.101.194.132:8888/channel/n67d778cb/index.m3u8?q=fad979a1f444f2cd930b892c5a34db3e
 
 #EXTINF:0,Советское кино
 #EXTGRP: кино
@@ -150,15 +147,14 @@ http://s1.starcinemax.ru:2095/0009/index.m3u8?token=SGFtYXJ8fE1USXpORFUy
 
 #EXTINF:0,Русская Комедия
 #EXTGRP: кино
-http://91.224.169.250:5000/c11
+http://92.118.134.244:8001/play/Komedia/index.m3u8
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
 http://91.205.199.3/komedia/index.m3u8
-#EXTINF:0,КОМЕДИЙНОЕ HD
+
+#EXTINF:0,Семейное HD
 #EXTGRP: кино
-http://iptv.mega.net.ru:8888/Kinopokaz_HD_2/mono.m3u8
-
-
+http://fs2.persik.by/Semejnoe9/index.m3u8
 #EXTINF:0,Семейное кино
 #EXTGRP: кино
 http://91.207.114.220:9001/play/a07w/index.m3u8
@@ -192,19 +188,22 @@ http://1.1usd.tv:34000/ch2592/mono.m3u8?token=papouxris.zuow05M-C_zQJQ7KerCml7IA
 http://91.205.199.3:80/sinema/index.m3u8
 #EXTINF:0,CineMan
 #EXTGRP: кино
-http://cdntv.online/low/pa3nc5dxwz/1255.m3u8
+http://ip1.orgip.net/682/video.m3u8?token=Md7ac19a92
 #EXTINF:0,CineMan Top
 #EXTGRP: кино
-http://cdntv.online/low/pa3nc5dxwz/1256.m3u8
+http://ip1.orgip.net/683/video.m3u8?token=Md7ac19a92
 #EXTINF:0,CineMan Premium
 #EXTGRP: кино
 http://ip1.orgip.net/1664/video.m3u8?token=Md7ac19a92
 #EXTINF:0,CineMan Thriller
 #EXTGRP: кино
-http://cdntv.online/low/pa3nc5dxwz/1258.m3u8
+http://ip1.orgip.net/686/video.m3u8?token=Md7ac19a92
 #EXTINF:0,CineMan Action HD
 #EXTGRP: кино
-http://cdntv.online/low/pa3nc5dxwz/1257.m3u8
+http://ip1.orgip.net/689/video.m3u8?token=Md7ac19a92
+#EXTINF:0,CineMan Катастрофы
+#EXTGRP: кино
+http://ip1.orgip.net/693/video.m3u8?token=Md7ac19a92
 
 #EXTINF:0,The X-Files
 #EXTGRP: кино
@@ -215,7 +214,7 @@ http://bde77664.edmonst.net/iptv/7LNPRS4449MZZZ/11055/index.m3u8
 
 #EXTINF:0,КИНО ТВ HD
 #EXTGRP: кино
-http://31.148.48.15/Kino_TV/tracks-v1a1/mono.m3u8?token=test
+http://193.242.190.6:8099/88/index.m3u8
 
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
