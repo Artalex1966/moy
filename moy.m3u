@@ -320,17 +320,17 @@ http://fs2.persik.by/Kosmo5/index.m3u8
 
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
-https://stream1.cinerama.uz/1039/tracks-v1a1/mono.m3u8
+http://dmitry-tv.ddns.net/hls/CH_DISCOVERYCHANNELHD.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
-https://stream1.cinerama.uz/1248/tracks-v1a1/mono.m3u8
+http://dmitry-tv.ddns.net/hls/CH_NAUKA20.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 http://vod.tuva.ru/nauka2/index.m3u8
 
 #EXTINF:0, National Geographic
 #EXTGRP: Познавательное
-rtmp://92.119.88.58//2336
+http://dmitry-tv.ddns.net/hls/CH_NATIONALGEOGRAPHIC.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP: Познавательное
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
