@@ -97,12 +97,15 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/
 #EXTINF:0,Clarity4K Кино CCCР
 #EXTGRP: кино
 http://cdn.ottg.app/7890/mpegts?token=228fbce7ed921f331e2146af95e2e228
-#EXTINF:0,Советский дубляж
+#EXTINF:0,Старые фильмы
 #EXTGRP: кино
 http://persik.by:80/stream/8330/207094/11147.m3u8
 #EXTINF:0,Советские сериалы
 #EXTGRP: кино
 http://persik.by:80/stream/8330/207094/11031.m3u8
+#EXTINF:0,Советская киноклассика
+#EXTGRP: кино
+http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Ретро
 #EXTGRP: кино
@@ -307,7 +310,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/NRZVSN7WGR2LW3/13082/index.m3u8
 ==========
 #EXTINF:0,Galaxy
 #EXTGRP: Познавательное
-http://94.230.128.105:8080//Galaxy_TV/index.m3u8
+http://flu.ttk.mx:90/Galaxy/mono.m3u8?token=hs06e
 #EXTINF:0,CMS UFO
 #EXTGRP: Познавательное
 http://s1.starcinemax.ru:2095/0003/index.m3u8?token=UGxvdG9uS2lyaWx8fGQzZDNNVEpyYkE9PQ==
