@@ -106,6 +106,9 @@ http://persik.by:80/stream/8330/207094/11031.m3u8
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
 http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
+#EXTINF:0,VeleS Кинопленка
+#EXTGRP: кино
+http://1.1usd.tv:34000/ch2592/mono.m3u8?token=papouxris.zuow05M-C_zQJQ7KerCml7IAt66eowc6ad4GVu_wJHxNmR-oSnx9uFG-SdS_SmRM
 
 #EXTINF:0,Ретро
 #EXTGRP: кино
@@ -181,9 +184,7 @@ http://persik.by:80/stream/8330/207094/10715.m3u8
 #EXTINF:0,Fresh Fantastic HD
 #EXTGRP: кино
 http://1.1usd.tv:34000/ch1725/mono.m3u8?token=papouxris.zuow05M-C_zQJQ7KerCml1gTpunSalppULSYZts0Nfj2ZlgYQ3eJ33JFusBZcED3
-#EXTINF:0,VeleS Кинопленка
-#EXTGRP: кино
-http://1.1usd.tv:34000/ch2592/mono.m3u8?token=papouxris.zuow05M-C_zQJQ7KerCml7IAt66eowc6ad4GVu_wJHxNmR-oSnx9uFG-SdS_SmRM
+
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
