@@ -3,9 +3,6 @@
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:0,ТВ Губерния (Воронеж)
-#EXTGRP: эфир
-https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
@@ -87,10 +84,16 @@ http://96dc02c9.ottolok.net/iptv/TZHAER8A88Z4RG/13021/index.m3u8
 #EXTGRP: кино
 http://8tmwvjsv.siauliairsavlt.pw/iptv/TLYE8Y5MQQFMNL/13021/index.m3u8
 
+#EXTINF:0,Prokop TV Сказки СССР
+#EXTGRP: кино
+http://158.101.194.132:8888/channel/n67d778cb/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
 
 #EXTINF:0,Советское кино
 #EXTGRP: кино
 http://91.207.114.220:9001/play/a0aq/index.m3u8
+#EXTINF:0, СОВЕТСКИЕ ФИЛЬМЫ
+#EXTGRP: кино
+https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwODkzMTAxOCIsImV4cCI6MTcyOTQwODAyOSwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI4ODAzMjI5LCJzZXNzaW9uX2lkIjoiZDQzMTVhYTQ2MDNmNGFlNDIxM2QzZTU1NjJhYTdlMWQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.WhRO8CUOMpnt2i8XnYP2d2qHSltOUpTnuNo5tapm-PY
 #EXTINF:0,Liberty Союз 4K
 #EXTGRP: кино
 http://cdn.ottg.app/4195/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
@@ -137,20 +140,6 @@ http://s1.starcinemax.ru:2095/channel_889/index.m3u8?token=WmFyaWt8fE1USXpORFUy
 #EXTGRP: кино
 http://cdn.ottg.tv/8420/video.m3u8?username=alex02354&password=247820&token=9c6b7707197dd7d28d9effe37ae9fdd6&ch_id=480&req_host=pkjX3BL
 
-#EXTINF:0,CMS Ваш любимый детектив
-#EXTGRP: кино
-http://s1.starcinemax.ru:2095/0005/index.m3u8?token=WmFyaWt8fE1USXpORFUy
-#EXTINF:0,CMS Театр «Современник»
-#EXTGRP: кино
-http://s1.starcinemax.ru:2095/0014/index.m3u8?token=WmFyaWt8fE1USXpORFUy
-#EXTINF:0,CMS Комедия! Комедия!!!
-#EXTGRP: кино
-http://s1.starcinemax.ru:2095/0011/index.m3u8?token=WmFyaWt8fE1USXpORFUy
-#EXTINF:0,CMS Киностудия Горького
-#EXTGRP: кино
-http://s1.starcinemax.ru:2095/0009/index.m3u8?token=SGFtYXJ8fE1USXpORFUy
-
-
 #EXTINF:0,Русская Комедия
 #EXTGRP: кино
 http://92.118.134.244:8001/play/Komedia/index.m3u8
@@ -195,10 +184,10 @@ http://193.242.190.6:8099/88/index.m3u8
 
 #EXTINF:0,CineMan
 #EXTGRP: кино
-http://ip1.orgip.net/682/video.m3u8?token=Md7ac19a92
+http://77.235.1.17/tv100_action/index.m3u8
 #EXTINF:0,CineMan Top
 #EXTGRP: кино
-http://ip1.orgip.net/683/video.m3u8?token=Md7ac19a92
+http://77.235.1.17/tv100_top/index.m3u8
 #EXTINF:0,CineMan Premium
 #EXTGRP: кино
 http://ip1.orgip.net/1664/video.m3u8?token=Md7ac19a92
