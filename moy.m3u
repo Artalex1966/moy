@@ -156,6 +156,9 @@ http://91.207.114.220:9001/play/a07w/index.m3u8
 #EXTINF:0,Крепкое кино
 #EXTGRP: кино
 http://91.207.114.220:9001/play/a0d6/index.m3u8
+#EXTINF:0,Тайна
+#EXTGRP: кино
+https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/playlist.m3u8
 
 #EXTINF:0,1FILMAX
 #EXTGRP: кино
