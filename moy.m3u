@@ -17,7 +17,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_6.m3u8?md5=W6raTsUhUtCrfXxJhlbyeA&e=1728981396&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
@@ -94,12 +94,6 @@ http://91.207.114.220:9001/play/a0aq/index.m3u8
 #EXTINF:0, СОВЕТСКИЕ ФИЛЬМЫ
 #EXTGRP: кино
 https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwODkzMTAxOCIsImV4cCI6MTcyOTQwODAyOSwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI4ODAzMjI5LCJzZXNzaW9uX2lkIjoiZDQzMTVhYTQ2MDNmNGFlNDIxM2QzZTU1NjJhYTdlMWQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.WhRO8CUOMpnt2i8XnYP2d2qHSltOUpTnuNo5tapm-PY
-#EXTINF:0,Liberty Союз 4K
-#EXTGRP: кино
-http://cdn.ottg.app/4195/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
-#EXTINF:0,Clarity4K Кино CCCР
-#EXTGRP: кино
-http://cdn.ottg.app/7890/mpegts?token=228fbce7ed921f331e2146af95e2e228
 #EXTINF:0,Старые фильмы
 #EXTGRP: кино
 http://persik.by:80/stream/8330/207094/11147.m3u8
@@ -136,13 +130,10 @@ http://141.95.55.143/CH521/index.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://s1.starcinemax.ru:2095/channel_889/index.m3u8?token=WmFyaWt8fE1USXpORFUy
-#EXTINF:0,Наше любимое HD
-#EXTGRP: кино
-http://cdn.ottg.tv/8420/video.m3u8?username=alex02354&password=247820&token=9c6b7707197dd7d28d9effe37ae9fdd6&ch_id=480&req_host=pkjX3BL
 
 #EXTINF:0,Русская Комедия
 #EXTGRP: кино
-http://92.118.134.244:8001/play/Komedia/index.m3u8
+http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
 http://91.205.199.3/komedia/index.m3u8
@@ -187,7 +178,7 @@ http://193.242.190.6:8099/88/index.m3u8
 
 #EXTINF:0,CineMan
 #EXTGRP: кино
-http://77.235.1.17/tv100_action/index.m3u8
+https://cdntv.online/high/wmpj4zsahc/1255.m3u8
 #EXTINF:0,CineMan Top
 #EXTGRP: кино
 http://77.235.1.17/tv100_top/index.m3u8
@@ -199,7 +190,7 @@ http://ip1.orgip.net/1664/video.m3u8?token=Md7ac19a92
 http://ip1.orgip.net/686/video.m3u8?token=Md7ac19a92
 #EXTINF:0,CineMan Action HD
 #EXTGRP: кино
-http://ip1.orgip.net/689/video.m3u8?token=Md7ac19a92
+http://77.235.1.17/tv100_action/index.m3u8
 #EXTINF:0,CineMan Катастрофы
 #EXTGRP: кино
 http://ip1.orgip.net/693/video.m3u8?token=Md7ac19a92
@@ -236,19 +227,19 @@ http://91.205.199.3:80/vipcomedi/index.m3u8
 
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
-http://185.112.140.28:8080/Nashe_Novoe_Kino/index.m3u8
+http://91.205.199.3/nashenovoekino/index.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
-http://185.112.140.28:8080/Rodnoe_Kino/index.m3u8
+http://91.194.191.241:8081/chid471/tracks-v1a1/mono.m3u8
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
-http://91.207.114.220:9001/play/a04t/index.m3u8
+http://91.194.191.241:8081/chid462/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
-http://185.112.140.28:8080/Kinopremera/index.m3u8
+http://flu.ttk.mx:90/Kinopremiera/mono.m3u8?token=hs06e
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-http://91.207.114.220:9001/play/a0d3/index.m3u8
+http://31.47.199.45:1400/kinoxit/index.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
 https://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
@@ -260,7 +251,7 @@ http://193.242.190.6:8099/85/index.m3u8
 http://s5.merlive.am:80/Kinokomedia/index.m3u8
 #EXTINF:0,Киносвидание
 #EXTGRP: кино
-http://185.112.140.28:8080/Kinosvidanie/index.m3u8
+http://65.21.85.175:8000/play/a01a/index.m3u8?token=livetv
 #EXTINF:0,Киносерия
 #EXTGRP: кино
 https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
