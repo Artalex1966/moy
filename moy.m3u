@@ -100,6 +100,9 @@ http://persik.by:80/stream/8330/207094/11147.m3u8
 #EXTINF:0,Советские сериалы
 #EXTGRP: кино
 http://persik.by:80/stream/8330/207094/11031.m3u8
+#EXTINF:0,Советские комедии
+#EXTGRP: кино
+http://persik.by:80/stream/8330/207094/10750.m3u8
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
 http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
@@ -130,6 +133,9 @@ http://141.95.55.143/CH521/index.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://s1.starcinemax.ru:2095/channel_889/index.m3u8?token=WmFyaWt8fE1USXpORFUy
+#EXTINF:0,Наше любимое HD
+#EXTGRP: кино
+http://cdn.ottg.app/8420/mpegts?token=228fbce7ed921f331e2146af95e2e228
 
 #EXTINF:0,Русская Комедия
 #EXTGRP: кино
@@ -147,9 +153,6 @@ http://91.207.114.220:9001/play/a07w/index.m3u8
 #EXTINF:0,Крепкое кино
 #EXTGRP: кино
 http://91.207.114.220:9001/play/a0d6/index.m3u8
-#EXTINF:0,Тайна
-#EXTGRP: кино
-https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/playlist.m3u8
 
 #EXTINF:0,1FILMAX
 #EXTGRP: кино
@@ -167,6 +170,12 @@ http://persik.by:80/stream/8330/207094/10715.m3u8
 #EXTINF:0,Fresh Fantastic HD
 #EXTGRP: кино
 http://1.1usd.tv:34000/ch1725/mono.m3u8?token=papouxris.zuow05M-C_zQJQ7KerCml1gTpunSalppULSYZts0Nfj2ZlgYQ3eJ33JFusBZcED3
+#EXTINF:0,MM UFO HD
+#EXTGRP: кино
+http://ost.da-tv.vip/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8yMTMuMTM3Ljg0LjEyMTo4ODg3Lzg0MTAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjdlNzRlOTQ4IiwicCI6IjdlNzRlOTQ4YWUyM2YxNWQiLCJjIjoiNjQ0IiwidCI6IjBhZjIxMTE1ODU5NGQzMmViNjIxMGUyMjBkYWQzMWEyIiwiZCI6IjU0NTI4IiwiciI6IjU1NjY4IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzIxMy4xMzcuODQuMTE1Ojg4ODcvODQxMC92aWRlby5tM3U4P3R/video.m3u8
+#EXTINF:0,MM Фантастика HD
+#EXTGRP: кино
+http://cdn.ottg.app/6901/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 
 
 #EXTINF:0,Cinema
