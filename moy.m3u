@@ -106,9 +106,9 @@ http://persik.by:80/stream/8330/207094/10750.m3u8
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
 http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
-#EXTINF:0,VeleS Кинопленка
+#EXTINF:0,KLI СССР HD
 #EXTGRP: кино
-http://1.1usd.tv:34000/ch2592/mono.m3u8?token=papouxris.zuow05M-C_zQJQ7KerCml7IAt66eowc6ad4GVu_wJHxNmR-oSnx9uFG-SdS_SmRM
+http://ip1.orgip.net/1600/video.m3u8?token=Md7ac19a92
 
 #EXTINF:0,Ретро
 #EXTGRP: кино
