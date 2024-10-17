@@ -129,10 +129,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/EBBDX25MF7G6MC/13037/index.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
-http://141.95.55.143/CH521/index.m3u8
-#EXTINF:0,Наше любимое HD
-#EXTGRP: кино
-http://s1.starcinemax.ru:2095/channel_889/index.m3u8?token=WmFyaWt8fE1USXpORFUy
+http://86.57.198.251:8181/play/1031/index.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://cdn.ottg.app/8420/mpegts?token=228fbce7ed921f331e2146af95e2e228
@@ -188,6 +185,9 @@ http://193.242.190.6:8099/88/index.m3u8
 #EXTINF:0,CineMan
 #EXTGRP: кино
 https://cdntv.online/high/wmpj4zsahc/1255.m3u8
+#EXTINF:0,CineMan
+#EXTGRP: кино
+http://ott.server-iptv.live/682/video.m3u8?token=M4f082ab4c
 #EXTINF:0,CineMan Top
 #EXTGRP: кино
 http://77.235.1.17/tv100_top/index.m3u8
@@ -202,7 +202,7 @@ http://ip1.orgip.net/686/video.m3u8?token=Md7ac19a92
 http://77.235.1.17/tv100_action/index.m3u8
 #EXTINF:0,CineMan Катастрофы
 #EXTGRP: кино
-http://ip1.orgip.net/693/video.m3u8?token=Md7ac19a92
+http://ott.server-iptv.live/693/video.m3u8?token=M4f082ab4c
 
 #EXTINF:0,The X-Files
 #EXTGRP: кино
