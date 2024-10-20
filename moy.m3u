@@ -103,9 +103,9 @@ http://persik.by:80/stream/8330/207094/10750.m3u8
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
 http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
-#EXTINF:0,KLI СССР HD
+#EXTINF:0,MM Воронины HD
 #EXTGRP: кино
-http://ip1.orgip.net/1600/video.m3u8?token=M4f082ab4c
+http://cdn.ottg.app/3466/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
 
 #EXTINF:0,Ретро
 #EXTGRP: кино
