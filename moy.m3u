@@ -180,7 +180,7 @@ http://193.242.190.6:8099/88/index.m3u8
 
 #EXTINF:0,CineMan
 #EXTGRP: кино
-http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJsIjoiNjExOWRlMmIiLCJwIjoiNjExOWRlMmI5MGM4ZTYzYiIsImMiOiIxMDA2IiwidCI6IjU1ZWI5ZTg4MzU3ZGI4NmUxOWQ5NGViZDhkZWE0YTljIiwiZCI6IjI1NTU5MSIsInIiOiIyNjA5ODgiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzUwLjcuOTIuOTg6ODg4Ny84OTUyL2luZGV4Lm0zdTg_dG9rZW4/index.m3u8
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6IjhhM2FmYWJkIiwicCI6IjhhM2FmYWJkODQ0NTE5ZDQiLCJjIjoiMTAwNiIsInQiOiIyZjk3ZWU5Y2RmYTZmN2EwZjc1ZTgxNDBkMDUxODEyMiIsImQiOiIyOTA3NyIsInIiOiIyODg0NSIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4NjgvODk1Mi9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:0,CineMan
 #EXTGRP: кино
 http://ott.server-iptv.live/682/video.m3u8?token=M4f082ab4c
@@ -193,15 +193,16 @@ http://ip1.orgip.net/1664/video.m3u8?token=Md7ac19a92
 #EXTINF:0,CineMan Thriller
 #EXTGRP: кино
 http://ip1.orgip.net/686/video.m3u8?token=Md7ac19a92
+#EXTINF:0,CineMan Thriller
+#EXTGRP: кино
+http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJsIjoiNzhmNjQzMDIiLCJwIjoiNzhmNjQzMDIxOWU0ZmUxNiIsImMiOiIxMDA4IiwidCI6IjAzYWU0YzcwNGYyMDhiNmViMThmNGQ1ODRlOTdjN2U0IiwiZCI6IjI1NjIzNSIsInIiOiIyNjE2MTgiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzUwLjcuOTIuOTg6ODg4Ny84OTU0L2luZGV4Lm0zdTg_dG9rZW4/index.m3u8
 #EXTINF:0,CineMan Action HD
 #EXTGRP: кино
 http://77.235.1.17/tv100_action/index.m3u8
 #EXTINF:0,CineMan Катастрофы
 #EXTGRP: кино
 http://ott.server-iptv.live/693/video.m3u8?token=M4f082ab4c
-#EXTINF:0,MM Боевик Classic HD
-#EXTGRP: кино
-http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzIxMy4xMzcuODQuMTIxOjg4ODcvODQxMS90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiNjExOWRlMmIiLCJwIjoiNjExOWRlMmI5MGM4ZTYzYiIsImMiOiI3MTQiLCJ0IjoiNTVlYjllODgzNTdkYjg2ZTE5ZDk0ZWJkOGRlYTRhOWMiLCJkIjoiMjU1NTkxIiwiciI6IjI2MDk4OCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuOTIuOTg6ODg4Ny84NDExL2luZGV4Lm0zdTg_dG9rZW4/index.m3u8
+
 
 #EXTINF:0,The X-Files
 #EXTGRP: кино
