@@ -86,11 +86,10 @@ http://70a75805.rossteleccom.net/iptv/C7AKWHXW7C8DGP/13021/index.m3u8
 
 #EXTINF:0,Советское кино
 #EXTGRP: кино
-http://cdntv.online/low/pa3nc5dxwz/139.m3u8
+http://91.207.114.220:9001/play/a0aq/index.m3u8
 #EXTINF:0, СОВЕТСКИЕ ФИЛЬМЫ
 #EXTGRP: кино
 https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwODkzMTAxOCIsImV4cCI6MTcyOTkyOTUyNywiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI5MzI0NzI3LCJzZXNzaW9uX2lkIjoiZTU3OWQ0M2M5MDU3Nzk5NjU5Y2YxMzk2ZTk4ZmQxZTMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.hpQpgZb3k09pv4k41uu0zJolyMLpUuSooyv_2Biu1PY
-#EXTINF:0,Старые фильмы
 #EXTGRP: кино
 http://persik.by:80/stream/8330/207094/11147.m3u8
 #EXTINF:0,Советские сериалы
