@@ -306,6 +306,9 @@ http://77.235.1.17/galaxy/index.m3u8
 #EXTINF:0,КОСМОС
 #EXTGRP: Познавательное
 http://fs2.persik.by/Kosmo5/index.m3u8
+#EXTINF:0,Первый космический HD
+#EXTGRP: Познавательное
+http://stream01.vnet.am/Evrika/mono.m3u8
 
 #EXTINF:0,Discovery
 #EXTGRP: Познавательное
