@@ -163,9 +163,9 @@ https://hls.goodgame.ru/hls/204717.m3u8
 #EXTINF:0,Фантастика HD
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/187241.m3u8
-#EXTINF:0,Фантастика pers
+#EXTINF:0,Фантастика IPTVPLAY
 #EXTGRP: кино
-http://persik.by:80/stream/8330/207094/10715.m3u8
+http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:0,Fresh Fantastic HD
 #EXTGRP: кино
 http://u.vipl.one/high/im829n341u/1349.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
@@ -186,7 +186,7 @@ http://193.242.190.6:8099/88/index.m3u8
 
 #EXTINF:0,CineMan
 #EXTGRP: кино
-http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6IjhhM2FmYWJkIiwicCI6IjhhM2FmYWJkODQ0NTE5ZDQiLCJjIjoiMTAwNiIsInQiOiIyZjk3ZWU5Y2RmYTZmN2EwZjc1ZTgxNDBkMDUxODEyMiIsImQiOiIyOTA3NyIsInIiOiIyODg0NSIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4NjgvODk1Mi9pbmRleC5tM3U4P3R/index.m3u8
+http://77.235.1.17/tv100_action/index.m3u8
 #EXTINF:0,CineMan
 #EXTGRP: кино
 http://ott.server-iptv.live/682/video.m3u8?token=M4f082ab4c
