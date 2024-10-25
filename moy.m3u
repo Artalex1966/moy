@@ -104,10 +104,13 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/
 http://persik.by:80/stream/8330/207094/11031.m3u8
 #EXTINF:0,Советские комедии
 #EXTGRP: кино
-http://persik.by:80/stream/8330/207094/10750.m3u8
+http://fs2.persik.by/Soviet_Comedy11/index.m3u8
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
 http://dmi3y-tv.ru/hls/CH_SOVKLASSIKAHD.m3u8
+#EXTINF:0,Старое кино
+https://fs2.persik.by/Otechestvennoe3/index.m3u8
+
 #EXTINF:0,MM Воронины HD
 #EXTGRP: кино
 http://cdn.ottg.app/3466/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
@@ -201,13 +204,13 @@ http://ip1.orgip.net/1664/video.m3u8?token=Md7ac19a92
 http://ip1.orgip.net/686/video.m3u8?token=Md7ac19a92
 #EXTINF:0,CineMan Thriller
 #EXTGRP: кино
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJsIjoiNzhmNjQzMDIiLCJwIjoiNzhmNjQzMDIxOWU0ZmUxNiIsImMiOiIxMDA4IiwidCI6IjAzYWU0YzcwNGYyMDhiNmViMThmNGQ1ODRlOTdjN2U0IiwiZCI6IjI1NjIzNSIsInIiOiIyNjE2MTgiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzUwLjcuOTIuOTg6ODg4Ny84OTU0L2luZGV4Lm0zdTg_dG9rZW4/index.m3u8
+http://ott.server-iptv.live/686/video.m3u8?token=S793FB1732
 #EXTINF:0,CineMan Action HD
 #EXTGRP: кино
 http://77.235.1.17/tv100_action/index.m3u8
 #EXTINF:0,CineMan Катастрофы
 #EXTGRP: кино
-http://ott.server-iptv.live/693/video.m3u8?token=M4f082ab4c
+http://ott.server-iptv.live/693/video.m3u8?token=S793FB1732
 
 
 #EXTINF:0,The X-Files
