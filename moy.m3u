@@ -46,6 +46,9 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0,Кино 1
+#EXTGRP: кино
+http://s1.starcinemax.ru:2095/channel_990/index.m3u8?token=SU5HQTc3NzcyMXx8TmpJMk1qUTA=
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -86,12 +89,16 @@ http://70a75805.rossteleccom.net/iptv/C7AKWHXW7C8DGP/13021/index.m3u8
 
 #EXTINF:0,Советское кино
 #EXTGRP: кино
+http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:0,Советское
+#EXTGRP: кино
 http://91.207.114.220:9001/play/a0aq/index.m3u8
+#EXTINF:0,Советское родное
+#EXTGRP: кино
+http://91.207.114.220:9001/play/a0af/index.m3u8
 #EXTINF:0, СОВЕТСКИЕ ФИЛЬМЫ
 #EXTGRP: кино
 https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwODkzMTAxOCIsImV4cCI6MTcyOTkyOTUyNywiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI5MzI0NzI3LCJzZXNzaW9uX2lkIjoiZTU3OWQ0M2M5MDU3Nzk5NjU5Y2YxMzk2ZTk4ZmQxZTMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.hpQpgZb3k09pv4k41uu0zJolyMLpUuSooyv_2Biu1PY
-#EXTGRP: кино
-http://persik.by:80/stream/8330/207094/11147.m3u8
 #EXTINF:0,Советские сериалы
 #EXTGRP: кино
 http://persik.by:80/stream/8330/207094/11031.m3u8
@@ -100,7 +107,7 @@ http://persik.by:80/stream/8330/207094/11031.m3u8
 http://persik.by:80/stream/8330/207094/10750.m3u8
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
-http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
+http://dmi3y-tv.ru/hls/CH_SOVKLASSIKAHD.m3u8
 #EXTINF:0,MM Воронины HD
 #EXTGRP: кино
 http://cdn.ottg.app/3466/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
@@ -319,6 +326,9 @@ http://dmitry-tv.ddns.net/hls/CH_NAUKA20.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:0,Ushba TV-Документалка 3
+#EXTGRP: Познавательное
+https://rpn3.bozztv.com/dvrfl07/ushba38/tracks-v1a1/mono.m3u8
 
 #EXTINF:0, National Geographic
 #EXTGRP: Познавательное
@@ -476,12 +486,12 @@ http://kino-1.catcast.tv/content/37739/index.m3u8
 
 ---
 
-#EXTINF:0,Gameplay AhiLpnz
+#EXTINF:0,Gameplay
 #EXTGRP: игры
-https://hls.goodgame.ru/hls/2022.m3u8
-#EXTINF:0,Gameplay dAcentTV
+https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
+#EXTINF:0,Gameplay трейлеры  
 #EXTGRP: игры
-https://hls.goodgame.ru/manifest/1850_master.m3u8
+https://fl1001.bozztv.com/ushba44/index.m3u8
 #EXTINF:0,E TV
 #EXTGRP: игры
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
