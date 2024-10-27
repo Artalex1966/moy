@@ -87,10 +87,21 @@ http://rhsbjv7k.tvclub.xyz/iptv/54KGS8CCN6BZGC/13021/index.m3u8
 #EXTGRP: кино
 http://70a75805.rossteleccom.net/iptv/C7AKWHXW7C8DGP/13021/index.m3u8
 
+#EXTINF:0,Prokop TV Сказки СССР
+#EXTGRP: кино
+http://rr3.vipshara-iptv.com/~205cc0ee1d91b209055eb8d4d2a608d5c8c/73664/hls/pl.m3u8
 #EXTINF:0,Советское кино
 #EXTGRP: кино
 http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-
+#EXTINF:0,Советская Кинокласика HD
+#EXTGRP: кино
+http://rr3.vipshara-iptv.com/~205cc0ee1d91b209055eb8d4d2a608d5c8c/83621/hls/pl.m3u8
+#EXTINF:0,VF Фильмы СССР
+#EXTGRP: кино
+http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/10085/index.m3u8
+#EXTINF:0,Кинозал! СССР
+#EXTGRP: кино
+http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/11061/index.m3u8
 
 #EXTINF:0,MM Воронины HD
 #EXTGRP: кино
@@ -498,7 +509,77 @@ https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:0,СитиЭдем КиноЭкшен
 #EXTGRP: кино
 https://v2.catcast.tv/content/41333/index.m3u8
-
+==========================
+#EXTINF:-1 group-title="Usba TV",Кинозалы 3
+https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 4
+https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 5
+https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 6
+https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 7
+https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 8
+https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 9
+https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 10
+https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 11
+https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 12
+https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 13
+https://fl1001.bozztv.com/ushba-films-j/index.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 14
+https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 15
+https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 16
+https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 17
+https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 18
+https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 19
+https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 20
+https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 21
+https://fl1001.bozztv.com/ushba-films-o/index.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 22
+https://fl1001.bozztv.com/ushba-films-s/index.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 23
+https://fl1001.bozztv.com/ushba-films-w/index.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 24
+https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 25
+https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 26
+https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 27
+https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 28
+https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 29
+https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 30
+https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 31
+https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 32
+https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 33
+https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 34
+https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 35
+https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 36
+https://fl1001.bozztv.com/ushba64/index.m3u8
+#EXTINF:-1 group-title="Usba TV",Кинозалы 37
+https://fl1001.bozztv.com/ushba65/index.m3u8
 ======================
 #EXTINF:0,Сеть приколов
 #EXTGRP: кино
