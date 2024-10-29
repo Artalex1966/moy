@@ -131,6 +131,15 @@ http://93.189.224.24/Kinokomediya/index.m3u8
 #EXTINF:0,Камеди
 #EXTGRP: кино
 http://185.23.80.28:8080/Camedi/index.m3u8?token=test
+#EXTINF:0,Кино Комедия
+#EXTGRP: кино
+https://v2.catcast.tv/content/41331/index.m3u8
+#EXTINF:0,Кино Детектиив
+#EXTGRP: кино
+https://v2.catcast.tv/content/41327/index.m3u8
+#EXTINF:0,Кино Экшин
+#EXTGRP: кино
+https://v2.catcast.tv/content/41333/index.m3u8
 
 #EXTINF:0,1FILMAX
 #EXTGRP: кино
@@ -138,6 +147,7 @@ https://hls.goodgame.ru/hls/204708_720.m3u8
 #EXTINF:0,2FILMAX
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/204717.m3u8
+
 
 #EXTINF:0,Мировое Кино
 #EXTGRP: кино
