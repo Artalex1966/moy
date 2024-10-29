@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz"
 
+#EXTINF:0,Известия Воронеж
+#EXTGRP: эфир
+http://185.23.80.28:8080/IzvestiyaVoronezh/index.m3u8?token=test
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
@@ -87,26 +90,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/54KGS8CCN6BZGC/13021/index.m3u8
 #EXTGRP: кино
 http://70a75805.rossteleccom.net/iptv/C7AKWHXW7C8DGP/13021/index.m3u8
 
-#EXTINF:0,Prokop TV Сказки СССР
+#EXTINF:0,Советская Киноклассика
 #EXTGRP: кино
-http://rr3.vipshara-iptv.com/~205cc0ee1d91b209055eb8d4d2a608d5c8c/73664/hls/pl.m3u8
-#EXTINF:0,Советское кино
-#EXTGRP: кино
-http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:0,Советская Кинокласика HD
-#EXTGRP: кино
-http://rr3.vipshara-iptv.com/~205cc0ee1d91b209055eb8d4d2a608d5c8c/83621/hls/pl.m3u8
-#EXTINF:0,VF Фильмы СССР
-#EXTGRP: кино
-http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/10085/index.m3u8
-#EXTINF:0,Кинозал! СССР
-#EXTGRP: кино
-http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/11061/index.m3u8
-
-#EXTINF:0,MM Воронины HD
-#EXTGRP: кино
-http://cdn.ottg.app/3466/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
-
+http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
 #EXTINF:0,Ретро
 #EXTGRP: кино
 http://stream2.cinerama.uz:80/1047/manifest.m3u8
@@ -114,8 +100,9 @@ http://stream2.cinerama.uz:80/1047/manifest.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://185.50.148.2:7707/DomKino/index.m3u8
-
-
+#EXTINF:0,Русский Детектив
+#EXTGRP: кино
+http://91.194.191.241:8081/chid82/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
@@ -138,15 +125,12 @@ http://91.142.158.107:8092/play/30/index.m3u8
 #EXTGRP: кино
 http://91.205.199.3/komedia/index.m3u8
 
-#EXTINF:0,Кинокомедия2
+#EXTINF:0,Кинокомедия 2
 #EXTGRP: кино
 http://93.189.224.24/Kinokomediya/index.m3u8
-#EXTINF:0,КиноКомедия
+#EXTINF:0,Камеди
 #EXTGRP: кино
-https://autopilot.catcast.tv/content/41331/index.m3u8
-#EXTINF:0,Крепкое кино
-#EXTGRP: кино
-http://91.207.114.220:9001/play/a0d6/index.m3u8
+http://185.23.80.28:8080/Camedi/index.m3u8?token=test
 
 #EXTINF:0,1FILMAX
 #EXTGRP: кино
@@ -155,22 +139,9 @@ https://hls.goodgame.ru/hls/204708_720.m3u8
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/204717.m3u8
 
-#EXTINF:0,Фантастика HD
+#EXTINF:0,Мировое Кино
 #EXTGRP: кино
-https://hls.goodgame.ru/hls/187241.m3u8
-#EXTINF:0,Фантастика IPTVPLAY
-#EXTGRP: кино
-http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,Fresh Fantastic HD
-#EXTGRP: кино
-http://u.vipl.one/high/im829n341u/1349.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:0,MM UFO HD
-#EXTGRP: кино
-http://ost.da-tv.vip/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8yMTMuMTM3Ljg0LjEyMTo4ODg3Lzg0MTAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjdlNzRlOTQ4IiwicCI6IjdlNzRlOTQ4YWUyM2YxNWQiLCJjIjoiNjQ0IiwidCI6IjBhZjIxMTE1ODU5NGQzMmViNjIxMGUyMjBkYWQzMWEyIiwiZCI6IjU0NTI4IiwiciI6IjU1NjY4IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzIxMy4xMzcuODQuMTE1Ojg4ODcvODQxMC92aWRlby5tM3U4P3R/video.m3u8
-#EXTINF:0,MM Фантастика HD
-#EXTGRP: кино
-http://cdn.ottg.app/6901/video.m3u8?token=228fbce7ed921f331e2146af95e2e228
-
+http://77.235.1.17/mirovoe_kino/index.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
@@ -258,7 +229,7 @@ https://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 http://193.242.190.6:8099/85/index.m3u8
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
-http://s5.merlive.am:80/Kinokomedia/index.m3u8
+http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 #EXTINF:0,Киносвидание
 #EXTGRP: кино
 http://65.21.85.175:8000/play/a01a/index.m3u8?token=livetv
@@ -305,9 +276,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/NRZVSN7WGR2LW3/13082/index.m3u8
 #EXTINF:0,Galaxy
 #EXTGRP: Познавательное
 http://77.235.1.17/galaxy/index.m3u8
-#EXTINF:0,КОСМОС
-#EXTGRP: Познавательное
-http://fs2.persik.by/Kosmo5/index.m3u8
+
 #EXTINF:0,Первый космический HD
 #EXTGRP: Познавательное
 http://stream01.vnet.am/Evrika/mono.m3u8
@@ -321,9 +290,6 @@ http://dmitry-tv.ddns.net/hls/CH_NAUKA20.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 http://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:0,Ushba TV-Документалка 3
-#EXTGRP: Познавательное
-https://rpn3.bozztv.com/dvrfl07/ushba38/tracks-v1a1/mono.m3u8
 
 #EXTINF:0, National Geographic
 #EXTGRP: Познавательное
@@ -337,14 +303,16 @@ http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 
 #EXTINF:0,Кто Есть Кто
 #EXTGRP: Познавательное
-http://91.207.114.220:9001/play/a02u/index.m3u8
-
+http://93.125.121.75:80/Ktoestkto/index.m3u8?token=test
+#EXTINF:0,Арсенал
+#EXTGRP: Познавательное
+http://93.125.121.75:80/Arsenal/index.m3u8?token=test
 #EXTINF:0,Авто 24
 #EXTGRP: Познавательное
 http://91.205.199.3:80/avto24/index.m3u8
 #EXTINF:0,Авто плюс
 #EXTGRP: Познавательное
-http://94.232.104.237:8011/avtoplus/index.m3u8
+http://93.125.121.75:80/AutoPlus/index.m3u8?token=test
 
 #EXTINF:0,История
 #EXTGRP: Познавательное
@@ -405,7 +373,7 @@ http://s83.chas.tv:8081/chas/sovmulttv.stream/playlist.m3u8
 http://flu.ttk.mx:90/O!/mono.m3u8?token=hs06e
 #EXTINF:0,Мама
 #EXTGRP: Детский
-http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwODkzMTAxOCIsImV4cCI6MTcyODEzNTQ5MiwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI3NTMwNjkyLCJzZXNzaW9uX2lkIjoiMDg3NDdiMWJlNDg0YzYyYTljZGYwM2FhZDA5NGYwZDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DyEzaLk6kQP5-3x_Gzy574ZvrDb53C9yPuEaMM3BmC0
+http://93.125.121.75:80/Mama/index.m3u8?token=test
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
 http://195.26.83.96:7007/play/14/index.m3u8
@@ -420,7 +388,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 #EXTINF:0,Cупергерои
 #EXTGRP: Детский
-http://91.207.115.228:12000/play/a01y
+http://65.21.85.175:8000/play/a01r/index.m3u8?token=livetv
 #EXTINF:0,Уникум
 #EXTGRP: Детский
 http://stream2.cinerama.uz/1033/tracks-v1a1/mono.m3u8
@@ -448,9 +416,9 @@ http://stream2.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:0,Tiji
 #EXTGRP: Детский
 https://stream1.cinerama.uz/1441/tracks-v1a1/mono.m3u8
-#EXTINF:0,TimTam
+#EXTINF:0,Gulli Girl
 #EXTGRP: Детский
-http://1.1usd.tv:34000/ch484/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHoORQKsoM2sKfGp9Iv0pDl11rKg07Qmyr4Lsj1Ah2ZA
+https://stream1.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
 http://91.205.199.3/stskids/index.m3u8
