@@ -120,7 +120,7 @@ http://cdn.ottg.app/8420/mpegts?token=228fbce7ed921f331e2146af95e2e228
 
 #EXTINF:0,Русская Комедия
 #EXTGRP: кино
-http://91.142.158.107:8092/play/30/index.m3u8
+http://80.94.225.126:8080/Komedia/mono.m3u8?token=test
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
 http://91.205.199.3/komedia/index.m3u8
@@ -367,7 +367,7 @@ http://195.9.195.3:8080/hls/198446.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:0,Советские мультфильмы
 #EXTGRP: Детский
-http://s83.chas.tv:8081/chas/sovmulttv.stream/playlist.m3u8
+http://cdntv.online/low/pa3nc5dxwz/165.m3u8
 #EXTINF:0,O!
 #EXTGRP: Детский
 http://flu.ttk.mx:90/O!/mono.m3u8?token=hs06e
