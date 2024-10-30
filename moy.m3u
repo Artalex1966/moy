@@ -90,9 +90,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/6UZ4235HMG3ED8ARAX59DV3U/13021/index.m3u8
 #EXTGRP: кино
 http://70a75805.rossteleccom.net/iptv/C7AKWHXW7C8DGP/13021/index.m3u8
 
-#EXTINF:0,Советская Киноклассика
+#EXTINF:0,KLI СССР HD
 #EXTGRP: кино
-http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
+http://ip1.orgip.net/1602/video.m3u8?token=A3b61a999e
 #EXTINF:0,Ретро
 #EXTGRP: кино
 http://stream2.cinerama.uz:80/1047/manifest.m3u8
