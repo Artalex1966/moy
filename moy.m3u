@@ -96,9 +96,13 @@ http://fqanl4sz.megogo.xyz/iptv/2SCMD9QMLSXZLM/11061/index.m3u8
 #EXTGRP: кино
 http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11061/index.m3u8
 
+#EXTINF:0,BCU СССР HD
+#EXTGRP: кино
+http://cdn.troya.one:80/ch789/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iESYHi8H0mgxvHMU-NqwBZ45sRr27a62bo1FQ4ofdkv-
+
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
-http://bc5474cc.edemist.com/iptv/7LNPRS4449MZZZ/13037/index.m3u8
+http://ydxkbt7s.rostelekom.xyz/iptv/32DWU6HCEVANYGKGG5KWPYXZ/13037/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/EBBDX25MF7G6MC/13037/index.m3u8
