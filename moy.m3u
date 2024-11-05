@@ -96,6 +96,10 @@ http://fqanl4sz.megogo.xyz/iptv/2SCMD9QMLSXZLM/11061/index.m3u8
 #EXTGRP: кино
 http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11061/index.m3u8
 
+#EXTINF:0, Советская киноклассика HD
+#EXTGRP: кино
+http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://cdn.troya.one:80/ch789/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iESYHi8H0mgxvHMU-NqwBZ45sRr27a62bo1FQ4ofdkv-
@@ -204,7 +208,7 @@ http://bde77664.edmonst.net/iptv/BTFUKQRZMDVNUZ/11055/index.m3u8
 
 #EXTINF:0,viju TV1000 Action
 #EXTGRP: кино
-http://91.205.199.3:80/tv1000action/index.m3u8
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
 http://193.242.190.6:8099/201/index.m3u8
@@ -213,13 +217,13 @@ http://193.242.190.6:8099/201/index.m3u8
 http://193.242.190.6:8099/200/index.m3u8
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-http://193.242.190.6:8099/202/index.m3u8
+http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
 
 ==
 
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
-http://91.205.199.3/nashenovoekino/index.m3u8
+http://178.212.71.253:8002/play/a00i/index.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
 http://91.194.191.241:8081/chid471/tracks-v1a1/mono.m3u8
@@ -228,10 +232,10 @@ http://91.194.191.241:8081/chid471/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid462/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
-http://flu.ttk.mx:90/Kinopremiera/mono.m3u8?token=hs06e
+http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-http://31.47.199.45:1400/kinoxit/index.m3u8
+http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
 https://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
@@ -406,12 +410,12 @@ http://stream2.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
 http://185.50.148.2:7706/Mult/index.m3u8
-#EXTINF:0,Лёва
+#EXTINF:0,Лёва HD
 #EXTGRP: Детский
-http://91.205.199.3/planb/index.m3u8
+http://ott.server-iptv.live/526/video.m3u8?token=S793FB1732
 #EXTINF:0,Мультиландия
 #EXTGRP: Детский
-http://91.205.199.3/multilandia/index.m3u8
+http://ott.server-iptv.live/516/video.m3u8?token=S793FB1732
 #EXTINF:0,МУЛЬТИМАНИЯ
 #EXTGRP: Детский
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
@@ -432,7 +436,7 @@ https://stream1.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
-http://91.205.199.3/stskids/index.m3u8
+http://ott.server-iptv.live/517/video.m3u8?token=S793FB1732
 #EXTINF:0,CARTOON NETWORK
 #EXTGRP: Детский
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
