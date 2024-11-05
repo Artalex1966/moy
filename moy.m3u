@@ -134,7 +134,9 @@ http://91.194.191.241:8081/chid66/tracks-v1a1/mono.m3u8
 #EXTGRP: кино
 http://91.194.191.241:8081/chid471/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:0,MM Воронины HD
+#EXTGRP: кино
+http://de.seetv.cc/play/6020/F1BD4684AC1DC4F/video.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
 http://86.57.198.251:8181/play/1031/index.m3u8
