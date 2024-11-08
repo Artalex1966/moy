@@ -96,13 +96,13 @@ http://fqanl4sz.megogo.xyz/iptv/2SCMD9QMLSXZLM/11061/index.m3u8
 #EXTGRP: кино
 http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11061/index.m3u8
 
+#EXTINF:0,CineMan CCCP 4K
+#EXTGRP: кино
+http://ott.server-iptv.live/1602/video.m3u8?token=S793FB1732
 #EXTINF:0, Советская киноклассика HD
 #EXTGRP: кино
 http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,BCU СССР HD
-#EXTGRP: кино
-http://cdn.troya.one:80/ch789/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iESYHi8H0mgxvHMU-NqwBZ45sRr27a62bo1FQ4ofdkv-
 #EXTINF:0,Назад в СССР
 #EXTGRP: кино
 http://chiburator.monster:8000/play/M8kczz6Wg4jBY-gx33_H38YqL-Ry9nKuO2tfnSdkgeVo4I3MX45m2s3f7ogT-5vf/ts
@@ -146,9 +146,9 @@ http://91.194.191.241:8081/chid80/tracks-v1a1/mono.m3u8
 #EXTGRP: кино
 http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 
-#EXTINF:0,Кинокомедия 2
+#EXTINF:0,CineMan Комедийные сериалы
 #EXTGRP: кино
-http://93.189.224.24/Kinokomediya/index.m3u8
+http://ott.server-iptv.live/1604/video.m3u8?token=S793FB1732
 #EXTINF:0,Камеди
 #EXTGRP: кино
 http://185.23.80.28:8080/Camedi/index.m3u8?token=test
