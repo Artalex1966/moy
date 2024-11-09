@@ -96,12 +96,15 @@ http://fqanl4sz.megogo.xyz/iptv/2SCMD9QMLSXZLM/11061/index.m3u8
 #EXTGRP: кино
 http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11061/index.m3u8
 
-#EXTINF:0,CineMan CCCP 4K
+#EXTINF:0,KLI СССР HD
 #EXTGRP: кино
-http://ott.server-iptv.live/1602/video.m3u8?token=S793FB1732
+http://ip1.orgip.net/1600/video.m3u8?token=Md7ac19a92
 #EXTINF:0, Советская киноклассика HD
 #EXTGRP: кино
 http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
+#EXTINF:0, BCU Кинозал СССР
+#EXTGRP: кино
+http://50.7.92.98:8887/8875/index.m3u8
 
 #EXTINF:0,Назад в СССР
 #EXTGRP: кино
@@ -151,7 +154,7 @@ http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 http://ott.server-iptv.live/1604/video.m3u8?token=S793FB1732
 #EXTINF:0,CineMan Комедия
 #EXTGRP: кино
-https://tinyurl.com/55rh86zh/1262.m3u8
+http://ip1.orgip.net/691/video.m3u8?token=Md7ac19a92
 #EXTINF:0,Камеди
 #EXTGRP: кино
 http://185.23.80.28:8080/Camedi/index.m3u8?token=test
@@ -207,6 +210,9 @@ http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/11055/index.m3u8
 #EXTGRP: кино
 http://bde77664.edmonst.net/iptv/BTFUKQRZMDVNUZ/11055/index.m3u8
 
+#EXTINF:0,MM UFO HD
+#EXTGRP: кино
+http://50.7.92.98:8887/8410/video.m3u8
 
 
 #EXTINF:0,viju TV1000 Action
