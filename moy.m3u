@@ -149,6 +149,9 @@ http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 #EXTINF:0,CineMan Комедийные сериалы
 #EXTGRP: кино
 http://ott.server-iptv.live/1604/video.m3u8?token=S793FB1732
+#EXTINF:0,CineMan Комедия
+#EXTGRP: кино
+https://tinyurl.com/55rh86zh/1262.m3u8
 #EXTINF:0,Камеди
 #EXTGRP: кино
 http://185.23.80.28:8080/Camedi/index.m3u8?token=test
