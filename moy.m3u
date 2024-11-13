@@ -49,9 +49,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0,Кино 1
-#EXTGRP: кино
-http://s1.starcinemax.ru:2095/channel_990/index.m3u8?token=SU5HQTc3NzcyMXx8TmpJMk1qUTA=
+
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -99,14 +97,6 @@ http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11061/index.m3u8
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
 http://ip1.orgip.net/1600/video.m3u8?token=Md7ac19a92
-#EXTINF:0, Советская киноклассика HD
-#EXTGRP: кино
-http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
-#EXTINF:0,BCU СССР HD
-#EXTGRP: кино
-http://50.7.92.98:8887/8875/index.m3u8
-
-
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
@@ -171,6 +161,9 @@ http://77.235.1.17/cinema/index.m3u8
 #EXTINF:0,КИНО ТВ HD
 #EXTGRP: кино
 http://193.242.190.6:8099/88/index.m3u8
+#EXTINF:0,Остросюжетное HD
+#EXTGRP: кино
+http://ip1.orgip.net/604/video.m3u8?token=Md7ac19a92
 
 #EXTINF:0,CineMan
 #EXTGRP: кино
@@ -208,9 +201,9 @@ http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/11055/index.m3u8
 #EXTGRP: кино
 http://bde77664.edmonst.net/iptv/BTFUKQRZMDVNUZ/11055/index.m3u8
 
-#EXTINF:0,MM UFO HD
+#EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
-http://50.7.92.98:8887/8410/video.m3u8
+http://ip1.orgip.net/1606/video.m3u8?token=Md7ac19a92
 
 
 #EXTINF:0,viju TV1000 Action
