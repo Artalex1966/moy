@@ -56,7 +56,7 @@ https://v2.catcast.tv/content/38720/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/13019/index.m3u8
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/13019/index.m3u8
+http://ydxkbt7s.rostelekom.xyz/iptv/32DWU6HCEVANYGKGG5KWPYXZ/13019/index.m3u8
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/13096/index.m3u8
@@ -94,9 +94,7 @@ http://fqanl4sz.megogo.xyz/iptv/2SCMD9QMLSXZLM/11061/index.m3u8
 #EXTGRP: кино
 http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11061/index.m3u8
 
-#EXTINF:0,KLI СССР HD
-#EXTGRP: кино
-http://ip1.orgip.net/1600/video.m3u8?token=Md7ac19a92
+
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
@@ -112,18 +110,6 @@ http://stream2.cinerama.uz:80/1047/manifest.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://185.50.148.2:7707/DomKino/index.m3u8
-#EXTINF:0,Русский Детектив
-#EXTGRP: кино
-http://91.194.191.241:8081/chid82/tracks-v1a1/mono.m3u8
-#EXTINF:0,Русский Бестселлер
-#EXTGRP: кино
-http://65.21.85.175:8000/play/a00z/index.m3u8?token=livetv
-#EXTINF:0,Русский Роман
-#EXTGRP: кино
-http://91.194.191.241:8081/chid66/tracks-v1a1/mono.m3u8
-#EXTINF:0,Родное Кино
-#EXTGRP: кино
-http://91.194.191.241:8081/chid471/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0,Любимое кино
@@ -142,7 +128,7 @@ http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 http://ott.server-iptv.live/1604/video.m3u8?token=S793FB1732
 #EXTINF:0,CineMan Комедия
 #EXTGRP: кино
-http://ip1.orgip.net/691/video.m3u8?token=Md7ac19a92
+http://ott.server-iptv.live/691/video.m3u8?token=S793FB1732
 #EXTINF:0,Камеди
 #EXTGRP: кино
 http://185.23.80.28:8080/Camedi/index.m3u8?token=test
@@ -163,11 +149,9 @@ http://77.235.1.17/cinema/index.m3u8
 http://193.242.190.6:8099/88/index.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
-http://ip1.orgip.net/604/video.m3u8?token=Md7ac19a92
+http://ott.server-iptv.live/604/video.m3u8?token=S793FB1732
 
-#EXTINF:0,CineMan
-#EXTGRP: кино
-http://77.235.1.17/tv100_action/index.m3u8
+
 #EXTINF:0,CineMan
 #EXTGRP: кино
 http://ott.server-iptv.live/682/video.m3u8?token=M4f082ab4c
@@ -179,16 +163,14 @@ http://77.235.1.17/tv100_top/index.m3u8
 http://ip1.orgip.net/1664/video.m3u8?token=Md7ac19a92
 #EXTINF:0,CineMan Thriller
 #EXTGRP: кино
-http://ip1.orgip.net/686/video.m3u8?token=Md7ac19a92
-#EXTINF:0,CineMan Thriller
-#EXTGRP: кино
 http://ott.server-iptv.live/686/video.m3u8?token=S793FB1732
 #EXTINF:0,CineMan Action HD
 #EXTGRP: кино
 http://77.235.1.17/tv100_action/index.m3u8
+#EXTINF:0,CineMan
 #EXTINF:0,CineMan Катастрофы
 #EXTGRP: кино
-http://ott.server-iptv.live/693/video.m3u8?token=S793FB1732
+http://ott.server-iptv.live/693/video.m3u8?token=АЗЬ61а999е
 
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА HD
 #EXTGRP: кино
