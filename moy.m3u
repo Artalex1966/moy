@@ -110,7 +110,9 @@ http://stream2.cinerama.uz:80/1047/manifest.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://185.50.148.2:7707/DomKino/index.m3u8
-
+#EXTINF:0,Смотрим Кино и сериалы
+#EXTGRP: кино
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
@@ -121,7 +123,7 @@ http://86.57.198.251:8181/play/1031/index.m3u8
 http://91.194.191.241:8081/chid80/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
-http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
+http://94.230.128.105:8080/Kinokomedia_TV/index.m3u8
 
 #EXTINF:0,CineMan Комедийные сериалы
 #EXTGRP: кино
@@ -139,6 +141,12 @@ https://hls.goodgame.ru/hls/204708_720.m3u8
 #EXTINF:0,2FILMAX
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/204717.m3u8
+#EXTINF:0,FantasticMystiC
+#EXTGRP: кино
+https://hls.goodgame.ru/hls/187741.m3u8
+#EXTINF:0,Alpha Cinema
+#EXTGRP: кино
+http://hls.goodgame.ru/hls/205072.m3u8
 
 
 #EXTINF:0,Cinema
@@ -205,13 +213,13 @@ http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
 
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
-http://178.212.71.253:8002/play/a00i/index.m3u8
+http://stream2.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
-http://91.194.191.241:8081/chid471/tracks-v1a1/mono.m3u8
+http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
-http://91.194.191.241:8081/chid462/tracks-v1a1/mono.m3u8
+https://stream2.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
 http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
