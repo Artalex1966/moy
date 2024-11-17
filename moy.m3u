@@ -291,7 +291,7 @@ http://stream01.vnet.am/Evrika/mono.m3u8
 http://dmitry-tv.ddns.net/hls/CH_DISCOVERYCHANNELHD.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
-http://dmitry-tv.ddns.net/hls/CH_NAUKA20.m3u8
+http://185.23.80.28:8080/Nauka/index.m3u8?token=test
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 http://vod.tuva.ru/nauka2/index.m3u8
@@ -376,15 +376,12 @@ http://cdntv.online/low/pa3nc5dxwz/165.m3u8
 #EXTINF:0,O!
 #EXTGRP: Детский
 http://flu.ttk.mx:90/O!/mono.m3u8?token=hs06e
-#EXTINF:0,Мама
+#EXTINF:0,Ani
 #EXTGRP: Детский
-http://93.125.121.75:80/Mama/index.m3u8?token=test
+http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
 http://195.26.83.96:7007/play/14/index.m3u8
-#EXTINF:0,Наше Детство
-#EXTGRP: Детский
-http://91.207.115.228:12000/play/a04h
 #EXTINF:0,Карусель
 #EXTGRP: Детский
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
@@ -427,9 +424,9 @@ https://stream1.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
 http://ott.server-iptv.live/517/video.m3u8?token=S793FB1732
-#EXTINF:0,CARTOON NETWORK
+#EXTINF:0,Kids TV HD
 #EXTGRP: Детский
-http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:0,Пингвин Лоло
 #EXTGRP: Детский
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
