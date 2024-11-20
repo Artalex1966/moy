@@ -40,7 +40,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 http://77.235.1.17/mosfilm/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://5.134.87.10:8000/play/a0it/index.m3u8
+http://185.50.148.2:7706/Mosfilm/index.m3u8
 #EXTINF:0,Мосфильм +3
 http://193.242.190.6:8099/98/index.m3u8
 #EXTINF:0,Кино 1 International
@@ -110,9 +110,6 @@ http://stream2.cinerama.uz:80/1047/manifest.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://185.50.148.2:7707/DomKino/index.m3u8
-#EXTINF:0,Смотрим Кино и сериалы
-#EXTGRP: кино
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
@@ -120,17 +117,11 @@ http://86.57.198.251:8181/play/1031/index.m3u8
 
 #EXTINF:0,Русская Комедия
 #EXTGRP: кино
-http://91.194.191.241:8081/chid80/tracks-v1a1/mono.m3u8
+http://130.193.73.10:8937/play/a03k
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
 http://94.230.128.105:8080/Kinokomedia_TV/index.m3u8
 
-#EXTINF:0,CineMan Комедийные сериалы
-#EXTGRP: кино
-http://ott.server-iptv.live/1604/video.m3u8?token=S793FB1732
-#EXTINF:0,CineMan Комедия
-#EXTGRP: кино
-http://ott.server-iptv.live/691/video.m3u8?token=S793FB1732
 #EXTINF:0,Камеди
 #EXTGRP: кино
 http://185.23.80.28:8080/Camedi/index.m3u8?token=test
@@ -141,9 +132,6 @@ https://hls.goodgame.ru/hls/204708_720.m3u8
 #EXTINF:0,2FILMAX
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/204717.m3u8
-#EXTINF:0,FantasticMystiC
-#EXTGRP: кино
-https://hls.goodgame.ru/hls/187741.m3u8
 #EXTINF:0,Alpha Cinema
 #EXTGRP: кино
 http://hls.goodgame.ru/hls/205072.m3u8
