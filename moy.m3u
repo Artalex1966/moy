@@ -37,10 +37,10 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 ========
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://77.235.1.17/mosfilm/index.m3u8
+http://185.50.148.2:7706/Mosfilm/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://185.50.148.2:7706/Mosfilm/index.m3u8
+http://91.224.169.250:5000/c59
 #EXTINF:0,Мосфильм +3
 http://193.242.190.6:8099/98/index.m3u8
 #EXTINF:0,Кино 1 International
@@ -139,7 +139,7 @@ http://hls.goodgame.ru/hls/205072.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
-http://77.235.1.17/cinema/index.m3u8
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:0,КИНО ТВ HD
 #EXTGRP: кино
 http://193.242.190.6:8099/88/index.m3u8
