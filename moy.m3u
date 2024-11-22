@@ -139,7 +139,7 @@ http://hls.goodgame.ru/hls/205072.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
-http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:0,КИНО ТВ HD
 #EXTGRP: кино
 http://193.242.190.6:8099/88/index.m3u8
