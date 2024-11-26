@@ -68,7 +68,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/LY9PHWZHRXA5SE/13096/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/6UZ4235HMG3ED8ARAX59DV3U/13022/index.m3u8
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-http://fqanl4sz.megogo.xyz/iptv/2SCMD9QMLSXZLM/13022/index.m3u8
+http://944b77f6.rossteleccom.net/iptv/2ZMKXE6QT9W8WN/13022/index.m3u8
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/13018/index.m3u8
@@ -89,7 +89,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/6UZ4235HMG3ED8ARAX59DV3U/13021/index.m3u8
 http://70a75805.rossteleccom.net/iptv/C7AKWHXW7C8DGP/13021/index.m3u8
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
-http://fqanl4sz.megogo.xyz/iptv/2SCMD9QMLSXZLM/11061/index.m3u8
+http://944b77f6.rossteleccom.net/iptv/2ZMKXE6QT9W8WN/11061/index.m3u8
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
 http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11061/index.m3u8
@@ -98,7 +98,7 @@ http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11061/index.m3u8
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
-http://ydxkbt7s.rostelekom.xyz/iptv/32DWU6HCEVANYGKGG5KWPYXZ/13037/index.m3u8
+http://t2hyov41.russtv.net/iptv/XZ4GQ2XHLGEVTH/13037/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/EBBDX25MF7G6MC/13037/index.m3u8
@@ -207,7 +207,7 @@ http://stream2.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
-https://stream2.cinerama.uz/1237/tracks-v1a1/mono.m3u8
+https://flussonic.salomtv.uz/Mujskoe-KinoHD/video.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
 http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
@@ -216,7 +216,7 @@ http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
 http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
-https://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
+http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 #EXTINF:0,Киносемья
 #EXTGRP: кино
 http://193.242.190.6:8099/85/index.m3u8
@@ -228,7 +228,7 @@ http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 http://65.21.85.175:8000/play/a01a/index.m3u8?token=livetv
 #EXTINF:0,Киносерия
 #EXTGRP: кино
-https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
 ---
 
 
@@ -247,7 +247,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/17006/index.m3u8
 http://qwerty.akadatel.com/iptv/6AE5A2A5943RBL/14230/index.m3u8
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
-http://29c1ef7c.ottolok.net/iptv/2KMVT66NHS47VK/14230/index.m3u8
+http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/14230/index.m3u8
 #EXTINF:0,VF Универ
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/NRZVSN7WGR2LW3/13084/index.m3u8
@@ -397,21 +397,12 @@ http://ott.server-iptv.live/516/video.m3u8?token=S793FB1732
 #EXTINF:0,МУЛЬТИМАНИЯ
 #EXTGRP: Детский
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
-#EXTINF:0,Солнце
-#EXTGRP: Детский
-http://91.205.199.3/disney/index.m3u8
 #EXTINF:0,В гостях у сказки
 #EXTGRP: Детский
 http://cdn.ottg.tv/9375/video.m3u8?username=alex02354&password=247820&token=9c6b7707197dd7d28d9effe37ae9fdd6&ch_id=319&req_host=pkjX3BL
 #EXTINF:0,Рыжий
 #EXTGRP: Детский
 http://stream2.cinerama.uz/1407/tracks-v1a1/mono.m3u8
-#EXTINF:0,Tiji
-#EXTGRP: Детский
-https://stream1.cinerama.uz/1441/tracks-v1a1/mono.m3u8
-#EXTINF:0,Gulli Girl
-#EXTGRP: Детский
-https://stream1.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
 http://ott.server-iptv.live/517/video.m3u8?token=S793FB1732
