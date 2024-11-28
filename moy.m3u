@@ -349,6 +349,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 
 ------
+
+#EXTINF:0,MM Tom and Jerry HD
+#EXTGRP: Детский
+http://rhsbjv7k.tvclub.xyz/iptv/6UZ4235HMG3ED8ARAX59DV3U/13082/index.m3u8
+#EXTINF:0,MM Tom and Jerry HD
+#EXTGRP: Детский
+http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/13016/index.m3u8
 #EXTINF:0,Retro Cartoon
 #EXTGRP: Детский
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
