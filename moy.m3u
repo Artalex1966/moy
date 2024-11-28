@@ -356,6 +356,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/6UZ4235HMG3ED8ARAX59DV3U/13082/index.m3u8
 #EXTINF:0,MM Tom and Jerry HD
 #EXTGRP: Детский
 http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/13016/index.m3u8
+#EXTINF:0,Том и Джерри
+#EXTGRP: Детский
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=43075&token=b168204077fb10306d0484057fa97848
 #EXTINF:0,Retro Cartoon
 #EXTGRP: Детский
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
