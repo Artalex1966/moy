@@ -135,6 +135,9 @@ https://hls.goodgame.ru/hls/204717.m3u8
 #EXTINF:0,Alpha Cinema
 #EXTGRP: кино
 http://hls.goodgame.ru/hls/205072.m3u8
+#EXTINF:0,PersikTV Топ кино
+#EXTGRP: кино
+http://fs2.persik.by/TopKino/index.m3u8
 
 
 #EXTINF:0,Cinema
