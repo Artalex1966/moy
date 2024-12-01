@@ -57,6 +57,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/7LNPRS4449MZZZ/13019/index.m3u8
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
 http://ydxkbt7s.rostelekom.xyz/iptv/32DWU6HCEVANYGKGG5KWPYXZ/13019/index.m3u8
+
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/13096/index.m3u8
@@ -65,7 +66,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/13096/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/LY9PHWZHRXA5SE/13096/index.m3u8
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/6UZ4235HMG3ED8ARAX59DV3U/13022/index.m3u8
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/13022/index.m3u8
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
 http://944b77f6.rossteleccom.net/iptv/2ZMKXE6QT9W8WN/13022/index.m3u8
@@ -83,7 +84,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/13060/index.m3u8
 http://70a75805.rossteleccom.net/iptv/C7AKWHXW7C8DGP/13060/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/6UZ4235HMG3ED8ARAX59DV3U/13021/index.m3u8
+http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/13021/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://70a75805.rossteleccom.net/iptv/C7AKWHXW7C8DGP/13021/index.m3u8
@@ -93,8 +94,12 @@ http://944b77f6.rossteleccom.net/iptv/2ZMKXE6QT9W8WN/11061/index.m3u8
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
 http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11061/index.m3u8
-
-
+#EXTINF:0,VF Фильмы СССР
+#EXTGRP: кино
+http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/10085/index.m3u8
+#EXTINF:0,VF Фильмы СССР
+#EXTGRP: кино
+http://rhsbjv7k.tvclub.xyz/iptv/LY9PHWZHRXA5SE/10085/index.m3u8
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
