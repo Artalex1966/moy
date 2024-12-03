@@ -100,6 +100,9 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/10085/index.m3u8
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/LY9PHWZHRXA5SE/10085/index.m3u8
+#EXTINF:0,BCU Кинозал СССР
+#EXTGRP: кино
+http://45.151.69.10:8887/8875/index.m3u8
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
@@ -143,7 +146,9 @@ http://hls.goodgame.ru/hls/205072.m3u8
 #EXTINF:0,PersikTV Топ кино
 #EXTGRP: кино
 http://fs2.persik.by/TopKino/index.m3u8
-
+#EXTINF:0,MM UFO HD
+#EXTGRP: кино
+http://45.151.69.10:8887/8410/video.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
@@ -161,7 +166,7 @@ http://ott.server-iptv.live/604/video.m3u8?token=S793FB1732
 http://ott.server-iptv.live/682/video.m3u8?token=M4f082ab4c
 #EXTINF:0,CineMan Top
 #EXTGRP: кино
-http://77.235.1.17/tv100_top/index.m3u8
+http://ott.server-iptv.live/683/video.m3u8?token=M4f082ab4c
 #EXTINF:0,CineMan Premium
 #EXTGRP: кино
 http://ip1.orgip.net/1664/video.m3u8?token=Md7ac19a92
@@ -170,7 +175,7 @@ http://ip1.orgip.net/1664/video.m3u8?token=Md7ac19a92
 http://ott.server-iptv.live/686/video.m3u8?token=S793FB1732
 #EXTINF:0,CineMan Action HD
 #EXTGRP: кино
-http://77.235.1.17/tv100_action/index.m3u8
+http://ip1.orgip.net/689/video.m3u8?token=Md7ac19a92
 #EXTINF:0,CineMan
 #EXTINF:0,CineMan Катастрофы
 #EXTGRP: кино
