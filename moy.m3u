@@ -100,9 +100,9 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/10085/index.m3u8
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/LY9PHWZHRXA5SE/10085/index.m3u8
-#EXTINF:0,BCU Кинозал СССР
+#EXTINF:0,BCU Action HD
 #EXTGRP: кино
-http://45.151.69.10:8887/8875/index.m3u8
+http://45.151.69.10:8887/8876/index.m3u8
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
@@ -129,10 +129,12 @@ http://130.193.73.10:8937/play/a03k
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
 http://94.230.128.105:8080/Kinokomedia_TV/index.m3u8
-
 #EXTINF:0,Камеди
 #EXTGRP: кино
 http://185.23.80.28:8080/Camedi/index.m3u8?token=test
+#EXTINF:0,СИТИ ЭДЕМ — КИНОКОМЕДИЯ
+#EXTGRP: кино
+https://autopilot.catcast.tv/content/41331/index.m3u8
 
 #EXTINF:0,1FILMAX
 #EXTGRP: кино
@@ -149,6 +151,11 @@ http://fs2.persik.by/TopKino/index.m3u8
 #EXTINF:0,MM UFO HD
 #EXTGRP: кино
 http://45.151.69.10:8887/8410/video.m3u8
+
+
+#EXTINF:0,Prokop TV Cinema HD
+#EXTGRP: кино
+http://hls127.homeiptv.org:8880/PROKOPTV_CINEMA/video.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
