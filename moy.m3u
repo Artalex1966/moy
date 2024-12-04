@@ -158,9 +158,6 @@ http://hlss.goodgame.ru/hls/187741.m3u8
 #EXTINF:0,Alpha Cinema
 #EXTGRP: кино
 http://hls.goodgame.ru/hls/205072.m3u8
-#EXTINF:0,PersikTV Топ кино
-#EXTGRP: кино
-http://fs2.persik.by/TopKino/index.m3u8
 #EXTINF:0,MM UFO HD
 #EXTGRP: кино
 http://45.151.69.10:8887/8410/video.m3u8
@@ -178,6 +175,9 @@ http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:0,КИНО ТВ HD
 #EXTGRP: кино
 http://193.242.190.6:8099/88/index.m3u8
+#EXTINF:0,КИНО ТВ +4    
+#EXTGRP: кино
+http://live-3.otcnet.ru/kinotvplus4/index.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://ott.server-iptv.live/604/video.m3u8?token=S793FB1732
@@ -317,14 +317,14 @@ http://stream01.vnet.am/Evrika/mono.m3u8
 http://dmitry-tv.ddns.net/hls/CH_DISCOVERYCHANNELHD.m3u8
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
-http://185.23.80.28:8080/Nauka/index.m3u8?token=test
+http://178.124.152.238:8088/nauka
 #EXTINF:0, Наука 2.0
 #EXTGRP: Познавательное
 http://vod.tuva.ru/nauka2/index.m3u8
 
 #EXTINF:0, National Geographic
 #EXTGRP: Познавательное
-http://dmitry-tv.ddns.net/hls/CH_NATIONALGEOGRAPHIC.m3u8
+http://135.181.115.81:8000/play/a00a/index.m3u8?token=livetv
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP: Познавательное
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
@@ -334,16 +334,13 @@ http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 
 #EXTINF:0,Кто Есть Кто
 #EXTGRP: Познавательное
-http://93.125.121.75:80/Ktoestkto/index.m3u8?token=test
-#EXTINF:0,Арсенал
-#EXTGRP: Познавательное
-http://93.125.121.75:80/Arsenal/index.m3u8?token=test
+http://31.210.208.171:8080/ktoestkto/index.m3u8?token=+W2MSER
 #EXTINF:0,Авто 24
 #EXTGRP: Познавательное
-http://91.205.199.3:80/avto24/index.m3u8
+http://185.23.80.28:8080/AVTO24/index.m3u8?token=test
 #EXTINF:0,Авто плюс
 #EXTGRP: Познавательное
-http://93.125.121.75:80/AutoPlus/index.m3u8?token=test
+https://stream1.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,История
 #EXTGRP: Познавательное
@@ -391,9 +388,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/6UZ4235HMG3ED8ARAX59DV3U/13016/index.m3u8
 #EXTINF:0,MM Tom and Jerry HD
 #EXTGRP: Детский
 http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/13016/index.m3u8
-#EXTINF:0,Том и Джерри
-#EXTGRP: Детский
-https://v2.catcast.tv/content/43075/index.m3u8
 #EXTINF:0,Retro Cartoon
 #EXTGRP: Детский
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
