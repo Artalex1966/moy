@@ -56,7 +56,7 @@ https://v2.catcast.tv/content/38720/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://q1k7iyhq.megogo.xyz/iptv/2DRFP4PXP5RHZT/13019/index.m3u8
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/13019/index.m3u8
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
 http://ydxkbt7s.rostelekom.xyz/iptv/32DWU6HCEVANYGKGG5KWPYXZ/13019/index.m3u8
@@ -205,7 +205,6 @@ http://ott.server-iptv.live/686/video.m3u8?token=S793FB1732
 #EXTINF:0,CineMan Action HD
 #EXTGRP: кино
 http://ip1.orgip.net/689/video.m3u8?token=Md7ac19a92
-#EXTINF:0,CineMan
 #EXTINF:0,CineMan Катастрофы
 #EXTGRP: кино
 http://ott.server-iptv.live/693/video.m3u8?token=S793FB1732
@@ -277,7 +276,7 @@ http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
 ======
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
-http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/17006/index.m3u8
+http://q1k7iyhq.megogo.xyz/iptv/2DRFP4PXP5RHZT/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/BTFUKQRZMDVNUZ/17006/index.m3u8
@@ -286,29 +285,29 @@ http://rhsbjv7k.tvclub.xyz/iptv/BTFUKQRZMDVNUZ/17006/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/17006/index.m3u8
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
-http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/14230/index.m3u8
+http://q1k7iyhq.megogo.xyz/iptv/2DRFP4PXP5RHZT/14230/index.m3u8
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
-http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/14230/index.m3u8
-#EXTINF:0,VF Универ
-#EXTGRP: кино
-http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/13084/index.m3u8
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/14230/index.m3u8
 #EXTINF:0,VF Универ
 #EXTGRP: кино
 http://q1k7iyhq.megogo.xyz/iptv/2DRFP4PXP5RHZT/13084/index.m3u8
+#EXTINF:0,VF Универ
+#EXTGRP: кино
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/13084/index.m3u8
 #EXTINF:0,VF Универ новая общага
 #EXTGRP: кино
-http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/17013/index.m3u8
+http://q1k7iyhq.megogo.xyz/iptv/2DRFP4PXP5RHZT/13013/index.m3u8
 #EXTINF:0,VF Универ новая общага
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/6UZ4235HMG3ED8ARAX59DV3U/17013/index.m3u8
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/13013/index.m3u8
 
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
-http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/13082/index.m3u8
+http://q1k7iyhq.megogo.xyz/iptv/2DRFP4PXP5RHZT/13082/index.m3u8
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/NRZVSN7WGR2LW3/13082/index.m3u8
+http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/13082/index.m3u8
 
 ==========
 #EXTINF:0,Galaxy
@@ -368,7 +367,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:0,СТС
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:0,,СТС Love
+#EXTINF:0,СТС Love
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:0,СТС International
