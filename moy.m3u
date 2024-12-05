@@ -15,6 +15,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:0,НТВ
 #EXTGRP: эфир
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+#EXTINF:0,ТВ Центр
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 https://player.smotrim.ru/iframe/stream/live_id/63338
@@ -100,6 +103,9 @@ http://hls127.homeiptv.org:8880/PG_USSR_HD/video.m3u8
 #EXTINF:0,СОВЕТСКИЕ ФИЛЬМЫ      
 #EXTGRP: кино
 https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
+#EXTINF:0,KLI СССР HD    
+#EXTGRP: кино
+http://cdntv.online/low/pa3nc5dxwz/1376.m3u8
 
 
 #EXTINF:0,MM Комедия Classic HD
@@ -109,7 +115,7 @@ http://t2hyov41.russtv.net/iptv/XZ4GQ2XHLGEVTH/13037/index.m3u8
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/EBBDX25MF7G6MC/13037/index.m3u8
 
-#EXTINF:0,Goodgame: Фантом HD
+#EXTINF:0,Фантом HD
 #EXTGRP: кино
 http://hlss.goodgame.ru/hls/204722.m3u8
 
@@ -141,6 +147,10 @@ http://185.23.80.28:8080/Camedi/index.m3u8?token=test
 #EXTINF:0,СИТИ ЭДЕМ — КИНОКОМЕДИЯ
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/41331/index.m3u8
+#EXTINF:0,КиноЭкшен
+#EXTGRP: кино
+https://autopilot.catcast.tv/content/41333/index.m3u8
+
 
 #EXTINF:0,1FILMAX
 #EXTGRP: кино
@@ -164,6 +174,7 @@ http://45.151.69.10:8887/8410/video.m3u8
 #EXTINF:0,BCU Action HD
 #EXTGRP: кино
 http://45.151.69.10:8887/8876/index.m3u8
+
 
 #EXTINF:0,Prokop TV Cinema HD
 #EXTGRP: кино
@@ -355,6 +366,9 @@ https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:0,НТВ Сериал
 #EXTGRP: эфир
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:0,Домашний
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:0,СТС
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
@@ -379,6 +393,12 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:0,Пятница
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:0,Че
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:0,Ю
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 
 ------
 
@@ -414,7 +434,7 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 http://195.26.83.96:7007/play/14/index.m3u8
 #EXTINF:0,Карусель
 #EXTGRP: Детский
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:0,Карусель + 2
 #EXTGRP: Детский
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
