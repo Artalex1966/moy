@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz"
+#EXTM3U x-tvg-url="https://iptvx.one/EPG_LITE"
 
 #EXTINF:0,Известия Воронеж
 #EXTGRP: эфир
@@ -70,10 +71,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/13096/index.m3u8
 http://sadc2csdf.klaipedalt.xyz/iptv/V6TY8HQ5DUXZXP/13096/index.m3u8
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/13022/index.m3u8
+http://q1k7iyhq.megogo.xyz/iptv/2DRFP4PXP5RHZT/13022/index.m3u8
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-http://944b77f6.rossteleccom.net/iptv/2ZMKXE6QT9W8WN/13022/index.m3u8
+http://bde77664.edmonst.net/iptv/BTFUKQRZMDVNUZ/13022/index.m3u8
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/13018/index.m3u8
@@ -137,7 +138,7 @@ http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
 http://130.193.73.10:8937/play/a03k
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
-http://94.230.128.105:8080/Kinokomedia_TV/index.m3u8
+http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 #EXTINF:0,Камеди
 #EXTGRP: кино
 http://185.23.80.28:8080/Camedi/index.m3u8?token=test
@@ -182,8 +183,8 @@ http://hls127.homeiptv.org:8880/PROKOPTV_CINEMA/video.m3u8
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:0,КИНО ТВ HD
 #EXTGRP: кино
-http://193.242.190.6:8099/88/index.m3u8
-#EXTINF:0,КИНО ТВ +4    
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Кино ТВ (+4)    
 #EXTGRP: кино
 http://live-3.otcnet.ru/kinotvplus4/index.m3u8
 #EXTINF:0,Остросюжетное HD
