@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz"
-#EXTM3U x-tvg-url="https://iptvx.one/EPG_LITE"
-
-#EXTINF:0,Известия Воронеж
+#EXTINF:0,Известия
 #EXTGRP: эфир
 http://185.23.80.28:8080/IzvestiyaVoronezh/index.m3u8?token=test
 #EXTINF:0,Россия 24
@@ -320,13 +318,13 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTGRP: Познавательное
 http://stream01.vnet.am/Evrika/mono.m3u8
 
-#EXTINF:0,Discovery
+#EXTINF:0,Discovery Channel
 #EXTGRP: Познавательное
 http://dmitry-tv.ddns.net/hls/CH_DISCOVERYCHANNELHD.m3u8
-#EXTINF:0, Наука 2.0
+#EXTINF:0,Наука HD
 #EXTGRP: Познавательное
 http://178.124.152.238:8088/nauka
-#EXTINF:0, Наука 2.0
+#EXTINF:0,Наука HD
 #EXTGRP: Познавательное
 http://vod.tuva.ru/nauka2/index.m3u8
 
