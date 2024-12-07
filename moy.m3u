@@ -140,7 +140,7 @@ http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 #EXTINF:0,Камеди
 #EXTGRP: кино
 http://185.23.80.28:8080/Camedi/index.m3u8?token=test
-#EXTINF:0,КИНОКОМЕДИЯ
+#EXTINF:0,КИНО
 #EXTGRP: кино
 https://stream-msk-14.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
 #EXTINF:0,КиноЭкшен
