@@ -97,6 +97,10 @@ http://944b77f6.rossteleccom.net/iptv/2ZMKXE6QT9W8WN/11061/index.m3u8
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
 http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11061/index.m3u8
+
+#EXTINF:0,USSR HD
+#EXTGRP: кино
+http://hls127.homeiptv.org:8880/PG_USSR_HD/video.m3u8
 #EXTINF:0,KBC-Страна СССР
 #EXTGRP: кино
 http://ru.seetv.cc/play/8824/EF48F539F8582E2/video.m3u8
