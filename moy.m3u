@@ -104,6 +104,9 @@ http://hls127.homeiptv.org:8880/PG_USSR_HD/video.m3u8
 #EXTINF:0,KBC-Страна СССР
 #EXTGRP: кино
 http://ru.seetv.cc/play/8824/EF48F539F8582E2/video.m3u8
+#EXTINF:0,Советские фильмы
+#EXTGRP: кино
+https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTczNDIwMzk3NSwiaHdpZCI6IjRmNGRhYzVmYTk1YWY2OGEwZjlkZDJmMmI5Y2NmYjRiNWViMTE5OGEyYjVhZDkxZGM1YzVjNWE0OWFmZDM1YTciLCJsYXN0X3JlcV9kYXRlIjoxNzMzNTk5MTc1LCJzZXNzaW9uX2lkIjoiZjAxMjQ3NDUxNGY5MDAxMGQzNDBkNjEwOTY0OTAwNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DBtliqnPTq-PvKG1CasWg-4JhW5jSmd3f5bBz3WrJAY
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
@@ -126,6 +129,9 @@ http://86.57.198.251:8181/play/1031/index.m3u8
 #EXTINF:0,Твоё ТВ Юмор
 #EXTGRP: кино
 http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
+#EXTINF:0,6 КАДРОВ
+#EXTGRP: кино
+https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTczNDIwMzk3NSwiaHdpZCI6IjRmNGRhYzVmYTk1YWY2OGEwZjlkZDJmMmI5Y2NmYjRiNWViMTE5OGEyYjVhZDkxZGM1YzVjNWE0OWFmZDM1YTciLCJsYXN0X3JlcV9kYXRlIjoxNzMzNTk5MTc1LCJzZXNzaW9uX2lkIjoiZjAxMjQ3NDUxNGY5MDAxMGQzNDBkNjEwOTY0OTAwNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DBtliqnPTq-PvKG1CasWg-4JhW5jSmd3f5bBz3WrJAY
 
 #EXTINF:0,Русская Комедия
 #EXTGRP: кино
@@ -136,13 +142,20 @@ http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 #EXTINF:0,Камеди
 #EXTGRP: кино
 http://185.23.80.28:8080/Camedi/index.m3u8?token=test
-#EXTINF:0,КИНО
-#EXTGRP: кино
-https://stream-msk-14.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
-#EXTINF:0,КиноЭкшен
-#EXTGRP: кино
-https://autopilot.catcast.tv/content/41333/index.m3u8
 
+#EXTINF:0,ВИДЕОКАССЕТА vhs-90s
+#EXTGRP: кино
+https://hls.goodgame.ru/hls/176975.m3u8
+
+#EXTINF:0,Фильмы 1
+#EXTGRP: кино
+http://195.9.195.3:8080/hls/208133.m3u8
+#EXTINF:0,Фильмы 2
+#EXTGRP: кино
+http://195.9.195.3:8080/hls/208358.m3u8
+#EXTINF:0,Фильмы 3
+#EXTGRP: кино
+http://195.9.195.3:8080/hls/208133.m3u8
 
 #EXTINF:0,1FILMAX
 #EXTGRP: кино
@@ -216,9 +229,9 @@ http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/11055/index.m3u8
 #EXTGRP: кино
 http://bde77664.edmonst.net/iptv/BTFUKQRZMDVNUZ/11055/index.m3u8
 
-#EXTINF:0,BCU Fantastic HD
+#EXTINF:0,Clarity4K Фантастика
 #EXTGRP: кино
-http://ip1.orgip.net/1606/video.m3u8?token=Md7ac19a92
+http://hls127.homeiptv.org:8880/Clarity4K_Fantastic/video.m3u8
 
 
 #EXTINF:0,viju TV1000 Action
