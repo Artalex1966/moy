@@ -175,13 +175,6 @@ http://hlss.goodgame.ru/hls/187741.m3u8
 #EXTINF:0,Alpha Cinema
 #EXTGRP: кино
 http://hls.goodgame.ru/hls/205072.m3u8
-#EXTINF:0,MM UFO HD
-#EXTGRP: кино
-http://45.151.69.10:8887/8410/video.m3u8
-#EXTINF:0,BCU Action HD
-#EXTGRP: кино
-http://45.151.69.10:8887/8876/index.m3u8
-
 
 #EXTINF:0,Prokop TV Cinema HD
 #EXTGRP: кино
@@ -199,6 +192,13 @@ http://live-3.otcnet.ru/kinotvplus4/index.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://ott.server-iptv.live/604/video.m3u8?token=S793FB1732
+
+#EXTINF:0,Clarity4K Боевик
+#EXTGRP: кино
+http://hls127.homeiptv.org:8880/Clarity4K_Boevik/video.m3u8
+#EXTINF:0,Clarity4K Фантастика
+#EXTGRP: кино
+http://hls127.homeiptv.org:8880/Clarity4K_Fantastic/video.m3u8
 
 
 #EXTINF:0,CineMan
@@ -303,6 +303,14 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/14230/index.m3u8
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
 http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/14230/index.m3u8
+
+#EXTINF:0,Kinozal! Интерны ТВ
+#EXTGRP: кино
+http://hls127.homeiptv.org:8880/Kinozal_Intern_HD/video.m3u8
+#EXTINF:0,Kinozal! Универ ТВ
+#EXTGRP: кино
+http://hls127.homeiptv.org:8880/Kinozal_univer/video.m3u8
+
 #EXTINF:0,VF Универ
 #EXTGRP: кино
 http://daea5c78.amazzin.pw/iptv/WTKV5XZTA7Q6RGVP7W2FSCH2/13084/index.m3u8
@@ -349,7 +357,7 @@ http://vod.tuva.ru/nauka2/index.m3u8
 
 #EXTINF:0,ИСТОРИЧЕСКИЙ
 #EXTGRP: Познавательное
-https://live-mirror-19.ott.tricolor.tv/dtv/id1006_MSKSG-PVR-1--kinozal_20_hd/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
+https://live-mirror-19.ott.tricolor.tv/dtv/id1006_MSKSG-PVR-1--kinozal_20_hd/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczNDI1NTY5NiwiaHdpZCI6IjQwM2QxOTU2ODk2NmVhZDlmNzMzNjAwOGU1ZjA2MGYxNDgzNDFmN2YyMGMwODgxZTA0NTQwZGY5Y2MwMzJkYWQiLCJsYXN0X3JlcV9kYXRlIjoxNzMzNjUwODk2LCJzZXNzaW9uX2lkIjoiNWQ0MDI3MWEzMzljMWQ5NGI0MTViZjNmYmY3ZDIyNmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.3aPuB452OC_rqzctZENFtb5lwsGFyiIsMofzsw_coHE
 
 #EXTINF:0, National Geographic
 #EXTGRP: Познавательное
