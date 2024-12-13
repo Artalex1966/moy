@@ -22,7 +22,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
+https://stream-msk-17.ott.tricolor.tv/dtv/id979_MSKSG-PVR-1--SolovievLive/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTczNDIwMzk3NSwiaHdpZCI6IjRmNGRhYzVmYTk1YWY2OGEwZjlkZDJmMmI5Y2NmYjRiNWViMTE5OGEyYjVhZDkxZGM1YzVjNWE0OWFmZDM1YTciLCJsYXN0X3JlcV9kYXRlIjoxNzMzNTk5MTc1LCJzZXNzaW9uX2lkIjoiZjAxMjQ3NDUxNGY5MDAxMGQzNDBkNjEwOTY0OTAwNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DBtliqnPTq-PvKG1CasWg-4JhW5jSmd3f5bBz3WrJAY
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
@@ -418,15 +418,10 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 
 ------
 
+
 #EXTINF:0,MM Tom and Jerry HD
 #EXTGRP: Детский
-http://rhsbjv7k.tvclub.xyz/iptv/6UZ4235HMG3ED8ARAX59DV3U/13016/index.m3u8
-#EXTINF:0,MM Tom and Jerry HD
-#EXTGRP: Детский
-http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/13016/index.m3u8
-#EXTINF:0,Retro Cartoon
-#EXTGRP: Детский
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/5617
 #EXTINF:0,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
