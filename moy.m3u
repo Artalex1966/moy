@@ -19,7 +19,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-https://s83.chas.tv:8082/chas/sollive.stream/playlist.m3u8
+http://92.53.64.197:5050/Solovyov_live/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 http://178.57.121.38:8080/idxtra/index.m3u8?token=test
@@ -130,7 +130,7 @@ http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
 http://130.193.73.10:8937/play/a03k
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
-http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
+http://s5.merlive.am:80/Kinokomedia/index.m3u8
 #EXTINF:0,Камеди
 #EXTGRP: кино
 http://185.23.80.28:8080/Camedi/index.m3u8?token=test
