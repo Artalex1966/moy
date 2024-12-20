@@ -104,6 +104,9 @@ http://hls127.homeiptv.org:8880/PG_USSR_HD/video.m3u8
 #EXTINF:0,Советские фильмы
 #EXTGRP: кино
 https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczNDg2NDE3MCwiaHdpZCI6ImVjYTkwMWQ5NWJmYTFkOGNlNzUyMTdiNjAyYWFmNzE4NzVmMGQxZjIwZTRjNjU0YjNmMjI2MmI3YWM3MjgwNzIiLCJsYXN0X3JlcV9kYXRlIjoxNzM0MjU5MzcwLCJzZXNzaW9uX2lkIjoiMjE2ZmY4ZTI3YjQ0NzFkOTk2YzFkYTM2NzdjNmUwYTMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.-Z8pWOG7XJaHPmUL5iVV4RjWHygPj9mc4LstUhy-Bnw
+#EXTINF:0,KLI СССР HD
+#EXTGRP: кино
+http://cdntv.online/low/w5x8bhueai/1376.m3u8
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
@@ -211,6 +214,9 @@ http://ott.server-iptv.live/693/video.m3u8?token=S793FB1732
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА HD
 #EXTGRP: кино
 http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:0,VL Fantastic
+#EXTGRP: кино
+http://cdntv.online/low/w5x8bhueai/1349.m3u8
 
 #EXTINF:0,The X-Files
 #EXTGRP: кино
