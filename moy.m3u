@@ -42,7 +42,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 http://185.50.148.2:7706/Mosfilm/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://87.99.87.203:2007/channel/94bab01/index.m3u8?q=88c76c60a23785bf0ffdb34dbb1b6122
+http://s5.merlive.am:80/mosfilm/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция HD (+4)
 #EXTGRP: кино
 http://193.242.190.6:8099/98/index.m3u8
