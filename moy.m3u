@@ -98,15 +98,28 @@ http://944b77f6.rossteleccom.net/iptv/2ZMKXE6QT9W8WN/11061/index.m3u8
 #EXTGRP: кино
 http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11061/index.m3u8
 
+#EXTINF:0,KLI СССР HD
+#EXTGRP: кино
+http://cdntv.online/high/p9j41aun3x/1376.m3u8
+#EXTINF:0,KLI СССР HD
+#EXTGRP: кино
+http://cdntv.online/high/ynemik5cl9/1376.m3u8
+
 #EXTINF:0,USSR HD
 #EXTGRP: кино
 http://hls127.homeiptv.org:8880/PG_USSR_HD/video.m3u8
-#EXTINF:0,Советские фильмы
+#EXTINF:0,Советские кино
 #EXTGRP: кино
-https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczNDg2NDE3MCwiaHdpZCI6ImVjYTkwMWQ5NWJmYTFkOGNlNzUyMTdiNjAyYWFmNzE4NzVmMGQxZjIwZTRjNjU0YjNmMjI2MmI3YWM3MjgwNzIiLCJsYXN0X3JlcV9kYXRlIjoxNzM0MjU5MzcwLCJzZXNzaW9uX2lkIjoiMjE2ZmY4ZTI3YjQ0NzFkOTk2YzFkYTM2NzdjNmUwYTMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.-Z8pWOG7XJaHPmUL5iVV4RjWHygPj9mc4LstUhy-Bnw
-#EXTINF:0,KLI СССР HD
+http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:0,Киноклассика
 #EXTGRP: кино
-http://cdntv.online/low/w5x8bhueai/1376.m3u8
+http://158.101.194.132:8080/channel/7e5a40bb/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:0,Iptv Play Память
+#EXTGRP: кино
+http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:0,IPTV Malder:Все ТВ
+#EXTGRP: кино
+http://hlss.goodgame.ru/hls/153640.m3u8
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
@@ -232,7 +245,7 @@ http://hls127.homeiptv.org:8880/Clarity4K_Fantastic/video.m3u8
 
 #EXTINF:0,viju TV1000 Action
 #EXTGRP: кино
-http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
+https://stream1.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
 http://193.242.190.6:8099/201/index.m3u8
@@ -253,7 +266,7 @@ http://stream2.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
-https://flussonic.salomtv.uz/Mujskoe-KinoHD/video.m3u8
+http://stream01.vnet.am/MujskoeKino/index.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
 http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
