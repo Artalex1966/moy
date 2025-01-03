@@ -105,9 +105,9 @@ http://cdntv.online/high/p9j41aun3x/1376.m3u8
 #EXTGRP: кино
 http://cdntv.online/high/ynemik5cl9/1376.m3u8
 
-#EXTINF:0,USSR HD
+#EXTINF:0,BCU Кинозал СССР
 #EXTGRP: кино
-http://hls127.homeiptv.org:8880/PG_USSR_HD/video.m3u8
+http://live.admuspeh.my/8875/index.m3u8?token=iptvshared
 #EXTINF:0,Советские кино
 #EXTGRP: кино
 http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
@@ -152,6 +152,9 @@ http://s5.merlive.am:80/Kinokomedia/index.m3u8
 #EXTGRP: кино
 http://185.23.80.28:8080/Camedi/index.m3u8?token=test
 
+#EXTINF:0,BCU VHS
+#EXTGRP: кино
+http://live.admuspeh.my/8908/index.m3u8?token=iptvshared
 #EXTINF:0,ВИДЕОКАССЕТА vhs-90s
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/176975.m3u8
@@ -220,9 +223,9 @@ http://ott.server-iptv.live/686/video.m3u8?token=S793FB1732
 #EXTINF:0,CineMan Action HD
 #EXTGRP: кино
 http://ip1.orgip.net/689/video.m3u8?token=Md7ac19a92
-#EXTINF:0,CineMan Катастрофы
+#EXTINF:0,BCU Catastrophe HD
 #EXTGRP: кино
-http://ott.server-iptv.live/693/video.m3u8?token=S793FB1732
+http://live.admuspeh.my/8877/index.m3u8?token=iptvshared
 
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА HD
 #EXTGRP: кино
