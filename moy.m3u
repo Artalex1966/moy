@@ -59,11 +59,11 @@ https://v2.catcast.tv/content/38720/index.m3u8
 http://bde77664.edmonst.net/iptv/BTFUKQRZMDVNUZ/13019/index.m3u8
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://live.admuspeh.my/8744/video.m3u8?token=iptvshared
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/13019/index.m3u8
 
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-http://live.admuspeh.my/8656/video.m3u8?token=iptvshared
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/13096/index.m3u8
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
 http://sadc2csdf.klaipedalt.xyz/iptv/BTFUKQRZMDVNUZ/13096/index.m3u8
@@ -98,16 +98,6 @@ http://944b77f6.rossteleccom.net/iptv/2ZMKXE6QT9W8WN/11061/index.m3u8
 #EXTGRP: кино
 http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11061/index.m3u8
 
-#EXTINF:0,KLI СССР HD
-#EXTGRP: кино
-http://cdntv.online/high/pa3nc5dxwz/1376.m3u8
-#EXTINF:0,KLI СССР HD
-#EXTGRP: кино
-http://cdntv.online/high/ynemik5cl9/1376.m3u8
-
-#EXTINF:0,BCU Кинозал СССР
-#EXTGRP: кино
-http://live.admuspeh.my/8875/index.m3u8?token=iptvshared
 #EXTINF:0,Советские кино
 #EXTGRP: кино
 http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
@@ -117,9 +107,6 @@ http://158.101.194.132:8080/channel/7e5a40bb/index.m3u8?q=4965b2524bbd5b7c9cadb3
 #EXTINF:0,Iptv Play Память
 #EXTGRP: кино
 http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,Yosso TV Советские фильмы
-#EXTGRP: кино
-http://cdn.m3u.life/channel_125/index.m3u8?token=Happy2025_staxtv
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
@@ -145,7 +132,7 @@ http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
 #EXTINF:0,Русская Комедия
 #EXTGRP: кино
 http://130.193.73.10:8937/play/a03k
-#EXTINF:0,Комедия
+#EXTINF:0,Кинокомедия
 #EXTGRP: кино
 http://stream2.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кинокомедия
@@ -267,13 +254,13 @@ http://193.242.190.6:8099/85/index.m3u8
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/MTVPP5C6UVG8RA3MVHMWV85Z/17006/index.m3u8
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/17006/index.m3u8
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
-http://daea5c78.amazzin.pw/iptv/WTKV5XZTA7Q6RGVP7W2FSCH2/14230/index.m3u8
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/14230/index.m3u8
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/14230/index.m3u8
@@ -281,16 +268,9 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/14230/index.m3u8
 #EXTGRP: кино
 http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/14230/index.m3u8
 
-#EXTINF:0,Kinozal! Интерны ТВ
-#EXTGRP: кино
-http://hls127.homeiptv.org:8880/Kinozal_Intern_HD/video.m3u8
-#EXTINF:0,Kinozal! Универ ТВ
-#EXTGRP: кино
-http://hls127.homeiptv.org:8880/Kinozal_univer/video.m3u8
-
 #EXTINF:0,VF Универ
 #EXTGRP: кино
-http://daea5c78.amazzin.pw/iptv/WTKV5XZTA7Q6RGVP7W2FSCH2/13084/index.m3u8
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/13084/index.m3u8
 #EXTINF:0,VF Универ
 #EXTGRP: кино
 http://qwerty.akadatel.com/iptv/6AE5A2A5943RBL/13084/index.m3u8
@@ -299,7 +279,7 @@ http://qwerty.akadatel.com/iptv/6AE5A2A5943RBL/13084/index.m3u8
 http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/13084/index.m3u8
 #EXTINF:0,VF Универ новая общага
 #EXTGRP: кино
-http://daea5c78.amazzin.pw/iptv/WTKV5XZTA7Q6RGVP7W2FSCH2/17013/index.m3u8
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/17013/index.m3u8
 #EXTINF:0,VF Универ новая общага
 #EXTGRP: кино
 http://qwerty.akadatel.com/iptv/6AE5A2A5943RBL/17013/index.m3u8
@@ -311,7 +291,7 @@ http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/17013/index.m3u8
 http://bde77664.edmonst.net/iptv/BTFUKQRZMDVNUZ/13082/index.m3u8
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
-http://prots.megogo.xyz/iptv/KRS436NNH3646L/13082/index.m3u8
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/13082/index.m3u8
 
 ==========
 #EXTINF:0,Galaxy
