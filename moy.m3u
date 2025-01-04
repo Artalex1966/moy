@@ -42,7 +42,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 http://185.50.148.2:7706/Mosfilm/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://s5.merlive.am:80/mosfilm/index.m3u8
+http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNjA3NDQ3MiwiaHdpZCI6ImIzYTQxNDUxM2JmOGQyZDBlOTRiMzY3OWQyMGMxOTVlZjVmOTk3ZGM2ODM2NmRjMDkyNGQwMzI4NjgyNmVmNTQiLCJsYXN0X3JlcV9kYXRlIjoxNzM1NDY5NjcyLCJzZXNzaW9uX2lkIjoiNTQ0MzNjZmRlYzE1ZWRiZjU0ODg1ZDZhY2QwZTBjNTEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.qNTswbuFF5cBkCMHDkuC5SgNtc5PzAyjlFgnEfbBvRE
 #EXTINF:0,Мосфильм. Золотая коллекция HD (+4)
 #EXTGRP: кино
 http://193.242.190.6:8099/98/index.m3u8
@@ -59,14 +59,14 @@ https://v2.catcast.tv/content/38720/index.m3u8
 http://bde77664.edmonst.net/iptv/BTFUKQRZMDVNUZ/13019/index.m3u8
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/MTVPP5C6UVG8RA3MVHMWV85Z/13019/index.m3u8
+http://live.admuspeh.my/8744/video.m3u8?token=iptvshared
 
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-http://daea5c78.amazzin.pw/iptv/WTKV5XZTA7Q6RGVP7W2FSCH2/13096/index.m3u8
+http://live.admuspeh.my/8656/video.m3u8?token=iptvshared
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-http://sadc2csdf.klaipedalt.xyz/iptv/V6TY8HQ5DUXZXP/13096/index.m3u8
+http://sadc2csdf.klaipedalt.xyz/iptv/BTFUKQRZMDVNUZ/13096/index.m3u8
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
 http://q1k7iyhq.megogo.xyz/iptv/2DRFP4PXP5RHZT/13022/index.m3u8
@@ -100,7 +100,7 @@ http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11061/index.m3u8
 
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
-http://cdntv.online/high/p9j41aun3x/1376.m3u8
+http://cdntv.online/high/pa3nc5dxwz/1376.m3u8
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
 http://cdntv.online/high/ynemik5cl9/1376.m3u8
@@ -145,9 +145,12 @@ http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
 #EXTINF:0,Русская Комедия
 #EXTGRP: кино
 http://130.193.73.10:8937/play/a03k
+#EXTINF:0,Комедия
+#EXTGRP: кино
+http://stream2.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
-http://s5.merlive.am:80/Kinokomedia/index.m3u8
+http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 #EXTINF:0,Камеди
 #EXTGRP: кино
 http://185.23.80.28:8080/Camedi/index.m3u8?token=test
@@ -182,14 +185,6 @@ http://hlss.goodgame.ru/hls/163253.m3u8
 #EXTGRP: кино
 http://hlss.goodgame.ru/hls/187741.m3u8
 
-#EXTINF:0,BCU Fantastic HD
-#EXTGRP: кино
-http://live.admuspeh.my/8879/video.m3u8?token=iptvshared
-#EXTINF:0,MM 007 HD
-#EXTGRP: кино
-http://cdn.m3u.life/MM_007_HD/index.m3u8?token=Happy2025_staxtv
-
-
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
@@ -202,40 +197,21 @@ http://live-3.otcnet.ru/kinotvplus4/index.m3u8
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://ott.server-iptv.live/604/video.m3u8?token=S793FB1732
-
-#EXTINF:0,Clarity4K Боевик
+#EXTINF:0, Кинопоказ
 #EXTGRP: кино
-http://hls127.homeiptv.org:8880/Clarity4K_Boevik/video.m3u8
-#EXTINF:0,Clarity4K Фантастика
-#EXTGRP: кино
-http://hls127.homeiptv.org:8880/Clarity4K_Fantastic/video.m3u8
-
-
-#EXTINF:0,CineMan
-#EXTGRP: кино
-http://live.admuspeh.my/8952/index.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:0,CineMan Top
-#EXTGRP: кино
-http://live.admuspeh.my/8959/index.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:0,CineMan Premium
-#EXTGRP: кино
-http://ip1.orgip.net/1664/video.m3u8?token=Md7ac19a92
-#EXTINF:0,CineMan Thriller
-#EXTGRP: кино
-http://live.admuspeh.my/8954/index.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:0,MiniMax UFO HD
-#EXTGRP: кино
-http://live.admuspeh.my/8410/index.m3u8?token=4gPHp5ZVYqDAR4oz
-#EXTINF:0,BCU Catastrophe HD
-#EXTGRP: кино
-http://live.admuspeh.my/8877/index.m3u8?token=iptvshared
-
+http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА HD
 #EXTGRP: кино
 http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:0,VL Fantastic
 #EXTGRP: кино
 http://cdntv.online/low/w5x8bhueai/1349.m3u8
+#EXTINF:0,CineMan Катастрофы
+#EXTGRP: кино
+http://live.admuspeh.my/8957/index.m3u8?token=iptvshared
+#EXTINF:0,CineMan
+#EXTGRP: кино
+http://live.admuspeh.my/8952/index.m3u8?token=iptvshared
 
 #EXTINF:0,The X-Files
 #EXTGRP: кино
@@ -244,14 +220,10 @@ http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/11055/index.m3u8
 #EXTGRP: кино
 http://bde77664.edmonst.net/iptv/BTFUKQRZMDVNUZ/11055/index.m3u8
 
-#EXTINF:0,Clarity4K Фантастика
-#EXTGRP: кино
-http://hls127.homeiptv.org:8880/Clarity4K_Fantastic/video.m3u8
-
 
 #EXTINF:0,viju TV1000 Action
 #EXTGRP: кино
-https://stream1.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+http://185.50.148.2:7703/TV1000Action/index.m3u8
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
 http://193.242.190.6:8099/201/index.m3u8
@@ -275,7 +247,7 @@ http://185.50.148.2:7711/RodnoeKino/index.m3u8
 http://stream01.vnet.am/MujskoeKino/index.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
-http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
+http://193.242.190.6:8099/35/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
 http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
@@ -285,15 +257,7 @@ http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 #EXTINF:0,Киносемья
 #EXTGRP: кино
 http://193.242.190.6:8099/85/index.m3u8
-#EXTINF:0,Кинокомедия
-#EXTGRP: кино
-http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
-#EXTINF:0,Киносвидание
-#EXTGRP: кино
-http://65.21.85.175:8000/play/a01a/index.m3u8?token=livetv
-#EXTINF:0,Киносерия
-#EXTGRP: кино
-http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
+
 ---
 
 
