@@ -183,9 +183,11 @@ http://hls.goodgame.ru/hls/209426.m3u8
 #EXTINF:0,Film TV 6
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/47689/index.m3u8
-#EXTINF:0,ФАНТАСТИКА HD
+#EXTINF:0,КиноЭкшен (HD)
 #EXTGRP: кино
-http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
+https://autopilot.catcast.tv/content/41333/index.m3u8
+
+
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
