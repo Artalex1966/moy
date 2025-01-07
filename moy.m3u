@@ -104,6 +104,12 @@ http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=4965b2524bbd5b7c9cadb
 #EXTINF:0,Iptv Play Память
 #EXTGRP: кино
 http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:0,BCU СССР HD
+#EXTGRP: кино
+http://nl01.spr24.net/20830/index.m3u8?token=zdbtnsvDdnnW7U
+#EXTINF:0,BCU Кинозал СССР
+#EXTGRP: кино
+http://live.admuspeh.my/8875/index.m3u8?token=iptvshared
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
@@ -122,6 +128,9 @@ http://185.50.148.2:7707/DomKino/index.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
 http://86.57.198.251:8181/play/1031/index.m3u8
+#EXTINF:0,Любимое HD
+#EXTGRP: кино
+http://nl01.spr24.net/139/index.m3u8?token=zdbtnsvDdnnW7U
 
 #EXTINF:0,Твоё ТВ Юмор
 #EXTGRP: кино
@@ -168,6 +177,15 @@ http://hlss.goodgame.ru/hls/163253.m3u8
 #EXTINF:0,FMC TV
 #EXTGRP: кино
 http://hlss.goodgame.ru/hls/187741.m3u8
+#EXTINF:0,Film TV 3
+#EXTGRP: кино
+http://hls.goodgame.ru/hls/209426.m3u8
+#EXTINF:0,Film TV 6
+#EXTGRP: кино
+https://autopilot.catcast.tv/content/47689/index.m3u8
+#EXTINF:0,ФАНТАСТИКА HD
+#EXTGRP: кино
+http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
