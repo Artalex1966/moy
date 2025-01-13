@@ -118,7 +118,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/EBBDX25MF7G6MC/13037/index.m3u8
 
 #EXTINF:0,Ретро
 #EXTGRP: кино
-https://wowza4.leisertv.com/live/retrotv.stream/playlist.m3u8
+http://185.23.80.28:8080/Retro/index.m3u8?token=test
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://185.50.148.2:7707/DomKino/index.m3u8
@@ -146,6 +146,9 @@ http://185.23.80.28:8080/Camedi/index.m3u8?token=test
 #EXTINF:0,ВИДЕОКАССЕТА vhs-90s
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/176975.m3u8
+#EXTINF:0,Топ кино
+#EXTGRP: кино
+http://fs2.persik.by/TopKino/index.m3u8
 
 #EXTINF:0,Фильмы 1
 #EXTGRP: кино
@@ -320,6 +323,9 @@ http://178.124.152.238:8088/nauka
 #EXTINF:0,Наука HD
 #EXTGRP: Познавательное
 http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:0,Big Planet
+#EXTGRP: Познавательное
+http://109.200.130.123:7537/play/a02j
 
 #EXTINF:0, National Geographic
 #EXTGRP: Познавательное
