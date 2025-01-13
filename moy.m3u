@@ -104,9 +104,7 @@ http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=4965b2524bbd5b7c9cadb
 #EXTINF:0,Iptv Play Память
 #EXTGRP: кино
 http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,BCU СССР HD
-#EXTGRP: кино
-http://nl01.spr24.net/20830/index.m3u8?token=zdbtnsvDdnnW7U
+
 #EXTINF:0,BCU Кинозал СССР
 #EXTGRP: кино
 http://live.admuspeh.my/8875/index.m3u8?token=iptvshared
@@ -120,7 +118,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/EBBDX25MF7G6MC/13037/index.m3u8
 
 #EXTINF:0,Ретро
 #EXTGRP: кино
-http://stream2.cinerama.uz:80/1047/manifest.m3u8
+https://wowza4.leisertv.com/live/retrotv.stream/playlist.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://185.50.148.2:7707/DomKino/index.m3u8
@@ -128,9 +126,6 @@ http://185.50.148.2:7707/DomKino/index.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
 http://86.57.198.251:8181/play/1031/index.m3u8
-#EXTINF:0,Любимое HD
-#EXTGRP: кино
-http://nl01.spr24.net/139/index.m3u8?token=zdbtnsvDdnnW7U
 
 #EXTINF:0,Твоё ТВ Юмор
 #EXTGRP: кино
@@ -140,7 +135,7 @@ http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
 http://130.193.73.10:8937/play/a03k
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
-http://stream2.cinerama.uz/1232/tracks-v1a1/mono.m3u8
+http://213.226.137.140:81/tl/l52/mpegts
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
 http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
@@ -148,9 +143,6 @@ http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 #EXTGRP: кино
 http://185.23.80.28:8080/Camedi/index.m3u8?token=test
 
-#EXTINF:0,VHS-ка HD
-#EXTGRP: кино
-http://88.218.242.237:8000/play/a00x
 #EXTINF:0,ВИДЕОКАССЕТА vhs-90s
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/176975.m3u8
@@ -328,10 +320,6 @@ http://178.124.152.238:8088/nauka
 #EXTINF:0,Наука HD
 #EXTGRP: Познавательное
 http://vod.tuva.ru/nauka2/index.m3u8
-
-#EXTINF:0,ИСТОРИЧЕСКИЙ
-#EXTGRP: Познавательное
-https://live-mirror-19.ott.tricolor.tv/dtv/id1006_MSKSG-PVR-1--kinozal_20_hd/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczNDI1NTY5NiwiaHdpZCI6IjQwM2QxOTU2ODk2NmVhZDlmNzMzNjAwOGU1ZjA2MGYxNDgzNDFmN2YyMGMwODgxZTA0NTQwZGY5Y2MwMzJkYWQiLCJsYXN0X3JlcV9kYXRlIjoxNzMzNjUwODk2LCJzZXNzaW9uX2lkIjoiNWQ0MDI3MWEzMzljMWQ5NGI0MTViZjNmYmY3ZDIyNmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.3aPuB452OC_rqzctZENFtb5lwsGFyiIsMofzsw_coHE
 
 #EXTINF:0, National Geographic
 #EXTGRP: Познавательное
