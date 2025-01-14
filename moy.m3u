@@ -101,11 +101,11 @@ http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11061/index.m3u8
 #EXTINF:0,Советские кино
 #EXTGRP: кино
 http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:0,Iptv Play Память
-#EXTGRP: кино
-http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
 
-#EXTINF:0,BCU Кинозал СССР
+#EXTINF:0,BCU СССР HD
+#EXTGRP: кино
+http://ost.ru-tv.site/zdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE0Njo4ODg3Lzg4NzUvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImI0ZWY4MTZhIiwicCI6ImI0ZWY4MTZhYmFlNTYyODgiLCJjIjoiMTE1NyIsInQiOiI3NmU4MjM4MDgzNmM1ZjMzZDg2ZTNhNjAxZTY2OTExMiIsImQiOiIyOTYzMDciLCJyIjoiMzAxODI0IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuODEvODg3NS9pbmRleC5tM3U4P3Rva2VuPVt/index.m3u8
+#EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://live.admuspeh.my/8875/index.m3u8?token=iptvshared
 
@@ -142,6 +142,9 @@ http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 #EXTINF:0,Камеди
 #EXTGRP: кино
 http://185.23.80.28:8080/Camedi/index.m3u8?token=test
+#EXTINF:0,Американские комедии
+#EXTGRP: кино
+https://fs2.persik.by/Amerikanskie_Komedii_13/index.m3u8
 
 #EXTINF:0,ВИДЕОКАССЕТА vhs-90s
 #EXTGRP: кино
