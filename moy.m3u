@@ -59,11 +59,11 @@ https://v2.catcast.tv/content/38720/index.m3u8
 http://bde77664.edmonst.net/iptv/BTFUKQRZMDVNUZ/13019/index.m3u8
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/13019/index.m3u8
+http://a98adf9e.edemist.com/iptv/HPK2A2H2ZKDW59/13019/index.m3u8
 
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/13096/index.m3u8
+http://a98adf9e.edemist.com/iptv/HPK2A2H2ZKDW59/13096/index.m3u8
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
 http://sadc2csdf.klaipedalt.xyz/iptv/BTFUKQRZMDVNUZ/13096/index.m3u8
@@ -149,13 +149,11 @@ https://fs2.persik.by/Amerikanskie_Komedii_13/index.m3u8
 #EXTINF:0,ВИДЕОКАССЕТА vhs-90s
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/176975.m3u8
-#EXTINF:0,Топ кино
-#EXTGRP: кино
-http://fs2.persik.by/TopKino/index.m3u8
+
 
 #EXTINF:0,Фильмы 1
 #EXTGRP: кино
-http://195.9.195.3:8080/hls/208133.m3u8
+http://hlss.goodgame.ru/hls/204722.m3u8
 #EXTINF:0,Фильмы 2
 #EXTGRP: кино
 http://195.9.195.3:8080/hls/208358.m3u8
