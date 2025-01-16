@@ -22,7 +22,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
-http://130.193.73.10:8937/play/a002
+https://s83.chas.tv:8082/chas/sollive.stream/playlist.m3u8
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
@@ -63,7 +63,7 @@ http://olpjsfw9.rostelekom.xyz/iptv/GND3B9YB2KUEYX/13019/index.m3u8
 
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-http://olpjsfw9.rostelekom.xyz/iptv/GND3B9YB2KUEYX/13096/index.m3u8
+http://live.admuspeh.my/8656/video.m3u8?token=iptvshared
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
 http://sadc2csdf.klaipedalt.xyz/iptv/BTFUKQRZMDVNUZ/13096/index.m3u8
@@ -101,6 +101,9 @@ http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11061/index.m3u8
 #EXTINF:0,Советские кино
 #EXTGRP: кино
 http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:0,Советская киноклассика
+#EXTGRP: кино
+https://mhd128.iptv2022.com/p/laAIbvNsmNP6FagzVgFT8w,1737061239/streaming/sovet_classic/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
@@ -135,16 +138,16 @@ http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
 http://130.193.73.10:8937/play/a03k
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
-http://213.226.137.140:81/tl/l52/mpegts
+http://91.205.199.3/komedia/index.m3u8
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
-http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
+https://s83.chas.tv:8082/chas/komediya.stream/playlist.m3u8
 #EXTINF:0,Камеди
 #EXTGRP: кино
 http://185.23.80.28:8080/Camedi/index.m3u8?token=test
-#EXTINF:0,Американские комедии
+#EXTINF:0,6 КАДРОВ
 #EXTGRP: кино
-https://fs2.persik.by/Amerikanskie_Komedii_13/index.m3u8
+https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNzYyMDU3MiwiaHdpZCI6Ijc2ZjljNjRmNzJjZWQ5YTQ3ZTZjZWM2NzFmNTEzYzBmNzE1MzYwOTIzOWY0Nzg5OTZhZDQyNmU4ZmE1MzVkNzgiLCJsYXN0X3JlcV9kYXRlIjoxNzM3MDE1NzcyLCJzZXNzaW9uX2lkIjoiY2I2MGY0NTM3NjE5NDQxNGFkNzZhNjhjZjNlNjEyMWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Zx5vAdgA29KtgprxTFELmfaeXbUpWhXgK0efFN1RpMg
 
 #EXTINF:0,ВИДЕОКАССЕТА vhs-90s
 #EXTGRP: кино
@@ -181,9 +184,9 @@ http://hls.goodgame.ru/hls/209426.m3u8
 #EXTINF:0,Film TV 6
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/47689/index.m3u8
-#EXTINF:0,КиноЭкшен (HD)
+#EXTINF:0,Кино
 #EXTGRP: кино
-https://autopilot.catcast.tv/content/41333/index.m3u8
+https://cdntv.online/high/ahiqv1x984/878.mpeg
 
 
 
