@@ -56,7 +56,7 @@ https://v2.catcast.tv/content/38720/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://bde77664.edmonst.net/iptv/BTFUKQRZMDVNUZ/13019/index.m3u8
+http://live.admuspeh.my/8744/video.m3u8?token=iptvshared
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
 http://a98adf9e.edemist.com/iptv/HPK2A2H2ZKDW59/13019/index.m3u8
@@ -149,7 +149,9 @@ https://fs2.persik.by/Amerikanskie_Komedii_13/index.m3u8
 #EXTINF:0,ВИДЕОКАССЕТА vhs-90s
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/176975.m3u8
-
+#EXTINF:0,BCU Stars HD
+#EXTGRP: кино
+http://live.admuspeh.my/8885/index.m3u8?token=iptvshared
 
 #EXTINF:0,Фильмы 1
 #EXTGRP: кино
@@ -206,6 +208,9 @@ http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:0,VL Fantastic
 #EXTGRP: кино
 http://cdntv.online/low/w5x8bhueai/1349.m3u8
+#EXTINF:0,BCU Fantastic HD
+#EXTGRP: кино
+http://live.admuspeh.my/8879/video.m3u8?token=iptvshared
 #EXTINF:0,CineMan Катастрофы
 #EXTGRP: кино
 http://live.admuspeh.my/8957/index.m3u8?token=iptvshared
@@ -327,6 +332,9 @@ http://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:0,Big Planet
 #EXTGRP: Познавательное
 http://109.200.130.123:7537/play/a02j
+#EXTINF:0,Ратник 
+#EXTGRP: Познавательное
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 
 #EXTINF:0, National Geographic
 #EXTGRP: Познавательное
