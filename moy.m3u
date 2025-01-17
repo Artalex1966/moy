@@ -98,12 +98,16 @@ http://283f63e7.edemist.com/iptv/FM7CKSAWEF9SZP/11061/index.m3u8
 #EXTGRP: кино
 http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11061/index.m3u8
 
+#EXTINF:0,Патриот
+#EXTGRP: кино
+https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNzYyMDU3MiwiaHdpZCI6Ijc2ZjljNjRmNzJjZWQ5YTQ3ZTZjZWM2NzFmNTEzYzBmNzE1MzYwOTIzOWY0Nzg5OTZhZDQyNmU4ZmE1MzVkNzgiLCJsYXN0X3JlcV9kYXRlIjoxNzM3MDE1NzcyLCJzZXNzaW9uX2lkIjoiY2I2MGY0NTM3NjE5NDQxNGFkNzZhNjhjZjNlNjEyMWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Zx5vAdgA29KtgprxTFELmfaeXbUpWhXgK0efFN1RpMg
+
 #EXTINF:0,Советские кино
 #EXTGRP: кино
 http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
-https://mhd128.iptv2022.com/p/laAIbvNsmNP6FagzVgFT8w,1737061239/streaming/sovet_classic/324/1/tracks-v5a1/mono.m3u8
+https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNzYyMDU3MiwiaHdpZCI6Ijc2ZjljNjRmNzJjZWQ5YTQ3ZTZjZWM2NzFmNTEzYzBmNzE1MzYwOTIzOWY0Nzg5OTZhZDQyNmU4ZmE1MzVkNzgiLCJsYXN0X3JlcV9kYXRlIjoxNzM3MDE1NzcyLCJzZXNzaW9uX2lkIjoiY2I2MGY0NTM3NjE5NDQxNGFkNzZhNjhjZjNlNjEyMWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Zx5vAdgA29KtgprxTFELmfaeXbUpWhXgK0efFN1RpMg
 
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
@@ -193,8 +197,9 @@ https://autopilot.catcast.tv/content/47689/index.m3u8
 #EXTINF:0,Кино
 #EXTGRP: кино
 https://cdntv.online/high/ahiqv1x984/878.mpeg
-
-
+#EXTINF:0,+Kinopoisk FHD
+#EXTGRP: кино
+http://europe1-hls-cluster01-inter.onairtv.org:80/zuce8raZdp/EXTmgfncgt/10.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
