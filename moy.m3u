@@ -57,6 +57,10 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
 
+#EXTINF:0,TV-Детский  
+#EXTGRP: кино
+https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -97,10 +101,9 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/13021/index.m3u8
 http://70a75805.rossteleccom.net/iptv/C7AKWHXW7C8DGP/13021/index.m3u8
 
 
-#EXTINF:0,Патриот
+#EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
-https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNzYyMDU3MiwiaHdpZCI6Ijc2ZjljNjRmNzJjZWQ5YTQ3ZTZjZWM2NzFmNTEzYzBmNzE1MzYwOTIzOWY0Nzg5OTZhZDQyNmU4ZmE1MzVkNzgiLCJsYXN0X3JlcV9kYXRlIjoxNzM3MDE1NzcyLCJzZXNzaW9uX2lkIjoiY2I2MGY0NTM3NjE5NDQxNGFkNzZhNjhjZjNlNjEyMWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Zx5vAdgA29KtgprxTFELmfaeXbUpWhXgK0efFN1RpMg
-
+http://live.admuspeh.my/8875/index.m3u8?token=iptv50na50
 
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
