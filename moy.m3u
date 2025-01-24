@@ -46,9 +46,6 @@ http://flu.ttk.mx:90/Mosfilm/mono.m3u8?token=hs06e
 #EXTINF:0,Мосфильм. Золотая коллекция HD (+4)
 #EXTGRP: кино
 http://193.242.190.6:8099/98/index.m3u8
-#EXTINF:0,Мосфильм. Золотая коллекция HD (+4)
-#EXTGRP: кино
-http://arbiter.bolshoe.tv/?path=abr4/mosfilm/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDI1IDg6MDM6MDcgQU0maGFzaF92YWx1ZT1vSitKUnhXNFhONGViMEhpbG1FRGdBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
@@ -56,6 +53,9 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0,Детское кино
+#EXTGRP: кино
+https://autopilot.catcast.tv/content/40427/index.m3u8
 
 #EXTINF:0,TV-Детский  
 #EXTGRP: кино
