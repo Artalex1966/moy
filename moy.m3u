@@ -144,6 +144,9 @@ https://hls.goodgame.ru/hls/176975.m3u8
 #EXTINF:0,ВосходТВ
 #EXTGRP: кино
 https://hls.goodgame.ru/manifest/202997_master.m3u8
+#EXTINF:0,Кино J
+#EXTGRP: кино
+https://hls.goodgame.ru/hls/210182.m3u8
 #EXTINF:0,Тео ТВ
 #EXTGRP: кино
 https://stream.teotv.ru/live/site360/playlist.m3u8
