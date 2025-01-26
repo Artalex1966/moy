@@ -243,7 +243,7 @@ http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
 
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
-http://stream2.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+http://91.205.199.3/nashenovoekino/index.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
 http://185.50.148.2:7711/RodnoeKino/index.m3u8
@@ -255,7 +255,7 @@ http://stream01.vnet.am/MujskoeKino/index.m3u8
 http://193.242.190.6:8099/35/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
+http://45.159.74.14:80/Kinokhit/index.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
 http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
@@ -291,7 +291,7 @@ http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/14230/index.m3u8
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/13084/index.m3u8
 #EXTINF:0,VF Универ
 #EXTGRP: кино
-http://qwerty.akadatel.com/iptv/6AE5A2A5943RBL/13084/index.m3u8
+http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/13084/index.m3u8
 #EXTINF:0,VF Универ
 #EXTGRP: кино
 http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/13084/index.m3u8
@@ -300,7 +300,7 @@ http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/13084/index.m3u8
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/17013/index.m3u8
 #EXTINF:0,VF Универ новая общага
 #EXTGRP: кино
-http://qwerty.akadatel.com/iptv/6AE5A2A5943RBL/17013/index.m3u8
+http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/17013/index.m3u8
 #EXTINF:0,VF Универ новая общага
 #EXTGRP: кино
 http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/17013/index.m3u8
