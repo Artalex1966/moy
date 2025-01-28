@@ -56,12 +56,7 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Детское кино
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/40427/index.m3u8
-#EXTINF:0,Кино 2
-#EXTGRP: кино
-http://4je2oiwp.klaipedalt.org/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/18070/index.m3u8
-#EXTINF:0,Кино 2
-#EXTGRP: кино
-http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/18070/index.m3u8
+
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -147,9 +142,7 @@ https://hls.goodgame.ru/manifest/202997_master.m3u8
 #EXTINF:0,Кино J
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/210182.m3u8
-#EXTINF:0,Тео ТВ
-#EXTGRP: кино
-https://stream.teotv.ru/live/site360/playlist.m3u8
+
 #EXTINF:0,ТСВ
 #EXTGRP: кино
 http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
