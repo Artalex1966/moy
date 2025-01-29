@@ -207,6 +207,9 @@ http://live.admuspeh.my/8959/index.m3u8?token=UXbNmHvxaW834usw
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
 http://live.admuspeh.my/8879/video.m3u8?token=iptvshared
+#EXTINF:0,MiniMax UFO HD
+#EXTGRP: кино
+http://live.admuspeh.my/8410/index.m3u8?token=UXbNmHvxaW834usw
 #EXTINF:0,CineMan Катастрофы
 #EXTGRP: кино
 http://live.admuspeh.my/8957/index.m3u8?token=iptvshared
