@@ -130,9 +130,9 @@ http://91.205.199.3/komedia/index.m3u8
 #EXTGRP: кино
 http://185.23.80.28:8080/Camedi/index.m3u8?token=test
 
-#EXTINF:0,Блокбастер HD
+#EXTINF:0,Pro100TV
 #EXTGRP: кино
-http://185.23.80.28:8080/Blockbaster/index.m3u8?token=test
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:0,ВИДЕОКАССЕТА vhs-90s
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/176975.m3u8
@@ -201,9 +201,9 @@ http://live-3.otcnet.ru/kinotvplus7/index.m3u8
 #EXTGRP: кино
 http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,VL Fantastic
+#EXTINF:0,CineMan TOP
 #EXTGRP: кино
-http://cdntv.online/low/w5x8bhueai/1349.m3u8
+http://live.admuspeh.my/8959/index.m3u8?token=UXbNmHvxaW834usw
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
 http://live.admuspeh.my/8879/video.m3u8?token=iptvshared
