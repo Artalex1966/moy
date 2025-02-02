@@ -453,9 +453,9 @@ http://ott.server-iptv.live/516/video.m3u8?token=S793FB1732
 #EXTINF:0,МУЛЬТИМАНИЯ
 #EXTGRP: Детский
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
-#EXTINF:0,В гостях у сказки
+#EXTINF:0,Детский телеканал Мультимания
 #EXTGRP: Детский
-http://cdn.ottg.tv/9375/video.m3u8?username=alex02354&password=247820&token=9c6b7707197dd7d28d9effe37ae9fdd6&ch_id=319&req_host=pkjX3BL
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:0,Рыжий
 #EXTGRP: Детский
 http://stream2.cinerama.uz/1407/tracks-v1a1/mono.m3u8
