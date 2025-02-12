@@ -130,9 +130,9 @@ http://91.205.199.3/komedia/index.m3u8
 #EXTGRP: кино
 http://185.23.80.28:8080/Camedi/index.m3u8?token=test
 
-#EXTINF:0,Pro100TV
+#EXTINF:0,Военное Кино
 #EXTGRP: кино
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+http://u2tp5zor.megatv.fun/iptv/B4T6V2NK5QQVXT/18072/index.m3u8
 #EXTINF:0,ВИДЕОКАССЕТА vhs-90s
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/176975.m3u8
