@@ -95,6 +95,9 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/13021/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://70a75805.rossteleccom.net/iptv/C7AKWHXW7C8DGP/13021/index.m3u8
+#EXTINF:0,BCU Кинозал СССР
+#EXTGRP: кино
+http://cdn.admuspeh.my/8875/index.m3u8?token=iptvshared
 
 
 
