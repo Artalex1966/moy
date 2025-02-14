@@ -53,6 +53,9 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0,МУЛЬТФИЛЬМЫ СССР
+#EXTGRP: кино
+https://v2.catcast.tv/content/47786/index.m3u8
 
 
 #EXTINF:0,MM USSR Комедия HD
@@ -163,6 +166,10 @@ http://195.9.195.3:8080/hls/208358.m3u8
 #EXTINF:0,Фильмы 3
 #EXTGRP: кино
 http://195.9.195.3:8080/hls/206510.m3u8
+
+#EXTINF:0,MARSI TV
+#EXTGRP: кино
+https://hls.goodgame.ru/manifest/212494_master.m3u8
 
 #EXTINF:0,1FILMAX
 #EXTGRP: кино
