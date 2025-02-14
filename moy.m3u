@@ -117,7 +117,7 @@ http://185.50.148.2:7707/DomKino/index.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
-http://91.205.199.3:80/roos-nashelyubimoekino/manifest.m3u8
+http://130.193.73.10:8937/play/a037
 
 #EXTINF:0,Твоё ТВ Юмор
 #EXTGRP: кино
@@ -133,9 +133,7 @@ http://141.95.55.143/CH231/index.m3u8
 #EXTGRP: кино
 http://185.23.80.28:8080/Camedi/index.m3u8?token=test
 
-#EXTINF:0,Военное Кино
-#EXTGRP: кино
-http://u2tp5zor.megatv.fun/iptv/B4T6V2NK5QQVXT/18072/index.m3u8
+
 #EXTINF:0,ВИДЕОКАССЕТА vhs-90s
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/176975.m3u8
