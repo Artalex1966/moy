@@ -43,9 +43,9 @@ http://130.193.73.10:8937/play/a03i
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://flu.ttk.mx:90/Mosfilm/mono.m3u8?token=hs06e
-#EXTINF:0,Мосфильм. Золотая коллекция HD (+4)
+#EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://193.242.190.6:8099/98/index.m3u8
+http://cdn.admuspeh.my/8707/index.m3u8?token=TestuspehTva
 
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
@@ -53,9 +53,6 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0,Детское кино
-#EXTGRP: кино
-https://autopilot.catcast.tv/content/40427/index.m3u8
 
 
 #EXTINF:0,MM USSR Комедия HD
@@ -98,6 +95,9 @@ http://70a75805.rossteleccom.net/iptv/C7AKWHXW7C8DGP/13021/index.m3u8
 #EXTINF:0,BCU Кинозал СССР
 #EXTGRP: кино
 http://cdn.admuspeh.my/8875/index.m3u8?token=iptvshared
+#EXTINF:0,BOX СССР 4K
+#EXTGRP: кино
+http://cdn.admuspeh.my/8445/video.m3u8?token=iptvshared
 
 
 
@@ -125,9 +125,9 @@ http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
 #EXTINF:0,Русская Комедия
 #EXTGRP: кино
 https://s1.merlive.am/Komedia/index.m3u8
-#EXTINF:0,Кинокомедия
+#EXTINF:0,Комедийное (HD)
 #EXTGRP: кино
-http://91.205.199.3/komedia/index.m3u8
+http://141.95.55.143/CH231/index.m3u8
 
 #EXTINF:0,Камеди
 #EXTGRP: кино
@@ -178,9 +178,9 @@ http://hlss.goodgame.ru/hls/187741.m3u8
 #EXTINF:0,Film TV 3
 #EXTGRP: кино
 http://hls.goodgame.ru/hls/209426.m3u8
-#EXTINF:0,Film TV 6
+#EXTINF:0,CineMan
 #EXTGRP: кино
-https://autopilot.catcast.tv/content/47689/index.m3u8
+http://cdn.admuspeh.my/8952/index.m3u8?token=iptvshared
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
@@ -206,7 +206,7 @@ http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,CineMan TOP
 #EXTGRP: кино
-http://ip1.orgip.net/683/video.m3u8?token=Md7ac19a92
+http://cdn.admuspeh.my/8959/index.m3u8?token=iptvshared
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
 http://ip1.orgip.net/1606/video.m3u8?token=Md7ac19a92
@@ -215,10 +215,8 @@ http://ip1.orgip.net/1606/video.m3u8?token=Md7ac19a92
 http://live.admuspeh.my/8410/index.m3u8?token=UXbNmHvxaW834usw
 #EXTINF:0,CineMan Катастрофы
 #EXTGRP: кино
-http://ip1.orgip.net/693/video.m3u8?token=Md7ac19a92
-#EXTINF:0,CineMan
-#EXTGRP: кино
-http://ip1.orgip.net/682/video.m3u8?token=Md7ac19a92
+http://cdn.admuspeh.my/8957/index.m3u8?token=iptvshared
+
 
 #EXTINF:0,The X-Files
 #EXTGRP: кино
