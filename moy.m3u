@@ -45,7 +45,7 @@ http://130.193.73.10:8937/play/a03i
 http://flu.ttk.mx:90/Mosfilm/mono.m3u8?token=hs06e
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://cdn.admuspeh.my/8707/index.m3u8?token=TestuspehTva
+http://185.50.148.2:7706/Mosfilm/index.m3u8
 
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
@@ -95,16 +95,15 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/13021/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://70a75805.rossteleccom.net/iptv/C7AKWHXW7C8DGP/13021/index.m3u8
-#EXTINF:0,BCU Кинозал СССР
+#EXTINF:0,СОВЕТСКИЕ ФИЛЬМЫ
 #EXTGRP: кино
-http://cdn.admuspeh.my/8875/index.m3u8?token=iptvshared
+https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MDM5NTExNSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzM5NzkwMzE1LCJzZXNzaW9uX2lkIjoiNWJjYWFmODE2ZGIxOTRjN2NkMzUzOGY1MDM4MzA0ZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.wjCCop2BjvHBT39kMnnZBo755JfydpF1iHujQBx_hzs
 #EXTINF:0,Кинозал 28
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
 #EXTINF:0,Патриот
 #EXTGRP: кино
-https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8
-
+http://srv-2-streaming.iptvin.fun:8080/patriot/index.m3u8?token=de662a5e384c8ebac991e8f2c8f6c3c6e8f11aee-4039138701-1740199287-1740156087
 
 
 #EXTINF:0,MM Комедия Classic HD
@@ -431,7 +430,7 @@ http://195.9.195.3:8080/hls/198446.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:0,Советские мультфильмы
 #EXTGRP: Детский
-http://cdntv.online/low/pa3nc5dxwz/165.m3u8
+https://v2.catcast.tv/content/47786/index.m3u8
 #EXTINF:0,O!
 #EXTGRP: Детский
 http://flu.ttk.mx:90/O!/mono.m3u8?token=hs06e
@@ -455,7 +454,7 @@ http://65.21.85.175:8000/play/a01r/index.m3u8?token=livetv
 http://stream2.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
-http://185.50.148.2:7706/Mult/index.m3u8
+http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 #EXTINF:0,Лёва HD
 #EXTGRP: Детский
 http://ott.server-iptv.live/526/video.m3u8?token=S793FB1732
