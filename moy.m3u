@@ -45,7 +45,7 @@ http://130.193.73.10:8937/play/a03i
 http://flu.ttk.mx:90/Mosfilm/mono.m3u8?token=hs06e
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://185.50.148.2:7706/Mosfilm/index.m3u8
+http://193.242.190.6:8099/98/index.m3u8
 
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
