@@ -112,7 +112,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/EBBDX25MF7G6MC/13037/index.m3u8
 http://185.23.80.28:8080/Retro/index.m3u8?token=test
 #EXTINF:0,Дом кино
 #EXTGRP: кино
-http://185.50.148.2:7707/DomKino/index.m3u8
+http://193.242.190.6:8099/38/index.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
@@ -463,7 +463,7 @@ https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:0,Рыжий
 #EXTGRP: Детский
-http://stream2.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
 http://ott.server-iptv.live/517/video.m3u8?token=S793FB1732
