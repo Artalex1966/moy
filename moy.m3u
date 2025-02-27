@@ -95,15 +95,9 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/13021/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://70a75805.rossteleccom.net/iptv/C7AKWHXW7C8DGP/13021/index.m3u8
-#EXTINF:0,СОВЕТСКИЕ ФИЛЬМЫ
-#EXTGRP: кино
-https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MDM5NTExNSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzM5NzkwMzE1LCJzZXNzaW9uX2lkIjoiNWJjYWFmODE2ZGIxOTRjN2NkMzUzOGY1MDM4MzA0ZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.wjCCop2BjvHBT39kMnnZBo755JfydpF1iHujQBx_hzs
 #EXTINF:0,Кинозал 28
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:0,Патриот
-#EXTGRP: кино
-http://srv-2-streaming.iptvin.fun:8080/patriot/index.m3u8?token=de662a5e384c8ebac991e8f2c8f6c3c6e8f11aee-4039138701-1740199287-1740156087
 
 
 #EXTINF:0,MM Комедия Classic HD
@@ -493,7 +487,17 @@ http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:0,Музыка Кино International
 #EXTGRP: Музыка
 http://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:0,Dancehits 80
+#EXTGRP: Музыка
+http://dancehits80.denvs.ru:8080/index.m3u8
 
+
+#EXTINF:0,Now 80's
+#EXTGRP: Музыка
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,Now 90's
+#EXTGRP: Музыка
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 -----------
 
 
