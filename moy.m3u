@@ -13,7 +13,7 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?v
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:0,НТВ
 #EXTGRP: эфир
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:0,ТВЦ
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
