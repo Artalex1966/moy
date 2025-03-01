@@ -98,6 +98,12 @@ http://70a75805.rossteleccom.net/iptv/C7AKWHXW7C8DGP/13021/index.m3u8
 #EXTINF:0,Кинозал 28
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+#EXTINF:0,KLI СССР HD
+#EXTGRP: кино
+http://ott.server-iptv.live/1600/video.m3u8?token=A3b61a999e
+#EXTINF:0,Жизнь Глазова
+#EXTGRP: кино
+https://yellow.garant.tv/glazov24/stream.m3u8
 
 
 #EXTINF:0,MM Комедия Classic HD
@@ -160,9 +166,9 @@ http://195.9.195.3:8080/hls/208358.m3u8
 #EXTGRP: кино
 http://195.9.195.3:8080/hls/206510.m3u8
 
-#EXTINF:0,MARSI TV
+#EXTINF:0,Logovo Films
 #EXTGRP: кино
-https://hls.goodgame.ru/manifest/212494_master.m3u8
+https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,1FILMAX
 #EXTGRP: кино
@@ -407,6 +413,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 ------
 
 
+#EXTINF:0,Мультфильмы VHS
+#EXTGRP: Детский
+https://v2.catcast.tv/content/47757/index.m3u8
 #EXTINF:0,Том и Джерри
 #EXTGRP: Детский
 http://line.u-ltra.xyz:80/643835496/099050/1443815
