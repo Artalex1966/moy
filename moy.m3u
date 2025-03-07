@@ -92,12 +92,15 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/13021/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://ebcbe1f7.megogo.xyz/iptv/DW9V8Z9LMUZPCCKWMNWNL56K/13021/index.m3u8
-#EXTINF:0,Кинозал 28
+#EXTINF:0,Кинозал 25
 #EXTGRP: кино
-https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
 http://ott.server-iptv.live/1600/video.m3u8?token=A3b61a999e
+#EXTINF:0,TVPlay Советское Кино HD
+#EXTGRP: кино
+http://95.143.191.33:5050/TVPlaySovKinoHD.tv/video.m3u8?token=Y9LUPAeayunx83
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
@@ -113,22 +116,21 @@ http://185.23.80.28:8080/Retro/index.m3u8?token=test
 #EXTGRP: кино
 http://193.242.190.6:8099/38/index.m3u8
 
-#EXTINF:0,Любимое кино
-#EXTGRP: кино
-http://130.193.73.10:8937/play/a037
 
 #EXTINF:0,Твоё ТВ Юмор
 #EXTGRP: кино
 http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
+#EXTINF:0,TVPlay 6 Кадров
+#EXTGRP: кино
+http://95.143.191.33:5050/TVPlay6Kadrov/video.m3u8?token=Y9LUPAeayunx83
 
-#EXTINF:0,TVPlay Новинка Мир HD
+#EXTINF:0,Новинка Мир HD
 #EXTGRP: кино
 http://95.143.191.33:5050/TVPlayNovyoWorldHD/video.m3u8?token=Y9LUPAeayunx83
 
-#EXTINF:0,Камеди
+#EXTINF:0,Фантастика HD
 #EXTGRP: кино
-http://185.23.80.28:8080/Camedi/index.m3u8?token=test
-
+http://95.143.191.33:5050/TVPlayFantastikaHD.tv/video.m3u8?token=Y9LUPAeayunx83
 
 #EXTINF:0,ВИДЕОКАССЕТА vhs-90s
 #EXTGRP: кино
