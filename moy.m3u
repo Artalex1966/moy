@@ -50,9 +50,6 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0,МУЛЬТФИЛЬМЫ СССР
-#EXTGRP: кино
-https://v2.catcast.tv/content/47786/index.m3u8
 
 
 #EXTINF:0,MM USSR Комедия HD
@@ -204,10 +201,10 @@ http://185.50.148.2:7703/TV1000Action/index.m3u8
 http://91.205.199.3/vipmegahit/index.m3u8
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
-http://193.242.190.6:8099/200/index.m3u8
+https://cdntv.online/high/dxv49bicznfj/106.m3u8
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
+https://cdntv.online/high/dxv49bicznfj/104.m3u8
 
 ==
 
@@ -225,10 +222,10 @@ http://stream01.vnet.am/MujskoeKino/index.m3u8
 http://193.242.190.6:8099/35/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-http://45.159.74.14:80/Kinokhit/index.m3u8
+http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
 #EXTINF:0,Киномикс
 #EXTGRP: кино
-http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
+http://65.21.85.175:8000/play/a01c/index.m3u8?token=livetv
 #EXTINF:0,Киносемья
 #EXTGRP: кино
 http://193.242.190.6:8099/85/index.m3u8
