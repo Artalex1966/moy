@@ -43,6 +43,9 @@ http://185.50.148.2:7706/Mosfilm/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://193.242.190.6:8099/98/index.m3u8
+#EXTINF:0,Мосфильм (+2)
+#EXTGRP: кино
+http://213.141.247.5:14027/udp/239.255.0.110:1234
 
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
@@ -132,7 +135,7 @@ http://84.38.180.145:8080/tvoetv/index.m3u8
 #EXTGRP: кино
 http://95.143.191.33:5050/TVPlayNovyoWorldHD/video.m3u8?token=Y9LUPAeayunx83
 
-#EXTINF:0,Фантастика HD
+#EXTINF:0,TVPlay Фантастика HD
 #EXTGRP: кино
 http://95.143.191.33:5050/TVPlayFantastikaHD.tv/video.m3u8?token=Y9LUPAeayunx83
 
@@ -183,9 +186,9 @@ http://hlss.goodgame.ru/hls/187741.m3u8
 #EXTINF:0,Film TV 3
 #EXTGRP: кино
 http://hls.goodgame.ru/hls/209426.m3u8
-#EXTINF:0,CineMan
+#EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8952/index.m3u8?token=iptvshared
+http://ott.server-iptv.live/1606/video.m3u8?token=S793FB1732
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
@@ -211,7 +214,7 @@ http://185.50.148.2:7703/TV1000Action/index.m3u8
 http://91.205.199.3/vipmegahit/index.m3u8
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
-http://130.193.73.10:8937/play/a03g
+https://jekalich.github.io/smtk/channels/vip-premiere.m3u8
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
 https://cdntv.online/high/dxv49bicznfj/104.m3u8
