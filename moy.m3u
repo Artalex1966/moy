@@ -201,7 +201,7 @@ http://185.50.148.2:7703/TV1000Action/index.m3u8
 http://91.205.199.3/vipmegahit/index.m3u8
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
-https://cdntv.online/high/dxv49bicznfj/106.m3u8
+http://130.193.73.10:8937/play/a03g
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
 https://cdntv.online/high/dxv49bicznfj/104.m3u8
@@ -354,9 +354,12 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:0,ТНТ4
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:0, ТНТ International
+#EXTGRP: эфир
+http://85.187.13.40:18000/tntint
 #EXTINF:0, ТНТ4 International
 #EXTGRP: эфир
-http://sc.id-tv.kz/tnt4_34_35.m3u8
+https://cdn2.skygo.mn/live/disk1/TNT4/HLS-FTA/TNT4.m3u8
 #EXTINF:0,Суббота
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
