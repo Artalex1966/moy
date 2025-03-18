@@ -22,7 +22,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:0,РЕН ТВ
 #EXTGRP: эфир
-http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
+https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
 #EXTINF:0,Звезда
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
