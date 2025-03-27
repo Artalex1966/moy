@@ -39,10 +39,10 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 http://tv.ttk.mx:9169
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://185.50.148.2:7706/Mosfilm/index.m3u8
+http://188.190.222.53/Mosfilm/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://193.242.190.6:8099/98/index.m3u8
+http://178.212.71.253:8000/play/124/index.m3u8
 #EXTINF:0,Мосфильм (+2)
 #EXTGRP: кино
 http://213.141.247.5:14027/udp/239.255.0.110:1234
@@ -115,7 +115,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/EBBDX25MF7G6MC/13037/index.m3u8
 http://185.23.80.28:8080/Retro/index.m3u8?token=test
 #EXTINF:0,Дом кино
 #EXTGRP: кино
-http://193.242.190.6:8099/38/index.m3u8
+http://31.148.48.15:80/Dom_Kino/index.m3u8?token=test
 
 
 #EXTINF:0,Твоё ТВ Юмор
