@@ -43,9 +43,6 @@ http://188.190.222.53/Mosfilm/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://178.212.71.253:8000/play/124/index.m3u8
-#EXTINF:0,Мосфильм (+2)
-#EXTGRP: кино
-http://213.141.247.5:14027/udp/239.255.0.110:1234
 
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
@@ -99,6 +96,9 @@ https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
 #EXTINF:0,KLI СССР HD
 #EXTGRP: кино
 http://ott.server-iptv.live/1600/video.m3u8?token=A3b61a999e
+#EXTINF:0,CineMan CCCP 4K
+#EXTGRP: кино
+http://ip1.orgip.net/1602/video.m3u8?token=A3b61a999e
 #EXTINF:0,TVPlay Советское Кино HD
 #EXTGRP: кино
 http://95.143.191.33:5050/TVPlaySovKinoHD.tv/video.m3u8?token=Y9LUPAeayunx83
@@ -210,18 +210,21 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:0, Кинопоказ
 #EXTGRP: кино
 http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
+#EXTINF:0, Кинопоказ
+#EXTGRP: кино
+http://178.163.4.251:4022/udp/234.0.0.209:2000
 
 
 
 #EXTINF:0,viju TV1000 Action
 #EXTGRP: кино
-http://185.50.148.2:7703/TV1000Action/index.m3u8
+http://ip1.orgip.net/623/video.m3u8?token=A3b61a999e
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
-http://91.205.199.3/vipmegahit/index.m3u8
+http://ip1.orgip.net/606/video.m3u8?token=A3b61a999e
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
-https://jekalich.github.io/smtk/channels/vip-premiere.m3u8
+http://ip1.orgip.net/605/video.m3u8?token=A3b61a999e
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
 https://cdntv.online/high/dxv49bicznfj/104.m3u8
