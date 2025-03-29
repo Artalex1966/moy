@@ -145,14 +145,12 @@ https://v2.catcast.tv/content/40546/index.m3u8
 #EXTINF:0,ВосходТВ
 #EXTGRP: кино
 https://hls.goodgame.ru/manifest/202997_master.m3u8
-#EXTINF:0,Кино J
-#EXTGRP: кино
-https://hls.goodgame.ru/hls/210182.m3u8
-
-
 #EXTINF:0,Akudji TV
 #EXTGRP: кино
 http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:0,FMC TV
+#EXTGRP: кино
+http://hlss.goodgame.ru/hls/187741.m3u8
 
 #EXTINF:0,Фильмы 1
 #EXTGRP: кино
@@ -174,15 +172,25 @@ https://hls.goodgame.ru/hls/204708_720.m3u8
 #EXTINF:0,2FILMAX
 #EXTGRP: кино
 https://hls.goodgame.ru/hls/204717.m3u8
-#EXTINF:0,Film TV
+
+#EXTINF:0,Film TV 1
 #EXTGRP: кино
 http://hlss.goodgame.ru/hls/163253.m3u8
-#EXTINF:0,FMC TV
+#EXTINF:0,Film TV 2
 #EXTGRP: кино
-http://hlss.goodgame.ru/hls/187741.m3u8
+http://hls.goodgame.ru/hls/208358.m3u8
 #EXTINF:0,Film TV 3
 #EXTGRP: кино
-http://hls.goodgame.ru/hls/209426.m3u8
+https://hls.goodgame.ru/hls/181039.m3u8
+#EXTINF:0,Film TV 4
+#EXTGRP: кино
+https://autopilot.catcast.tv/content/47689/index.m3u8
+#EXTINF:0,Film TV 5
+#EXTGRP: кино
+http://hls.goodgame.ru/hls/210275.m3u8
+
+
+
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
 http://ott.server-iptv.live/1606/video.m3u8?token=S793FB1732
@@ -202,6 +210,8 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:0, Кинопоказ
 #EXTGRP: кино
 http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:0,viju TV1000 Action
 #EXTGRP: кино
