@@ -98,6 +98,13 @@ https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
 #EXTGRP: кино
 https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mzk5NDA1OSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzMzg5MjU5LCJzZXNzaW9uX2lkIjoiOTY1M2JkNzc3Njk4YzdmODRjNDc5OTU1NGRkNDc1NzYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KGHLVTxp2-xOck8DUZg4A8YS053lPLNvKDX-g8l770U
 
+#EXTINF:0,KLI СССР HD
+#EXTGRP: кино
+http://17a4c93c.ucomist.net/iptv/VKCUXAKBF9PTFH/18175/index.m3u8
+#EXTINF:0,StrahTV СССР
+#EXTGRP: кино
+http://17a4c93c.ucomist.net/iptv/VKCUXAKBF9PTFH/11061/index.m3u8
+
 #EXTINF:0,TVPlay Советское Кино HD
 #EXTGRP: кино
 http://95.143.191.33:5050/TVPlaySovKinoHD.tv/video.m3u8?token=Y9LUPAeayunx83
@@ -601,15 +608,10 @@ https://fl1001.bozztv.com/ushba64/index.m3u8
 #EXTINF:-1 group-title="Usba TV",Кинозалы 37
 https://fl1001.bozztv.com/ushba65/index.m3u8
 ======================
-#EXTINF:0,Сеть приколов
-#EXTGRP: кино
-http://91.205.199.3/gagsnetwork/index.m3u8
+
 #EXTINF:0,Камин
 #EXTGRP: кино
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:0,Аквариум
-#EXTGRP: кино
-http://49.12.129.114:41921/aquarium/manifest.m3u8
+http://185.57.68.33:8091/232/index.m3u8
 
 #EXTINF:0,Конец
 
