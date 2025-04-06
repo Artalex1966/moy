@@ -98,9 +98,9 @@ https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
 #EXTGRP: кино
 https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mzk5NDA1OSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzMzg5MjU5LCJzZXNzaW9uX2lkIjoiOTY1M2JkNzc3Njk4YzdmODRjNDc5OTU1NGRkNDc1NzYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KGHLVTxp2-xOck8DUZg4A8YS053lPLNvKDX-g8l770U
 
-#EXTINF:0,KLI СССР HD
+#EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://17a4c93c.ucomist.net/iptv/VKCUXAKBF9PTFH/18175/index.m3u8
+http://srv-3-streaming.iptvin.online:8080/bcusssr/index.m3u8?token=c22b0646b3ee80737d7297db1366f1a3d97718cb-9765369279-1744005543-1743962343
 #EXTINF:0,StrahTV СССР
 #EXTGRP: кино
 http://17a4c93c.ucomist.net/iptv/VKCUXAKBF9PTFH/11061/index.m3u8
@@ -224,7 +224,7 @@ http://178.163.4.251:4022/udp/234.0.0.209:2000
 
 #EXTINF:0,viju TV1000 Action
 #EXTGRP: кино
-https://cdntv.online/high/dxv49bicznfj/101.m3u8
+http://109.70.186.70:9090/udp/239.185.1.3:1234
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
 https://cdntv.online/high/dxv49bicznfj/105.m3u8
