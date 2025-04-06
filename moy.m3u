@@ -93,10 +93,17 @@ http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/13021/index.m3u8
 #EXTINF:0,Кинозал 25
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
+#EXTINF:0,Советские фильмы
+#EXTGRP: кино
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_23_sd
 
 #EXTINF:0,Патриот
 #EXTGRP: кино
 https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mzk5NDA1OSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzMzg5MjU5LCJzZXNzaW9uX2lkIjoiOTY1M2JkNzc3Njk4YzdmODRjNDc5OTU1NGRkNDc1NzYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KGHLVTxp2-xOck8DUZg4A8YS053lPLNvKDX-g8l770U
+
+#EXTINF:0,Победа
+#EXTGRP: кино
+http://109.197.192.121:8080/pobeda/index.m3u8
 
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
@@ -108,6 +115,9 @@ http://17a4c93c.ucomist.net/iptv/VKCUXAKBF9PTFH/11061/index.m3u8
 #EXTINF:0,TVPlay Советское Кино HD
 #EXTGRP: кино
 http://95.143.191.33:5050/TVPlaySovKinoHD.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:0,Советское Кино
+#EXTGRP: кино
+https://mhd128.iptv2022.com/p/3GABtd-bxQYt5aupOJHWRQ,1743973209/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
@@ -133,10 +143,6 @@ http://95.143.191.33:5050/TVPlay6Kadrov/video.m3u8?token=Y9LUPAeayunx83
 #EXTINF:0,Твоё ТВ
 #EXTGRP: кино
 http://84.38.180.145:8080/tvoetv/index.m3u8
-
-#EXTINF:0,CineMan Top
-#EXTGRP: кино
-https://cdntv.online/high/dxv49bicznfj/1256.m3u8
 
 #EXTINF:0,TVPlay Фантастика HD
 #EXTGRP: кино
@@ -197,10 +203,6 @@ http://hls.goodgame.ru/hls/210275.m3u8
 
 
 
-#EXTINF:0,BCU Fantastic HD
-#EXTGRP: кино
-http://ott.server-iptv.live/1606/video.m3u8?token=S793FB1732
-
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
@@ -239,10 +241,10 @@ https://cdntv.online/high/dxv49bicznfj/104.m3u8
 
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
-http://91.205.199.3/nashenovoekino/index.m3u8
+http://109.197.192.121:8080/kinohit/index.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
-http://185.50.148.2:7711/RodnoeKino/index.m3u8
+http://87.76.32.36:9106/udp/238.1.1.77:1234
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
 https://cdntv.online/high/dxv49bicznfj/128.m3u8
@@ -254,10 +256,10 @@ https://cdntv.online/high/dxv49bicznfj/121.m3u8
 https://cdntv.online/high/dxv49bicznfj/118.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
-https://cdntv.online/high/dxv49bicznfj/120.m3u8
+http://109.197.192.121:8080/kinoplus/index.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: кино
-http://193.242.190.6:8099/85/index.m3u8
+http://109.197.192.121:8080/kinosemya/index.m3u8
 
 ---
 
