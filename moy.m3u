@@ -148,6 +148,9 @@ http://84.38.180.145:8080/tvoetv/index.m3u8
 #EXTINF:0,TVPlay Фантастика HD
 #EXTGRP: кино
 http://95.143.191.33:5050/TVPlayFantastikaHD.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:0,Sunset Fantastic
+#EXTGRP: кино
+https://stream.sunset-media.org/AfBrazXsUK/J9hGT3vYuv/8.m3u8
 
 #EXTINF:0,ВИДЕОКАССЕТА vhs-90s
 #EXTGRP: кино
@@ -266,6 +269,9 @@ http://109.197.192.121:8080/kinosemya/index.m3u8
 
 
 ======
+#EXTINF:0,TVPlay Игра Престолов HD
+#EXTGRP: кино
+http://95.143.191.33:5050/TVPlayIgraPrestolov/video.m3u8?token=Y9LUPAeayunx83
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/17006/index.m3u8
