@@ -14,10 +14,10 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?v
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:0,НТВ
 #EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
 #EXTINF:0,ТВЦ
 #EXTGRP: эфир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
