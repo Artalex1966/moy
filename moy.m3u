@@ -5,19 +5,19 @@
 http://185.23.80.28:8080/IzvestiyaVoronezh/index.m3u8?token=test
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8|User-Agent=Kodi/18.3
 #EXTINF:0,Первый канал
 #EXTGRP: эфир
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
 #EXTINF:0,Россия 1
 #EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8|User-Agent=Kodi/18.3
 #EXTINF:0,НТВ
 #EXTGRP: эфир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8|User-Agent=Kodi/18.3
 #EXTINF:0,ТВЦ
 #EXTGRP: эфир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8|User-Agent=Kodi/18.3
 #EXTINF:0,Соловьев Live
 #EXTGRP: эфир
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
