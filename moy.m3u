@@ -91,9 +91,17 @@ http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/13021/index.m3u8
 #EXTGRP: кино
 http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/13021/index.m3u8
 
+
+#EXTINF:0,Кинозал 3
+#EXTGRP: кино
+https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кинозал 25
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
+#EXTINF:0,Кинозал 32
+#EXTGRP: кино
+https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
+
 #EXTINF:0,Советские фильмы
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_23_sd
