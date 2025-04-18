@@ -618,12 +618,6 @@ https://fl1001.bozztv.com/ushba64/index.m3u8
 #EXTINF:-1 group-title="Usba TV",Кинозалы 37
 https://fl1001.bozztv.com/ushba65/index.m3u8
 ======================
-#EXTINF:0,vk1
-#EXTGRP: кино
-https://vkplay.live/timetomovie
-#EXTINF:0,vk2
-#EXTGRP: кино
-https://vkplay.live/video_prokat
 
 
 #EXTINF:0,Камин
