@@ -149,9 +149,9 @@ http://84.38.180.145:8080/tvoetv/index.m3u8
 #EXTINF:0,TVPlay Фантастика HD
 #EXTGRP: кино
 http://95.143.191.33:5050/TVPlayFantastikaHD.tv/video.m3u8?token=Y9LUPAeayunx83
-#EXTINF:0,Sunset Fantastic
+#EXTINF:0,Киноман
 #EXTGRP: кино
-https://stream.sunset-media.org/AfBrazXsUK/J9hGT3vYuv/8.m3u8
+http://178.212.71.253:8000/play/66/index.m3u8
 
 #EXTINF:0,ВИДЕОКАССЕТА vhs-90s
 #EXTGRP: кино
@@ -618,6 +618,13 @@ https://fl1001.bozztv.com/ushba64/index.m3u8
 #EXTINF:-1 group-title="Usba TV",Кинозалы 37
 https://fl1001.bozztv.com/ushba65/index.m3u8
 ======================
+#EXTINF:0,vk1
+#EXTGRP: кино
+https://vkplay.live/timetomovie
+#EXTINF:0,vk2
+#EXTGRP: кино
+https://vkplay.live/video_prokat
+
 
 #EXTINF:0,Камин
 #EXTGRP: кино
