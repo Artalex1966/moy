@@ -255,10 +255,10 @@ http://87.76.32.36:9106/udp/238.1.1.77:1234
 http://31.210.208.171:8080/muzhskoekino/index.m3u8?token=+W2MSER
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
-https://cdntv.online/high/dxv49bicznfj/121.m3u8
+http://134.255.140.127:81/udp/239.255.0.157:1234
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-https://cdntv.online/high/dxv49bicznfj/118.m3u8
+http://109.74.162.99:1234/udp/239.255.0.197:1234
 #EXTINF:0,Киномикс
 #EXTGRP: кино
 http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
