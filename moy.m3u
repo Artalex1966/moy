@@ -252,7 +252,7 @@ http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=eyJhbGciOi
 http://178.212.71.253:8000/play/136/index.m3u8
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
-http://176.113.48.221:8986/136
+http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
 http://178.124.179.122:8088/Kinopremiera/index.m3u8
