@@ -219,7 +219,7 @@ http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
 http://91.205.199.3/sinema/index.m3u8
 #EXTINF:0,КИНО ТВ HD
 #EXTGRP: кино
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+http://31.210.208.171:8080/kinotv/index.m3u8?token=+W2MSER
 #EXTINF:0, Кинопоказ
 #EXTGRP: кино
 http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
@@ -246,13 +246,13 @@ https://cdntv.online/high/dxv49bicznfj/104.m3u8
 
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
-http://109.197.192.121:8080/kinohit/index.m3u8
+http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
 #EXTINF:0,Родное кино
 #EXTGRP: кино
 http://87.76.32.36:9106/udp/238.1.1.77:1234
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
-https://cdntv.online/high/dxv49bicznfj/128.m3u8
+http://31.210.208.171:8080/muzhskoekino/index.m3u8?token=+W2MSER
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
 https://cdntv.online/high/dxv49bicznfj/121.m3u8
@@ -261,7 +261,7 @@ https://cdntv.online/high/dxv49bicznfj/121.m3u8
 https://cdntv.online/high/dxv49bicznfj/118.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
-http://109.197.192.121:8080/kinoplus/index.m3u8
+http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 #EXTINF:0,Киносемья
 #EXTGRP: кино
 http://109.197.192.121:8080/kinosemya/index.m3u8
