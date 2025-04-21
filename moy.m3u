@@ -114,12 +114,15 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTgwOTc5NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1MjA0OTk1LCJzZXNzaW9uX2lkIjoiZmIzMzM1NmQyNmM3OTQ5NTU4NmRkMmI3ZWY4Mjc0MzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aFyzYCgM_oKjh2_Dg6FQYD6PyavjN_0NIUwZ6-lXrr0
 
+#EXTINF:0,Советская киноклассика HD
+#EXTGRP: кино
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sovetskay_kinoclassica_HD
 #EXTINF:0,TVPlay Советское Кино HD
 #EXTGRP: кино
 http://95.143.191.33:5050/TVPlaySovKinoHD.tv/video.m3u8?token=Y9LUPAeayunx83
 #EXTINF:0,Советское Кино
 #EXTGRP: кино
-https://mhd128.iptv2022.com/p/3GABtd-bxQYt5aupOJHWRQ,1743973209/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
+http://api.peers.tv/timeshift/sovetskoekino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDUyNjIxMTAsImlhdCI6MTc0NTE3NTcxMCwiY2lkIjo2LCJ1aWQiOjkxMDQ1ODY3MywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.-UKPUBxhYpmySkREGoriDIHjM5422gAFQIX-EmRtSao&offset=10
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
