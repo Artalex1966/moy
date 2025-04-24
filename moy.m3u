@@ -237,13 +237,13 @@ http://178.163.4.251:4022/udp/234.0.0.209:2000
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=RuTrBE8vMpAVmseSJhxlcA&e=1745688968&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
-http://arbiter.bolshoe.tv/?path=abr2/tv_1000_megahit_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDc6MDA6NDcgQU0maGFzaF92YWx1ZT1sUlorYStQc1lwSndJTjRkN2lpcGlnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU1NjQzNDEsImlhdCI6MTc0NTQ3Nzk0MSwiY2lkIjo2LCJ1aWQiOjkxMTM5MDMyMiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.lR00xUyBN6Ka2JJ6CVtfCCKNjdcIW5F9KmyIAQ5j440&offset=10
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
-http://arbiter.bolshoe.tv/?path=abr2/tv1000_premium_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDc6MDA6NDcgQU0maGFzaF92YWx1ZT1sUlorYStQc1lwSndJTjRkN2lpcGlnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU1NjQzNDEsImlhdCI6MTc0NTQ3Nzk0MSwiY2lkIjo2LCJ1aWQiOjkxMTM5MDMyMiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.lR00xUyBN6Ka2JJ6CVtfCCKNjdcIW5F9KmyIAQ5j440&offset=10
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-http://arbiter.bolshoe.tv/?path=abr2/tv_1000_comedy_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDc6MDA6NDcgQU0maGFzaF92YWx1ZT1sUlorYStQc1lwSndJTjRkN2lpcGlnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU1NjQzNDEsImlhdCI6MTc0NTQ3Nzk0MSwiY2lkIjo2LCJ1aWQiOjkxMTM5MDMyMiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.lR00xUyBN6Ka2JJ6CVtfCCKNjdcIW5F9KmyIAQ5j440&offset=10
 
 ==
 
