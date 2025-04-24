@@ -209,6 +209,24 @@ https://autopilot.catcast.tv/content/47689/index.m3u8
 #EXTGRP: кино
 http://hls.goodgame.ru/hls/210275.m3u8
 
+#EXTINF:0,КИHОЗАЛ 1
+#EXTGRP: кино
+http://195.9.195.3:8080/hls/214749.m3u8
+#EXTINF:0,КИHОЗАЛ 3
+#EXTGRP: кино
+http://195.9.195.3:8080/hls/206513.m3u8
+#EXTINF:0,КИHОЗАЛ 5
+#EXTGRP: кино
+http://195.9.195.3:8080/hls/208358.m3u8
+#EXTINF:0,КИHОЗАЛ 16
+#EXTGRP: кино
+http://195.9.195.3:8080/hls/3592.m3u8
+#EXTINF:0,Alpha Cinema
+#EXTGRP: кино
+http://195.9.195.3:8080/hls/205072.m3u8
+#EXTINF:0,VideoArsenal
+#EXTGRP: кино
+http://195.9.195.3:8080/hls/181039.m3u8
 
 
 #EXTINF:0,Cinema
