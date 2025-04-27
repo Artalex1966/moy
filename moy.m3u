@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz"
-#EXTM3U x-tvg-url="https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 
 #EXTINF:0,Известия
 #EXTGRP: эфир
