@@ -125,7 +125,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sovetskay_kinoclas
 http://95.143.191.33:5050/TVPlaySovKinoHD.tv/video.m3u8?token=Y9LUPAeayunx83
 #EXTINF:0,Любимые фильмы
 #EXTGRP: кино
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=45d65f49f95256f26775c90ec471e574
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=595400da1471a720768fc9e5fd20b678
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
@@ -140,7 +140,12 @@ http://194.158.218.123:8880/Retrotv/index.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://178.212.71.253:8000/play/99/index.m3u8
-
+#EXTINF:0,НАШИ СЕРИАЛЫ
+#EXTGRP: кино
+http://195.9.195.3:8080/hls/196074.m3u8
+#EXTINF:0,Всё ТВ
+#EXTGRP: кино
+https://ix.goodgame.ru/hls/153640.m3u8
 
 #EXTINF:0,Твоё ТВ Юмор
 #EXTGRP: кино
@@ -226,9 +231,7 @@ http://195.9.195.3:8080/hls/206513.m3u8
 #EXTINF:0,КИHОЗАЛ 5
 #EXTGRP: кино
 http://195.9.195.3:8080/hls/208358.m3u8
-#EXTINF:0,Всё ТВ
-#EXTGRP: кино
-https://ix.goodgame.ru/hls/153640.m3u8
+
 #EXTINF:0,Alpha Cinema
 #EXTGRP: кино
 http://195.9.195.3:8080/hls/205072.m3u8
@@ -263,19 +266,19 @@ http://178.163.4.251:4022/udp/234.0.0.209:2000
 http://130.193.73.10:8937/play/a02t
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
-http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU1NjQzNDEsImlhdCI6MTc0NTQ3Nzk0MSwiY2lkIjo2LCJ1aWQiOjkxMTM5MDMyMiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.lR00xUyBN6Ka2JJ6CVtfCCKNjdcIW5F9KmyIAQ5j440&offset=10
+http://178.219.160.169:8880/104/index.m3u8
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
-http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU1NjQzNDEsImlhdCI6MTc0NTQ3Nzk0MSwiY2lkIjo2LCJ1aWQiOjkxMTM5MDMyMiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.lR00xUyBN6Ka2JJ6CVtfCCKNjdcIW5F9KmyIAQ5j440&offset=10
+http://194.247.179.13:8888/udp/225.1.3.155:1234
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU1NjQzNDEsImlhdCI6MTc0NTQ3Nzk0MSwiY2lkIjo2LCJ1aWQiOjkxMTM5MDMyMiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.lR00xUyBN6Ka2JJ6CVtfCCKNjdcIW5F9KmyIAQ5j440&offset=10
+http://178.219.160.169:8880/103/index.m3u8
 
 ==
 
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
-http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDUwNDYwNDUsImlhdCI6MTc0NDk1OTY0NSwiY2lkIjo2LCJ1aWQiOjkwOTc4MDk2NiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.itENhBQD83RG1GMgkMKZl24uTNrOMLzBf454DJ5q9y0&offset=10
+http://178.212.71.253:8002/play/a00i/index.m3u80
 #EXTINF:0,Родное кино
 #EXTGRP: кино
 http://178.212.71.253:8000/play/136/index.m3u8
