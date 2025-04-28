@@ -119,7 +119,7 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclass
 
 #EXTINF:0,Советская киноклассика HD
 #EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sovetskay_kinoclassica_HD
+https://mhd128.iptv2022.com/p/m-dSeHDSdn7BpjOGmvGkUA,1745874023/streaming/sovet_classic/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:0,TVPlay Советское Кино HD
 #EXTGRP: кино
 http://95.143.191.33:5050/TVPlaySovKinoHD.tv/video.m3u8?token=Y9LUPAeayunx83
