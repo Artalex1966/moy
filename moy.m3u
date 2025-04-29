@@ -107,11 +107,11 @@ https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_23_sd
 #EXTINF:0,День Победы
 #EXTGRP: кино
-https://stream13.sputnik24.tv/den_pobedy_hd/1080p/index.m3u8?sig=1745857568_332f8f104330da644f8531a38632c907
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
 
 #EXTINF:0,Патриот
 #EXTGRP: кино
-https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTgwOTc5NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1MjA0OTk1LCJzZXNzaW9uX2lkIjoiZmIzMzM1NmQyNmM3OTQ5NTU4NmRkMmI3ZWY4Mjc0MzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aFyzYCgM_oKjh2_Dg6FQYD6PyavjN_0NIUwZ6-lXrr0
+http://31.130.16.62:4022/udp/239.1.10.4:1234
 
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
@@ -119,13 +119,10 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sovetskay_kinoclas
 
 #EXTINF:0,Советская киноклассика HD
 #EXTGRP: кино
-https://mhd128.iptv2022.com/p/m-dSeHDSdn7BpjOGmvGkUA,1745874023/streaming/sovet_classic/324/1/tracks-v5a1/mono.m3u8
+https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NjQyMTk5OSwiaHdpZCI6IjNmNmNlNzQ5YzdiZTg3NWI2Y2JjMDdmMTBiODI4ZjY4NzNlY2UzNzczMGM0ZmYzNjVkZDU4YWUzOGY4MWU4ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1ODE3MTk5LCJzZXNzaW9uX2lkIjoiYjBmMDZlNmIyN2IwMDI2YTg1ODQ5Y2UwYmU1ODhiM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oWjtAhAIKUtkUUAqCvrgD5WEAhlkAMi6muPoM0OI_i4
 #EXTINF:0,TVPlay Советское Кино HD
 #EXTGRP: кино
 http://95.143.191.33:5050/TVPlaySovKinoHD.tv/video.m3u8?token=Y9LUPAeayunx83
-#EXTINF:0,Любимые фильмы
-#EXTGRP: кино
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=595400da1471a720768fc9e5fd20b678
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
