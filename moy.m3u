@@ -37,7 +37,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 ========
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mosfilm_HD
+http://tv.ttk.mx:9169
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://178.212.71.253:8000/play/124/index.m3u8
@@ -236,9 +236,6 @@ http://195.9.195.3:8080/hls/208358.m3u8
 #EXTINF:0,Alpha Cinema
 #EXTGRP: кино
 http://195.9.195.3:8080/hls/205072.m3u8
-#EXTINF:0,Кино ТВ
-#EXTGRP: кино
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0,Cinema
@@ -250,15 +247,6 @@ http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
 http://91.205.199.3/sinema/index.m3u8
-#EXTINF:0,КИНО ТВ HD
-#EXTGRP: кино
-http://31.210.208.171:8080/kinotv/index.m3u8?token=+W2MSER
-#EXTINF:0, Кинопоказ
-#EXTGRP: кино
-http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
-#EXTINF:0, Кинопоказ
-#EXTGRP: кино
-http://178.163.4.251:4022/udp/234.0.0.209:2000
 
 
 
