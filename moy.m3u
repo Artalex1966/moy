@@ -176,6 +176,9 @@ http://84.38.180.145:8080/tvoetv/index.m3u8
 #EXTINF:0,TVPlay Фантастика HD
 #EXTGRP: кино
 http://95.143.191.33:5050/TVPlayFantastikaHD.tv/video.m3u8?token=Y9LUPAeayunx83
+#EXTINF:0,Baton TV Фантастика
+#EXTGRP: кино
+http://cdn2.starcinemax.fun:2095/0823/index.m3u8?token=137946825
 #EXTINF:0,Кино
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/47689/index.m3u8
