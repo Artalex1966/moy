@@ -330,6 +330,11 @@ http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/17006/index.m3u8
+
+#EXTINF:0,Друзья Baton TV
+#EXTGRP: кино
+http://cdn1.starcinemax.fun:2095/0372/index.m3u8?token=137946825
+
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/14230/index.m3u8
