@@ -98,15 +98,15 @@ http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/13021/index.m3u8
 http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/13021/index.m3u8
 
 
-#EXTINF:0,Кинозалы 3
+#EXTINF:0,Мосфильм 11
 #EXTGRP: кино
-https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 25
+http://cdn2.starcinemax.fun:2095/10011/index.m3u8?token=137946825
+#EXTINF:0,Мосфильм 14
 #EXTGRP: кино
-https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 32
+http://cdn2.starcinemax.fun:2095/10014/index.m3u8?token=137946825
+#EXTINF:0,Мосфильм 19
 #EXTGRP: кино
-https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
+http://cdn2.starcinemax.fun:2095/10019/index.m3u8?token=137946825
 
 #EXTINF:0,Советские фильмы
 #EXTGRP: кино
