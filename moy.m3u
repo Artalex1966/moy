@@ -54,6 +54,9 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Советские детские фильмы
 #EXTGRP: кино
 http://cdn1.starcinemax.fun:2095/00116/index.m3u8?token=137946825
+#EXTINF:0,Киносказка
+#EXTGRP: кино
+http://cdn1.starcinemax.fun:2095/0155/index.m3u8?token=137946825
 #EXTINF:0,Старый добрый фильм
 #EXTGRP: кино
 http://cdn2.starcinemax.fun:2095/0909/index.m3u8?token=137946825
@@ -149,6 +152,12 @@ http://cdn1.starcinemax.fun:2095/0072/index.m3u8?token=137946825
 #EXTINF:0,Джейсон Стэйтем
 #EXTGRP: кино
 http://cdn1.starcinemax.fun:2095/0103/index.m3u8?token=137946825
+#EXTINF:0,Агент 007
+#EXTGRP: кино
+http://cdn1.starcinemax.fun:2095/0094/index.m3u8?token=137946825
+#EXTINF:0,Секретные материалы
+#EXTGRP: кино
+http://cdn1.starcinemax.fun:2095/0359/index.m3u8?token=137946825
 
 
 #EXTINF:0,Сити Эдем - КиноКлассика
@@ -487,7 +496,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 https://v2.catcast.tv/content/47757/index.m3u8
 #EXTINF:0,Том и Джерри
 #EXTGRP: Детский
-http://line.u-ltra.xyz:80/643835496/099050/1443815
+http://cdn1.starcinemax.fun:2095/0374/index.m3u8?token=137946825
 #EXTINF:0,Том и Джерри
 #EXTGRP: Детский
 http://nettv88.xyz:8080/live/AGmelih.731/zspgyfk.19F/167238.m3u
@@ -688,6 +697,23 @@ https://fl1001.bozztv.com/ushba65/index.m3u8
 #EXTGRP: кино
 http://185.57.68.33:8091/232/index.m3u8
 
+
+#EXTINF:0,UFO
+#EXTGRP: кино
+http://cdn1.starcinemax.fun:2095/0003/index.m3u8?token=137946825
+#EXTINF:0,Космический
+#EXTGRP: кино
+http://cdn1.starcinemax.fun:2095/0001/index.m3u8?token=137946825
+
+#EXTINF:0,Kosmo
+#EXTGRP: кино
+http://cdn2.starcinemax.fun:2095/3027/index.m3u8?token=137946825
+#EXTINF:0,Hublle
+#EXTGRP: кино
+http://cdn2.starcinemax.fun:2095/3028/index.m3u8?token=137946825
+#EXTINF:0,Разрушители легенд
+#EXTGRP: кино
+http://cdn2.starcinemax.fun:2095/3066/index.m3u8?token=137946825
 #EXTINF:0,Как это работает?
 #EXTGRP: кино
 http://cdn2.starcinemax.fun:2095/0937/index.m3u8?token=137946825
