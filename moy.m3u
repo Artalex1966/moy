@@ -168,7 +168,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/EBBDX25MF7G6MC/13037/index.m3u8
 
 #EXTINF:0,Ретро
 #EXTGRP: кино
-http://194.158.218.123:8880/Retrotv/index.m3u8
+http://178.212.71.253:8000/play/90/index.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://178.212.71.253:8000/play/99/index.m3u8
