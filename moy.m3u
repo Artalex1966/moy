@@ -264,9 +264,9 @@ https://hls.goodgame.ru/hls/181039.m3u8
 #EXTINF:0,Film TV 4
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/47689/index.m3u8
-#EXTINF:0,Film TV 5
+#EXTINF:0,Film TV 6
 #EXTGRP: кино
-http://hls.goodgame.ru/hls/210275.m3u8
+https://hls.goodgame.ru/manifest/206513_master.m3u8
 
 #EXTINF:0,КИHОЗАЛ 1
 #EXTGRP: кино
@@ -321,7 +321,7 @@ http://178.124.179.122:8088/Kinopremiera/index.m3u8
 http://pl.online24.pm/play/33/1260F395648FFBC/video.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
-http://178.212.71.253:8000/play/70/index.m3u8
+http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 #EXTINF:0,Киносемья
 #EXTGRP: кино
 http://178.212.71.253:8000/play/127/index.m3u8
