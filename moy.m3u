@@ -163,9 +163,12 @@ http://cdn1.starcinemax.fun:2095/0359/index.m3u8?token=137946825
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/34185/index.m3u8?password=promolive
 
-#EXTINF:0,Наше любимое HD
+#EXTINF:0,Любимое кино
 #EXTGRP: кино
-http://pl.online24.pm/play/499/1260F395648FFBC/video.m3u8
+http://45.143.108.110:2200/lubimoekino
+#EXTINF:0,Нашн любимое
+#EXTGRP: кино
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lubimoe_HD
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
@@ -290,36 +293,26 @@ http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
 
 #EXTINF:0,viju TV1000 Action
 #EXTGRP: кино
-http://pl.online24.pm/play/83/1260F395648FFBC/video.m3u8
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
-http://pl.online24.pm/play/195/1260F395648FFBC/video.m3u8
+http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg3MTc4MzAsImlhdCI6MTc0ODYzMTQzMCwiY2lkIjo2LCJ1aWQiOjkyMDQ4MTA4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.WDR7rV4qDF1Y7fijY1gqpzbdEl0qecsYOtWGmOl8vJw&offset=10
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
-http://pl.online24.pm/play/196/1260F395648FFBC/video.m3u8
+http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-http://pl.online24.pm/play/194/1260F395648FFBC/video.m3u8
-
-#EXTINF:0,Viasat Kino Action HD
-#EXTGRP: кино
-http://pl.online24.pm/play/490/1260F395648FFBC/video.m3u8
-#EXTINF:0,Viasat Kino Megahit HD
-#EXTGRP: кино
-http://pl.online24.pm/play/492/1260F395648FFBC/video.m3u8
-#EXTINF:0,
-#EXTGRP: кино
-
+http://arbiter.bolshoe.tv/?path=abr2/tv_1000_comedy_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI1IDY6NTc6MTEgUE0maGFzaF92YWx1ZT1acVRzOThveGtDMUtYckhlRmtsVWJBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
-http://pl.online24.pm/play/35/1260F395648FFBC/video.m3u8
+http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
 #EXTINF:0,Родное кино
 #EXTGRP: кино
 http://pl.online24.pm/play/12/1260F395648FFBC/video.m3u8
 #EXTINF:0,Мужское кино
 #EXTGRP: кино
-http://pl.online24.pm/play/209/1260F395648FFBC/video.m3u8
+http://tv.ttk.mx:9165
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
 http://178.124.179.122:8088/Kinopremiera/index.m3u8
@@ -328,10 +321,10 @@ http://178.124.179.122:8088/Kinopremiera/index.m3u8
 http://pl.online24.pm/play/33/1260F395648FFBC/video.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
-http://pl.online24.pm/play/167/1260F395648FFBC/video.m3u8
+http://178.212.71.253:8000/play/70/index.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: кино
-http://pl.online24.pm/play/13/1260F395648FFBC/video.m3u8
+http://178.212.71.253:8000/play/127/index.m3u8
 
 ---
 
