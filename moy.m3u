@@ -51,9 +51,9 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0,Советские детские фильмы
+#EXTINF:0,Детское кино
 #EXTGRP: кино
-http://cdn1.starcinemax.fun:2095/00116/index.m3u8?token=137946825
+https://autopilot.catcast.tv/content/40427/index.m3u8
 #EXTINF:0,Киносказка
 #EXTGRP: кино
 http://cdn1.starcinemax.fun:2095/0155/index.m3u8?token=137946825
@@ -162,9 +162,9 @@ http://cdn1.starcinemax.fun:2095/0094/index.m3u8?token=137946825
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=fWvV2NCKDwVIe9TwdrF5oA&e=1748762584&scheme=https
 
 
-#EXTINF:0,Сити Эдем - КиноКлассика
+#EXTINF:0,КиноКлассика
 #EXTGRP: кино
-https://autopilot.catcast.tv/content/34185/index.m3u8?password=promolive
+https://autopilot.catcast.tv/content/47609/index.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
