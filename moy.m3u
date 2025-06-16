@@ -153,9 +153,9 @@ http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
 #EXTINF:0,TVPlay 6 Кадров
 #EXTGRP: кино
 http://95.143.191.33:5050/TVPlay6Kadrov/video.m3u8?token=Y9LUPAeayunx83
-#EXTINF:0,Мужское кино
+#EXTINF:0,Кино ТВ
 #EXTGRP: кино
-https://mhd128.iptv2022.com/p/fcf7C66ufCox7tnwXpV9mg,1750107607/streaming/male-movie/324/1/tracks-v5a1/mono.m3u8
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,TVPlay Фантастика HD
 #EXTGRP: кино
