@@ -150,9 +150,9 @@ https://ix.goodgame.ru/hls/153640.m3u8
 #EXTINF:0,Твоё ТВ Юмор
 #EXTGRP: кино
 http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
-#EXTINF:0,TVPlay 6 Кадров
+#EXTINF:0,Комедия
 #EXTGRP: кино
-http://95.143.191.33:5050/TVPlay6Kadrov/video.m3u8?token=Y9LUPAeayunx83
+http://vs6.cdn.mrf.tvime.ru/Komediia/index.m3u8?token=VmFsaWt8fA==
 
 #EXTINF:0,TVPlay Фантастика HD
 #EXTGRP: кино
@@ -250,13 +250,13 @@ http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
 http://178.217.72.66:8080/TV_1000_Action/index.m3u8
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
-http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAxNDk5ODAsImlhdCI6MTc1MDA2MzU4MCwiY2lkIjo2LCJ1aWQiOjkyNDExNTA5MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.etCQu8K7sHY3_5JJB9HbNawPFXYaIh8z16NGw9Gd-7U&offset=3
+http://vs6.cdn.mrf.tvime.ru/ViP_Megahit_HD/index.m3u8?token=VmFsaWt8fA==
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
-http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg3NjkzODAsImlhdCI6MTc0ODY4Mjk4MCwiY2lkIjo2LCJ1aWQiOjkyMDYxOTIzOSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.OpuqZhscDopfL7xXl1O9nRAFvF1v_3SeBsY95lTe3rI&offset=3
+http://vs6.cdn.mrf.tvime.ru/ViP_Premiere_HD/index.m3u8?token=VmFsaWt8fA==
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg3NjkzODAsImlhdCI6MTc0ODY4Mjk4MCwiY2lkIjo2LCJ1aWQiOjkyMDYxOTIzOSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.OpuqZhscDopfL7xXl1O9nRAFvF1v_3SeBsY95lTe3rI&offset=3
+http://vs6.cdn.mrf.tvime.ru/ViP_Comedy_HD/index.m3u8?token=VmFsaWt8fA==
 
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
