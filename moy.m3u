@@ -129,7 +129,7 @@ https://ix.goodgame.ru/hls/206513.m3u8
 
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
-http://vs6.cdn.mrf.tvime.ru/Liubimoe_Kino/index.m3u8?token=VmFsaWt8fA==
+http://178.217.72.66:8080/Lyubimoe_Kino/index.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lubimoe_HD
@@ -170,9 +170,9 @@ https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:0,Кино
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/47689/index.m3u8
-#EXTINF:0,Киноман
+#EXTINF:0,Кинопоказ HD
 #EXTGRP: кино
-https://mhd116.iptv2022.com/p/Ut0rzWAeaSw8QfQoyNFsnw,1750359991/streaming/kinosat/324/1/tracks-v5a1/mono.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
 
 
 
