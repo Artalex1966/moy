@@ -125,13 +125,11 @@ https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 #EXTINF:0,4K Hits
 #EXTGRP: кино
 https://ix.goodgame.ru/hls/206513.m3u8
-#EXTINF:0,Любимые фильмы
-#EXTGRP: кино
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=4629a8568054417459e5a93271391da9
+
 
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
-http://45.143.108.110:2200/lubimoekino
+http://vs6.cdn.mrf.tvime.ru/Liubimoe_Kino/index.m3u8?token=VmFsaWt8fA==
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lubimoe_HD
@@ -148,7 +146,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/EBBDX25MF7G6MC/13037/index.m3u8
 http://178.212.71.253:8000/play/90/index.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
-http://178.212.71.253:8000/play/99/index.m3u8
+http://vod2.stb.tvime.ru/Dom_Kino/index.m3u8?token=VmFsaWt8fA==
 #EXTINF:0,НАШИ СЕРИАЛЫ
 #EXTGRP: кино
 http://195.9.195.3:8080/hls/196074.m3u8
@@ -174,7 +172,7 @@ https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 https://autopilot.catcast.tv/content/47689/index.m3u8
 #EXTINF:0,Киноман
 #EXTGRP: кино
-http://178.212.71.253:8000/play/66/index.m3u8
+https://mhd116.iptv2022.com/p/Ut0rzWAeaSw8QfQoyNFsnw,1750359991/streaming/kinosat/324/1/tracks-v5a1/mono.m3u8
 
 
 
