@@ -334,7 +334,7 @@ http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/17013/index.m3u8
 http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/17013/index.m3u8
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
-http://63c185c9.amazzin.pw/iptv/UT49YXRAZG5YCL/13082/index.m3u8
+http://f6b5d24f.akadatel.com/iptv/BZSRP9547P9TE9/13082/index.m3u8
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
 http://140aec44.kazaktelekom.com/iptv/QXDSKU9DLUTRWL/13082/index.m3u8
@@ -433,9 +433,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:0,Мультфильмы VHS
 #EXTGRP: Детский
 https://v2.catcast.tv/content/47757/index.m3u8
-#EXTINF:0,Том и Джерри
+#EXTINF:0,Baby Time
 #EXTGRP: Детский
-http://cdn1.starcinemax.fun:2095/0374/index.m3u8?token=137946825
+https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
 #EXTINF:0,Том и Джерри
 #EXTGRP: Детский
 http://nettv88.xyz:8080/live/AGmelih.731/zspgyfk.19F/167238.m3u
@@ -453,7 +453,7 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 https://v2.catcast.tv/content/47786/index.m3u8
 #EXTINF:0,O!
 #EXTGRP: Детский
-http://flu.ttk.mx:90/O!/mono.m3u8?token=hs06e
+http://178.217.72.66:8080/O/index.m3u8
 #EXTINF:0,Ani
 #EXTGRP: Детский
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
@@ -466,12 +466,12 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:0,Карусель + 2
 #EXTGRP: Детский
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-#EXTINF:0,Cупергерои
+#EXTINF:0,Супер Герои
 #EXTGRP: Детский
-http://65.21.85.175:8000/play/a01r/index.m3u8?token=livetv
+http://178.124.179.122:8088/Malish/index.m3u8
 #EXTINF:0,Уникум
 #EXTGRP: Детский
-http://stream2.cinerama.uz/1033/tracks-v1a1/mono.m3u8
+http://178.124.193.53:8181/play/1201/index.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
@@ -480,7 +480,7 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 http://ott.server-iptv.live/526/video.m3u8?token=S793FB1732
 #EXTINF:0,Мультиландия
 #EXTGRP: Детский
-http://ott.server-iptv.live/516/video.m3u8?token=S793FB1732
+http://178.217.72.66:8080/multilandiya/index.m3u8
 #EXTINF:0,МУЛЬТИМАНИЯ
 #EXTGRP: Детский
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
@@ -492,7 +492,7 @@ http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
-http://ott.server-iptv.live/517/video.m3u8?token=S793FB1732
+http://213.91.178.133:8000/play/a07g
 #EXTINF:0,Kids TV HD
 #EXTGRP: Детский
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
