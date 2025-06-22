@@ -57,9 +57,10 @@ https://autopilot.catcast.tv/content/40427/index.m3u8
 #EXTINF:0,советские детские фильмы
 #EXTGRP: кино
 http://cdn1.starcinemax.fun:2095/00116/index.m3u8?token=137946825
-#EXTINF:0,киносказка
-#EXTGRP: кино
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms киносказка" group-title="Кинозалы CMS",CMS Киносказка
 http://cdn1.starcinemax.fun:2095/0155/index.m3u8?token=137946825
+
 #EXTINF:0,старый добрый фильм
 #EXTGRP: кино
 http://cdn2.starcinemax.fun:2095/0909/index.m3u8?token=137946825
