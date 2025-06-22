@@ -54,6 +54,15 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Детское кино
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/40427/index.m3u8
+#EXTINF:0,советские детские фильмы
+#EXTGRP: кино
+http://cdn1.starcinemax.fun:2095/00116/index.m3u8?token=137946825
+#EXTINF:0,киносказка
+#EXTGRP: кино
+http://cdn1.starcinemax.fun:2095/0155/index.m3u8?token=137946825
+#EXTINF:0,старый добрый фильм
+#EXTGRP: кино
+http://cdn2.starcinemax.fun:2095/0909/index.m3u8?token=137946825
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -115,6 +124,9 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDY2NDIxMiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUwMDU5NDEyLCJzZXNzaW9uX2lkIjoiOWIwM2JkZWZiMWFlZGZkNDlkMDg1YTczZmMyZjI2OTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oup_-26s2K6Q23A1OngOwOjVSN8ZbN3WoTqgrD7glf8
 
+#EXTINF:0,ИСТОРИЧЕСКИЙ HD
+#EXTGRP: кино
+https://live-mirror-19.ott.tricolor.tv/dtv/id1006_MSKSG-PVR-1--kinozal_20_hd/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDY2NDIxMiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUwMDU5NDEyLCJzZXNzaW9uX2lkIjoiOWIwM2JkZWZiMWFlZGZkNDlkMDg1YTczZmMyZjI2OTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oup_-26s2K6Q23A1OngOwOjVSN8ZbN3WoTqgrD7glf8
 
 #EXTINF:0,КиноКлассика
 #EXTGRP: кино
@@ -156,6 +168,19 @@ http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://vs6.cdn.mrf.tvime.ru/Komediia/index.m3u8?token=VmFsaWt8fA==
+#EXTINF:0,КОМЕДИИ
+#EXTGRP: кино
+https://stream-msk-14.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDY2NDIxMiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUwMDU5NDEyLCJzZXNzaW9uX2lkIjoiOWIwM2JkZWZiMWFlZGZkNDlkMDg1YTczZmMyZjI2OTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oup_-26s2K6Q23A1OngOwOjVSN8ZbN3WoTqgrD7glf8
+#EXTINF:0,ЖЕНСКИЙ ДЕТЕКТИВ
+#EXTGRP: кино
+https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDY2NDIxMiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUwMDU5NDEyLCJzZXNzaW9uX2lkIjoiOWIwM2JkZWZiMWFlZGZkNDlkMDg1YTczZmMyZjI2OTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oup_-26s2K6Q23A1OngOwOjVSN8ZbN3WoTqgrD7glf8
+
+#EXTINF:0,мисс марпл агаты кристи
+#EXTGRP: кино
+http://cdn1.starcinemax.fun:2095/0386/index.m3u8?token=137946825
+#EXTINF:0,фантастика
+#EXTGRP: кино
+http://cdn2.starcinemax.fun:2095/0823/index.m3u8?token=137946825
 
 #EXTINF:0,Кино Экшен
 #EXTGRP: кино
@@ -201,6 +226,9 @@ http://195.9.195.3:8080/hls/206510.m3u8
 #EXTINF:0,Logovo Films
 #EXTGRP: кино
 https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
+#EXTINF:0,Стивен Спилберг
+#EXTGRP: кино
+http://cdn2.starcinemax.fun:2095/0916/index.m3u8?token=137946825
 
 #EXTINF:0,1FILMAX
 #EXTGRP: кино
@@ -287,9 +315,9 @@ http://178.212.71.253:8000/play/127/index.m3u8
 
 
 ======
-#EXTINF:0,TVPlay Игра Престолов HD
+#EXTINF:0,Игра Престолов
 #EXTGRP: кино
-http://95.143.191.33:5050/TVPlayIgraPrestolov/video.m3u8?token=Y9LUPAeayunx83
+http://cdn1.starcinemax.fun:2095/0059/index.m3u8?token=137946825
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://jexywacp.tvclub.xyz/iptv/G84QCMHA8E2EHL/17006/index.m3u8
@@ -299,6 +327,9 @@ http://140aec44.kazaktelekom.com/iptv/QXDSKU9DLUTRWL/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/17006/index.m3u8
+#EXTINF:0,Друзья
+#EXTGRP: кино
+http://cdn1.starcinemax.fun:2095/0372/index.m3u8?token=137946825
 
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
@@ -470,7 +501,7 @@ http://178.124.179.122:8088/Malish/index.m3u8
 http://178.124.193.53:8181/play/1201/index.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
-http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 #EXTINF:0,Лёва HD
 #EXTGRP: Детский
 http://ott.server-iptv.live/526/video.m3u8?token=S793FB1732
@@ -631,6 +662,26 @@ https://fl1001.bozztv.com/ushba65/index.m3u8
 #EXTINF:0,Камин
 #EXTGRP: кино
 http://185.57.68.33:8091/232/index.m3u8
+
+
+#EXTINF:0,ufo
+#EXTGRP: кино
+http://cdn1.starcinemax.fun:2095/0003/index.m3u8?token=137946825
+#EXTINF:0,hublle
+#EXTGRP: кино
+http://cdn2.starcinemax.fun:2095/3028/index.m3u8?token=137946825
+#EXTINF:0,kosmo
+#EXTGRP: кино
+http://cdn2.starcinemax.fun:2095/3027/index.m3u8?token=137946825
+#EXTINF:0,разрушители легенд
+#EXTGRP: кино
+http://cdn2.starcinemax.fun:2095/3066/index.m3u8?token=137946825
+#EXTINF:0,как это работает?
+#EXTGRP: кино
+http://cdn2.starcinemax.fun:2095/0937/index.m3u8?token=137946825
+
+
+
 
 
 
