@@ -316,9 +316,10 @@ http://178.212.71.253:8000/play/127/index.m3u8
 
 
 ======
-#EXTINF:0,Игра Престолов
-#EXTGRP: кино
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms игра престолов" group-title="Кинозалы CMS",CMS Игра престолов
 http://cdn1.starcinemax.fun:2095/0059/index.m3u8?token=137946825
+
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://jexywacp.tvclub.xyz/iptv/G84QCMHA8E2EHL/17006/index.m3u8
@@ -328,8 +329,8 @@ http://140aec44.kazaktelekom.com/iptv/QXDSKU9DLUTRWL/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/17006/index.m3u8
-#EXTINF:0,Друзья
-#EXTGRP: кино
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms друзья" group-title="Кинозалы CMS",CMS Друзья
 http://cdn1.starcinemax.fun:2095/0372/index.m3u8?token=137946825
 
 #EXTINF:0,VF Гарри Поттер
