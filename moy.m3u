@@ -179,8 +179,8 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/p
 #EXTINF:0,мисс марпл агаты кристи
 #EXTGRP: кино
 http://cdn1.starcinemax.fun:2095/0386/index.m3u8?token=137946825
-#EXTINF:0,фантастика
-#EXTGRP: кино
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms фантастика" group-title="Кинозалы CMS",CMS Фантастика
 http://cdn2.starcinemax.fun:2095/0823/index.m3u8?token=137946825
 
 #EXTINF:0,Кино Экшен
