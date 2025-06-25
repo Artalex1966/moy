@@ -136,6 +136,10 @@ https://autopilot.catcast.tv/content/47609/index.m3u8
 #EXTGRP: кино
 https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 
+#EXTINF:0,Cinemax HD
+#EXTGRP: кино
+http://212.42.104.243:80/ch099/mpegts
+
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
 http://178.217.72.66:8080/Lyubimoe_Kino/index.m3u8
@@ -145,7 +149,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lubimoe_HD
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
-http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/13037/index.m3u8
+http://140aec44.kazaktelekom.com/iptv/QXDSKU9DLUTRWL/13037/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/EBBDX25MF7G6MC/13037/index.m3u8
