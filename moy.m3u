@@ -204,12 +204,12 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
 
 
 
-#EXTINF:0,ВИДЕОКАССЕТА vhs-90s
+#EXTINF:0,Видеокассета E-180
 #EXTGRP: кино
-https://hls.goodgame.ru/hls/176975.m3u8
-#EXTINF:0,Кинозал GOLD TV
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+#EXTINF:0,MGM
 #EXTGRP: кино
-https://v2.catcast.tv/content/40546/index.m3u8
+https://autopilot.catcast.tv/content/44051/index.m3u8
 #EXTINF:0,ВосходТВ
 #EXTGRP: кино
 https://hls.goodgame.ru/manifest/202997_master.m3u8
