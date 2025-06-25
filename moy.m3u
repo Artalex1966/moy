@@ -157,9 +157,9 @@ http://178.212.71.253:8000/play/90/index.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://vod2.stb.tvime.ru/Dom_Kino/index.m3u8?token=VmFsaWt8fA==
-#EXTINF:0,Одна за всех
+#EXTINF:0,Мужское Кино
 #EXTGRP: кино
-http://cdn1.starcinemax.fun:2095/0324/index.m3u8?token=137946825
+http://80.245.95.243:8888/play/a011/index.m3u8
 #EXTINF:0,Всё ТВ
 #EXTGRP: кино
 https://ix.goodgame.ru/hls/153640.m3u8
