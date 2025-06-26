@@ -40,7 +40,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 http://178.212.71.253:8000/play/124/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://109.248.236.51/mosfilm/tracks-v1a1/mono.m3u8
+http://80.245.95.243:8888/play/a02l/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://arbiter.bolshoe.tv/?path=abr4/mosfilm/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI1IDY6NTY6MjEgQU0maGFzaF92YWx1ZT16Tll6L2UzdlJvb2FZSktHUTZwWjd3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
@@ -130,12 +130,26 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclass
 #EXTGRP: кино
 https://live-mirror-19.ott.tricolor.tv/dtv/id1006_MSKSG-PVR-1--kinozal_20_hd/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1MTI1MDg1NywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUwNjQ2MDU3LCJzZXNzaW9uX2lkIjoiNjM1MjY0OWY0MzY1MGMzYTYxMjBlOGQwODM5YTY2ZTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.FhKdBFbsMDMWAcwgqqZEooC95ITBwIlzyIZA28l6iGY
 
+#EXTINF:0,Ретро
+#EXTGRP: кино
+http://178.212.71.253:8000/play/90/index.m3u8
 #EXTINF:0,КиноКлассика
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/47609/index.m3u8
 #EXTINF:0,КлассикаКино
 #EXTGRP: кино
 https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF:0,Кино
+#EXTGRP: кино
+https://autopilot.catcast.tv/content/34185/index.m3u8
+
+#EXTINF:0,Видеокассета E-180
+#EXTGRP: кино
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+#EXTINF:0,MGM
+#EXTGRP: кино
+https://autopilot.catcast.tv/content/44051/index.m3u8
+
 
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
@@ -151,9 +165,7 @@ http://140aec44.kazaktelekom.com/iptv/QXDSKU9DLUTRWL/13037/index.m3u8
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/EBBDX25MF7G6MC/13037/index.m3u8
 
-#EXTINF:0,Ретро
-#EXTGRP: кино
-http://178.212.71.253:8000/play/90/index.m3u8
+
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://vod2.stb.tvime.ru/Dom_Kino/index.m3u8?token=VmFsaWt8fA==
@@ -204,31 +216,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
 
 
 
-#EXTINF:0,Видеокассета E-180
-#EXTGRP: кино
-https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
-#EXTINF:0,MGM
-#EXTGRP: кино
-https://autopilot.catcast.tv/content/44051/index.m3u8
-#EXTINF:0,ВосходТВ
-#EXTGRP: кино
-https://hls.goodgame.ru/manifest/202997_master.m3u8
-#EXTINF:0,Akudji TV
-#EXTGRP: кино
-http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:0,FMC TV
-#EXTGRP: кино
-http://hlss.goodgame.ru/hls/187741.m3u8
-
-#EXTINF:0,Фильмы 1
-#EXTGRP: кино
-http://hlss.goodgame.ru/hls/204722.m3u8
-#EXTINF:0,Фильмы 2
-#EXTGRP: кино
-http://195.9.195.3:8080/hls/208358.m3u8
-#EXTINF:0,Фильмы 3
-#EXTGRP: кино
-http://195.9.195.3:8080/hls/206510.m3u8
 
 #EXTINF:0,Logovo Films
 #EXTGRP: кино
@@ -236,44 +223,6 @@ https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
 #EXTINF:0,Стивен Спилберг
 #EXTGRP: кино
 http://cdn2.starcinemax.fun:2095/0916/index.m3u8?token=137946825
-
-#EXTINF:0,1FILMAX
-#EXTGRP: кино
-https://hls.goodgame.ru/hls/204708_720.m3u8
-#EXTINF:0,2FILMAX
-#EXTGRP: кино
-https://hls.goodgame.ru/hls/204717.m3u8
-
-#EXTINF:0,Film TV 1
-#EXTGRP: кино
-http://hlss.goodgame.ru/hls/163253.m3u8
-#EXTINF:0,Film TV 2
-#EXTGRP: кино
-http://hls.goodgame.ru/hls/208358.m3u8
-#EXTINF:0,Film TV 3
-#EXTGRP: кино
-https://hls.goodgame.ru/hls/181039.m3u8
-#EXTINF:0,Film TV 4
-#EXTGRP: кино
-https://autopilot.catcast.tv/content/47689/index.m3u8
-#EXTINF:0,Film TV 6
-#EXTGRP: кино
-https://hls.goodgame.ru/manifest/206513_master.m3u8
-
-#EXTINF:0,КИHОЗАЛ 1
-#EXTGRP: кино
-http://195.9.195.3:8080/hls/214749.m3u8
-#EXTINF:0,КИHОЗАЛ 3
-#EXTGRP: кино
-http://195.9.195.3:8080/hls/206513.m3u8
-#EXTINF:0,КИHОЗАЛ 5
-#EXTGRP: кино
-http://195.9.195.3:8080/hls/208358.m3u8
-
-#EXTINF:0,Alpha Cinema
-#EXTGRP: кино
-http://195.9.195.3:8080/hls/205072.m3u8
-
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
@@ -302,18 +251,15 @@ http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
 #EXTINF:0,Родное кино
 #EXTGRP: кино
 http://178.212.71.253:8000/play/136/index.m3u8
-#EXTINF:0,Мужское кино
-#EXTGRP: кино
-http://tv.ttk.mx:9165
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
-http://tv.ttk.mx:9162
+http://178.124.179.122:8088/Kinopremiera/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-http://tv.ttk.mx:9163
+http://80.245.95.243:8888/play/a00j/index.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
-http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
+http://178.212.71.253:8000/play/70/index.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: кино
 http://178.212.71.253:8000/play/127/index.m3u8
