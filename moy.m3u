@@ -243,7 +243,10 @@ http://vs6.cdn.mrf.tvime.ru/ViP_Megahit_HD/index.m3u8?token=VmFsaWt8fA==
 http://vs6.cdn.mrf.tvime.ru/ViP_Premiere_HD/index.m3u8?token=VmFsaWt8fA==
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-http://vs6.cdn.mrf.tvime.ru/ViP_Comedy_HD/index.m3u8?token=VmFsaWt8fA==
+http://80.245.95.243:8888/play/kln006/index.m3u8
+#EXTINF:0,Viju TV1000 Русское кино
+#EXTGRP: кино
+http://195.245.99.242/1000_rus/playlist.m3u8
 
 #EXTINF:0,Наше новое кино
 #EXTGRP: кино
