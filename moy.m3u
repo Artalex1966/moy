@@ -43,7 +43,7 @@ http://178.212.71.253:8000/play/124/index.m3u8
 http://80.245.95.243:8888/play/a02l/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://arbiter.bolshoe.tv/?path=abr4/mosfilm/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI1IDY6NTY6MjEgQU0maGFzaF92YWx1ZT16Tll6L2UzdlJvb2FZSktHUTZwWjd3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://178.134.1.158:8081/mosfilm/index.m3u8?token=iptvin.ru
 
 
 #EXTINF:0,Кино 1 International
@@ -146,6 +146,7 @@ https://autopilot.catcast.tv/content/34185/index.m3u8
 #EXTINF:0,Видеокассета E-180
 #EXTGRP: кино
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+
 #EXTINF:0,MGM
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/44051/index.m3u8
@@ -194,7 +195,9 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/p
 #EXTINF:0,мисс марпл агаты кристи
 #EXTGRP: кино
 http://cdn1.starcinemax.fun:2095/0386/index.m3u8?token=137946825
-
+#EXTINF:0,cms комедия! комедия!!!
+#EXTGRP: кино
+http://cdn1.starcinemax.fun:2095/0011/index.m3u8?token=137946825
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms фантастика" group-title="Кинозалы CMS",CMS Фантастика
 http://cdn2.starcinemax.fun:2095/0823/index.m3u8?token=137946825
 
@@ -211,8 +214,12 @@ https://autopilot.catcast.tv/content/47689/index.m3u8
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
 
-
-
+#EXTINF:0,.Black
+#EXTGRP: кино
+http://80.245.95.243:8888/play/a010/index.m3u8
+#EXTINF:0,.RED
+#EXTGRP: кино
+http://80.245.95.243:8888/play/a00n/index.m3u8
 
 #EXTINF:0,Logovo Films
 #EXTGRP: кино
@@ -613,11 +620,26 @@ https://fl1001.bozztv.com/ushba65/index.m3u8
 #EXTINF:0,Камин
 #EXTGRP: кино
 http://185.57.68.33:8091/232/index.m3u8
-
-
-#EXTINF:0,ufo
+#EXTINF:0,Камин
 #EXTGRP: кино
-http://cdn1.starcinemax.fun:2095/0003/index.m3u8?token=137946825
+https://river-1.rutube.ru/hls-vod/VgzeK4vbLVmXw3lGg9j32w/1751124815/1899/0x5000c500e511570c/8311ad94048f47808d4e72cc32aa7238.mp4.m3u8?i=3840x2160_6480
+
+
+#EXTINF:0,cms евгений леонов
+#EXTGRP: кино
+http://cdn2.starcinemax.fun:2095/0903/index.m3u8?token=137946825
+#EXTINF:0,cms борислав брондуков
+#EXTGRP: кино
+http://cdn2.starcinemax.fun:2095/0635/index.m3u8?token=137946825
+#EXTINF:0,cms армен джигарханян
+#EXTGRP: кино
+http://cdn2.starcinemax.fun:2095/0816/index.m3u8?token=137946825
+#EXTINF:0,cms андрей миронов
+#EXTGRP: кино
+http://cdn2.starcinemax.fun:2095/0911/index.m3u8?token=137946825
+#EXTINF:0,cms евгений евстигнеев
+#EXTGRP: кино
+http://cdn1.starcinemax.fun:2095/0449/index.m3u8?token=137946825
 #EXTINF:0,hublle
 #EXTGRP: кино
 http://cdn2.starcinemax.fun:2095/3028/index.m3u8?token=137946825
