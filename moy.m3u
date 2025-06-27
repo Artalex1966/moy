@@ -139,7 +139,7 @@ https://autopilot.catcast.tv/content/47609/index.m3u8
 #EXTINF:0,КлассикаКино
 #EXTGRP: кино
 https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кино
+#EXTINF:0,СтароеКино
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/34185/index.m3u8
 
@@ -172,9 +172,6 @@ http://vod2.stb.tvime.ru/Dom_Kino/index.m3u8?token=VmFsaWt8fA==
 #EXTINF:0,Мужское Кино
 #EXTGRP: кино
 http://80.245.95.243:8888/play/a011/index.m3u8
-#EXTINF:0,Всё ТВ
-#EXTGRP: кино
-https://ix.goodgame.ru/hls/153640.m3u8
 
 #EXTINF:0,Кино Экшен
 #EXTGRP: кино
@@ -220,9 +217,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
 #EXTINF:0,Logovo Films
 #EXTGRP: кино
 https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
-#EXTINF:0,Стивен Спилберг
-#EXTGRP: кино
-http://cdn2.starcinemax.fun:2095/0916/index.m3u8?token=137946825
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
