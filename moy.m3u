@@ -247,7 +247,7 @@ http://vs6.cdn.mrf.tvime.ru/ViP_Megahit_HD/index.m3u8?token=VmFsaWt8fA==
 http://vs6.cdn.mrf.tvime.ru/ViP_Premiere_HD/index.m3u8?token=VmFsaWt8fA==
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-http://80.245.95.243:8888/play/kln006/index.m3u8
+http://77.235.1.19:8000/play/a05e/index.m3u8
 #EXTINF:0,Viju TV1000 Русское кино
 #EXTGRP: кино
 http://195.245.99.242/1000_rus/playlist.m3u8
@@ -260,16 +260,16 @@ http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
 http://178.212.71.253:8000/play/136/index.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
-http://178.124.179.122:8088/Kinopremiera/index.m3u8
+http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-http://80.245.95.243:8888/play/a00j/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:0,Киномикс
 #EXTGRP: кино
-http://178.212.71.253:8000/play/70/index.m3u8
+http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 #EXTINF:0,Киносемья
 #EXTGRP: кино
-http://178.212.71.253:8000/play/127/index.m3u8
+http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
 
 ---
 
