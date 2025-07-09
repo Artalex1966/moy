@@ -40,9 +40,6 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 http://178.212.71.253:8000/play/124/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://178.134.1.158:8081/mosfilm/index.m3u8?token=iptvin.ru
-#EXTINF:0,Мосфильм. Золотая коллекция
-#EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mosfilm_HD
 
 
@@ -58,14 +55,14 @@ https://autopilot.catcast.tv/content/40427/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://ce97dd7a.amazzin.pw/iptv/4NDXR85ZWUWFP87QTZKGY7S8/13019/index.m3u8
+http://ueandx6c.russtv.net/iptv/WVE9LPWS62EZSS/13019/index.m3u8
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
 http://e7dee866.cbilant.com/iptv/DBKNM5HQTQ2XH7/13019/index.m3u8
 
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-http://ce97dd7a.amazzin.pw/iptv/4NDXR85ZWUWFP87QTZKGY7S8/13096/index.m3u8
+http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/13096/index.m3u8
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/13096/index.m3u8
@@ -87,7 +84,7 @@ http://f3c72ac7.cbilant.com/iptv/V8YHYAUGUHWRNXBHVMQC6CPS/13018/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/13060/index.m3u8
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-http://ce97dd7a.amazzin.pw/iptv/4NDXR85ZWUWFP87QTZKGY7S8/13060/index.m3u8
+http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/13060/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/GND3B9YB2KUEYX/13021/index.m3u8
@@ -185,9 +182,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
 #EXTINF:0,KINOJAM 2
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
-#EXTINF:0,Взвешенные люди
-#EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_1
 
 #EXTINF:0,Кино Экшен
 #EXTGRP: кино
@@ -291,7 +285,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/17006/index.m3u8
 http://cf1113a0.cbilant.com/iptv/EYU9F97AW2BASB/14230/index.m3u8
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
-http://sharingplus.net/iptv/U6EAR6MNVSQM3H/14230/index.m3u8
+http://ocayhrqe.megatv.fun/iptv/U34E9K252QKQZ5/14230/index.m3u8
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
 http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/14230/index.m3u8
