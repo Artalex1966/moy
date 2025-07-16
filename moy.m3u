@@ -152,10 +152,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/EBBDX25MF7G6MC/13037/index.m3u8
 
 #EXTINF:0,Дом кино
 #EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=D_Kino
-#EXTINF:0,Кино ТВ
+http://178.217.72.66:8080/Dom_Kino/index.m3u8
+#EXTINF:0,Красная линия
 #EXTGRP: кино
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:0,6 кадров
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal28_SD
