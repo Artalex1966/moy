@@ -113,6 +113,9 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sovetskay_kinoclassica_HD
+#EXTINF:0,Красная линия
+#EXTGRP: кино
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 
 
 #EXTINF:0,Ретро
@@ -135,12 +138,18 @@ https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTGRP: кино
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 
+
+#EXTINF:0,Дом кино
+#EXTGRP: кино
+http://178.217.72.66:8080/Dom_Kino/index.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
 http://178.217.72.66:8080/Lyubimoe_Kino/index.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lubimoe_HD
+
+
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
@@ -149,18 +158,9 @@ http://f3c72ac7.cbilant.com/iptv/V8YHYAUGUHWRNXBHVMQC6CPS/13037/index.m3u8
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/EBBDX25MF7G6MC/13037/index.m3u8
 
-
-#EXTINF:0,Дом кино
-#EXTGRP: кино
-http://178.217.72.66:8080/Dom_Kino/index.m3u8
-#EXTINF:0,Красная линия
-#EXTGRP: кино
-http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:0,6 кадров
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal28_SD
-
-
 
 #EXTINF:0,Комедия
 #EXTGRP: кино
