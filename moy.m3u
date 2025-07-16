@@ -113,9 +113,7 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sovetskay_kinoclassica_HD
-#EXTINF:0,Красная линия
-#EXTGRP: кино
-http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+
 
 
 #EXTINF:0,Ретро
@@ -172,6 +170,15 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_12
 #EXTGRP: кино
 http://45.159.74.22/Kinokomedia/tracks-v1a1/mono.m3u8
 
+#EXTINF:0,Русский детектив
+#EXTGRP: кино
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russkiy_detektiv
+#EXTINF:0,Русский бестселлер
+#EXTGRP: кино
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rus_Bests
+#EXTINF:0,Русский роман
+#EXTGRP: кино
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ruskiy_roman_HD
 #EXTINF:0,ЖЕНСКИЙ ДЕТЕКТИВ
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
