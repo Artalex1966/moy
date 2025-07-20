@@ -41,6 +41,9 @@ http://178.212.71.253:8000/play/124/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mosfilm_HD
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: кино
+http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTMwODA5NTYsImlhdCI6MTc1Mjk5NDU1NiwiY2lkIjo2LCJ1aWQiOjkzMTI3OTc2MCwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.uxujBs109P9eWkVI98EMlGnoRLTv49DRwzpS2ETIEek&offset=10
 
 
 #EXTINF:0,Кино 1 International
@@ -142,7 +145,7 @@ https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=D_Kino
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
-http://95.85.109.218:7000/play/a03j
+http://178.217.72.66:8080/Lyubimoe_Kino/index.m3u8
 #EXTINF:0,Наше любимое HD
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lubimoe_HD
@@ -162,13 +165,20 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal28_SD
 
 #EXTINF:0,Комедия
 #EXTGRP: кино
-http://vs6.cdn.mrf.tvime.ru/Komediia/index.m3u8?token=VmFsaWt8fA==
+http://178.217.72.66:8080/Komediya/index.m3u8
 #EXTINF:0,КомедиИ
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_12
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
 http://45.159.74.22/Kinokomedia/tracks-v1a1/mono.m3u8
+#EXTINF:0,Комедийное
+#EXTGRP: кино
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediinoe
+#EXTINF:0,viju+ Comedy HD
+#EXTGRP: кино
+http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTMwODU3ODAsImlhdCI6MTc1Mjk5OTM4MCwiY2lkIjo2LCJ1aWQiOjkzMTI5MjQ5MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.YhqJS2vneQMn0d7z448R8AA9HqAUm1SAbFkOCox_MXI&offset=3
+
 
 #EXTINF:0,Русский детектив
 #EXTGRP: кино
@@ -224,9 +234,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
-#EXTINF:0,.Black
-#EXTGRP: кино
-http://80.245.95.243:8888/play/a010/index.m3u8
+
 
 #EXTINF:0,Logovo Films
 #EXTGRP: кино
@@ -245,13 +253,13 @@ http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
 http://178.217.72.66:8080/TV_1000_Action/index.m3u8
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
-http://vs6.cdn.mrf.tvime.ru/ViP_Megahit_HD/index.m3u8?token=VmFsaWt8fA==
+http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTMwODU3ODAsImlhdCI6MTc1Mjk5OTM4MCwiY2lkIjo2LCJ1aWQiOjkzMTI5MjQ5MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.YhqJS2vneQMn0d7z448R8AA9HqAUm1SAbFkOCox_MXI&offset=3
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
-http://vs6.cdn.mrf.tvime.ru/ViP_Premiere_HD/index.m3u8?token=VmFsaWt8fA==
+http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTMwODA5NTYsImlhdCI6MTc1Mjk5NDU1NiwiY2lkIjo2LCJ1aWQiOjkzMTI3OTc2MCwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.uxujBs109P9eWkVI98EMlGnoRLTv49DRwzpS2ETIEek&offset=10
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-http://77.235.1.19:8000/play/a05e/index.m3u8
+http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTMwODU3ODAsImlhdCI6MTc1Mjk5OTM4MCwiY2lkIjo2LCJ1aWQiOjkzMTI5MjQ5MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.YhqJS2vneQMn0d7z448R8AA9HqAUm1SAbFkOCox_MXI&offset=3
 #EXTINF:0,Viju TV1000 Русское кино
 #EXTGRP: кино
 http://195.245.99.242/1000_rus/playlist.m3u8
