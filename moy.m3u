@@ -37,13 +37,13 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 ========
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://178.212.71.253:8000/play/124/index.m3u8
+http://176.62.72.48:8001/play/a03y/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mosfilm_HD
+http://5.134.87.11:4600/mosfilm/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTMwODA5NTYsImlhdCI6MTc1Mjk5NDU1NiwiY2lkIjo2LCJ1aWQiOjkzMTI3OTc2MCwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.uxujBs109P9eWkVI98EMlGnoRLTv49DRwzpS2ETIEek&offset=10
+http://195.245.99.242:80/Mosfilm/playlist.m3u8
 
 
 #EXTINF:0,Кино 1 International
@@ -142,7 +142,7 @@ https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 
 #EXTINF:0,Дом кино
 #EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=D_Kino
+http://176.62.72.48:8001/play/a02u/index.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
 http://178.217.72.66:8080/Lyubimoe_Kino/index.m3u8
@@ -182,13 +182,16 @@ http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOi
 
 #EXTINF:0,Русский детектив
 #EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russkiy_detektiv
+http://178.212.71.253:8000/play/45/index.m3u8
 #EXTINF:0,Русский бестселлер
 #EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rus_Bests
+http://176.62.72.48:8001/play/a03q/index.m3u8
 #EXTINF:0,Русский роман
 #EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ruskiy_roman_HD
+http://176.62.72.48:8001/play/a03r/index.m3u8
+#EXTINF:0,Русский Иллюзион
+#EXTGRP: кино
+http://176.62.72.48:8001/play/a02k/index.m3u8
 #EXTINF:0,ЖЕНСКИЙ ДЕТЕКТИВ
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
