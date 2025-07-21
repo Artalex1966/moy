@@ -180,16 +180,16 @@ http://arbiter.bolshoe.tv/?path=abr2/tv_1000_comedy_hd/71/copy/playlist.m3u8&wms
 
 #EXTINF:0,Русский детектив
 #EXTGRP: кино
-http://178.212.71.253:8000/play/45/index.m3u8
+http://195.245.99.242/Detectiv/playlist.m3u8
 #EXTINF:0,Русский бестселлер
 #EXTGRP: кино
-http://176.62.72.48:8001/play/a03q/index.m3u8
+http://195.245.99.242/Bestseler/playlist.m3u8
 #EXTINF:0,Русский роман
 #EXTGRP: кино
-http://176.62.72.48:8001/play/a03r/index.m3u8
+http://195.245.99.242/Roman/playlist.m3u8
 #EXTINF:0,Русский Иллюзион
 #EXTGRP: кино
-http://176.62.72.48:8001/play/a02k/index.m3u8
+http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:0,Viju TV1000 Русское кино
 #EXTGRP: кино
 http://195.245.99.242/1000_rus/playlist.m3u8
