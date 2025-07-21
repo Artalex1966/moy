@@ -128,9 +128,7 @@ https://autopilot.catcast.tv/content/47609/index.m3u8
 #EXTINF:0,КлассикаКино
 #EXTGRP: кино
 https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:0,СтароеКино
-#EXTGRP: кино
-https://autopilot.catcast.tv/content/34185/index.m3u8
+
 
 #EXTINF:0,Видеокассета E-180
 #EXTGRP: кино
@@ -159,9 +157,9 @@ http://f3c72ac7.cbilant.com/iptv/V8YHYAUGUHWRNXBHVMQC6CPS/13037/index.m3u8
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/EBBDX25MF7G6MC/13037/index.m3u8
 
-#EXTINF:0,6 кадров
+#EXTINF:0, viju TV1000
 #EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal28_SD
+http://178.217.72.66:8080/TV_1000/index.m3u8
 
 #EXTINF:0,Комедия
 #EXTGRP: кино
@@ -177,7 +175,7 @@ http://45.159.74.22/Kinokomedia/tracks-v1a1/mono.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediinoe
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTMwODU3ODAsImlhdCI6MTc1Mjk5OTM4MCwiY2lkIjo2LCJ1aWQiOjkzMTI5MjQ5MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.YhqJS2vneQMn0d7z448R8AA9HqAUm1SAbFkOCox_MXI&offset=3
+http://arbiter.bolshoe.tv/?path=abr2/tv_1000_comedy_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDI1IDY6NTc6MjYgQU0maGFzaF92YWx1ZT1uMG1tdjJqamhveHBDRHRvMTJtdmFRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 
 #EXTINF:0,Русский детектив
@@ -192,6 +190,12 @@ http://176.62.72.48:8001/play/a03r/index.m3u8
 #EXTINF:0,Русский Иллюзион
 #EXTGRP: кино
 http://176.62.72.48:8001/play/a02k/index.m3u8
+#EXTINF:0,Viju TV1000 Русское кино
+#EXTGRP: кино
+http://195.245.99.242/1000_rus/playlist.m3u8
+#EXTINF:0,Смотрим Кино и сериалы
+#EXTGRP: кино
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:0,ЖЕНСКИЙ ДЕТЕКТИВ
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
@@ -256,13 +260,13 @@ http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
 http://178.217.72.66:8080/TV_1000_Action/index.m3u8
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
-http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTMwODU3ODAsImlhdCI6MTc1Mjk5OTM4MCwiY2lkIjo2LCJ1aWQiOjkzMTI5MjQ5MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.YhqJS2vneQMn0d7z448R8AA9HqAUm1SAbFkOCox_MXI&offset=3
+http://arbiter.bolshoe.tv/?path=abr2/tv_1000_megahit_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDI1IDY6NTc6MjYgQU0maGFzaF92YWx1ZT1uMG1tdjJqamhveHBDRHRvMTJtdmFRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
-http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTMwODA5NTYsImlhdCI6MTc1Mjk5NDU1NiwiY2lkIjo2LCJ1aWQiOjkzMTI3OTc2MCwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.uxujBs109P9eWkVI98EMlGnoRLTv49DRwzpS2ETIEek&offset=10
+http://arbiter.bolshoe.tv/?path=abr2/tv1000_premium_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDI1IDY6NTc6MjYgQU0maGFzaF92YWx1ZT1uMG1tdjJqamhveHBDRHRvMTJtdmFRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTMwODU3ODAsImlhdCI6MTc1Mjk5OTM4MCwiY2lkIjo2LCJ1aWQiOjkzMTI5MjQ5MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.YhqJS2vneQMn0d7z448R8AA9HqAUm1SAbFkOCox_MXI&offset=3
+http://arbiter.bolshoe.tv/?path=abr2/tv_1000_comedy_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDI1IDY6NTc6MjYgQU0maGFzaF92YWx1ZT1uMG1tdjJqamhveHBDRHRvMTJtdmFRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:0,Viju TV1000 Русское кино
 #EXTGRP: кино
 http://195.245.99.242/1000_rus/playlist.m3u8
