@@ -151,8 +151,6 @@ http://178.217.72.66:8080/Lyubimoe_Kino/index.m3u8
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lubimoe_HD
 
-
-
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://f3c72ac7.cbilant.com/iptv/V8YHYAUGUHWRNXBHVMQC6CPS/13037/index.m3u8
@@ -160,22 +158,18 @@ http://f3c72ac7.cbilant.com/iptv/V8YHYAUGUHWRNXBHVMQC6CPS/13037/index.m3u8
 #EXTGRP: кино
 http://rhsbjv7k.tvclub.xyz/iptv/EBBDX25MF7G6MC/13037/index.m3u8
 
-#EXTINF:0, viju TV1000
-#EXTGRP: кино
-http://178.217.72.66:8080/TV_1000/index.m3u8
-
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://178.217.72.66:8080/Komediya/index.m3u8
 #EXTINF:0,КомедиИ
 #EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_12
+https://stream-msk-14.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1MzY2OTIzMiwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzMDY0NDMyLCJzZXNzaW9uX2lkIjoiOWVhMThlNjgzNTUxYjNiNWVlN2NmODUyMDgxOTE1OTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.UrItlXueVDYEF_nJqKOWyvUWlExsKVhJaxFgSZbBGPg
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
 http://45.159.74.22/Kinokomedia/tracks-v1a1/mono.m3u8
 #EXTINF:0,Комедийное
 #EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediinoe
+http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1MzY2OTIzMiwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzMDY0NDMyLCJzZXNzaW9uX2lkIjoiOWVhMThlNjgzNTUxYjNiNWVlN2NmODUyMDgxOTE1OTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.UrItlXueVDYEF_nJqKOWyvUWlExsKVhJaxFgSZbBGPg
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
 http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTMyNTM5NzgsImlhdCI6MTc1MzE2NzU3OCwiY2lkIjo2LCJ1aWQiOjkzMTY5NjQzOSwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.gO1cA25WABMpXp9rjeiB7m5Bl8DIw-fZ24jz644sqjc&offset=10
@@ -199,15 +193,14 @@ http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/p
 #EXTINF:0,Русский Иллюзион
 #EXTGRP: кино
 http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
-#EXTINF:0,Viju TV1000 Русское кино
-#EXTGRP: кино
-http://mfe01.cliptv.az/dash/TV1000_Russkoe_Kino_SD_ghhkklhgjh.ism/playlist.mpd
+
 #EXTINF:0,ЖЕНСКИЙ ДЕТЕКТИВ
 #EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
+https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1MzY2OTIzMiwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzMDY0NDMyLCJzZXNzaW9uX2lkIjoiOWVhMThlNjgzNTUxYjNiNWVlN2NmODUyMDgxOTE1OTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.UrItlXueVDYEF_nJqKOWyvUWlExsKVhJaxFgSZbBGPg
 #EXTINF:0,Улицы разбитых фонарей
 #EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal27_SD
+https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1MzY2OTIzMiwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzMDY0NDMyLCJzZXNzaW9uX2lkIjoiOWVhMThlNjgzNTUxYjNiNWVlN2NmODUyMDgxOTE1OTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.UrItlXueVDYEF_nJqKOWyvUWlExsKVhJaxFgSZbBGPg
+
 
 #EXTINF:0,Кино Экшен
 #EXTGRP: кино
@@ -218,19 +211,22 @@ https://v2.catcast.tv/content/40783/index.m3u8
 #EXTINF:0,Malder Мегахит
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/47689/index.m3u8
-
 #EXTINF:0,Trash TV
 #EXTGRP: кино
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
-
-#EXTINF:0,Viju TV1000 Action
-#EXTGRP: кино
-http://178.217.72.66:8080/TV_1000_Action/index.m3u8
-
-
 #EXTINF:0,Logovo Films
 #EXTGRP: кино
 https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
+#EXTINF:0,FMC 
+#EXTGRP: кино
+https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
+
+#EXTINF:0,SeleCaoTV 1
+#EXTGRP: кино
+https://sb-3.restream.su/preview/20001/61346f1c-4cc6-46e5-9f54-0d8c72188567/live.m3u8
+#EXTINF:0,SeleCaoTV 2
+#EXTGRP: кино
+https://sb-2.restream.su/preview/20015/b13b5ca1-5968-491d-b5d2-4d7abf636e73/live.m3u8
 
 #EXTINF:0,Cinema
 #EXTGRP: кино
@@ -239,7 +235,9 @@ http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTGRP: кино
 http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
 
-
+#EXTINF:0, viju TV1000
+#EXTGRP: кино
+http://178.217.72.66:8080/TV_1000/index.m3u8
 #EXTINF:0,viju TV1000 Action
 #EXTGRP: кино
 http://178.217.72.66:8080/TV_1000_Action/index.m3u8
@@ -255,6 +253,9 @@ http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOi
 #EXTINF:0,Viju TV1000 Русское кино
 #EXTGRP: кино
 http://213.91.178.133:8000/play/a0bx
+#EXTINF:0,Viju TV1000 Русское кино
+#EXTGRP: кино
+http://mfe01.cliptv.az/dash/TV1000_Russkoe_Kino_SD_ghhkklhgjh.ism/playlist.mpd
 
 
 #EXTINF:0,Кинопремьера
@@ -606,16 +607,17 @@ https://fl1001.bozztv.com/ushba65/index.m3u8
 #EXTINF:0,Камин
 #EXTGRP: кино
 http://185.57.68.33:8091/232/index.m3u8
-#EXTINF:0,Камин
-#EXTGRP: кино
-https://river-1.rutube.ru/hls-vod/VgzeK4vbLVmXw3lGg9j32w/1751124815/1899/0x5000c500e511570c/8311ad94048f47808d4e72cc32aa7238.mp4.m3u8?i=3840x2160_6480
 
+#EXTINF:0,Приколы 1
+#EXTGRP: кино
+https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,как это работает?
 #EXTGRP: кино
 http://cdn2.starcinemax.fun:2095/0937/index.m3u8?token=137946825
-
-
+#EXTINF:0,Женский детектив
+#EXTGRP: кино
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
 
 
 
