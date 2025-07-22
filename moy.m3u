@@ -41,7 +41,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 http://5.134.87.11:4600/mosfilm/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://195.245.99.242:80/Mosfilm/playlist.m3u8
+http://178.217.72.66:8080/mosfilm/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://176.62.72.48:8001/play/a03y/index.m3u8
@@ -207,13 +207,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal27_SD
 
-#EXTINF:0,KINOJAM 1
-#EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
-#EXTINF:0,KINOJAM 2
-#EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
-
 #EXTINF:0,Кино Экшен
 #EXTGRP: кино
 https://v2.catcast.tv/content/41333/index.m3u8
@@ -227,15 +220,7 @@ https://autopilot.catcast.tv/content/47689/index.m3u8
 #EXTINF:0,Trash TV
 #EXTGRP: кино
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
-#EXTINF:0,Кино
-#EXTGRP: кино
-https://autopilot.catcast.tv/content/47689/index.m3u8
-#EXTINF:0,Кинопоказ HD
-#EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
-#EXTINF:0,Боевики HD
-#EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_2
+
 #EXTINF:0,Viju TV1000 Action
 #EXTGRP: кино
 http://178.217.72.66:8080/TV_1000_Action/index.m3u8
