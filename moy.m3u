@@ -1,4 +1,3 @@
-#EXTM3U cache="10000" url-tvg="http://iptvx.one/epg/epg_lite.xml.gz,http://194.26.229.4/live/lime_epg.xml.gz,https://iptvx.one/EPG"
 #EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 
 #EXTINF:0,Известия
@@ -57,9 +56,6 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Детское кино
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/40427/index.m3u8
-#EXTINF:0,Ура! Каникулы
-#EXTGRP: кино
-http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/3007/stream.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
