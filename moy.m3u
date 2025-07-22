@@ -178,6 +178,12 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediinoe
 #EXTGRP: кино
 http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTMyNTM5NzgsImlhdCI6MTc1MzE2NzU3OCwiY2lkIjo2LCJ1aWQiOjkzMTY5NjQzOSwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.gO1cA25WABMpXp9rjeiB7m5Bl8DIw-fZ24jz644sqjc&offset=10
 
+#EXTINF:0,Наше новое кино
+#EXTGRP: кино
+http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
+#EXTINF:0,Родное кино
+#EXTGRP: кино
+http://178.212.71.253:8000/play/136/index.m3u8
 
 #EXTINF:0,Русский детектив
 #EXTGRP: кино
@@ -194,9 +200,6 @@ http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
 #EXTINF:0,Viju TV1000 Русское кино
 #EXTGRP: кино
 http://mfe01.cliptv.az/dash/TV1000_Russkoe_Kino_SD_ghhkklhgjh.ism/playlist.mpd
-#EXTINF:0,Смотрим Кино и сериалы
-#EXTGRP: кино
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:0,ЖЕНСКИЙ ДЕТЕКТИВ
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
@@ -233,15 +236,9 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
 #EXTINF:0,Боевики HD
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_2
-#EXTINF:0,DetectiveJam
+#EXTINF:0,Viju TV1000 Action
 #EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=DetectiveJam
-#EXTINF:0,Премиальное HD
-#EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD
-#EXTINF:0,Остросюжетное HD
-#EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
+http://178.217.72.66:8080/TV_1000_Action/index.m3u8
 
 
 #EXTINF:0,Logovo Films
@@ -272,12 +269,7 @@ http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOi
 #EXTGRP: кино
 http://213.91.178.133:8000/play/a0bx
 
-#EXTINF:0,Наше новое кино
-#EXTGRP: кино
-http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
-#EXTINF:0,Родное кино
-#EXTGRP: кино
-http://178.212.71.253:8000/play/136/index.m3u8
+
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
 http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
