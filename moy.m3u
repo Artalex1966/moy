@@ -167,6 +167,9 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
 http://45.159.74.22/Kinokomedia/tracks-v1a1/mono.m3u8
+#EXTINF:0,Камеди
+#EXTGRP: кино
+https://mhd116.iptv2022.com/p/DohA9m_EMDQogE9waGYdEw,1753296899/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:0,Комедийное
 #EXTGRP: кино
 http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1MzY2OTIzMiwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzMDY0NDMyLCJzZXNzaW9uX2lkIjoiOWVhMThlNjgzNTUxYjNiNWVlN2NmODUyMDgxOTE1OTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.UrItlXueVDYEF_nJqKOWyvUWlExsKVhJaxFgSZbBGPg
@@ -328,7 +331,7 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 
 #EXTINF:0,Первый космический HD
 #EXTGRP: Познавательное
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
+https://mhd116.iptv2022.com/p/Z9jVNy8QMlJqmIUocG719A,1753296901/streaming/eurekahd/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:0,Discovery Channel
 #EXTGRP: Познавательное
@@ -344,6 +347,9 @@ http://vod.tuva.ru/nauka2/index.m3u8
 #EXTGRP: Познавательное
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:0,Усадьба
+#EXTGRP: Познавательное
+http://178.212.71.253:8000/play/91/index.m3u8
 #EXTINF:0,Авто 24
 #EXTGRP: Познавательное
 http://178.124.152.238:8088/auto24
