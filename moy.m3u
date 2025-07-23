@@ -131,8 +131,9 @@ https://autopilot.catcast.tv/content/47609/index.m3u8
 #EXTINF:0,КлассикаКино
 #EXTGRP: кино
 https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:0,Gold Кино
+#EXTGRP: кино
+https://v2.catcast.tv/content/48583/index.m3u8?token=1471693ee0ad403fe8ee7fb051de31d6
 #EXTINF:0,Видеокассета E-180
 #EXTGRP: кино
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
@@ -220,9 +221,21 @@ https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:0,Logovo Films
 #EXTGRP: кино
 https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
+#EXTINF:0,SSAFilm
+#EXTGRP: кино
+https://fl1003.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:0,LentaKino
+#EXTGRP: кино
+https://fl1001.bozztv.com/ushba-films-w/tracks-v1a1/mono.m3u8
 #EXTINF:0,FMC 
 #EXTGRP: кино
 https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
+#EXTINF:0,KinoMix Юрич
+#EXTGRP: кино
+https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
+#EXTINF:0,ScripachTV
+#EXTGRP: кино
+https://132544.edgevideo.ru/streams/132544_935537/1325441080/index.m3u8
 
 #EXTINF:0,SeleCaoTV 1
 #EXTGRP: кино
