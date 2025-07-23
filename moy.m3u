@@ -207,7 +207,12 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/p
 #EXTGRP: кино
 https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1MzY2OTIzMiwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzMDY0NDMyLCJzZXNzaW9uX2lkIjoiOWVhMThlNjgzNTUxYjNiNWVlN2NmODUyMDgxOTE1OTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.UrItlXueVDYEF_nJqKOWyvUWlExsKVhJaxFgSZbBGPg
 
-
+#EXTINF:0,Comedy Hub
+#EXTGRP: кино
+https://salam-mskth-22.rutube.ru/dive/river-5-521.rtbcdn.ru/sj9hlUd0TQXOzb4fgcujiQ/stream/genetta-325.m9.rutube.ru/uz8UN50VDnzIKTSVQo2N5Q/1753691468/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
+#EXTINF:0,Кино и жизнь
+#EXTGRP: кино
+https://salam-mskth-16.rutube.ru/dive/river-3-318.rtbcdn.ru/U75CGTwqcYFl2Bc7kS7LPg/stream/genetta-326.m9.rutube.ru/a-cc0Qn4FVHMHPVccIqjdA/1753363463/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:0,Кино Экшен
 #EXTGRP: кино
 https://v2.catcast.tv/content/41333/index.m3u8
@@ -229,6 +234,12 @@ https://fl1003.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
 #EXTINF:0,LentaKino
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-films-w/tracks-v1a1/mono.m3u8
+#EXTINF:0,Cinemator
+#EXTGRP: кино
+https://fl1003.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:0,Film Zone
+#EXTGRP: кино
+https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
 #EXTINF:0,FMC 
 #EXTGRP: кино
 https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
@@ -238,6 +249,24 @@ https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
 #EXTINF:0,ScripachTV
 #EXTGRP: кино
 https://132544.edgevideo.ru/streams/132544_935537/1325441080/index.m3u8
+#EXTINF:0,1autotvru
+#EXTGRP: кино
+https://132544.edgevideo.ru/streams/132544_843533/playlist.m3u8
+#EXTINF:0,4K Кино и сериалы
+#EXTGRP: кино
+https://132544.edgevideo.ru/streams/132544_935270/132544720/index.m3u8
+#EXTINF:0,Dimpon TV
+#EXTGRP: кино
+https://132544.edgevideo.ru/streams/132544_933542/1325441080/index.m3u8
+#EXTINF:0,Action Film
+#EXTGRP: кино
+https://v2.catcast.tv/content/36517/index.m3u8?token=b8e9c8c4742b27315435fd535bf89995
+#EXTINF:0,FilmOFF
+#EXTGRP: кино
+https://stream.ushba.tv/akamaiushba/ushba65/tracks-v1a1/mono.m3u8
+#EXTINF:0,FilmON
+#EXTGRP: кино
+https://stream.ushba.tv/akamaiushba/ushba64/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,SeleCaoTV 1
 #EXTGRP: кино
