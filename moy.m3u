@@ -140,7 +140,9 @@ https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:0,Видеокассета Киномир
 #EXTGRP: кино
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
-
+#EXTINF:0,Фантастика HD
+#EXTGRP: кино
+https://s.catcast.tv/content/39533/index.m3u8?token=ab228e4f570c6a50dd96e70f051486f5
 
 #EXTINF:0,Дом кино
 #EXTGRP: кино
