@@ -249,24 +249,10 @@ https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
 #EXTINF:0,ScripachTV
 #EXTGRP: кино
 https://132544.edgevideo.ru/streams/132544_935537/1325441080/index.m3u8
-#EXTINF:0,1autotvru
-#EXTGRP: кино
-https://132544.edgevideo.ru/streams/132544_843533/playlist.m3u8
+
 #EXTINF:0,4K Кино и сериалы
 #EXTGRP: кино
 https://132544.edgevideo.ru/streams/132544_935270/132544720/index.m3u8
-#EXTINF:0,Dimpon TV
-#EXTGRP: кино
-https://132544.edgevideo.ru/streams/132544_933542/1325441080/index.m3u8
-#EXTINF:0,Action Film
-#EXTGRP: кино
-https://v2.catcast.tv/content/36517/index.m3u8?token=b8e9c8c4742b27315435fd535bf89995
-#EXTINF:0,FilmOFF
-#EXTGRP: кино
-https://stream.ushba.tv/akamaiushba/ushba65/tracks-v1a1/mono.m3u8
-#EXTINF:0,FilmON
-#EXTGRP: кино
-https://stream.ushba.tv/akamaiushba/ushba64/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,SeleCaoTV 1
 #EXTGRP: кино
