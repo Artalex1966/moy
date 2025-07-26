@@ -131,18 +131,12 @@ https://autopilot.catcast.tv/content/47609/index.m3u8
 #EXTINF:0,КлассикаКино
 #EXTGRP: кино
 https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:0,Gold Кино
-#EXTGRP: кино
-https://v2.catcast.tv/content/48583/index.m3u8?token=1471693ee0ad403fe8ee7fb051de31d6
 #EXTINF:0,Видеокассета E-180
 #EXTGRP: кино
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:0,Видеокассета Киномир
 #EXTGRP: кино
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
-#EXTINF:0,Фантастика HD
-#EXTGRP: кино
-https://s.catcast.tv/content/39533/index.m3u8?token=ab228e4f570c6a50dd96e70f051486f5
 
 #EXTINF:0,Дом кино
 #EXTGRP: кино
@@ -199,6 +193,9 @@ http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/p
 #EXTINF:0,Русский Иллюзион
 #EXTGRP: кино
 http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
+#EXTINF:0,Новый Русский
+#EXTGRP: кино
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
 
 #EXTINF:0,ЖЕНСКИЙ ДЕТЕКТИВ
 #EXTGRP: кино
@@ -210,18 +207,18 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/p
 #EXTINF:0,Comedy Hub
 #EXTGRP: кино
 https://salam-mskth-22.rutube.ru/dive/river-5-521.rtbcdn.ru/sj9hlUd0TQXOzb4fgcujiQ/stream/genetta-325.m9.rutube.ru/uz8UN50VDnzIKTSVQo2N5Q/1753691468/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
-#EXTINF:0,Кино и жизнь
+#EXTINF:0,Dimpon TV
 #EXTGRP: кино
-https://salam-mskth-16.rutube.ru/dive/river-3-318.rtbcdn.ru/U75CGTwqcYFl2Bc7kS7LPg/stream/genetta-326.m9.rutube.ru/a-cc0Qn4FVHMHPVccIqjdA/1753363463/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
-#EXTINF:0,Кино Экшен
+https://132544.edgevideo.ru/streams/132544_933542/1325441080/index.m3u8
+#EXTINF:0,Malder vse tv
 #EXTGRP: кино
-https://v2.catcast.tv/content/41333/index.m3u8
-#EXTINF:0,Кино Мистика
+https://132544.edgevideo.ru/streams/132544_902681/132544720/index.m3u8
+#EXTINF:0,Globus TV
 #EXTGRP: кино
-https://v2.catcast.tv/content/40783/index.m3u8
-#EXTINF:0,Malder Мегахит
+https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
+#EXTINF:0,Millennium
 #EXTGRP: кино
-https://autopilot.catcast.tv/content/47689/index.m3u8
+https://132544.edgevideo.ru/streams/132544_931202/132544480/index.m3u8
 #EXTINF:0,Trash TV
 #EXTGRP: кино
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
