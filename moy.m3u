@@ -99,13 +99,9 @@ http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/13021/index.m3u8
 #EXTINF:0,Советское
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:0,Советское2
-#EXTGRP: кино
-https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
 #EXTINF:0,Советские фильмы
 #EXTGRP: кино
 https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDI3NzE4NywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzNjcyMzg3LCJzZXNzaW9uX2lkIjoiYjQ1ODgxYmFkZTYzYzYzMDZmNzQxYjBmNzhhMDAyYWIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.SRlFzRqXuoSDebs_khsLHrsvfnG3aKOkZ4pS6cLWijo
-
 
 #EXTINF:0,День Победы
 #EXTGRP: кино
@@ -138,15 +134,15 @@ https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTGRP: кино
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 
+#EXTINF:0,Иллюзион +
+#EXTGRP: кино
+http://158.160.149.81:8080/88/index.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://176.62.72.48:8001/play/a02u/index.m3u8
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
 http://178.217.72.66:8080/Lyubimoe_Kino/index.m3u8
-#EXTINF:0,Наше любимое HD
-#EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lubimoe_HD
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
@@ -173,9 +169,6 @@ http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
 http://85.117.61.97:8000/play/a00s/index.m3u8
-#EXTINF:0,BCU Comedy HD
-#EXTGRP: кино
-http://178.217.72.66:8080/BCUComedyHD/index.m3u8
 #EXTINF:0,CineMan Comedy HD
 #EXTGRP: кино
 http://178.217.72.66:8080/CineMan_Comedy/index.m3u8
@@ -210,12 +203,7 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/p
 #EXTGRP: кино
 https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDI3NzE4NywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzNjcyMzg3LCJzZXNzaW9uX2lkIjoiYjQ1ODgxYmFkZTYzYzYzMDZmNzQxYjBmNzhhMDAyYWIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.SRlFzRqXuoSDebs_khsLHrsvfnG3aKOkZ4pS6cLWijo
 
-#EXTINF:0,BCU Catastrophe HD
-#EXTGRP: кино
-http://178.217.72.66:8080/BCUCatastropheHD/index.m3u8
-#EXTINF:0,BCU Fantastic HD
-#EXTGRP: кино
-http://178.217.72.66:8080/BCUFantasticHD/index.m3u8
+
 #EXTINF:0,CineMan Action HD
 #EXTGRP: кино
 http://178.217.72.66:8080/CineMan_Action/index.m3u8
