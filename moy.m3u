@@ -1,8 +1,11 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 
-#EXTINF:0,Известия
+#EXTINF:0,Известия Воронеж
 #EXTGRP: эфир
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.m3u8
+http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
+#EXTINF:0,ТВ Харьков Z
+#EXTGRP: эфир
+http://212.193.53.254/app/potok/playlist.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
@@ -652,6 +655,7 @@ http://cdn2.starcinemax.fun:2095/0937/index.m3u8?token=137946825
 #EXTINF:0,Женский детектив
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
+
 
 
 
