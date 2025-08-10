@@ -118,7 +118,12 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
-
+#EXTINF:0,KBC Страна СССР
+#EXTGRP: кино
+http://str6.oxtve.live:8080/KBC_stranaUSSR/mpegts
+#EXTINF:0,Fresh Soviet HD
+#EXTGRP: кино
+http://str6.oxtve.live:8080/Fresh_Soviet/mpegts
 
 
 #EXTINF:0,Ретро
@@ -228,9 +233,9 @@ http://str6.oxtve.live:8080/KBC_shpionskoe/mpegts
 #EXTINF:0,fresh fantastic
 #EXTGRP: кино
 http://str6.oxtve.live:8080/Fresh_Fantastic/mpegts
-#EXTINF:0,BCU Action HD
+#EXTINF:0,KBC Fantastic HD
 #EXTGRP: кино
-http://178.217.72.66:8080/BCUActionHD/index.m3u8
+http://str6.oxtve.live:8080/KBC_fantastic/mpegts
 
 
 
@@ -672,6 +677,7 @@ http://cdn2.starcinemax.fun:2095/0937/index.m3u8?token=137946825
 #EXTINF:0,Женский детектив
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
+
 
 
 
