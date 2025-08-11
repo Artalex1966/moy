@@ -135,12 +135,9 @@ https://autopilot.catcast.tv/content/47609/index.m3u8
 #EXTINF:0,КлассикаКино
 #EXTGRP: кино
 https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:0,Видеокассета E-180
+#EXTINF:0,КІНО TV VHS
 #EXTGRP: кино
-https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
-#EXTINF:0,Видеокассета Киномир
-#EXTGRP: кино
-https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
+https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 #EXTINF:0,VHS-ка HD
 #EXTGRP: кино
 http://158.160.149.81:8080/8270/index.m3u8
@@ -677,6 +674,7 @@ http://cdn2.starcinemax.fun:2095/0937/index.m3u8?token=137946825
 #EXTINF:0,Женский детектив
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
+
 
 
 
