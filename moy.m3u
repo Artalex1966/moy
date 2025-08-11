@@ -193,10 +193,10 @@ http://178.212.71.253:8000/play/136/index.m3u8
 
 #EXTINF:0,Русский детектив
 #EXTGRP: кино
-http://stream-msk-10.ott.tricolor.tv/dtv/id516_MSKSG-PVR-1--Russkiy_detektiv/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NzIxOTAwOTYyOTIyNSIsImV4cCI6MTc1NTQ4NzE1NiwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU0ODgyMzU2LCJzZXNzaW9uX2lkIjoiYjE2M2IwYjFhNjk1ZjY5YzE2NjcwZmI3ODRjNGVkMmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GSz0MDbptk99muwpf---1IrTb1-4MOms0-5I7SuS4ZQ
+http://77.235.1.19:8000/play/a08f/index.m3u8
 #EXTINF:0,Русский бестселлер
 #EXTGRP: кино
-http://stream-msk-04.ott.tricolor.tv/dtv/id517_MSKSG-PVR-1--Rus_Bests/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NzIxOTAwOTYyOTIyNSIsImV4cCI6MTc1NTQ4NzE1NiwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU0ODgyMzU2LCJzZXNzaW9uX2lkIjoiYjE2M2IwYjFhNjk1ZjY5YzE2NjcwZmI3ODRjNGVkMmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GSz0MDbptk99muwpf---1IrTb1-4MOms0-5I7SuS4ZQ
+http://178.217.72.66:8080/russkiy_bestseller/index.m3u8
 #EXTINF:0,Русский роман
 #EXTGRP: кино
 http://176.62.72.48:8001/play/a03r/index.m3u8
@@ -677,6 +677,7 @@ http://cdn2.starcinemax.fun:2095/0937/index.m3u8?token=137946825
 #EXTINF:0,Женский детектив
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
+
 
 
 
