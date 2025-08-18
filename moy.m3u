@@ -218,9 +218,9 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/p
 #EXTINF:0,Секс в большом городе
 #EXTGRP: кино
 https://132544.edgevideo.ru/streams/132544_824978/132544360/index.m3u8
-#EXTINF:0,КИНОСБОРНИК
+#EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
-https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
+http://178.217.72.66:8080/BCUFantasticHD/index.m3u8
 #EXTINF:0,Кинорейс
 #EXTGRP: кино
 https://stream.ushba.tv/akamaiushba/ushba32/tracks-v1a1/mono.m3u8
@@ -661,6 +661,7 @@ http://cdn2.starcinemax.fun:2095/0937/index.m3u8?token=137946825
 #EXTINF:0,Женский детектив
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
+
 
 
 
