@@ -657,12 +657,10 @@ http://185.57.68.33:8091/232/index.m3u8
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,как это работает?
-#EXTGRP: кино
-http://cdn2.starcinemax.fun:2095/0937/index.m3u8?token=137946825
-#EXTINF:0,Женский детектив
-#EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
+
+#EXTINF:0,Друзья
+#EXTGRP:Друзья
+https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/friends.m3u
 
 
 
