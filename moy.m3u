@@ -136,9 +136,7 @@ https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 #EXTINF:0,КІНО TV VHS
 #EXTGRP: кино
 https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
-#EXTINF:0,VHDV TV
-#EXTGRP: кино
-https://132544.edgevideo.ru/streams/132544_932006/132544720/index.m3u8
+
 #EXTINF:0,BCU VHS HD
 #EXTGRP: кино
 http://178.217.72.66:8080/BCUVHSHD/index.m3u8
@@ -151,7 +149,7 @@ https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
 
 #EXTINF:0,Иллюзион +
 #EXTGRP: кино
-http://158.160.149.81:8080/88/index.m3u8
+http://89.221.57.5:8000/play/a00p/index.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzQ2OTYyNiwiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU2ODY0ODI2LCJzZXNzaW9uX2lkIjoiMzg3ODE0ODlhM2YyNTY2Mzg2NDY5ZjFlODM3MGU3ZTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vdeeiIejdEKI9QXXZ6QnN3N_SAE2rnNGWzVIyAdxvL0
@@ -189,13 +187,16 @@ http://85.117.61.97:8000/play/a00s/index.m3u8
 http://178.217.72.66:8080/CineMan_Comedy/index.m3u8
 
 
+#EXTINF:0,Мужское кино HD
+#EXTGRP: кино
+http://45.159.74.22/MujskoeKino/mono.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
 http://178.212.71.253:8000/play/136/index.m3u8
 
 #EXTINF:0,Русский детектив
 #EXTGRP: кино
-http://77.235.1.19:8000/play/a08f/index.m3u8
+http://stream-msk-10.ott.tricolor.tv/dtv/id516_MSKSG-PVR-1--Russkiy_detektiv/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzQ2OTYyNiwiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU2ODY0ODI2LCJzZXNzaW9uX2lkIjoiMzg3ODE0ODlhM2YyNTY2Mzg2NDY5ZjFlODM3MGU3ZTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vdeeiIejdEKI9QXXZ6QnN3N_SAE2rnNGWzVIyAdxvL0
 #EXTINF:0,Русский бестселлер
 #EXTGRP: кино
 http://178.217.72.66:8080/russkiy_bestseller/index.m3u8
@@ -204,7 +205,7 @@ http://178.217.72.66:8080/russkiy_bestseller/index.m3u8
 http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzQ2OTYyNiwiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU2ODY0ODI2LCJzZXNzaW9uX2lkIjoiMzg3ODE0ODlhM2YyNTY2Mzg2NDY5ZjFlODM3MGU3ZTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vdeeiIejdEKI9QXXZ6QnN3N_SAE2rnNGWzVIyAdxvL0
 #EXTINF:0,Русский Иллюзион
 #EXTGRP: кино
-http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
+http://89.221.57.5:8000/play/a00t/index.m3u8
 #EXTINF:0,Новый Русский
 #EXTGRP: кино
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
