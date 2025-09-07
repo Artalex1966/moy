@@ -657,6 +657,7 @@ http://185.57.68.33:8091/232/index.m3u8
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
 
+
 #EXTINF:0,Друзья
-#EXTGRP: кино
-http://192.168.2.121:8080
+#EXTGRP:Друзья
+https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/friends.m3u
