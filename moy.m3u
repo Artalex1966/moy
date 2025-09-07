@@ -165,7 +165,7 @@ http://178.217.72.66:8080/Lyubimoe_Kino/index.m3u8
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
-http://f3c72ac7.cbilant.com/iptv/V8YHYAUGUHWRNXBHVMQC6CPS/13037/index.m3u8
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/13037/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://d34811c9.akadatel.com/iptv/Q8E3W9E5N8M6GF/13037/index.m3u8
@@ -212,9 +212,9 @@ http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/p
 #EXTINF:0,Русский Иллюзион
 #EXTGRP: кино
 http://89.221.57.5:8000/play/a00t/index.m3u8
-#EXTINF:0,Новый Русский
+#EXTINF:0,Наше новое кино
 #EXTGRP: кино
-https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
+https://mhd128.iptv2022.com/p/T7WTOXxR0QkNVMMI95Oz1Q,1757314323/streaming/nashe_n_kino/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:0,ЖЕНСКИЙ ДЕТЕКТИВ
 #EXTGRP: кино
@@ -246,15 +246,10 @@ http://178.217.72.66:8080/CineMan/index.m3u8
 #EXTGRP: кино
 http://178.217.72.66:8080/CineMan_Thriller/index.m3u8
 
-#EXTINF:0,Dimpon TV
-#EXTGRP: кино
-https://132544.edgevideo.ru/streams/132544_933542/1325441080/index.m3u8
 #EXTINF:0,Globus TV
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:0,Millennium
-#EXTGRP: кино
-https://132544.edgevideo.ru/streams/132544_931202/132544480/index.m3u8
+
 #EXTINF:0,Trash TV
 #EXTGRP: кино
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
