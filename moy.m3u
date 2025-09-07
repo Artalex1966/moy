@@ -5,9 +5,9 @@
 #EXTINF:0,Известия Воронеж
 #EXTGRP: эфир
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
-#EXTINF:0,ТВ Харьков Z
+#EXTINF:0,Министерство Идей
 #EXTGRP: эфир
-http://212.193.53.254/app/potok/playlist.m3u8
+https://mhd128.iptv2022.com/p/NuNBRlhtGAFJpSyaLDO4pw,1757314324/streaming/minidei/324/1/index.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
@@ -64,6 +64,9 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Детское кино HD
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/40427/index.m3u8
+#EXTINF:0,Советские мультфильмы
+#EXTGRP: кино
+https://mhd128.iptv2022.com/p/DjPlLztnxvXNjNH2vkCojA,1757314324/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -146,10 +149,13 @@ http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?
 #EXTINF:0,KinoMix
 #EXTGRP: кино
 https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
+#EXTINF:0,Хит HD
+#EXTGRP: кино
+https://mhd128.iptv2022.com/p/ZK3vK9lvSK7PqDAeBOJdvA,1757314323/streaming/hit/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:0,Иллюзион +
 #EXTGRP: кино
-http://89.221.57.5:8000/play/a00p/index.m3u8
+https://mhd128.iptv2022.com/p/Jjmdbqc05LJ11EClt5W8Yg,1757314323/streaming/illuzionplus/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzQ2OTYyNiwiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU2ODY0ODI2LCJzZXNzaW9uX2lkIjoiMzg3ODE0ODlhM2YyNTY2Mzg2NDY5ZjFlODM3MGU3ZTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vdeeiIejdEKI9QXXZ6QnN3N_SAE2rnNGWzVIyAdxvL0
