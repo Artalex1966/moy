@@ -5,9 +5,6 @@
 #EXTINF:0,Известия Воронеж
 #EXTGRP: эфир
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
-#EXTINF:0,Министерство Идей
-#EXTGRP: эфир
-https://mhd128.iptv2022.com/p/NuNBRlhtGAFJpSyaLDO4pw,1757314324/streaming/minidei/324/1/index.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
@@ -64,9 +61,6 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Детское кино HD
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/40427/index.m3u8
-#EXTINF:0,Советские мультфильмы
-#EXTGRP: кино
-https://mhd128.iptv2022.com/p/X0Lt8p1LLcsn-crf0-8Y6A,1757357366/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -212,9 +206,6 @@ http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/p
 #EXTINF:0,Русский Иллюзион
 #EXTGRP: кино
 http://89.221.57.5:8000/play/a00t/index.m3u8
-#EXTINF:0,Наше новое кино
-#EXTGRP: кино
-https://mhd128.iptv2022.com/p/GHRiROAcHAssGlzG8-fZ6g,1757357366/streaming/nashe_n_kino/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:0,ЖЕНСКИЙ ДЕТЕКТИВ
 #EXTGRP: кино
