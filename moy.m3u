@@ -101,6 +101,19 @@ http://e7dee866.cbilant.com/iptv/DBKNM5HQTQ2XH7/13021/index.m3u88
 #EXTGRP: кино
 http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/13021/index.m3u8
 
+#EXTINF:0,IPTVPLAY ПАМЯТЬ
+#EXTGRP: кино
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0,IPTVPLAY ФАНТАСТИКА
+#EXTGRP: кино
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0,IPTVPLAY Великая Отечественная HD
+#EXTGRP: кино
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0,Cделано в CCCP
+#EXTGRP: кино
+https://s.catcast.tv/content/44535/index.m3u8?token=49e8c97bbb5cf31593faa729ea7f6a9c
+
 #EXTINF:0,Советское
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
@@ -309,6 +322,9 @@ http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
 
 
 ======
+#EXTINF:0,ИНТЕРНЫ
+#EXTGRP: кино
+https://132544.edgevideo.ru/streams/132544_960377/132544720/index.m3u8
 
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
