@@ -112,7 +112,7 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,Cделано в CCCP
 #EXTGRP: кино
-https://s.catcast.tv/content/44535/index.m3u8?token=49e8c97bbb5cf31593faa729ea7f6a9c
+https://s.catcast.tv/content/44535/index.m3u8?token=7d48a34d073153a96d8e09eaa26a18b4
 
 #EXTINF:0,Советское
 #EXTGRP: кино
@@ -202,7 +202,7 @@ http://178.217.72.66:8080/CineMan_Comedy/index.m3u8
 
 #EXTINF:0,Мужское кино HD
 #EXTGRP: кино
-http://45.159.74.22/MujskoeKino/mono.m3u8
+http://141.95.55.143/CH3817/index.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
 http://178.212.71.253:8000/play/136/index.m3u8
