@@ -206,7 +206,7 @@ http://178.217.72.66:8080/CineMan_Comedy/index.m3u8
 
 #EXTINF:0,Мужское кино HD
 #EXTGRP: кино
-http://141.95.55.143/CH3817/index.m3u8
+http://146.120.212.5:8004/play/a010/index.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
 http://178.212.71.253:8000/play/136/index.m3u8
@@ -222,7 +222,7 @@ http://178.217.72.66:8080/russkiy_bestseller/index.m3u8
 http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 #EXTINF:0,Русский Иллюзион
 #EXTGRP: кино
-http://89.221.57.5:8000/play/a00t/index.m3u8
+http://178.212.71.253:8000/play/49/index.m3u8
 
 #EXTINF:0,ЖЕНСКИЙ ДЕТЕКТИВ
 #EXTGRP: кино
