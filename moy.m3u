@@ -328,7 +328,13 @@ http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
 ======
 #EXTINF:0,ИНТЕРНЫ
 #EXTGRP: кино
-https://132544.edgevideo.ru/streams/132544_960377/132544720/index.m3u8
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0,ИНТЕРНЫ
+#EXTGRP: кино
+http://146.59.93.251/12002/index.m3u8?token=031BBBFDB6EA&21yo=0
+#EXTINF:0,ДРУЗЬЯ тест
+#EXTGRP: кино
+http://146.59.93.251/12024/index.m3u8?token=031BBBFDB6EA&21yo=0
 
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
