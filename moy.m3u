@@ -49,7 +49,7 @@ http://178.217.72.66:8080/mosfilm/index.m3u8
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://95.85.109.219:7000/play/a08u
+http://tmptv.sunduk.tv/CH2927/index.m3u8
 
 
 #EXTINF:0,Кино 1 International
@@ -110,6 +110,9 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY Великая Отечественная HD
 #EXTGRP: кино
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0,IPTVPLAY МультСказки HD
+#EXTGRP: кино
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
 #EXTINF:0,Советское
@@ -172,7 +175,10 @@ http://77.235.1.19:8000/play/a06o/index.m3u8
 http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
-http://178.217.72.66:8080/Lyubimoe_Kino/index.m3u8
+http://tmptv.sunduk.tv/CH521/index.m3u8
+#EXTINF:0,Любимый
+#EXTGRP: кино
+http://tmptv.sunduk.tv/CH717/index.m3u8
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
@@ -206,14 +212,20 @@ http://178.217.72.66:8080/CineMan_Comedy/index.m3u8
 
 #EXTINF:0,Мужское кино HD
 #EXTGRP: кино
-http://146.120.212.5:8004/play/a010/index.m3u8
+http://tmptv.sunduk.tv/CH245/index.m3u8
+#EXTINF:0,Остросюжетное HD
+#EXTGRP: кино
+http://tmptv.sunduk.tv/CH547/index.m3u8
+#EXTINF:0,Кино ТВ
+#EXTGRP: кино
+http://tmptv.sunduk.tv/CH559/index.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP: кино
 http://178.212.71.253:8000/play/136/index.m3u8
 
 #EXTINF:0,Русский детектив
 #EXTGRP: кино
-http://stream-msk-10.ott.tricolor.tv/dtv/id516_MSKSG-PVR-1--Russkiy_detektiv/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
+http://tmptv.sunduk.tv/CH437/index.m3u8
 #EXTINF:0,Русский бестселлер
 #EXTGRP: кино
 http://178.217.72.66:8080/russkiy_bestseller/index.m3u8
@@ -388,14 +400,14 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 
 #EXTINF:0,Первый космический HD
 #EXTGRP: Познавательное
-http://45.159.74.22/Evrika/tracks-v1a1/mono.m3u8
+http://tmptv.sunduk.tv/CH557/index.m3u8
 
 #EXTINF:0,Discovery Channel
 #EXTGRP: Познавательное
 http://178.217.72.66:8080/Discovery_HD/video.m3u8
 #EXTINF:0,Наука HD
 #EXTGRP: Познавательное
-http://178.124.152.238:8088/nauka
+http://tmptv.sunduk.tv/CH259/index.m3u8
 #EXTINF:0,Наука HD
 #EXTGRP: Познавательное
 http://vod.tuva.ru/nauka2/index.m3u8
@@ -407,9 +419,12 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Усадьба
 #EXTGRP: Познавательное
 http://178.212.71.253:8000/play/91/index.m3u8
+#EXTINF:0,История
+#EXTGRP: Познавательное
+http://tmptv.sunduk.tv/CH423/index.m3u8
 #EXTINF:0,Авто 24
 #EXTGRP: Познавательное
-http://178.124.152.238:8088/auto24
+http://tmptv.sunduk.tv/CH405/index.m3u8
 #EXTINF:0,Авто плюс
 #EXTGRP: Познавательное
 http://158.101.222.193:88/georgia_play.php?id=autoplus
