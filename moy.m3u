@@ -144,6 +144,12 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
 
+#EXTINF:0,Любимое HD
+#EXTGRP: кино
+http://tmptv.sunduk.tv/CH717/index.m3u8
+#EXTINF:0,Время
+#EXTGRP: кино
+http://tmptv.sunduk.tv/CH217/index.m3u8
 #EXTINF:0,Ретро
 #EXTGRP: кино
 http://178.212.71.253:8000/play/90/index.m3u8
@@ -179,9 +185,7 @@ http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
 http://tmptv.sunduk.tv/CH521/index.m3u8
-#EXTINF:0,Любимый
-#EXTGRP: кино
-http://tmptv.sunduk.tv/CH717/index.m3u8
+
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
@@ -207,7 +211,7 @@ http://stream-msk-08.ott.tricolor.tv/dtv/id642_MSKSG-PVR-1--Kamedi_HD/03/plst.m3
 http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-http://85.117.61.97:8000/play/a00s/index.m3u8
+http://tmptv.sunduk.tv/CH311/index.m3u8
 #EXTINF:0,CineMan Comedy HD
 #EXTGRP: кино
 http://178.217.72.66:8080/CineMan_Comedy/index.m3u8
@@ -307,26 +311,26 @@ http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
 
 #EXTINF:0, viju TV1000
 #EXTGRP: кино
-http://178.217.72.66:8080/TV_1000/index.m3u8
+http://tmptv.sunduk.tv/CH141/index.m3u8
 #EXTINF:0,viju TV1000 Action
 #EXTGRP: кино
-http://178.217.72.66:8080/TV_1000_Action/index.m3u8
+http://tmptv.sunduk.tv/CH143/index.m3u8
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
-http://85.117.61.97:8000/play/a00t/index.m3u8
+http://tmptv.sunduk.tv/CH313/index.m3u8
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
-http://85.117.61.97:8000/play/a00u/index.m3u8
+http://tmptv.sunduk.tv/CH315/index.m3u8
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-http://85.117.61.97:8000/play/a00s/index.m3u8
+http://tmptv.sunduk.tv/CH311/index.m3u8
 #EXTINF:0,Viju TV1000 Русское кино
 #EXTGRP: кино
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
-http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
+http://tmptv.sunduk.tv/CH299/index.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
 http://158.101.222.193:88/georgia_play.php?id=kinohit
@@ -335,7 +339,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinohit
 http://158.101.222.193:88/georgia_play.php?id=kinomiks
 #EXTINF:0,Киносемья
 #EXTGRP: кино
-http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
+http://tmptv.sunduk.tv/CH25/index.m3u8
 
 ---
 
