@@ -118,6 +118,9 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,Советское
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+#EXTINF:0,МУЛЬТФИЛЬМЫ
+#EXTGRP: кино
+https://autopilot.catcast.tv/content/47786/index.m3u8
 #EXTINF:0,СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
 #EXTGRP: кино
 https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
