@@ -107,9 +107,6 @@ http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА
 #EXTGRP: кино
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0,IPTVPLAY Великая Отечественная HD
-#EXTGRP: кино
-http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY МультСказки HD
 #EXTGRP: кино
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -163,18 +160,13 @@ https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 #EXTGRP: кино
 https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 
-#EXTINF:0,BCU VHS HD
-#EXTGRP: кино
-http://178.217.72.66:8080/BCUVHSHD/index.m3u8
 #EXTINF:0,FAN HD
 #EXTGRP: кино
 http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
 #EXTINF:0,KinoMix
 #EXTGRP: кино
 https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
-#EXTINF:0,Хит HD
-#EXTGRP: кино
-http://178.217.72.66:8080/hithd/index.m3u8
+
 
 #EXTINF:0,Иллюзион +
 #EXTGRP: кино
@@ -250,28 +242,12 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/p
 #EXTGRP: кино
 https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
 
-#EXTINF:0,Секс в большом городе
-#EXTGRP: кино
-https://132544.edgevideo.ru/streams/132544_824978/132544360/index.m3u8
-#EXTINF:0,BCU Fantastic HD
-#EXTGRP: кино
-http://178.217.72.66:8080/BCUFantasticHD/index.m3u8
+
 #EXTINF:0,Кинорейс
 #EXTGRP: кино
 https://stream.ushba.tv/akamaiushba/ushba32/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,CineMan Action HD
-#EXTGRP: кино
-http://178.217.72.66:8080/CineMan_Action/index.m3u8
-#EXTINF:0,CineMan Top HD
-#EXTGRP: кино
-http://178.217.72.66:8080/CineMan_Top/index.m3u8
-#EXTINF:0,CineMan HD
-#EXTGRP: кино
-http://178.217.72.66:8080/CineMan/index.m3u8
-#EXTINF:0,CineMan Thriller HD
-#EXTGRP: кино
-http://178.217.72.66:8080/CineMan_Thriller/index.m3u8
+
 
 
 #EXTINF:0,Trash TV
