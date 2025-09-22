@@ -170,7 +170,7 @@ https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
 
 #EXTINF:0,Иллюзион +
 #EXTGRP: кино
-http://77.235.1.19:8000/play/a06o/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=illuzionplus
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
