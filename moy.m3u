@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://gabbarit.epg.one/epg_1.xml.gz"
 
 #EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz, https://iptvx.one/EPG"
-http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
 
 #EXTINF:0,Известия Воронеж
 #EXTGRP: эфир
@@ -202,9 +202,6 @@ http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
 http://tmptv.sunduk.tv/CH311/index.m3u8
-#EXTINF:0,CineMan Comedy HD
-#EXTGRP: кино
-http://178.217.72.66:8080/CineMan_Comedy/index.m3u8
 
 
 #EXTINF:0,Мужское кино HD
@@ -364,7 +361,7 @@ http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/17013/index.m3u8
 http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/17013/index.m3u8
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
-http://0290d9d5.kazaktelekom.com/iptv/5X8H2UAEGZQ23R/13082/index.m3u8
+http://2c724c66.kazaktelekom.com/iptv/VHWUEWQEFA46EZZ8U7A74R22/13082/index.m3u8
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
 http://cf1113a0.cbilant.com/iptv/EYU9F97AW2BASB/13082/index.m3u8
