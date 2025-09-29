@@ -91,7 +91,7 @@ http://8afc1lij.tvclub.xyz/iptv/LWH2RT66YUV2WM/13018/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/13060/index.m3u8
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/13060/index.m3u8
+http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/13060/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://4a15fde1.ucomist.net/iptv/Q3DW57VGFFQMKZ/13021/index.m3u8
@@ -383,7 +383,10 @@ http://tmptv.sunduk.tv/CH557/index.m3u8
 
 #EXTINF:0,Discovery Channel
 #EXTGRP: Познавательное
-http://178.217.72.66:8080/Discovery_HD/video.m3u8
+http://195.64.140.147:10151/151
+#EXTINF:0,National Geographic
+#EXTGRP: Познавательное
+http://tmptv.sunduk.tv/CH53/index.m3u8
 #EXTINF:0,Наука HD
 #EXTGRP: Познавательное
 http://tmptv.sunduk.tv/CH259/index.m3u8
@@ -455,9 +458,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 
 ========
 
-#EXTINF:0,Мультфильмы VHS
+#EXTINF:0,В гостях у сказки
 #EXTGRP: Детский
-https://v2.catcast.tv/content/47757/index.m3u8
+http://tmptv.sunduk.tv/CH309/index.m3u8
 #EXTINF:0,Baby Time
 #EXTGRP: Детский
 https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
@@ -469,16 +472,16 @@ http://nettv88.xyz:8080/live/AGmelih.731/zspgyfk.19F/167238.m3u
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:0,Мультики и Сказки HD
 #EXTGRP: Детский
-http://195.9.195.3:8080/hls/198446.m3u8
-#EXTINF:0,Ну, погоди!
+https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
+#EXTINF:0,Tim Tam
 #EXTGRP: Детский
-http://194.26.229.213/souzmultfilm/index.m3u8
+http://tmptv.sunduk.tv/CH277/index.m3u8
 #EXTINF:0,Советские мультфильмы
 #EXTGRP: Детский
 https://v2.catcast.tv/content/47786/index.m3u8
 #EXTINF:0,O!
 #EXTGRP: Детский
-http://178.217.72.66:8080/O/index.m3u8
+http://tmptv.sunduk.tv/CH297/index.m3u8
 #EXTINF:0,Ani
 #EXTGRP: Детский
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
@@ -496,7 +499,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 http://178.124.179.122:8088/Malish/index.m3u8
 #EXTINF:0,Уникум
 #EXTGRP: Детский
-https://mhd128.iptv2022.com/p/TV3Amjb_nK4o7IKC_iDI2g,1753296899/streaming/detskiy/324/1/tracks-v5a1/mono.m3u8
+http://tmptv.sunduk.tv/CH167/index.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
 http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
@@ -505,7 +508,7 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 http://ott.server-iptv.live/526/video.m3u8?token=S793FB1732
 #EXTINF:0,Мультиландия
 #EXTGRP: Детский
-http://178.217.72.66:8080/multilandiya/index.m3u8
+http://tmptv.sunduk.tv/CH197/index.m3u8
 #EXTINF:0,МУЛЬТИМАНИЯ
 #EXTGRP: Детский
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
@@ -518,9 +521,9 @@ https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
 http://213.91.178.133:8000/play/a07g
-#EXTINF:0,Kids TV HD
+#EXTINF:0,Мама
 #EXTGRP: Детский
-http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+http://tmptv.sunduk.tv/CH155/index.m3u8
 #EXTINF:0,Пингвин Лоло
 #EXTGRP: Детский
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
@@ -562,10 +565,8 @@ https://fl1001.bozztv.com/ushba44/index.m3u8
 #EXTGRP: игры
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 
+
 =============================
-
-
-
 
 #EXTINF:0,Камин
 #EXTGRP: 999
