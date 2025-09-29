@@ -207,6 +207,9 @@ http://tmptv.sunduk.tv/CH311/index.m3u8
 https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
 
+#EXTINF:0,БОЕВИКИ HD
+#EXTGRP: кино
+https://stream-msk-19.ott.tricolor.tv/dtv/id995_MSKSG-PVR-1--Kinopokaz_2/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 #EXTINF:0,Мужское кино HD
 #EXTGRP: кино
 http://tmptv.sunduk.tv/CH245/index.m3u8
@@ -325,6 +328,9 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/p
 #EXTINF:0,Мир сереала
 #EXTGRP: кино
 http://tmptv.sunduk.tv/CH451/index.m3u8
+#EXTINF:0,Залипательные ролики
+#EXTGRP: кино
+https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0,VF Друзья
@@ -371,6 +377,11 @@ http://2c724c66.kazaktelekom.com/iptv/VHWUEWQEFA46EZZ8U7A74R22/13082/index.m3u8
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
 http://cf1113a0.cbilant.com/iptv/EYU9F97AW2BASB/13082/index.m3u8
+
+
+
+
+
 
 ==========
 #EXTINF:0,Galaxy
@@ -567,7 +578,9 @@ http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 
 
 =============================
-
+#EXTINF:0,Залипательные ролики
+#EXTGRP: кино
+https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
 #EXTINF:0,Камин
 #EXTGRP: 999
 http://185.57.68.33:8091/232/index.m3u8
