@@ -59,6 +59,9 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Детское кино HD
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/40427/index.m3u8
+#EXTINF:0,ЧИЖИК
+#EXTGRP: кино
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Chizhik.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc1OTUzMDAwOSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU4OTI1MjA5LCJzZXNzaW9uX2lkIjoiMDYyNWM0M2U1ZmUyNTNhODRiZGJjNGYxZjBlMjljZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0zQiNUFlPGDgaz2NzyLdHy4Ofcgmx0zCnAWSW__gTM8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
