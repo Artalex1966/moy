@@ -113,9 +113,7 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
-#EXTINF:0,Советское
-#EXTGRP: кино
-https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,МУЛЬТФИЛЬМЫ
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/47786/index.m3u8
@@ -125,6 +123,9 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.
 #EXTINF:0,КИНОМУЛЬТ
 #EXTGRP: кино
 https://stream-msk-17.ott.tricolor.tv/dtv/id944_MSKSG-PVR-1--KinoMult_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc1OTUzMDAwOSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU4OTI1MjA5LCJzZXNzaW9uX2lkIjoiMDYyNWM0M2U1ZmUyNTNhODRiZGJjNGYxZjBlMjljZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0zQiNUFlPGDgaz2NzyLdHy4Ofcgmx0zCnAWSW__gTM8
+#EXTINF:0,Советское
+#EXTGRP: кино
+https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
 #EXTINF:0,СОВЕТСКИЕ ФИЛЬМЫ
 #EXTGRP: кино
 https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc1OTUzMDAwOSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU4OTI1MjA5LCJzZXNzaW9uX2lkIjoiMDYyNWM0M2U1ZmUyNTNhODRiZGJjNGYxZjBlMjljZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0zQiNUFlPGDgaz2NzyLdHy4Ofcgmx0zCnAWSW__gTM8
@@ -157,7 +158,7 @@ http://178.212.71.253:8000/play/90/index.m3u8
 #EXTINF:0,РЕТРО КИНО
 #EXTGRP: кино
 https://stream-msk-10.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc1OTUzMDAwOSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU4OTI1MjA5LCJzZXNzaW9uX2lkIjoiMDYyNWM0M2U1ZmUyNTNhODRiZGJjNGYxZjBlMjljZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.0zQiNUFlPGDgaz2NzyLdHy4Ofcgmx0zCnAWSW__gTM8
-#EXTINF:0,КиноКлассика
+#EXTINF:0,VHS TV
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/47609/index.m3u8
 #EXTINF:0,КлассикаКино
@@ -266,6 +267,9 @@ https://stream.ushba.tv/akamaiushba/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:0,Trash TV
 #EXTGRP: кино
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+#EXTINF:0,MGM HD
+#EXTGRP: кино
+https://v2.catcast.tv/content/44051/index.m3u8
 #EXTINF:0,Logovo Films
 #EXTGRP: кино
 https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
