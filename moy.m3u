@@ -154,13 +154,6 @@ http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?
 http://91.194.191.241:8081/chid73/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:0,MM Комедия Classic HD
-#EXTGRP: кино
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/13037/index.m3u8
-#EXTINF:0,MM Комедия Classic HD
-#EXTGRP: кино
-http://d34811c9.akadatel.com/iptv/Q8E3W9E5N8M6GF/13037/index.m3u8
-
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MDEzNTE3NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU5NTMwMzc3LCJzZXNzaW9uX2lkIjoiYzA0MjNlNmM1OTQ1Nzc0NTBhMmY0NWFjNjlkNjQ0NmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QnKXQAifmyniRO7BgeiPZUtbV-OeY4FoDKzv-kMACFQ
