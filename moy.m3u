@@ -53,6 +53,9 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
 http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:0,Кино 1 International
+#EXTGRP: кино
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
@@ -522,7 +525,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 #EXTINF:0,Супер Герои
 #EXTGRP: Детский
-http://178.124.179.122:8088/Malish/index.m3u8
+http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:0,Уникум
 #EXTGRP: Детский
 http://46.8.46.14/detskiy/index.m3u8
