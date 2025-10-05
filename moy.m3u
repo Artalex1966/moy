@@ -66,6 +66,44 @@ https://autopilot.catcast.tv/content/40427/index.m3u8
 #EXTGRP: кино
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Chizhik.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MDEzNTE3NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU5NTMwMzc3LCJzZXNzaW9uX2lkIjoiYzA0MjNlNmM1OTQ1Nzc0NTBhMmY0NWFjNjlkNjQ0NmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QnKXQAifmyniRO7BgeiPZUtbV-OeY4FoDKzv-kMACFQ
 
+#EXTINF:0,MM USSR Комедия HD
+#EXTGRP: кино
+http://8afc1lij.tvclub.xyz/iptv/LWH2RT66YUV2WM/13019/index.m3u8
+#EXTINF:0,MM USSR Комедия HD
+#EXTGRP: кино
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/13019/index.m3u8
+
+#EXTINF:0,MM USSR Детектив HD
+#EXTGRP: кино
+http://70a055e6.edemist.com/iptv/8855G6D98KGPCC/13096/index.m3u8
+#EXTINF:0,MM USSR Детектив HD
+#EXTGRP: кино
+http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/13096/index.m3u8
+
+#EXTINF:0,MM USSR Драма HD
+#EXTGRP: кино
+http://b9e2c89c.akadatel.com/iptv/Q5TCTHPQ6CWLME/13022/index.m3u8
+#EXTINF:0,MM USSR Драма HD
+#EXTGRP: кино
+http://jexywacp.tvclub.xyz/iptv/G84QCMHA8E2EHL/13022/index.m3u8
+#EXTINF:0,MM USSR 1941-1945 HD
+#EXTGRP: кино
+http://6d26f6dc.edemist.com/iptv/C53M2BW9L4U89G/13018/index.m3u8
+#EXTINF:0,MM USSR 1941-1945 HD
+#EXTGRP: кино
+http://8afc1lij.tvclub.xyz/iptv/LWH2RT66YUV2WM/13018/index.m3u8
+#EXTINF:0,MM USSR Приключения HD
+#EXTGRP: кино
+http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/13060/index.m3u8
+#EXTINF:0,MM USSR Приключения HD
+#EXTGRP: кино
+http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/13060/index.m3u8
+#EXTINF:0,MM USSR Сказки HD
+#EXTGRP: кино
+http://4a15fde1.ucomist.net/iptv/Q3DW57VGFFQMKZ/13021/index.m3u8
+#EXTINF:0,MM USSR Сказки HD
+#EXTGRP: кино
+http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/13021/index.m3u8
 
 
 #EXTINF:0,IPTVPLAY ПАМЯТЬ
@@ -112,19 +150,7 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MDEzNTE3NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU5NTMwMzc3LCJzZXNzaW9uX2lkIjoiYzA0MjNlNmM1OTQ1Nzc0NTBhMmY0NWFjNjlkNjQ0NmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QnKXQAifmyniRO7BgeiPZUtbV-OeY4FoDKzv-kMACFQ
 
-+++++++
-#EXTINF:-1,Кинозалы 28
-https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 29
-https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 30
-https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 33
-https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 34
-https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 35
-https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
+
 ++++++++
 
 
@@ -170,7 +196,12 @@ http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?
 #EXTGRP: кино
 http://91.194.191.241:8081/chid73/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:0,MM Комедия Classic HD
+#EXTGRP: кино
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/13037/index.m3u8
+#EXTINF:0,MM Комедия Classic HD
+#EXTGRP: кино
+http://d34811c9.akadatel.com/iptv/Q8E3W9E5N8M6GF/13037/index.m3u8
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MDEzNTE3NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU5NTMwMzc3LCJzZXNzaW9uX2lkIjoiYzA0MjNlNmM1OTQ1Nzc0NTBhMmY0NWFjNjlkNjQ0NmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QnKXQAifmyniRO7BgeiPZUtbV-OeY4FoDKzv-kMACFQ
@@ -352,7 +383,47 @@ https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://4a15fde1.ucomist.net/iptv/Q3DW57VGFFQMKZ/17006/index.m3u8
+#EXTINF:0,VF Друзья
+#EXTGRP: кино
+http://cf1113a0.cbilant.com/iptv/EYU9F97AW2BASB/17006/index.m3u8
+#EXTINF:0,VF Друзья
+#EXTGRP: кино
+http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/17006/index.m3u8
 
+#EXTINF:0,VF Гарри Поттер
+#EXTGRP: кино
+http://cf1113a0.cbilant.com/iptv/EYU9F97AW2BASB/14230/index.m3u8
+#EXTINF:0,VF Гарри Поттер
+#EXTGRP: кино
+http://ocayhrqe.megatv.fun/iptv/U34E9K252QKQZ5/14230/index.m3u8
+#EXTINF:0,VF Гарри Поттер
+#EXTGRP: кино
+http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/14230/index.m3u8
+
+#EXTINF:0,VF Универ
+#EXTGRP: кино
+http://cf1113a0.cbilant.com/iptv/EYU9F97AW2BASB/13084/index.m3u8
+#EXTINF:0,VF Универ
+#EXTGRP: кино
+http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/13084/index.m3u8
+#EXTINF:0,VF Универ
+#EXTGRP: кино
+http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/13084/index.m3u8
+#EXTINF:0,VF Универ новая общага
+#EXTGRP: кино
+http://cf1113a0.cbilant.com/iptv/EYU9F97AW2BASB/17013/index.m3u8
+#EXTINF:0,VF Универ новая общага
+#EXTGRP: кино
+http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/17013/index.m3u8
+#EXTINF:0,VF Универ новая общага
+#EXTGRP: кино
+http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/17013/index.m3u8
+#EXTINF:0,VF Тайны следствия
+#EXTGRP: кино
+http://2c724c66.kazaktelekom.com/iptv/VHWUEWQEFA46EZZ8U7A74R22/13082/index.m3u8
+#EXTINF:0,VF Тайны следствия
+#EXTGRP: кино
+http://cf1113a0.cbilant.com/iptv/EYU9F97AW2BASB/13082/index.m3u8
 
 
 ==========
@@ -556,5 +627,8 @@ https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
 #EXTINF:0,Камин
 #EXTGRP: 999
 http://185.57.68.33:8091/232/index.m3u8
+#EXTINF:0,Аквариум 
+#EXTGRP: 999
+http://iptv.prosto.tv:7000/ch325/video.m3u8
 
 
