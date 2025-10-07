@@ -52,7 +52,7 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3
 
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
-https://kino-1.catcast.tv/content/38617/index.m3u8
+http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
@@ -171,6 +171,9 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.
 #EXTINF:0,VHS TV
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/47609/index.m3u8
+#EXTINF:0,Сити Эдем - КиноКлассика
+#EXTGRP: кино
+https://cityeden.catcast.tv/content/34185/index.m3u8
 #EXTINF:0,КлассикаКино
 #EXTGRP: кино
 https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
