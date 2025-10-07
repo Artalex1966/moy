@@ -440,7 +440,7 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 
 #EXTINF:0,Discovery Channel
 #EXTGRP: Познавательное
-http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:0, Discovery Science
 #EXTGRP: Познавательное
 http://46.8.46.14/DiscoveryScience/index.m3u8
@@ -627,9 +627,6 @@ http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 
 =============================
 
-#EXTINF:0,VF Друзья
-#EXTGRP: кино
-http://4a15fde1.ucomist.net/iptv/Q3DW57VGFFQMKZ/17006/index.m3u8
 
 #EXTINF:0,Залипательные ролики
 #EXTGRP: кино
