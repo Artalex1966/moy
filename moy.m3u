@@ -103,7 +103,7 @@ http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/13060/index.m3u8
 http://4a15fde1.ucomist.net/iptv/Q3DW57VGFFQMKZ/13021/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/13021/index.m3u8
+http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/13021/index.m3u8
 
 
 #EXTINF:0,IPTVPLAY ПАМЯТЬ
@@ -408,13 +408,13 @@ http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/14230/index.m3u8
 http://cf1113a0.cbilant.com/iptv/EYU9F97AW2BASB/13084/index.m3u8
 #EXTINF:0,VF Универ
 #EXTGRP: кино
-http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/13084/index.m3u8
+http://lo5hdwhc.otttv.pw/iptv/HBX28K5SXCR6EH/13084/index.m3u8
 #EXTINF:0,VF Универ
 #EXTGRP: кино
 http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/13084/index.m3u8
 #EXTINF:0,VF Универ новая общага
 #EXTGRP: кино
-http://cf1113a0.cbilant.com/iptv/EYU9F97AW2BASB/17013/index.m3u8
+http://cuhl17e6.ukminlt.fun/iptv/UQBUXP7ZGEMQ5P/13084/index.m3u8
 #EXTINF:0,VF Универ новая общага
 #EXTGRP: кино
 http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/17013/index.m3u8
@@ -429,14 +429,21 @@ http://2c724c66.kazaktelekom.com/iptv/VHWUEWQEFA46EZZ8U7A74R22/13082/index.m3u8
 http://cf1113a0.cbilant.com/iptv/EYU9F97AW2BASB/13082/index.m3u8
 
 
+
 ==========
+#EXTINF:0,Galaxy
+#EXTGRP: Познавательное
+http://tmptv.sunduk.tv/CH445/index.m3u8
 #EXTINF:0,Galaxy
 #EXTGRP: Познавательное
 http://195.26.83.96:7007/play/a00j/index.m3u8
 
 #EXTINF:0,Discovery Channel
 #EXTGRP: Познавательное
-http://195.64.140.147:10151/151
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:0, Discovery Science
+#EXTGRP: Познавательное
+http://46.8.46.14/DiscoveryScience/index.m3u8
 #EXTINF:0,National Geographic
 #EXTGRP: Познавательное
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
