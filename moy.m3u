@@ -249,6 +249,10 @@ http://185.78.112.17/kino-tv/index.m3u8
 #EXTGRP: кино
 http://46.8.46.14/retro/index.m3u8
 
+#EXTINF:0,Пуаро
+#EXTGRP: кино
+http://srvru.play-x.ru/channel/71d807e1/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+
 #EXTINF:0,Русский детектив
 #EXTGRP: кино
 http://91.194.191.241:8081/chid82/tracks-v1a1/mono.m3u8
@@ -633,6 +637,9 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTGRP: Музыка
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 
+#EXTINF:0,Ретро Волна
+#EXTGRP: Музыка
+http://srvru.play-x.ru/channel/687d8713/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 ========
 
 #EXTINF:0,Gameplay
@@ -658,6 +665,9 @@ http://185.57.68.33:8091/232/index.m3u8
 #EXTINF:0,Аквариум 
 #EXTGRP: 999
 http://iptv.prosto.tv:7000/ch325/video.m3u8
-
-
-
+#EXTINF:0,Хочу все знать 
+#EXTGRP: 999
+http://srvru.play-x.ru/channel/10428b98/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+#EXTINF:0,Александр Роу 
+#EXTGRP: 999
+http://srvru.play-x.ru/channel/n67d1d8fa/index.m3u8?q=7170e086faf29a20f6b11698846effd1
