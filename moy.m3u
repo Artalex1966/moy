@@ -44,7 +44,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://213.252.199.137:8000/play/ch315_Dom_Kino/index.m3u8
+http://tmptv.sunduk.tv/CH2927/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MDEzNTE3NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU5NTMwMzc3LCJzZXNzaW9uX2lkIjoiYzA0MjNlNmM1OTQ1Nzc0NTBhMmY0NWFjNjlkNjQ0NmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QnKXQAifmyniRO7BgeiPZUtbV-OeY4FoDKzv-kMACFQ
@@ -658,5 +658,6 @@ http://185.57.68.33:8091/232/index.m3u8
 #EXTINF:0,Аквариум 
 #EXTGRP: 999
 http://iptv.prosto.tv:7000/ch325/video.m3u8
+
 
 
