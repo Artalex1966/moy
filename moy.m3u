@@ -116,7 +116,9 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTGRP: кино
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 
-
+#EXTINF:0,Александр Роу
+#EXTGRP: кино
+http://srvru.play-x.ru/channel/n67d1d8fa/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 
 #EXTINF:0,МУЛЬТФИЛЬМЫ
 #EXTGRP: кино
@@ -269,7 +271,9 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/p
 #EXTINF:0,УЛИЦЫ РАЗБИТЫХ ФОНАРЕЙ
 #EXTGRP: кино
 https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MDczOTU0MSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTM0NzQxLCJzZXNzaW9uX2lkIjoiODJjYTZiMWM3MjNiM2YzZGZkNWVkNDgwNGY3YWMzODUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GKzMwXfaa90KioeeyX7tdFE72N3hrZrvgAHWOGjNJco
-
+#EXTINF:0,Пуаро
+#EXTGRP: кино
+http://srvru.play-x.ru/channel/71d807e1/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 
 #EXTINF:0,Кинорейс
 #EXTGRP: кино
@@ -393,6 +397,9 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nash_kinopok
 #EXTINF:0,Залипательные ролики
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
+#EXTINF:0,Универ Молодые
+#EXTGRP: кино
+http://srvru.play-x.ru/channel/468aeb01/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 
 
 #EXTINF:0,VF Друзья
