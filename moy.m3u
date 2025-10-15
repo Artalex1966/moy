@@ -88,7 +88,7 @@ http://b9e2c89c.akadatel.com/iptv/Q5TCTHPQ6CWLME/13022/index.m3u8
 http://jexywacp.tvclub.xyz/iptv/G84QCMHA8E2EHL/13022/index.m3u8
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-http://6d26f6dc.edemist.com/iptv/C53M2BW9L4U89G/13018/index.m3u8
+http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/13018/index.m3u8
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
 http://8afc1lij.tvclub.xyz/iptv/LWH2RT66YUV2WM/13018/index.m3u8
@@ -116,9 +116,7 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTGRP: кино
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 
-#EXTINF:0,Александр Роу
-#EXTGRP: кино
-http://srvru.play-x.ru/channel/n67d1d8fa/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+
 
 #EXTINF:0,МУЛЬТФИЛЬМЫ
 #EXTGRP: кино
@@ -154,6 +152,10 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclass
 #EXTINF:0,Clarity4K КиноСССР
 #EXTGRP: кино
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1quZNA3AFXeDvmSKLERi6w1D&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:0,BCU СССР HD
+#EXTGRP: кино
+http://boxviptv.net:25461/ni85/726252/897
+
 ++++++++
 
 
@@ -271,9 +273,13 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/p
 #EXTINF:0,УЛИЦЫ РАЗБИТЫХ ФОНАРЕЙ
 #EXTGRP: кино
 https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MDczOTU0MSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTM0NzQxLCJzZXNzaW9uX2lkIjoiODJjYTZiMWM3MjNiM2YzZGZkNWVkNDgwNGY3YWMzODUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GKzMwXfaa90KioeeyX7tdFE72N3hrZrvgAHWOGjNJco
-#EXTINF:0,Пуаро
+
+#EXTINF:0,MM Агата Кристи HD
 #EXTGRP: кино
-http://srvru.play-x.ru/channel/71d807e1/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/13024/index.m3u8
+#EXTINF:0,MM Агата Кристи HD
+#EXTGRP: кино
+http://gkpzrrwm.megatv.fun/iptv/BUCK6AS2V76CNRKM9T449E3X/13024/index.m3u8
 
 #EXTINF:0,Кинорейс
 #EXTGRP: кино
@@ -436,7 +442,7 @@ http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/13084/index.m3u8
 http://cuhl17e6.ukminlt.fun/iptv/UQBUXP7ZGEMQ5P/13084/index.m3u8
 #EXTINF:0,VF Универ новая общага
 #EXTGRP: кино
-http://0cz6hbkg.siauliairsavlt.com/iptv/PFPXELT5EXTTPA/17013/index.m3u8
+http://b53f0300.kazaktelekom.com/iptv/6AGD4NN5NNLWKM/13084/index.m3u8
 #EXTINF:0,VF Универ новая общага
 #EXTGRP: кино
 http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/17013/index.m3u8
