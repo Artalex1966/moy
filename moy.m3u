@@ -97,7 +97,7 @@ http://8afc1lij.tvclub.xyz/iptv/LWH2RT66YUV2WM/13018/index.m3u8
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/13060/index.m3u8
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/13060/index.m3u8
+http://5eofqvsi.megogo.xyz/iptv/HB48UNXSPWWP9QXMBASRRUAQ/13060/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://4a15fde1.ucomist.net/iptv/Q3DW57VGFFQMKZ/13021/index.m3u8
@@ -403,6 +403,12 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nash_kinopok
 #EXTINF:0,Залипательные ролики
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
+#EXTINF:0,Залипательные ролики 2
+#EXTGRP: кино
+https://30a-tv.com/feeds/720p/63.m3u8
+#EXTINF:0,Приколы
+#EXTGRP: кино
+https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
 #EXTINF:0,Универ Молодые
 #EXTGRP: кино
 http://srvru.play-x.ru/channel/468aeb01/index.m3u8?q=7170e086faf29a20f6b11698846effd1
