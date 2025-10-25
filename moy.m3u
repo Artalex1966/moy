@@ -117,10 +117,6 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
-
-#EXTINF:0,МУЛЬТФИЛЬМЫ
-#EXTGRP: кино
-https://autopilot.catcast.tv/content/47786/index.m3u8
 #EXTINF:0,СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
 #EXTGRP: кино
 https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MTk0OTMzMCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYxMzQ0NTMwLCJzZXNzaW9uX2lkIjoiYzQ3NWU3NGZjZjYyZDE0YTA0NzQ0N2Y3YWVlMDNlNTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QJ2BbmC-rrYMNVcfG3PlR_OyYzp1YWuRv7M-dyCsIHc
