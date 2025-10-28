@@ -189,6 +189,9 @@ http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?
 #EXTGRP: кино
 https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
 
+#EXTINF:0, 3Filmax
+#EXTGRP: кино
+https://vsd254.okcdn.ru/hls/4152310696645.m3u8/sig/MnDWNWI-41A/expires/1761686212317/srcIp/46.138.91.91/urls/45.136.22.68/clientType/0/srcAg/CHROME/mid/4891374853829/4152310696645_high/index.m3u8
 
 #EXTINF:0,Иллюзион +
 #EXTGRP: кино
