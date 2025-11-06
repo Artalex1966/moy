@@ -97,6 +97,9 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTGRP: кино
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 
+#EXTINF:0,MM USSR Мультфильм HD
+#EXTGRP: кино
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODg4MC84OTEzL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzMzQxMWJkNiIsInAiOiIzMzQxMWJkNjYzM2NlZWRlIiwiYyI6IjgwMSIsInQiOiI3Njg3YzIxODgzZjQxNjI2MGM3MjhjYmRiYTY4MTQwYSIsImQiOiI0MTYyNDQiLCJyIjoiNDI4MjAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg5MTMvdmlkZW8ubTN1OD90b2tlbj1bc3R/video.m3u8
 
 #EXTINF:0,СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
 #EXTGRP: кино
@@ -536,7 +539,7 @@ http://91.194.191.241:8081/chid61/tracks-v1a1/mono.m3u8
 https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
 #EXTINF:0,Том и Джерри
 #EXTGRP: Детский
-http://nettv88.xyz:8080/live/AGmelih.731/zspgyfk.19F/167238.m3u
+http://3.team.ga:80/ch3154/index.m3u8?token=rl_mig00.v2_oKoBgs8F_vleTf4Rn2XiF7m8gdypqfD-EWIeBjhj078TEm1ikjVyUFADikM_tPu6z03X82bEBY5OXg
 #EXTINF:0,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
@@ -656,3 +659,8 @@ http://185.57.68.33:8091/232/index.m3u8
 #EXTINF:0,Аквариум 
 #EXTGRP: 999
 http://iptv.prosto.tv:7000/ch325/video.m3u8
+
+#EXTINF:0,Liberty Документалка
+http://3.team.ga:80/ch3177/index.m3u8?token=rl_mig00.v2_2qg70wX4HQKh1DbPjinq-h3FyhfnspBie9uZ9UCUEKnqY8KCydt8-qYIiln29owNa5ACDyynbGzs_w
+#EXTINF:0,Liberty Наука
+http://3.team.ga:80/ch1777/index.m3u8?token=rl_mig00.v2_70PFK1brJOz6ABvDgCzLhrwvutzTHgS8L2tLoNYaRh74G-_Pb-9SH-akpKrMu-QXMiKiq5YHzQCx0A
