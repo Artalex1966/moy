@@ -150,15 +150,15 @@ http://tmptv.sunduk.tv/CH217/index.m3u8
 #EXTINF:0,Ретро
 #EXTGRP: кино
 http://91.194.191.241:8081/chid45/tracks-v1a1/mono.m3u8
-#EXTINF:0,РЕТРО КИНО
+#EXTINF:0,CineMan VHS
 #EXTGRP: кино
-https://stream-msk-10.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MjU1NDM2OSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYxOTQ5NTY5LCJzZXNzaW9uX2lkIjoiZTJhMGFmNzE5OWQzMjc2NGJhNWYwN2YzNTM4OWE1NjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.v9GAkd7V3NQLeXw6M0Xlbq98mu5RsbogGgIaze7J8ls
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vMzEuMjIyLjIwNS42Njo4MDgwLzg4MDcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjNmMmZkZmY4IiwicCI6IjNmMmZkZmY4M2Y3Y2FiMDIiLCJjIjoiMTEwMSIsInQiOiJiNjE1NjNhYWRjMTNlNzgzNjViOTBhYTE0M2QwNjZmNSIsImQiOiI0MTcxNDkiLCJyIjoiNDI5MTA4IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4MDcvaW5kZXgubTN1OD90b2tlbj1bc3R/index.m3u8
 #EXTINF:0,VHS TV
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/47609/index.m3u8
-#EXTINF:0,КлассикаКино
+#EXTINF:0,MM 007 HD
 #EXTGRP: кино
-https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vMzEuMjIyLjIwNS42Njo4MDgwLzgzMjcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjNmMmZkZmY4IiwicCI6IjNmMmZkZmY4M2Y3Y2FiMDIiLCJjIjoiMTYxOCIsInQiOiJiNjE1NjNhYWRjMTNlNzgzNjViOTBhYTE0M2QwNjZmNSIsImQiOiI0MTcxNDkiLCJyIjoiNDI5MTA4IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgzMjcvaW5kZXgubTN1OD90b2tlbj1bc3R/index.m3u8
 #EXTINF:0,КІНО TV VHS
 #EXTGRP: кино
 https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
@@ -255,10 +255,8 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/p
 
 #EXTINF:0,MM Агата Кристи HD
 #EXTGRP: кино
-http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/13024/index.m3u8
-#EXTINF:0,MM Агата Кристи HD
-#EXTGRP: кино
-http://gkpzrrwm.megatv.fun/iptv/BUCK6AS2V76CNRKM9T449E3X/13024/index.m3u8
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vMzEuMjIyLjIwNS42Njo4MDgwLzg2MTgvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjNmMmZkZmY4IiwicCI6IjNmMmZkZmY4M2Y3Y2FiMDIiLCJjIjoiMTYyMCIsInQiOiJiNjE1NjNhYWRjMTNlNzgzNjViOTBhYTE0M2QwNjZmNSIsImQiOiI0MTcxNDkiLCJyIjoiNDI5MTA4IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg2MTgvaW5kZXgubTN1OD90b2tlbj1bc3R/index.m3u8
+
 
 #EXTINF:0,Кинорейс
 #EXTGRP: кино
