@@ -156,12 +156,21 @@ http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vMzEuMjIyLjIwNS42Njo4MDgwLzg4M
 #EXTINF:0,VHS TV
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/47609/index.m3u8
+#EXTINF:0,CineMan VHS
+#EXTGRP: кино
+http://50.7.28.226/8807/index.m3u8
+#EXTINF:0,BCU VHS HD
+#EXTGRP: кино
+http://178.217.72.72/BCUVHSHD/index.m3u8
 #EXTINF:0,MM 007 HD
 #EXTGRP: кино
 http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vMzEuMjIyLjIwNS42Njo4MDgwLzgzMjcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjNmMmZkZmY4IiwicCI6IjNmMmZkZmY4M2Y3Y2FiMDIiLCJjIjoiMTYxOCIsInQiOiJiNjE1NjNhYWRjMTNlNzgzNjViOTBhYTE0M2QwNjZmNSIsImQiOiI0MTcxNDkiLCJyIjoiNDI5MTA4IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgzMjcvaW5kZXgubTN1OD90b2tlbj1bc3R/index.m3u8
 #EXTINF:0,КІНО TV VHS
 #EXTGRP: кино
 https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
+#EXTINF:0,BCU Fantastic HD
+#EXTGRP: кино
+http://178.217.72.72/BCUFantasticHD/index.m3u8
 
 #EXTINF:0,FAN HD
 #EXTGRP: кино
