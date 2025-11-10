@@ -154,9 +154,9 @@ http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlN
 #EXTGRP: кино
 http://boxviptv.net:25461/ni85/726252/897
 
-#EXTINF:0,BCU VHS HD
+#EXTINF:0,CineMan Top HD
 #EXTGRP: кино
-http://178.217.72.72/BCUVHSHD/index.m3u8
+http://178.217.72.72/CineMan_Top/index.m3u8
 
 ++++++++
 
@@ -427,7 +427,7 @@ http://4a15fde1.ucomist.net/iptv/Q3DW57VGFFQMKZ/17006/index.m3u8
 http://cf1113a0.cbilant.com/iptv/EYU9F97AW2BASB/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
-http://rhsbjv7k.tvclub.xyz/iptv/9XRHZ7MZ9PNWS6/17006/index.m3u8
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/17006/index.m3u8
 
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
@@ -450,7 +450,7 @@ http://lo5hdwhc.otttv.pw/iptv/HBX28K5SXCR6EH/13084/index.m3u8
 http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/13084/index.m3u8
 #EXTINF:0,VF Универ новая общага
 #EXTGRP: кино
-http://cuhl17e6.ukminlt.fun/iptv/UQBUXP7ZGEMQ5P/13084/index.m3u8
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/13084/index.m3u8
 #EXTINF:0,VF Универ новая общага
 #EXTGRP: кино
 http://b53f0300.kazaktelekom.com/iptv/6AGD4NN5NNLWKM/13084/index.m3u8
@@ -571,7 +571,7 @@ http://91.194.191.241:8081/chid61/tracks-v1a1/mono.m3u8
 https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
 #EXTINF:0,Том и Джерри
 #EXTGRP: Детский
-http://3.team.ga:80/ch3154/index.m3u8?token=rl_mig00.v2_oKoBgs8F_vleTf4Rn2XiF7m8gdypqfD-EWIeBjhj078TEm1ikjVyUFADikM_tPu6z03X82bEBY5OXg
+
 #EXTINF:0,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
@@ -587,7 +587,7 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 https://v2.catcast.tv/content/47786/index.m3u8
 #EXTINF:0,O!
 #EXTGRP: Детский
-http://185.78.112.17/o_/index.m3u8
+http://178.217.72.72/O/index.m3u8
 #EXTINF:0,Ani
 #EXTGRP: Детский
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
