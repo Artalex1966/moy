@@ -147,16 +147,22 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MzE1OTM1NSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYyNTU0NTU1LCJzZXNzaW9uX2lkIjoiNWEwZjA3ZGQwNzA1YTA3NWE3ZjgxM2E4YmRmZjY4N2IiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.J_BOmak8aM2fhaPYL_HmPLa0ZWBhdDgNAE5y6V8KO6M
+#EXTINF:0,Советская киноклассика
+#EXTGRP: кино
+http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
 #EXTINF:0,Clarity4K КиноСССР
 #EXTGRP: кино
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1quZNA3AFXeDvmSKLERi6w1D&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://boxviptv.net:25461/ni85/726252/897
+http://lb.wisp.cat/lb0/BCUSSSRHD/mpegts?token=nPfO4rRaax
 
 #EXTINF:0,CineMan Top HD
 #EXTGRP: кино
 http://178.217.72.72/CineMan_Top/index.m3u8
+#EXTINF:0,MM 007
+#EXTGRP: кино
+http://50.7.28.226/8327/index.m3u8
 
 ++++++++
 
