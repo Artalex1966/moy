@@ -68,10 +68,10 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Chizhik.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://8afc1lij.tvclub.xyz/iptv/LWH2RT66YUV2WM/13019/index.m3u8
+http://8c8d2306.akadatel.com/iptv/TDTVU4987DD6NH/13019/index.m3u8
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/13019/index.m3u8
+http://c1ccec87.ottrast.com/iptv/7NUMQD9T4762NY/13019/index.m3u8
 
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
@@ -104,7 +104,7 @@ http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/13060/index.m3u8
 http://xuwz4wsv.rostelekom.xyz/iptv/26QTVTG6DBNGK5/13060/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-http://4a15fde1.ucomist.net/iptv/Q3DW57VGFFQMKZ/13021/index.m3u8
+http://4je2oiwp.klaipedalt.org/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/13019/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/13021/index.m3u8
@@ -191,6 +191,9 @@ https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
 http://178.217.72.72/BCUFantasticHD/index.m3u8
+#EXTINF:0,City Eden KinoFantastika
+#EXTGRP: кино
+http://cityeden.catcast.tv/content/45268/index.m3u8
 
 #EXTINF:0,FAN HD
 #EXTGRP: кино
