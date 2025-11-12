@@ -114,9 +114,7 @@ https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
 #EXTINF:0,Советское
 #EXTGRP: кино
 http://50.7.28.226/8795/index.m3u8
-#EXTINF:0,Советское
-#EXTGRP: кино
-http://50.7.28.226/8967/index.m3u8
+
 
 
 #EXTINF:0,СОВЕТСКИЕ ФИЛЬМЫ
@@ -179,9 +177,7 @@ http://tmptv.sunduk.tv/CH217/index.m3u8
 #EXTINF:0,Ретро
 #EXTGRP: кино
 http://91.194.191.241:8081/chid45/tracks-v1a1/mono.m3u8
-#EXTINF:0,CineMan VHS
-#EXTGRP: кино
-http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vMzEuMjIyLjIwNS42Njo4MDgwLzg4MDcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjNmMmZkZmY4IiwicCI6IjNmMmZkZmY4M2Y3Y2FiMDIiLCJjIjoiMTEwMSIsInQiOiJiNjE1NjNhYWRjMTNlNzgzNjViOTBhYTE0M2QwNjZmNSIsImQiOiI0MTcxNDkiLCJyIjoiNDI5MTA4IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg4MDcvaW5kZXgubTN1OD90b2tlbj1bc3R/index.m3u8
+
 #EXTINF:0,VHS-ка
 #EXTGRP: кино
 http://50.7.28.226/8962/index.m3u8
@@ -205,9 +201,7 @@ http://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:0,FAN HD
 #EXTGRP: кино
 http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MzE1OTM1NSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYyNTU0NTU1LCJzZXNzaW9uX2lkIjoiNWEwZjA3ZGQwNzA1YTA3NWE3ZjgxM2E4YmRmZjY4N2IiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.J_BOmak8aM2fhaPYL_HmPLa0ZWBhdDgNAE5y6V8KO6M
-#EXTINF:0,KinoMix
-#EXTGRP: кино
-https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
+
 
 #EXTINF:0,Иллюзион +
 #EXTGRP: кино
@@ -334,6 +328,10 @@ https://fl1003.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
 
+#EXTINF:0,Старое
+#EXTGRP: кино
+http://50.7.28.226/8967/index.m3u8
+
 #EXTINF:0,Suspense 
 #EXTGRP: кино
 http://188.225.31.197/bpk-tv/000008739/tve/index.m3u8
@@ -435,7 +433,7 @@ http://srvru.play-x.ru/channel/468aeb01/index.m3u8?q=7170e086faf29a20f6b11698846
 http://4a15fde1.ucomist.net/iptv/Q3DW57VGFFQMKZ/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
-http://cf1113a0.cbilant.com/iptv/EYU9F97AW2BASB/17006/index.m3u8
+http://d1c5a228.kazaktelekom.com/iptv/4HK89QSPA76UNM/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/17006/index.m3u8
