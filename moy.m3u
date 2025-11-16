@@ -62,10 +62,6 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Детское кино HD
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/40427/index.m3u8
-#EXTINF:0,ЧИЖИК
-#EXTGRP: кино
-https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Chizhik.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2MzM0ODQxMCwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzYyNzQzNjEwLCJzZXNzaW9uX2lkIjoiZWIxNDliYmY3NzY3MjIxZDJlOGVlMzEyZWExYjA4NTMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.e6ma_y1mTLl-K4dTaGrJtIJi51_V3tK8WU2NkEDFgBo
-
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -136,9 +132,6 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2MzM0ODQxMCwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzYyNzQzNjEwLCJzZXNzaW9uX2lkIjoiZWIxNDliYmY3NzY3MjIxZDJlOGVlMzEyZWExYjA4NTMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.e6ma_y1mTLl-K4dTaGrJtIJi51_V3tK8WU2NkEDFgBo
-#EXTINF:0,Советская киноклассика
-#EXTGRP: кино
-http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
 #EXTINF:0,Clarity4K КиноСССР
 #EXTGRP: кино
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1quZNA3AFXeDvmSKLERi6w1D&token=Ym9yeW43ODpMYW5jZXIxNg==
@@ -155,7 +148,7 @@ http://lb.wisp.cat/lb0/CineMan-TOP/video.m3u8?token=nPfO4rRaax
 #EXTINF:0,MM Киберпанк
 #EXTGRP: кино
 http://50.7.28.226/8545/index.m3u8
-#EXTINF:0,BCU Катастрофа
+#EXTINF:0,BCU Catastrophe HD
 #EXTGRP: кино
 http://50.7.28.226/8877/index.m3u8
 #EXTINF:0,MM Катастрофа
