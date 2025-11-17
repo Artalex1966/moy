@@ -18,7 +18,26 @@ http://50.7.28.226/8327/index.m3u8
 #EXTINF:0,009
 http://50.7.28.226/8868/index.m3u8  
 #EXTINF:0,010
-http://50.7.28.226/8869/index.m3u8  
+http://50.7.28.226/8869/index.m3u8
+#EXTINF:0,011
+http://50.7.28.226/8342/index.m3u8
+#EXTINF:0,012
+http://50.7.28.226/8343/index.m3u8
+#EXTINF:0,013
+http://50.7.28.226/8374/index.m3u8
+#EXTINF:0,014
+http://50.7.28.226/8393/index.m3u8
+#EXTINF:0,015
+http://50.7.28.226/8405/index.m3u8
+#EXTINF:0,016
+http://50.7.28.226/8407/index.m3u8
+#EXTINF:0,017
+http://50.7.28.226/8413/index.m3u8
+#EXTINF:0,018
+http://50.7.28.226/8414/index.m3u8
+#EXTINF:0,019
+http://50.7.28.226/8415/index.m3u8
+
 
 
 
@@ -325,6 +344,7 @@ https://ovh13.zorovids.click/cast/2001-2500/2390.mp4
 https://cdn2.zorovids.click/cast/2501-3000/2868.mp4
 https://cdn2.zorovids.click/cast/2501-3000/2751.mp4
 https://cdn2.zorovids.click/cast/2501-3000/2836.mp4
+
 
 
 
