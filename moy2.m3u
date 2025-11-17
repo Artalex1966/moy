@@ -1,7 +1,27 @@
 #EXTM3U 
+#EXTINF:0,001
+http://50.7.28.226/8030/index.m3u8
+#EXTINF:0,002
+http://50.7.28.226/8128/index.m3u8
+#EXTINF:0,003
+http://50.7.28.226/8129/index.m3u8
+#EXTINF:0,004
+http://50.7.28.226/8131/index.m3u8
+#EXTINF:0,005
+http://50.7.28.226/8191/index.m3u8  
+#EXTINF:0,006
+http://50.7.28.226/8193/index.m3u8
+#EXTINF:0,007
+http://50.7.28.226/8203/index.m3u8  
+#EXTINF:0,008
+http://50.7.28.226/8327/index.m3u8
+#EXTINF:0,009
+http://50.7.28.226/8868/index.m3u8  
+#EXTINF:0,010
+http://50.7.28.226/8869/index.m3u8  
 
-http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzZjJmZGZmOCIsInAiOiIzZjJmZGZmODNmN2NhYjAyIiwiYyI6IjMwMCIsInQiOiJiNjE1NjNhYWRjMTNlNzgzNjViOTBhYTE0M2QwNjZmNSIsImQiOiI0MTcxNDkiLCJyIjoiNDI5MTA4IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg0MDUvaW5kZXgubTN1OD90b2tlbj1bc3R/index.m3u8
-http://ost.ru-tv.site/iX3Rva2VuXSIsImwiOiIzZjJmZGZmOCIsInAiOiIzZjJmZGZmODNmN2NhYjAyIiwiYyI6IjE4NTgiLCJ0IjoiYjYxNTYzYWFkYzEzZTc4MzY1YjkwYWExNDNkMDY2ZjUiLCJkIjoiNDE3MTQ5IiwiciI6IjQyOTEwOCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzkyNDAvaW5kZXgubTN1OD90b2tlbj1bc3R/index.m3u8
+
+
 #EXTINF:-1,Taboo (1980)
 #EXTGRP:Кино+
 https://video1.tizam.cc/top/Taboo-1980.mp4
@@ -305,5 +325,6 @@ https://ovh13.zorovids.click/cast/2001-2500/2390.mp4
 https://cdn2.zorovids.click/cast/2501-3000/2868.mp4
 https://cdn2.zorovids.click/cast/2501-3000/2751.mp4
 https://cdn2.zorovids.click/cast/2501-3000/2836.mp4
+
 
 
