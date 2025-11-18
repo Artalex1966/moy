@@ -135,25 +135,26 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclass
 #EXTINF:0,Clarity4K КиноСССР
 #EXTGRP: кино
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1quZNA3AFXeDvmSKLERi6w1D&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:0,Clarity4K Сделано в СССР
+#EXTINF:0,BOX CCCP 4K
 #EXTGRP: кино
-http://lb.wisp.cat/lb0/Clarity4K_madein_sssr/video.m3u8?token=nPfO4rRaax
-#EXTINF:0,BCU СССР HD
-#EXTGRP: кино
-http://lb.wisp.cat/lb0/BCUSSSRHD/mpegts?token=nPfO4rRaax
+http://50.7.28.226/8445/index.m3u8
 
-#EXTINF:0,CineMan Top HD
-#EXTGRP: кино
-http://lb.wisp.cat/lb0/CineMan-TOP/video.m3u8?token=nPfO4rRaax
+
 #EXTINF:0,MM Киберпанк
 #EXTGRP: кино
 http://50.7.28.226/8545/index.m3u8
+#EXTINF:0,MM UFO
+#EXTGRP: кино
+http://50.7.28.226/8410/index.m3u8
 #EXTINF:0,BCU Catastrophe HD
 #EXTGRP: кино
 http://50.7.28.226/8877/index.m3u8
 #EXTINF:0,MM Катастрофа
 #EXTGRP: кино
 http://50.7.28.226/8746/index.m3u8
+#EXTINF:0,BOX APOCALYPSE
+#EXTGRP: кино
+http://50.7.28.226/8441/index.m3u8
 #EXTINF:0,MM 007
 #EXTGRP: кино
 http://50.7.28.226/8327/index.m3u8
@@ -161,9 +162,12 @@ http://50.7.28.226/8327/index.m3u8
 #EXTINF:0,BOX SPY
 #EXTGRP: кино
 http://50.7.28.226/8354/index.m3u8
-#EXTINF:0,Clarity4K Galaxy Films
+#EXTINF:0,BOX ciber
 #EXTGRP: кино
-http://lb.wisp.cat/lb0/Clarity_4K/video.m3u8?token=nPfO4rRaax
+http://50.7.28.226/8419/index.m3u8
+#EXTINF:0,MM Боевик classic
+#EXTGRP: кино
+http://50.7.28.226/8411/index.m3u8
 
 ++++++++
 
@@ -192,6 +196,9 @@ http://178.217.72.72/BCUVHSHD/index.m3u8
 #EXTINF:0,BCU Stars
 #EXTGRP: кино
 http://50.7.28.226/8885/index.m3u8
+#EXTINF:0,BOX Ultrastars
+#EXTGRP: кино
+http://50.7.28.226/8444/index.m3u8
 
 #EXTINF:0,MM Фантастика
 #EXTGRP: кино
