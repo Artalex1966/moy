@@ -1,0 +1,748 @@
+#EXTM3U x-tvg-url="http://gabbarit.epg.one/epg_1.xml.gz"
+
+#EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz, https://iptvx.one/EPG"
+
+
+#EXTINF:0,Известия Воронеж
+#EXTGRP: эфир
+http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
+#EXTINF:0,Россия 24
+#EXTGRP: эфир
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
+#EXTINF:0,Первый канал
+#EXTGRP: эфир
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+#EXTINF:0,Россия 1
+#EXTGRP: эфир
+http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:0,НТВ
+#EXTGRP: эфир
+http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP: эфир
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:0,Соловьев Live
+#EXTGRP: эфир
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:0,РЕН ТВ
+#EXTGRP: эфир
+https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+#EXTINF:0,Звезда
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:0, Звезда Плюс HD
+#EXTGRP: эфир
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
+#EXTINF:0,МИР
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:0,Москва Доверие
+#EXTGRP: эфир
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+
+========
+
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: кино
+http://tmptv.sunduk.tv/CH2927/index.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP: кино
+http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+
+
+#EXTINF:0,Кино 1 International
+#EXTGRP: кино
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:0,Кино 1 International
+#EXTGRP: кино
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:0,Детское кино International
+#EXTGRP: кино
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0,Детское кино HD
+#EXTGRP: кино
+https://autopilot.catcast.tv/content/40427/index.m3u8
+
+#EXTINF:0,MM USSR Комедия HD
+#EXTGRP: кино
+http://8afc1lij.tvclub.xyz/iptv/LWH2RT66YUV2WM/13019/index.m3u8
+#EXTINF:0,MM USSR Комедия HD
+#EXTGRP: кино
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/13019/index.m3u8
+
+#EXTINF:0,MM USSR Детектив HD
+#EXTGRP: кино
+http://70a055e6.edemist.com/iptv/8855G6D98KGPCC/13096/index.m3u8
+#EXTINF:0,MM USSR Детектив HD
+#EXTGRP: кино
+http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/13096/index.m3u8
+
+#EXTINF:0,MM USSR Драма HD
+#EXTGRP: кино
+http://b9e2c89c.akadatel.com/iptv/Q5TCTHPQ6CWLME/13022/index.m3u8
+#EXTINF:0,MM USSR Драма HD
+#EXTGRP: кино
+http://jexywacp.tvclub.xyz/iptv/G84QCMHA8E2EHL/13022/index.m3u8
+#EXTINF:0,MM USSR 1941-1945 HD
+#EXTGRP: кино
+http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/13018/index.m3u8
+#EXTINF:0,MM USSR 1941-1945 HD
+#EXTGRP: кино
+http://8afc1lij.tvclub.xyz/iptv/LWH2RT66YUV2WM/13018/index.m3u8
+#EXTINF:0,MM USSR Приключения HD
+#EXTGRP: кино
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/13060/index.m3u8
+#EXTINF:0,MM USSR Приключения HD
+#EXTGRP: кино
+http://5eofqvsi.megogo.xyz/iptv/HB48UNXSPWWP9QXMBASRRUAQ/13060/index.m3u8
+#EXTINF:0,MM USSR Сказки HD
+#EXTGRP: кино
+http://4a15fde1.ucomist.net/iptv/Q3DW57VGFFQMKZ/13021/index.m3u8
+#EXTINF:0,MM USSR Сказки HD
+#EXTGRP: кино
+http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/13021/index.m3u8
+
+
+
+
+#EXTINF:0,IPTVPLAY ПАМЯТЬ
+#EXTGRP: кино
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+#EXTINF:0,IPTVPLAY МультСказки HD
+#EXTGRP: кино
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+#EXTINF:0,СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
+#EXTGRP: кино
+https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,КИНОМУЛЬТ
+#EXTGRP: кино
+https://stream-msk-17.ott.tricolor.tv/dtv/id944_MSKSG-PVR-1--KinoMult_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,Советское
+#EXTGRP: кино
+https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Советское
+#EXTGRP: кино
+http://50.7.28.226/8795/index.m3u8
+
+
+
+#EXTINF:0,СОВЕТСКИЕ ФИЛЬМЫ
+#EXTGRP: кино
+https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+
+#EXTINF:0,День Победы
+#EXTGRP: кино
+http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,ШЕРЛОК ХОЛМС
+#EXTGRP: кино
+https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,СЕМНАДЦАТЬ МГНОВЕНИЙ ВЕСНЫ
+#EXTGRP: кино
+https://stream-msk-16.ott.tricolor.tv/dtv/id925_MSKSG-PVR-1--Kinozal_5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,Патриот
+#EXTGRP: кино
+https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,Советская киноклассика
+#EXTGRP: кино
+https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,Clarity4K КиноСССР
+#EXTGRP: кино
+http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1quZNA3AFXeDvmSKLERi6w1D&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:0,BCU СССР HD
+#EXTGRP: кино
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBlGBcCbxwp57FbjK5i4I6s4/m3u8
+#EXTINF:0,Fresh Soviet
+#EXTGRP: кино
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBuAKlsLeXCxDWTNlp9iZNUw/m3u8
+
+#EXTINF:0,Любимое HD
+#EXTGRP: кино
+https://stream-msk-05.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,Время
+#EXTGRP: кино
+http://tmptv.sunduk.tv/CH217/index.m3u8
+#EXTINF:0,Ретро
+#EXTGRP: кино
+http://91.194.191.241:8081/chid45/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Иллюзион +
+#EXTGRP: кино
+http://91.194.191.241:8081/chid71/tracks-v1a1/mono.m3u8
+#EXTINF:0,Дом кино
+#EXTGRP: кино
+http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,Любимое кино
+#EXTGRP: кино
+http://91.194.191.241:8081/chid73/tracks-v1a1/mono.m3u8
+
+---
+
+#EXTINF:0,MM Киберпанк
+#EXTGRP: кино
+http://50.7.28.226/8545/index.m3u8
+#EXTINF:0,MM UFO
+#EXTGRP: кино
+http://50.7.28.226/8410/index.m3u8
+#EXTINF:0,BCU Catastrophe HD
+#EXTGRP: кино
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBlj2uQQKUY_HPMn4TGp9iks/m3u8
+#EXTINF:0,MM Катастрофа
+#EXTGRP: кино
+http://50.7.28.226/8746/index.m3u8
+#EXTINF:0,Fresh Thriller
+#EXTGRP: кино
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBkGs10fm0u_VXNGUtII6faw/m3u8
+#EXTINF:0,MM 007
+#EXTGRP: кино
+http://50.7.28.226/8327/index.m3u8
+
+
+
+++++++++
+
+
+
+
+
+
+#EXTINF:0,Fresh VHS
+#EXTGRP: кино
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBhes1ItGLzmYVtnauBGnqjA/m3u8
+#EXTINF:0,CineMan VHS
+#EXTGRP: кино
+http://50.7.28.226/8807/index.m3u8
+#EXTINF:0,BCU VHS HD
+#EXTGRP: кино
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBq_YWX0pqB4SlnGA7vwHyq8/m3u8
+#EXTINF:0,BCU Stars HD
+#EXTGRP: кино
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBs714nNYJymc3oJ1sTBtF1g/m3u8
+#EXTINF:0,BCU Cosmo HD
+#EXTGRP: кино
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBrAtvA--d4DH3JpRyOgeyXg/m3u8
+
+#EXTINF:0,Fresh Fantastic
+#EXTGRP: кино
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBq6oXx-1H3k9tso2C85V-AI/m3u8
+#EXTINF:0,BCU Fantastic HD
+#EXTGRP: кино
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBl3P5k0SnCBzNFr5x3wDBug/m3u8
+#EXTINF:0,IPTVPLAY ФАНТАСТИКА
+#EXTGRP: кино
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+
+#EXTINF:0,1FILMAX
+#EXTGRP: кино
+http://195.9.195.3:8080/hls/204708.m3u8
+#EXTINF:0,2FILMAX
+#EXTGRP: кино
+http://195.9.195.3:8080/hls/204717.m3u8
+
+
+#EXTINF:0,FAN HD
+#EXTGRP: кино
+http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+
+
+
+
+
+#EXTINF:0,MM Комедия Classic HD
+#EXTGRP: кино
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/13037/index.m3u8
+#EXTINF:0,MM Комедия Classic HD
+#EXTGRP: кино
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/13037/index.m3u8
+
+#EXTINF:0,BCU Comedy HD
+#EXTGRP: кино
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBh2_fLByAmHbWlJVkSER7A0/m3u8
+
+#EXTINF:0,Комедия
+#EXTGRP: кино
+http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+
+#EXTINF:0,КОМЕДИИ
+#EXTGRP: кино
+https://stream-msk-14.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,Кинокомедия
+#EXTGRP: кино
+http://91.194.191.241:8081/chid406/tracks-v1a1/mono.m3u8
+#EXTINF:0,Камеди
+#EXTGRP: кино
+http://stream-msk-08.ott.tricolor.tv/dtv/id642_MSKSG-PVR-1--Kamedi_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,Комедийное
+#EXTGRP: кино
+http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,viju+ Comedy HD
+#EXTGRP: кино
+http://46.8.46.14/vipcomedy/index.m3u8
+
+
+#EXTINF:0,6 КАДРОВ
+#EXTGRP: кино
+https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,BCU Сваты HD
+#EXTGRP: кино
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBmb9A_mZsIf0eFeRxWUlWq8/m3u8
+
+#EXTINF:0,Кинопоказ HD
+#EXTGRP: кино
+http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinopokaz_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,Блокбастер HD
+#EXTGRP: кино
+http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Blokbaster_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,БОЕВИКИ HD
+#EXTGRP: кино
+https://stream-msk-19.ott.tricolor.tv/dtv/id995_MSKSG-PVR-1--Kinopokaz_2/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,Мужское кино HD
+#EXTGRP: кино
+http://91.194.191.241:8081/chid462/tracks-v1a1/mono.m3u8
+#EXTINF:0,Остросюжетное HD
+#EXTGRP: кино
+https://stream-msk-10.ott.tricolor.tv/dtv/id277_MSKSG-PVR-1--Ostrosuzhetnoe/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,Кино ТВ
+#EXTGRP: кино
+http://tmptv.sunduk.tv/CH559/index.m3u8
+#EXTINF:0,Родное кино
+#EXTGRP: кино
+http://46.8.46.14/retro/index.m3u8
+
+
+#EXTINF:0,Русский детектив
+#EXTGRP: кино
+http://91.194.191.241:8081/chid82/tracks-v1a1/mono.m3u8
+#EXTINF:0,Русский бестселлер
+#EXTGRP: кино
+http://stream-msk-04.ott.tricolor.tv/dtv/id517_MSKSG-PVR-1--Rus_Bests/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,Русский роман
+#EXTGRP: кино
+http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,Русский Иллюзион
+#EXTGRP: кино
+http://178.212.71.253:8000/play/49/index.m3u8
+
+#EXTINF:0,ЖЕНСКИЙ ДЕТЕКТИВ
+#EXTGRP: кино
+https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,УЛИЦЫ РАЗБИТЫХ ФОНАРЕЙ
+#EXTGRP: кино
+https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+
+
+#EXTINF:0,MM Агата Кристи HD
+#EXTGRP: кино
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/13024/index.m3u8
+#EXTINF:0,MM Агата Кристи HD
+#EXTGRP: кино
+http://gkpzrrwm.megatv.fun/iptv/BUCK6AS2V76CNRKM9T449E3X/13024/index.m3u8
+
+
+#EXTINF:0,Кинорейс
+#EXTGRP: кино
+https://stream.ushba.tv/akamaiushba/ushba32/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0,Trash TV
+#EXTGRP: кино
+https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+#EXTINF:0,MGM HD
+#EXTGRP: кино
+https://v2.catcast.tv/content/44051/index.m3u8
+#EXTINF:0,Logovo Films
+#EXTGRP: кино
+https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
+#EXTINF:0,SSAFilm
+#EXTGRP: кино
+https://fl1003.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:0,LentaKino
+#EXTGRP: кино
+https://fl1001.bozztv.com/ushba-films-w/tracks-v1a1/mono.m3u8
+#EXTINF:0,Cinemator
+#EXTGRP: кино
+https://fl1003.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:0,Film Zone
+#EXTGRP: кино
+https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Старое
+#EXTGRP: кино
+http://50.7.28.226/8967/index.m3u8
+
+#EXTINF:0,Suspense 
+#EXTGRP: кино
+http://188.225.31.197/bpk-tv/000008739/tve/index.m3u8
+
+
+#EXTINF:0,Cinema
+#EXTGRP: кино
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:0,Cinema
+#EXTGRP: кино
+http://46.8.46.14/cinema/index.m3u8
+
+#EXTINF:0, viju TV1000
+#EXTGRP: кино
+http://46.8.46.14/tv1000/index.m3u8
+#EXTINF:0,viju TV1000 Action
+#EXTGRP: кино
+http://46.8.46.14/actiontv/index.m3u8
+#EXTINF:0,viju+ Megahit HD
+#EXTGRP: кино
+http://46.8.46.14/vipmegahit/index.m3u8
+#EXTINF:0,viju+ Premiere HD
+#EXTGRP: кино
+http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
+#EXTINF:0,viju+ Comedy HD
+#EXTGRP: кино
+http://46.8.46.14/vipcomedy/index.m3u8
+#EXTINF:0,Viju TV1000 Русское кино
+#EXTGRP: кино
+http://91.194.191.241:8081/chid69/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Кинопремьера
+#EXTGRP: кино
+http://139.28.255.188:8080/kinoprem/index.m3u8
+#EXTINF:0,Кинохит
+#EXTGRP: кино
+http://46.8.46.14/kinohit/index.m3u8
+#EXTINF:0,Киномикс
+#EXTGRP: кино
+https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Киносемья
+#EXTGRP: кино
+http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0,ИНТЕРНЫ
+#EXTGRP: кино
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0,ДЕСЯТОЕ КОРОЛЕВСТВО
+#EXTGRP: кино
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0,МАЖОР
+#EXTGRP: кино
+https://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,Скорая помощь
+#EXTGRP: кино
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:0,СЛЕД
+#EXTGRP: кино
+https://stream-msk-16.ott.tricolor.tv/dtv/id929_MSKSG-PVR-1--Kinozal_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,НЕКРАСИВАЯ ПОДРУЖКА
+#EXTGRP: кино
+http://live-mirror-17.ott.tricolor.tv/dtv/id978_MSKSG-PVR-1--Kinozal_6/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,ЧУЖОЙ РАЙОН
+#EXTGRP: кино
+https://stream-msk-15.ott.tricolor.tv/dtv/id907_MSKSG-PVR-1--Kinozal_8/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,ГЛУХАРЬ
+#EXTGRP: кино
+https://live-mirror-18.ott.tricolor.tv/dtv/id1012_MSKSG-PVR-1--Kinozal24_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,ПОСЛЕДНИЙ МЕНТ
+#EXTGRP: кино
+https://live-mirror-18.ott.tricolor.tv/dtv/id1014_MSKSG-PVR-1--Kinozal26_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+#EXTINF:0,Кино и сериалы
+#EXTGRP: кино
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
+#EXTINF:0,МИР СЕРИАЛА
+#EXTGRP: кино
+http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
+#EXTINF:0,НАШ КИНОПОКАЗ HD
+#EXTGRP: кино
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nash_kinopokaz_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+
+#EXTINF:0,Залипательные ролики
+#EXTGRP: кино
+https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
+#EXTINF:0,Залипательные ролики 2
+#EXTGRP: кино
+https://30a-tv.com/feeds/720p/63.m3u8
+#EXTINF:0,Приколы
+#EXTGRP: кино
+https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
+#EXTINF:0,Универ Молодые
+#EXTGRP: кино
+http://srvru.play-x.ru/channel/468aeb01/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+
+
+#EXTINF:0,VF Друзья
+#EXTGRP: кино
+http://4a15fde1.ucomist.net/iptv/Q3DW57VGFFQMKZ/17006/index.m3u8
+#EXTINF:0,VF Друзья
+#EXTGRP: кино
+http://d1c5a228.kazaktelekom.com/iptv/4HK89QSPA76UNM/17006/index.m3u8
+#EXTINF:0,VF Друзья
+#EXTGRP: кино
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/17006/index.m3u8
+
+#EXTINF:0,VF Гарри Поттер
+#EXTGRP: кино
+http://cf1113a0.cbilant.com/iptv/EYU9F97AW2BASB/14230/index.m3u8
+#EXTINF:0,VF Гарри Поттер
+#EXTGRP: кино
+http://ocayhrqe.megatv.fun/iptv/U34E9K252QKQZ5/14230/index.m3u8
+#EXTINF:0,VF Гарри Поттер
+#EXTGRP: кино
+http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/14230/index.m3u8
+
+#EXTINF:0,VF Универ
+#EXTGRP: кино
+http://cf1113a0.cbilant.com/iptv/EYU9F97AW2BASB/13084/index.m3u8
+#EXTINF:0,VF Универ
+#EXTGRP: кино
+http://lo5hdwhc.otttv.pw/iptv/HBX28K5SXCR6EH/13084/index.m3u8
+#EXTINF:0,VF Универ
+#EXTGRP: кино
+http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/13084/index.m3u8
+#EXTINF:0,VF Универ новая общага
+#EXTGRP: кино
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/13084/index.m3u8
+#EXTINF:0,VF Универ новая общага
+#EXTGRP: кино
+http://b53f0300.kazaktelekom.com/iptv/6AGD4NN5NNLWKM/13084/index.m3u8
+#EXTINF:0,VF Универ новая общага
+#EXTGRP: кино
+http://70a75805.rossteleccom.net/iptv/EDK4ZVBNNRYT9Z/17013/index.m3u8
+#EXTINF:0,VF Тайны следствия
+#EXTGRP: кино
+http://2c724c66.kazaktelekom.com/iptv/VHWUEWQEFA46EZZ8U7A74R22/13082/index.m3u8
+#EXTINF:0,VF Тайны следствия
+#EXTGRP: кино
+http://cf1113a0.cbilant.com/iptv/EYU9F97AW2BASB/13082/index.m3u8
+
+
+
+==========
+#EXTINF:0,Galaxy
+#EXTGRP: Познавательное
+http://tmptv.sunduk.tv/CH445/index.m3u8
+#EXTINF:0,Galaxy
+#EXTGRP: Познавательное
+http://195.26.83.96:7007/play/a00j/index.m3u8
+
+#EXTINF:0,Первый космический
+#EXTGRP: Познавательное
+http://tmptv.sunduk.tv/CH557/index.m3u8
+#EXTINF:0,Curiosity
+#EXTGRP: Познавательное
+http://tmptv.sunduk.tv/CH4045/index.m3u8
+#EXTINF:0,Discovery Channel
+#EXTGRP: Познавательное
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
+#EXTINF:0, Discovery Science
+#EXTGRP: Познавательное
+http://46.8.46.14/DiscoveryScience/index.m3u8
+#EXTINF:0,National Geographic
+#EXTGRP: Познавательное
+http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
+#EXTINF:0,Наука 2.0 HD
+#EXTGRP: Познавательное
+http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:0,Наука 2.0 HD
+#EXTGRP: Познавательное
+http://stream-msk-10.ott.tricolor.tv/dtv/id653_MSKSG-PVR-1--Nauka_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
+
+#EXTINF:0,Звезда Плюс 
+#EXTGRP: Познавательное
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0,Усадьба
+#EXTGRP: Познавательное
+http://178.212.71.253:8000/play/91/index.m3u8
+#EXTINF:0,История
+#EXTGRP: Познавательное
+http://tmptv.sunduk.tv/CH423/index.m3u8
+#EXTINF:0,Авто 24
+#EXTGRP: Познавательное
+http://tmptv.sunduk.tv/CH405/index.m3u8
+#EXTINF:0,Авто плюс
+#EXTGRP: Познавательное
+http://158.101.222.193:88/georgia_play.php?id=autoplus
+
+======================
+
+#EXTINF:0,НТВ Хит
+#EXTGRP: эфир
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:0,НТВ Сериал
+#EXTGRP: эфир
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:0,Домашний
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:0,СТС
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:0,СТС Love
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:0,СТС International
+#EXTGRP: эфир
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+#EXTINF:0,СТС Int
+#EXTGRP: эфир
+http://chiburator.monster:8000/play/jraWyZOx1HuMWl7gFqhADVz3bverStbExszEvoTqpZw/ts
+#EXTINF:0,ТНТ
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:0,ТНТ4
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:0, ТНТ International
+#EXTGRP: эфир
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+#EXTINF:0,Суббота
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:0,Пятница
+#EXTGRP: эфир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:0,Пятница! International
+#EXTGRP: эфир
+https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+#EXTINF:0,Че
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:0,Ю
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+
+========
+
+#EXTINF:0,В гостях у сказки
+#EXTGRP: Детский
+http://91.194.191.241:8081/chid61/tracks-v1a1/mono.m3u8
+#EXTINF:0,Baby Time
+#EXTGRP: Детский
+https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
+#EXTINF:0,Том и Джерри
+#EXTGRP: Детский
+
+#EXTINF:0,Чип и Дейл
+#EXTGRP: Детский
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:0,КИНОМУЛЬТ
+#EXTGRP: Детский
+http://50.7.28.226/8576/index.m3u8
+#EXTINF:0,СОЮЗМУЛЬТФИЛЬМ
+#EXTGRP: Детский
+http://194.26.229.213/souzmultfilm/index.m3u8
+
+#EXTINF:0,Советские мультфильмы
+#EXTGRP: Детский
+https://v2.catcast.tv/content/47786/index.m3u8
+#EXTINF:0,O!
+#EXTGRP: Детский
+http://178.217.72.72/O/index.m3u8
+#EXTINF:0,Ani
+#EXTGRP: Детский
+http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:0,Детский мир
+#EXTGRP: Детский
+http://217.21.34.160:38007/detmir/index.m3u8
+#EXTINF:0,Карусель
+#EXTGRP: Детский
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:0,Карусель + 2
+#EXTGRP: Детский
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+#EXTINF:0,Супер Герои
+#EXTGRP: Детский
+http://109.94.1.3:8080/132/index.m3u8
+#EXTINF:0,Уникум
+#EXTGRP: Детский
+http://46.8.46.14/detskiy/index.m3u8
+#EXTINF:0,Мульт
+#EXTGRP: Детский
+http://tmptv.sunduk.tv/CH319/index.m3u8
+#EXTINF:0,Мама
+#EXTGRP: Детский
+http://tmptv.sunduk.tv/CH155/index.m3u8
+#EXTINF:0,Мультиландия
+#EXTGRP: Детский
+http://tmptv.sunduk.tv/CH197/index.m3u8
+#EXTINF:0,МУЛЬТИМАНИЯ
+#EXTGRP: Детский
+https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
+#EXTINF:0,Детский телеканал Мультимания
+#EXTGRP: Детский
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:0,Рыжий
+#EXTGRP: Детский
+https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8
+#EXTINF:0,СТС Kids
+#EXTGRP: Детский
+http://tmptv.sunduk.tv/CH729/index.m3u8
+#EXTINF:0,Мама
+#EXTGRP: Детский
+http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
+#EXTINF:0,Пингвин Лоло
+#EXTGRP: Детский
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:0, Мамонтёнок
+#EXTGRP: Детский
+http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+#EXTINF:0, Tiji
+#EXTGRP: Детский
+http://tmptv.sunduk.tv/CH349/index.m3u8
+
+=============
+#EXTINF:0,Музыка 1 International
+#EXTGRP: Музыка
+http://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:0,Музыка 2 International
+#EXTGRP: Музыка
+http://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:0,Музыка Кино International
+#EXTGRP: Музыка
+http://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:0,Dancehits 80
+#EXTGRP: Музыка
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:0,Now 80's
+#EXTGRP: Музыка
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,Now 90's
+#EXTGRP: Музыка
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,Stingray Remember the 80s
+#EXTGRP: Музыка
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0,Ретро Волна
+#EXTGRP: Музыка
+http://srvru.play-x.ru/channel/687d8713/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+========
+
+#EXTINF:0,Gameplay
+#EXTGRP: игры
+https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
+#EXTINF:0,Gameplay трейлеры  
+#EXTGRP: игры
+https://fl1001.bozztv.com/ushba44/index.m3u8
+#EXTINF:0,E TV
+#EXTGRP: игры
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+
+
+=============================
+
+
+#EXTINF:0,Залипательные ролики
+#EXTGRP: кино
+https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
+#EXTINF:0,Камин
+#EXTGRP: 999
+http://185.57.68.33:8091/232/index.m3u8
+#EXTINF:0,Аквариум 
+#EXTGRP: 999
+http://iptv.prosto.tv:7000/ch325/video.m3u8
+
+#EXTINF:0,MM эксперимент
+http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vMzEuMjIyLjIwNS42Njo4MDgwLzg2NDMvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjNmMmZkZmY4IiwicCI6IjNmMmZkZmY4M2Y3Y2FiMDIiLCJjIjoiMTY1NyIsInQiOiJiNjE1NjNhYWRjMTNlNzgzNjViOTBhYTE0M2QwNjZmNSIsImQiOiI0MTcxNDkiLCJyIjoiNDI5MTA4IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg2NDMvaW5kZXgubTN1OD90b2tlbj1bc3R/index.m3u8
+#EXTINF:0,MM ОТКРЫТИЯ
+http://50.7.28.226/8647/index.m3u8
