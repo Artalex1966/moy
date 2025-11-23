@@ -69,6 +69,10 @@ http://8afc1lij.tvclub.xyz/iptv/LWH2RT66YUV2WM/13019/index.m3u8
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/13019/index.m3u8
+#EXTINF:0,MM USSR Комедия HD
+#EXTGRP: кино
+http://cdn.admuspeh.my/8744/video.m3u8?token=eK3vQwAcWMbnFKk3
+
 
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
@@ -76,6 +80,9 @@ http://70a055e6.edemist.com/iptv/8855G6D98KGPCC/13096/index.m3u8
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/13096/index.m3u8
+#EXTINF:0,MM USSR Детектив HD
+#EXTGRP: кино
+http://cdn.admuspeh.my/8656/video.m3u8?token=eK3vQwAcWMbnFKk3
 
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
@@ -83,26 +90,39 @@ http://b9e2c89c.akadatel.com/iptv/Q5TCTHPQ6CWLME/13022/index.m3u8
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
 http://jexywacp.tvclub.xyz/iptv/G84QCMHA8E2EHL/13022/index.m3u8
+#EXTINF:0,MM USSR Драма HD
+#EXTGRP: кино
+http://cdn.admuspeh.my/8894/video.m3u8?token=eK3vQwAcWMbnFKk3
+
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
 http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/13018/index.m3u8
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
 http://8afc1lij.tvclub.xyz/iptv/LWH2RT66YUV2WM/13018/index.m3u8
+#EXTINF:0,MM USSR 1941-1945 HD
+#EXTGRP: кино
+http://cdn.admuspeh.my/8614/video.m3u8?token=eK3vQwAcWMbnFKk3
+
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/13060/index.m3u8
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
 http://cf1113a0.cbilant.com/iptv/EYU9F97AW2BASB/13060/index.m3u8
+#EXTINF:0,MM USSR Приключения HD
+#EXTGRP: кино
+http://cdn.admuspeh.my/8615/video.m3u8?token=eK3vQwAcWMbnFKk3
+
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://4a15fde1.ucomist.net/iptv/Q3DW57VGFFQMKZ/13021/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/13021/index.m3u8
-
-
+#EXTINF:0,MM USSR Сказки HD
+#EXTGRP: кино
+http://cdn.admuspeh.my/8616/video.m3u8?token=eK3vQwAcWMbnFKk3
 
 
 #EXTINF:0,IPTVPLAY ПАМЯТЬ
@@ -157,6 +177,10 @@ http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBlGBcCbxwp57FbjK5i4I6s4/m3u8
 #EXTINF:0,Fresh Soviet
 #EXTGRP: кино
 http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBuAKlsLeXCxDWTNlp9iZNUw/m3u8
+#EXTINF:0, CineMan СССР HD
+#EXTGRP: кино
+http://cdn.admuspeh.my/9121/video.m3u8?token=eK3vQwAcWMbnFKk3
+
 
 #EXTINF:0,Любимое HD
 #EXTGRP: кино
@@ -182,22 +206,22 @@ http://91.194.191.241:8081/chid73/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,MM Киберпанк
 #EXTGRP: кино
-http://50.7.28.226/8545/index.m3u8
+http://cdn.admuspeh.my/8545/video.m3u8?token=eK3vQwAcWMbnFKk3
 #EXTINF:0,MM UFO
 #EXTGRP: кино
-http://50.7.28.226/8410/index.m3u8
+http://cdn.admuspeh.my/8410/video.m3u8?token=eK3vQwAcWMbnFKk3
 #EXTINF:0,BCU Catastrophe HD
 #EXTGRP: кино
 http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBlj2uQQKUY_HPMn4TGp9iks/m3u8
 #EXTINF:0,MM Катастрофа
 #EXTGRP: кино
-http://50.7.28.226/8746/index.m3u8
+http://cdn.admuspeh.my/8746/video.m3u8?token=eK3vQwAcWMbnFKk3
 #EXTINF:0,Fresh Thriller
 #EXTGRP: кино
 http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBkGs10fm0u_VXNGUtII6faw/m3u8
 #EXTINF:0,MM 007
 #EXTGRP: кино
-http://50.7.28.226/8327/index.m3u8
+http://cdn.admuspeh.my/8327/video.m3u8?token=eK3vQwAcWMbnFKk3
 
 
 
@@ -206,14 +230,15 @@ http://50.7.28.226/8327/index.m3u8
 
 
 
-
-
+#EXTINF:0, VHS-ка HD
+#EXTGRP: кино
+http://cdn.admuspeh.my/8962/video.m3u8?token=eK3vQwAcWMbnFKk3
 #EXTINF:0,Fresh VHS
 #EXTGRP: кино
 http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBhes1ItGLzmYVtnauBGnqjA/m3u8
 #EXTINF:0,CineMan VHS
 #EXTGRP: кино
-http://50.7.28.226/8807/index.m3u8
+http://cdn.admuspeh.my/8807/video.m3u8?token=eK3vQwAcWMbnFKk3
 #EXTINF:0,BCU VHS HD
 #EXTGRP: кино
 http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBq_YWX0pqB4SlnGA7vwHyq8/m3u8
@@ -257,6 +282,10 @@ http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/13037/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/13037/index.m3u8
+
+#EXTINF:0,MM Комедия Classic HD
+#EXTGRP: кино
+http://cdn.admuspeh.my/8789/video.m3u8?token=eK3vQwAcWMbnFKk3
 
 #EXTINF:0,BCU Comedy HD
 #EXTGRP: кино
