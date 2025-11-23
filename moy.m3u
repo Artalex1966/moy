@@ -222,9 +222,21 @@ http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBkGs10fm0u_VXNGUtII6faw/m3u8
 #EXTINF:0,MM 007
 #EXTGRP: кино
 http://cdn.admuspeh.my/8327/video.m3u8?token=KN728cDixsiGm4nv
-
-
-
+#EXTINF:0,MM Newfilm 1
+#EXTGRP: кино
+http://cdn.admuspeh.my/8741/video.m3u8?token=eK3vQwAcWMbnFKk3
+#EXTINF:0,MM Newfilm 2
+#EXTGRP: кино
+http://cdn.admuspeh.my/8742/video.m3u8?token=eK3vQwAcWMbnFKk3
+#EXTINF:0,MM Newfilm 3
+#EXTGRP: кино
+http://cdn.admuspeh.my/8743/video.m3u8?token=eK3vQwAcWMbnFKk3
+#EXTINF:0,MM Триллер HD
+#EXTGRP: кино
+http://cdn.admuspeh.my/8778/video.m3u8?token=eK3vQwAcWMbnFKk3
+#EXTINF:0,MiniMax Семейный 1 HD
+#EXTGRP: кино
+http://cdn.admuspeh.my/8442/video.m3u8?token=eK3vQwAcWMbnFKk3
 ++++++++
 
 
@@ -282,7 +294,6 @@ http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/13037/index.m3u8
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/13037/index.m3u8
-
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://cdn.admuspeh.my/8789/video.m3u8?token=KN728cDixsiGm4nv
@@ -369,6 +380,9 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/13024/index.m3u8
 #EXTINF:0,MM Агата Кристи HD
 #EXTGRP: кино
 http://e91ax34m.ottclub.xyz/iptv/LNE7CK973BXBGD/13024/index.m3u8
+#EXTINF:0,MM Агата Кристи HD
+#EXTGRP: кино
+http://cdn.admuspeh.my/8618/video.m3u8?token=eK3vQwAcWMbnFKk3
 
 
 #EXTINF:0,Кинорейс
