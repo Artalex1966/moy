@@ -211,27 +211,30 @@ http://194.26.203.25:80/8410/video.m3u8?token=KN728cDixsiGm4nv
 #EXTINF:0,MM Катастрофа
 #EXTGRP: кино
 http://194.26.203.25:80/8746/video.m3u8?token=KN728cDixsiGm4nv
-#EXTINF:0,Fresh Thriller
+#EXTINF:0,CineMan Катастрофы FHD
 #EXTGRP: кино
-http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBkGs10fm0u_VXNGUtII6faw/m3u8
+http://194.26.203.25:80/8957/video.m3u8?token=KN728cDixsiGm4nv
+#EXTINF:0,CineMan TOP FHD
+#EXTGRP: кино
+http://194.26.203.25:80/8959/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:0,MM 007
 #EXTGRP: кино
 http://194.26.203.25:80/8327/video.m3u8?token=KN728cDixsiGm4nv
-#EXTINF:0,MM Newfilm 1
+#EXTINF:0,MM Боевик Classic HD
 #EXTGRP: кино
-http://194.26.203.25:80/8741/video.m3u8?token=eK3vQwAcWMbnFKk3
-#EXTINF:0,MM Newfilm 2
+http://194.26.203.25:80/8411/video.m3u8?token=eK3vQwAcWMbnFKk3
+#EXTINF:0,MM World Hits HD
 #EXTGRP: кино
-http://194.26.203.25:80/8742/video.m3u8?token=eK3vQwAcWMbnFKk3
-#EXTINF:0,MM Newfilm 3
+http://194.26.203.25:80/8617/video.m3u8?token=eK3vQwAcWMbnFKk3
+#EXTINF:0,MM Боевик
 #EXTGRP: кино
-http://194.26.203.25:80/8743/video.m3u8?token=eK3vQwAcWMbnFKk3
+http://194.26.203.25:80/8745/video.m3u8?token=eK3vQwAcWMbnFKk3
 #EXTINF:0,MM Триллер HD
 #EXTGRP: кино
 http://194.26.203.25:80/8778/video.m3u8?token=eK3vQwAcWMbnFKk3
-#EXTINF:0,MiniMax Семейный 1 HD
+#EXTINF:0,CineMan Триллер FHD
 #EXTGRP: кино
-http://194.26.203.25:80/8442/video.m3u8?token=eK3vQwAcWMbnFKk3
+http://194.26.203.25:80/8954/video.m3u8?token=eK3vQwAcWMbnFKk3
 
 ------
 
@@ -239,9 +242,6 @@ http://194.26.203.25:80/8442/video.m3u8?token=eK3vQwAcWMbnFKk3
 #EXTINF:0,CyberTV
 #EXTGRP: кино
 https://live20.bozztv.com/akamaissh101/ssh101/cybertv/chunks.m3u8
-#EXTINF:0,CyberTV 1
-#EXTGRP: кино
-
 #EXTINF:0,CyberTV 2
 #EXTGRP: кино
 https://live20.bozztv.com/akamaissh101/ssh101/cybertv2/chunks.m3u8
