@@ -64,27 +64,52 @@ https://v2.catcast.tv/content/38720/index.m3u8
 https://autopilot.catcast.tv/content/40427/index.m3u8
 
 
-#EXTINF:0,MM USSR Комедия HD
+#EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8744/video.m3u8?token=KN728cDixsiGm4nv
-
+http://70a055e6.edemist.com/iptv/8855G6D98KGPCC/13096/index.m3u8
+#EXTINF:0,MM USSR Детектив HD
+#EXTGRP: кино
+http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/13096/index.m3u8
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
 http://cdn.admuspeh.my/8656/video.m3u8?token=KN728cDixsiGm4nv
 
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
+http://b9e2c89c.akadatel.com/iptv/Q5TCTHPQ6CWLME/13022/index.m3u8
+#EXTINF:0,MM USSR Драма HD
+#EXTGRP: кино
+http://jexywacp.tvclub.xyz/iptv/G84QCMHA8E2EHL/13022/index.m3u8
+#EXTINF:0,MM USSR Драма HD
+#EXTGRP: кино
 http://cdn.admuspeh.my/8894/video.m3u8?token=KN728cDixsiGm4nv
 
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
+http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/13018/index.m3u8
+#EXTINF:0,MM USSR 1941-1945 HD
+#EXTGRP: кино
+http://8afc1lij.tvclub.xyz/iptv/LWH2RT66YUV2WM/13018/index.m3u8
+#EXTINF:0,MM USSR 1941-1945 HD
+#EXTGRP: кино
 http://cdn.admuspeh.my/8614/video.m3u8?token=KN728cDixsiGm4nv
 
-
+#EXTINF:0,MM USSR Приключения HD
+#EXTGRP: кино
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/13060/index.m3u8
+#EXTINF:0,MM USSR Приключения HD
+#EXTGRP: кино
+http://cf1113a0.cbilant.com/iptv/EYU9F97AW2BASB/13060/index.m3u8
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
 http://cdn.admuspeh.my/8615/video.m3u8?token=KN728cDixsiGm4nv
 
+#EXTINF:0,MM USSR Сказки HD
+#EXTGRP: кино
+http://4a15fde1.ucomist.net/iptv/Q3DW57VGFFQMKZ/13021/index.m3u8
+#EXTINF:0,MM USSR Сказки HD
+#EXTGRP: кино
+http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/13021/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://cdn.admuspeh.my/8616/video.m3u8?token=KN728cDixsiGm4nv
@@ -197,6 +222,24 @@ http://cdn.admuspeh.my/8778/video.m3u8?token=eK3vQwAcWMbnFKk3
 #EXTINF:0,MiniMax Семейный 1 HD
 #EXTGRP: кино
 http://cdn.admuspeh.my/8442/video.m3u8?token=eK3vQwAcWMbnFKk3
+
+------
+
+
+#EXTINF:0,CyberTV
+#EXTGRP: кино
+https://live20.bozztv.com/akamaissh101/ssh101/cybertv/chunks.m3u8
+#EXTINF:0,CyberTV 1
+#EXTGRP: кино
+
+#EXTINF:0,CyberTV 2
+#EXTGRP: кино
+https://live20.bozztv.com/akamaissh101/ssh101/cybertv2/chunks.m3u8
+#EXTINF:0,CyberTV 3
+#EXTGRP: кино
+https://live20.bozztv.com/akamaissh101/ssh101/cybertvrus/chunks.m3u8
+
+
 ++++++++
 
 
@@ -210,6 +253,9 @@ http://cdn.admuspeh.my/8962/video.m3u8?token=KN728cDixsiGm4nv
 #EXTINF:0,CineMan VHS
 #EXTGRP: кино
 http://cdn.admuspeh.my/8807/video.m3u8?token=KN728cDixsiGm4nv
+#EXTINF:0,Видеокассета VHS
+#EXTGRP: кино
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА
 #EXTGRP: кино
@@ -324,7 +370,9 @@ http://cdn.admuspeh.my/8618/video.m3u8?token=eK3vQwAcWMbnFKk3
 #EXTINF:0,Кинорейс
 #EXTGRP: кино
 https://stream.ushba.tv/akamaiushba/ushba32/tracks-v1a1/mono.m3u8
-
+#EXTINF:0,KinoMix Юрич
+#EXTGRP: кино
+http://195.9.195.3:8080/hls/216612.m3u8
 
 #EXTINF:0,Trash TV
 #EXTGRP: кино
