@@ -494,18 +494,18 @@ http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
 #EXTGRP: кино
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nash_kinopokaz_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
 
-#EXTINF:0,Залипательные ролики
+#EXTINF:0,Балабол
 #EXTGRP: кино
-https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
-#EXTINF:0,Залипательные ролики 2
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:0,Невский
 #EXTGRP: кино
-https://30a-tv.com/feeds/720p/63.m3u8
-#EXTINF:0,Приколы
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:0,Пять минут тишины
 #EXTGRP: кино
-https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
-#EXTINF:0,Универ Молодые
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:0,Скорая помощь
 #EXTGRP: кино
-http://srvru.play-x.ru/channel/468aeb01/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 
 
 #EXTINF:0,VF Друзья
