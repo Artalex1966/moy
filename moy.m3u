@@ -143,11 +143,13 @@ https://stream-msk-17.ott.tricolor.tv/dtv/id944_MSKSG-PVR-1--KinoMult_SD/03/plst
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,Советское
+#EXTINF:0,Советские мультфильмы
 #EXTGRP: кино
-http://50.7.28.226/8795/index.m3u8
+https://vsd284.okcdn.ru/hls/4087089138284.m3u8/sig/fBEVfcVi9Kc/expires/1764305964017/srcIp/46.138.146.223/urls/185.226.55.118/clientType/0/srcAg/CHROME_YA/mid/5385000066668/video.m3u8?p
 
-
+#EXTINF:0,Смотрим 100% Классика
+#EXTGRP: кино
+https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
 
 #EXTINF:0,СОВЕТСКИЕ ФИЛЬМЫ
 #EXTGRP: кино
