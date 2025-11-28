@@ -176,7 +176,7 @@ http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlN
 
 #EXTINF:0,CineMan СССР HD
 #EXTGRP: кино
-http://194.26.203.25:80/9121/video.m3u8?token=KN728cDixsiGm4nv
+http://ott.server-iptv.live/655/video.m3u8?token=Ceba8e4412
 #EXTINF:0,CineMan CCCP 4K
 #EXTGRP: кино
 http://194.26.203.25:80/8795/video.m3u8?token=eK3vQwAcWMbnFKk3
@@ -215,10 +215,10 @@ http://194.26.203.25:80/8410/video.m3u8?token=KN728cDixsiGm4nv
 http://194.26.203.25:80/8746/video.m3u8?token=KN728cDixsiGm4nv
 #EXTINF:0,CineMan Катастрофы FHD
 #EXTGRP: кино
-http://194.26.203.25:80/8957/video.m3u8?token=KN728cDixsiGm4nv
+http://ott.server-iptv.live/693/video.m3u8?token=Ceba8e4412
 #EXTINF:0,CineMan TOP FHD
 #EXTGRP: кино
-http://194.26.203.25:80/8959/video.m3u8?token=w8AT5yczJA2WKHY3
+http://ott.server-iptv.live/683/video.m3u8?token=Ceba8e4412
 #EXTINF:0,MM 007
 #EXTGRP: кино
 http://194.26.203.25:80/8327/video.m3u8?token=KN728cDixsiGm4nv
@@ -233,7 +233,7 @@ http://194.26.203.25:80/8779/video.m3u8?token=eK3vQwAcWMbnFKk3
 http://194.26.203.25:80/8745/video.m3u8?token=eK3vQwAcWMbnFKk3
 #EXTINF:0,MM Триллер HD
 #EXTGRP: кино
-http://194.26.203.25:80/8778/video.m3u8?token=eK3vQwAcWMbnFKk3
+http://ott.server-iptv.live/686/video.m3u8?token=Ceba8e4412
 #EXTINF:0,CineMan Триллер FHD
 #EXTGRP: кино
 http://194.26.203.25:80/8954/video.m3u8?token=eK3vQwAcWMbnFKk3
@@ -266,7 +266,7 @@ http://194.26.203.25:80/8962/video.m3u8?token=KN728cDixsiGm4nv
 
 #EXTINF:0,CineMan VHS
 #EXTGRP: кино
-http://194.26.203.25:80/8807/video.m3u8?token=KN728cDixsiGm4nv
+http://ott.server-iptv.live/685/video.m3u8?token=Ceba8e4412
 #EXTINF:0,Видеокассета VHS
 #EXTGRP: кино
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
