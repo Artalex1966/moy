@@ -143,9 +143,9 @@ https://stream-msk-17.ott.tricolor.tv/dtv/id944_MSKSG-PVR-1--KinoMult_SD/03/plst
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,Советские мультфильмы
+#EXTINF:0,Советское кино
 #EXTGRP: кино
-https://vsd284.okcdn.ru/hls/4087089138284.m3u8/sig/fBEVfcVi9Kc/expires/1764305964017/srcIp/46.138.146.223/urls/185.226.55.118/clientType/0/srcAg/CHROME_YA/mid/5385000066668/video.m3u8?p
+https://mhd128.iptv2022.com/p/SQxtgJs-or_CPURINu4QgA,1764709208/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:0,Смотрим 100% Классика
 #EXTGRP: кино
@@ -296,10 +296,6 @@ http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?
 #EXTGRP: кино
 http://194.26.203.25:80/8789/video.m3u8?token=KN728cDixsiGm4nv
 
-#EXTINF:0,BCU Comedy HD
-#EXTGRP: кино
-http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBh2_fLByAmHbWlJVkSER7A0/m3u8
-
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDk3NDMwMywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0MzY5NTAzLCJzZXNzaW9uX2lkIjoiNjdlYWFlMTA1YzFiMjVhOGY5MWFjZjE4NDZhZTJlYzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ivn3911TGh7aiPjWq7YHTmAS_4olQa-PfOdsOpu82Rs
@@ -318,7 +314,7 @@ http://stream-msk-08.ott.tricolor.tv/dtv/id642_MSKSG-PVR-1--Kamedi_HD/03/plst.m3
 http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDk3NDMwMywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0MzY5NTAzLCJzZXNzaW9uX2lkIjoiNjdlYWFlMTA1YzFiMjVhOGY5MWFjZjE4NDZhZTJlYzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ivn3911TGh7aiPjWq7YHTmAS_4olQa-PfOdsOpu82Rs
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-http://46.8.46.14/vipcomedy/index.m3u8
+http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 
 
 #EXTINF:0,6 КАДРОВ
@@ -410,10 +406,6 @@ https://fl1003.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,Старое
-#EXTGRP: кино
-http://50.7.28.226/8967/index.m3u8
-
 #EXTINF:0,Suspense 
 #EXTGRP: кино
 http://188.225.31.197/bpk-tv/000008739/tve/index.m3u8
@@ -424,17 +416,17 @@ http://188.225.31.197/bpk-tv/000008739/tve/index.m3u8
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:0,Cinema
 #EXTGRP: кино
-http://46.8.46.14/cinema/index.m3u8
+https://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDk3NDMwMywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0MzY5NTAzLCJzZXNzaW9uX2lkIjoiNjdlYWFlMTA1YzFiMjVhOGY5MWFjZjE4NDZhZTJlYzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ivn3911TGh7aiPjWq7YHTmAS_4olQa-PfOdsOpu82Rs
 
 #EXTINF:0, viju TV1000
 #EXTGRP: кино
-http://46.8.46.14/tv1000/index.m3u8
+http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:0,viju TV1000 Action
 #EXTGRP: кино
-http://46.8.46.14/actiontv/index.m3u8
+http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
-http://46.8.46.14/vipmegahit/index.m3u8
+http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
 http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
@@ -447,16 +439,16 @@ http://91.194.191.241:8081/chid69/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
-http://139.28.255.188:8080/kinoprem/index.m3u8
+https://mhd128.iptv2022.com/p/QWvYNBN0tvMAthmyJ_yCiw,1764709207/streaming/film-premiere/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-http://46.8.46.14/kinohit/index.m3u8
+https://mhd128.iptv2022.com/p/MzqOnPnTb3e0fcNrdDo7Xw,1764709207/streaming/film-hit/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:0,Киномикс
 #EXTGRP: кино
 https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: кино
-http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
+https://mhd128.iptv2022.com/p/XIRbBEMLA5f9tJvE7y0M1A,1764709207/streaming/film-families/324/1/tracks-v5a1/mono.m3u8
 
 
 #EXTINF:0,ИНТЕРНЫ
