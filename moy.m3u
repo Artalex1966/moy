@@ -66,64 +66,27 @@ https://autopilot.catcast.tv/content/40427/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://8afc1lij.tvclub.xyz/iptv/LWH2RT66YUV2WM/13019/index.m3u8
-#EXTINF:0,MM USSR Комедия HD
-#EXTGRP: кино
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/13019/index.m3u8
-#EXTINF:0,MM USSR Комедия HD
-#EXTGRP: кино
-http://194.26.203.25:80/8744/video.m3u8?token=KN728cDixsiGm4nv
-
+http://50.7.28.226/8744/index.m3u8
 
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-http://70a055e6.edemist.com/iptv/8855G6D98KGPCC/13096/index.m3u8
-#EXTINF:0,MM USSR Детектив HD
-#EXTGRP: кино
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/13096/index.m3u8
-#EXTINF:0,MM USSR Детектив HD
-#EXTGRP: кино
-http://194.26.203.25:80/8656/video.m3u8?token=KN728cDixsiGm4nv
+http://50.7.28.226/8656/index.m3u8
 
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-http://b9e2c89c.akadatel.com/iptv/Q5TCTHPQ6CWLME/13022/index.m3u8
-#EXTINF:0,MM USSR Драма HD
-#EXTGRP: кино
-http://jexywacp.tvclub.xyz/iptv/G84QCMHA8E2EHL/13022/index.m3u8
-#EXTINF:0,MM USSR Драма HD
-#EXTGRP: кино
-http://194.26.203.25:80/8894/video.m3u8?token=KN728cDixsiGm4nv
+http://50.7.28.226/8894/index.m3u8
 
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/13018/index.m3u8
-#EXTINF:0,MM USSR 1941-1945 HD
-#EXTGRP: кино
-http://8afc1lij.tvclub.xyz/iptv/LWH2RT66YUV2WM/13018/index.m3u8
-#EXTINF:0,MM USSR 1941-1945 HD
-#EXTGRP: кино
-http://194.26.203.25:80/8614/video.m3u8?token=KN728cDixsiGm4nv
+http://50.7.28.226/8614/index.m3u8
 
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/13060/index.m3u8
-#EXTINF:0,MM USSR Приключения HD
-#EXTGRP: кино
-http://cf1113a0.cbilant.com/iptv/EYU9F97AW2BASB/13060/index.m3u8
-#EXTINF:0,MM USSR Приключения HD
-#EXTGRP: кино
-http://194.26.203.25:80/8615/video.m3u8?token=KN728cDixsiGm4nv
+http://50.7.28.226/8615/index.m3u8
 
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-http://4a15fde1.ucomist.net/iptv/Q3DW57VGFFQMKZ/13021/index.m3u8
-#EXTINF:0,MM USSR Сказки HD
-#EXTGRP: кино
-http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/13021/index.m3u8
-#EXTINF:0,MM USSR Сказки HD
-#EXTGRP: кино
-http://194.26.203.25:80/8616/video.m3u8?token=KN728cDixsiGm4nv
+http://50.7.28.226/8616/index.m3u8
 
 #EXTINF:0,IPTVPLAY ПАМЯТЬ
 #EXTGRP: кино
@@ -177,9 +140,16 @@ http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlN
 #EXTINF:0,CineMan СССР HD
 #EXTGRP: кино
 http://ott.server-iptv.live/655/video.m3u8?token=Ceba8e4412
-#EXTINF:0,CineMan CCCP 4K
+#EXTINF:0,BCU CCCP
 #EXTGRP: кино
-http://194.26.203.25:80/8795/video.m3u8?token=eK3vQwAcWMbnFKk3
+http://50.7.28.226/8875/index.m3u8
+
+#EXTINF:0,BOX CCCP 4K
+#EXTGRP: кино
+http://50.7.28.226/8445/index.m3u8
+#EXTINF:0,Экран СССР ТВ
+#EXTGRP: кино
+https://vsd183.okcdn.ru/hls/7904690309811.m3u8/sig/-GxbbyQNGDQ/expires/1764736458753/srcIp/128.71.217.144/urls/185.226.52.64/clientType/0/srcAg/CHROME_YA/mid/9273686236851/video.m3u8?p
 
 #EXTINF:0,Любимое HD
 #EXTGRP: кино
@@ -205,10 +175,10 @@ http://tmptv.sunduk.tv/CH521/index.m3u8
 
 #EXTINF:0,MM Киберпанк
 #EXTGRP: кино
-http://194.26.203.25:80/8545/video.m3u8?token=KN728cDixsiGm4nv
+http://50.7.28.226/8545/index.m3u8
 #EXTINF:0,MM UFO
 #EXTGRP: кино
-http://194.26.203.25:80/8410/video.m3u8?token=KN728cDixsiGm4nv
+http://50.7.28.226/8410/index.m3u8
 
 #EXTINF:0,MM Катастрофа
 #EXTGRP: кино
@@ -216,30 +186,39 @@ http://194.26.203.25:80/8746/video.m3u8?token=KN728cDixsiGm4nv
 #EXTINF:0,CineMan Катастрофы FHD
 #EXTGRP: кино
 http://ott.server-iptv.live/693/video.m3u8?token=Ceba8e4412
+#EXTINF:0,BCU катастрофа
+#EXTGRP: кино
+http://50.7.28.226/8877/index.m3u8
 #EXTINF:0,CineMan TOP FHD
 #EXTGRP: кино
 http://ott.server-iptv.live/683/video.m3u8?token=Ceba8e4412
 #EXTINF:0,MM 007
 #EXTGRP: кино
-http://194.26.203.25:80/8327/video.m3u8?token=KN728cDixsiGm4nv
+http://50.7.28.226/8327/index.m3u8
+#EXTINF:0,BOX SPY
+#EXTGRP: кино
+http://50.7.28.226/8354/index.m3u8
 #EXTINF:0,MM Боевик Classic HD
 #EXTGRP: кино
-http://194.26.203.25:80/8411/video.m3u8?token=eK3vQwAcWMbnFKk3
+http://50.7.28.226/8411/index.m3u8
 #EXTINF:0,MM Приключения HD
 #EXTGRP: кино
 http://194.26.203.25:80/8779/video.m3u8?token=eK3vQwAcWMbnFKk3
 #EXTINF:0,MM Боевик
 #EXTGRP: кино
-http://194.26.203.25:80/8745/video.m3u8?token=eK3vQwAcWMbnFKk3
+http://50.7.28.226/8745/index.m3u8
 #EXTINF:0,MM Триллер HD
 #EXTGRP: кино
-http://ott.server-iptv.live/686/video.m3u8?token=Ceba8e4412
+http://50.7.28.226/8778/index.m3u8
 #EXTINF:0,CineMan Триллер FHD
 #EXTGRP: кино
 http://194.26.203.25:80/8954/video.m3u8?token=eK3vQwAcWMbnFKk3
-#EXTINF:0,MM Фантастика HD
+#EXTINF:0,MM Фантастика
 #EXTGRP: кино
-http://194.26.203.25:80/8631/video.m3u8?token=eK3vQwAcWMbnFKk3
+http://50.7.28.226/8631/index.m3u8
+#EXTINF:0,BCU Fantastic HD
+#EXTGRP: кино
+http://50.7.28.226/8879/index.m3u8
 ------
 
 
@@ -262,7 +241,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/cybertvrus/chunks.m3u8
 http://95.66.188.74/VHS/index.m3u8
 #EXTINF:0, VHS-ка HD
 #EXTGRP: кино
-http://194.26.203.25:80/8962/video.m3u8?token=KN728cDixsiGm4nv
+http://50.7.28.226/8962/index.m3u8
 
 #EXTINF:0,CineMan VHS
 #EXTGRP: кино
@@ -270,6 +249,9 @@ http://ott.server-iptv.live/685/video.m3u8?token=Ceba8e4412
 #EXTINF:0,Видеокассета VHS
 #EXTGRP: кино
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
+#EXTINF:0,CineMan VHS
+#EXTGRP: кино
+http://50.7.28.226/8807/index.m3u8
 
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА
 #EXTGRP: кино
@@ -282,6 +264,9 @@ http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:0,2FILMAX
 #EXTGRP: кино
 http://195.9.195.3:8080/hls/204717.m3u8
+#EXTINF:0,3FILMAX
+#EXTGRP: кино
+https://vsd212.okcdn.ru/hls/4152310696645.m3u8/sig/ZX3QHkc_ckc/expires/1764736333169/srcIp/128.71.217.144/urls/45.136.22.40/clientType/0/srcAg/CHROME_YA/mid/4891374853829/video.m3u8?p
 
 
 #EXTINF:0,FAN HD
@@ -294,7 +279,7 @@ http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
-http://194.26.203.25:80/8789/video.m3u8?token=KN728cDixsiGm4nv
+http://50.7.28.226/8789/index.m3u8
 
 #EXTINF:0,Комедия
 #EXTGRP: кино
@@ -320,12 +305,10 @@ http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 #EXTINF:0,6 КАДРОВ
 #EXTGRP: кино
 https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDk3NDMwMywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0MzY5NTAzLCJzZXNzaW9uX2lkIjoiNjdlYWFlMTA1YzFiMjVhOGY5MWFjZjE4NDZhZTJlYzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ivn3911TGh7aiPjWq7YHTmAS_4olQa-PfOdsOpu82Rs
-#EXTINF:0,CineMan Сваты FHD
-#EXTGRP: кино
-http://194.26.203.25:80/8825/video.m3u8?token=eK3vQwAcWMbnFKk3
+
 #EXTINF:0,MiniMax Сваты HD
 #EXTGRP: кино
-http://194.26.203.25:80/8893/video.m3u8?token=eK3vQwAcWMbnFKk3
+http://50.7.28.226/8893/index.m3u8
 
 #EXTINF:0,Кинопоказ HD
 #EXTGRP: кино
@@ -374,7 +357,7 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/p
 
 #EXTINF:0,MM Агата Кристи HD
 #EXTGRP: кино
-http://194.26.203.25:80/8618/video.m3u8?token=eK3vQwAcWMbnFKk3
+http://50.7.28.226/8618/index.m3u8
 
 
 #EXTINF:0,Кинорейс
