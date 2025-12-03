@@ -147,9 +147,6 @@ http://50.7.28.226/8875/index.m3u8
 #EXTINF:0,BOX CCCP 4K
 #EXTGRP: кино
 http://50.7.28.226/8445/index.m3u8
-#EXTINF:0,Экран СССР ТВ
-#EXTGRP: кино
-https://vsd183.okcdn.ru/hls/7904690309811.m3u8/sig/-GxbbyQNGDQ/expires/1764736458753/srcIp/128.71.217.144/urls/185.226.52.64/clientType/0/srcAg/CHROME_YA/mid/9273686236851/video.m3u8?p
 
 #EXTINF:0,Любимое HD
 #EXTGRP: кино
@@ -182,7 +179,7 @@ http://50.7.28.226/8410/index.m3u8
 
 #EXTINF:0,MM Катастрофа
 #EXTGRP: кино
-http://194.26.203.25:80/8746/video.m3u8?token=KN728cDixsiGm4nv
+http://50.7.28.226/8746/index.m3u8
 #EXTINF:0,CineMan Катастрофы FHD
 #EXTGRP: кино
 http://ott.server-iptv.live/693/video.m3u8?token=Ceba8e4412
@@ -203,16 +200,16 @@ http://50.7.28.226/8354/index.m3u8
 http://50.7.28.226/8411/index.m3u8
 #EXTINF:0,MM Приключения HD
 #EXTGRP: кино
-http://194.26.203.25:80/8779/video.m3u8?token=eK3vQwAcWMbnFKk3
+http://50.7.28.226/8779/index.m3u8
 #EXTINF:0,MM Боевик
 #EXTGRP: кино
 http://50.7.28.226/8745/index.m3u8
 #EXTINF:0,MM Триллер HD
 #EXTGRP: кино
 http://50.7.28.226/8778/index.m3u8
-#EXTINF:0,CineMan Триллер FHD
+#EXTINF:0,BOX Cosmo
 #EXTGRP: кино
-http://194.26.203.25:80/8954/video.m3u8?token=eK3vQwAcWMbnFKk3
+http://50.7.28.226/8448/index.m3u8
 #EXTINF:0,MM Фантастика
 #EXTGRP: кино
 http://50.7.28.226/8631/index.m3u8
@@ -252,6 +249,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:0,CineMan VHS
 #EXTGRP: кино
 http://50.7.28.226/8807/index.m3u8
+#EXTINF:0,BOX Ultrastars
+#EXTGRP: кино
+http://50.7.28.226/8444/index.m3u8
 
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА
 #EXTGRP: кино
