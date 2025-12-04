@@ -132,7 +132,7 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclass
 #EXTINF:0,Clarity4K КиноСССР
 #EXTGRP: кино
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1quZNA3AFXeDvmSKLERi6w1D&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:0,CineMan СССР HD
+#EXTINF:0,CineMan СССР
 #EXTGRP: кино
 http://ott.server-iptv.live/655/video.m3u8?token=Ceba8e4412
 #EXTINF:0,CineMan CCCP 4K
@@ -141,7 +141,6 @@ http://cdn.admuspeh.my/8795/video.m3u8?token=eK3vQwAcWMbnFKk3
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://50.7.28.226/8875/index.m3u8
-
 #EXTINF:0,BOX CCCP 4K
 #EXTGRP: кино
 http://50.7.28.226/8445/index.m3u8
@@ -204,7 +203,7 @@ http://50.7.28.226/8745/index.m3u8
 #EXTINF:0,MM Триллер HD
 #EXTGRP: кино
 http://50.7.28.226/8778/index.m3u8
-#EXTINF:0,BOX Cosmo
+#EXTINF:0,BOX Kosmo
 #EXTGRP: кино
 http://50.7.28.226/8448/index.m3u8
 #EXTINF:0,MM Фантастика HD
@@ -246,7 +245,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:0,CineMan VHS
 #EXTGRP: кино
 http://50.7.28.226/8807/index.m3u8
-#EXTINF:0,BOX Ultrastars
+#EXTINF:0,BOX Ultrastars 4K
 #EXTGRP: кино
 http://50.7.28.226/8444/index.m3u8
 
@@ -265,23 +264,12 @@ http://195.9.195.3:8080/hls/204717.m3u8
 #EXTGRP: кино
 https://vsd212.okcdn.ru/hls/4152310696645.m3u8/sig/ZX3QHkc_ckc/expires/1764736333169/srcIp/128.71.217.144/urls/45.136.22.40/clientType/0/srcAg/CHROME_YA/mid/4891374853829/video.m3u8?p
 
-
-#EXTINF:0,FAN HD
-#EXTGRP: кино
-http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDk3NDMwMywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0MzY5NTAzLCJzZXNzaW9uX2lkIjoiNjdlYWFlMTA1YzFiMjVhOGY5MWFjZjE4NDZhZTJlYzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ivn3911TGh7aiPjWq7YHTmAS_4olQa-PfOdsOpu82Rs
-
-
-
-
-
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://50.7.28.226/8789/index.m3u8
-
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDk3NDMwMywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0MzY5NTAzLCJzZXNzaW9uX2lkIjoiNjdlYWFlMTA1YzFiMjVhOGY5MWFjZjE4NDZhZTJlYzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ivn3911TGh7aiPjWq7YHTmAS_4olQa-PfOdsOpu82Rs
-
 #EXTINF:0,КОМЕДИИ
 #EXTGRP: кино
 https://stream-msk-14.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDk3NDMwMywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0MzY5NTAzLCJzZXNzaW9uX2lkIjoiNjdlYWFlMTA1YzFiMjVhOGY5MWFjZjE4NDZhZTJlYzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ivn3911TGh7aiPjWq7YHTmAS_4olQa-PfOdsOpu82Rs
@@ -297,13 +285,10 @@ http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
 http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
-
-
 #EXTINF:0,6 КАДРОВ
 #EXTGRP: кино
 https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDk3NDMwMywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0MzY5NTAzLCJzZXNzaW9uX2lkIjoiNjdlYWFlMTA1YzFiMjVhOGY5MWFjZjE4NDZhZTJlYzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ivn3911TGh7aiPjWq7YHTmAS_4olQa-PfOdsOpu82Rs
-
-#EXTINF:0,MiniMax Сваты HD
+#EXTINF:0,MM Сваты HD
 #EXTGRP: кино
 http://50.7.28.226/8893/index.m3u8
 
@@ -316,18 +301,16 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Blokbaster_HD
 #EXTINF:0,БОЕВИКИ HD
 #EXTGRP: кино
 https://stream-msk-19.ott.tricolor.tv/dtv/id995_MSKSG-PVR-1--Kinopokaz_2/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDk3NDMwMywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0MzY5NTAzLCJzZXNzaW9uX2lkIjoiNjdlYWFlMTA1YzFiMjVhOGY5MWFjZjE4NDZhZTJlYzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ivn3911TGh7aiPjWq7YHTmAS_4olQa-PfOdsOpu82Rs
-#EXTINF:0,Мужское кино HD
-#EXTGRP: кино
-http://178.212.71.253:8000/play/126/index.m3u8
+
 #EXTINF:0,Остросюжетное HD
 #EXTGRP: кино
 https://stream-msk-10.ott.tricolor.tv/dtv/id277_MSKSG-PVR-1--Ostrosuzhetnoe/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDk3NDMwMywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0MzY5NTAzLCJzZXNzaW9uX2lkIjoiNjdlYWFlMTA1YzFiMjVhOGY5MWFjZjE4NDZhZTJlYzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ivn3911TGh7aiPjWq7YHTmAS_4olQa-PfOdsOpu82Rs
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
 http://tmptv.sunduk.tv/CH559/index.m3u8
-#EXTINF:0,Родное кино
+#EXTINF:0,FAN HD
 #EXTGRP: кино
-http://178.212.71.253:8000/play/136/index.m3u8
+http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDk3NDMwMywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0MzY5NTAzLCJzZXNzaW9uX2lkIjoiNjdlYWFlMTA1YzFiMjVhOGY5MWFjZjE4NDZhZTJlYzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ivn3911TGh7aiPjWq7YHTmAS_4olQa-PfOdsOpu82Rs
 
 
 #EXTINF:0,Русский детектив
@@ -361,7 +344,6 @@ https://stream.ushba.tv/akamaiushba/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:0,KinoMix Юрич
 #EXTGRP: кино
 http://195.9.195.3:8080/hls/216612.m3u8
-
 #EXTINF:0,Trash TV
 #EXTGRP: кино
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
@@ -383,7 +365,6 @@ https://fl1003.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
 #EXTINF:0,Film Zone
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-
 #EXTINF:0,Suspense 
 #EXTGRP: кино
 http://188.225.31.197/bpk-tv/000008739/tve/index.m3u8
@@ -415,6 +396,12 @@ http://50.7.28.226/8108/index.m3u8
 #EXTGRP: кино
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 
+#EXTINF:0,Мужское кино HD
+#EXTGRP: кино
+http://178.212.71.253:8000/play/126/index.m3u8
+#EXTINF:0,Родное кино
+#EXTGRP: кино
+http://178.212.71.253:8000/play/136/index.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
 http://195.191.208.11:8087/udp/238.9.64.183:1234
