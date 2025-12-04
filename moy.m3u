@@ -4,8 +4,11 @@
 
 
 #EXTINF:0, MiniMax NewFilm RU HD
-#EXTGRP: эфир
+#EXTGRP: Кино
 http://50.7.28.226/8706/index.m3u8
+#EXTINF:0,BCU Christmas
+#EXTGRP: Кино
+http://50.7.28.226/8886/index.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
