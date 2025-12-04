@@ -3,9 +3,9 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz, https://iptvx.one/EPG"
 
 
-#EXTINF:0,Известия Воронеж
+#EXTINF:0, MiniMax NewFilm RU HD
 #EXTGRP: эфир
-http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
+http://cdn.admuspeh.my/8706/video.m3u8?token=eK3vQwAcWMbnFKk3
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
