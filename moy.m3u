@@ -132,9 +132,6 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NTU3ODQ4NiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTczNjg2LCJzZXNzaW9uX2lkIjoiYWNkZDczYWJkN2U4N2ViZDZjMWUyYTQyOTU4YmRkMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.iVfm975Yg98PGxdSRdffs_PngTB_fXaemZM_p66oTDE
-#EXTINF:0,Clarity4K КиноСССР
-#EXTGRP: кино
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1quZNA3AFXeDvmSKLERi6w1D&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:0,CineMan СССР
 #EXTGRP: кино
 http://ott.server-iptv.live/655/video.m3u8?token=Ceba8e4412
@@ -144,9 +141,9 @@ http://cdn.admuspeh.my/8795/video.m3u8?token=eK3vQwAcWMbnFKk3
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://46.224.1.162:80/Shamilbro/ShamsTV/1530.m3u8
-#EXTINF:0,BOX CCCP 4K
+#EXTINF:0,CineMan CCCP FHD
 #EXTGRP: кино
-http://50.7.28.226/8445/index.m3u8
+http://ott.server-iptv.live/655/video.m3u8?token=Ceba8e4412
 
 #EXTINF:0,Любимое HD
 #EXTGRP: кино
@@ -235,9 +232,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/cybertvrus/chunks.m3u8
 #EXTINF:0, VHS-ка
 #EXTGRP: кино
 http://95.66.188.74/VHS/index.m3u8
-#EXTINF:0, VHS-ка HD
+#EXTINF:0,Magic VHS
 #EXTGRP: кино
-http://50.7.28.226/8962/index.m3u8
+http://46.224.1.162:80/Shamilbro/ShamsTV/1701.m3u8
 
 #EXTINF:0,CineMan VHS
 #EXTGRP: кино
@@ -263,9 +260,6 @@ http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:0,2FILMAX
 #EXTGRP: кино
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:0,3FILMAX
-#EXTGRP: кино
-https://vsd212.okcdn.ru/hls/4152310696645.m3u8/sig/ZX3QHkc_ckc/expires/1764736333169/srcIp/128.71.217.144/urls/45.136.22.40/clientType/0/srcAg/CHROME_YA/mid/4891374853829/video.m3u8?p
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
