@@ -139,6 +139,9 @@ http://46.224.1.162:80/Shamilbro/ShamsTV/1530.m3u8
 #EXTINF:0,CineMan CCCP FHD
 #EXTGRP: кино
 http://ott.server-iptv.live/655/video.m3u8?token=Ceba8e4412
+#EXTINF:0,TOP USSR
+#EXTGRP: кино
+http://46.224.1.162:80/Shamilbro/ShamsTV/1797.m3u8
 
 #EXTINF:0,Любимое HD
 #EXTGRP: кино
@@ -183,9 +186,9 @@ http://ott.server-iptv.live/683/video.m3u8?token=Ceba8e4412
 #EXTINF:0,MM 007
 #EXTGRP: кино
 http://cdn.admuspeh.my/8327/video.m3u8?token=ToweDwaDbykTurD5
-#EXTINF:0,BOX SPY
+#EXTINF:0,CineMan Premium
 #EXTGRP: кино
-http://cdn.admuspeh.my/8354/video.m3u8?token=ToweDwaDbykTurD5
+http://ott.server-iptv.live/1664/video.m3u8?token=Ceba8e4412
 #EXTINF:0,MM Боевик Classic HD
 #EXTGRP: кино
 http://cdn.admuspeh.my/8411/video.m3u8?token=ToweDwaDbykTurD5
@@ -203,7 +206,10 @@ http://ott.server-iptv.live/689/video.m3u8?token=Ceba8e4412
 http://cdn.admuspeh.my/8631/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8879/video.m3u8?token=ToweDwaDbykTurD5
+http://46.224.1.162:80/Shamilbro/ShamsTV/1517.m3u8
+#EXTINF:0,MM Скорость HD
+#EXTGRP: кино
+http://46.224.1.162:80/Shamilbro/ShamsTV/636.m3u8
 ------
 
 
@@ -237,9 +243,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:0,CineMan VHS
 #EXTGRP: кино
 http://cdn.admuspeh.my/8807/video.m3u8?token=ToweDwaDbykTurD5
-#EXTINF:0,BOX Ultrastars 4K
+#EXTINF:0,BCU VHS HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8444/video.m3u8?token=ToweDwaDbykTurD5
+http://46.224.1.162:80/Shamilbro/ShamsTV/1515.m3u8
 
 
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА
@@ -281,6 +287,9 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/p
 #EXTINF:0,MM Сваты HD
 #EXTGRP: кино
 http://cdn.admuspeh.my/8893/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:0,CineMan Сваты
+#EXTGRP: кино
+http://ott.server-iptv.live/684/video.m3u8?token=Ceba8e4412
 
 #EXTINF:0,Кинопоказ HD
 #EXTGRP: кино
