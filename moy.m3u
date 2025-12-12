@@ -8,7 +8,7 @@
 http://ott.server-iptv.live/687/video.m3u8?token=Ceba8e4412
 #EXTINF:0,BCU Christmas
 #EXTGRP: Кино
-http://50.7.28.226/8886/index.m3u8
+http://cdn.admuspeh.my/8886/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
@@ -69,28 +69,22 @@ https://autopilot.catcast.tv/content/40427/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8744/video.m3u8?token=KN728cDixsiGm4nv
-
+http://cdn.admuspeh.my/8744/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8656/video.m3u8?token=KN728cDixsiGm4nv
-
-
+http://cdn.admuspeh.my/8656/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8894/video.m3u8?token=KN728cDixsiGm4nv
-
+http://cdn.admuspeh.my/8894/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8614/video.m3u8?token=KN728cDixsiGm4nv
-
+http://cdn.admuspeh.my/8614/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8615/video.m3u8?token=KN728cDixsiGm4nv
-
+http://cdn.admuspeh.my/8615/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8616/video.m3u8?token=KN728cDixsiGm4nv
+http://cdn.admuspeh.my/8616/video.m3u8?token=ToweDwaDbykTurD5
 
 #EXTINF:0,IPTVPLAY ПАМЯТЬ
 #EXTGRP: кино
@@ -170,13 +164,13 @@ http://tmptv.sunduk.tv/CH521/index.m3u8
 
 #EXTINF:0,MM Киберпанк HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8545/video.m3u8?token=KN728cDixsiGm4nv
+http://cdn.admuspeh.my/8545/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,MM UFO
 #EXTGRP: кино
-http://cdn.admuspeh.my/8410/video.m3u8?token=KN728cDixsiGm4nv
+http://cdn.admuspeh.my/8410/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,MM Катастрофа
 #EXTGRP: кино
-http://cdn.admuspeh.my/8746/video.m3u8?token=KN728cDixsiGm4nv
+http://cdn.admuspeh.my/8746/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,CineMan Катастрофы
 #EXTGRP: кино
 http://ott.server-iptv.live/693/video.m3u8?token=Ceba8e4412
@@ -188,16 +182,16 @@ http://46.224.1.162:80/Shamilbro/ShamsTV/1523.m3u8
 http://ott.server-iptv.live/683/video.m3u8?token=Ceba8e4412
 #EXTINF:0,MM 007
 #EXTGRP: кино
-http://cdn.admuspeh.my/8327/video.m3u8?token=KN728cDixsiGm4nv
+http://cdn.admuspeh.my/8327/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,BOX SPY
 #EXTGRP: кино
-http://cdn.admuspeh.my/8354/video.m3u8?token=KN728cDixsiGm4nv
+http://cdn.admuspeh.my/8354/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,MM Боевик Classic HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8411/video.m3u8?token=KN728cDixsiGm4nv
+http://cdn.admuspeh.my/8411/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,MM Боевик
 #EXTGRP: кино
-http://cdn.admuspeh.my/8745/video.m3u8?token=KN728cDixsiGm4nv
+http://cdn.admuspeh.my/8745/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,CineMan Thriller
 #EXTGRP: кино
 http://ott.server-iptv.live/686/video.m3u8?token=Ceba8e4412
@@ -206,10 +200,10 @@ http://ott.server-iptv.live/686/video.m3u8?token=Ceba8e4412
 http://ott.server-iptv.live/689/video.m3u8?token=Ceba8e4412
 #EXTINF:0,MM Фантастика HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8631/video.m3u8?token=KN728cDixsiGm4nv
+http://cdn.admuspeh.my/8631/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8879/video.m3u8?token=KN728cDixsiGm4nv
+http://cdn.admuspeh.my/8879/video.m3u8?token=ToweDwaDbykTurD5
 ------
 
 
@@ -242,10 +236,10 @@ http://ott.server-iptv.live/685/video.m3u8?token=Ceba8e4412
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:0,CineMan VHS
 #EXTGRP: кино
-http://cdn.admuspeh.my/8807/video.m3u8?token=KN728cDixsiGm4nv
+http://cdn.admuspeh.my/8807/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,BOX Ultrastars 4K
 #EXTGRP: кино
-http://cdn.admuspeh.my/8444/video.m3u8?token=KN728cDixsiGm4nv
+http://cdn.admuspeh.my/8444/video.m3u8?token=ToweDwaDbykTurD5
 
 
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА
@@ -262,7 +256,7 @@ http://195.9.195.3:8080/hls/204717.m3u8
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8789/video.m3u8?token=KN728cDixsiGm4nv
+http://cdn.admuspeh.my/8789/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NTU3ODQ4NiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTczNjg2LCJzZXNzaW9uX2lkIjoiYWNkZDczYWJkN2U4N2ViZDZjMWUyYTQyOTU4YmRkMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.iVfm975Yg98PGxdSRdffs_PngTB_fXaemZM_p66oTDE
@@ -271,7 +265,7 @@ http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u
 https://stream-msk-14.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NTU3ODQ4NiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTczNjg2LCJzZXNzaW9uX2lkIjoiYWNkZDczYWJkN2U4N2ViZDZjMWUyYTQyOTU4YmRkMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.iVfm975Yg98PGxdSRdffs_PngTB_fXaemZM_p66oTDE
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
-http://cdn.admuspeh.my/8042/video.m3u8?token=KN728cDixsiGm4nv
+http://cdn.admuspeh.my/8042/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,Камеди
 #EXTGRP: кино
 http://stream-msk-08.ott.tricolor.tv/dtv/id642_MSKSG-PVR-1--Kamedi_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NTU3ODQ4NiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTczNjg2LCJzZXNzaW9uX2lkIjoiYWNkZDczYWJkN2U4N2ViZDZjMWUyYTQyOTU4YmRkMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.iVfm975Yg98PGxdSRdffs_PngTB_fXaemZM_p66oTDE
@@ -286,7 +280,7 @@ http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NTU3ODQ4NiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTczNjg2LCJzZXNzaW9uX2lkIjoiYWNkZDczYWJkN2U4N2ViZDZjMWUyYTQyOTU4YmRkMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.iVfm975Yg98PGxdSRdffs_PngTB_fXaemZM_p66oTDE
 #EXTINF:0,MM Сваты HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8893/video.m3u8?token=KN728cDixsiGm4nv
+http://cdn.admuspeh.my/8893/video.m3u8?token=ToweDwaDbykTurD5
 
 #EXTINF:0,Кинопоказ HD
 #EXTGRP: кино
@@ -331,7 +325,7 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/p
 
 #EXTINF:0,MM Агата Кристи HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8618/video.m3u8?token=KN728cDixsiGm4nv
+http://cdn.admuspeh.my/8618/video.m3u8?token=ToweDwaDbykTurD5
 
 
 
@@ -388,7 +382,7 @@ http://2.57.217.85:8000/play/a03e/index.m3u8
 http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8108/video.m3u8?token=KN728cDixsiGm4nv
+http://cdn.admuspeh.my/8108/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,Viju TV1000 Русское кино
 #EXTGRP: кино
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
