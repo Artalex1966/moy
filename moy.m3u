@@ -47,7 +47,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://tmptv.sunduk.tv/CH2927/index.m3u8
+http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
@@ -132,7 +132,7 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclass
 http://ott.server-iptv.live/655/video.m3u8?token=Ceba8e4412
 #EXTINF:0,CineMan CCCP 4K
 #EXTGRP: кино
-http://cdn.admuspeh.my/8795/video.m3u8?token=eK3vQwAcWMbnFKk3
+http://cdn.admuspeh.my/8795/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://46.224.1.162:80/Shamilbro/ShamsTV/1530.m3u8
@@ -146,9 +146,7 @@ http://46.224.1.162:80/Shamilbro/ShamsTV/1797.m3u8
 #EXTINF:0,Любимое HD
 #EXTGRP: кино
 https://stream-msk-05.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
-#EXTINF:0,Время
-#EXTGRP: кино
-http://tmptv.sunduk.tv/CH217/index.m3u8
+
 #EXTINF:0,Ретро
 #EXTGRP: кино
 https://vod.splay.uz/live_splay/original/Retro/index.m3u8
@@ -314,7 +312,7 @@ http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?
 
 #EXTINF:0,Русский детектив
 #EXTGRP: кино
-http://tmptv.sunduk.tv/CH437/index.m3u8
+http://46.224.1.162:80/Shamilbro/ShamsTV/5147.m3u8
 #EXTINF:0,Русский бестселлер
 #EXTGRP: кино
 http://stream-msk-04.ott.tricolor.tv/dtv/id517_MSKSG-PVR-1--Rus_Bests/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
@@ -331,6 +329,10 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/p
 #EXTINF:0,УЛИЦЫ РАЗБИТЫХ ФОНАРЕЙ
 #EXTGRP: кино
 https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
+
+#EXTINF:0,Время
+#EXTGRP: кино
+http://31.148.48.15:80/Vremya/index.m3u8?token=test
 
 #EXTINF:0,MM Агата Кристи HD
 #EXTGRP: кино
@@ -638,13 +640,13 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 https://v2.catcast.tv/content/47786/index.m3u8
 #EXTINF:0,O!
 #EXTGRP: Детский
-http://178.217.72.72/O/index.m3u8
+http://95.66.188.74/O/mono.m3u8
 #EXTINF:0,Ani
 #EXTGRP: Детский
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
-http://217.21.34.160:38007/detmir/index.m3u8
+http://ott.server-iptv.live/510/video.m3u8?token=Ceba8e4412
 #EXTINF:0,Карусель
 #EXTGRP: Детский
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
@@ -659,13 +661,13 @@ http://109.94.1.3:8080/132/index.m3u8
 http://46.8.46.14/detskiy/index.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
-http://tmptv.sunduk.tv/CH319/index.m3u8
+http://95.66.188.74/Mult_HD/mono.m3u8
 #EXTINF:0,Мама
 #EXTGRP: Детский
-http://tmptv.sunduk.tv/CH155/index.m3u8
+http://95.66.188.74/Mama/mono.m3u8
 #EXTINF:0,Мультиландия
 #EXTGRP: Детский
-http://tmptv.sunduk.tv/CH197/index.m3u8
+http://95.66.188.74/Multilandia/mono.m3u8
 #EXTINF:0,МУЛЬТИМАНИЯ
 #EXTGRP: Детский
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
@@ -674,10 +676,10 @@ https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:0,Рыжий
 #EXTGRP: Детский
-https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8
+http://95.66.188.74/RYZHIY/mono.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
-http://tmptv.sunduk.tv/CH729/index.m3u8
+http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTINF:0,Мама
 #EXTGRP: Детский
 http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
