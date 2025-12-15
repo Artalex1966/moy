@@ -9,6 +9,9 @@ http://ott.server-iptv.live/687/video.m3u8?token=Ceba8e4412
 #EXTINF:0,Kernel TV Счастливого нового года HD
 #EXTGRP: Кино
 http://cdn.admuspeh.my/9084/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:0,MM Новогодний
+#EXTGRP: Кино
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzg2MjIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3YTMxOGVhIiwicCI6IjI3YTMxOGVhMWMwNDIxZjAiLCJjIjoiMTYyNSIsInQiOiJmMDg4MWQwNjMxYzE0MTI3YmY3NTExMGNhOTk4NzdlYSIsImQiOiI0MzQ2MDciLCJyIjoiNDQ2NTAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84NjIyL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
@@ -153,7 +156,7 @@ https://vod.splay.uz/live_splay/original/Retro/index.m3u8
 
 #EXTINF:0,Иллюзион +
 #EXTGRP: кино
-http://tmptv.sunduk.tv/CH323/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=illuzionplus
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
@@ -172,6 +175,9 @@ http://cdn.admuspeh.my/8410/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,MM Катастрофа
 #EXTGRP: кино
 http://cdn.admuspeh.my/8746/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:0,MM Скорость HD
+#EXTGRP: кино
+http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
 #EXTINF:0,CineMan Катастрофы
 #EXTGRP: кино
 http://ott.server-iptv.live/693/video.m3u8?token=Ceba8e4412
@@ -245,6 +251,12 @@ http://cdn.admuspeh.my/8807/video.m3u8?token=ToweDwaDbykTurD5
 #EXTGRP: кино
 http://46.224.1.162:80/Shamilbro/ShamsTV/1515.m3u8
 
+#EXTINF:0,Clarity4K Фантастика
+#EXTGRP: кино
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/video.m3u8
+#EXTINF:0,Clarity4K КиноФраншизы
+#EXTGRP: кино
+http://hls127.freeott.top:8080/Clarity4K_Kinofranshiza/video.m3u8
 
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА
 #EXTGRP: кино
