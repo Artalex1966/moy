@@ -718,13 +718,16 @@ http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 http://95.66.188.74/RYZHIY/mono.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
-http://195.26.83.96:7006/play/a00z/index.m3u8
+http://ru.russkoe-iptv.com:8080/s/c4630b21/ctc-kids.m3u8
 #EXTINF:0,Мама
 #EXTGRP: Детский
 http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
 #EXTINF:0,Пингвин Лоло
 #EXTGRP: Детский
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:0,Лёва HD
+#EXTGRP: Детский
+http://ru.russkoe-iptv.com:8080/s/c4630b21/ljova-hd.m3u8
 #EXTINF:0,Мамонтёнок
 #EXTGRP: Детский
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
@@ -791,7 +794,8 @@ http://185.57.68.33:8091/232/index.m3u8
 #EXTGRP: 999
 http://iptv.prosto.tv:7000/ch325/video.m3u8
 
-#EXTINF:0,MM эксперимент
-http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vMzEuMjIyLjIwNS42Njo4MDgwLzg2NDMvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjNmMmZkZmY4IiwicCI6IjNmMmZkZmY4M2Y3Y2FiMDIiLCJjIjoiMTY1NyIsInQiOiJiNjE1NjNhYWRjMTNlNzgzNjViOTBhYTE0M2QwNjZmNSIsImQiOiI0MTcxNDkiLCJyIjoiNDI5MTA4IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2Lzg2NDMvaW5kZXgubTN1OD90b2tlbj1bc3R/index.m3u8
+#EXTINF:0,MM Experiment HD
+http://cdn.admuspeh.my/8643/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,MM ОТКРЫТИЯ
 http://50.7.28.226/8647/index.m3u8
+http://cdn.admuspeh.my/8647/video.m3u8?token=ToweDwaDbykTurD5
