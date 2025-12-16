@@ -145,6 +145,12 @@ http://ott.server-iptv.live/655/video.m3u8?token=Ceba8e4412
 #EXTINF:0,TOP USSR
 #EXTGRP: кино
 http://46.224.1.162:80/Shamilbro/ShamsTV/1797.m3u8
+#EXTINF:0,YOSSO TV Советские фильмы
+#EXTGRP: кино
+http://46.224.1.162:80/Shamilbro/ShamsTV/1767.m3u8
+#EXTINF:0,VeleS СССР
+#EXTGRP: кино
+http://46.224.1.162:80/Shamilbro/ShamsTV/1743.m3u8
 
 #EXTINF:0,Любимое HD
 #EXTGRP: кино
@@ -646,9 +652,15 @@ http://cdn.admuspeh.my/9033/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:0,Kernel TV Утиные истории HD
+#EXTGRP: Детский
+http://cdn.admuspeh.my/9087/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,Kernel TV Чёрный плащ HD
 #EXTGRP: Детский
-http://cdn.admuspeh.my/8886/video.m3u8?token=ToweDwaDbykTurD5
+http://cdn.admuspeh.my/9095/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:0,Kernel TV Тимон и Пумба HD
+#EXTGRP: Детский
+http://cdn.admuspeh.my/9085/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,Kernel TV Аладдин HD
 #EXTGRP: Детский
 http://cdn.admuspeh.my/9021/video.m3u8?token=ToweDwaDbykTurD5
@@ -716,6 +728,9 @@ http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:0,Мамонтёнок
 #EXTGRP: Детский
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+#EXTINF:0,Kernel TV Фиксики HD
+#EXTGRP: Детский
+http://cdn.admuspeh.my/9088/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,Kernel TV Царевны HD
 #EXTGRP: Детский
 http://cdn.admuspeh.my/9091/video.m3u8?token=ToweDwaDbykTurD5
