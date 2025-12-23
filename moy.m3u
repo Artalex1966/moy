@@ -12,6 +12,9 @@ http://cdn.admuspeh.my/9084/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,MM Новогодний
 #EXTGRP: Кино
 http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzg2MjIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3YTMxOGVhIiwicCI6IjI3YTMxOGVhMWMwNDIxZjAiLCJjIjoiMTYyNSIsInQiOiJmMDg4MWQwNjMxYzE0MTI3YmY3NTExMGNhOTk4NzdlYSIsImQiOiI0MzQ2MDciLCJyIjoiNDQ2NTAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84NjIyL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+#EXTINF:0,VB Новогодний
+#EXTGRP: Кино
+http://hls.goodgame.ru:8080/hls/198088.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
@@ -138,7 +141,7 @@ http://ott.server-iptv.live/655/video.m3u8?token=Ceba8e4412
 http://cdn.admuspeh.my/8795/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://46.224.1.162:80/Shamilbro/ShamsTV/1530.m3u8
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiN2IyODg1ZDEiLCJwIjoiN2IyODg1ZDFmZTQ5ZGJlNSIsImMiOiIxMTU3IiwidCI6IjU3NmVjZWU1MzExMmU2NTllZmM2NDdkZmU1NWVhYzY2IiwiZCI6IjQzODY4OSIsInIiOiI0NTA1ODciLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84ODc1L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 #EXTINF:0,CineMan CCCP FHD
 #EXTGRP: кино
 http://ott.server-iptv.live/655/video.m3u8?token=Ceba8e4412
