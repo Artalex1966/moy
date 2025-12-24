@@ -15,7 +15,7 @@ http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzg2M
 #EXTINF:0,VB Новогодний
 #EXTGRP: Кино
 http://hls.goodgame.ru:8080/hls/198088.m3u8
-#EXTINF:0,VB Новогодний
+#EXTINF:0,Новогодний
 #EXTGRP: Кино
 rtmp://vkvsd179.okcdn.ru/playback/10633105845066?stkn=3TEMCNxy6QRwSydJHp-LSv0jLaoBl2lAGvicmwh9W9qSVn8leqCqvFt0E1ZlP686YQbmuyqIvDU&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:0,Россия 24
@@ -112,6 +112,9 @@ https://stream-msk-17.ott.tricolor.tv/dtv/id944_MSKSG-PVR-1--KinoMult_SD/03/plst
 #EXTINF:0,Советское
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+#EXTINF:0,Любимые фильмы
+#EXTGRP: кино
+https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Смотрим 100% Классика
 #EXTGRP: кино
@@ -145,9 +148,9 @@ http://cdn.admuspeh.my/8795/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiN2IyODg1ZDEiLCJwIjoiN2IyODg1ZDFmZTQ5ZGJlNSIsImMiOiIxMTU3IiwidCI6IjU3NmVjZWU1MzExMmU2NTllZmM2NDdkZmU1NWVhYzY2IiwiZCI6IjQzODY4OSIsInIiOiI0NTA1ODciLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84ODc1L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
-#EXTINF:0,Экран СССР ТВ
+#EXTINF:0,Сов.Ком
 #EXTGRP: кино
-https://vsd183.okcdn.ru/hls/7904690309811.m3u8/sig/ZGiolR40Hj8/expires/1766636977344/srcIp/46.138.148.82/urls/185.226.52.64/clientType/0/srcAg/CHROME_YA/mid/9273686236851/video.m3u8?p
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:0,Любимое HD
