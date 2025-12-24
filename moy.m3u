@@ -15,6 +15,9 @@ http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzg2M
 #EXTINF:0,VB Новогодний
 #EXTGRP: Кино
 http://hls.goodgame.ru:8080/hls/198088.m3u8
+#EXTINF:0,VB Новогодний
+#EXTGRP: Кино
+rtmp://vkvsd179.okcdn.ru/playback/10633105845066?stkn=3TEMCNxy6QRwSydJHp-LSv0jLaoBl2lAGvicmwh9W9qSVn8leqCqvFt0E1ZlP686YQbmuyqIvDU&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
@@ -142,9 +145,9 @@ http://cdn.admuspeh.my/8795/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiN2IyODg1ZDEiLCJwIjoiN2IyODg1ZDFmZTQ5ZGJlNSIsImMiOiIxMTU3IiwidCI6IjU3NmVjZWU1MzExMmU2NTllZmM2NDdkZmU1NWVhYzY2IiwiZCI6IjQzODY4OSIsInIiOiI0NTA1ODciLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84ODc1L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
-#EXTINF:0,CineMan CCCP FHD
+#EXTINF:0,Экран СССР ТВ
 #EXTGRP: кино
-http://ott.server-iptv.live/655/video.m3u8?token=Ceba8e4412
+https://vsd183.okcdn.ru/hls/7904690309811.m3u8/sig/ZGiolR40Hj8/expires/1766636977344/srcIp/46.138.148.82/urls/185.226.52.64/clientType/0/srcAg/CHROME_YA/mid/9273686236851/video.m3u8?p
 
 
 #EXTINF:0,Любимое HD
@@ -240,9 +243,12 @@ https://live20.bozztv.com/akamaissh101/ssh101/cybertvrus/chunks.m3u8
 #EXTINF:0, VHS-ка
 #EXTGRP: кино
 http://95.66.188.74/VHS/index.m3u8
-#EXTINF:0,Magic VHS
+#EXTINF:0,ВИДЕОСАЛОН VHSTV
 #EXTGRP: кино
-http://46.224.1.162:80/Shamilbro/ShamsTV/1701.m3u8
+http://195.9.195.3:8080/hls/175764.m3u8
+#EXTINF:0,VHS кино
+#EXTGRP: кино
+http://195.9.195.3:8080/hls/218531.m3u8
 
 #EXTINF:0,CineMan VHS
 #EXTGRP: кино
