@@ -18,6 +18,7 @@ http://hls.goodgame.ru:8080/hls/198088.m3u8
 #EXTINF:0,Новогодний
 #EXTGRP: Кино
 rtmp://vkvsd179.okcdn.ru/playback/10633105845066?stkn=3TEMCNxy6QRwSydJHp-LSv0jLaoBl2lAGvicmwh9W9qSVn8leqCqvFt0E1ZlP686YQbmuyqIvDU&uid=0&sp=uid,sp&sig=vlibqm4nyu
+
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
@@ -151,6 +152,9 @@ http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiN2IyODg1ZDEiLCJwIjoiN2IyODg1ZDFmZTQ5Z
 #EXTINF:0,Сов.Ком
 #EXTGRP: кино
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0,KLI СССР
+#EXTGRP: кино
+http://ott.server-iptv.live/1600/video.m3u8?token=Ceba8e4412
 
 
 #EXTINF:0,Любимое HD
@@ -222,9 +226,9 @@ http://ott.server-iptv.live/689/video.m3u8?token=Ceba8e4412
 #EXTINF:0,MM Фантастика HD
 #EXTGRP: кино
 http://cdn.admuspeh.my/8631/video.m3u8?token=ToweDwaDbykTurD5
-#EXTINF:0,BCU Fantastic HD
+#EXTINF:0,Clarity4K Фантастика
 #EXTGRP: кино
-http://46.224.1.162:80/Shamilbro/ShamsTV/1517.m3u8
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
 
 ------
 
@@ -265,6 +269,9 @@ http://cdn.admuspeh.my/8807/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,BCU VHS HD
 #EXTGRP: кино
 http://46.224.1.162:80/Shamilbro/ShamsTV/1515.m3u8
+#EXTINF:0,BCU Stars HD
+#EXTGRP: кино
+http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
 
 #EXTINF:0,Clarity4K Фантастика
 #EXTGRP: кино
