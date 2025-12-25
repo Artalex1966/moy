@@ -18,9 +18,6 @@ http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzg2M
 #EXTINF:0,VB Новогодний
 #EXTGRP: Кино
 http://hls.goodgame.ru:8080/hls/198088.m3u8
-#EXTINF:0,Новогодний
-#EXTGRP: Кино
-rtmp://vkvsd179.okcdn.ru/playback/10633105845066?stkn=3TEMCNxy6QRwSydJHp-LSv0jLaoBl2lAGvicmwh9W9qSVn8leqCqvFt0E1ZlP686YQbmuyqIvDU&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
@@ -155,7 +152,7 @@ http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiN2IyODg1ZDEiLCJwIjoiN2IyODg1ZDFmZTQ5Z
 #EXTINF:0,Сов.Ком
 #EXTGRP: кино
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,KLI СССР
+#EXTINF:0,Veles СССР
 #EXTGRP: кино
 http://ott.server-iptv.live/1600/video.m3u8?token=Ceba8e4412
 
