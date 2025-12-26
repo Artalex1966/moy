@@ -392,6 +392,9 @@ http://31.148.48.15:80/Vremya/index.m3u8?token=test
 #EXTINF:0,MM Агата Кристи HD
 #EXTGRP: кино
 http://cdn.admuspeh.my/8618/video.m3u8?token=ToweDwaDbykTurD5
+#EXTINF:0,MM Агата Кристи HD
+#EXTGRP: кино
+http://gr.seetv.cc/play/6061/D70CC021CA87DF2/video.m3u8
 
 
 
