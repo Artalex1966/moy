@@ -152,9 +152,18 @@ http://ost.ru-tv.site/0Yl90b2tlbl0iLCJsIjoiN2IyODg1ZDEiLCJwIjoiN2IyODg1ZDFmZTQ5Z
 #EXTINF:0,Сов.Ком
 #EXTGRP: кино
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,Veles СССР
+#EXTINF:0,VeleS СССР
 #EXTGRP: кино
 http://ott.server-iptv.live/1600/video.m3u8?token=Ceba8e4412
+#EXTINF:0,KBC-Страна СССР
+#EXTGRP: кино
+http://gr.seetv.cc/play/8824/D70CC021CA87DF2/video.m3u8
+#EXTINF:0,TOP: USSR
+#EXTGRP: кино
+http://gr.seetv.cc/play/1634/D70CC021CA87DF2/video.m3u8
+#EXTINF:0,CPS USSR
+#EXTGRP: кино
+http://gr.seetv.cc/play/1745/D70CC021CA87DF2/video.m3u8
 
 
 #EXTINF:0,Любимое HD
@@ -253,9 +262,9 @@ http://95.66.188.74/VHS/index.m3u8
 #EXTINF:0,ВИДЕОСАЛОН VHSTV
 #EXTGRP: кино
 http://195.9.195.3:8080/hls/175764.m3u8
-#EXTINF:0,VHS кино
+#EXTINF:0,Fresh VHS
 #EXTGRP: кино
-http://195.9.195.3:8080/hls/218531.m3u8
+http://gr.seetv.cc/play/1640/D70CC021CA87DF2/video.m3u8
 
 #EXTINF:0,CineMan VHS
 #EXTGRP: кино
