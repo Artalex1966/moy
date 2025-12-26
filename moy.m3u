@@ -164,6 +164,9 @@ http://gr.seetv.cc/play/1634/D70CC021CA87DF2/video.m3u8
 #EXTINF:0,CPS USSR
 #EXTGRP: кино
 http://gr.seetv.cc/play/1745/D70CC021CA87DF2/video.m3u8
+#EXTINF:0,Clarity4K Сделано в СССР
+#EXTGRP: кино
+http://gr.seetv.cc/play/4603/D70CC021CA87DF2/video.m3u8
 
 
 #EXTINF:0,Любимое HD
