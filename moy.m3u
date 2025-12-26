@@ -18,6 +18,9 @@ http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzg2M
 #EXTINF:0,VB Новогодний
 #EXTGRP: Кино
 http://hls.goodgame.ru:8080/hls/198088.m3u8
+#EXTINF:0,BCU Christmas
+#EXTGRP: Кино
+https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
 
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
@@ -140,6 +143,9 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2Njc4ODU0NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY2MTgzNzQ3LCJzZXNzaW9uX2lkIjoiNTRhN2Y1MjliMzE0MDNmOTYyYzllYWNlZDk0MjEyNTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kNNQwRk9Ng-oS8bvOtnvnj6xOw0cJfVbQ2deDrWLwxc
+#EXTINF:0,VF Наша победа
+#EXTGRP: кино
+https://tinyurl.com/aleks-u-romki-40/10083/index.m3u8
 #EXTINF:0,CineMan СССР
 #EXTGRP: кино
 http://ott.server-iptv.live/655/video.m3u8?token=Ceba8e4412
@@ -167,6 +173,9 @@ http://gr.seetv.cc/play/1745/D70CC021CA87DF2/video.m3u8
 #EXTINF:0,Clarity4K Сделано в СССР
 #EXTGRP: кино
 http://gr.seetv.cc/play/4603/D70CC021CA87DF2/video.m3u8
+#EXTINF:0,YOSSO TV Советские фильмы
+#EXTGRP: кино
+http://gr.seetv.cc/play/8775/D70CC021CA87DF2/video.m3u8
 #EXTINF:0,VF Мосфильм
 https://tinyurl.com/aleks-u-romki-47/10084/index.m3u8
 #EXTINF:0,VF Фильмы СССР
@@ -535,6 +544,9 @@ https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,CineMan Скорая помощь
 #EXTGRP: кино
 http://ott.server-iptv.live/694/video.m3u8?token=Ceba8e4412
+#EXTINF:0,VF Клиника
+#EXTGRP: кино
+https://tinyurl.com/aleks-u-romki-40/13094/index.m3u8
 
 
 #EXTINF:0,VF Друзья
@@ -559,7 +571,7 @@ http://7zlpj1wd.rostelekom.xyz/iptv/C7WX3KLNG56MRDMZ8MA9WG3G/14230/index.m3u8
 
 #EXTINF:0,VF Универ
 #EXTGRP: кино
-http://cf1113a0.cbilant.com/iptv/EYU9F97AW2BASB/13084/index.m3u8
+https://tinyurl.com/aleks-u-romki-40/13084/index.m3u8
 #EXTINF:0,VF Универ
 #EXTGRP: кино
 http://lo5hdwhc.otttv.pw/iptv/HBX28K5SXCR6EH/13084/index.m3u8
@@ -581,6 +593,9 @@ http://lo5hdwhc.otttv.pw/iptv/HBX28K5SXCR6EH/13082/index.m3u8
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
 http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/13082/index.m3u8
+#EXTINF:0,VF Тайны следствия
+#EXTGRP: кино
+https://tinyurl.com/aleks-u-romki-40/13082/index.m3u8
 
 
 
