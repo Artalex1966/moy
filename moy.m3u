@@ -119,9 +119,6 @@ https://stream-msk-17.ott.tricolor.tv/dtv/id944_MSKSG-PVR-1--KinoMult_SD/03/plst
 #EXTINF:0,Советское
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:0,Любимые фильмы
-#EXTGRP: кино
-https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Смотрим 100% Классика
 #EXTGRP: кино
@@ -167,9 +164,6 @@ http://ott.server-iptv.live/1600/video.m3u8?token=Ceba8e4412
 #EXTINF:0,KBC-Страна СССР
 #EXTGRP: кино
 http://gr.seetv.cc/play/8824/D70CC021CA87DF2/video.m3u8
-#EXTINF:0,TOP: USSR
-#EXTGRP: кино
-http://gr.seetv.cc/play/1634/D70CC021CA87DF2/video.m3u8
 #EXTINF:0,CPS USSR
 #EXTGRP: кино
 http://gr.seetv.cc/play/1745/D70CC021CA87DF2/video.m3u8
@@ -179,10 +173,7 @@ http://gr.seetv.cc/play/4603/D70CC021CA87DF2/video.m3u8
 #EXTINF:0,YOSSO TV Советские фильмы
 #EXTGRP: кино
 http://gr.seetv.cc/play/8775/D70CC021CA87DF2/video.m3u8
-#EXTINF:0,VF Мосфильм
-https://tinyurl.com/aleks-u-romki-47/10084/index.m3u8
-#EXTINF:0,VF Фильмы СССР
-https://tinyurl.com/aleks-u-romki-47/10085/index.m3u8
+
 
 
 #EXTINF:0,Любимое HD
