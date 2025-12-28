@@ -3,9 +3,10 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz, https://iptvx.one/EPG"
 
 
-#EXTINF:0,CineMan РуКино
+
+#EXTINF:0,VF Музыкальный Новый год!
 #EXTGRP: Кино
-http://ott.server-iptv.live/687/video.m3u8?token=Ceba8e4412
+https://tinyurl.com/SaSha-30/16140/index.m3u8
 #EXTINF:0,VF С новым годом!
 #EXTGRP: Кино
 http://ee806633.russtv.net/iptv/S4RW42HTQT54GQ/15524/index.m3u8
@@ -78,6 +79,15 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:0,Кино 1
+#EXTGRP: кино
+https://tinyurl.com/SaSha-30/18069/index.m3u8
+
+#EXTINF:0,Кино 2
+#EXTGRP: кино
+https://tinyurl.com/SaSha-30/18070/index.m3u8
+
+
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 https://v2.catcast.tv/content/38720/index.m3u8
@@ -125,9 +135,6 @@ https://stream-msk-17.ott.tricolor.tv/dtv/id944_MSKSG-PVR-1--KinoMult_SD/03/plst
 #EXTINF:0,Советское
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:0,Любимые фильмы
-#EXTGRP: кино
-https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Смотрим 100% Классика
 #EXTGRP: кино
@@ -155,6 +162,9 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclass
 #EXTINF:0,VF Наша победа
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-47/10083/index.m3u8
+#EXTINF:0,Военное кино HD
+#EXTGRP: кино
+https://tinyurl.com/SaSha-30/18072/index.m3u8
 #EXTINF:0,CineMan СССР
 #EXTGRP: кино
 http://ott.server-iptv.live/655/video.m3u8?token=Ceba8e4412
@@ -175,7 +185,7 @@ http://ott.server-iptv.live/1600/video.m3u8?token=Ceba8e4412
 http://gr.seetv.cc/play/8824/D70CC021CA87DF2/video.m3u8
 #EXTINF:0,TOP: USSR
 #EXTGRP: кино
-http://gr.seetv.cc/play/1634/D70CC021CA87DF2/video.m3u8
+https://tinyurl.com/SaSha-30/13005/index.m3u8
 #EXTINF:0,CPS USSR
 #EXTGRP: кино
 http://gr.seetv.cc/play/1745/D70CC021CA87DF2/video.m3u8
@@ -194,6 +204,9 @@ https://tinyurl.com/SaSha-30/18122/index.m3u8
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-47/10085/index.m3u8
+#EXTINF:0,StrahTV СССР
+#EXTGRP: кино
+https://tinyurl.com/SaSha-30/11061/index.m3u8
 
 
 #EXTINF:0,Любимое HD
@@ -294,7 +307,7 @@ http://95.66.188.74/VHS/index.m3u8
 http://195.9.195.3:8080/hls/175764.m3u8
 #EXTINF:0,Fresh VHS
 #EXTGRP: кино
-http://gr.seetv.cc/play/1640/D70CC021CA87DF2/video.m3u8
+https://tinyurl.com/SaSha-30/19293/index.m3u8
 
 #EXTINF:0,CineMan VHS
 #EXTGRP: кино
@@ -364,6 +377,9 @@ http://cdn.admuspeh.my/8893/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,CineMan Сваты
 #EXTGRP: кино
 http://ott.server-iptv.live/684/video.m3u8?token=Ceba8e4412
+#EXTINF:0,VF Уральские пельмени
+#EXTGRP: кино
+https://tinyurl.com/SaSha-30/18198/index.m3u8
 
 #EXTINF:0,Кинопоказ HD
 #EXTGRP: кино
@@ -422,7 +438,9 @@ http://cdn.admuspeh.my/8618/video.m3u8?token=ToweDwaDbykTurD5
 #EXTINF:0,MM Агата Кристи HD
 #EXTGRP: кино
 http://gr.seetv.cc/play/6061/D70CC021CA87DF2/video.m3u8
-
+#EXTINF:0,CineMan РуКино
+#EXTGRP: Кино
+http://ott.server-iptv.live/687/video.m3u8?token=Ceba8e4412
 
 
 #EXTINF:0,Кинорейс
@@ -561,6 +579,15 @@ http://ott.server-iptv.live/694/video.m3u8?token=Ceba8e4412
 #EXTINF:0,VF Клиника
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-40/13094/index.m3u8
+#EXTINF:0,The X-Files
+#EXTGRP: кино
+https://tinyurl.com/SaSha-30/11055/index.m3u8
+#EXTINF:0,VF Два с половиной человека
+#EXTGRP: кино
+https://tinyurl.com/SaSha-30/10062/index.m3u8
+#EXTINF:0,VF Кухня
+#EXTGRP: кино
+https://tinyurl.com/SaSha-30/18199/index.m3u8
 
 
 #EXTINF:0,VF Друзья
