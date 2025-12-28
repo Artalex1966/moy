@@ -185,9 +185,14 @@ http://gr.seetv.cc/play/4603/D70CC021CA87DF2/video.m3u8
 #EXTINF:0,YOSSO TV Советские фильмы
 #EXTGRP: кино
 http://gr.seetv.cc/play/8775/D70CC021CA87DF2/video.m3u8
-#EXTINF:0,VF Мосфильм
-https://tinyurl.com/aleks-u-romki-47/10084/index.m3u8
+#EXTINF:0,VF Ленфильм
+#EXTGRP: кино
+https://tinyurl.com/SaSha-30/18121/index.m3u8
+#EXTINF:0,VF Киностудия им. Горького
+#EXTGRP: кино
+https://tinyurl.com/SaSha-30/18122/index.m3u8
 #EXTINF:0,VF Фильмы СССР
+#EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-47/10085/index.m3u8
 
 
