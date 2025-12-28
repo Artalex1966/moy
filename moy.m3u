@@ -18,6 +18,12 @@ http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzg2M
 #EXTINF:0,VB Новогодний
 #EXTGRP: Кино
 http://hls.goodgame.ru:8080/hls/198088.m3u8
+#EXTINF:0,VF Новогодний
+#EXTGRP: Кино
+https://tinyurl.com/SaSha-30/17035/index.m3u8
+#EXTINF:0,VF New Year
+#EXTGRP: Кино
+https://tinyurl.com/SaSha-30/15522/index.m3u8
 #EXTINF:0,BCU Christmas
 #EXTGRP: Кино
 https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
