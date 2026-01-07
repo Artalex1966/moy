@@ -13,12 +13,7 @@ http://ee806633.russtv.net/iptv/S4RW42HTQT54GQ/15524/index.m3u8
 #EXTINF:0,Kernel TV Счастливого нового года HD
 #EXTGRP: Кино
 http://cdn.admuspeh.my/9084/video.m3u8?token=fqMofrKBZ7rUCK86
-#EXTINF:0,MM Новогодний
-#EXTGRP: Кино
-http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzg2MjIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3YTMxOGVhIiwicCI6IjI3YTMxOGVhMWMwNDIxZjAiLCJjIjoiMTYyNSIsInQiOiJmMDg4MWQwNjMxYzE0MTI3YmY3NTExMGNhOTk4NzdlYSIsImQiOiI0MzQ2MDciLCJyIjoiNDQ2NTAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84NjIyL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
-#EXTINF:0,VB Новогодний
-#EXTGRP: Кино
-http://hls.goodgame.ru:8080/hls/198088.m3u8
+
 #EXTINF:0,VF Новогодний
 #EXTGRP: Кино
 https://tinyurl.com/SaSha-32/17035/index.m3u8
@@ -159,12 +154,7 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 #EXTINF:0,Советская киноклассика
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2Nzk5ODAyNSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY3MzkzMjI1LCJzZXNzaW9uX2lkIjoiMDBhNzM5Yjg2NTIyNjYyODU1ODg3YjJiNDhkYWY5NTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z4hOnY3-ob0q6JPZiNhiXO59Hksb9zS5WNob99D-UEc
-#EXTINF:0,VF Наша победа
-#EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-47/10083/index.m3u8
-#EXTINF:0,Военное кино HD
-#EXTGRP: кино
-https://tinyurl.com/SaSha-32/18072/index.m3u8
+
 #EXTINF:0,CineMan СССР
 #EXTGRP: кино
 http://ott.server-iptv.live/655/video.m3u8?token=Ceba8e4412
@@ -195,12 +185,7 @@ http://gr.seetv.cc/play/4603/D70CC021CA87DF2/video.m3u8
 #EXTINF:0,YOSSO TV Советские фильмы
 #EXTGRP: кино
 http://gr.seetv.cc/play/8775/D70CC021CA87DF2/video.m3u8
-#EXTINF:0,VF Ленфильм
-#EXTGRP: кино
-https://tinyurl.com/SaSha-32/18121/index.m3u8
-#EXTINF:0,VF Киностудия им. Горького
-#EXTGRP: кино
-https://tinyurl.com/SaSha-32/18122/index.m3u8
+
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-47/10085/index.m3u8
@@ -288,15 +273,7 @@ http://hls127.freeott.top:8080/CPS_Action/video.m3u8
 ------
 
 
-#EXTINF:0,CyberTV
-#EXTGRP: кино
-https://live20.bozztv.com/akamaissh101/ssh101/cybertv/chunks.m3u8
-#EXTINF:0,CyberTV 2
-#EXTGRP: кино
-https://live20.bozztv.com/akamaissh101/ssh101/cybertv2/chunks.m3u8
-#EXTINF:0,CyberTV 3
-#EXTGRP: кино
-https://live20.bozztv.com/akamaissh101/ssh101/cybertvrus/chunks.m3u8
+
 
 
 ++++++++
@@ -305,9 +282,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/cybertvrus/chunks.m3u8
 #EXTINF:0, VHS-ка
 #EXTGRP: кино
 http://95.66.188.74/VHS/index.m3u8
-#EXTINF:0,ВИДЕОСАЛОН VHSTV
-#EXTGRP: кино
-http://195.9.195.3:8080/hls/175764.m3u8
+
 #EXTINF:0,Fresh VHS
 #EXTGRP: кино
 https://tinyurl.com/SaSha-32/19293/index.m3u8
@@ -346,9 +321,7 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,1FILMAX
 #EXTGRP: кино
 http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF:0,2FILMAX
-#EXTGRP: кино
-http://195.9.195.3:8080/hls/204717.m3u8
+
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
