@@ -81,7 +81,12 @@ https://tinyurl.com/SaSha-32/18069/index.m3u8
 #EXTINF:0,Кино 2
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-47/18070/index.m3u8
-
+#EXTINF:0, VHS-ка
+#EXTGRP: кино
+http://95.66.188.74/VHS/index.m3u8
+#EXTINF:0,BCU Stars HD
+#EXTGRP: кино
+http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
 
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
@@ -170,9 +175,7 @@ https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
 http://ott.server-iptv.live/1600/video.m3u8?token=Ceba8e4412
-#EXTINF:0,KBC-Страна СССР
-#EXTGRP: кино
-http://gr.seetv.cc/play/8824/D70CC021CA87DF2/video.m3u8
+
 #EXTINF:0,TOP: USSR
 #EXTGRP: кино
 https://tinyurl.com/SaSha-32/13005/index.m3u8
@@ -236,9 +239,7 @@ http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
 #EXTINF:0,CineMan Катастрофы
 #EXTGRP: кино
 http://ott.server-iptv.live/693/video.m3u8?token=Ceba8e4412
-#EXTINF:0,BCU Catastrophe HD
-#EXTGRP: кино
-http://46.224.1.162:80/Shamilbro/ShamsTV/1523.m3u8
+
 #EXTINF:0,CineMan Top
 #EXTGRP: кино
 http://ott.server-iptv.live/683/video.m3u8?token=Ceba8e4412
@@ -279,9 +280,7 @@ http://hls127.freeott.top:8080/CPS_Action/video.m3u8
 ++++++++
 
 
-#EXTINF:0, VHS-ка
-#EXTGRP: кино
-http://95.66.188.74/VHS/index.m3u8
+
 
 #EXTINF:0,Fresh VHS
 #EXTGRP: кино
@@ -299,9 +298,7 @@ http://cdn.admuspeh.my/8807/video.m3u8?token=pdfBXvp2A1J4fcqY
 #EXTINF:0,BCU VHS HD
 #EXTGRP: кино
 http://46.224.1.162:80/Shamilbro/ShamsTV/1515.m3u8
-#EXTINF:0,BCU Stars HD
-#EXTGRP: кино
-http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
+
 
 #EXTINF:0,Clarity4K Фантастика
 #EXTGRP: кино
