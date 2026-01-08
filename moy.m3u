@@ -14,6 +14,10 @@ http://ee806633.russtv.net/iptv/S4RW42HTQT54GQ/15524/index.m3u8
 #EXTGRP: Кино
 http://cdn.admuspeh.my/9084/video.m3u8?token=pdfBXvp2A1J4fcqY
 
+#EXTINF:0,VB Новогодний
+#EXTGRP: Кино
+http://195.9.195.3:8080/hls/198088.m3u8
+
 #EXTINF:0,VF Новогодний
 #EXTGRP: Кино
 https://tinyurl.com/SaSha-32/17035/index.m3u8
@@ -87,6 +91,9 @@ http://95.66.188.74/VHS/index.m3u8
 #EXTINF:0,BCU Stars HD
 #EXTGRP: кино
 http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
+#EXTINF:0,VHS кино
+#EXTGRP: кино
+http://195.9.195.3:8080/hls/218531.m3u8
 
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
