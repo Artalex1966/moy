@@ -94,6 +94,9 @@ http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
 #EXTINF:0,VHS кино
 #EXTGRP: кино
 http://195.9.195.3:8080/hls/218531.m3u8
+#EXTINF:0,Ретро кино
+#EXTGRP: кино
+https://stream-msk-10.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2ODYwMjg1OCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY3OTk4MDU4LCJzZXNzaW9uX2lkIjoiMTIwNTc5NDM1YjI1ZThlYzVmM2ZhMzRkNmZlODUwNjYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.jkeRXq5tz6mKvRr5cjTDf4BgtpA5TL4IvD1Vp4LTWoc
 
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
@@ -189,9 +192,9 @@ https://tinyurl.com/aleks-u-romki-40/13005/index.m3u8
 #EXTINF:0,BOX СССР 4K HDR
 #EXTGRP: кино
 http://cdn.admuspeh.my/8445/video.m3u8?token=fqMofrKBZ7rUCK86
-#EXTINF:0,Clarity4K Сделано в СССР
+#EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
-http://gr.seetv.cc/play/4603/D70CC021CA87DF2/video.m3u8
+http://e6ce69f2.kazaktelekom.com/iptv/DPU7GU7KPK5VLVW9MPWGY56W/11061/index.m3u8
 #EXTINF:0,YOSSO TV Советские фильмы
 #EXTGRP: кино
 http://gr.seetv.cc/play/8775/D70CC021CA87DF2/video.m3u8
@@ -561,12 +564,12 @@ https://tinyurl.com/aleks-u-romki-40/13094/index.m3u8
 #EXTINF:0,The X-Files
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-40/11055/index.m3u8
-#EXTINF:0,VF Два с половиной человека
+#EXTINF:0,VF Доктор Хаус
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/10062/index.m3u8
-#EXTINF:0,VF Кухня
+https://tinyurl.com/aleks-u-romki-40/17016/index.m3u8
+#EXTINF:0,VF Теория большого взрыва
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/18199/index.m3u8
+https://tinyurl.com/aleks-u-romki-40/15009/index.m3u8
 
 
 #EXTINF:0,VF Друзья
