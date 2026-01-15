@@ -485,16 +485,16 @@ http://cdn.admuspeh.my/8070/video.m3u8?token=fqMofrKBZ7rUCK86
 http://cdn.admuspeh.my/8096/video.m3u8?token=fqMofrKBZ7rUCK86
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
-https://jekalich.github.io/smtk/channels/kinopremiera-hd.m3u8
+http://cdn.admuspeh.my/8199/video.m3u8?token=fqMofrKBZ7rUCK86
 #EXTINF:0,Кинохит
 #EXTGRP: кино
-https://jekalich.github.io/smtk/channels/kinoxit.m3u8
+http://cdn.admuspeh.my/8039/video.m3u8?token=fqMofrKBZ7rUCK86
 #EXTINF:0,Киномикс
 #EXTGRP: кино
 http://cdn.admuspeh.my/8040/video.m3u8?token=fqMofrKBZ7rUCK86
 #EXTINF:0,Киносемья
 #EXTGRP: кино
-https://jekalich.github.io/smtk/channels/kinosemiya.m3u8
+http://93.170.254.17/Kinosvidanie/index.m3u8
 
 
 #EXTINF:0,Kernel TV Интерны HD
