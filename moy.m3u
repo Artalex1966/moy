@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="http://gabbarit.epg.one/epg_1.xml.gz"
+
 #EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz, https://iptvx.one/EPG"
+
+
 
 #EXTINF:0,VF Музыкальный Новый год!
 #EXTGRP: Кино
@@ -178,7 +181,7 @@ http://cdn.admuspeh.my/8875/video.m3u8?token=fqMofrKBZ7rUCK86
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
-http://ott.server-iptv.live/1600/video.m3u8?token=Ceba8e4412
+http://ott.server-iptv.live/1600/video.m3u8?token=S793FB1732
 
 #EXTINF:0,TOP: USSR
 #EXTGRP: кино
@@ -246,13 +249,13 @@ http://cdn.admuspeh.my/8957/video.m3u8?token=fqMofrKBZ7rUCK86
 
 #EXTINF:0,CineMan Top
 #EXTGRP: кино
-http://ott.server-iptv.live/683/video.m3u8?token=Ceba8e4412
+http://ott.server-iptv.live/683/video.m3u8?token=S793FB1732
 #EXTINF:0,MM 007
 #EXTGRP: кино
 http://cdn.admuspeh.my/8327/video.m3u8?token=fqMofrKBZ7rUCK86
 #EXTINF:0,CineMan Premium
 #EXTGRP: кино
-http://ott.server-iptv.live/1664/video.m3u8?token=Ceba8e4412
+http://ott.server-iptv.live/1664/video.m3u8?token=S793FB1732
 #EXTINF:0,MM Боевик Classic HD
 #EXTGRP: кино
 http://cdn.admuspeh.my/8411/video.m3u8?token=fqMofrKBZ7rUCK86
@@ -261,10 +264,10 @@ http://cdn.admuspeh.my/8411/video.m3u8?token=fqMofrKBZ7rUCK86
 http://cdn.admuspeh.my/8745/video.m3u8?token=fqMofrKBZ7rUCK86
 #EXTINF:0,CineMan Thriller
 #EXTGRP: кино
-http://ott.server-iptv.live/686/video.m3u8?token=Ceba8e4412
+http://ott.server-iptv.live/686/video.m3u8?token=S793FB1732
 #EXTINF:0,CineMan Action
 #EXTGRP: кино
-http://ott.server-iptv.live/689/video.m3u8?token=Ceba8e4412
+http://ott.server-iptv.live/689/video.m3u8?token=S793FB1732
 #EXTINF:0,MM Фантастика HD
 #EXTGRP: кино
 http://cdn.admuspeh.my/8631/video.m3u8?token=fqMofrKBZ7rUCK86
@@ -285,7 +288,7 @@ https://tinyurl.com/aleks-u-romki-40/19293/index.m3u8
 
 #EXTINF:0,CineMan VHS
 #EXTGRP: кино
-http://ott.server-iptv.live/685/video.m3u8?token=Ceba8e4412
+http://ott.server-iptv.live/685/video.m3u8?token=S793FB1732
 #EXTINF:0,Видеокассета VHS
 #EXTGRP: кино
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
@@ -349,7 +352,7 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/p
 http://cdn.admuspeh.my/8893/video.m3u8?token=fqMofrKBZ7rUCK86
 #EXTINF:0,CineMan Сваты
 #EXTGRP: кино
-http://ott.server-iptv.live/684/video.m3u8?token=Ceba8e4412
+http://ott.server-iptv.live/684/video.m3u8?token=S793FB1732
 #EXTINF:0,VF Уральские пельмени
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-40/18198/index.m3u8
@@ -413,7 +416,7 @@ http://cdn.admuspeh.my/8618/video.m3u8?token=fqMofrKBZ7rUCK86
 http://gr.seetv.cc/play/6061/D70CC021CA87DF2/video.m3u8
 #EXTINF:0,CineMan РуКино
 #EXTGRP: Кино
-http://ott.server-iptv.live/687/video.m3u8?token=Ceba8e4412
+http://ott.server-iptv.live/687/video.m3u8?token=S793FB1732
 
 
 #EXTINF:0,Кинорейс
@@ -551,7 +554,7 @@ https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,CineMan Скорая помощь
 #EXTGRP: кино
-http://ott.server-iptv.live/694/video.m3u8?token=Ceba8e4412
+http://ott.server-iptv.live/694/video.m3u8?token=S793FB1732
 #EXTINF:0,VF Клиника
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-40/13094/index.m3u8
@@ -650,10 +653,10 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 http://178.212.71.253:8000/play/91/index.m3u8
 #EXTINF:0,История
 #EXTGRP: Познавательное
-http://ott.server-iptv.live/1403/video.m3u8?token=Ceba8e4412
+http://ott.server-iptv.live/1403/video.m3u8?token=S793FB1732
 #EXTINF:0,Авто 24
 #EXTGRP: Познавательное
-http://ott.server-iptv.live/408/video.m3u8?token=Ceba8e4412
+http://ott.server-iptv.live/408/video.m3u8?token=S793FB1732
 #EXTINF:0,Авто плюс
 #EXTGRP: Познавательное
 http://158.101.222.193:88/georgia_play.php?id=autoplus
@@ -753,7 +756,7 @@ http://95.66.188.74/O/mono.m3u8
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
-http://ott.server-iptv.live/510/video.m3u8?token=Ceba8e4412
+http://ott.server-iptv.live/510/video.m3u8?token=S793FB1732
 #EXTINF:0,Карусель
 #EXTGRP: Детский
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
@@ -866,4 +869,3 @@ http://iptv.prosto.tv:7000/ch325/video.m3u8
 http://cdn.admuspeh.my/8643/video.m3u8?token=fqMofrKBZ7rUCK86
 #EXTINF:0,MM ОТКРЫТИЯ
 http://cdn.admuspeh.my/8647/video.m3u8?token=fqMofrKBZ7rUCK86
-
