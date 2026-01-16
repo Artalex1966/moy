@@ -63,7 +63,7 @@ https://tinyurl.com/aleks-u-romki-40/18069/index.m3u8
 https://tinyurl.com/aleks-u-romki-47/18070/index.m3u8
 #EXTINF:0, VHS-ка
 #EXTGRP: кино
-http://95.66.188.74/VHS/index.m3u8
+http://cdn.admuspeh.my/8962/video.m3u8?token=Vg33dJnpXoUtVRAK
 #EXTINF:0,VHS-Касета
 #EXTGRP: кино
 http://195.9.195.3:8080/hls/176975.m3u8
