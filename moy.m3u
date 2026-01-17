@@ -196,7 +196,7 @@ http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Dom_Kino_premium.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2OTIwNzg3OCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjAzMDc4LCJzZXNzaW9uX2lkIjoiNDI5YjRhY2ExZTYwNzhiYjRiNWFkZmUzOTE4NzMxZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ocWR_EHoAMqhIiGdFr25B9Qfae3pw_YHOzgZ78uyfKo
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
-http://cdn.admuspeh.my/8310/video.m3u8?token=hz91VxaPZjCos8Vh
+http://cdn.admuspeh.my/8946/video.m3u8?token=hz91VxaPZjCos8Vh
 
 #EXTINF:0,Премиальное HD
 #EXTGRP: кино
@@ -213,9 +213,6 @@ http://cdn.admuspeh.my/8410/video.m3u8?token=hz91VxaPZjCos8Vh
 #EXTINF:0,MM Катастрофа
 #EXTGRP: кино
 http://cdn.admuspeh.my/8746/video.m3u8?token=hz91VxaPZjCos8Vh
-#EXTINF:0,MM Скорость HD
-#EXTGRP: кино
-http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
 #EXTINF:0,CineMan Катастрофы
 #EXTGRP: кино
 http://cdn.admuspeh.my/8957/video.m3u8?token=hz91VxaPZjCos8Vh
@@ -244,12 +241,6 @@ http://ott.server-iptv.live/689/video.m3u8?token=S793FB1732
 #EXTINF:0,MM Фантастика HD
 #EXTGRP: кино
 http://cdn.admuspeh.my/8631/video.m3u8?token=hz91VxaPZjCos8Vh
-#EXTINF:0,Clarity4K Фантастика
-#EXTGRP: кино
-http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
-#EXTINF:0,CPS Action
-#EXTGRP: кино
-http://hls127.freeott.top:8080/CPS_Action/video.m3u8
 
 
 ++++++++
@@ -259,27 +250,11 @@ http://hls127.freeott.top:8080/CPS_Action/video.m3u8
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-40/19293/index.m3u8
 
-#EXTINF:0,CineMan VHS
-#EXTGRP: кино
-http://ott.server-iptv.live/685/video.m3u8?token=S793FB1732
-#EXTINF:0,Видеокассета VHS
-#EXTGRP: кино
-https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
-#EXTINF:0,CineMan VHS
-#EXTGRP: кино
-http://cdn.admuspeh.my/8807/video.m3u8?token=hz91VxaPZjCos8Vh
-#EXTINF:0,BCU VHS HD
-#EXTGRP: кино
-http://46.224.1.162:80/Shamilbro/ShamsTV/1515.m3u8
 
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА
 #EXTGRP: кино
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 
-
-#EXTINF:0,1FILMAX
-#EXTGRP: кино
-http://195.9.195.3:8080/hls/204708.m3u8
 
 
 #EXTINF:0,MM Комедия Classic HD
@@ -366,36 +341,14 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/p
 #EXTGRP: кино
 https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2OTIwNzg3OCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjAzMDc4LCJzZXNzaW9uX2lkIjoiNDI5YjRhY2ExZTYwNzhiYjRiNWFkZmUzOTE4NzMxZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ocWR_EHoAMqhIiGdFr25B9Qfae3pw_YHOzgZ78uyfKo
 
-#EXTINF:0,Время
-#EXTGRP: кино
-http://31.148.48.15:80/Vremya/index.m3u8?token=test
 
 #EXTINF:0,MM Агата Кристи HD
 #EXTGRP: кино
 http://cdn.admuspeh.my/8618/video.m3u8?token=hz91VxaPZjCos8Vh
-#EXTINF:0,MM Агата Кристи HD
-#EXTGRP: кино
-http://gr.seetv.cc/play/6061/D70CC021CA87DF2/video.m3u8
 #EXTINF:0,CineMan РуКино
 #EXTGRP: Кино
 http://ott.server-iptv.live/687/video.m3u8?token=S793FB1732
 
-
-#EXTINF:0,Кинорейс
-#EXTGRP: кино
-https://stream.ushba.tv/akamaiushba/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:0,KinoMix Юрич
-#EXTGRP: кино
-http://195.9.195.3:8080/hls/216612.m3u8
-#EXTINF:0,Trash TV
-#EXTGRP: кино
-https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
-#EXTINF:0,MGM HD
-#EXTGRP: кино
-https://v2.catcast.tv/content/44051/index.m3u8
-#EXTINF:0,Logovo Films
-#EXTGRP: кино
-https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
 #EXTINF:0,SSAFilm
 #EXTGRP: кино
 https://fl1003.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
@@ -408,9 +361,6 @@ https://fl1003.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
 #EXTINF:0,Film Zone
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:0,Suspense 
-#EXTGRP: кино
-http://188.225.31.197/bpk-tv/000008739/tve/index.m3u8
 
 
 #EXTINF:0,Cinema
