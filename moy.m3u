@@ -50,7 +50,7 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3
 
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
-http://kino-1.catcast.tv/content/38617/index.m3u8?token=0ee1b810cb70fabf816a92c7fbac144a
+https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
@@ -70,7 +70,7 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.
 
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
-https://v2.catcast.tv/content/38720/index.m3u8?token=02da8342f0e725b15124c4ccc9d5e8ef
+https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Детское кино HD
 #EXTGRP: кино
 https://autopilot.catcast.tv/content/40427/index.m3u8
@@ -78,22 +78,22 @@ https://autopilot.catcast.tv/content/40427/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/13019/index.m3u8
+http://nl.m3u.life:9025/MM_USSR_COMEDY_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/13096/index.m3u8
+http://nl.m3u.life:9025/MM_USSR_DETEKTIV_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/13022/index.m3u8
+http://nl.m3u.life:9025/MM_USSR_FANTASTIKA_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/13018/index.m3u8
+http://nl.m3u.life:9025/MM_USSR_1941-1945_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/13060/index.m3u8
+http://nl.m3u.life:9025/MM_USSR_PRIKLUCHENIYA_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/13021/index.m3u8
+http://nl.m3u.life:9025/MM_USSR_SKAZKI_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:0,MM USSR Мультфильм HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-47/13020/index.m3u8
