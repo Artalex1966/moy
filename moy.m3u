@@ -63,7 +63,7 @@ https://tinyurl.com/aleks-u-romki-40/18069/index.m3u8
 https://tinyurl.com/aleks-u-romki-40/18070/index.m3u8
 #EXTINF:0, VHS-ка
 #EXTGRP: кино
-http://cdn.admuspeh.my/8962/video.m3u8?token=w8AT5yczJA2WKHY3
+http://ott.server-iptv.live/615/video.m3u8?token=S793FB1732
 #EXTINF:0,Ретро кино
 #EXTGRP: кино
 https://stream-msk-10.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2OTIwNzg3OCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjAzMDc4LCJzZXNzaW9uX2lkIjoiNDI5YjRhY2ExZTYwNzhiYjRiNWFkZmUzOTE4NzMxZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ocWR_EHoAMqhIiGdFr25B9Qfae3pw_YHOzgZ78uyfKo
@@ -225,16 +225,16 @@ http://cdn.admuspeh.my/8957/video.m3u8?token=w8AT5yczJA2WKHY3
 http://ott.server-iptv.live/683/video.m3u8?token=S793FB1732
 #EXTINF:0,MM 007
 #EXTGRP: кино
-http://cdn.admuspeh.my/8327/video.m3u8?token=w8AT5yczJA2WKHY3
+http://cdn-bal.srv4you.net/ru05/mpegts
 #EXTINF:0,CineMan Premium
 #EXTGRP: кино
 http://ott.server-iptv.live/1664/video.m3u8?token=S793FB1732
 #EXTINF:0,MM Боевик Classic HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8411/video.m3u8?token=w8AT5yczJA2WKHY3
+http://cdn-bal.srv4you.net/ru14/mpegts
 #EXTINF:0,MM Боевик
 #EXTGRP: кино
-http://cdn.admuspeh.my/8745/video.m3u8?token=w8AT5yczJA2WKHY3
+http://cdn-bal.srv4you.net/ru15/mpegts
 #EXTINF:0,CineMan Thriller
 #EXTGRP: кино
 http://ott.server-iptv.live/686/video.m3u8?token=S793FB1732
@@ -243,7 +243,7 @@ http://ott.server-iptv.live/686/video.m3u8?token=S793FB1732
 http://ott.server-iptv.live/689/video.m3u8?token=S793FB1732
 #EXTINF:0,MM Фантастика HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8631/video.m3u8?token=w8AT5yczJA2WKHY3
+http://cdn-bal.srv4you.net/ru45/mpegts
 
 
 ++++++++
@@ -263,9 +263,9 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
 http://cdn.admuspeh.my/8789/video.m3u8?token=w8AT5yczJA2WKHY3
-#EXTINF:0,CPS Comedy
+#EXTINF:0,MM Комедия HD
 #EXTGRP: кино
-http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
+http://cdn-bal.srv4you.net/ru23/mpegts
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2OTIwNzg3OCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjAzMDc4LCJzZXNzaW9uX2lkIjoiNDI5YjRhY2ExZTYwNzhiYjRiNWFkZmUzOTE4NzMxZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ocWR_EHoAMqhIiGdFr25B9Qfae3pw_YHOzgZ78uyfKo
