@@ -81,7 +81,7 @@ https://autopilot.catcast.tv/content/40427/index.m3u8
 https://tinyurl.com/aleks-u-romki-40/13019/index.m3u8
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/13096/index.m3u8
+http://cdn-bal.srv4you.net/ru09/mpegts
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-40/13022/index.m3u8
@@ -149,6 +149,9 @@ http://cdn.admuspeh.my/8795/video.m3u8?token=hz91VxaPZjCos8Vh
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 http://cdn.admuspeh.my/8875/video.m3u8?token=hz91VxaPZjCos8Vh
+#EXTINF:0,BCU СССР HD
+#EXTGRP: кино
+http://cdn-bal.srv4you.net/0418/mpegts
 #EXTINF:0,Сов.Ком
 #EXTGRP: кино
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
@@ -164,7 +167,7 @@ https://tinyurl.com/aleks-u-romki-40/13005/index.m3u8
 http://cdn.admuspeh.my/8445/video.m3u8?token=hz91VxaPZjCos8Vh
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-47/11061/index.m3u8
+https://tinyurl.com/aleks-u-romki-40/11061/index.m3u8
 #EXTINF:0,YOSSO TV Советские фильмы
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-47/14175/index.m3u8
@@ -196,7 +199,7 @@ http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Dom_Kino_premium.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2OTIwNzg3OCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjAzMDc4LCJzZXNzaW9uX2lkIjoiNDI5YjRhY2ExZTYwNzhiYjRiNWFkZmUzOTE4NzMxZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ocWR_EHoAMqhIiGdFr25B9Qfae3pw_YHOzgZ78uyfKo
 #EXTINF:0,Любимое кино
 #EXTGRP: кино
-http://cdn.admuspeh.my/8946/video.m3u8?token=hz91VxaPZjCos8Vh
+http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 
 #EXTINF:0,Премиальное HD
 #EXTGRP: кино
@@ -209,10 +212,10 @@ http://cdn.admuspeh.my/8028/video.m3u8?token=hz91VxaPZjCos8Vh
 http://cdn.admuspeh.my/8545/video.m3u8?token=hz91VxaPZjCos8Vh
 #EXTINF:0,MM UFO
 #EXTGRP: кино
-http://cdn.admuspeh.my/8410/video.m3u8?token=hz91VxaPZjCos8Vh
+http://cdn-bal.srv4you.net/ru07/mpegts
 #EXTINF:0,MM Катастрофа
 #EXTGRP: кино
-http://cdn.admuspeh.my/8746/video.m3u8?token=hz91VxaPZjCos8Vh
+http://cdn-bal.srv4you.net/ru20/mpegts
 #EXTINF:0,CineMan Катастрофы
 #EXTGRP: кино
 http://cdn.admuspeh.my/8957/video.m3u8?token=hz91VxaPZjCos8Vh
