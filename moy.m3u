@@ -262,7 +262,7 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://cdn.admuspeh.my/8789/video.m3u8?token=hz91VxaPZjCos8Vh
 #EXTINF:0,MM Комедия HD
 #EXTGRP: кино
-http://cdn-bal.srv4you.net/ru23/mpegts
+http://cdn.admuspeh.my/8708/video.m3u8?token=hz91VxaPZjCos8Vh
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2OTIwNzg3OCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjAzMDc4LCJzZXNzaW9uX2lkIjoiNDI5YjRhY2ExZTYwNzhiYjRiNWFkZmUzOTE4NzMxZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ocWR_EHoAMqhIiGdFr25B9Qfae3pw_YHOzgZ78uyfKo
@@ -783,6 +783,6 @@ http://185.57.68.33:8091/232/index.m3u8
 http://iptv.prosto.tv:7000/ch325/video.m3u8
 
 #EXTINF:0,MM Experiment HD
-http://cdn-bal.srv4you.net/ru65/mpegts
+https://tinyurl.com/aleks-u-romki-47/19412/index.m3u8
 #EXTINF:0,MM ОТКРЫТИЯ
-http://cdn-bal.srv4you.net/ru65/mpegts
+https://tinyurl.com/aleks-u-romki-47/19415/index.m3u8
