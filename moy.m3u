@@ -733,13 +733,13 @@ http://cdn.admuspeh.my/9074/video.m3u8?token=hz91VxaPZjCos8Vh
 =============
 #EXTINF:0,Музыка 1 International
 #EXTGRP: Музыка
-http://kino-1.catcast.tv/content/37745/index.m3u8
+https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:0,Музыка 2 International
 #EXTGRP: Музыка
-http://kino-1.catcast.tv/content/37742/index.m3u8
+https://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:0,Музыка Кино International
 #EXTGRP: Музыка
-http://kino-1.catcast.tv/content/37739/index.m3u8
+https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:0,Dancehits 80
 #EXTGRP: Музыка
 http://dancehits80.denvs.ru:8080/index.m3u8
