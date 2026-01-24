@@ -61,10 +61,15 @@ https://tinyurl.com/aleks-u-romki-40/18069/index.m3u8
 #EXTINF:0,Кино 2
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-40/18070/index.m3u8
-#EXTINF:0, VHS-ка
+#EXTINF:0,VHS-ка
 #EXTGRP: кино
 http://cdn.admuspeh.my/8962/video.m3u8?token=hz91VxaPZjCos8Vh
-
+#EXTINF:0,VHS-ка
+#EXTGRP: кино
+http://ott.server-iptv.live/615/video.m3u8?token=S793FB1732
+#EXTINF:0,Kino Mix
+#EXTGRP: кино
+https://kino-stream.online/hls/kinomix.m3u8
 
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
@@ -146,7 +151,7 @@ http://cdn.admuspeh.my/9121/video.m3u8?token=hz91VxaPZjCos8Vh
 http://cdn.admuspeh.my/8795/video.m3u8?token=hz91VxaPZjCos8Vh
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8875/video.m3u8?token=hz91VxaPZjCos8Vh
+https://tinyurl.com/aleks-u-romki-40/11026/index.m3u8
 #EXTINF:0,Сов.Ком
 #EXTGRP: кино
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
@@ -154,7 +159,7 @@ https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTGRP: кино
 http://ott.server-iptv.live/1600/video.m3u8?token=S793FB1732
 
-#EXTINF:0,TOP: USSR
+#EXTINF:0,TOP USSR HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-40/13005/index.m3u8
 #EXTINF:0,Fresh Soviet
@@ -181,11 +186,11 @@ https://stream-msk-05.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.
 
 #EXTINF:0,Ретро
 #EXTGRP: кино
-http://cdn.admuspeh.my/8331/video.m3u8?token=hz91VxaPZjCos8Vh
+http://tinyurl.com/TvZaTak35/Retro/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Иллюзион +
 #EXTGRP: кино
-http://158.101.222.193:88/georgia_play.php?id=illuzionplus
+http://188.225.31.197/bpk-tv/000004582/tve/index.m3u8
 #EXTINF:0,Дом кино
 #EXTGRP: кино
 http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2OTIwNzg3OCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjAzMDc4LCJzZXNzaW9uX2lkIjoiNDI5YjRhY2ExZTYwNzhiYjRiNWFkZmUzOTE4NzMxZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ocWR_EHoAMqhIiGdFr25B9Qfae3pw_YHOzgZ78uyfKo
