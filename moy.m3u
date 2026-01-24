@@ -56,17 +56,17 @@ http://185.218.19.43:8081/hls/Kino_1_int/playlist.m3u8
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:0,Кино 1
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/18069/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/18069/index.m3u8
 
 #EXTINF:0,Кино 2
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/18070/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/18070/index.m3u8
 #EXTINF:0,VHS-ка
 #EXTGRP: кино
 http://cdn.admuspeh.my/8962/video.m3u8?token=hz91VxaPZjCos8Vh
 #EXTINF:0,VHS-ка
 #EXTGRP: кино
-http://ott.server-iptv.live/615/video.m3u8?token=S793FB1732
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=726&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:0,Kino Mix
 #EXTGRP: кино
 https://kino-stream.online/hls/kinomix.m3u8
@@ -81,25 +81,25 @@ https://autopilot.catcast.tv/content/40427/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/13019/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/13019/index.m3u8
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/13096/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/13096/index.m3u8
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/13022/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/13022/index.m3u8
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/13018/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/13018/index.m3u8
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/13060/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/13060/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/13021/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/13021/index.m3u8
 #EXTINF:0,MM USSR Мультфильм HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/13020/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/13020/index.m3u8
 
 #EXTINF:0,IPTVPLAY ПАМЯТЬ
 #EXTGRP: кино
@@ -151,7 +151,7 @@ http://cdn.admuspeh.my/9121/video.m3u8?token=hz91VxaPZjCos8Vh
 http://cdn.admuspeh.my/8795/video.m3u8?token=hz91VxaPZjCos8Vh
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/11026/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/11026/index.m3u8
 #EXTINF:0,Сов.Ком
 #EXTGRP: кино
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
@@ -161,23 +161,23 @@ http://ott.server-iptv.live/1600/video.m3u8?token=S793FB1732
 
 #EXTINF:0,TOP USSR HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/13005/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/13005/index.m3u8
 #EXTINF:0,Fresh Soviet
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/19301/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/19301/index.m3u8
 #EXTINF:0,Кинозал! СССР
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/11061/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/11061/index.m3u8
 #EXTINF:0,YOSSO TV Советские фильмы
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/14175/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/14175/index.m3u8
 
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/10085/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/10085/index.m3u8
 #EXTINF:0,StrahTV СССР
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/11061/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/11061/index.m3u8
 
 
 #EXTINF:0,Любимое HD
@@ -251,7 +251,7 @@ http://cdn.admuspeh.my/8631/video.m3u8?token=hz91VxaPZjCos8Vh
 
 #EXTINF:0,Fresh VHS
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/19293/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/19293/index.m3u8
 
 
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА
@@ -295,7 +295,7 @@ http://cdn.admuspeh.my/8893/video.m3u8?token=hz91VxaPZjCos8Vh
 http://ott.server-iptv.live/684/video.m3u8?token=S793FB1732
 #EXTINF:0,VF Уральские пельмени
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/18198/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/18198/index.m3u8
 
 #EXTINF:0,Кинопоказ HD
 #EXTGRP: кино
@@ -474,21 +474,21 @@ https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 https://tinyurl.com/SaSha-28/15100/index.m3u8
 #EXTINF:0,VF Клиника
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/13094/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/13094/index.m3u8
 #EXTINF:0,The X-Files
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/11055/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/11055/index.m3u8
 #EXTINF:0,VF Доктор Хаус
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/17016/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/17016/index.m3u8
 #EXTINF:0,VF Теория большого взрыва
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/15009/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/15009/index.m3u8
 
 
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/17006/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 https://tinyurl.com/SaSha-78/17006/index.m3u8
@@ -509,13 +509,13 @@ http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/14230/index.m3u8
 
 #EXTINF:0,VF Реальные пацаны
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/17015/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/17015/index.m3u8
 #EXTINF:0,VF Реальные пацаны
 #EXTGRP: кино
 http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/17015/index.m3u8
 #EXTINF:0,VF Универ новая общага
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/17013/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/17013/index.m3u8
 #EXTINF:0,VF Универ новая общага
 #EXTGRP: кино
 http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/17013/index.m3u8
@@ -525,10 +525,10 @@ http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/17013/index.m3u8
 http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/13082/index.m3u8
 #EXTINF:0,VF Тайны следствия
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/13082/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/13082/index.m3u8
 #EXTINF:0,VF Воронены
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/13083/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/13083/index.m3u8
 
 
 
@@ -784,6 +784,6 @@ http://185.57.68.33:8091/232/index.m3u8
 http://iptv.prosto.tv:7000/ch325/video.m3u8
 
 #EXTINF:0,MM Experiment HD
-https://tinyurl.com/aleks-u-romki-40/19412/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/19412/index.m3u8
 #EXTINF:0,MM ОТКРЫТИЯ
-https://tinyurl.com/aleks-u-romki-40/19415/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/19415/index.m3u8
