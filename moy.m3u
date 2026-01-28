@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://gabbarit.epg.one/epg_1.xml.gz"
+#EXTM3U x-tvg-url="http://gabbarit.drm-play.com/epg_1.xml.gz"
 
 #EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz, https://iptvx.one/EPG"
 
@@ -535,7 +535,7 @@ https://tinyurl.com/aleks-u-romki-57/13083/index.m3u8
 ==========
 #EXTINF:0,Galaxy
 #EXTGRP: Познавательное
-http://tmptv.sunduk.tv/CH445/index.m3u8
+http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
 #EXTINF:0,Galaxy
 #EXTGRP: Познавательное
 http://195.26.83.96:7007/play/a00j/index.m3u8
@@ -566,21 +566,15 @@ http://stream-msk-10.ott.tricolor.tv/dtv/id653_MSKSG-PVR-1--Nauka_HD/03/plst.m3u
 #EXTGRP: Познавательное
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:0,Усадьба
-#EXTGRP: Познавательное
-http://178.212.71.253:8000/play/91/index.m3u8
 #EXTINF:0,История
 #EXTGRP: Познавательное
-http://ott.server-iptv.live/1403/video.m3u8?token=S793FB1732
+https://stream-msk-04.ott.tricolor.tv/dtv/id259_MSKSG-PVR-1--Istoriya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2OTgxMjA5MSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MjA3MjkxLCJzZXNzaW9uX2lkIjoiNjAzZDBiNDkxYTk1YTA0MDgzNmRhNTUyMjU0MDdkYjAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ke6Fk_47_aMoE8MfP6L3I6NnF6Pxar7NF3IjG5gott4
 #EXTINF:0,Авто 24
 #EXTGRP: Познавательное
-http://ott.server-iptv.live/408/video.m3u8?token=S793FB1732
+http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
 #EXTINF:0,Авто плюс
 #EXTGRP: Познавательное
 http://158.101.222.193:88/georgia_play.php?id=autoplus
-#EXTINF:0,Бобёр
-#EXTGRP: Познавательное
-http://95.66.188.74/Bober/mono.m3u8
 
 ======================
 
@@ -744,19 +738,7 @@ http://185.218.19.43:8081/hls/Muzyka_Kino_int/playlist.m3u8
 #EXTINF:0,Dancehits 80
 #EXTGRP: Музыка
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:0,Now 80's
-#EXTGRP: Музыка
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0,Now 90's
-#EXTGRP: Музыка
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0,Stingray Remember the 80s
-#EXTGRP: Музыка
-https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:0,Ретро Волна
-#EXTGRP: Музыка
-http://srvru.play-x.ru/channel/687d8713/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 ========
 
 #EXTINF:0,Gameplay
