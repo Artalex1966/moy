@@ -67,13 +67,16 @@ http://s.only4.tv/9658/video.m3u8?token=tUQhQrkBPo
 #EXTINF:0,VHS-ка
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=726&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:0,Kino Mix
+#EXTINF:0,SeleCaoTV 1
 #EXTGRP: кино
-https://kino-stream.online/hls/kinomix.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
 
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
 http://185.218.19.43:8081/hls/Detskoe_Kino_int/playlist.m3u8
+#EXTINF:0,Детское кино
+#EXTGRP: кино
+https://autopilot.catcast.tv/content/40427/index.m3u8
 #EXTINF:0,TVPlay Детское кино HD
 #EXTGRP: кино
 http://s.only4.tv/10852/video.m3u8?token=tUQhQrkBPo
@@ -143,9 +146,9 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2OTgxMjA5MSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MjA3MjkxLCJzZXNzaW9uX2lkIjoiNjAzZDBiNDkxYTk1YTA0MDgzNmRhNTUyMjU0MDdkYjAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ke6Fk_47_aMoE8MfP6L3I6NnF6Pxar7NF3IjG5gott4
 
-#EXTINF:0,CineMan СССР
+#EXTINF:0,Dosug СССР HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/9121/video.m3u8?token=fqMofrKBZ7rUCK86
+https://tinyurl.com/aleks-u-romki-57/14218/index.m3u8
 #EXTINF:0,CPS USSR
 #EXTGRP: кино
 http://s.only4.tv/7658/video.m3u8?token=tUQhQrkBPo
@@ -265,7 +268,7 @@ http://s.only4.tv/9374/video.m3u8?token=tUQhQrkBPo
 
 #EXTINF:0,MM Комедия Classic HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8789/video.m3u8?token=fqMofrKBZ7rUCK86
+https://tinyurl.com/aleks-u-romki-57/13037/index.m3u8
 #EXTINF:0,MM Комедия HD
 #EXTGRP: кино
 http://cdn.admuspeh.my/8708/video.m3u8?token=fqMofrKBZ7rUCK86
