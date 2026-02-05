@@ -67,9 +67,9 @@ http://s.only4.tv/9658/video.m3u8?token=SowFU8pkSB
 #EXTINF:0,VHS-ка
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=726&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:0,SeleCaoTV 1
+#EXTINF:0,Kino Walk
 #EXTGRP: кино
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
+http://kinowalk.hopto.org/kinowalk_live
 
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
