@@ -146,6 +146,9 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MDQxNjk4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY5ODEyMTgwLCJzZXNzaW9uX2lkIjoiZGE0ZTJkOTg3Y2NhYWZjYjIzNjdmZDQyZWYwZDBiZTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Rn3PQWs4iy_xBodleHgjEEDD0GGckyJHsgVesKoe5_Q
 
+#EXTINF:0,VF Классика
+#EXTGRP: кино
+http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/10053/index.m3u
 #EXTINF:0,Dosug СССР HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/14218/index.m3u8
@@ -213,15 +216,15 @@ http://cdn.admuspeh.my/8028/video.m3u8?token=fqMofrKBZ7rUCK86
 
 ---
 
-#EXTINF:0,MM Киберпанк HD
+#EXTINF:0,BCU SURVIVAL HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8545/video.m3u8?token=fqMofrKBZ7rUCK86
-#EXTINF:0,MM UFO
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=702&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:0,VF Fantastic
 #EXTGRP: кино
-http://cdn.admuspeh.my/8410/video.m3u8?token=fqMofrKBZ7rUCK86
-#EXTINF:0,MM Катастрофа
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1581.m3u8
+#EXTINF:0,BCU Catastrophe HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8746/video.m3u8?token=fqMofrKBZ7rUCK86
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=591&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:0,CineMan Катастрофы
 #EXTGRP: кино
 http://cdn.admuspeh.my/8957/video.m3u8?token=fqMofrKBZ7rUCK86
@@ -324,7 +327,7 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id995_MSKSG-PVR-1--Kinopokaz_2/02/plst
 https://stream-msk-10.ott.tricolor.tv/dtv/id277_MSKSG-PVR-1--Ostrosuzhetnoe/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MDQxNjk4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY5ODEyMTgwLCJzZXNzaW9uX2lkIjoiZGE0ZTJkOTg3Y2NhYWZjYjIzNjdmZDQyZWYwZDBiZTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Rn3PQWs4iy_xBodleHgjEEDD0GGckyJHsgVesKoe5_Q
 #EXTINF:0,Кино ТВ
 #EXTGRP: кино
-http://cdn.admuspeh.my/8207/video.m3u8?token=fqMofrKBZ7rUCK86
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:0,FAN HD
 #EXTGRP: кино
 http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MDQxNjk4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY5ODEyMTgwLCJzZXNzaW9uX2lkIjoiZGE0ZTJkOTg3Y2NhYWZjYjIzNjdmZDQyZWYwZDBiZTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Rn3PQWs4iy_xBodleHgjEEDD0GGckyJHsgVesKoe5_Q
@@ -332,7 +335,7 @@ http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?
 
 #EXTINF:0,Русский детектив
 #EXTGRP: кино
-http://46.224.1.162:80/Shamilbro/ShamsTV/5147.m3u8
+http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 #EXTINF:0,Русский бестселлер
 #EXTGRP: кино
 http://stream-msk-04.ott.tricolor.tv/dtv/id517_MSKSG-PVR-1--Rus_Bests/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MDQxNjk4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY5ODEyMTgwLCJzZXNzaW9uX2lkIjoiZGE0ZTJkOTg3Y2NhYWZjYjIzNjdmZDQyZWYwZDBiZTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Rn3PQWs4iy_xBodleHgjEEDD0GGckyJHsgVesKoe5_Q
@@ -341,7 +344,7 @@ http://stream-msk-04.ott.tricolor.tv/dtv/id517_MSKSG-PVR-1--Rus_Bests/03/plst.m3
 http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MDQxNjk4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY5ODEyMTgwLCJzZXNzaW9uX2lkIjoiZGE0ZTJkOTg3Y2NhYWZjYjIzNjdmZDQyZWYwZDBiZTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Rn3PQWs4iy_xBodleHgjEEDD0GGckyJHsgVesKoe5_Q
 #EXTINF:0,Русский Иллюзион
 #EXTGRP: кино
-http://cdn.admuspeh.my/8132/video.m3u8?token=fqMofrKBZ7rUCK86
+http://185.46.16.239:8000/Russkiy_Illyuzion
 
 
 #EXTINF:0,ЖЕНСКИЙ ДЕТЕКТИВ
@@ -354,7 +357,7 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/p
 
 #EXTINF:0,MM Агата Кристи HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8618/video.m3u8?token=fqMofrKBZ7rUCK86
+http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/13024/index.m3u
 #EXTINF:0,КОЛОМБО
 #EXTGRP: кино
 http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/31713/index.m3u
@@ -423,9 +426,9 @@ http://cdn.admuspeh.my/8040/video.m3u8?token=fqMofrKBZ7rUCK86
 http://93.170.254.17/Kinosvidanie/index.m3u8
 
 
-#EXTINF:0,Kernel TV Интерны HD
+#EXTINF:0,VF Клиника
 #EXTGRP: кино
-http://cdn.admuspeh.my/9061/video.m3u8?token=fqMofrKBZ7rUCK86
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1597.m3u8
 #EXTINF:0,ИНТЕРНЫ
 #EXTGRP: кино
 http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -513,6 +516,9 @@ https://tinyurl.com/aleks-u-romki-61/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/17006/index.m3u
+#EXTINF:0,VF Друзья
+#EXTGRP: кино
+https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1604.m3u8
 
 
 #EXTINF:0,VF Гарри Поттер
