@@ -57,16 +57,18 @@ http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:0,Кино 1
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/18069/index.m3u8
-
 #EXTINF:0,Кино 2
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/18070/index.m3u8
+#EXTINF:0,Военное кино
+#EXTGRP: кино
+http://allway.space/iptv/users/Sky/953.m3u8
 #EXTINF:0,VHS-ка
 #EXTGRP: кино
 http://s.only4.tv/9658/video.m3u8?token=jZqqvnnqCs
-#EXTINF:0,VHS-ка
+#EXTINF:0,VF VHS MIX
 #EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=726&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://allway.space/iptv/users/Sky/605.m3u8
 #EXTINF:0,Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
@@ -76,7 +78,7 @@ http://kinowalk.hopto.org/kinowalk_live
 http://185.218.19.43:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:0,Детское кино
 #EXTGRP: кино
-https://autopilot.catcast.tv/content/40427/index.m3u8
+https://captaintv.space/iptv/users/Vladimir/fDTKrH.m3u8
 #EXTINF:0,TVPlay Детское кино HD
 #EXTGRP: кино
 http://s.only4.tv/10852/video.m3u8?token=jZqqvnnqCs
@@ -163,7 +165,7 @@ https://tinyurl.com/aleks-u-romki-57/11026/index.m3u8
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
-http://ott.server-iptv.live/1600/video.m3u8?token=S793FB1732
+http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/31643/index.m3u
 
 #EXTINF:0,TOP USSR HD
 #EXTGRP: кино
@@ -177,6 +179,13 @@ https://tinyurl.com/aleks-u-romki-57/11061/index.m3u8
 #EXTINF:0,YOSSO TV Советские фильмы
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/14175/index.m3u8
+
+#EXTINF:0,TOP USSR HD
+#EXTGRP: кино
+https://captaintv.space/iptv/users/Vladimir/bNXhDh.m3u8
+#EXTINF:0,BOX СССР 4K
+#EXTGRP: кино
+http://allway.space/iptv/users/Sky/353.m3u8
 
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
@@ -210,9 +219,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Dom_Kino_
 #EXTGRP: кино
 http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 
-#EXTINF:0,Премиальное HD
-#EXTGRP: кино
-http://cdn.admuspeh.my/8028/video.m3u8?token=fqMofrKBZ7rUCK86
+
 
 ---
 
@@ -246,13 +253,13 @@ https://tinyurl.com/aleks-u-romki-57/13027/index.m3u8
 https://tinyurl.com/aleks-u-romki-57/13028/index.m3u8
 #EXTINF:0,CineMan Thriller
 #EXTGRP: кино
-http://ott.server-iptv.live/686/video.m3u8?token=S793FB1732
-#EXTINF:0,CineMan Action
+http://allway.space/iptv/users/Sky/628.m3u8
+#EXTINF:0,CineMan Premium
 #EXTGRP: кино
-http://ott.server-iptv.live/689/video.m3u8?token=S793FB1732
+http://allway.space/iptv/users/Sky/395.m3u8
 #EXTINF:0,MM Фантастика HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8631/video.m3u8?token=fqMofrKBZ7rUCK86
+http://allway.space/iptv/users/Sky/764.m3u8
 
 
 ++++++++
@@ -274,7 +281,7 @@ http://s.only4.tv/9374/video.m3u8?token=jZqqvnnqCs
 https://tinyurl.com/aleks-u-romki-57/13037/index.m3u8
 #EXTINF:0,MM Комедия HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8708/video.m3u8?token=fqMofrKBZ7rUCK86
+http://allway.space/iptv/users/Sky/740.m3u8
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MDQxNjk4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY5ODEyMTgwLCJzZXNzaW9uX2lkIjoiZGE0ZTJkOTg3Y2NhYWZjYjIzNjdmZDQyZWYwZDBiZTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Rn3PQWs4iy_xBodleHgjEEDD0GGckyJHsgVesKoe5_Q
@@ -283,7 +290,7 @@ http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u
 https://stream-msk-14.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MDQxNjk4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY5ODEyMTgwLCJzZXNzaW9uX2lkIjoiZGE0ZTJkOTg3Y2NhYWZjYjIzNjdmZDQyZWYwZDBiZTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Rn3PQWs4iy_xBodleHgjEEDD0GGckyJHsgVesKoe5_Q
 #EXTINF:0,Кинокомедия
 #EXTGRP: кино
-http://cdn.admuspeh.my/8042/video.m3u8?token=fqMofrKBZ7rUCK86
+http://allway.space/iptv/users/Sky/574.m3u8
 #EXTINF:0,Камеди
 #EXTGRP: кино
 http://stream-msk-08.ott.tricolor.tv/dtv/id642_MSKSG-PVR-1--Kamedi_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MDQxNjk4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY5ODEyMTgwLCJzZXNzaW9uX2lkIjoiZGE0ZTJkOTg3Y2NhYWZjYjIzNjdmZDQyZWYwZDBiZTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Rn3PQWs4iy_xBodleHgjEEDD0GGckyJHsgVesKoe5_Q
@@ -304,10 +311,10 @@ http://s.only4.tv/10193/video.m3u8?token=jZqqvnnqCs
 http://s.only4.tv/9372/video.m3u8?token=jZqqvnnqCs
 #EXTINF:0,MM Сваты HD
 #EXTGRP: кино
-http://cdn.admuspeh.my/8893/video.m3u8?token=fqMofrKBZ7rUCK86
+http://allway.space/iptv/users/Sky/753.m3u8
 #EXTINF:0,CineMan Сваты
 #EXTGRP: кино
-http://ott.server-iptv.live/684/video.m3u8?token=S793FB1732
+http://allway.space/iptv/users/Sky/635.m3u8
 #EXTINF:0,VF Уральские пельмени
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/18198/index.m3u8
@@ -414,7 +421,7 @@ http://tv.ttk.mx:9165
 http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
-http://tv.ttk.mx:9162
+http://allway.space/iptv/users/Sky/513.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
 http://158.101.222.193:88/georgia_play.php?id=kinohit
@@ -658,22 +665,14 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 http://45.145.32.13:20440/sony_turbo/index.m3u8?token=test
 #EXTINF:0,Том и Джерри
 #EXTGRP: Детский
-http://cdn.admuspeh.my/9033/video.m3u8?token=fqMofrKBZ7rUCK86
+http://allway.space/iptv/users/Sky/1669.m3u8
 #EXTINF:0,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:0,Kernel TV Утиные истории HD
+#EXTINF:0,CineMan Cartoons 90
 #EXTGRP: Детский
-http://cdn.admuspeh.my/9087/video.m3u8?token=fqMofrKBZ7rUCK86
-#EXTINF:0,Kernel TV Чёрный плащ HD
-#EXTGRP: Детский
-http://cdn.admuspeh.my/9095/video.m3u8?token=fqMofrKBZ7rUCK86
-#EXTINF:0,Kernel TV Тимон и Пумба HD
-#EXTGRP: Детский
-http://cdn.admuspeh.my/9085/video.m3u8?token=fqMofrKBZ7rUCK86
-#EXTINF:0,Kernel TV Аладдин HD
-#EXTGRP: Детский
-http://cdn.admuspeh.my/9021/video.m3u8?token=fqMofrKBZ7rUCK86
+http://allway.space/iptv/users/Sky/1633.m3u8
+
 #EXTINF:0,КИНОМУЛЬТ
 #EXTGRP: Детский
 https://stream-msk-17.ott.tricolor.tv/dtv/id944_MSKSG-PVR-1--KinoMult_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MDQxNjk4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY5ODEyMTgwLCJzZXNzaW9uX2lkIjoiZGE0ZTJkOTg3Y2NhYWZjYjIzNjdmZDQyZWYwZDBiZTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Rn3PQWs4iy_xBodleHgjEEDD0GGckyJHsgVesKoe5_Q
@@ -695,7 +694,7 @@ http://95.66.188.74/O/mono.m3u8
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
-http://ott.server-iptv.live/510/video.m3u8?token=S793FB1732
+http://allway.space/iptv/users/Sky/1613.m3u8
 #EXTINF:0,Карусель
 #EXTGRP: Детский
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
@@ -707,7 +706,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:0,Уникум
 #EXTGRP: Детский
-http://cdn.admuspeh.my/8067/video.m3u8?token=fqMofrKBZ7rUCK86
+http://allway.space/iptv/users/Sky/1589.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
 http://95.66.188.74/Mult_HD/mono.m3u8
@@ -741,15 +740,6 @@ http://ru.russkoe-iptv.com:8080/s/c4630b21/ljova-hd.m3u8
 #EXTINF:0,Мамонтёнок
 #EXTGRP: Детский
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
-#EXTINF:0,Kernel TV Фиксики HD
-#EXTGRP: Детский
-http://cdn.admuspeh.my/9088/video.m3u8?token=fqMofrKBZ7rUCK86
-#EXTINF:0,Kernel TV Царевны HD
-#EXTGRP: Детский
-http://cdn.admuspeh.my/9091/video.m3u8?token=fqMofrKBZ7rUCK86
-#EXTINF:0,Kernel TV Ми-ми-мишки HD
-#EXTGRP: Детский
-http://cdn.admuspeh.my/9074/video.m3u8?token=fqMofrKBZ7rUCK86
 
 
 =============
