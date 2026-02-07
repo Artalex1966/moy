@@ -135,7 +135,10 @@ http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m
 https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MTAyMTg4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcwNDE3MDgwLCJzZXNzaW9uX2lkIjoiNzc4MzZjYmQ5OGQwNjE3YzcxYzE0MjY1NzgxMmM3MjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ThSM7vjZODYi1yZ6FqDTIILEfc8QDHimlwmLoM7yWmk
 #EXTINF:0,TVPlay Великая Отечественная HD
 #EXTGRP: кино
-http://s.only4.tv/10851/video.m3u8?token=jZqqvnnqCs
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0,VF Военные
+#EXTGRP: кино
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMHV8wubWXTMMvIQTIZG_94/m3u8
 #EXTINF:0,Патриот
 #EXTGRP: кино
 https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MTAyMTg4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcwNDE3MDgwLCJzZXNzaW9uX2lkIjoiNzc4MzZjYmQ5OGQwNjE3YzcxYzE0MjY1NzgxMmM3MjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ThSM7vjZODYi1yZ6FqDTIILEfc8QDHimlwmLoM7yWmk
@@ -264,8 +267,7 @@ https://tinyurl.com/aleks-u-romki-57/19293/index.m3u8
 
 #EXTINF:0,TVPlay Фантастика HD
 #EXTGRP: кино
-http://s.only4.tv/9374/video.m3u8?token=jZqqvnnqCs
-
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
 #EXTINF:0,MM Комедия Classic HD
