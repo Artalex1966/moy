@@ -46,7 +46,9 @@ http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MTAyMTg4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcwNDE3MDgwLCJzZXNzaW9uX2lkIjoiNzc4MzZjYmQ5OGQwNjE3YzcxYzE0MjY1NzgxMmM3MjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ThSM7vjZODYi1yZ6FqDTIILEfc8QDHimlwmLoM7yWmk
-
+#EXTINF:0,Мосфильм. Золотая коллекция (+4)
+#EXTGRP: кино
+http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/17022/index.m3u
 
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
@@ -65,7 +67,7 @@ https://tinyurl.com/aleks-u-romki-57/18070/index.m3u8
 http://allway.space/iptv/users/Sky/953.m3u8
 #EXTINF:0,VHS-ка
 #EXTGRP: кино
-http://s.only4.tv/9658/video.m3u8?token=jZqqvnnqCs
+http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/5006/index.m3u
 #EXTINF:0,VF VHS MIX
 #EXTGRP: кино
 http://allway.space/iptv/users/Sky/605.m3u8
@@ -79,10 +81,6 @@ http://185.218.19.43:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:0,Детское кино
 #EXTGRP: кино
 https://captaintv.space/iptv/users/Vladimir/fDTKrH.m3u8
-#EXTINF:0,TVPlay Детское кино HD
-#EXTGRP: кино
-http://s.only4.tv/10852/video.m3u8?token=jZqqvnnqCs
-
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -117,9 +115,6 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
 #EXTGRP: кино
 https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MTAyMTg4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcwNDE3MDgwLCJzZXNzaW9uX2lkIjoiNzc4MzZjYmQ5OGQwNjE3YzcxYzE0MjY1NzgxMmM3MjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ThSM7vjZODYi1yZ6FqDTIILEfc8QDHimlwmLoM7yWmk
-#EXTINF:0,Советские Мультфильмы
-#EXTGRP: кино
-http://cdn.voka.tv/live/3007-req_5k_v5.m3u8
 #EXTINF:0,Советское
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
