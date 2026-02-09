@@ -62,9 +62,12 @@ https://tinyurl.com/aleks-u-romki-57/18069/index.m3u8
 #EXTINF:0,Кино 2
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/18070/index.m3u8
-#EXTINF:0,VHS-ка
+#EXTINF:0,NEXT Blaze
 #EXTGRP: кино
-http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/5006/index.m3u
+http://cdn.iptvcinema.ru/nextblaze/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+#EXTINF:0,NEXT Volt
+#EXTGRP: кино
+http://cdn.iptvcinema.ru/nextvolt/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 
 #EXTINF:0,Kino Walk
 #EXTGRP: кино
@@ -170,7 +173,15 @@ https://tinyurl.com/aleks-u-romki-57/11061/index.m3u8
 #EXTINF:0,YOSSO TV Советские фильмы
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/14175/index.m3u8
-
+#EXTINF:0,OLSIB USSR 70
+#EXTGRP: кино
+http://cdn.iptvcinema.ru/olsib_ussr70/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+#EXTINF:0,OLSIB USSR 80
+#EXTGRP: кино
+http://cdn.iptvcinema.ru/olsib_ussr80/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+#EXTINF:0,OLSIB USSR Classic
+#EXTGRP: кино
+http://cdn.iptvcinema.ru/olsib_ussrclassic/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 
 
 #EXTINF:0,VF Фильмы СССР
@@ -179,7 +190,7 @@ https://tinyurl.com/aleks-u-romki-57/10085/index.m3u8
 #EXTINF:0,StrahTV СССР
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/11061/index.m3u8
-#EXTINF:0,KLI СССР HD
+#EXTINF:0,KLI Media СССР HD
 #EXTGRP: кино
 http://s.only4.tv/8040/video.m3u8?token=jZqqvnnqCs
 
