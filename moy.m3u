@@ -145,12 +145,6 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclass
 #EXTINF:0,VF Классика
 #EXTGRP: кино
 http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/10053/index.m3u
-#EXTINF:0,Dosug СССР HD
-#EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/14218/index.m3u8
-#EXTINF:0,CPS USSR
-#EXTGRP: кино
-http://s.only4.tv/7658/video.m3u8?token=jZqqvnnqCs
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/11026/index.m3u8
@@ -173,6 +167,9 @@ https://tinyurl.com/aleks-u-romki-57/11061/index.m3u8
 #EXTINF:0,YOSSO TV Советские фильмы
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/14175/index.m3u8
+#EXTINF:0,OLSIB USSR 60
+#EXTGRP: кино
+http://cdn.iptvcinema.ru/olsib_ussr60/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 #EXTINF:0,OLSIB USSR 70
 #EXTGRP: кино
 http://cdn.iptvcinema.ru/olsib_ussr70/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
@@ -182,6 +179,12 @@ http://cdn.iptvcinema.ru/olsib_ussr80/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFe
 #EXTINF:0,OLSIB USSR Classic
 #EXTGRP: кино
 http://cdn.iptvcinema.ru/olsib_ussrclassic/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+#EXTINF:0,DITV КОМЕДИИ СССР
+#EXTGRP: кино
+http://cdn.iptvcinema.ru/ditv_comedyussr/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+#EXTINF:0,DITV КОМЕДИИ 90-х
+#EXTGRP: кино
+http://cdn.iptvcinema.ru/ditv_comedy90/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 
 
 #EXTINF:0,VF Фильмы СССР
