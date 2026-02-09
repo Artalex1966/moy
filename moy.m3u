@@ -62,15 +62,10 @@ https://tinyurl.com/aleks-u-romki-57/18069/index.m3u8
 #EXTINF:0,Кино 2
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/18070/index.m3u8
-#EXTINF:0,Военное кино
-#EXTGRP: кино
-http://allway.space/iptv/users/Sky/953.m3u8
 #EXTINF:0,VHS-ка
 #EXTGRP: кино
 http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/5006/index.m3u
-#EXTINF:0,VF VHS MIX
-#EXTGRP: кино
-http://allway.space/iptv/users/Sky/605.m3u8
+
 #EXTINF:0,Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
@@ -136,9 +131,7 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 #EXTINF:0,TVPlay Великая Отечественная HD
 #EXTGRP: кино
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0,VF Военные
-#EXTGRP: кино
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMHV8wubWXTMMvIQTIZG_94/m3u8
+
 #EXTINF:0,Патриот
 #EXTGRP: кино
 https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MTAyMTg4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcwNDE3MDgwLCJzZXNzaW9uX2lkIjoiNzc4MzZjYmQ5OGQwNjE3YzcxYzE0MjY1NzgxMmM3MjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ThSM7vjZODYi1yZ6FqDTIILEfc8QDHimlwmLoM7yWmk
@@ -178,9 +171,7 @@ https://tinyurl.com/aleks-u-romki-57/11061/index.m3u8
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/14175/index.m3u8
 
-#EXTINF:0,BOX СССР 4K
-#EXTGRP: кино
-http://allway.space/iptv/users/Sky/353.m3u8
+
 
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
@@ -218,6 +209,9 @@ http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 
 ---
 
+#EXTINF:0,VeleS Movie Hits
+#EXTGRP: кино
+https://tinyurl.com/aleks-u-romki-57/31644/index.m3u8
 #EXTINF:0,BCU SURVIVAL HD
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=702&token=Ym9yeW43ODpMYW5jZXIxNg==
@@ -227,9 +221,7 @@ https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1581.m3u8
 #EXTINF:0,BCU Catastrophe HD
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=591&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:0,VF Катастрофы
-#EXTGRP: кино
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1568.m3u8
+
 
 #EXTINF:0,CineMan Top
 #EXTGRP: кино
@@ -246,15 +238,6 @@ https://tinyurl.com/aleks-u-romki-57/13027/index.m3u8
 #EXTINF:0,MM Боевик
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/13028/index.m3u8
-#EXTINF:0,CineMan Thriller
-#EXTGRP: кино
-http://allway.space/iptv/users/Sky/628.m3u8
-#EXTINF:0,CineMan Premium
-#EXTGRP: кино
-http://allway.space/iptv/users/Sky/395.m3u8
-#EXTINF:0,MM Фантастика HD
-#EXTGRP: кино
-http://allway.space/iptv/users/Sky/764.m3u8
 
 
 ++++++++
@@ -494,9 +477,6 @@ https://tinyurl.com/aleks-u-romki-57/13094/index.m3u8
 #EXTINF:0,The X-Files
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/11055/index.m3u8
-#EXTINF:0,VF The X-Files
-#EXTGRP: кино
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1600.m3u8
 #EXTINF:0,VF Доктор Хаус
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/17016/index.m3u8
@@ -520,9 +500,7 @@ https://tinyurl.com/aleks-u-romki-61/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/17006/index.m3u
-#EXTINF:0,VF Друзья
-#EXTGRP: кино
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1604.m3u8
+
 
 
 #EXTINF:0,VF Гарри Поттер
@@ -663,9 +641,7 @@ http://allway.space/iptv/users/Sky/1669.m3u8
 #EXTINF:0,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:0,CineMan Cartoons 90
-#EXTGRP: Детский
-http://allway.space/iptv/users/Sky/1633.m3u8
+
 
 #EXTINF:0,КИНОМУЛЬТ
 #EXTGRP: Детский
