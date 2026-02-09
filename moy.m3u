@@ -67,10 +67,10 @@ https://tinyurl.com/aleks-u-romki-57/18070/index.m3u8
 http://46.53.208.4:80/live/1123.m3u8
 #EXTINF:0,NEXT Blaze
 #EXTGRP: кино
-http://cdn.iptvcinema.ru/nextblaze/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+http://80.249.144.170/nextblaze/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 #EXTINF:0,NEXT Volt
 #EXTGRP: кино
-http://cdn.iptvcinema.ru/nextvolt/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+http://80.249.144.170/nextvolt/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 
 #EXTINF:0,Kino Walk
 #EXTGRP: кино
@@ -175,22 +175,22 @@ https://tinyurl.com/aleks-u-romki-57/11061/index.m3u8
 https://tinyurl.com/aleks-u-romki-57/14175/index.m3u8
 #EXTINF:0,OLSIB USSR 60
 #EXTGRP: кино
-http://cdn.iptvcinema.ru/olsib_ussr60/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+http://80.249.144.170/olsib_ussr60/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 #EXTINF:0,OLSIB USSR 70
 #EXTGRP: кино
-http://cdn.iptvcinema.ru/olsib_ussr70/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+http://80.249.144.170/olsib_ussr70/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 #EXTINF:0,OLSIB USSR 80
 #EXTGRP: кино
-http://cdn.iptvcinema.ru/olsib_ussr80/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+http://80.249.144.170/olsib_ussr80/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 #EXTINF:0,OLSIB USSR Classic
 #EXTGRP: кино
-http://cdn.iptvcinema.ru/olsib_ussrclassic/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+http://80.249.144.170/olsib_ussrclassic/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 #EXTINF:0,DITV КОМЕДИИ СССР
 #EXTGRP: кино
-http://cdn.iptvcinema.ru/ditv_comedyussr/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+http://80.249.144.170/ditv_comedyussr/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 #EXTINF:0,DITV КОМЕДИИ 90-х
 #EXTGRP: кино
-http://cdn.iptvcinema.ru/ditv_comedy90/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+http://80.249.144.170/ditv_comedy90/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 
 
 #EXTINF:0,VF Фильмы СССР
