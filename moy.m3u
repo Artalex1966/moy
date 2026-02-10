@@ -160,6 +160,9 @@ https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
 http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/31643/index.m3u
+#EXTINF:0,CPS USSR
+#EXTGRP: кино
+http://s.only4.tv/7658/video.m3u8?token=tUQhQrkBPo
 
 #EXTINF:0,TOP USSR HD
 #EXTGRP: кино
@@ -201,7 +204,7 @@ https://tinyurl.com/aleks-u-romki-57/10085/index.m3u8
 https://tinyurl.com/aleks-u-romki-57/11061/index.m3u8
 #EXTINF:0,KLI Media СССР HD
 #EXTGRP: кино
-http://s.only4.tv/8040/video.m3u8?token=jZqqvnnqCs
+http://s.only4.tv/8040/video.m3u8?token=tUQhQrkBPo
 
 
 #EXTINF:0,Любимое HD
@@ -248,7 +251,7 @@ http://list.onlinetv-sochi.ru:8080/live/channel.php?id=591&token=Ym9yeW43ODpMYW5
 https://tinyurl.com/aleks-u-romki-57/11005/index.m3u8
 #EXTINF:0,Кинозал! Bond 007
 #EXTGRP: кино
-http://s.only4.tv/9040/video.m3u8?token=jZqqvnnqCs
+http://s.only4.tv/9040/video.m3u8?token=tUQhQrkBPo
 #EXTINF:0,CineMan Action
 #EXTGRP: кино
 http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/11006/index.m3u8
@@ -302,10 +305,10 @@ http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MTAyMTg4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcwNDE3MDgwLCJzZXNzaW9uX2lkIjoiNzc4MzZjYmQ5OGQwNjE3YzcxYzE0MjY1NzgxMmM3MjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ThSM7vjZODYi1yZ6FqDTIILEfc8QDHimlwmLoM7yWmk
 #EXTINF:0,Моя Прекрасная Няня
 #EXTGRP: кино
-http://s.only4.tv/10193/video.m3u8?token=jZqqvnnqCs
+http://s.only4.tv/10193/video.m3u8?token=tUQhQrkBPo
 #EXTINF:0,VB Сваты
 #EXTGRP: кино
-http://s.only4.tv/9372/video.m3u8?token=jZqqvnnqCs
+http://s.only4.tv/9372/video.m3u8?token=tUQhQrkBPo
 #EXTINF:0,MM Сваты HD
 #EXTGRP: кино
 http://allway.space/iptv/users/Sky/753.m3u8
@@ -502,13 +505,13 @@ https://tinyurl.com/aleks-u-romki-57/11055/index.m3u8
 https://tinyurl.com/aleks-u-romki-57/17016/index.m3u8
 #EXTINF:0,TVPlay Игра Престолов HD
 #EXTGRP: кино
-http://s.only4.tv/9222/video.m3u8?token=jZqqvnnqCs
+http://s.only4.tv/9222/video.m3u8?token=tUQhQrkBPo
 #EXTINF:0,TVPlay Моя Прекрасная Няня
 #EXTGRP: кино
-http://s.only4.tv/10193/video.m3u8?token=jZqqvnnqCs
+http://s.only4.tv/10193/video.m3u8?token=tUQhQrkBPo
 #EXTINF:0,TVPlay Друзья HD
 #EXTGRP: кино
-http://s.only4.tv/9379/video.m3u8?token=jZqqvnnqCs
+http://s.only4.tv/9379/video.m3u8?token=tUQhQrkBPo
 
 
 #EXTINF:0,VF Друзья
@@ -624,7 +627,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
 #EXTINF:0,СТС Int
 #EXTGRP: эфир
-http://chiburator.monster:8000/play/jraWyZOx1HuMWl7gFqhADVz3bverStbExszEvoTqpZw/ts
+http://188.225.31.197/bpk-tv/000000428/tve/index.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
@@ -643,6 +646,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:0,Пятница! International
 #EXTGRP: эфир
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+#EXTINF:0,Пятница! International
+#EXTGRP: эфир
+http://188.225.31.197/bpk-tv/000007816/tve/index.m3u8
 #EXTINF:0,Че
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
@@ -657,7 +663,10 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 http://45.145.32.13:20440/sony_turbo/index.m3u8?token=test
 #EXTINF:0,Том и Джерри
 #EXTGRP: Детский
-http://allway.space/iptv/users/Sky/1669.m3u8
+http://cdn.iptvcinema.ru/sc_tom_i_jerry/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+#EXTINF:0,Том и Джерри
+#EXTGRP: Детский
+http://s.only4.tv/8116/video.m3u8?token=tUQhQrkBPo
 #EXTINF:0,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
@@ -679,9 +688,9 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.
 #EXTINF:0,O!
 #EXTGRP: Детский
 http://188.225.31.197/bpk-tv/000002928/tve/index.m3u8
-#EXTINF:0,Ani
+#EXTINF:0,Cartoonito
 #EXTGRP: Детский
-http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+http://188.225.31.197/bpk-tv/000000160/tve/index.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP: Детский
 http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
@@ -691,6 +700,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:0,Карусель + 2
 #EXTGRP: Детский
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+#EXTINF:0,Карусель International
+#EXTGRP: Детский
+http://188.225.31.197/bpk-tv/000000781/tve/index.m3u8
 #EXTINF:0,Супер Герои
 #EXTGRP: Детский
 http://109.94.1.3:8080/132/index.m3u8
@@ -700,9 +712,9 @@ http://188.225.31.197/bpk-tv/000000048/tve/index.m3u8
 #EXTINF:0,Мульт
 #EXTGRP: Детский
 http://188.225.31.197/bpk-tv/000001207/tve/index.m3u8
-#EXTINF:0,Мама
+#EXTINF:0,Лёва
 #EXTGRP: Детский
-http://95.66.188.74/Mama/mono.m3u8
+http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
 #EXTINF:0,Мультиландия
 #EXTGRP: Детский
 http://188.225.31.197/bpk-tv/000000203/tve/index.m3u8
@@ -717,10 +729,10 @@ http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 http://95.66.188.74/RYZHIY/mono.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP: Детский
-http://ru.russkoe-iptv.com:8080/s/c4630b21/ctc-kids.m3u8
-#EXTINF:0,Мама
+http://188.225.31.197/bpk-tv/000003892/tve/index.m3u8
+#EXTINF:0,TiJi
 #EXTGRP: Детский
-http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
+http://188.225.31.197/bpk-tv/000000174/tve/index.m3u8
 #EXTINF:0,Пингвин Лоло
 #EXTGRP: Детский
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
@@ -730,6 +742,9 @@ http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
 #EXTINF:0,Мамонтёнок
 #EXTGRP: Детский
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sc Фиксики
+#EXTGRP: Детский
+http://cdn.iptvcinema.ru/sc_fiksiki/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 
 
 =============
@@ -747,7 +762,7 @@ http://185.218.19.43:8081/hls/Muzyka_Kino_int/playlist.m3u8
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:0,VB Romantic and Ballads
 #EXTGRP: Музыка
-http://s.only4.tv/8275/video.m3u8?token=jZqqvnnqCs
+http://s.only4.tv/8275/video.m3u8?token=tUQhQrkBPo
 
 ========
 
