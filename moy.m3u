@@ -69,9 +69,6 @@ http://46.53.208.4:80/live/1123.m3u8
 #EXTINF:0,Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
-#EXTINF:0,Агентство НЛС
-#EXTGRP: кино
-https://v2.catcast.tv/content/50056/index.m3u8?token=bb49118e28d4274a68d41ec55b334814
 
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
@@ -137,6 +134,12 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 #EXTINF:0,TVPlay Великая Отечественная HD
 #EXTGRP: кино
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0,TVPlay Великая Отечественная HD
+#EXTGRP: кино
+http://s.only4.tv/10851/video.m3u8?token=tUQhQrkBPo
+#EXTINF:0,TVPlay Советское Кино HD
+#EXTGRP: кино
+http://s.only4.tv/9375/video.m3u8?token=tUQhQrkBPo
 
 #EXTINF:0,Патриот
 #EXTGRP: кино
@@ -163,6 +166,9 @@ http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/31643/index.m3u
 #EXTINF:0,CPS USSR
 #EXTGRP: кино
 http://s.only4.tv/7658/video.m3u8?token=tUQhQrkBPo
+#EXTINF:0,CineMan CCCP FHD
+#EXTGRP: кино
+http://ott.server-iptv.live/655/video.m3u8?token=Cdb904d80a
 #EXTINF:0,Экран СССР ТВ
 #EXTGRP: кино
 https://vsd82.okcdn.ru/hls/7904690309811.m3u8/sig/vuMGDdK1Q_0/expires/1770785204816/srcIp/46.138.147.28/urls/45.136.21.89/clientType/0/srcAg/CHROME_YA/mid/9273686236851/video.m3u8?p
