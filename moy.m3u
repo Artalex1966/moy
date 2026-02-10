@@ -62,19 +62,16 @@ https://tinyurl.com/aleks-u-romki-57/18069/index.m3u8
 #EXTINF:0,Кино 2
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/18070/index.m3u8
+
 #EXTINF:0,VHS-ка
 #EXTGRP: кино
 http://46.53.208.4:80/live/1123.m3u8
-#EXTINF:0,NEXT Blaze
-#EXTGRP: кино
-http://80.249.144.170/nextblaze/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
-#EXTINF:0,NEXT Volt
-#EXTGRP: кино
-http://80.249.144.170/nextvolt/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
-
 #EXTINF:0,Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
+#EXTINF:0,Агентство НЛС
+#EXTGRP: кино
+https://v2.catcast.tv/content/50056/index.m3u8?token=bb49118e28d4274a68d41ec55b334814
 
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
@@ -157,12 +154,18 @@ https://tinyurl.com/aleks-u-romki-57/11026/index.m3u8
 #EXTINF:0,Сов.Ком
 #EXTGRP: кино
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0,Любимые фильмы
+#EXTGRP: кино
+https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
 http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/31643/index.m3u
 #EXTINF:0,CPS USSR
 #EXTGRP: кино
 http://s.only4.tv/7658/video.m3u8?token=tUQhQrkBPo
+#EXTINF:0,Экран СССР ТВ
+#EXTGRP: кино
+https://vsd82.okcdn.ru/hls/7904690309811.m3u8/sig/vuMGDdK1Q_0/expires/1770785204816/srcIp/46.138.147.28/urls/45.136.21.89/clientType/0/srcAg/CHROME_YA/mid/9273686236851/video.m3u8?p
 
 #EXTINF:0,TOP USSR HD
 #EXTGRP: кино
@@ -176,24 +179,6 @@ https://tinyurl.com/aleks-u-romki-57/11061/index.m3u8
 #EXTINF:0,YOSSO TV Советские фильмы
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/14175/index.m3u8
-#EXTINF:0,OLSIB USSR 60
-#EXTGRP: кино
-http://80.249.144.170/olsib_ussr60/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
-#EXTINF:0,OLSIB USSR 70
-#EXTGRP: кино
-http://80.249.144.170/olsib_ussr70/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
-#EXTINF:0,OLSIB USSR 80
-#EXTGRP: кино
-http://80.249.144.170/olsib_ussr80/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
-#EXTINF:0,OLSIB USSR Classic
-#EXTGRP: кино
-http://80.249.144.170/olsib_ussrclassic/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
-#EXTINF:0,DITV КОМЕДИИ СССР
-#EXTGRP: кино
-http://80.249.144.170/ditv_comedyussr/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
-#EXTINF:0,DITV КОМЕДИИ 90-х
-#EXTGRP: кино
-http://80.249.144.170/ditv_comedy90/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 
 
 #EXTINF:0,VF Фильмы СССР
@@ -235,12 +220,12 @@ http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 #EXTINF:0,VeleS Movie Hits
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/31644/index.m3u8
-#EXTINF:0,BCU SURVIVAL HD
+#EXTINF:0,CineMan Катастрофы
 #EXTGRP: кино
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=702&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:0,VF Fantastic
+http://s.only4.tv/7235/video.m3u8?token=tUQhQrkBPo
+#EXTINF:0,Фантастика FHD (2.0)
 #EXTGRP: кино
-https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1581.m3u8
+http://s.only4.tv/8026/video.m3u8?token=tUQhQrkBPo
 #EXTINF:0,BCU Catastrophe HD
 #EXTGRP: кино
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=591&token=Ym9yeW43ODpMYW5jZXIxNg==
@@ -309,12 +294,6 @@ http://s.only4.tv/10193/video.m3u8?token=tUQhQrkBPo
 #EXTINF:0,VB Сваты
 #EXTGRP: кино
 http://s.only4.tv/9372/video.m3u8?token=tUQhQrkBPo
-#EXTINF:0,MM Сваты HD
-#EXTGRP: кино
-http://allway.space/iptv/users/Sky/753.m3u8
-#EXTINF:0,CineMan Сваты
-#EXTGRP: кино
-http://allway.space/iptv/users/Sky/635.m3u8
 #EXTINF:0,VF Уральские пельмени
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/18198/index.m3u8
@@ -371,7 +350,7 @@ http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/31713/index.m3u
 
 #EXTINF:0,CineMan РуКино
 #EXTGRP: Кино
-http://ott.server-iptv.live/687/video.m3u8?token=S793FB1732
+http://ott.server-iptv.live/687/video.m3u8?token=Cdb904d80a
 
 #EXTINF:0,SSAFilm
 #EXTGRP: кино
@@ -421,7 +400,7 @@ http://tv.ttk.mx:9165
 http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP: кино
-http://allway.space/iptv/users/Sky/513.m3u8
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кинохит
 #EXTGRP: кино
 http://158.101.222.193:88/georgia_play.php?id=kinohit
@@ -430,7 +409,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinohit
 http://176.118.197.101/Kinomix/index.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP: кино
-http://93.170.254.17/Kinosvidanie/index.m3u8
+https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0,VF Клиника
