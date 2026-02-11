@@ -75,7 +75,7 @@ http://kinowalk.hopto.org/kinowalk_live
 http://185.218.19.43:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:0,Детское кино
 #EXTGRP: кино
-https://captaintv.space/iptv/users/Vladimir/fDTKrH.m3u8
+http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/18073/index.m3u
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -140,6 +140,9 @@ http://s.only4.tv/10851/video.m3u8?token=tUQhQrkBPo
 #EXTINF:0,TVPlay Советское Кино HD
 #EXTGRP: кино
 http://s.only4.tv/9375/video.m3u8?token=tUQhQrkBPo
+#EXTINF:0,TVPlay Детское кино HD
+#EXTGRP: кино
+http://s.only4.tv/10852/video.m3u8?token=tUQhQrkBPo
 
 #EXTINF:0,Патриот
 #EXTGRP: кино
