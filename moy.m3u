@@ -69,6 +69,9 @@ http://46.53.208.4:80/live/1123.m3u8
 #EXTINF:0,Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
+#EXTINF:0,KinoMix
+#EXTGRP: кино
+http://kinowalk.hopto.org/yurich_kinomix_live
 
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
@@ -185,8 +188,9 @@ https://tinyurl.com/aleks-u-romki-57/11061/index.m3u8
 #EXTINF:0,YOSSO TV Советские фильмы
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/14175/index.m3u8
-
-
+#EXTINF:0,VF Ленфильм
+#EXTGRP: кино
+http://185.234.59.200:9090/channel/n5d975628/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/10085/index.m3u8
@@ -249,7 +253,7 @@ https://tinyurl.com/aleks-u-romki-57/11005/index.m3u8
 #EXTINF:0,Кинозал! Bond 007
 #EXTGRP: кино
 http://s.only4.tv/9040/video.m3u8?token=tUQhQrkBPo
-#EXTINF:0,MiniMax 007
+#EXTINF:0,MM 007
 #EXTGRP: кино
 https://ru01.spr24.net/20701/index.m3u8?token=ZyyFpSvSdmkyih
 #EXTINF:0,CineMan Action
@@ -261,7 +265,7 @@ https://tinyurl.com/aleks-u-romki-57/13027/index.m3u8
 #EXTINF:0,MM Боевик
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/13028/index.m3u8
-#EXTINF:0,MiniMax Фантастика
+#EXTINF:0,MM Фантастика
 #EXTGRP: кино
 https://ru01.spr24.net/20708/index.m3u8?token=ZyyFpSvSdmkyih
 #EXTINF:0,BCU FANTASTIC HD
@@ -318,6 +322,9 @@ http://s.only4.tv/10193/video.m3u8?token=tUQhQrkBPo
 #EXTINF:0,VB Сваты
 #EXTGRP: кино
 http://s.only4.tv/9372/video.m3u8?token=tUQhQrkBPo
+#EXTINF:0,VF Сваты
+#EXTGRP: кино
+http://185.234.59.200:9090/channel/1c2bef24/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:0,VF Уральские пельмени
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/18198/index.m3u8
@@ -503,6 +510,9 @@ https://tinyurl.com/aleks-u-romki-57/13094/index.m3u8
 #EXTINF:0,The X-Files
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/11055/index.m3u8
+#EXTINF:0,VF The X-Files
+#EXTGRP: кино
+http://185.234.59.200:9090/channel/n5e77a0b1/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:0,VF Доктор Хаус
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/17016/index.m3u8
@@ -517,6 +527,9 @@ http://s.only4.tv/10193/video.m3u8?token=tUQhQrkBPo
 http://s.only4.tv/9379/video.m3u8?token=tUQhQrkBPo
 
 
+#EXTINF:0,VF Друзья
+#EXTGRP: кино
+http://185.234.59.200:9090/channel/53f0bc87/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/17006/index.m3u8
