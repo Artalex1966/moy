@@ -134,6 +134,9 @@ http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m
 #EXTINF:0,ШЕРЛОК ХОЛМС
 #EXTGRP: кино
 https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MTYyNzEwNiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxMDIyMzA2LCJzZXNzaW9uX2lkIjoiODFkNDk2Mjc4Yjk5MzJmNzMzMzk0ODFlYzYzODEyYjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1jGNAjuHmsYIj8YLTfid_tq18G1BTmglTfCe4zJd8OA
+#EXTINF:0,VF Наша победа
+#EXTGRP: кино
+http://185.234.59.200:9090/channel/n30e8cca0/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:0,TVPlay Великая Отечественная HD
 #EXTGRP: кино
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -256,9 +259,9 @@ http://s.only4.tv/9040/video.m3u8?token=tUQhQrkBPo
 #EXTINF:0,MM 007
 #EXTGRP: кино
 https://ru01.spr24.net/20701/index.m3u8?token=ZyyFpSvSdmkyih
-#EXTINF:0,CineMan Action
+#EXTINF:0,VF Катастрофы
 #EXTGRP: кино
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/11006/index.m3u8
+http://185.234.59.200:9090/channel/n39976b52/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:0,MM Боевик Classic HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/13027/index.m3u8
