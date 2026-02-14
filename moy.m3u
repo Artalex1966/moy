@@ -102,6 +102,7 @@ https://tinyurl.com/aleks-u-romki-57/13021/index.m3u8
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/13020/index.m3u8
 
+
 #EXTINF:0,IPTVPLAY ПАМЯТЬ
 #EXTGRP: кино
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -116,6 +117,10 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.
 #EXTINF:0,Советские Мультфильмы
 #EXTGRP: кино
 http://46.53.208.4:80/live/3007.m3u8
+#EXTINF:0,MM Tom and Jerry
+#EXTGRP: кино
+http://s.only4.tv/7131/index.m3u8?token=YXRpZCkjfo
+
 #EXTINF:0,Советское
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
