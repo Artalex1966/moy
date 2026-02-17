@@ -48,7 +48,7 @@ http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MTYyNzEwNiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxMDIyMzA2LCJzZXNzaW9uX2lkIjoiODFkNDk2Mjc4Yjk5MzJmNzMzMzk0ODFlYzYzODEyYjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1jGNAjuHmsYIj8YLTfid_tq18G1BTmglTfCe4zJd8OA
 #EXTINF:0,Мосфильм. Золотая коллекция (+4)
 #EXTGRP: кино
-http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/17022/index.m3u
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/17022/index.m3u
 
 #EXTINF:0,Кино 1 International
 #EXTGRP: кино
@@ -81,7 +81,7 @@ http://cityeden.catcast.tv/content/34185/index.m3u8
 http://185.218.19.43:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:0,Детское кино
 #EXTGRP: кино
-http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/18073/index.m3u
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/18073/index.m3u
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -164,7 +164,7 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclass
 
 #EXTINF:0,BOX СССР 4K
 #EXTGRP: кино
-http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/31625/index.m3u
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/31625/index.m3u
 #EXTINF:0,VF Классика
 #EXTGRP: кино
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1565.m3u8
@@ -176,7 +176,7 @@ https://tinyurl.com/aleks-u-romki-57/11026/index.m3u8
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
-http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/31643/index.m3u
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/31643/index.m3u
 
 #EXTINF:0,CineMan CCCP FHD
 #EXTGRP: кино
@@ -196,7 +196,7 @@ https://tinyurl.com/aleks-u-romki-57/11061/index.m3u8
 https://tinyurl.com/aleks-u-romki-57/14175/index.m3u8
 #EXTINF:0,YOSSO TV Советские фильмы 4K
 #EXTGRP: кино
-http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/19435/index.m3u
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/19435/index.m3u
 #EXTINF:0,VF Ленфильм
 #EXTGRP: кино
 http://185.234.59.200:9090/channel/n5d975628/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
@@ -386,10 +386,10 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/p
 
 #EXTINF:0,MM Агата Кристи HD
 #EXTGRP: кино
-http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/13024/index.m3u
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/13024/index.m3u
 #EXTINF:0,КОЛОМБО
 #EXTGRP: кино
-http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/31713/index.m3u
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/31713/index.m3u
 
 #EXTINF:0,CineMan РуКино
 #EXTGRP: Кино
@@ -550,13 +550,13 @@ https://tinyurl.com/aleks-u-romki-57/17006/index.m3u8
 https://tinyurl.com/aleks-u-romki-61/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
-http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/17006/index.m3u
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/17006/index.m3u
 
 
 
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
-http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/14230/index.m3u
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/14230/index.m3u
 #EXTINF:0,VF Гарри Поттер
 #EXTGRP: кино
 http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/14230/index.m3u8
@@ -597,7 +597,7 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 
 #EXTINF:0,Первый космический
 #EXTGRP: Познавательное
-http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/908/index.m3u
+http://e465ef11.ottolok.net/iptv/XMN783XM3DVAPS4KNNG6TBM7/908/index.m3u
 #EXTINF:0,Curiosity
 #EXTGRP: Познавательное
 https://ru01.spr24.net/15776/index.m3u8?token=ZyyFpSvSdmkyih
