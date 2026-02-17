@@ -72,6 +72,9 @@ http://kinowalk.hopto.org/kinowalk_live
 #EXTINF:0,KinoMix
 #EXTGRP: кино
 http://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:0,Сити Эдем - КиноКлассика
+#EXTGRP: кино
+http://cityeden.catcast.tv/content/34185/index.m3u8
 
 #EXTINF:0,Детское кино International
 #EXTGRP: кино
@@ -144,9 +147,6 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 http://185.234.59.200:9090/channel/n30e8cca0/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:0,TVPlay Великая Отечественная HD
 #EXTGRP: кино
-http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0,TVPlay Великая Отечественная HD
-#EXTGRP: кино
 http://s.only4.tv/10851/video.m3u8?token=YXRpZCkjfo
 #EXTINF:0,TVPlay Советское Кино HD
 #EXTGRP: кино
@@ -177,9 +177,7 @@ https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
 http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/31643/index.m3u
-#EXTINF:0,CPS USSR
-#EXTGRP: кино
-http://s.only4.tv/7658/video.m3u8?token=YXRpZCkjfo
+
 #EXTINF:0,CineMan CCCP FHD
 #EXTGRP: кино
 http://ott.server-iptv.live/655/video.m3u8?token=Cdb904d80a
@@ -202,18 +200,11 @@ http://185.234.59.200:9090/channel/n5d975628/index.m3u8?q=406925e0657258d990e0f9
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/10085/index.m3u8
-#EXTINF:0,StrahTV СССР
-#EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/11061/index.m3u8
+
 #EXTINF:0,KLI Media СССР HD
 #EXTGRP: кино
 http://s.only4.tv/8040/video.m3u8?token=YXRpZCkjfo
-#EXTINF:0,Clarity4K Комедия СССР 1
-#EXTGRP: кино
-https://ru01.spr24.net/20947/index.m3u8?token=ZyyFpSvSdmkyih
-#EXTINF:0,Clarity4K Комедия СССР 2
-#EXTGRP: кино
-https://ru01.spr24.net/20948/index.m3u8?token=ZyyFpSvSdmkyih
+
 
 
 #EXTINF:0,Любимое HD
@@ -252,7 +243,16 @@ http://s.only4.tv/7235/video.m3u8?token=YXRpZCkjfo
 http://s.only4.tv/8026/video.m3u8?token=YXRpZCkjfo
 #EXTINF:0,BCU Catastrophe HD
 #EXTGRP: кино
-https://ru01.spr24.net/20811/index.m3u8?token=ZyyFpSvSdmkyih
+http://185.234.59.200:8080/BCU_Catastrophe_HD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:0,VF Катастрофы
+#EXTGRP: кино
+http://185.234.59.200:9090/channel/n39976b52/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:0,BCU Cosmo HD
+#EXTGRP: кино
+http://185.234.59.200:9090/channel/n1bd83275/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:0,BCU Fantastic HD
+#EXTGRP: кино
+http://185.234.59.200:8080/BCU_Fantastic_HD/video.m3u8?token=5uGLTS1oibSIu0
 
 
 #EXTINF:0,CineMan Top
@@ -261,9 +261,6 @@ https://tinyurl.com/aleks-u-romki-57/11005/index.m3u8
 #EXTINF:0,Кинозал! Bond 007
 #EXTGRP: кино
 http://s.only4.tv/9040/video.m3u8?token=YXRpZCkjfo
-#EXTINF:0,MM 007
-#EXTGRP: кино
-https://ru01.spr24.net/20701/index.m3u8?token=ZyyFpSvSdmkyih
 #EXTINF:0,VF Катастрофы
 #EXTGRP: кино
 http://185.234.59.200:9090/channel/n39976b52/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
@@ -273,15 +270,7 @@ https://tinyurl.com/aleks-u-romki-57/13027/index.m3u8
 #EXTINF:0,MM Боевик
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/13028/index.m3u8
-#EXTINF:0,MM Фантастика
-#EXTGRP: кино
-https://ru01.spr24.net/20708/index.m3u8?token=ZyyFpSvSdmkyih
-#EXTINF:0,BCU FANTASTIC HD
-#EXTGRP: кино
-https://ru01.spr24.net/20814/index.m3u8?token=ZyyFpSvSdmkyih
-#EXTINF:0,BCU Cosmo HD
-#EXTGRP: кино
-https://ru01.spr24.net/20845/index.m3u8?token=ZyyFpSvSdmkyih
+
 
 
 ++++++++
@@ -395,7 +384,7 @@ http://9udld7sa.megatv.fun/iptv/KSSY373E8QTZ7XEVZA38BPP9/31713/index.m3u
 
 #EXTINF:0,CineMan РуКино
 #EXTGRP: Кино
-http://ott.server-iptv.live/687/video.m3u8?token=Cdb904d80a
+http://s.only4.tv/6838/video.m3u8?token=YXRpZCkjfo
 
 #EXTINF:0,SSAFilm
 #EXTGRP: кино
