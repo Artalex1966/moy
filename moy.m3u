@@ -143,7 +143,7 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 #EXTINF:0,VF Наша победа
 #EXTGRP: кино
 http://185.234.59.200:9090/channel/n30e8cca0/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:0,Назад в СССР
+#EXTINF:0,Снова в СССР
 #EXTGRP: кино
 http://kinowalk.hopto.org/backtotheussr_live
 #EXTINF:0,TVPlay Великая Отечественная HD
@@ -177,7 +177,7 @@ https://tinyurl.com/aleks-u-romki-57/11026/index.m3u8
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DE5MNN2TXL9QG7/31643/index.m3u
+https://ru01.spr24.net/21020/index.m3u8?token=ZyyFpSvSdmkyih
 
 #EXTINF:0,CineMan CCCP FHD
 #EXTGRP: кино
@@ -330,9 +330,9 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/p
 #EXTINF:0,Моя Прекрасная Няня
 #EXTGRP: кино
 http://s.only4.tv/10193/video.m3u8?token=YXRpZCkjfo
-#EXTINF:0,VB Сваты
+#EXTINF:0,Кинозал! Сваты
 #EXTGRP: кино
-http://s.only4.tv/9372/video.m3u8?token=YXRpZCkjfo
+http://s.only4.tv/6825/index.m3u8?token=YXRpZCkjfo
 #EXTINF:0,VF Сваты
 #EXTGRP: кино
 http://185.234.59.200:9090/channel/1c2bef24/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
@@ -347,7 +347,7 @@ http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1657.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DE5MNN2TXL9QG7/31557/index.m3u8
 #EXTINF:0,VF Comedy Woman
 #EXTGRP: кино
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1618.m3u8
+http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1616.m3u8
 #EXTINF:0,VF Уральские пельмени
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/18198/index.m3u8
