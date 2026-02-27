@@ -143,7 +143,7 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 #EXTINF:0,VF Наша победа
 #EXTGRP: кино
 http://185.234.59.200:9090/channel/n30e8cca0/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
- Назад в СССР
+#EXTINF:0,Назад в СССР
 #EXTGRP: кино
 http://kinowalk.hopto.org/backtotheussr_live
 #EXTINF:0,TVPlay Великая Отечественная HD
