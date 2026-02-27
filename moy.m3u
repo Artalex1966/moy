@@ -143,9 +143,9 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 #EXTINF:0,VF Наша победа
 #EXTGRP: кино
 http://185.234.59.200:9090/channel/n30e8cca0/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:0, IPTVPLAY Великая Отечественная HD
+ Назад в СССР
 #EXTGRP: кино
-http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+http://kinowalk.hopto.org/backtotheussr_live
 #EXTINF:0,TVPlay Великая Отечественная HD
 #EXTGRP: кино
 http://s.only4.tv/10851/video.m3u8?token=YXRpZCkjfo
@@ -345,9 +345,9 @@ http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1657.m3u8
 #EXTINF:0,VF Каламбур
 #EXTGRP: кино
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DE5MNN2TXL9QG7/31557/index.m3u8
-#EXTINF:0,VF Маски Шоу
+#EXTINF:0,VF Comedy Woman
 #EXTGRP: кино
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DE5MNN2TXL9QG7/31556/index.m3u8
+http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1618.m3u8
 #EXTINF:0,VF Уральские пельмени
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/18198/index.m3u8
