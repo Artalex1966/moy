@@ -258,6 +258,9 @@ http://s.only4.tv/8026/video.m3u8?token=YXRpZCkjfo
 #EXTINF:0,BCU Catastrophe HD
 #EXTGRP: кино
 http://185.234.59.200:8080/BCU_Catastrophe_HD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:0,MM Катастрофа
+#EXTGRP: кино
+https://ru01.spr24.net/20711/index.m3u8?token=ZyyFpSvSdmkyih
 #EXTINF:0,VF Катастрофы
 #EXTGRP: кино
 http://185.234.59.200:9090/channel/n39976b52/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
@@ -275,6 +278,9 @@ https://tinyurl.com/aleks-u-romki-57/11005/index.m3u8
 #EXTINF:0,Кинозал! Bond 007
 #EXTGRP: кино
 http://s.only4.tv/9040/video.m3u8?token=YXRpZCkjfo
+#EXTINF:0,MM 007
+#EXTGRP: кино
+https://ru01.spr24.net/20701/index.m3u8?token=ZyyFpSvSdmkyih
 #EXTINF:0,VF Катастрофы
 #EXTGRP: кино
 http://185.234.59.200:9090/channel/n39976b52/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
@@ -398,6 +404,9 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/p
 #EXTINF:0,MM Агата Кристи HD
 #EXTGRP: кино
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DE5MNN2TXL9QG7/13024/index.m3u
+#EXTINF:0,MM Агата Кристи HD
+#EXTGRP: кино
+https://ru01.spr24.net/20702/index.m3u8?token=ZyyFpSvSdmkyih
 #EXTINF:0,КОЛОМБО
 #EXTGRP: кино
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DE5MNN2TXL9QG7/31713/index.m3u
