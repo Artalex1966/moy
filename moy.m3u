@@ -3,13 +3,6 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz, https://iptvx.one/EPG"
 
 
-
-#EXTINF:0,Радио Вести FM
-#EXTGRP: эфир
-https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
-#EXTINF:0,Радио Говорит Москва
-#EXTGRP: эфир
-https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
