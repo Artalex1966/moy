@@ -351,7 +351,7 @@ http://s.only4.tv/10193/video.m3u8?token=zoCHqBtVEo
 http://s.only4.tv/6825/index.m3u8?token=zoCHqBtVEo
 #EXTINF:0,BCU СВАТЫ HD
 #EXTGRP: кино
-http://185.234.59.200:8080/BCU_USSR_HD/video.m3u8?token=
+http://185.234.59.200:8080/BCU_Svaty_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:0,VF Сваты
 #EXTGRP: кино
 http://185.234.59.200:9090/channel/1c2bef24/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
