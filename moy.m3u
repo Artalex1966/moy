@@ -4,6 +4,12 @@
 
 
 
+#EXTINF:0,Радио Вести FM
+#EXTGRP: эфир
+https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
+#EXTINF:0,Радио Говорит Москва
+#EXTGRP: эфир
+https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP: эфир
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
@@ -46,9 +52,6 @@ http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjgzNzQ1NSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMjMyNjU1LCJzZXNzaW9uX2lkIjoiYzhhMTEwMmI3NTgzNDdjN2Y1Zjc5ZGZhYmFjMmQ4NjMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.J1fEskz9JSvBvX4_0iujTuvTEZAaZJ8Di_ociheqZiY
-#EXTINF:0,Мосфильм. Золотая коллекция (+2)
-#EXTGRP: кино
-http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция (+4)
 #EXTGRP: кино
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/17022/index.m3u
@@ -69,6 +72,9 @@ https://tinyurl.com/aleks-u-romki-57/18070/index.m3u8
 #EXTINF:0,VHS-ка
 #EXTGRP: кино
 http://46.53.208.4:80/live/1123.m3u8
+#EXTINF:0,Видеокассета VHS
+#EXTGRP: кино
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTINF:0,Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
@@ -158,6 +164,9 @@ http://s.only4.tv/9375/video.m3u8?token=YXRpZCkjfo
 #EXTINF:0,TVPlay Детское кино HD
 #EXTGRP: кино
 http://s.only4.tv/10852/video.m3u8?token=YXRpZCkjfo
+#EXTINF:0,TVPlay Гайдай
+#EXTGRP: кино
+http://s.only4.tv/10195/video.m3u8?token=YXRpZCkjfo
 
 #EXTINF:0,Патриот
 #EXTGRP: кино
@@ -174,14 +183,16 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/31625/ind
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1565.m3u8
 #EXTINF:0,BCU СССР HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/11026/index.m3u8
+http://185.234.59.200:8080/BCU_USSR_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:0,Сов.Ком
 #EXTGRP: кино
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
 https://ru01.spr24.net/21020/index.m3u8?token=ZyyFpSvSdmkyih
-
+#EXTINF:0,CPS USSR
+#EXTGRP: кино
+http://s.only4.tv/7658/video.m3u8?token=YXRpZCkjfo
 #EXTINF:0,CineMan CCCP FHD
 #EXTGRP: кино
 http://ott.server-iptv.live/655/video.m3u8?token=Cdb904d80a
@@ -345,6 +356,9 @@ http://s.only4.tv/10193/video.m3u8?token=YXRpZCkjfo
 #EXTINF:0,Кинозал! Сваты
 #EXTGRP: кино
 http://s.only4.tv/6825/index.m3u8?token=YXRpZCkjfo
+#EXTINF:0,BCU СВАТЫ HD
+#EXTGRP: кино
+http://185.234.59.200:8080/BCU_USSR_HD/video.m3u8?token=
 #EXTINF:0,VF Сваты
 #EXTGRP: кино
 http://185.234.59.200:9090/channel/1c2bef24/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
