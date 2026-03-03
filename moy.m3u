@@ -190,6 +190,9 @@ http://s.only4.tv/7658/video.m3u8?token=zoCHqBtVEo
 #EXTGRP: кино
 http://ott.server-iptv.live/655/video.m3u8?token=Cdb904d80a
 
+#EXTINF:0,Экран СССР ТВ
+#EXTGRP: кино
+https://vsd119.okcdn.ru/hls/7904690309811.m3u8/sig/0Q0-DcSa8WI/expires/1772597533929/srcIp/46.138.147.28/urls/45.136.21.89/clientType/0/srcAg/CHROME_YA/mid/9273686236851/video.m3u8?p
 #EXTINF:0,TOP USSR HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/13005/index.m3u8
@@ -218,13 +221,20 @@ http://s.only4.tv/8040/video.m3u8?token=zoCHqBtVEo
 
 #EXTINF:0,Clarity4K Сделано в СССР
 #EXTGRP: кино
-https://ru01.spr24.net/20902/index.m3u8?token=ZyyFpSvSdmkyih
+http://s.only4.tv/8939/video.m3u8?token=zoCHqBtVEo
 #EXTINF:0,Clarity4K Комедия СССР 1
 #EXTGRP: кино
 http://s.only4.tv/9240/video.m3u8?token=zoCHqBtVEo
 #EXTINF:0,Clarity4K Комедия СССР 2
 #EXTGRP: кино
 http://s.only4.tv/9239/video.m3u8?token=zoCHqBtVEo
+
+#EXTINF:0,Агентство НЛС
+#EXTGRP: кино
+https://v2.catcast.tv/content/50056/index.m3u8?token=974d0b8f2d0ec3644894990cb96deee8
+#EXTINF:0,Агентство НЛС 2
+#EXTGRP: кино
+https://v2.catcast.tv/content/50057/index.m3u8?token=8d1630444a4afe15dff39692c9939e0c
 
 
 #EXTINF:0,Любимое HD
@@ -321,7 +331,10 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 https://tinyurl.com/aleks-u-romki-57/13037/index.m3u8
 #EXTINF:0,MM Комедия HD
 #EXTGRP: кино
-https://ru01.spr24.net/20713/index.m3u8?token=ZyyFpSvSdmkyih
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/13038/index.m3u8
+#EXTINF:0,VF Комедия
+#EXTGRP: кино
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/10055/index.m3u8
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjgzNzQ1NSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMjMyNjU1LCJzZXNzaW9uX2lkIjoiYzhhMTEwMmI3NTgzNDdjN2Y1Zjc5ZGZhYmFjMmQ4NjMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.J1fEskz9JSvBvX4_0iujTuvTEZAaZJ8Di_ociheqZiY
@@ -419,7 +432,7 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/p
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/13024/index.m3u
 #EXTINF:0,MM Агата Кристи HD
 #EXTGRP: кино
-https://ru01.spr24.net/20702/index.m3u8?token=ZyyFpSvSdmkyih
+http://t8nlftib.russtv.net/iptv/QYUYWWB6GEC9F9Z5TSDEWH95/13024/index.m3u8
 #EXTINF:0,КОЛОМБО
 #EXTGRP: кино
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/31713/index.m3u
