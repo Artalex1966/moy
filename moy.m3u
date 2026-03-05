@@ -120,9 +120,9 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.
 #EXTINF:0,Советские Мультфильмы
 #EXTGRP: кино
 http://46.53.208.4:80/live/3007.m3u8
-#EXTINF:0,MM Tom and Jerry
+#EXTINF:0,Том и Джерри
 #EXTGRP: кино
-http://s.only4.tv/7131/index.m3u8?token=zoCHqBtVEo
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 #EXTINF:0,Советское
 #EXTGRP: кино
@@ -269,13 +269,13 @@ http://s.only4.tv/8026/video.m3u8?token=zoCHqBtVEo
 http://185.234.59.200:8080/BCU_Catastrophe_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:0,MM Катастрофа
 #EXTGRP: кино
-https://ru01.spr24.net/20711/index.m3u8?token=ZyyFpSvSdmkyih
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/13034/index.m3u8
 #EXTINF:0,VF Катастрофы
 #EXTGRP: кино
-http://185.234.59.200:9090/channel/n39976b52/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/10080/index.m3u8
 #EXTINF:0,BCU Cosmo HD
 #EXTGRP: кино
-http://185.234.59.200:9090/channel/n1bd83275/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/17021/index.m3u8
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP: кино
 http://185.234.59.200:8080/BCU_Fantastic_HD/video.m3u8?token=5uGLTS1oibSIu0
@@ -289,10 +289,7 @@ https://tinyurl.com/aleks-u-romki-57/11005/index.m3u8
 http://s.only4.tv/9040/video.m3u8?token=zoCHqBtVEo
 #EXTINF:0,MM 007
 #EXTGRP: кино
-https://ru01.spr24.net/20701/index.m3u8?token=ZyyFpSvSdmkyih
-#EXTINF:0,VF Катастрофы
-#EXTGRP: кино
-http://185.234.59.200:9090/channel/n39976b52/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/13009/index.m3u8
 #EXTINF:0,MM Боевик Classic HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/13027/index.m3u8
@@ -324,6 +321,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/13038/ind
 #EXTINF:0,VF Комедия
 #EXTGRP: кино
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/10055/index.m3u8
+#EXTINF:0,BCU Comedy
+http://185.234.59.200:8080/BCU_Comedy_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:0,Комедия
 #EXTGRP: кино
 http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjgzNzQ1NSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMjMyNjU1LCJzZXNzaW9uX2lkIjoiYzhhMTEwMmI3NTgzNDdjN2Y1Zjc5ZGZhYmFjMmQ4NjMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.J1fEskz9JSvBvX4_0iujTuvTEZAaZJ8Di_ociheqZiY
@@ -356,10 +355,10 @@ http://s.only4.tv/6825/index.m3u8?token=zoCHqBtVEo
 http://185.234.59.200:8080/BCU_Svaty_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:0,VF Сваты
 #EXTGRP: кино
-http://185.234.59.200:9090/channel/1c2bef24/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/13080/index.m3u8
 #EXTINF:0,VF Реальные пацаны
 #EXTGRP: кино
-http://185.234.59.200:9090/channel/3c4b5f0a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/17015/index.m3u8
 #EXTINF:0,VF Каламбур
 #EXTGRP: кино
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1657.m3u8
@@ -576,9 +575,6 @@ http://s.only4.tv/9379/video.m3u8?token=zoCHqBtVEo
 
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
-http://185.234.59.200:9090/channel/53f0bc87/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:0,VF Друзья
-#EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/17006/index.m3u8
 #EXTINF:0,VF Друзья
 #EXTGRP: кино
@@ -728,6 +724,9 @@ http://cdn.iptvcinema.ru/sc_tom_i_jerry/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZER
 #EXTINF:0,Том и Джерри
 #EXTGRP: Детский
 http://s.only4.tv/8116/video.m3u8?token=zoCHqBtVEo
+#EXTINF:0,MM Том и Джерри
+#EXTGRP: Детский
+http://s.only4.tv/7131/index.m3u8?token=zoCHqBtVEo
 #EXTINF:0,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
