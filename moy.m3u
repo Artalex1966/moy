@@ -197,7 +197,7 @@ http://185.234.59.200:8080/BCU_USSR_HD/video.m3u8?token=5uGLTS1oibSIu0
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,VeleS СССР
 #EXTGRP: кино
-http://s.only4.tv/9390/video.m3u8?token=tUQhQrkBPo
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/31643/index.m3u8
 #EXTINF:0,CPS USSR
 #EXTGRP: кино
 http://s.only4.tv/7658/video.m3u8?token=tUQhQrkBPo
@@ -220,9 +220,6 @@ https://tinyurl.com/aleks-u-romki-57/14175/index.m3u8
 #EXTINF:0,YOSSO TV Советские фильмы 4K
 #EXTGRP: кино
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/19435/index.m3u
-#EXTINF:0,VF Ленфильм
-#EXTGRP: кино
-http://185.234.59.200:9090/channel/n5d975628/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:0,VF Фильмы СССР
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/10085/index.m3u8
@@ -233,13 +230,13 @@ http://s.only4.tv/8040/video.m3u8?token=tUQhQrkBPo
 
 #EXTINF:0,Clarity4K Сделано в СССР
 #EXTGRP: кино
-http://s.only4.tv/8939/video.m3u8?token=tUQhQrkBPo
+http://s.only4.tv/8939/video.m3u8?token=fWKpoaHaSj
 #EXTINF:0,Clarity4K Комедия СССР 1
 #EXTGRP: кино
-http://s.only4.tv/9240/video.m3u8?token=tUQhQrkBPo
+http://s.only4.tv/9240/video.m3u8?token=fWKpoaHaSj
 #EXTINF:0,Clarity4K Комедия СССР 2
 #EXTGRP: кино
-http://s.only4.tv/9239/video.m3u8?token=tUQhQrkBPo
+http://s.only4.tv/9239/video.m3u8?token=fWKpoaHaSj
 
 #EXTINF:0,Любимое HD
 #EXTGRP: кино
@@ -367,7 +364,7 @@ http://s.only4.tv/10193/video.m3u8?token=tUQhQrkBPo
 http://s.only4.tv/6825/index.m3u8?token=tUQhQrkBPo
 #EXTINF:0,BCU СВАТЫ HD
 #EXTGRP: кино
-http://185.234.59.200:8080/BCU_Svaty_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/11047/index.m3u8
 #EXTINF:0,VF Сваты
 #EXTGRP: кино
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/13080/index.m3u8
@@ -573,7 +570,7 @@ https://tinyurl.com/aleks-u-romki-57/13094/index.m3u8
 https://tinyurl.com/aleks-u-romki-57/11055/index.m3u8
 #EXTINF:0,VF The X-Files
 #EXTGRP: кино
-http://185.234.59.200:9090/channel/n5e77a0b1/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/17002/index.m3u8
 #EXTINF:0,VF Доктор Хаус
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/17016/index.m3u8
@@ -735,13 +732,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 http://45.145.32.13:20440/sony_turbo/index.m3u8?token=test
 #EXTINF:0,Том и Джерри
 #EXTGRP: Детский
-http://cdn.iptvcinema.ru/sc_tom_i_jerry/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
-#EXTINF:0,Том и Джерри
-#EXTGRP: Детский
 http://s.only4.tv/8116/video.m3u8?token=tUQhQrkBPo
-#EXTINF:0,MM Том и Джерри
-#EXTGRP: Детский
-http://s.only4.tv/7131/index.m3u8?token=tUQhQrkBPo
+
 #EXTINF:0,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
@@ -817,9 +809,7 @@ http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
 #EXTINF:0,Мамонтёнок
 #EXTGRP: Детский
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
-#EXTINF:0,Sc Фиксики
-#EXTGRP: Детский
-http://cdn.iptvcinema.ru/sc_fiksiki/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+
 
 
 =============
@@ -835,9 +825,7 @@ http://185.218.19.43:8081/hls/Muzyka_Kino_int/playlist.m3u8
 #EXTINF:0,Dancehits 80
 #EXTGRP: Музыка
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:0,VB Romantic and Ballads
-#EXTGRP: Музыка
-http://s.only4.tv/8275/video.m3u8?token=tUQhQrkBPo
+
 
 ========
 
@@ -869,5 +857,3 @@ http://iptv.prosto.tv:7000/ch325/video.m3u8
 https://tinyurl.com/aleks-u-romki-57/19412/index.m3u8
 #EXTINF:0,MM ОТКРЫТИЯ
 https://tinyurl.com/aleks-u-romki-57/19415/index.m3u8
-#EXTINF:0,BOX Docu. HD
-https://ru01.spr24.net/20873/index.m3u8?token=ZyyFpSvSdmkyih
