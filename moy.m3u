@@ -74,6 +74,12 @@ http://kinowalk.hopto.org/kinowalk_live
 #EXTINF:0,KinoMix
 #EXTGRP: кино
 http://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:0,TVPlay Авторский Перевод HD
+#EXTGRP: кино
+http://s.only4.tv/9223/video.m3u8?token=tUQhQrkBPo
+#EXTINF:0,TVPlay Фантастика HD
+#EXTGRP: кино
+http://s.only4.tv/9374/video.m3u8?token=tUQhQrkBPo
 
 
 #EXTINF:0,Детское кино International
