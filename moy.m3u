@@ -77,9 +77,7 @@ http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:0,TVPlay Авторский Перевод HD
 #EXTGRP: кино
 http://s.only4.tv/9223/video.m3u8?token=tUQhQrkBPo
-#EXTINF:0,TVPlay Фантастика HD
-#EXTGRP: кино
-http://s.only4.tv/9374/video.m3u8?token=tUQhQrkBPo
+
 
 
 #EXTINF:0,Детское кино International
@@ -140,9 +138,7 @@ http://s.only4.tv/11319/index.m3u8?token=tUQhQrkBPo
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,Смотрим 100% Классика
-#EXTGRP: кино
-https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+
 
 #EXTINF:0,СОВЕТСКИЕ ФИЛЬМЫ
 #EXTGRP: кино
@@ -185,7 +181,7 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclass
 
 #EXTINF:0,BOX СССР 4K
 #EXTGRP: кино
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/31625/index.m3u
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/31625/index.m3u8
 #EXTINF:0,VF Классика
 #EXTGRP: кино
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1565.m3u8
@@ -241,6 +237,10 @@ http://s.only4.tv/9240/video.m3u8?token=YXRpZCkjfo
 #EXTGRP: кино
 http://s.only4.tv/9239/video.m3u8?token=YXRpZCkjfo
 
+#EXTINF:0,Смотрим 100% Классика
+#EXTGRP: кино
+https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+
 #EXTINF:0,Любимое HD
 #EXTGRP: кино
 https://stream-msk-05.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MzQ0MTAwNywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcyODM2MjA3LCJzZXNzaW9uX2lkIjoiNTQ3MmYyNGQ2YzQ0ZDgzZjliYTU5MjliYjVhYTFlOWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.f2oFwTNGPO89H-GoR2IpAFq91V5Ld6WjV-8lFXRF5-A
@@ -281,7 +281,7 @@ http://s.only4.tv/7235/video.m3u8?token=tUQhQrkBPo
 http://s.only4.tv/8026/video.m3u8?token=tUQhQrkBPo
 #EXTINF:0,BCU Catastrophe HD
 #EXTGRP: кино
-http://185.234.59.200:8080/BCU_Catastrophe_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://ott.server-iptv.live/1601/video.m3u8?token=Cdb904d80a
 #EXTINF:0,MM Катастрофа
 #EXTGRP: кино
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/13034/index.m3u8
@@ -322,9 +322,12 @@ https://tinyurl.com/aleks-u-romki-57/13028/index.m3u8
 https://tinyurl.com/aleks-u-romki-57/19293/index.m3u8
 
 
-#EXTINF:0,TVPlay Фантастика HD
+#EXTINF:0,TVPlAY Фантастика HD
 #EXTGRP: кино
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0,TVPlay Фантастика HD
+#EXTGRP: кино
+http://s.only4.tv/9374/video.m3u8?token=tUQhQrkBPo
 
 
 #EXTINF:0,MM Комедия Classic HD
