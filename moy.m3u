@@ -152,7 +152,7 @@ http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m
 https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MzQ0MTAwNywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcyODM2MjA3LCJzZXNzaW9uX2lkIjoiNTQ3MmYyNGQ2YzQ0ZDgzZjliYTU5MjliYjVhYTFlOWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.f2oFwTNGPO89H-GoR2IpAFq91V5Ld6WjV-8lFXRF5-A
 #EXTINF:-1,VF Наша победа
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/10083/index.m3u8
+http://allway.tv/iptv/users/etmoro/615.m3u8
 #EXTINF:-1,Снова в СССР
 #EXTGRP: кино
 http://kinowalk.hopto.org/backtotheussr_live
@@ -185,6 +185,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/31625/ind
 #EXTINF:-1,VF Классика
 #EXTGRP: кино
 http://82.22.174.149/iptv_proxy/stream.php?stream=10053%2Findex.m3u8
+#EXTINF:-1,VF Киностудия им. Горького
+#EXTGRP: кино
+http://allway.tv/iptv/users/etmoro/813.m3u8
 #EXTINF:-1,BCU СССР HD
 #EXTGRP: кино
 http://82.22.174.149/iptv_proxy/stream.php?stream=11026%2Findex.m3u8
@@ -199,7 +202,13 @@ http://82.22.174.149/iptv_proxy/stream.php?stream=31643%2Findex.m3u8
 http://s.only4.tv/7658/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,CineMan CCCP FHD
 #EXTGRP: кино
-http://ott.server-iptv.live/655/video.m3u8?token=Cdb904d80a
+http://s.only4.tv/9686/video.m3u8?token=YXRpZCkjfo
+#EXTINF:-1,CineMan CCCP FHD
+#EXTGRP: кино
+http://cdntv.online/low/zjdicprmak64/1682.mpeg
+#EXTINF:-1,CineMan CCCP
+#EXTGRP: кино
+http://cdntv.online/high/zjdicprmak64/2214.mpeg
 
 #EXTINF:-1,TOP USSR HD
 #EXTGRP: кино
@@ -213,6 +222,9 @@ https://tinyurl.com/aleks-u-romki-57/19301/index.m3u8
 #EXTINF:-1,Кинозал! СССР
 #EXTGRP: кино
 http://s.only4.tv/6824/index.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,StrahTV СССР
+#EXTGRP: кино
+http://allway.tv/iptv/users/etmoro/680.m3u8
 #EXTINF:-1,YOSSO TV Советские фильмы
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/14175/index.m3u8
