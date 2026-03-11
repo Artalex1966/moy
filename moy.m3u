@@ -171,9 +171,7 @@ http://s.only4.tv/10852/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,TVPlay Гайдай
 #EXTGRP: кино
 http://s.only4.tv/10195/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,TVPlay Новинки МИР HD
-#EXTGRP: кино
-http://s.only4.tv/9255/index.m3u8?token=tUQhQrkBPo
+
 
 #EXTINF:-1,Патриот
 #EXTGRP: кино
@@ -286,6 +284,9 @@ http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 
 ---
 
+#EXTINF:-1,TVPlay Новинки МИР HD
+#EXTGRP: кино
+http://s.only4.tv/9255/index.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,MM Киберпанк HD
 #EXTGRP: кино
 http://allway.tv/iptv/users/etmoro/738.m3u8
@@ -300,7 +301,7 @@ http://s.only4.tv/7235/video.m3u8?token=tUQhQrkBPo
 http://s.only4.tv/8026/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,BCU Catastrophe HD
 #EXTGRP: кино
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/11028/index.m3u8
+http://ott.server-iptv.live/1601/video.m3u8?token=Cdb904d80a
 #EXTINF:-1,MM Катастрофа
 #EXTGRP: кино
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/13034/index.m3u8
@@ -309,7 +310,10 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/13034/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/10080/index.m3u8
 #EXTINF:-1,BCU Cosmo HD
 #EXTGRP: кино
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/17021/index.m3u8
+http://ru01.plinkspile.su/20845/index.m3u8?token=KBSNqz7YAzzF2y
+#EXTINF:-1,BCU Cosmo HDR
+#EXTGRP: кино
+http://ru01.plinkspile.su/20846/index.m3u8?token=KBSNqz7YAzzF2y
 #EXTINF:-1,BCU Fantastic HD
 #EXTGRP: кино
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/11032/index.m3u8
@@ -850,6 +854,9 @@ http://185.218.19.43:8081/hls/Muzyka_Kino_int/playlist.m3u8
 #EXTINF:-1,Dancehits 80
 #EXTGRP: Музыка
 http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1,Thats 70
+#EXTGRP: Музыка
+http://vipkendrake.top:8080/VIP018131761234637102/e8e77fa3b63f/1913
 
 
 ========
@@ -878,3 +885,11 @@ http://iptv.prosto.tv:7000/ch325/video.m3u8
 https://tinyurl.com/aleks-u-romki-57/19412/index.m3u8
 #EXTINF:-1,MM ОТКРЫТИЯ
 https://tinyurl.com/aleks-u-romki-57/19415/index.m3u8
+#EXTINF:-1,Эра VHS
+http://kinowalk.hopto.org/era_vhs_live
+#EXTINF:-1, BOH
+http://kinowalk.hopto.org/boh_music_live
+#EXTINF:-1,Кинотека
+http://kinowalk.hopto.org/kinoteka_full_hd_top_live
+
+
