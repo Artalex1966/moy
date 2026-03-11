@@ -55,12 +55,12 @@ http://185.218.19.43:8081/hls/Kino_1_int/playlist.m3u8
 #EXTINF:-1,Кино 1 International
 #EXTGRP: кино
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
-#EXTINF:-1,Кино 1
+#EXTINF:0,Кино 1
 #EXTGRP: кино
-http://allway.tv/iptv/users/etmoro/950.m3u8
-#EXTINF:-1,Кино 2
+https://tinyurl.com/aleks-u-romki-57/18069/index.m3u8
+#EXTINF:0,Кино 2
 #EXTGRP: кино
-http://allway.tv/iptv/users/etmoro/951.m3u8
+https://tinyurl.com/aleks-u-romki-57/18070/index.m3u8
 
 #EXTINF:-1,VHS-ка
 #EXTGRP: кино
