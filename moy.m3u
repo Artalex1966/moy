@@ -68,6 +68,9 @@ http://46.53.208.4:80/live/1123.m3u8
 #EXTINF:-1,Видеокассета VHS
 #EXTGRP: кино
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
+#EXTINF:-1,BCU STARS HD
+#EXTGRP: кино
+http://ru01.plinkspile.su/20833/index.m3u8?token=KBSNqz7YAzzF2y
 #EXTINF:-1,Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
@@ -441,7 +444,7 @@ http://stream-msk-04.ott.tricolor.tv/dtv/id517_MSKSG-PVR-1--Rus_Bests/03/plst.m3
 http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MzQ0MTAwNywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcyODM2MjA3LCJzZXNzaW9uX2lkIjoiNTQ3MmYyNGQ2YzQ0ZDgzZjliYTU5MjliYjVhYTFlOWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.f2oFwTNGPO89H-GoR2IpAFq91V5Ld6WjV-8lFXRF5-A
 #EXTINF:-1,Русский Иллюзион
 #EXTGRP: кино
-http://185.46.16.239:8000/Russkiy_Illyuzion
+https://telluri.ru/video/vod/869.m3u8
 
 
 #EXTINF:-1,ЖЕНСКИЙ ДЕТЕКТИВ
@@ -857,10 +860,6 @@ https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Gameplay трейлеры  
 #EXTGRP: игры
 https://fl1001.bozztv.com/ushba44/index.m3u8
-#EXTINF:-1,E TV
-#EXTGRP: игры
-http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-
 
 =============================
 
