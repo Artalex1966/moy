@@ -57,10 +57,10 @@ http://185.218.19.43:8081/hls/Kino_1_int/playlist.m3u8
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1,Кино 1
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/18069/index.m3u8
+http://allway.tv/iptv/users/etmoro/950.m3u8
 #EXTINF:-1,Кино 2
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/18070/index.m3u8
+http://allway.tv/iptv/users/etmoro/951.m3u8
 
 #EXTINF:-1,VHS-ка
 #EXTGRP: кино
@@ -188,6 +188,9 @@ http://82.22.174.149/iptv_proxy/stream.php?stream=10053%2Findex.m3u8
 #EXTINF:-1,VF Киностудия им. Горького
 #EXTGRP: кино
 http://allway.tv/iptv/users/etmoro/813.m3u8
+#EXTINF:-1,VF Ленфильм
+#EXTGRP: кино
+http://allway.tv/iptv/users/etmoro/812.m3u8
 #EXTINF:-1,BCU СССР HD
 #EXTGRP: кино
 http://82.22.174.149/iptv_proxy/stream.php?stream=11026%2Findex.m3u8
@@ -261,9 +264,7 @@ https://stream-msk-05.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.
 #EXTGRP: кино
 https://telluri.ru/video/tr-and/335.m3u8
 
-#EXTINF:-1,Сити Эдем - КиноКлассика
-#EXTGRP: кино
-http://cityeden.catcast.tv/content/34185/index.m3u8
+
 
 #EXTINF:-1,Иллюзион +
 #EXTGRP: кино
@@ -282,6 +283,9 @@ http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 
 ---
 
+#EXTINF:-1,MM Киберпанк HD
+#EXTGRP: кино
+http://allway.tv/iptv/users/etmoro/738.m3u8
 #EXTINF:-1,VeleS Movie Hits
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/31644/index.m3u8
@@ -623,7 +627,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/17006/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/14230/index.m3u
 #EXTINF:-1,VF Гарри Поттер
 #EXTGRP: кино
-http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/14230/index.m3u8
+http://82.22.174.149/iptv_proxy/stream.php?stream=14230%2Findex.m3u8
 
 
 #EXTINF:-1,VF Реальные пацаны
@@ -631,17 +635,17 @@ http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/14230/index.m3u8
 https://tinyurl.com/aleks-u-romki-57/17015/index.m3u8
 #EXTINF:-1,VF Реальные пацаны
 #EXTGRP: кино
-http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/17015/index.m3u8
+http://allway.tv/iptv/users/etmoro/805.m3u8
 #EXTINF:-1,VF Универ новая общага
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/17013/index.m3u8
 #EXTINF:-1,VF Универ новая общага
 #EXTGRP: кино
-http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/17013/index.m3u8
+http://allway.tv/iptv/users/etmoro/803.m3u8
 
 #EXTINF:-1,VF Тайны следствия
 #EXTGRP: кино
-http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/13082/index.m3u8
+http://allway.tv/iptv/users/etmoro/778.m3u8
 #EXTINF:-1,VF Тайны следствия
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/13082/index.m3u8
@@ -664,13 +668,10 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/908/index.m3u
 #EXTINF:-1,Curiosity
 #EXTGRP: Познавательное
-https://ru01.spr24.net/15776/index.m3u8?token=ZyyFpSvSdmkyih
+https://telluri.ru/video/vod/994.m3u8
 #EXTINF:-1,Discovery Channel
 #EXTGRP: Познавательное
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
-#EXTINF:-1, Discovery Science
-#EXTGRP: Познавательное
-http://46.8.46.14/DiscoveryScience/index.m3u8
 #EXTINF:-1,National Geographic
 #EXTGRP: Познавательное
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
@@ -693,7 +694,7 @@ https://stream-msk-04.ott.tricolor.tv/dtv/id259_MSKSG-PVR-1--Istoriya/03/plst.m3
 http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
 #EXTINF:-1,Авто плюс
 #EXTGRP: Познавательное
-http://158.101.222.193:88/georgia_play.php?id=autoplus
+http://tv.woobl.ru/avto_plyus/video.m3u8?token=5uGLTS1oibSIu0
 
 ======================
 
@@ -814,7 +815,7 @@ https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Рыжий
 #EXTGRP: Детский
-http://95.66.188.74/RYZHIY/mono.m3u8
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1,СТС Kids
 #EXTGRP: Детский
 http://188.225.31.197/bpk-tv/000003892/tve/index.m3u8
