@@ -68,9 +68,6 @@ http://46.53.208.4:80/live/1123.m3u8
 #EXTINF:-1,Видеокассета VHS
 #EXTGRP: кино
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
-#EXTINF:-1,BCU STARS HD
-#EXTGRP: кино
-http://ru01.plinkspile.su/20833/index.m3u8?token=KBSNqz7YAzzF2y
 #EXTINF:-1,Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
@@ -203,7 +200,7 @@ http://lb.wisp.cat/lb0/BCUSSSRHD/mpegts?token=HHbkdhO
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,VeleS СССР
 #EXTGRP: кино
-http://ru01.plinkspile.su/21020/index.m3u8?token=KBSNqz7YAzzF2y
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/31643/index.m3u8
 #EXTINF:-1,CPS USSR
 #EXTGRP: кино
 http://s.only4.tv/7658/video.m3u8?token=tUQhQrkBPo
@@ -248,13 +245,13 @@ http://s.only4.tv/8040/video.m3u8?token=tUQhQrkBPo
 
 #EXTINF:-1,Clarity4K Сделано в СССР
 #EXTGRP: кино
-http://ru01.plinkspile.su/20902/index.m3u8?token=KBSNqz7YAzzF2y
+http://cdntv.online/low/7xsk2uci8j/1559.mpeg
 #EXTINF:-1,Clarity4K Комедия СССР 1
 #EXTGRP: кино
-http://ru01.plinkspile.su/20947/index.m3u8?token=KBSNqz7YAzzF2y
+http://cdntv.online/low/7xsk2uci8j/1584.mpeg
 #EXTINF:-1,Clarity4K Комедия СССР 2
 #EXTGRP: кино
-http://ru01.plinkspile.su/20948/index.m3u8?token=KBSNqz7YAzzF2y
+http://cdntv.online/low/7xsk2uci8j/1583.mpeg
 
 #EXTINF:-1,Смотрим 100% Классика
 #EXTGRP: кино
@@ -313,7 +310,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/13034/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/10080/index.m3u8
 #EXTINF:-1,BCU Cosmo HD
 #EXTGRP: кино
-http://ru01.plinkspile.su/20845/index.m3u8?token=KBSNqz7YAzzF2y
+http://allway.tv/iptv/users/etmoro/673.m3u8
 #EXTINF:-1,BCU Cosmo HDR
 #EXTGRP: кино
 http://ru01.plinkspile.su/20846/index.m3u8?token=KBSNqz7YAzzF2y
