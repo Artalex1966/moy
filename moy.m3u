@@ -136,6 +136,9 @@ http://s.only4.tv/11049/index.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,OK TV - КиноСказка СССР
 #EXTGRP: кино
 http://s.only4.tv/11319/index.m3u8?token=tUQhQrkBPo
+#EXTINF:-1, Clarity4K Kинодети CССР
+#EXTGRP: кино
+http://cdntv.online/low/7xsk2uci8j/1665.mpeg
 
 #EXTINF:-1,Советское
 #EXTGRP: кино
@@ -200,7 +203,7 @@ http://lb.wisp.cat/lb0/BCUSSSRHD/mpegts?token=HHbkdhO
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,VeleS СССР
 #EXTGRP: кино
-http://allway.tv/iptv/users/etmoro/1026.m3u8
+http://ru01.plinkspile.su/21020/index.m3u8?token=KBSNqz7YAzzF2y
 #EXTINF:-1,CPS USSR
 #EXTGRP: кино
 http://s.only4.tv/7658/video.m3u8?token=tUQhQrkBPo
@@ -891,5 +894,5 @@ http://kinowalk.hopto.org/era_vhs_live
 http://kinowalk.hopto.org/boh_music_live
 #EXTINF:-1,Кинотека
 http://kinowalk.hopto.org/kinoteka_full_hd_top_live
-
-
+#EXTINF:-1, Play-x Тайны Чапман HD
+http://cdntv.online/low/7xsk2uci8j/2215.mpeg
