@@ -112,12 +112,7 @@ http://46.53.208.4:80/live/3007.m3u8
 #EXTINF:-1,Том и Джерри
 #EXTGRP: кино
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1,TVPlay Микки Маус HD
-#EXTGRP: кино
-http://s.only4.tv/11049/index.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,OK TV - КиноСказка СССР
-#EXTGRP: кино
-http://s.only4.tv/11319/index.m3u8?token=tUQhQrkBPo
+
 #EXTINF:-1, Clarity4K Kинодети CССР
 #EXTGRP: кино
 http://cdntv.online/low/7xsk2uci8j/1665.mpeg
@@ -139,18 +134,7 @@ http://allway.tv/iptv/users/etmoro/615.m3u8
 #EXTINF:-1,Снова в СССР
 #EXTGRP: кино
 http://kinowalk.hopto.org/backtotheussr_live
-#EXTINF:-1,TVPlay Великая Отечественная HD
-#EXTGRP: кино
-http://s.only4.tv/10851/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,TVPlay Советское Кино HD
-#EXTGRP: кино
-http://s.only4.tv/9375/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,TVPlay Детское кино HD
-#EXTGRP: кино
-http://s.only4.tv/10852/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,TVPlay Гайдай
-#EXTGRP: кино
-http://s.only4.tv/10195/video.m3u8?token=tUQhQrkBPo
+
 #EXTINF:-1,Патриот
 #EXTGRP: кино
 https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MzQ0MTAwNywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcyODM2MjA3LCJzZXNzaW9uX2lkIjoiNTQ3MmYyNGQ2YzQ0ZDgzZjliYTU5MjliYjVhYTFlOWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.f2oFwTNGPO89H-GoR2IpAFq91V5Ld6WjV-8lFXRF5-A
@@ -178,12 +162,7 @@ https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,VeleS СССР
 #EXTGRP: кино
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/31643/index.m3u8
-#EXTINF:-1,CPS USSR
-#EXTGRP: кино
-http://s.only4.tv/7658/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,CineMan CCCP FHD
-#EXTGRP: кино
-http://s.only4.tv/9686/video.m3u8?token=fWKpoaHaSj
+
 #EXTINF:-1,CineMan CCCP FHD
 #EXTGRP: кино
 http://cdntv.online/low/zjdicprmak64/1682.mpeg
@@ -247,18 +226,14 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Dom_Kino_
 #EXTINF:-1,Любимое кино
 #EXTGRP: кино
 http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
-#EXTINF:-1,TVPlay Новинки МИР HD
-#EXTGRP: кино
-http://s.only4.tv/9255/index.m3u8?token=tUQhQrkBPo
+
 #EXTINF:-1,MM Киберпанк HD
 #EXTGRP: кино
 http://allway.tv/iptv/users/etmoro/738.m3u8
 #EXTINF:-1,VeleS Movie Hits
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/31644/index.m3u8
-#EXTINF:-1,CineMan Катастрофы
-#EXTGRP: кино
-http://s.only4.tv/7235/video.m3u8?token=tUQhQrkBPo
+
 #EXTINF:-1,Фантастика FHD (2.0)
 #EXTGRP: кино
 http://s.only4.tv/8026/video.m3u8?token=tUQhQrkBPo
@@ -354,9 +329,7 @@ http://s.only4.tv/10194/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,VF Реальные пацаны
 #EXTGRP: кино
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/17015/index.m3u8
-#EXTINF:-1,VF Каламбур
-#EXTGRP: кино
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1657.m3u8
+
 #EXTINF:-1,VF Каламбур
 #EXTGRP: кино
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/31557/index.m3u8
@@ -407,7 +380,7 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/p
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/13024/index.m3u
 #EXTINF:-1,MM Агата Кристи HD
 #EXTGRP: кино
-http://t8nlftib.russtv.net/iptv/QYUYWWB6GEC9F9Z5TSDEWH95/13024/index.m3u8
+https://tinyurl.com/aleks-u-romki-57/13024/index.m3u8
 #EXTINF:-1,КОЛОМБО
 #EXTGRP: кино
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/31713/index.m3u
@@ -461,7 +434,7 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Кинохит
 #EXTGRP: кино
-http://158.101.222.193:88/georgia_play.php?id=kinohit
+http://cdntv.online/low/7xsk2uci8j/118.mpeg
 #EXTINF:-1,Киномикс
 #EXTGRP: кино
 http://176.118.197.101/Kinomix/index.m3u8
@@ -474,9 +447,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/13094/ind
 #EXTINF:-1,ИНТЕРНЫ
 #EXTGRP: кино
 http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1,ДЕСЯТОЕ КОРОЛЕВСТВО
-#EXTGRP: кино
-http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,МАЖОР
 #EXTGRP: кино
 https://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MzQ0MTAwNywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcyODM2MjA3LCJzZXNzaW9uX2lkIjoiNTQ3MmYyNGQ2YzQ0ZDgzZjliYTU5MjliYjVhYTFlOWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.f2oFwTNGPO89H-GoR2IpAFq91V5Ld6WjV-8lFXRF5-A
