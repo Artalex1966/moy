@@ -67,9 +67,10 @@ http://kinowalk.hopto.org/kinowalk_live
 #EXTINF:-1,KinoMix
 #EXTGRP: кино
 http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1,TVPlay Авторский Перевод HD
+#EXTINF:-1,CineMan Top
 #EXTGRP: кино
-http://s.only4.tv/9223/video.m3u8?token=tUQhQrkBPo
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/11005/index.m3u8
+
 #EXTINF:-1,Детское кино International
 #EXTGRP: кино
 http://185.218.19.43:8081/hls/Detskoe_Kino_int/playlist.m3u8
@@ -113,6 +114,12 @@ http://46.53.208.4:80/live/3007.m3u8
 #EXTGRP: кино
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
+#EXTINF:-1,OK TV - КиноСказка СССР
+#EXTGRP: кино
+http://s.only4.tv/11319/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1,TVPlay Детское Кино HD
+#EXTGRP: кино
+http://s.only4.tv/10852/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1, Clarity4K Kинодети CССР
 #EXTGRP: кино
 http://cdntv.online/low/7xsk2uci8j/1665.mpeg
@@ -130,7 +137,7 @@ http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m
 https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDA0NTU2NSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzczNDQwNzY1LCJzZXNzaW9uX2lkIjoiYzM2MWQ2YzFkYzFlMjMwYzQ0MThkNDQyMWQyMDliYWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EGm5CF7r_AvfAGbILY-0YArDos4eKCIS0acA9ErDsF0
 #EXTINF:-1,VF Наша победа
 #EXTGRP: кино
-http://allway.tv/iptv/users/etmoro/615.m3u8
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/10083/index.m3u8
 #EXTINF:-1,Снова в СССР
 #EXTGRP: кино
 http://kinowalk.hopto.org/backtotheussr_live
@@ -149,7 +156,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/31625/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/10053/index.m3u8
 #EXTINF:-1,VF Киностудия им. Горького
 #EXTGRP: кино
-http://allway.tv/iptv/users/etmoro/813.m3u8
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/18122/index.m3u8
 #EXTINF:-1,VF Ленфильм
 #EXTGRP: кино
 http://allway.tv/iptv/users/etmoro/812.m3u8
@@ -732,6 +739,9 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1,Thats 70
 #EXTGRP: Музыка
 http://vipkendrake.top:8080/VIP018131761234637102/e8e77fa3b63f/1913
+#EXTINF:-1,VeleS Магнитофон
+#EXTGRP: Музыка
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31645/index.m3u8
 #EXTINF:-1,Gameplay
 #EXTGRP: игры
 https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
