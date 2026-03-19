@@ -163,6 +163,9 @@ http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/18122/index.m3u8
 #EXTINF:-1,VF Ленфильм
 #EXTGRP: кино
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/18121/index.m3u8
+#EXTINF:-1,VF Мосфильм
+#EXTGRP: кино
+http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1572.m3u8
 #EXTINF:-1,BCU СССР HD
 #EXTGRP: кино
 http://lb.wisp.cat/lb0/BCUSSSRHD/mpegts?token=HHbkdhO
@@ -343,6 +346,9 @@ http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/11062/index.m3u8
 #EXTINF:-1,VF Сваты
 #EXTGRP: кино
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/13080/index.m3u8
+#EXTINF:-1,VF Сваты
+#EXTGRP: кино
+http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1583.m3u8
 #EXTINF:-1,VB Сваты HD
 #EXTGRP: кино
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31624/index.m3u8
