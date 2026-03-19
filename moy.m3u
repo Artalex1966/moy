@@ -162,7 +162,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/10053/ind
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/18122/index.m3u8
 #EXTINF:-1,VF Ленфильм
 #EXTGRP: кино
-http://allway.tv/iptv/users/etmoro/812.m3u8
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/18121/index.m3u8
 #EXTINF:-1,BCU СССР HD
 #EXTGRP: кино
 http://lb.wisp.cat/lb0/BCUSSSRHD/mpegts?token=HHbkdhO
@@ -331,9 +331,12 @@ http://s.only4.tv/10193/video.m3u8?token=zoCHqBtVEo
 #EXTINF:-1,Кинозал! Сваты
 #EXTGRP: кино
 http://s.only4.tv/6825/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,BCU Сваты HD
+#EXTINF:-1,CineMan Сваты
 #EXTGRP: кино
-http://allway.tv/iptv/users/etmoro/663.m3u8
+http://cdntv.online/low/7xsk2uci8j/1265.mpeg
+#EXTINF:-1,LIBERTY Сваты
+#EXTGRP: кино
+http://cdntv.online/low/7xsk2uci8j/2013.mpeg
 #EXTINF:-1,StrahTV Сваты
 #EXTGRP: кино
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/11062/index.m3u8
