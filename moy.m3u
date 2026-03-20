@@ -169,6 +169,9 @@ http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1572.m3u8
 #EXTINF:-1,BCU СССР HD
 #EXTGRP: кино
 http://lb.wisp.cat/lb0/BCUSSSRHD/mpegts?token=HHbkdhO
+#EXTINF:-1,BCU СССР HD
+#EXTGRP: кино
+http://tv.woobl.ru/BCU_USSR_HD/video.m3u8?token=.
 #EXTINF:-1,Сов.Ком
 #EXTGRP: кино
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
@@ -252,7 +255,7 @@ https://tinyurl.com/aleks-u-romki-57/31644/index.m3u8
 http://s.only4.tv/8026/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,BCU Catastrophe HD
 #EXTGRP: кино
-http://ott.server-iptv.live/1601/video.m3u8?token=Cdb904d80a
+http://tv.woobl.ru/BCU_Catastrophe_HD/video.m3u8?token=.
 #EXTINF:-1,MM Катастрофа
 #EXTGRP: кино
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/13034/index.m3u8
