@@ -68,6 +68,9 @@ http://46.53.208.4/live/9489.m3u8
 #EXTINF:-1,VF Classic
 #EXTGRP: кино
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1566.m3u8
+#EXTINF:-1,CineMan Дубляж СССР
+#EXTGRP: кино
+http://cdntv.online/low/r4m6asczf2/2300.m3u8
 #EXTINF:-1,Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
@@ -147,7 +150,7 @@ http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m
 https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTI1NTUwNCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc0NjUwNzA0LCJzZXNzaW9uX2lkIjoiZWJmNjE1NzYxNjU5MWFlM2IxMmUwYmIyMWM4NmI1NjAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CS3-B4lpnt5T0-a6IOPRp0Ex7UVpisDO6odJXf2G6Cs
 #EXTINF:-1,VF Наша победа
 #EXTGRP: кино
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/10083/index.m3u8
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/10083/index.m3u8
 #EXTINF:-1,Снова в СССР
 #EXTGRP: кино
 http://kinowalk.hopto.org/backtotheussr_live
@@ -169,7 +172,7 @@ http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1565.m3u8
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/18122/index.m3u8
 #EXTINF:-1,VF Ленфильм
 #EXTGRP: кино
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/18121/index.m3u8
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/18121/index.m3u8
 #EXTINF:-1,VF Мосфильм
 #EXTGRP: кино
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1572.m3u8
