@@ -3,8 +3,6 @@
 
 #EXTINF:-1,BOX AutoTrend HD
 http://ru01.plinkspile.su/21205/index.m3u8?token=KUSbsUbF6HxqFZ
-#EXTINF:-1,VF Авто
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1650.m3u8
 #EXTINF:-1,Россия 24
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
@@ -68,15 +66,18 @@ http://46.53.208.4/live/9489.m3u8
 #EXTINF:-1,VF Classic
 #EXTGRP: кино
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/10054/index.m3u8
-#EXTINF:-1,CineMan Дубляж СССР
+#EXTINF:-1,КІНО TV VHS
 #EXTGRP: кино
-http://cdntv.online/low/r4m6asczf2/2300.m3u8
+https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 #EXTINF:-1,Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
 #EXTINF:-1,KinoMix
 #EXTGRP: кино
 http://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:-1,КиноНонСтоп
+#EXTGRP: кино
+http://kinowalk.hopto.org/nonestopmovie_live
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/13037/index.m3u8
@@ -432,6 +433,9 @@ https://tinyurl.com/aleks-u-romki-61/13024/index.m3u8
 #EXTINF:-1,ЗАГОДОЧНЫЕ УБИЙСТВА АГАТЫ КРИСТИ
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id929_MSKSG-PVR-1--Kinozal_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTI1NTUwNCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc0NjUwNzA0LCJzZXNzaW9uX2lkIjoiZWJmNjE1NzYxNjU5MWFlM2IxMmUwYmIyMWM4NmI1NjAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CS3-B4lpnt5T0-a6IOPRp0Ex7UVpisDO6odJXf2G6Cs
+#EXTINF:-1,Детективы КД
+#EXTGRP: кино
+https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
 #EXTINF:-1,КОЛОМБО
 #EXTGRP: кино
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/31713/index.m3u
