@@ -149,6 +149,9 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 #EXTINF:-1,VF Наша победа
 #EXTGRP: кино
 http://z0o5ctph.tvclub.xyz/iptv/2LHUFFK9TACM2V/10083/index.m3u8
+#EXTINF:-1,Военное кино HD
+#EXTGRP: кино
+https://tinyurl.com/aleks-u-romki-102/18072/index.m3u8
 #EXTINF:-1,Снова в СССР
 #EXTGRP: кино
 http://kinowalk.hopto.org/backtotheussr_live
