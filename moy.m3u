@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz, https://iptvx.one/EPG"
 
 #EXTINF:-1,BOX AutoTrend HD
-http://z0o5ctph.tvclub.xyz/iptv/2LHUFFK9TACM2V/31654/index.m3u8
+https://tinyurl.com/aleks-u-romki-102/31654/index.m3u8
 #EXTINF:-1,Россия 24
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
@@ -66,12 +66,6 @@ http://46.53.208.4/live/9489.m3u8
 #EXTINF:-1,VF Classic
 #EXTGRP: кино
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1568.m3u8
-#EXTINF:-1,VeleS Киноплёнка
-#EXTGRP: кино
-https://ru02.plinkspile.su/21014/index.m3u8?token=KUSbsUbF6HxqFZ
-#EXTINF:-1,VeleS Movie Hits
-#EXTGRP: кино
-https://ru02.plinkspile.su/21017/index.m3u8?token=KUSbsUbF6HxqFZ
 #EXTINF:-1,КІНО TV VHS
 #EXTGRP: кино
 https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
@@ -167,7 +161,7 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTI1NTUwNCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc0NjUwNzA0LCJzZXNzaW9uX2lkIjoiZWJmNjE1NzYxNjU5MWFlM2IxMmUwYmIyMWM4NmI1NjAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CS3-B4lpnt5T0-a6IOPRp0Ex7UVpisDO6odJXf2G6Cs
 #EXTINF:-1,BOX СССР 4K
 #EXTGRP: кино
-http://z0o5ctph.tvclub.xyz/iptv/2LHUFFK9TACM2V/31625/index.m3u8
+https://tinyurl.com/aleks-u-romki-102/31625/index.m3u8
 #EXTINF:-1,VF Классика
 #EXTGRP: кино
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1565.m3u8
@@ -176,7 +170,7 @@ http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1565.m3u8
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/18122/index.m3u8
 #EXTINF:-1,VF Ленфильм
 #EXTGRP: кино
-http://z0o5ctph.tvclub.xyz/iptv/2LHUFFK9TACM2V/18121/index.m3u8
+https://tinyurl.com/aleks-u-romki-102/18121/index.m3u8
 #EXTINF:-1,VF Мосфильм
 #EXTGRP: кино
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1572.m3u8
