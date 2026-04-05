@@ -87,28 +87,28 @@ http://lb.wisp.cat/lb0/CineMan-TOP/mpegts?token=HHbkdhO
 http://185.218.19.43:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:-1,Детское кино
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/18073/index.m3u8
+https://tinyurl.com/aleks-u-romki-102/18073/index.m3u8
 #EXTINF:-1,MM USSR Комедия HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/13019/index.m3u8
+https://tinyurl.com/aleks-u-romki-102/13019/index.m3u8
 #EXTINF:-1,MM USSR Детектив HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/13096/index.m3u8
+https://tinyurl.com/aleks-u-romki-102/13096/index.m3u8
 #EXTINF:-1,MM USSR Драма HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/13022/index.m3u8
 #EXTINF:-1,MM USSR 1941-1945 HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/13018/index.m3u8
+https://tinyurl.com/aleks-u-romki-102/13018/index.m3u8
 #EXTINF:-1,MM USSR Приключения HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/13060/index.m3u8
+https://tinyurl.com/aleks-u-romki-102/13060/index.m3u8
 #EXTINF:-1,MM USSR Сказки HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/13021/index.m3u8
+https://tinyurl.com/aleks-u-romki-102/13021/index.m3u8
 #EXTINF:-1,MM USSR Мультфильм HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/13020/index.m3u8
+https://tinyurl.com/aleks-u-romki-102/13020/index.m3u8
 #EXTINF:-1,IPTVPLAY ПАМЯТЬ
 #EXTGRP: кино
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -148,7 +148,7 @@ http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m
 https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTg2MDI3NSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjU1NDc1LCJzZXNzaW9uX2lkIjoiYTE2YmQ3NDQwODhhZWFlMzEyNTg2OTIxMWUxM2UxY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GwqQIKumlrYZ7Ok91wYTRo0Vxx8V4UTiMhoiTXSHADE
 #EXTINF:-1,VF Наша победа
 #EXTGRP: кино
-http://z0o5ctph.tvclub.xyz/iptv/2LHUFFK9TACM2V/10083/index.m3u8
+http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1571.m3u8
 #EXTINF:-1,Военное кино HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/18072/index.m3u8
@@ -781,9 +781,9 @@ http://185.218.19.43:8081/hls/Muzyka_Kino_int/playlist.m3u8
 #EXTINF:-1,Dancehits 80
 #EXTGRP: Музыка
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1,Thats 70
+#EXTINF:-1,VF Легенды Ретро ФМ
 #EXTGRP: Музыка
-http://vipkendrake.top:8080/VIP018131761234637102/e8e77fa3b63f/1913
+http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1628.m3u8
 #EXTINF:-1,VeleS Магнитофон
 #EXTGRP: Музыка
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31645/index.m3u8
