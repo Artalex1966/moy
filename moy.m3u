@@ -137,6 +137,17 @@ http://cdntv.online/low/7xsk2uci8j/1665.mpeg
 #EXTINF:-1,Советское
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Play-x Советский Дубляж
+#EXTGRP: кино
+https://rpn3.bozztv.com/dvrfl07/ushba-films-s/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Play-x Советские фильмы про деревню
+#EXTGRP: кино
+https://rpn3.bozztv.com/dvrfl07/ushba24/tracks-v1a1/mono.m3u8
+#EXTINF:-1,VB VHS Classic
+#EXTGRP: кино
+https://rpn3.bozztv.com/dvrfl07/ushba-rvision/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,СОВЕТСКИЕ ФИЛЬМЫ
 #EXTGRP: кино
 https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTg2MDI3NSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjU1NDc1LCJzZXNzaW9uX2lkIjoiYTE2YmQ3NDQwODhhZWFlMzEyNTg2OTIxMWUxM2UxY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GwqQIKumlrYZ7Ok91wYTRo0Vxx8V4UTiMhoiTXSHADE
