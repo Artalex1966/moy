@@ -105,10 +105,10 @@ http://ru01.plinkspile.su/20748/index.m3u8?token=KUSbsUbF6HxqFZ
 http://ru01.plinkspile.su/20760/index.m3u8?token=KUSbsUbF6HxqFZ
 #EXTINF:-1,MM USSR Сказки HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/13021/index.m3u8
+http://ru01.plinkspile.su/20750/index.m3u8?token=KUSbsUbF6HxqFZ
 #EXTINF:-1,MM USSR Мультфильм HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/13020/index.m3u8
+http://ru01.plinkspile.su/20849/index.m3u8?token=KUSbsUbF6HxqFZ
 #EXTINF:-1,IPTVPLAY ПАМЯТЬ
 #EXTGRP: кино
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -189,6 +189,9 @@ https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,VeleS СССР
 #EXTGRP: кино
 http://ru01.plinkspile.su/21020/index.m3u8?token=KUSbsUbF6HxqFZ
+#EXTINF:-1,LIBERTY СОЮЗ 4K
+#EXTGRP: кино
+http://ru01.plinkspile.su/8029/index.m3u8?token=KUSbsUbF6HxqFZ
 
 #EXTINF:-1,CineMan CCCP FHD
 #EXTGRP: кино
@@ -793,6 +796,9 @@ https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Gameplay трейлеры
 #EXTGRP: игры
 https://fl1001.bozztv.com/ushba44/index.m3u8
+#EXTINF:-1,BOX Game HD
+#EXTGRP: игры
+http://ru01.plinkspile.su/20864/index.m3u8?token=KUSbsUbF6HxqFZ
 #EXTINF:-1,Залипательные ролики
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
@@ -803,9 +809,9 @@ http://185.57.68.33:8091/232/index.m3u8
 #EXTGRP: 999
 http://iptv.prosto.tv:7000/ch325/video.m3u8
 #EXTINF:-1,MM Experiment HD
-https://tinyurl.com/aleks-u-romki-57/19412/index.m3u8
+http://ru01.plinkspile.su/20783/index.m3u8?token=KUSbsUbF6HxqFZ
 #EXTINF:-1,MM ОТКРЫТИЯ
-https://tinyurl.com/aleks-u-romki-57/19415/index.m3u8
+http://ru01.plinkspile.su/20785/index.m3u8?token=KUSbsUbF6HxqFZ
 #EXTINF:-1,Эра VHS
 http://kinowalk.hopto.org/era_vhs_live
 #EXTINF:-1, BOH
