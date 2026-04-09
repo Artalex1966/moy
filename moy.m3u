@@ -38,7 +38,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://z0o5ctph.tvclub.xyz/iptv/2LHUFFK9TACM2V/9156/index.m3u8
+http://5.134.87.12:8005/play/a03v/index.m3u8
 #EXTINF:-1,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTg2MDI3NSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjU1NDc1LCJzZXNzaW9uX2lkIjoiYTE2YmQ3NDQwODhhZWFlMzEyNTg2OTIxMWUxM2UxY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GwqQIKumlrYZ7Ok91wYTRo0Vxx8V4UTiMhoiTXSHADE
@@ -66,6 +66,9 @@ http://46.53.208.4/live/9489.m3u8
 #EXTINF:-1,VF Classic
 #EXTGRP: кино
 http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/10054/manifest.m3u8
+#EXTINF:-1,CineMan Дубляж СССР
+#EXTGRP: кино
+http://ott.server-iptv.live/645/video.m3u8?token=Cdb904d80a
 #EXTINF:-1,КІНО TV VHS
 #EXTGRP: кино
 https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
@@ -90,13 +93,13 @@ http://185.218.19.43:8081/hls/Detskoe_Kino_int/playlist.m3u8
 http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/18073/manifest.m3u8
 #EXTINF:-1,MM USSR Комедия HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/13019/index.m3u8
+https://tinyurl.com/aleks-u-romki-40/13019/index.m3u8
 #EXTINF:-1,MM USSR Детектив HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/13096/index.m3u8
+https://tinyurl.com/aleks-u-romki-40/13096/index.m3u8
 #EXTINF:-1,MM USSR Драма HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/13022/index.m3u8
+https://tinyurl.com/aleks-u-romki-40/13022/index.m3u8
 #EXTINF:-1,MM USSR 1941-1945 HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/13018/index.m3u8
@@ -263,7 +266,7 @@ http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Dom_Kino_premium.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTg2MDI3NSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjU1NDc1LCJzZXNzaW9uX2lkIjoiYTE2YmQ3NDQwODhhZWFlMzEyNTg2OTIxMWUxM2UxY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GwqQIKumlrYZ7Ok91wYTRo0Vxx8V4UTiMhoiTXSHADE
 #EXTINF:-1,Любимое кино
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/722/index.m3u8
+http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 
 #EXTINF:-1,MM Киберпанк HD
 #EXTGRP: кино
@@ -462,24 +465,24 @@ http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Cinema
 #EXTGRP: кино
 https://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTg2MDI3NSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjU1NDc1LCJzZXNzaW9uX2lkIjoiYTE2YmQ3NDQwODhhZWFlMzEyNTg2OTIxMWUxM2UxY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GwqQIKumlrYZ7Ok91wYTRo0Vxx8V4UTiMhoiTXSHADE
-#EXTINF:-1, viju TV1000
+#EXTINF:0, viju TV1000
 #EXTGRP: кино
-http://s.only4.tv/5581/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,viju TV1000 Action
+http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
+#EXTINF:0,viju TV1000 Action
 #EXTGRP: кино
-http://s.only4.tv/6450/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,viju+ Megahit HD
+http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
+#EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
-http://s.only4.tv/17103/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,viju+ Premiere HD
+http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
+#EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
-http://s.only4.tv/17104/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,viju+ Comedy HD
+http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
+#EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-http://s.only4.tv/17102/video.m3u8?token=tUQhQrkBPo
+http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 #EXTINF:-1,Viju TV1000 Русское
 #EXTGRP: кино
-http://s.only4.tv/6324/video.m3u8?token=tUQhQrkBPo
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1,Мужское кино HD
 #EXTGRP: кино
 https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
