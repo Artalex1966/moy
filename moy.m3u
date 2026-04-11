@@ -54,7 +54,7 @@ http://z0o5ctph.tvclub.xyz/iptv/2LHUFFK9TACM2V/17022/index.m3u
 http://185.218.19.43:8081/hls/Kino_1_int/playlist.m3u8
 #EXTINF:-1,Кино 1 International
 #EXTGRP: кино
-http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+http://cdntv.online/high/r4m6asczf2/883.m3u8
 #EXTINF:0,Кино 1
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/18069/index.m3u8
@@ -200,7 +200,7 @@ https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 http://ru01.plinkspile.su/21020/index.m3u8?token=KUSbsUbF6HxqFZ
 #EXTINF:-1,LIBERTY СОЮЗ 4K
 #EXTGRP: кино
-http://ru01.plinkspile.su/8029/index.m3u8?token=KUSbsUbF6HxqFZ
+http://cdntv.online/high/r4m6asczf2/2034.m3u8
 
 #EXTINF:-1,CineMan CCCP FHD
 #EXTGRP: кино
@@ -829,3 +829,5 @@ http://kinowalk.hopto.org/boh_music_live
 http://kinowalk.hopto.org/kinoteka_full_hd_top_live
 #EXTINF:-1, Play-x Тайны Чапман HD
 http://cdntv.online/low/7xsk2uci8j/2215.mpeg
+#EXTINF:-1,Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
