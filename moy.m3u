@@ -45,12 +45,23 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3
 #EXTINF:-1,Мосфильм. Золотая коллекция (+4)
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/17022/index.m3u
+
 #EXTINF:-1,Кино 1 International
 #EXTGRP: кино
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1,Кино 1 International
 #EXTGRP: кино
+https://kino-1.catcast.tv/content/38617/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1,Кино 1 International
+#EXTGRP: кино
+https://autopilot.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1,Кино 1 International
+#EXTGRP: кино
 http://cdntv.online/high/r4m6asczf2/883.m3u8
+#EXTINF:-1,Кино 1 International
+#EXTGRP: кино
+http://allway.tv/iptv/users/etmoro/952.m3u8
+
 #EXTINF:0,Кино 1
 #EXTGRP: кино
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/18069/index.m3u8
@@ -69,9 +80,6 @@ http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/10054/manifest.m3u8
 #EXTINF:-1,CineMan Дубляж СССР
 #EXTGRP: кино
 http://ott.server-iptv.live/645/video.m3u8?token=Cdb904d80a
-#EXTINF:-1,КІНО TV VHS
-#EXTGRP: кино
-https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 #EXTINF:-1,Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
@@ -87,7 +95,7 @@ http://lb.wisp.cat/lb0/CineMan-TOP/mpegts?token=HHbkdhO
 
 #EXTINF:-1,Детское кино International
 #EXTGRP: кино
-http://185.218.19.43:8081/hls/Detskoe_Kino_int/playlist.m3u8
+https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1,Детское кино
 #EXTGRP: кино
 http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/18073/manifest.m3u8
@@ -366,6 +374,9 @@ http://s.only4.tv/6843/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,LIBERTY Сваты
 #EXTGRP: кино
 http://cdntv.online/low/7xsk2uci8j/2013.mpeg
+#EXTINF:-1,BCU Сваты HD
+#EXTGRP: кино
+http://lb.wisp.cat/lb0/BCUSvatiHD/mpegts?token=HHbkdhO
 #EXTINF:-1,StrahTV Сваты
 #EXTGRP: кино
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/11062/index.m3u8
