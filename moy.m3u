@@ -173,7 +173,7 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NjQ2NTA1NywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc1ODYwMjU3LCJzZXNzaW9uX2lkIjoiMmRlM2IyZGJhMzE3NzNkMDQ5Yzk0ODYyMjE2YTMyY2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bzX6WicPFNFv_AC9bdZYhduu47esxRgjFXPfN-NGHww
 #EXTINF:-1,BOX СССР 4K
 #EXTGRP: кино
-http://ru01.plinkspile.su/21222/index.m3u8?token=KUSbsUbF6HxqFZ
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31625/index.m3u8
 #EXTINF:-1,VF Классика
 #EXTGRP: кино
 http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/10053/manifest.m3u8
@@ -197,14 +197,11 @@ http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/10085/index.m3u8
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,VeleS СССР
 #EXTGRP: кино
-http://ru01.plinkspile.su/21020/index.m3u8?token=KUSbsUbF6HxqFZ
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31643/index.m3u8
 #EXTINF:-1,LIBERTY СОЮЗ 4K
 #EXTGRP: кино
 http://cdntv.online/high/r4m6asczf2/2034.m3u8
 
-#EXTINF:-1,CineMan CCCP FHD
-#EXTGRP: кино
-http://cdntv.online/low/zjdicprmak64/1682.mpeg
 #EXTINF:-1,CineMan CCCP
 #EXTGRP: кино
 http://ott.server-iptv.live/655/video.m3u8?token=Cdb904d80a
@@ -214,15 +211,12 @@ https://tinyurl.com/aleks-u-romki-102/13005/index.m3u8
 #EXTINF:-1,PG USSR HD
 #EXTGRP: кино
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/11102/index.m3u8
-#EXTINF:-1,KBC-Страна СССР
-#EXTGRP: кино
-http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/11091/manifest.m3u8
 #EXTINF:-1,CPS USSR
 #EXTGRP: кино
 http://s.only4.tv/7658/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,Fresh Soviet
 #EXTGRP: кино
-http://cdntv.online/low/zjdicprmak64/1983.mpeg
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/19301/index.m3u8
 #EXTINF:-1,Кинозал! СССР
 #EXTGRP: кино
 http://s.only4.tv/6824/index.m3u8?token=tUQhQrkBPo
