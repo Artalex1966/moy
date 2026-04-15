@@ -52,10 +52,10 @@ https://tinyurl.com/aleks-u-romki-102/17022/index.m3u
 https://tinyurl.com/aleks-u-romki-102/18071/index.m3u8
 #EXTINF:-1,Кино 1 International
 #EXTGRP: кино
-http://cdntv.online/high/r4m6asczf2/883.m3u8
+http://cdntv.online/hls/9mlxywika2/883.m3u8
 #EXTINF:-1,Кино 1 International
 #EXTGRP: кино
-http://allway.tv/iptv/users/etmoro/952.m3u8
+http://cdntv.online/high/r4m6asczf2/883.m3u8
 
 #EXTINF:0,Кино 1
 #EXTGRP: кино
@@ -74,7 +74,7 @@ http://46.53.208.4/live/9489.m3u8
 http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/10054/manifest.m3u8
 #EXTINF:-1,CineMan Дубляж СССР
 #EXTGRP: кино
-http://ott.server-iptv.live/645/video.m3u8?token=Cdb904d80a
+http://cdntv.online/hls/r4m6asczf2/2300.mpeg
 #EXTINF:-1,Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
@@ -90,7 +90,7 @@ http://lb.wisp.cat/lb0/CineMan-TOP/mpegts?token=HHbkdhO
 
 #EXTINF:-1,Детское кино International
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/18074/index.m3u8
+http://cdntv.online/hls/r4m6asczf2/894.m3u8
 #EXTINF:-1,Детское кино
 #EXTGRP: кино
 http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/18073/manifest.m3u8
@@ -240,10 +240,10 @@ http://s.only4.tv/8040/video.m3u8?token=tUQhQrkBPo
 http://cdntv.online/low/7xsk2uci8j/1559.mpeg
 #EXTINF:-1,Clarity4K Комедия СССР 1
 #EXTGRP: кино
-http://cdntv.online/low/7xsk2uci8j/1584.mpeg
+http://cdntv.online/hls/9mlxywika2/1584.m3u8
 #EXTINF:-1,Clarity4K Комедия СССР 2
 #EXTGRP: кино
-http://cdntv.online/low/7xsk2uci8j/1583.mpeg
+http://cdntv.online/hls/9mlxywika2/1583.m3u8
 #EXTINF:-1,Смотрим 100% Классика
 #EXTGRP: кино
 https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
@@ -851,4 +851,5 @@ https://kino-1.catcast.tv/content/38617/index.m3u8
 http://kino-1.catcast.tv/content/40427/index.m3u8
 #EXTINF:-1,Детское Кино
 https://autopilot.catcast.tv/content/40427/index.m3u8
-
+#EXTINF:-1,Play-x Советский Дубляж
+http://srvru2.play-x.ru:2095/0190/video.m3u8?token=1a602ccf323f97619c4d323be4df5ab22a61be57
