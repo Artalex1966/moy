@@ -59,10 +59,10 @@ http://allway.tv/iptv/users/etmoro/952.m3u8
 
 #EXTINF:0,Кино 1
 #EXTGRP: кино
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/18069/index.m3u8
+https://stream.telecomtv101.workers.dev/c/ch0331
 #EXTINF:0,Кино 2
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/18070/index.m3u8
+https://stream.telecomtv101.workers.dev/c/ch0332
 #EXTINF:-1,VHS-ка
 #EXTGRP: кино
 http://46.53.208.4:80/live/1123.m3u8
@@ -197,7 +197,7 @@ http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/10085/index.m3u8
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,VeleS СССР
 #EXTGRP: кино
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31643/index.m3u8
+https://stream.telecomtv101.workers.dev/c/ch0392
 #EXTINF:-1,LIBERTY СОЮЗ 4K
 #EXTGRP: кино
 http://cdntv.online/high/r4m6asczf2/2034.m3u8
@@ -321,6 +321,10 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,TVPlay Фантастика HD
 #EXTGRP: кино
 http://s.only4.tv/9374/video.m3u8?token=tUQhQrkBPo
+
+#EXTINF:-1,КОМЕДИИ 24/7
+#EXTGRP: кино
+http://kinowalk.hopto.org/cmexye4ku_live
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/13037/index.m3u8
@@ -793,9 +797,9 @@ http://185.218.19.43:8081/hls/Muzyka_Kino_int/playlist.m3u8
 #EXTINF:-1,Dancehits 80
 #EXTGRP: Музыка
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1,VF Легенды Ретро ФМ
+#EXTINF:-1,Bridge Classic
 #EXTGRP: Музыка
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1628.m3u8
+http://ott.server-iptv.live/462/video.m3u8?token=Cdb904d80a
 #EXTINF:-1,VeleS Магнитофон
 #EXTGRP: Музыка
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31645/index.m3u8
@@ -831,3 +835,6 @@ http://kinowalk.hopto.org/kinoteka_full_hd_top_live
 http://cdntv.online/low/7xsk2uci8j/2215.mpeg
 #EXTINF:-1,Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1,CineMan Relax 4K
+http://ott.server-iptv.live/1405/video.m3u8?token=Cdb904d80a
+
