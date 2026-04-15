@@ -62,7 +62,7 @@ http://allway.tv/iptv/users/etmoro/952.m3u8
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/18069/index.m3u8
 #EXTINF:0,Кино 2
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/18070/index.m3u8
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/18070/index.m3u8
 #EXTINF:-1,VHS-ка
 #EXTGRP: кино
 http://46.53.208.4:80/live/1123.m3u8
@@ -787,13 +787,25 @@ http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Музыка 1 International
 #EXTGRP: Музыка
-http://185.218.19.43:8081/hls/Muzyka_1_int/playlist.m3u8
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/18078/index.m3u8
 #EXTINF:-1,Музыка 2 International
 #EXTGRP: Музыка
-http://185.218.19.43:8081/hls/Muzyka_2_int/playlist.m3u8
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/18080/index.m3u8
+#EXTINF:-1,Музыка 2 International
+#EXTGRP: Музыка
+http://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1,Музыка 2
+#EXTGRP: Музыка
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/18079/index.m3u8
 #EXTINF:-1,Музыка Кино International
 #EXTGRP: Музыка
-http://185.218.19.43:8081/hls/Muzyka_Kino_int/playlist.m3u8
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/18082/index.m3u8
+#EXTINF:-1,Музыка Кино International
+#EXTGRP: Музыка
+https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1,Музыка Кино
+#EXTGRP: Музыка
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/18081/index.m3u8
 #EXTINF:-1,Dancehits 80
 #EXTGRP: Музыка
 http://dancehits80.denvs.ru:8080/index.m3u8
