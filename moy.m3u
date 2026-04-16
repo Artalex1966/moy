@@ -40,6 +40,9 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NjQ2NTA1NywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc1ODYwMjU3LCJzZXNzaW9uX2lkIjoiMmRlM2IyZGJhMzE3NzNkMDQ5Yzk0ODYyMjE2YTMyY2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bzX6WicPFNFv_AC9bdZYhduu47esxRgjFXPfN-NGHww
+#EXTINF:-1,Мосфильм. Золотая коллекция
+#EXTGRP: кино
+http://31.210.208.171:8080/mosfilm/index.m3u8?token=+W2MSER
 #EXTINF:-1,Мосфильм. Золотая коллекция (+2)
 #EXTGRP: кино
 http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
@@ -52,7 +55,7 @@ https://tinyurl.com/aleks-u-romki-102/17022/index.m3u
 https://tinyurl.com/aleks-u-romki-102/18071/index.m3u8
 #EXTINF:-1,Кино 1 International
 #EXTGRP: кино
-http://cdntv.online/hls/9mlxywika2/883.m3u8
+http://cdntv.online/hls/zjdicprmak64/883.m3u8
 #EXTINF:-1,Кино 1 International
 #EXTGRP: кино
 http://cdntv.online/high/r4m6asczf2/883.m3u8
@@ -84,6 +87,9 @@ http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1,КиноНонСтоп
 #EXTGRP: кино
 http://kinowalk.hopto.org/nonestopmovie_live
+#EXTINF:-1,У КРАЯ БЕЗДНЫ 24/7
+#EXTGRP: кино
+http://kinowalk.hopto.org/ddator_live
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
 http://lb.wisp.cat/lb0/CineMan-TOP/mpegts?token=HHbkdhO
@@ -240,10 +246,10 @@ http://s.only4.tv/8040/video.m3u8?token=tUQhQrkBPo
 http://cdntv.online/low/7xsk2uci8j/1559.mpeg
 #EXTINF:-1,Clarity4K Комедия СССР 1
 #EXTGRP: кино
-http://cdntv.online/hls/9mlxywika2/1584.m3u8
+http://cdntv.online/hls/zjdicprmak64/1584.m3u8
 #EXTINF:-1,Clarity4K Комедия СССР 2
 #EXTGRP: кино
-http://cdntv.online/hls/9mlxywika2/1583.m3u8
+http://cdntv.online/hls/zjdicprmak64/1583.m3u8
 #EXTINF:-1,Смотрим 100% Классика
 #EXTGRP: кино
 https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
