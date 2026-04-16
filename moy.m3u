@@ -3,6 +3,8 @@
 
 #EXTINF:-1,BOX AutoTrend HD
 https://tinyurl.com/aleks-u-romki-102/31654/index.m3u8
+#EXTINF:-1,VF Авто
+https://plus.free-iptvchannel.workers.dev/channel/9090/19a71de2/index.m3u8
 #EXTINF:-1,Россия 24
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
@@ -62,10 +64,10 @@ http://cdntv.online/high/r4m6asczf2/883.m3u8
 
 #EXTINF:0,Кино 1
 #EXTGRP: кино
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/18069/index.m3u8
+https://tinyurl.com/aleks-u-romki-57/18069/index.m3u8
 #EXTINF:0,Кино 2
 #EXTGRP: кино
-http://410f4158.amazzin.pw/iptv/QUG88KPCD53DU7RT856RPCAE/18070/index.m3u8
+https://tinyurl.com/aleks-u-romki-102/18070/index.m3u8
 #EXTINF:-1,VHS-ка
 #EXTGRP: кино
 http://46.53.208.4:80/live/1123.m3u8
@@ -87,9 +89,7 @@ http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1,КиноНонСтоп
 #EXTGRP: кино
 http://kinowalk.hopto.org/nonestopmovie_live
-#EXTINF:-1,У КРАЯ БЕЗДНЫ 24/7
-#EXTGRP: кино
-http://kinowalk.hopto.org/ddator_live
+
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
 http://lb.wisp.cat/lb0/CineMan-TOP/mpegts?token=HHbkdhO
@@ -194,10 +194,10 @@ https://tinyurl.com/aleks-u-romki-102/18121/index.m3u8
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/10084/index.m3u8
 #EXTINF:-1,BCU СССР HD
 #EXTGRP: кино
-http://410f4158.amazzin.pw/iptv/QUG88KPCD53DU7RT856RPCAE/11026/index.m3u8
+https://100.free-iptvchannel.workers.dev/BCU_USSR_HD/index.m3u8
 #EXTINF:-1,VF Фильмы СССР
 #EXTGRP: кино
-http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/10085/index.m3u8
+https://plus.free-iptvchannel.workers.dev/channel/9090/n6aabccf9/index.m3u8
 #EXTINF:-1,Сов.Ком
 #EXTGRP: кино
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
@@ -207,16 +207,13 @@ http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31643/index.m3u8
 #EXTINF:-1,LIBERTY СОЮЗ 4K
 #EXTGRP: кино
 http://cdntv.online/high/r4m6asczf2/2034.m3u8
-#EXTINF:-1,KBC-Страна СССР
-#EXTGRP: кино
-http://ost.fox-tv.fun/pZGVvLm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiN2QzM2YxOGQiLCJwIjoiN2QzM2YxOGRhMTQ0MDJhMiIsImMiOiIxMDAyIiwidCI6ImI5OTgzY2YyMjc1NWQ5NzAyOTQzOTVjMTFhOWYxNzE1IiwiZCI6Ijg4NTc4IiwiciI6IjE3OTYxMSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19zdHJhbmFVU1NSL3Z/video.m3u8
 
 #EXTINF:-1,CineMan CCCP
 #EXTGRP: кино
 http://cdntv.online/high/r4m6asczf2/2214.m3u8
 #EXTINF:-1,TOP USSR HD
 #EXTGRP: кино
-http://ost.fox-tv.fun/1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiI3ZDMzZjE4ZCIsInAiOiI3ZDMzZjE4ZGExNDQwMmEyIiwiYyI6IjI0NyIsInQiOiJiOTk4M2NmMjI3NTVkOTcwMjk0Mzk1YzExYTlmMTcxNSIsImQiOiI4ODU3OCIsInIiOiIxNzk2MTEiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL3RvcHVzc3IvdmlkZW8ubTN/video.m3u8
+http://z0o5ctph.tvclub.xyz/iptv/2LHUFFK9TACM2V/13005/index.m3u8
 #EXTINF:-1,PG USSR HD
 #EXTGRP: кино
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/11102/index.m3u8
@@ -226,6 +223,7 @@ http://s.only4.tv/7658/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,Fresh Soviet
 #EXTGRP: кино
 http://ost.fox-tv.fun/lby5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6IjdkMzNmMThkIiwicCI6IjdkMzNmMThkYTE0NDAyYTIiLCJjIjoiMzcyIiwidCI6ImI5OTgzY2YyMjc1NWQ5NzAyOTQzOTVjMTFhOWYxNzE1IiwiZCI6Ijg4NTc4IiwiciI6IjE3OTYxMSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0ZyZXNoX1NvdmlldC92aWR/video.m3u8
+
 #EXTINF:-1,Кинозал! СССР
 #EXTGRP: кино
 http://s.only4.tv/6824/index.m3u8?token=tUQhQrkBPo
