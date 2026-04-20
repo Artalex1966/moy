@@ -607,9 +607,9 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1,Первый космический
 #EXTGRP: Познавательное
 https://tinyurl.com/aleks-u-romki-102/908/index.m3u
-#EXTINF:-1,Curiosity
+#EXTINF:-1,Curiosity Stream
 #EXTGRP: Познавательное
-https://telluri.ru/video/vod/994.m3u8
+http://46.53.208.4/live/994.m3u8
 #EXTINF:-1,Discovery Channel
 #EXTGRP: Познавательное
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
@@ -628,12 +628,26 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,История
 #EXTGRP: Познавательное
 https://stream-msk-04.ott.tricolor.tv/dtv/id259_MSKSG-PVR-1--Istoriya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzA3MDA5MCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NDY1MjkwLCJzZXNzaW9uX2lkIjoiZjY2N2Q3NTNjNDM2ZWJmMGVlZWExN2MyYjNhMDhlZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.q7KmzO-mCE9_WOq2WHGow6om-94Sd8fGCF6g0UWDJgY
+#EXTINF:-1,Вопросы и ответы
+#EXTGRP: Познавательное
+http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
+#EXTINF:-1,Новый игровой канал
+#EXTGRP: Познавательное
+http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
 #EXTINF:-1,Авто 24
 #EXTGRP: Познавательное
 http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
 #EXTINF:-1,Авто плюс
 #EXTGRP: Познавательное
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,BOX AutoTrend HD
+#EXTGRP: Познавательное
+https://tinyurl.com/aleks-u-romki-102/31654/index.m3u8
+#EXTINF:-1,VF Авто
+#EXTGRP: Познавательное
+https://plus.free-iptvchannel.workers.dev/channel/9090/19a71de2/index.m3u8
+
 #EXTINF:-1,НТВ Хит
 #EXTGRP: эфир
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
@@ -651,9 +665,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1,СТС International
 #EXTGRP: эфир
-https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
-#EXTINF:-1,СТС Int
-#EXTGRP: эфир
 http://188.225.31.197/bpk-tv/000000428/tve/index.m3u8
 #EXTINF:-1,ТНТ
 #EXTGRP: эфир
@@ -663,16 +674,16 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1, ТНТ International
 #EXTGRP: эфир
-https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+http://46.53.208.4:80/live/5120.m3u8
+#EXTINF:-1, ТВ 3 International
+#EXTGRP: эфир
+http://188.225.31.197/bpk-tv/000004712/tve/index.m3u8
 #EXTINF:-1,Суббота
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1,Пятница
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1,Пятница! International
-#EXTGRP: эфир
-https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1,Пятница! International
 #EXTGRP: эфир
 http://188.225.31.197/bpk-tv/000007816/tve/index.m3u8
