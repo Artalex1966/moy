@@ -54,7 +54,7 @@ https://tinyurl.com/aleks-u-romki-102/17022/index.m3u
 
 #EXTINF:-1,Кино 1 International
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/18071/index.m3u8
+https://tinyurl.com/aleks-u-romki-2/18071/index.m3u8
 #EXTINF:-1,Кино 1 International
 #EXTGRP: кино
 http://cdntv.online/hls/zjdicprmak64/883.m3u8
@@ -65,7 +65,7 @@ http://cdntv.online/hls/zjdicprmak64/883.m3u8
 https://tinyurl.com/aleks-u-romki-57/18069/index.m3u8
 #EXTINF:0,Кино 2
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/18070/index.m3u8
+https://tinyurl.com/aleks-u-romki-2/18070/index.m3u8
 #EXTINF:-1,VHS-ка
 #EXTGRP: кино
 http://46.53.208.4:80/live/1123.m3u8
@@ -87,6 +87,15 @@ http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1,КиноНонСтоп
 #EXTGRP: кино
 http://kinowalk.hopto.org/nonestopmovie_live
+#EXTINF:-1,MovieToper
+#EXTGRP: кино
+http://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1,ScripachTV
+#EXTGRP: кино
+http://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1,VideoArsenal
+#EXTGRP: кино
+http://kinowalk.hopto.org/videoarsenal_live
 
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
@@ -100,7 +109,7 @@ http://cdntv.online/hls/r4m6asczf2/894.m3u8
 http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/18073/manifest.m3u8
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/13019/index.m3u8
+https://tinyurl.com/aleks-u-romki-2/13019/index.m3u8
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/13096/index.m3u8
@@ -109,7 +118,7 @@ https://tinyurl.com/aleks-u-romki-57/13096/index.m3u8
 https://tinyurl.com/aleks-u-romki-102/13022/index.m3u8
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/13018/index.m3u8
+https://tinyurl.com/aleks-u-romki-2/13018/index.m3u8
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/13060/index.m3u8
@@ -434,18 +443,6 @@ https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wb
 #EXTINF:-1,КОЛОМБО
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/31713/index.m3u
-#EXTINF:-1,SSAFilm
-#EXTGRP: кино
-https://fl1003.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1,LentaKino
-#EXTGRP: кино
-https://fl1001.bozztv.com/ushba-films-w/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Cinemator
-#EXTGRP: кино
-https://fl1003.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Film Zone
-#EXTGRP: кино
-https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Cinema
 #EXTGRP: кино
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
@@ -634,6 +631,12 @@ http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
 #EXTINF:-1,Новый игровой канал
 #EXTGRP: Познавательное
 http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
+#EXTINF:-1,Телепутешествия
+#EXTGRP: Познавательное
+http://cdntv.online/hls/r4m6asczf2/353.m3u8
+#EXTINF:-1,Глазами туриста
+#EXTGRP: Познавательное
+http://cdntv.online/hls/r4m6asczf2/448.m3u8
 #EXTINF:-1,Авто 24
 #EXTGRP: Познавательное
 http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
