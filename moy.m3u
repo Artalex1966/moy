@@ -22,7 +22,7 @@ http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1,Соловьев Live
 #EXTGRP: эфир
-https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=SolovievLive.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzA3MDA5MCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NDY1MjkwLCJzZXNzaW9uX2lkIjoiZjY2N2Q3NTNjNDM2ZWJmMGVlZWExN2MyYjNhMDhlZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.q7KmzO-mCE9_WOq2WHGow6om-94Sd8fGCF6g0UWDJgY
 #EXTINF:-1,РЕН ТВ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
 https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
@@ -165,7 +165,7 @@ http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m
 https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzA3MDA5MCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NDY1MjkwLCJzZXNzaW9uX2lkIjoiZjY2N2Q3NTNjNDM2ZWJmMGVlZWExN2MyYjNhMDhlZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.q7KmzO-mCE9_WOq2WHGow6om-94Sd8fGCF6g0UWDJgY
 #EXTINF:-1,VF Наша победа
 #EXTGRP: кино
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/10083/index.m3u8
+https://plus.free-iptvchannel.workers.dev/channel/9090/n30e8cca0/index.m3u8
 #EXTINF:-1,Военное кино HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/18072/index.m3u8
@@ -184,7 +184,7 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclass
 http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/31625/index.m3u8
 #EXTINF:-1,VF Классика
 #EXTGRP: кино
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/10053/index.m3u8
+https://plus.free-iptvchannel.workers.dev/channel/9090/6197a3c3/index.m3u8
 #EXTINF:-1,VF Киностудия им. Горького
 #EXTGRP: кино
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/18122/index.m3u8
