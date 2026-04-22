@@ -50,7 +50,7 @@ http://31.210.208.171:8080/mosfilm/index.m3u8?token=+W2MSER
 http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1,Мосфильм. Золотая коллекция (+4)
 #EXTGRP: кино
-http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/17022/index.m3u
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/17022/manifest.m3u8
 
 #EXTINF:-1,Кино 1 International
 #EXTGRP: кино
@@ -62,19 +62,19 @@ http://cdntv.online/hls/zjdicprmak64/883.m3u8
 
 #EXTINF:0,Кино 1
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/18069/index.m3u8
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/18069/manifest.m3u8
 #EXTINF:0,Кино 2
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/18070/index.m3u8
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/18070/manifest.m3u8
 #EXTINF:-1,VHS-ка
 #EXTGRP: кино
 http://46.53.208.4:80/live/1123.m3u8
 #EXTINF:-1,ТЕХ ЛЕТ ТВ
 #EXTGRP: кино
 http://46.53.208.4/live/9489.m3u8
-#EXTINF:-1,VF Classic
+#EXTINF:-1,CineMan VHS
 #EXTGRP: кино
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/10054/index.m3u8
+http://lb.wisp.cat/lb0/CineMan-VHS/mpegts?token=HHbkdhO
 #EXTINF:-1,CineMan Дубляж СССР
 #EXTGRP: кино
 http://cdntv.online/hls/zjdicprmak64/2300.mpeg
@@ -109,13 +109,16 @@ https://tinyurl.com/aleks-u-romki-102/13019/index.m3u8
 http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/13019/manifest.m3u8
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/13096/index.m3u8
+https://tinyurl.com/aleks-u-romki-57/13096/manifest.m3u8
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/13022/index.m3u8
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/13018/index.m3u8
+#EXTINF:0,MM USSR 1941-1945 HD
+#EXTGRP: кино
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/13018/manifest.m3u8
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/13060/index.m3u8
@@ -193,7 +196,7 @@ https://tinyurl.com/aleks-u-romki-57/18121/index.m3u8
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/10084/index.m3u8
 #EXTINF:-1,BCU СССР HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/11026/index.m3u8
+http://lb.wisp.cat/lb0/BCUSSSRHD/mpegts?token=HHbkdhO
 #EXTINF:-1,VF Фильмы СССР
 #EXTGRP: кино
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/10085/index.m3u8
