@@ -11,9 +11,15 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
 #EXTINF:-1,Первый канал
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+#EXTINF:-1,Первый канал
+#EXTGRP: эфир
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/127/manifest.m3u8
 #EXTINF:-1,Россия 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia1-hd/index.m3u8
+#EXTINF:-1,Россия 1
+#EXTGRP: эфир
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/504/manifest.m3u8
 #EXTINF:-1,НТВ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
 http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
