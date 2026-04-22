@@ -109,16 +109,16 @@ http://cdntv.online/hls/zjdicprmak64/894.m3u8
 http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/18073/manifest.m3u8
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/13019/index.m3u8?|User-Agent=http-user-agent=Lavf53.32.100
+https://tinyurl.com/aleks-u-romki-102/13019/index.m3u8=0?|User-Agent=http-user-agent=Lavf92.241.24
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/13096/index.m3u8?|User-Agent=http-user-agent=Lavf53.32.100
+https://tinyurl.com/aleks-u-romki-57/13096/index.m3u8=0?|User-Agent=http-user-agent=Lavf92.241.24
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/13022/index.m3u8
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/13018/index.m3u8?|User-Agent=http-user-agent=Lavf53.32.100
+https://tinyurl.com/aleks-u-romki-57/13018/index.m3u8
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/13060/index.m3u8?|User-Agent=http-user-agent=Lavf53.32.100
@@ -193,7 +193,7 @@ http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/18122/index.m3u8
 https://tinyurl.com/aleks-u-romki-57/18121/index.m3u8
 #EXTINF:-1,VF Мосфильм
 #EXTGRP: кино
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/10084/index.m3u8
+http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/10084/index.m3u8
 #EXTINF:-1,BCU СССР HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/11026/index.m3u8
@@ -221,7 +221,7 @@ http://cdntv.online/high/zjdicprmak64/2214.m3u8
 http://u.vipl.one/high/734xh9cn6p/1682.m3u8
 #EXTINF:-1,TOP USSR HD
 #EXTGRP: кино
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/13005/index.m3u8
+http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/13005/index.m3u8
 #EXTINF:-1,PG USSR HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-57/11102/index.m3u8
@@ -251,9 +251,7 @@ http://cdntv.online/hls/zjdicprmak64/1584.m3u8
 #EXTINF:-1,Clarity4K Комедия СССР 2
 #EXTGRP: кино
 http://cdntv.online/hls/zjdicprmak64/1583.m3u8
-#EXTINF:-1,Смотрим 100% Классика
-#EXTGRP: кино
-https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+
 #EXTINF:-1,Любимое HD
 #EXTGRP: кино
 https://stream-msk-05.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzA3MDA5MCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NDY1MjkwLCJzZXNzaW9uX2lkIjoiZjY2N2Q3NTNjNDM2ZWJmMGVlZWExN2MyYjNhMDhlZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.q7KmzO-mCE9_WOq2WHGow6om-94Sd8fGCF6g0UWDJgY
@@ -278,7 +276,7 @@ http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 https://tinyurl.com/aleks-u-romki-102/13036/index.m3u8
 #EXTINF:-1,BOX Cyber HD
 #EXTGRP: кино
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/19421/index.m3u8
+http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/19421/index.m3u8
 
 #EXTINF:-1,VF Fantastic
 #EXTGRP: кино
@@ -291,7 +289,7 @@ http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/11028/index.m3u8
 http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/13034/index.m3u8
 #EXTINF:-1,VF Катастрофы
 #EXTGRP: кино
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/10080/index.m3u8
+http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/10080/index.m3u8
 #EXTINF:-1,BCU Cosmo HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/17021/index.m3u8
@@ -306,7 +304,7 @@ http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/11005/index.m3u8
 https://tinyurl.com/aleks-u-romki-102/13009/index.m3u8
 #EXTINF:-1,MM Боевик Classic HD
 #EXTGRP: кино
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/13027/index.m3u8
+http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/13027/index.m3u8
 #EXTINF:-1,MM Боевик
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/13028/index.m3u8
@@ -769,33 +767,28 @@ http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
 #EXTINF:-1,Мамонтёнок
 #EXTGRP: Детский
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Музыка 1 International
 #EXTGRP: Музыка
-http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/18078/index.m3u8
+https://tinyurl.com/aleks-u-romki-102/18078/index.m3u8
 #EXTINF:-1,Музыка 2 International
 #EXTGRP: Музыка
-http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/18080/index.m3u8
-#EXTINF:-1,Музыка 2 International
-#EXTGRP: Музыка
-http://kino-1.catcast.tv/content/37742/index.m3u8
+https://tinyurl.com/aleks-u-romki-102/18080/index.m3u8
 #EXTINF:-1,Музыка 2
 #EXTGRP: Музыка
-http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/18079/index.m3u8
+https://tinyurl.com/aleks-u-romki-102/18079/index.m3u8
 #EXTINF:-1,Музыка Кино International
 #EXTGRP: Музыка
-http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/18082/index.m3u8
-#EXTINF:-1,Музыка Кино International
-#EXTGRP: Музыка
-https://kino-1.catcast.tv/content/37739/index.m3u8
+https://tinyurl.com/aleks-u-romki-102/18082/index.m3u8
 #EXTINF:-1,Музыка Кино
 #EXTGRP: Музыка
-http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/18081/index.m3u8
+https://tinyurl.com/aleks-u-romki-102/18081/index.m3u8
 #EXTINF:-1,Dancehits 80
 #EXTGRP: Музыка
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1,Bridge Classic
+#EXTINF:-1,Классическая Музыка
 #EXTGRP: Музыка
-http://ott.server-iptv.live/462/video.m3u8?token=Cdb904d80a
+https://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:-1,VeleS Магнитофон
 #EXTGRP: Музыка
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31645/index.m3u8
@@ -807,7 +800,7 @@ https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba44/index.m3u8
 #EXTINF:-1,BOX Game HD
 #EXTGRP: игры
-http://ru01.plinkspile.su/20864/index.m3u8?token=KUSbsUbF6HxqFZ
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/19284/index.m3u8
 #EXTINF:-1,Залипательные ролики
 #EXTGRP: кино
 https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
@@ -824,22 +817,10 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=809413&e
 #EXTGRP: 999
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=809422&extension=ts
 #EXTINF:-1,MM Experiment HD
-http://ru01.plinkspile.su/20783/index.m3u8?token=KUSbsUbF6HxqFZ
-#EXTINF:-1,MM ОТКРЫТИЯ
-http://ru01.plinkspile.su/20785/index.m3u8?token=KUSbsUbF6HxqFZ
-#EXTINF:-1,Эра VHS
-http://kinowalk.hopto.org/era_vhs_live
-#EXTINF:-1, BOH
-http://kinowalk.hopto.org/boh_music_live
-#EXTINF:-1,Кинотека
-http://kinowalk.hopto.org/kinoteka_full_hd_top_live
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/19412/index.m3u8
+#EXTINF:-1,MM Открытия HD
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/19415/index.m3u8
+
+
 #EXTINF:-1, Play-x Тайны Чапман HD
 http://cdntv.online/low/zjdicprmak64/2215.mpeg
-#EXTINF:-1,Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1,Детское Кино
-http://kino-1.catcast.tv/content/40427/index.m3u8
-#EXTINF:-1,Детское Кино
-https://autopilot.catcast.tv/content/40427/index.m3u8
-#EXTINF:-1,Play-x Советский Дубляж
-http://srvru2.play-x.ru:2095/0190/video.m3u8?token=1a602ccf323f97619c4d323be4df5ab22a61be57
