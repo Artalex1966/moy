@@ -44,7 +44,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzA3MDA5MCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NDY1MjkwLCJzZXNzaW9uX2lkIjoiZjY2N2Q3NTNjNDM2ZWJmMGVlZWExN2MyYjNhMDhlZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.q7KmzO-mCE9_WOq2WHGow6om-94Sd8fGCF6g0UWDJgY
 #EXTINF:-1,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://31.210.208.171:8080/mosfilm/index.m3u8?token=+W2MSER
+http://tv.ttk.mx:9169
 #EXTINF:-1,Мосфильм. Золотая коллекция (+2)
 #EXTGRP: кино
 http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
@@ -54,7 +54,7 @@ http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/17022/manifest.m3u8
 
 #EXTINF:-1,Кино 1 International
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/18071/index.m3u8
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/18071/index.m3u8
 #EXTINF:-1,Кино 1 International
 #EXTGRP: кино
 http://cdntv.online/hls/zjdicprmak64/883.m3u8
@@ -125,7 +125,7 @@ http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/13060/manifest.m3u8
 https://tinyurl.com/aleks-u-romki-102/13021/index.m3u8
 #EXTINF:0,MM USSR Мультфильм HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/13020/index.m3u8
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/13020/index.m3u8
 
 #EXTINF:-1,IPTVPLAY ПАМЯТЬ
 #EXTGRP: кино
@@ -182,13 +182,13 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclass
 http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/31625/index.m3u8
 #EXTINF:-1,VF Классика
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/10053/index.m3u8
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/10053/index.m3u8
 #EXTINF:-1,VF Киностудия им. Горького
 #EXTGRP: кино
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/18122/index.m3u8
 #EXTINF:-1,VF Ленфильм
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/18121/index.m3u8
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/18121/index.m3u8
 #EXTINF:-1,VF Мосфильм
 #EXTGRP: кино
 http://z0o5ctph.tvclub.xyz/iptv/2LHUFFK9TACM2V/10084/index.m3u8
@@ -216,7 +216,7 @@ http://cdntv.online/high/zjdicprmak64/2214.m3u8
 http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/13005/index.m3u8
 #EXTINF:-1,PG USSR HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/11102/index.m3u8
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/11102/index.m3u8
 #EXTINF:-1,Fresh Soviet
 #EXTGRP: кино
 http://w90uasie.tvclub.xyz/iptv/NPXM4TTXXK58GDT9HK73QEAS/19301/index.m3u8
@@ -287,7 +287,7 @@ http://z0o5ctph.tvclub.xyz/iptv/2LHUFFK9TACM2V/10080/index.m3u8
 https://tinyurl.com/aleks-u-romki-102/17021/index.m3u8
 #EXTINF:-1,BCU Fantastic HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/11032/index.m3u8
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/11032/index.m3u8
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/11005/index.m3u8
@@ -548,7 +548,7 @@ https://tinyurl.com/aleks-u-romki-102/17016/index.m3u8
 
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-57/17006/index.m3u8
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/17006/index.m3u8
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/17006/index.m3u8
