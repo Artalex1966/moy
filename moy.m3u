@@ -107,25 +107,25 @@ http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/18073/manifest.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/13019/manifest.m3u8
+https://tinyurl.com/aleks-u-romki-102/13019/manifest.m3u8
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/13096/manifest.m3u8
+https://tinyurl.com/aleks-u-romki-102/13096/manifest.m3u8
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/13022/manifest.m3u8
+https://tinyurl.com/aleks-u-romki-102/13022/manifest.m3u8
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/13018/manifest.m3u8
+https://tinyurl.com/aleks-u-romki-102/13018/manifest.m3u8
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/13060/manifest.m3u8
+https://tinyurl.com/aleks-u-romki-102/13060/manifest.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/13021/index.m3u8
+https://tinyurl.com/aleks-u-romki-102/13021/manifest.m3u8
 #EXTINF:0,MM USSR Мультфильм HD
 #EXTGRP: кино
-http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/13020/index.m3u8
+https://tinyurl.com/aleks-u-romki-57/13020/manifest.m3u8
 
 #EXTINF:-1,IPTVPLAY ПАМЯТЬ
 #EXTGRP: кино
@@ -163,7 +163,7 @@ http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m
 https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzA3MDA5MCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NDY1MjkwLCJzZXNzaW9uX2lkIjoiZjY2N2Q3NTNjNDM2ZWJmMGVlZWExN2MyYjNhMDhlZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.q7KmzO-mCE9_WOq2WHGow6om-94Sd8fGCF6g0UWDJgY
 #EXTINF:-1,VF Наша победа
 #EXTGRP: кино
-http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/10083/manifest.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n30e8cca0/index.m3u8
 #EXTINF:-1,Военное кино HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/18072/index.m3u8
@@ -191,16 +191,19 @@ http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/10053/manifest.m3u8
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/18122/index.m3u8
 #EXTINF:-1,VF Ленфильм
 #EXTGRP: кино
-http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/18121/manifest.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n5d975628/index.m3u8
 #EXTINF:-1,VF Мосфильм
 #EXTGRP: кино
 http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/10084/index.m3u8
 #EXTINF:-1,BCU СССР HD
 #EXTGRP: кино
+https://kino.zunotv.workers.dev/BCU_USSR_HD/index.m3u8
+#EXTINF:-1,BCU СССР HD
+#EXTGRP: кино
 http://lb.wisp.cat/lb0/BCUSSSRHD/mpegts?token=HHbkdhO
 #EXTINF:-1,VF Фильмы СССР
 #EXTGRP: кино
-http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/10085/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n6aabccf9/index.m3u8
 #EXTINF:-1,Сов.Ком
 #EXTGRP: кино
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
@@ -222,7 +225,7 @@ http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/13005/manifest.m3u8
 http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/11102/manifest.m3u8
 #EXTINF:-1,Fresh Soviet
 #EXTGRP: кино
-http://w90uasie.tvclub.xyz/iptv/NPXM4TTXXK58GDT9HK73QEAS/19301/index.m3u8
+https://ksiomi.xalva.workers.dev/273?key=Tv.Za.Tak
 
 
 #EXTINF:-1,StrahTV СССР
@@ -278,7 +281,7 @@ http://z0o5ctph.tvclub.xyz/iptv/2LHUFFK9TACM2V/19421/index.m3u8
 http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/13034/11121/manifest.m3u8
 #EXTINF:-1,BCU Catastrophe HD
 #EXTGRP: кино
-http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/11028/index.m3u8
+https://kino.zunotv.workers.dev/BCU_Catastrophe_HD/index.m3u8
 #EXTINF:-1,MM Катастрофа
 #EXTGRP: кино
 http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/13034/manifest.m3u8
@@ -290,7 +293,7 @@ http://z0o5ctph.tvclub.xyz/iptv/2LHUFFK9TACM2V/10080/index.m3u8
 https://tinyurl.com/aleks-u-romki-102/17021/index.m3u8
 #EXTINF:-1,BCU Fantastic HD
 #EXTGRP: кино
-http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/11032/index.m3u8
+https://kino.zunotv.workers.dev/BCU_Fantastic_HD/index.m3u8
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/11005/index.m3u8
@@ -558,6 +561,9 @@ http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/17006/index.m3u8
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/17006/index.m3u
+#EXTINF:-1,VF Друзья
+#EXTGRP: кино
+https://stream.zuno-tv.workers.dev/channel/9090/53f0bc87/index.m3u8
 #EXTINF:-1,VF Гарри Поттер
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/14230/index.m3u
