@@ -4,7 +4,7 @@
 #EXTINF:-1,BOX AutoTrend HD
 https://tinyurl.com/aleks-u-romki-102/31654/index.m3u8
 #EXTINF:-1,VF Авто
-https://plus.free-iptvchannel.workers.dev/channel/9090/19a71de2/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/19a71de2/index.m3u8
 #EXTINF:-1,Россия 24
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
@@ -90,7 +90,7 @@ http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1,КиноНонСтоп
 #EXTGRP: кино
 http://kinowalk.hopto.org/nonestopmovie_live
-#EXTINF:-1,City Eden KinoKlassika
+#EXTINF:-1,Сити Эдем Киноклассика
 #EXTGRP: кино
 http://cityeden.catcast.tv/content/34185/index.m3u8
 
@@ -113,7 +113,7 @@ https://tinyurl.com/aleks-u-romki-102/13019/manifest.m3u8
 https://tinyurl.com/aleks-u-romki-102/13096/manifest.m3u8
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/13022/manifest.m3u8
+https://tinyurl.com/aleks-u-romki-57/13022/manifest.m3u8
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/13018/manifest.m3u8
