@@ -44,17 +44,18 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzA3MDA5MCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NDY1MjkwLCJzZXNzaW9uX2lkIjoiZjY2N2Q3NTNjNDM2ZWJmMGVlZWExN2MyYjNhMDhlZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.q7KmzO-mCE9_WOq2WHGow6om-94Sd8fGCF6g0UWDJgY
 #EXTINF:-1,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://46.53.208.4:80/live/1124.m3u8
-#EXTINF:-1,Мосфильм. Золотая коллекция (+2)
-#EXTGRP: кино
-http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
+http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1,Мосфильм. Золотая коллекция (+4)
 #EXTGRP: кино
-http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/17022/manifest.m3u8
+http://193.25.8.59:8000/tnv
+#EXTINF:-1,Мосфильм. Золотая коллекция (-2)
+#EXTGRP: кино
+http://46.53.208.4:80/live/1124.m3u8
+
 
 #EXTINF:-1,Кино 1 International
 #EXTGRP: кино
-http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/18071/index.m3u8
+https://tinyurl.com/aleks-u-romki-102/18071/index.m3u8
 #EXTINF:-1,Кино 1 International
 #EXTGRP: кино
 http://cdntv.online/hls/zjdicprmak64/883.m3u8
@@ -62,7 +63,7 @@ http://cdntv.online/hls/zjdicprmak64/883.m3u8
 
 #EXTINF:0,Кино 1
 #EXTGRP: кино
-http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/18069/manifest.m3u8
+https://tinyurl.com/aleks-u-romki-102/18069/manifest.m3u8
 #EXTINF:0,Кино 2
 #EXTGRP: кино
 http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/18070/manifest.m3u8
@@ -75,6 +76,9 @@ http://46.53.208.4/live/9489.m3u8
 #EXTINF:-1,CineMan VHS
 #EXTGRP: кино
 http://lb.wisp.cat/lb0/CineMan-VHS/mpegts?token=HHbkdhO
+#EXTINF:-1,Киноклассика
+#EXTGRP: кино
+http://cityeden.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1,CineMan Дубляж СССР
 #EXTGRP: кино
 http://cdntv.online/hls/zjdicprmak64/2300.mpeg
@@ -90,9 +94,7 @@ http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1,КиноНонСтоп
 #EXTGRP: кино
 http://kinowalk.hopto.org/nonestopmovie_live
-#EXTINF:-1,Сити Эдем Киноклассика
-#EXTGRP: кино
-http://cityeden.catcast.tv/content/34185/index.m3u8
+
 
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
@@ -788,6 +790,12 @@ https://tinyurl.com/aleks-u-romki-102/18081/index.m3u8
 #EXTINF:-1,Dancehits 80
 #EXTGRP: Музыка
 http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1,Now 70s
+#EXTGRP: Музыка
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 80s
+#EXTGRP: Музыка
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1,Классическая Музыка
 #EXTGRP: Музыка
 https://cityeden.catcast.tv/content/47400/index.m3u8
@@ -826,3 +834,7 @@ http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/19415/index.m3u8
 
 #EXTINF:-1, Play-x Тайны Чапман HD
 http://cdntv.online/low/zjdicprmak64/2215.mpeg
+
+#EXTINF:-1,Кино 1 International
+#EXTGRP: кино
+http://kino-1.catcast.tv/content/38617/index.m3u8
