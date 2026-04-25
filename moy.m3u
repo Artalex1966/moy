@@ -4,7 +4,7 @@
 #EXTINF:-1,BOX AutoTrend HD
 https://tinyurl.com/aleks-u-romki-102/31654/index.m3u8
 #EXTINF:-1,VF Авто
-https://stream.zuno-tv.workers.dev/channel/9090/19a71de2/index.m3u8
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/15511/index.m3u8
 #EXTINF:-1,Россия 24
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
@@ -162,17 +162,13 @@ http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m
 https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzY3NDU5MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MDY5NzkyLCJzZXNzaW9uX2lkIjoiMDU3ZGNkMGJhY2U5OWM0ODIxNDdkYzhmN2Y3YjhkZmQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X4oL8mClwGyBDaClHWmm6LqAeDmm7sxyKMWq7vO2YWk
 #EXTINF:-1,VF Наша победа
 #EXTGRP: кино
-https://stream.zuno-tv.workers.dev/channel/9090/n30e8cca0/index.m3u8
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/10083/index.m3u8
 #EXTINF:-1,Военное кино HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/18072/index.m3u8
 #EXTINF:-1,Снова в СССР
 #EXTGRP: кино
 http://kinowalk.hopto.org/backtotheussr_live
-#EXTINF:-1,НАШЕ НАСЛЕДИЕ
-#EXTGRP: кино
-http://cdn.balelbrus.com/balancer/bigteisti9/18946933/eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9/index.m3u8
-
 #EXTINF:-1,Патриот
 #EXTGRP: кино
 https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzY3NDU5MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MDY5NzkyLCJzZXNzaW9uX2lkIjoiMDU3ZGNkMGJhY2U5OWM0ODIxNDdkYzhmN2Y3YjhkZmQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X4oL8mClwGyBDaClHWmm6LqAeDmm7sxyKMWq7vO2YWk
@@ -190,7 +186,7 @@ http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/10053/manifest.m3u8
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/18122/index.m3u8
 #EXTINF:-1,VF Ленфильм
 #EXTGRP: кино
-https://stream.zuno-tv.workers.dev/channel/9090/n5d975628/index.m3u8
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/18121/index.m3u8
 #EXTINF:-1,VF Мосфильм
 #EXTGRP: кино
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/10084/index.m3u8
@@ -202,7 +198,7 @@ https://kino.zunotv.workers.dev/BCU_USSR_HD/index.m3u8
 http://lb.wisp.cat/lb0/BCUSSSRHD/mpegts?token=HHbkdhO
 #EXTINF:-1,VF Фильмы СССР
 #EXTGRP: кино
-https://stream.zuno-tv.workers.dev/channel/9090/n6aabccf9/index.m3u8
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/10085/index.m3u8
 #EXTINF:-1,Сов.Ком
 #EXTGRP: кино
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
@@ -562,7 +558,7 @@ http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/17006/index.m3u8
 https://tinyurl.com/aleks-u-romki-102/17006/index.m3u
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
-https://stream.zuno-tv.workers.dev/channel/9090/53f0bc87/index.m3u8
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/17006/index.m3u8
 #EXTINF:-1,VF Гарри Поттер
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/14230/index.m3u
