@@ -92,6 +92,9 @@ http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTGRP: кино
 http://kinowalk.hopto.org/nonestopmovie_live
 
+#EXTINF:-1,Классика кино
+#EXTGRP: кино
+https://s91412.cdn.ngenix.net/mdrm/CH_KLASSIKAKINOHD/manifest.mpd?token=6hY2Y4MTIzZmUyMWY0MmQwYTcxOGQ4ZGY1OGMzMzcwY2U
 
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
@@ -285,7 +288,7 @@ http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/13034/manifest.m3u8
 http://z0o5ctph.tvclub.xyz/iptv/2LHUFFK9TACM2V/10080/index.m3u8
 #EXTINF:-1,BCU Cosmo HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/17021/index.m3u8
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/17021/index.m3u8
 #EXTINF:-1,BCU Fantastic HD
 #EXTGRP: кино
 https://kino.zunotv.workers.dev/BCU_Fantastic_HD/index.m3u8
@@ -294,7 +297,7 @@ https://kino.zunotv.workers.dev/BCU_Fantastic_HD/index.m3u8
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/11005/index.m3u8
 #EXTINF:-1,MM 007
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/13009/index.m3u8
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/13009/index.m3u8
 #EXTINF:-1,MM Боевик Classic HD
 #EXTGRP: кино
 http://z0o5ctph.tvclub.xyz/iptv/2LHUFFK9TACM2V/13027/index.m3u8
@@ -314,16 +317,16 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://kinowalk.hopto.org/cmexye4ku_live
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/13037/index.m3u8
+http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/13037/index.m3u8
 #EXTINF:-1,MM Комедия HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/13038/index.m3u8
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/13038/index.m3u8
 #EXTINF:-1,VF Комедия
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/10055/index.m3u8
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/10055/index.m3u8
 #EXTINF:-1,BCU Comedy HDR
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/11031/index.m3u8
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/11031/index.m3u8
 #EXTINF:-1,Комедия
 #EXTGRP: кино
 http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzY3NDU5MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MDY5NzkyLCJzZXNzaW9uX2lkIjoiMDU3ZGNkMGJhY2U5OWM0ODIxNDdkYzhmN2Y3YjhkZmQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X4oL8mClwGyBDaClHWmm6LqAeDmm7sxyKMWq7vO2YWk
@@ -433,7 +436,7 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id929_MSKSG-PVR-1--Kinozal_2/03/plst.m
 https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
 #EXTINF:-1,КОЛОМБО
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/31713/index.m3u
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/31713/index.m3u
 #EXTINF:-1,Cinema
 #EXTGRP: кино
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
@@ -448,7 +451,7 @@ http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
-http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
+https://s91412.cdn.ngenix.net/mdrm/CH_C03_TV1000MEGAHITHD/manifest.mpd?token=ReMTdmN2YzN2FlNGQ3YjZkYTMyN2JhOTMwM2M2OTZkNmM
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
 http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
@@ -535,10 +538,10 @@ https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 https://tinyurl.com/aleks-u-romki-102/15100/index.m3u8
 #EXTINF:-1,VF Клиника
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/13094/index.m3u8
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/13094/index.m3u8
 #EXTINF:-1,The X-Files
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-102/11055/index.m3u8
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/11055/index.m3u8
 #EXTINF:-1,VF The X-Files
 #EXTGRP: кино
 http://allway.tv/iptv/users/etmoro/793.m3u8
