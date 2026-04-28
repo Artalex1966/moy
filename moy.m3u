@@ -47,9 +47,10 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3
 http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1,Мосфильм. Золотая коллекция (+4)
 #EXTGRP: кино
-http://193.25.8.59:8000/tnv
-
-
+http://r.faola.li/6295/video.m3u8?token=nSeG5DM7LE
+#EXTINF:-1,Мосфильм. Золотая коллекция (+4)
+#EXTGRP: кино
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/17022/manifest.m3u8
 
 #EXTINF:-1,Кино 1 International
 #EXTGRP: кино
