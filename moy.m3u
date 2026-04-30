@@ -79,7 +79,7 @@ https://kino.zunotv.workers.dev/russkoe_kino_4k/index.m3u8
 http://lb.wisp.cat/lb0/CineMan-VHS/mpegts?token=HHbkdhO
 #EXTINF:-1,CineMan Дубляж СССР
 #EXTGRP: кино
-http://cdntv.online/hls/zjdicprmak64/2300.mpeg
+http://cdntv.online/hls/9uyzpadbe8/2300.m3u8
 #EXTINF:-1,TOP 80 S HD
 #EXTGRP: Музыка
 http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/13002/manifest.m3u8
@@ -99,7 +99,7 @@ http://lb.wisp.cat/lb0/CineMan-TOP/mpegts?token=HHbkdhO
 
 #EXTINF:-1,Детское кино International
 #EXTGRP: кино
-http://cdntv.online/hls/zjdicprmak64/894.m3u8
+http://cdntv.online/hls/9uyzpadbe8/894.m3u8
 #EXTINF:-1,Детское кино
 #EXTGRP: кино
 http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/18073/manifest.m3u8
@@ -142,7 +142,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 #EXTINF:-1, Clarity4K Kинодети CССР
 #EXTGRP: кино
-http://cdntv.online/low/zjdicprmak64/1665.mpeg
+http://cdntv.online/low/9uyzpadbe8/1665.mpeg
 
 
 #EXTINF:-1,КИНОМУЛЬТ
@@ -211,7 +211,7 @@ http://cdntv.online/high/zjdicprmak64/2034.m3u8
 
 #EXTINF:-1,CineMan CCCP
 #EXTGRP: кино
-http://cdntv.online/high/zjdicprmak64/2214.m3u8
+http://cdntv.online/high/9uyzpadbe8/2214.m3u8
 #EXTINF:-1,TOP USSR HD
 #EXTGRP: кино
 http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/13005/manifest.m3u8
@@ -243,7 +243,7 @@ https://tinyurl.com/aleks-u-romki-102/10085/index.m3u8
 http://cdntv.online/hls/zjdicprmak64/1559.mpeg
 #EXTINF:-1,Clarity4K Комедия СССР 1
 #EXTGRP: кино
-http://cdntv.online/hls/zjdicprmak64/1584.m3u8
+http://cdntv.online/hls/9uyzpadbe8/1584.m3u8
 #EXTINF:-1,Clarity4K Комедия СССР 2
 #EXTGRP: кино
 http://cdntv.online/hls/zjdicprmak64/1583.m3u8
@@ -597,7 +597,7 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 https://tinyurl.com/aleks-u-romki-102/908/index.m3u
 #EXTINF:-1,Curiosity Stream
 #EXTGRP: Познавательное
-http://46.53.208.4/live/994.m3u8
+http://de2.mirror-tv.net:8080/s/s-vq2vgmk2/curiosity-stream-hd.m3u8
 #EXTINF:-1,Discovery Channel
 #EXTGRP: Познавательное
 http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
@@ -705,7 +705,7 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzY3NDU5MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MDY5NzkyLCJzZXNzaW9uX2lkIjoiMDU3ZGNkMGJhY2U5OWM0ODIxNDdkYzhmN2Y3YjhkZmQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X4oL8mClwGyBDaClHWmm6LqAeDmm7sxyKMWq7vO2YWk
 #EXTINF:-1,O!
 #EXTGRP: Детский
-http://46.53.208.17/live/3013.m3u8
+http://de2.mirror-tv.net:8080/s/s-vq2vgmk2/kanal-o.m3u8
 #EXTINF:-1,Детский мир
 #EXTGRP: Детский
 https://a3569457567-s70378.cdn.ngenix.net/detskij_mir/1/index.m3u8
@@ -733,6 +733,9 @@ https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1,Детский телеканал Мультимания
 #EXTGRP: Детский
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Мама
+#EXTGRP: Детский
+http://46.32.176.50/mama/index.m3u8
 #EXTINF:-1,Рыжий
 #EXTGRP: Детский
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
@@ -747,10 +750,13 @@ http://lb.wisp.cat/lb0/TiJi/mpegts?token=HHbkdhO
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Лёва HD
 #EXTGRP: Детский
-http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
+http://de2.mirror-tv.net:8080/s/s-vq2vgmk2/ljova-hd.m3u8
 #EXTINF:-1,Мамонтёнок
 #EXTGRP: Детский
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ТипТоп HD
+#EXTGRP: Детский
+http://de2.mirror-tv.net:8080/s/s-vq2vgmk2/tip-top-hd.m3u8
 
 #EXTINF:-1,Музыка 1 International
 #EXTGRP: Музыка
