@@ -357,13 +357,16 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/p
 
 #EXTINF:-1,MM Сваты HD
 #EXTGRP: кино
-http://allway.tv/iptv/users/etmoro/753.m3u8
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/13051/index.m3u8
 #EXTINF:-1,LIBERTY Сваты
 #EXTGRP: кино
 http://cdntv.online/low/zjdicprmak64/2013.mpeg
 #EXTINF:-1,BCU Сваты HD
 #EXTGRP: кино
 http://lb.wisp.cat/lb0/BCUSvatiHD/mpegts?token=HHbkdhO
+#EXTINF:-1,BCU Сваты HD
+#EXTGRP: кино
+http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1307.m3u8
 #EXTINF:-1,StrahTV Сваты
 #EXTGRP: кино
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/11062/index.m3u8
@@ -544,7 +547,7 @@ http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/13094/index.m3u8
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11055/index.m3u8
 #EXTINF:-1,VF The X-Files
 #EXTGRP: кино
-http://allway.tv/iptv/users/etmoro/793.m3u8
+http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/17002/index.m3u8
 #EXTINF:-1,VF Доктор Хаус
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/17016/index.m3u8
