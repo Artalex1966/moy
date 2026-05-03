@@ -199,10 +199,10 @@ http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/31643/index.m3u8
 #EXTINF:-1,LIBERTY СОЮЗ 4K
 #EXTGRP: кино
 http://cdntv.online/high/zjdicprmak64/2034.m3u8
-#EXTINF:-1,CineMan CCCP
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-sssr-fhd.png",CineMan CCCP
 #EXTGRP: кино
 http://cdntv.online/high/9uyzpadbe8/2214.m3u8
-#EXTINF:-1,TOP USSR HD
+#EXTINF:-1 tvg-logo="http://epg.one/img2/5117.png",TOP USSR HD
 #EXTGRP: кино
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/13005/manifest.m3u8
 #EXTINF:-1,USSR HD
@@ -215,6 +215,7 @@ http://cdntv.online/high/zjdicprmak64/1983.m3u8
 #EXTGRP: кино
 http://r.faola.li/8040/video.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,StrahTV СССР
+tvg-logo="http://ru.epg.one/img2/4695.png"
 #EXTGRP: кино
 http://z0o5ctph.tvclub.xyz/iptv/2LHUFFK9TACM2V/11061/index.m3u8
 #EXTINF:-1,YOSSO TV Советские фильмы
