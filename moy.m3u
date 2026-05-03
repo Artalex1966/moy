@@ -50,16 +50,16 @@ http://r.faola.li/6295/video.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,Мосфильм. Золотая коллекция (+4)
 #EXTGRP: кино
 http://w90uasie.tvclub.xyz/iptv/NPXM4TTXXK58GDT9HK73QEAS/17022/manifest.m3u8
-#EXTINF:-1,Кино 1 International
+#EXTINF:-1 tvg-logo="http://epg.one/img2/6258.png",Кино 1 International
 #EXTGRP: кино
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/18071/index.m3u8
-#EXTINF:-1,Кино 1 International
+#EXTINF:-1 tvg-logo="http://epg.one/img2/6258.png",Кино 1 International
 #EXTGRP: кино
 http://cdntv.online/hls/zjdicprmak64/883.m3u8
-#EXTINF:0,Кино 1
+#EXTINF:-1 tvg-logo="http://epg.one/img2/6256.png",Кино 1
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/18069/manifest.m3u8
-#EXTINF:0,Кино 2
+#EXTINF:-1 tvg-logo="http://epg.one/img2/6257.png",Кино 2
 #EXTGRP: кино
 http://w90uasie.tvclub.xyz/iptv/NPXM4TTXXK58GDT9HK73QEAS/18070/manifest.m3u8
 #EXTINF:-1,VHS-ка
@@ -77,22 +77,22 @@ http://cdntv.online/hls/734xh9cn6p/2300.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/13002/index.m3u8
-#EXTINF:-1,Kino Walk
+#EXTINF:-1 tvg-logo="",Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1,KinoMix
+#EXTINF:-1 tvg-logo="",KinoMix
 #EXTGRP: кино
 http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1,КиноНонСтоп
+#EXTINF:-1 tvg-logo="",КиноНонСтоп
 #EXTGRP: кино
 http://kinowalk.hopto.org/nonestopmovie_live
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
 http://lb.wisp.cat/lb0/CineMan-TOP/mpegts?token=HHbkdhO
-#EXTINF:-1,Детское кино International
+#EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
 http://cdntv.online/hls/zjdicprmak64/894.m3u8
-#EXTINF:-1,Детское кино
+#EXTINF:-1 tvg-logo="http://epg.one/img2/6260.png",Детское кино
 #EXTGRP: кино
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/18073/manifest.m3u8
 #EXTINF:0,MM USSR Комедия HD
@@ -149,10 +149,10 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 #EXTINF:-1,VF Наша победа
 #EXTGRP: кино
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/10083/index.m3u8
-#EXTINF:-1,Военное кино HD
+#EXTINF:-1 tvg-logo="http://epg.one/img2/6259.png",Военное кино HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/18072/index.m3u8
-#EXTINF:-1,Снова в СССР
+#EXTINF:-1 tvg-logo="https://github.com/Artalex1966/moy/blob/master/icon/nazadussr.png",Назад в СССР
 #EXTGRP: кино
 http://kinowalk.hopto.org/backtotheussr_live
 #EXTINF:-1,Патриот
