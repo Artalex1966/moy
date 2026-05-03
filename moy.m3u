@@ -5,6 +5,8 @@
 https://tinyurl.com/aleks-u-romki-102/31654/index.m3u8
 #EXTINF:-1,VF Авто
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/15511/index.m3u8
+#EXTINF:-1,VF VHS MIX
+https://stream.zuno-tv.workers.dev/channel/9090/357166f9/index.m3u8
 #EXTINF:-1,Россия 24
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
@@ -68,6 +70,9 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u
 #EXTINF:-1,CineMan VHS
 #EXTGRP: кино
 http://lb.wisp.cat/lb0/CineMan-VHS/mpegts?token=HHbkdhO
+#EXTINF:-1,BCU VHS HD
+#EXTGRP: кино
+https://kino.zunotv.workers.dev/BCU_VHS_HD/index.m3u8
 #EXTINF:-1,Fresh VHS
 #EXTGRP: кино
 http://cdntv.online/high/zjdicprmak64/1986.m3u8
