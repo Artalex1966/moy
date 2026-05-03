@@ -77,13 +77,13 @@ http://cdntv.online/hls/734xh9cn6p/2300.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/13002/index.m3u8
-#EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/196/128x128?unique=2026-02-27%2000:42:55.751478&access_token=ee13e047-ffb5-459a-abed-b35869a73572",Kino Walk
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/kinowalk.png",Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1 tvg-logo="",KinoMix
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/kinomix.png",KinoMix
 #EXTGRP: кино
 http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1 tvg-logo="",КиноНонСтоп
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/nonstop.png",КиноНонСтоп
 #EXTGRP: кино
 http://kinowalk.hopto.org/nonestopmovie_live
 #EXTINF:-1,CineMan Top
@@ -668,6 +668,9 @@ http://45.145.32.13:20440/sony_turbo/index.m3u8?token=test
 #EXTINF:-1,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1,Чип и Дейл
+#EXTGRP: Детский
+https://secure-ridge-22999-537c838d4a8a.herokuapp.com/194.26.229.213/chip-n-dale-rescue-rangers/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Том и Джерри
 #EXTGRP: Детский
 http://r.faola.li/8116/video.m3u8?token=nSeG5DM7LE
