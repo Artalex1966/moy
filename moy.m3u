@@ -214,8 +214,7 @@ http://cdntv.online/high/zjdicprmak64/1983.m3u8
 #EXTINF:-1,KLI СССР HD
 #EXTGRP: кино
 http://r.faola.li/8040/video.m3u8?token=nSeG5DM7LE
-#EXTINF:-1,StrahTV СССР
-tvg-logo="http://ru.epg.one/img2/4695.png"
+#EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4695.png",StrahTV СССР
 #EXTGRP: кино
 http://z0o5ctph.tvclub.xyz/iptv/2LHUFFK9TACM2V/11061/index.m3u8
 #EXTINF:-1,YOSSO TV Советские фильмы
