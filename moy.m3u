@@ -71,7 +71,7 @@ http://lb.wisp.cat/lb0/CineMan-VHS/mpegts?token=HHbkdhO
 #EXTINF:-1,Fresh VHS
 #EXTGRP: кино
 http://cdntv.online/high/zjdicprmak64/1986.m3u8
-#EXTINF:-1,CineMan Дубляж СССР
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
 http://cdntv.online/hls/734xh9cn6p/2300.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
