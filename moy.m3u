@@ -54,7 +54,7 @@ http://r.faola.li/6295/video.m3u8?token=nSeG5DM7LE
 http://w90uasie.tvclub.xyz/iptv/NPXM4TTXXK58GDT9HK73QEAS/17022/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6258.png",Кино 1 International
 #EXTGRP: кино
-http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/18071/index.m3u8
+http://185.239.141.187:8081/hls/Kino_1_int/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6258.png",Кино 1 International
 #EXTGRP: кино
 http://cdntv.online/hls/zjdicprmak64/883.m3u8
@@ -96,7 +96,7 @@ http://kinowalk.hopto.org/nonestopmovie_live
 http://lb.wisp.cat/lb0/CineMan-TOP/mpegts?token=HHbkdhO
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
-http://cdntv.online/hls/zjdicprmak64/894.m3u8
+http://185.239.141.187:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6260.png",Детское кино
 #EXTGRP: кино
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/18073/manifest.m3u8
@@ -346,13 +346,13 @@ http://lb.wisp.cat/lb0/BCUSvatiHD/mpegts?token=HHbkdhO
 #EXTINF:-1,BCU Сваты HD
 #EXTGRP: кино
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1307.m3u8
-#EXTINF:-1,StrahTV Сваты
+#EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4696.png",StrahTV Сваты
 #EXTGRP: кино
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/11062/index.m3u8
 #EXTINF:-1,CineMan Сваты
 #EXTGRP: кино
 http://lb.wisp.cat/lb0/CineMan-Svaty/mpegts?token=HHbkdhO
-#EXTINF:-1,VF Сваты
+#EXTINF:-1 ,VF Сваты
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/13080/index.m3u8
 #EXTINF:-1,VF Сваты
@@ -367,7 +367,7 @@ http://r.faola.li/6825/video.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,VF Реальные пацаны
 #EXTGRP: кино
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1612.m3u8
-#EXTINF:-1,VF Каламбур
+#EXTINF:-1 tvg-logo="http://ru.epg.one/img2/9233.png",VF Каламбур
 #EXTGRP: кино
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/31557/index.m3u8
 #EXTINF:-1,VF Уральские пельмени
@@ -403,7 +403,7 @@ http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/p
 #EXTINF:-1,Русский Иллюзион
 #EXTGRP: кино
 https://telluri.ru/video/vod/869.m3u8
-#EXTINF:-1,ЖЕНСКИЙ ДЕТЕКТИВ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/jenskiydetektiv.png",ЖЕНСКИЙ ДЕТЕКТИВ
 #EXTGRP: кино
 https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3ODI3OTA4NSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc3Njc0Mjg1LCJzZXNzaW9uX2lkIjoiMjNlZGQxZGEzNDQ5N2EwNWQ1MjE1YzNkZGE2NGJlYWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.HBC-tUmA49EeK2wewtkjQHHfBkxuuv-wvfmOYxqtUsQ
 #EXTINF:-1,УЛИЦЫ РАЗБИТЫХ ФОНАРЕЙ
@@ -750,16 +750,16 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 http://de2.mirror-tv.net:8080/s/s-vq2vgmk2/tip-top-hd.m3u8
 #EXTINF:-1,Музыка 1 International
 #EXTGRP: Музыка
-https://tinyurl.com/aleks-u-romki-102/18078/index.m3u8
+http://185.239.141.187:8081/hls/Muzyka_1_int/playlist.m3u8
 #EXTINF:-1,Музыка 2 International
 #EXTGRP: Музыка
-http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/18080/manifest.m3u8
+http://185.239.141.187:8081/hls/Muzyka_2_int/playlist.m3u8
 #EXTINF:-1,Музыка 2
 #EXTGRP: Музыка
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/18079/manifest.m3u8
 #EXTINF:-1,Музыка Кино International
 #EXTGRP: Музыка
-https://tinyurl.com/aleks-u-romki-102/18082/index.m3u8
+http://185.239.141.187:8081/hls/Muzyka_Kino_int/playlist.m3u8
 #EXTINF:-1,Музыка Кино
 #EXTGRP: Музыка
 https://tinyurl.com/aleks-u-romki-102/18081/index.m3u8
