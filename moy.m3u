@@ -46,11 +46,11 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3ODI3OTA4NSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc3Njc0Mjg1LCJzZXNzaW9uX2lkIjoiMjNlZGQxZGEzNDQ5N2EwNWQ1MjE1YzNkZGE2NGJlYWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.HBC-tUmA49EeK2wewtkjQHHfBkxuuv-wvfmOYxqtUsQ
 #EXTINF:-1,Мосфильм. Золотая коллекция (+4)
 #EXTGRP: кино
+http://r.faola.li/6295/video.m3u8?token=nSeG5DM7LE
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6258.png",Кино 1 International
 #EXTGRP: кино
 http://185.239.141.187:8081/hls/Kino_1_int/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6256.png",Кино 1
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/18069/manifest.m3u8
