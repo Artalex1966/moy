@@ -324,7 +324,7 @@ http://stream-msk-08.ott.tricolor.tv/dtv/id642_MSKSG-PVR-1--Kamedi_HD/03/plst.m3
 http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3ODI3OTA4NSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc3Njc0Mjg1LCJzZXNzaW9uX2lkIjoiMjNlZGQxZGEzNDQ5N2EwNWQ1MjE1YzNkZGE2NGJlYWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.HBC-tUmA49EeK2wewtkjQHHfBkxuuv-wvfmOYxqtUsQ
 #EXTINF:-1,viju+ Comedy HD
 #EXTGRP: кино
-https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
+https://kino.zunotv.workers.dev/viju_plus_comedy_hd/index.m3u8
 #EXTINF:-1,Play-x 6 кадров HD
 #EXTGRP: кино
 http://cdntv.online/high/zjdicprmak64/2220.mpeg
@@ -399,7 +399,7 @@ http://stream-msk-04.ott.tricolor.tv/dtv/id517_MSKSG-PVR-1--Rus_Bests/03/plst.m3
 http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3ODI3OTA4NSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc3Njc0Mjg1LCJzZXNzaW9uX2lkIjoiMjNlZGQxZGEzNDQ5N2EwNWQ1MjE1YzNkZGE2NGJlYWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.HBC-tUmA49EeK2wewtkjQHHfBkxuuv-wvfmOYxqtUsQ
 #EXTINF:-1,Русский Иллюзион
 #EXTGRP: кино
-https://telluri.ru/video/vod/869.m3u8
+http://r.faola.li/6454/video.m3u8?token=nSeG5DM7LE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/jenskiydetektiv.png",ЖЕНСКИЙ ДЕТЕКТИВ
 #EXTGRP: кино
 https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3ODI3OTA4NSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc3Njc0Mjg1LCJzZXNzaW9uX2lkIjoiMjNlZGQxZGEzNDQ5N2EwNWQ1MjE1YzNkZGE2NGJlYWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.HBC-tUmA49EeK2wewtkjQHHfBkxuuv-wvfmOYxqtUsQ
@@ -432,13 +432,13 @@ https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
-https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
+https://kino.zunotv.workers.dev/viju_plus_megahit_hd/index.m3u8
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP: кино
-https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
+https://kino.zunotv.workers.dev/viju_plus_premiere_hd/index.m3u8
 #EXTINF:0,viju+ Comedy HD
 #EXTGRP: кино
-https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
+https://kino.zunotv.workers.dev/viju_plus_comedy_hd/index.m3u8
 #EXTINF:-1,Viju TV1000 Русское
 #EXTGRP: кино
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
@@ -535,9 +535,6 @@ http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/17006/index.m3u8
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/17006/index.m3u
-#EXTINF:-1,VF Друзья
-#EXTGRP: кино
-http://uhugktfh.megogo.xyz/iptv/BV4SSQ9PRKF2CW/17006/index.m3u8
 #EXTINF:-1,VF Гарри Поттер
 #EXTGRP: кино
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1547.m3u8
