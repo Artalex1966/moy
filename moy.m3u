@@ -61,7 +61,7 @@ http://7036420a.edmonst.net/iptv/RW8PXW2THZMEYN5UDGE37UGZ/18070/manifest.m3u8
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3ODg4Mzk5OCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc4Mjc5MTk4LCJzZXNzaW9uX2lkIjoiMGJiMzk5NzBiYmQ2MmNjZTU4YjA4OTAyNmE2MTM5NGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.68NZQkxYM7oJHkf68xRCQ1X83Mr-WjI8FatACnpiN5w
 #EXTINF:-1,CineMan VHS
 #EXTGRP: кино
-http://lb.wisp.cat/lb0/CineMan-VHS/mpegts?token=HHbkdhO
+http://cdntv.online/high/zjdicprmak64/1263.m3u8
 #EXTINF:-1,BCU VHS HD
 #EXTGRP: кино
 https://kino.zunotv.workers.dev/BCU_VHS_HD/index.m3u8
@@ -70,7 +70,7 @@ https://kino.zunotv.workers.dev/BCU_VHS_HD/index.m3u8
 http://cdntv.online/high/zjdicprmak64/1986.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
-http://cdntv.online/hls/734xh9cn6p/2300.m3u8
+http://cdntv.online/high/zjdicprmak64/2300.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/13002/index.m3u8
@@ -148,7 +148,7 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/10083/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6259.png",Военное кино HD
 #EXTGRP: кино
-http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/18072/index.m3u8
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/18072/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/nazadussr.png",Назад в СССР
 #EXTGRP: кино
 http://kinowalk.hopto.org/backtotheussr_live
@@ -751,7 +751,7 @@ http://185.239.141.187:8081/hls/Muzyka_Kino_int/playlist.m3u8
 https://tinyurl.com/aleks-u-romki-102/18081/index.m3u8
 #EXTINF:-1,FRESH Retro HD
 #EXTGRP: Музыка
-http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/18092/index.m3u8
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/18092/index.m3u8
 #EXTINF:-1,Dancehits 80
 #EXTGRP: Музыка
 http://dancehits80.denvs.ru:8080/index.m3u8
