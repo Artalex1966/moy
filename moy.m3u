@@ -5,8 +5,6 @@
 https://tinyurl.com/aleks-u-romki-102/31654/index.m3u8
 #EXTINF:-1,VF Авто
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/15511/index.m3u8
-#EXTINF:-1,VF VHS MIX
-https://stream.zuno-tv.workers.dev/channel/9090/357166f9/index.m3u8
 #EXTINF:-1,Россия 24
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
@@ -340,9 +338,6 @@ http://cdntv.online/low/zjdicprmak64/2013.mpeg
 #EXTINF:-1,BCU Сваты HD
 #EXTGRP: кино
 http://lb.wisp.cat/lb0/BCUSvatiHD/mpegts?token=HHbkdhO
-#EXTINF:-1,BCU Сваты HD
-#EXTGRP: кино
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1307.m3u8
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4696.png",StrahTV Сваты
 #EXTGRP: кино
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/11062/index.m3u8
@@ -663,7 +658,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1,В гостях у сказки
 #EXTGRP: Детский
-http://45.145.32.13:20440/sony_turbo/index.m3u8?token=test
+http://cdn.kubteltv.workers.dev/?ID=207
 #EXTINF:-1,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
@@ -712,10 +707,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mult_HD.m3u8
 #EXTINF:-1,Мультиландия
 #EXTGRP: Детский
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Multilandiya.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3ODg4Mzk5OCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc4Mjc5MTk4LCJzZXNzaW9uX2lkIjoiMGJiMzk5NzBiYmQ2MmNjZTU4YjA4OTAyNmE2MTM5NGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.68NZQkxYM7oJHkf68xRCQ1X83Mr-WjI8FatACnpiN5w
-#EXTINF:-1,МУЛЬТИМАНИЯ
-#EXTGRP: Детский
-https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
-#EXTINF:-1,Детский телеканал Мультимания
+#EXTINF:-1,Мультимания
 #EXTGRP: Детский
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Мама
@@ -757,6 +749,9 @@ http://185.239.141.187:8081/hls/Muzyka_Kino_int/playlist.m3u8
 #EXTINF:-1,Музыка Кино
 #EXTGRP: Музыка
 https://tinyurl.com/aleks-u-romki-102/18081/index.m3u8
+#EXTINF:-1,FRESH Retro HD
+#EXTGRP: Музыка
+http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/18092/index.m3u8
 #EXTINF:-1,Dancehits 80
 #EXTGRP: Музыка
 http://dancehits80.denvs.ru:8080/index.m3u8
@@ -766,9 +761,6 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1,Now 80s
 #EXTGRP: Музыка
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1,Классическая Музыка
-#EXTGRP: Музыка
-https://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:-1,VeleS Магнитофон
 #EXTGRP: Музыка
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/31645/index.m3u8
@@ -802,10 +794,3 @@ http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/19412/index.m3u8
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/19415/index.m3u8
 #EXTINF:-1, Play-x Тайны Чапман HD
 http://cdntv.online/low/zjdicprmak64/2215.mpeg
-#EXTINF:-1,Кино 1 International
-#EXTGRP: кино
-http://5.9.44.106/content/38617/index.m3u8
-#EXTINF:-1,City Eden KinoKomediya
-http://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1,City Eden KinoAction
-http://cityeden.catcast.tv/content/41333/index.m3u8
