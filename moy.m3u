@@ -62,9 +62,12 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u
 #EXTINF:-1,CineMan VHS
 #EXTGRP: кино
 http://cdntv.online/high/zjdicprmak64/1263.m3u8
-#EXTINF:-1,BCU VHS HD
+#EXTINF:-1,Clarity4K Комедия (VHS)
 #EXTGRP: кино
-https://kino.zunotv.workers.dev/BCU_VHS_HD/index.m3u8
+http://cdntv.online/high/zjdicprmak64/2211.m3u8
+#EXTINF:-1,Sky High Wizz VHS FHD
+#EXTGRP: кино
+http://cdntv.online/high/zjdicprmak64/2275.m3u8
 #EXTINF:-1,Fresh VHS
 #EXTGRP: кино
 http://cdntv.online/high/zjdicprmak64/1986.m3u8
@@ -85,7 +88,7 @@ http://kinowalk.hopto.org/yurich_kinomix_live
 http://kinowalk.hopto.org/nonestopmovie_live
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
-http://lb.wisp.cat/lb0/CineMan-TOP/mpegts?token=HHbkdhO
+http://cdntv.online/high/zjdicprmak64/1256.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
 http://185.239.141.187:8081/hls/Detskoe_Kino_int/playlist.m3u8
@@ -749,6 +752,15 @@ http://185.239.141.187:8081/hls/Muzyka_Kino_int/playlist.m3u8
 #EXTINF:-1,Музыка Кино
 #EXTGRP: Музыка
 https://tinyurl.com/aleks-u-romki-102/18081/index.m3u8
+#EXTINF:-1,Play-x Муз Golden Hits 90s HD
+#EXTGRP: Музыка
+http://cdntv.online/high/zjdicprmak64/2255.m3u8
+#EXTINF:-1,Play-x Муз Music 80s HD
+#EXTGRP: Музыка
+http://cdntv.online/high/zjdicprmak64/2256.m3u8
+#EXTINF:-1,Play-x Муз Rock Pop Ballads HD
+#EXTGRP: Музыка
+http://cdntv.online/high/zjdicprmak64/2257.m3u8
 #EXTINF:-1,FRESH Retro HD
 #EXTGRP: Музыка
 http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/18092/index.m3u8
