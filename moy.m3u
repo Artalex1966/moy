@@ -176,6 +176,9 @@ http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/18121/index.m3u8
 #EXTINF:-1,VF Мосфильм
 #EXTGRP: кино
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/10084/index.m3u8
+#EXTINF:-1,VF Беларусьфильм
+#EXTGRP: кино
+https://stream.zuno-tv.workers.dev/channel/9090/n29c744b4/index.m3u8
 #EXTINF:-1,BCU СССР HD
 #EXTGRP: кино
 https://kino.zunotv.workers.dev/BCU_USSR_HD/index.m3u8
