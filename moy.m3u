@@ -520,7 +520,7 @@ http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/13094/index.m3u8
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/11055/index.m3u8
 #EXTINF:-1,VF The X-Files
 #EXTGRP: кино
-http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/17002/index.m3u8
+http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/17002/index.m3u8
 #EXTINF:-1,VF Доктор Хаус
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-102/17016/index.m3u8
@@ -562,7 +562,7 @@ https://tinyurl.com/aleks-u-romki-102/13082/index.m3u8
 https://tinyurl.com/aleks-u-romki-102/13083/index.m3u8
 #EXTINF:-1,Galaxy
 #EXTGRP: Познавательное
-https://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
+http://tv.ttk.mx:9071
 #EXTINF:-1,Galaxy
 #EXTGRP: Познавательное
 http://193.25.8.59:8000/galaxy
@@ -665,9 +665,6 @@ http://cdn.kubteltv.workers.dev/?ID=207
 #EXTINF:-1,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1,Чип и Дейл
-#EXTGRP: Детский
-https://secure-ridge-22999-537c838d4a8a.herokuapp.com/194.26.229.213/chip-n-dale-rescue-rangers/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Том и Джерри
 #EXTGRP: Детский
 http://r.faola.li/8116/video.m3u8?token=nSeG5DM7LE
@@ -691,7 +688,7 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.
 http://de2.mirror-tv.net:8080/s/s-vq2vgmk2/kanal-o.m3u8
 #EXTINF:-1,Детский мир
 #EXTGRP: Детский
-https://a3569457567-s70378.cdn.ngenix.net/detskij_mir/1/index.m3u8
+http://93.84.115.174:10181/detskimir
 #EXTINF:-1,Карусель
 #EXTGRP: Детский
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
@@ -800,9 +797,6 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=809413&e
 #EXTINF:-1,RELAX EUROPE TOWNS 4K
 #EXTGRP: 999
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=809422&extension=ts
-#EXTINF:-1,РАЙСКИЕ МЕСТА НА ЗЕМЛЕ 4K 60fps
-#EXTGRP: 999
-https://river-4-467.rtbcdn.ru/hls-vod/1JnqlH4b1GToFlbfyS98yA/1778944565/1778/0x5000c500c8ca1f99/ce1ba50a90b24925a689493496d705d4.mp4.m3u8?i=3840x2160_12559
 #EXTINF:-1,MM Experiment HD
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/19412/index.m3u8
 #EXTINF:-1,MM Открытия HD
