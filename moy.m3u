@@ -89,9 +89,6 @@ http://cdntv.online/high/zjdicprmak64/1256.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
 http://185.239.141.187:8081/hls/Detskoe_Kino_int/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/6260.png",Детское кино
-#EXTGRP: кино
-http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/18073/manifest.m3u8
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/RW8PXW2THZMEYN5UDGE37UGZ/13019/manifest.m3u8
@@ -109,7 +106,7 @@ http://aczgxdve.socminlt.org/iptv/SS6UGPWGTWWRZ6/13018/index.m3u8
 http://71f76191.ucomist.net/iptv/PG8B9X5CD3K8XH/13060/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-http://68c56bc9.ottolok.net/iptv/9S2FL9Q6FZ69N6/13021/index.m3u8
+http://z0o5ctph.tvclub.xyz/iptv/2LHUFFK9TACM2V/13021/index.m3u8
 #EXTINF:0,MM USSR Мультфильм HD
 #EXTGRP: кино
 http://4dg1mmfk.megatv.fun/iptv/ZWAFXC6D7D2WCVFGVZBF97FS/13020/manifest.m3u8
@@ -361,7 +358,7 @@ http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/31624/index.m3u8
 http://r.faola.li/6825/video.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,VF Реальные пацаны
 #EXTGRP: кино
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1612.m3u8
+http://jvgnvmin.megatv.fun/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/17015/index.m3u8
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/9233.png",VF Каламбур
 #EXTGRP: кино
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/31557/index.m3u8
