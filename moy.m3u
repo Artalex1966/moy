@@ -59,6 +59,9 @@ http://7036420a.edmonst.net/iptv/RW8PXW2THZMEYN5UDGE37UGZ/18070/manifest.m3u8
 #EXTINF:-1,VHS-ка
 #EXTGRP: кино
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDA5MzYxMiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc5NDg4ODEyLCJzZXNzaW9uX2lkIjoiNTUzMjIyYTJkZmNmNWRkNTE1N2RkNmQwNmIwYmFjZGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TqRKrCtCzYDII3IAynv1hCr4di6TmmF-E3FrAJETEWs
+#EXTINF:-1,Кинозал VHS
+#EXTGRP: кино
+https://tinyurl.com/aleks-u-romki-40/11059/index.m3u8
 #EXTINF:-1,CineMan VHS
 #EXTGRP: кино
 http://cdntv.online/high/zjdicprmak64/1263.m3u8
@@ -73,7 +76,7 @@ http://cdntv.online/high/zjdicprmak64/1986.m3u8
 http://cdntv.online/high/zjdicprmak64/2300.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
-http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/13002/index.m3u8
+https://tinyurl.com/aleks-u-romki-40/13002/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/kinowalk.png",Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
@@ -83,6 +86,12 @@ http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/nonstop.png",КиноНонСтоп
 #EXTGRP: кино
 http://kinowalk.hopto.org/nonestopmovie_live
+#EXTINF:-1,VF Adventure
+#EXTGRP: кино
+https://tinyurl.com/aleks-u-romki-40/10000/index.m3u8
+#EXTINF:-1,Фантастика HD
+#EXTGRP: кино
+https://tinyurl.com/aleks-u-romki-40/11070/index.m3u8
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
 http://cdntv.online/high/zjdicprmak64/1256.m3u8
@@ -100,10 +109,10 @@ http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/13096/manifest.m3u8
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/13022/manifest.m3u8
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-http://aczgxdve.socminlt.org/iptv/SS6UGPWGTWWRZ6/13018/index.m3u8
+https://tinyurl.com/aleks-u-romki-40/13018/index.m3u8
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-http://71f76191.ucomist.net/iptv/PG8B9X5CD3K8XH/13060/index.m3u8
+https://tinyurl.com/aleks-u-romki-40/13060/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://z0o5ctph.tvclub.xyz/iptv/2LHUFFK9TACM2V/13021/index.m3u8
@@ -269,6 +278,9 @@ http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/10080/index.m3u8
 #EXTINF:-1,BCU Cosmo HD
 #EXTGRP: кино
 http://jm8f0z5r.russtv.net/iptv/TKCN8M3YQ3UQX7/17021/index.m3u8
+#EXTINF:-1,MM UFO
+#EXTGRP: кино
+https://tinyurl.com/aleks-u-romki-40/13017/index.m3u8
 #EXTINF:-1,BCU Fantastic HDR
 #EXTGRP: кино
 https://kino.zunotv.workers.dev/BCU_Fantastic_HD/index.m3u8
