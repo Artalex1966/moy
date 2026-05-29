@@ -45,6 +45,9 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3
 #EXTINF:-1,Мосфильм. Золотая коллекция (+4)
 #EXTGRP: кино
 http://r.faola.li/6295/video.m3u8?token=nSeG5DM7LE
+#EXTINF:-1,Мосфильм. Золотая коллекция (+4)
+#EXTGRP: кино
+http://s.only4.tv/6295/index.m3u8?token=zoCHqBtVEo
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6258.png",Кино 1 International
 #EXTGRP: кино
@@ -73,7 +76,7 @@ http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/13037/index.m3u8
 http://cdntv.online/high/zjdicprmak64/1986.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
-http://cdntv.online/high/zjdicprmak64/2300.m3u8
+http://s.only4.tv/6802/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-40/13002/index.m3u8
@@ -94,7 +97,7 @@ https://tinyurl.com/aleks-u-romki-40/10000/index.m3u8
 https://tinyurl.com/aleks-u-romki-40/11070/index.m3u8
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
-http://cdntv.online/hls/zjdicprmak64/1256.m3u8
+http://s.only4.tv/6839/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
 http://185.239.141.187:8081/hls/Detskoe_Kino_int/playlist.m3u8
@@ -361,7 +364,7 @@ http://jvgnvmin.megatv.fun/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/11047/index.m3u8
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/11062/index.m3u8
 #EXTINF:-1,CineMan Сваты
 #EXTGRP: кино
-http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11014/index.m3u8
+http://s.only4.tv/6843/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1 ,VF Сваты
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-47/13080/index.m3u8
@@ -539,6 +542,9 @@ http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/17002/index.m3u8
 #EXTINF:-1,VF Доктор Хаус
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-47/17016/index.m3u8
+#EXTINF:-1,TVPlay Друзья HD
+#EXTGRP: кино
+http://s.only4.tv/9379/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-47/17006/manifest.m3u8
