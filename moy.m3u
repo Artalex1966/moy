@@ -109,13 +109,13 @@ http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/13096/manifest.m3u8
 http://jvgnvmin.megatv.fun/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/13022/manifest.m3u8
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-http://aczgxdve.socminlt.org/iptv/SS6UGPWGTWWRZ6/13018/index.m3u8
+http://jvgnvmin.megatv.fun/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/13018/index.m3u8
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
 http://jvgnvmin.megatv.fun/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/13060/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/83HUZRHVU7LZA2/13021/index.m3u8
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/13021/index.m3u8
 #EXTINF:0,MM USSR Мультфильм HD
 #EXTGRP: кино
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/13020/manifest.m3u8
@@ -131,6 +131,12 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.
 #EXTINF:-1,Том и Джерри
 #EXTGRP: кино
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1,Том и Джерри
+#EXTGRP: кино
+http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXVB--MCsItOFaLkGzOHdRlJ9Z89_YFzeQlminLTJbkuHQ
+#EXTINF:-1,Утиные истории
+#EXTGRP: кино
+http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXXRlQY0v-4aqF-jRwFOIfPuDPYGSTfqLC3eQEScqRZdug
 #EXTINF:-1, Clarity4K Kинодети CССР
 #EXTGRP: кино
 http://cdntv.online/low/9uyzpadbe8/1665.mpeg
@@ -220,7 +226,7 @@ http://r.faola.li/8040/video.m3u8?token=nSeG5DM7LE
 http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11061/index.m3u8
 #EXTINF:-1,YOSSO TV Советские фильмы
 #EXTGRP: кино
-http://lb.wisp.cat/lb0/YOSSO-SSSR/mpegts?token=HHbkdhO
+http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWjLkci38AkIQCZkEnAnOATXG4tdUbW3Zray2cJLU4XOA
 #EXTINF:-1,YOSSO TV Советские фильмы 4K
 #EXTGRP: кино
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/19435/index.m3u
@@ -239,6 +245,9 @@ http://cdntv.online/hls/zjdicprmak64/1583.m3u8
 #EXTINF:-1, CineMan CCCP 4K
 #EXTGRP: кино
 http://cdntv.online/high/zjdicprmak64/1682.m3u8
+#EXTINF:-1,Venera.TV Советская классика 4K
+#EXTGRP: кино
+http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWs-ZM4dN_M6nsLghNHgdoIe7dQdMhKOwz1VqkKmNLlpQ
 #EXTINF:-1,Любимое HD
 #EXTGRP: кино
 https://stream-msk-05.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDA5MzYxMiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc5NDg4ODEyLCJzZXNzaW9uX2lkIjoiNTUzMjIyYTJkZmNmNWRkNTE1N2RkNmQwNmIwYmFjZGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TqRKrCtCzYDII3IAynv1hCr4di6TmmF-E3FrAJETEWs
@@ -680,6 +689,9 @@ http://r.faola.li/8116/video.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,Маша и Медведь
 #EXTGRP: Детский
 https://rpn3.bozztv.com/dvrfl07/ushba79/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Щенячий патруль
+#EXTGRP: Детский
+http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWvjONEBuDmALAOfQzvT3Jn6eKsdk45ixBEqAUQQU2TIg
 #EXTINF:-1,КИНОМУЛЬТ
 #EXTGRP: Детский
 https://stream-msk-17.ott.tricolor.tv/dtv/id944_MSKSG-PVR-1--KinoMult_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDA5MzYxMiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc5NDg4ODEyLCJzZXNzaW9uX2lkIjoiNTUzMjIyYTJkZmNmNWRkNTE1N2RkNmQwNmIwYmFjZGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TqRKrCtCzYDII3IAynv1hCr4di6TmmF-E3FrAJETEWs
