@@ -94,7 +94,7 @@ https://tinyurl.com/aleks-u-romki-40/10000/index.m3u8
 https://tinyurl.com/aleks-u-romki-40/11070/index.m3u8
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
-http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXUIKRvMA_KFbX22MHJvALFAMHPoWLWhUJWxIJw71KtgIQ
+http://cdntv.online/hls/zjdicprmak64/1256.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
 http://185.239.141.187:8081/hls/Detskoe_Kino_int/playlist.m3u8
@@ -131,12 +131,9 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.
 #EXTINF:-1,Том и Джерри
 #EXTGRP: кино
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1,Том и Джерри
-#EXTGRP: кино
-http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXVB--MCsItOFaLkGzOHdRlJ9Z89_YFzeQlminLTJbkuHQ
 #EXTINF:-1,Утиные истории
 #EXTGRP: кино
-http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXXRlQY0v-4aqF-jRwFOIfPuDPYGSTfqLC3eQEScqRZdug
+http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/30156/index.m3u8
 #EXTINF:-1, Clarity4K Kинодети CССР
 #EXTGRP: кино
 http://cdntv.online/low/9uyzpadbe8/1665.mpeg
@@ -161,7 +158,7 @@ https://tinyurl.com/aleks-u-romki-47/10083/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6259.png",Военное кино HD
 #EXTGRP: кино
 http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/18072/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/nazadussr.png",Назад в СССР
+#EXTINF:-1 tvg-logo="http://1lot.tv/ch/8742.png",Назад в СССР
 #EXTGRP: кино
 http://kinowalk.hopto.org/backtotheussr_live
 #EXTINF:-1,Патриот
@@ -226,7 +223,7 @@ http://r.faola.li/8040/video.m3u8?token=nSeG5DM7LE
 http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11061/index.m3u8
 #EXTINF:-1,YOSSO TV Советские фильмы
 #EXTGRP: кино
-http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWjLkci38AkIQCZkEnAnOATXG4tdUbW3Zray2cJLU4XOA
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/14175/index.m3u8
 #EXTINF:-1,YOSSO TV Советские фильмы 4K
 #EXTGRP: кино
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/19435/index.m3u
@@ -691,7 +688,13 @@ http://r.faola.li/8116/video.m3u8?token=nSeG5DM7LE
 https://rpn3.bozztv.com/dvrfl07/ushba79/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Щенячий патруль
 #EXTGRP: Детский
-http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWvjONEBuDmALAOfQzvT3Jn6eKsdk45ixBEqAUQQU2TIg
+http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/30167/index.m3u8
+#EXTINF:-1,Чудеса на виражах
+#EXTGRP: Детский
+http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/30192/index.m3u8
+#EXTINF:-1,Тимон и Пумба
+#EXTGRP: Детский
+http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/30164/index.m3u8
 #EXTINF:-1,КИНОМУЛЬТ
 #EXTGRP: Детский
 https://stream-msk-17.ott.tricolor.tv/dtv/id944_MSKSG-PVR-1--KinoMult_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDA5MzYxMiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc5NDg4ODEyLCJzZXNzaW9uX2lkIjoiNTUzMjIyYTJkZmNmNWRkNTE1N2RkNmQwNmIwYmFjZGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TqRKrCtCzYDII3IAynv1hCr4di6TmmF-E3FrAJETEWs
