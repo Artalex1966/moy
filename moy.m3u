@@ -47,7 +47,7 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3
 http://r.faola.li/6295/video.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,Мосфильм. Золотая коллекция (+4)
 #EXTGRP: кино
-http://s.only4.tv/6295/index.m3u8?token=zoCHqBtVEo
+http://s.only4.tv/6295/index.m3u8?token=nSeG5DM7LE
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6258.png",Кино 1 International
 #EXTGRP: кино
@@ -364,7 +364,7 @@ http://jvgnvmin.megatv.fun/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/11047/index.m3u8
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/11062/index.m3u8
 #EXTINF:-1,CineMan Сваты
 #EXTGRP: кино
-http://s.only4.tv/6843/index.m3u8?token=zoCHqBtVEo
+http://s.only4.tv/6843/index.m3u8?token=nSeG5DM7LE
 #EXTINF:-1 ,VF Сваты
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-47/13080/index.m3u8
@@ -544,7 +544,7 @@ http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/17002/index.m3u8
 https://tinyurl.com/aleks-u-romki-47/17016/index.m3u8
 #EXTINF:-1,TVPlay Друзья HD
 #EXTGRP: кино
-http://s.only4.tv/9379/index.m3u8?token=zoCHqBtVEo
+http://s.only4.tv/9379/index.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-47/17006/manifest.m3u8
