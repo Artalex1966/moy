@@ -45,9 +45,6 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3
 #EXTINF:-1,Мосфильм. Золотая коллекция (+4)
 #EXTGRP: кино
 http://r.faola.li/6295/video.m3u8?token=nSeG5DM7LE
-#EXTINF:-1,Мосфильм. Золотая коллекция (+4)
-#EXTGRP: кино
-http://s.only4.tv/6295/index.m3u8?token=nSeG5DM7LE
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6258.png",Кино 1 International
 #EXTGRP: кино
@@ -76,7 +73,7 @@ http://s.only4.tv/7198/index.m3u8?token=nSeG5DM7LE
 http://cdntv.online/high/zjdicprmak64/2300.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/13002/index.m3u8
+http://r.faola.li/6802/video.m3u8?token=nSeG5DM7LE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/kinowalk.png",Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
@@ -89,6 +86,9 @@ http://kinowalk.hopto.org/nonestopmovie_live
 #EXTINF:-1,Cinema
 #EXTGRP: кино
 https://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDY5Nzk4MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgwMDkzMTgyLCJzZXNzaW9uX2lkIjoiMjIwNTkwNDJjMGMyYmQyNDUwNTUyOGM0N2E5YzJlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nNznlfjnQBMad457sKJNLeV7yqRebloA5sbzhNAHrAI
+#EXTINF:0,TOP: Cinema HD
+#EXTGRP: кино
+http://r.faola.li/6804/video.m3u8?token=nSeG5DM7LE
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP: кино
 https://kino.zunotv.workers.dev/viju_plus_megahit_hd/index.m3u8
@@ -208,10 +208,10 @@ http://cdntv.online/high/zjdicprmak64/2034.m3u8
 http://cdntv.online/high/9uyzpadbe8/2214.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5117.png",TOP USSR HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/13005/manifest.m3u8
+http://r.faola.li/6805/video.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,USSR HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-47/11102/manifest.m3u8
+http://r.faola.li/6601/video.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,Fresh Soviet
 #EXTGRP: кино
 http://cdntv.online/high/zjdicprmak64/1983.m3u8
@@ -220,7 +220,7 @@ http://cdntv.online/high/zjdicprmak64/1983.m3u8
 http://r.faola.li/8040/video.m3u8?token=nSeG5DM7LE
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4695.png",StrahTV СССР
 #EXTGRP: кино
-http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11061/index.m3u8
+http://r.faola.li/6824/video.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,YOSSO TV Советские фильмы
 #EXTGRP: кино
 http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/14175/index.m3u8
@@ -542,7 +542,7 @@ http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/17002/index.m3u8
 https://tinyurl.com/aleks-u-romki-47/17016/index.m3u8
 #EXTINF:-1,TVPlay Друзья HD
 #EXTGRP: кино
-http://s.only4.tv/9379/index.m3u8?token=nSeG5DM7LE
+http://r.faola.li/9379/video.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/RW8PXW2THZMEYN5UDGE37UGZ/17006/index.m3u8
