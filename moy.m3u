@@ -44,17 +44,17 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDY5Nzk4MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgwMDkzMTgyLCJzZXNzaW9uX2lkIjoiMjIwNTkwNDJjMGMyYmQyNDUwNTUyOGM0N2E5YzJlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nNznlfjnQBMad457sKJNLeV7yqRebloA5sbzhNAHrAI
 #EXTINF:-1,Мосфильм. Золотая коллекция (+4)
 #EXTGRP: кино
-http://r.faola.li/6295/video.m3u8?token=nSeG5DM7LE
+http://r.faola.li/6295/video.m3u8?token=zoCHqBtVEo
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6258.png",Кино 1 International
 #EXTGRP: кино
 http://185.239.141.187:8081/hls/Kino_1_int/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6256.png",Кино 1
 #EXTGRP: кино
-http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXVh0RDOSSdVy1cH06mryKfyVaEnA6iGv5f9depOJ_ZRxw
+http://jvgnvmin.megatv.fun/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/18069/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6257.png",Кино 2
 #EXTGRP: кино
-http://7036420a.edmonst.net/iptv/RW8PXW2THZMEYN5UDGE37UGZ/18070/manifest.m3u8
+http://7036420a.edmonst.net/iptv/RW8PXW2THZMEYN5UDGE37UGZ/18070/index.m3u8
 
 #EXTINF:-1,VHS-ка
 #EXTGRP: кино
@@ -67,13 +67,13 @@ http://cdntv.online/high/734xh9cn6p/1263.m3u8
 http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/13037/index.m3u8
 #EXTINF:-1,VHS HD
 #EXTGRP: кино
-http://s.only4.tv/7198/index.m3u8?token=nSeG5DM7LE
+http://s.only4.tv/7198/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
 http://cdntv.online/high/734xh9cn6p/2300.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
-http://r.faola.li/6802/video.m3u8?token=nSeG5DM7LE
+http://r.faola.li/6802/video.m3u8?token=zoCHqBtVEo
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/kinowalk.png",Kino Walk
 #EXTGRP: кино
@@ -217,19 +217,19 @@ http://cdntv.online/high/734xh9cn6p/2034.m3u8
 http://cdntv.online/high/9uyzpadbe8/2214.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5117.png",TOP USSR HD
 #EXTGRP: кино
-http://r.faola.li/6805/video.m3u8?token=nSeG5DM7LE
+http://r.faola.li/6805/video.m3u8?token=zoCHqBtVEo
 #EXTINF:-1,USSR HD
 #EXTGRP: кино
-http://r.faola.li/6601/video.m3u8?token=nSeG5DM7LE
+http://r.faola.li/6601/video.m3u8?token=zoCHqBtVEo
 #EXTINF:-1,Fresh Soviet
 #EXTGRP: кино
 http://cdntv.online/high/734xh9cn6p/1983.m3u8
 #EXTINF:-1,KLI СССР HD
 #EXTGRP: кино
-http://r.faola.li/8040/video.m3u8?token=nSeG5DM7LE
+http://r.faola.li/8040/video.m3u8?token=zoCHqBtVEo
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4695.png",StrahTV СССР
 #EXTGRP: кино
-http://r.faola.li/6824/video.m3u8?token=nSeG5DM7LE
+http://r.faola.li/6824/video.m3u8?token=zoCHqBtVEo
 #EXTINF:-1,YOSSO TV Советские фильмы
 #EXTGRP: кино
 http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/14175/index.m3u8
@@ -370,7 +370,7 @@ http://jvgnvmin.megatv.fun/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/11047/index.m3u8
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/11062/index.m3u8
 #EXTINF:-1,CineMan Сваты
 #EXTGRP: кино
-http://s.only4.tv/6843/index.m3u8?token=nSeG5DM7LE
+http://s.only4.tv/6843/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1 ,VF Сваты
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-47/13080/index.m3u8
@@ -382,7 +382,7 @@ https://tinyurl.com/aleks-u-romki-47/13080/manifest.m3u8
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/31624/index.m3u8
 #EXTINF:-1,Кинозал! Сваты
 #EXTGRP: кино
-http://r.faola.li/6825/video.m3u8?token=nSeG5DM7LE
+http://r.faola.li/6825/video.m3u8?token=zoCHqBtVEo
 #EXTINF:-1,VF Реальные пацаны
 #EXTGRP: кино
 http://jvgnvmin.megatv.fun/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/17015/index.m3u8
@@ -421,7 +421,7 @@ http://stream-msk-04.ott.tricolor.tv/dtv/id517_MSKSG-PVR-1--Rus_Bests/03/plst.m3
 http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDY5Nzk4MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgwMDkzMTgyLCJzZXNzaW9uX2lkIjoiMjIwNTkwNDJjMGMyYmQyNDUwNTUyOGM0N2E5YzJlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nNznlfjnQBMad457sKJNLeV7yqRebloA5sbzhNAHrAI
 #EXTINF:-1,Русский Иллюзион
 #EXTGRP: кино
-http://r.faola.li/6454/video.m3u8?token=nSeG5DM7LE
+http://r.faola.li/6454/video.m3u8?token=zoCHqBtVEo
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/jenskiydetektiv.png",ЖЕНСКИЙ ДЕТЕКТИВ
 #EXTGRP: кино
 https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDY5Nzk4MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgwMDkzMTgyLCJzZXNzaW9uX2lkIjoiMjIwNTkwNDJjMGMyYmQyNDUwNTUyOGM0N2E5YzJlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nNznlfjnQBMad457sKJNLeV7yqRebloA5sbzhNAHrAI
@@ -551,7 +551,7 @@ http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/17002/index.m3u8
 https://tinyurl.com/aleks-u-romki-47/17016/index.m3u8
 #EXTINF:-1,TVPlay Друзья HD
 #EXTGRP: кино
-http://r.faola.li/9379/video.m3u8?token=nSeG5DM7LE
+http://r.faola.li/9379/video.m3u8?token=zoCHqBtVEo
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/RW8PXW2THZMEYN5UDGE37UGZ/17006/index.m3u8
@@ -608,7 +608,7 @@ http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/830.m3u8
 http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,National Geographic
 #EXTGRP: Познавательное
-http://r.faola.li/0203/video.m3u8?token=nSeG5DM7LE
+http://r.faola.li/0203/video.m3u8?token=zoCHqBtVEo
 #EXTINF:-1,Наука 2.0 HD
 #EXTGRP: Познавательное
 http://vod.tuva.ru/nauka2/index.m3u8
@@ -695,7 +695,7 @@ http://cdn.kubteltv.workers.dev/?ID=207
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1,Том и Джерри
 #EXTGRP: Детский
-http://r.faola.li/8116/video.m3u8?token=nSeG5DM7LE
+http://r.faola.li/8116/video.m3u8?token=zoCHqBtVEo
 #EXTINF:-1,Маша и Медведь
 #EXTGRP: Детский
 https://rpn3.bozztv.com/dvrfl07/ushba79/tracks-v1a1/mono.ts.m3u8
