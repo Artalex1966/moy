@@ -48,10 +48,10 @@ http://r.faola.li/6295/video.m3u8?token=nSeG5DM7LE
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6258.png",Кино 1 International
 #EXTGRP: кино
-http://185.239.141.187:8081/hls/Kino_1_int/playlist.m3u8
+http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWxasCiC08gqqHlGg5aGN0B_u2kEpYgxyfs_NPIq2UQDQ
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6256.png",Кино 1
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-47/18069/manifest.m3u8
+http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXVh0RDOSSdVy1cH06mryKfyVaEnA6iGv5f9depOJ_ZRxw
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6257.png",Кино 2
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/RW8PXW2THZMEYN5UDGE37UGZ/18070/manifest.m3u8
@@ -108,7 +108,10 @@ http://kinowalk.hopto.org/videoarsenal_live
 http://cdntv.online/high/734xh9cn6p/1256.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
-https://v2.catcast.tv/content/38720/index.m3u8
+http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXUfiT-VMHLUjvQ2WFplavRq2JDhlFAXF-mbCNfHZirNGQ
+#EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
+#EXTGRP: кино
+http://185.239.141.187:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:-1,MM USSR Комедия HD
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/RW8PXW2THZMEYN5UDGE37UGZ/13019/manifest.m3u8
