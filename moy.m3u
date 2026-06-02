@@ -108,7 +108,7 @@ http://kinowalk.hopto.org/videoarsenal_live
 http://cdntv.online/high/734xh9cn6p/1256.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
-http://185.239.141.187:8081/hls/Detskoe_Kino_int/playlist.m3u8
+https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1,MM USSR Комедия HD
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/RW8PXW2THZMEYN5UDGE37UGZ/13019/manifest.m3u8
