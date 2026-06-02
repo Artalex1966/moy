@@ -74,6 +74,7 @@ http://cdntv.online/high/734xh9cn6p/2300.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
 http://r.faola.li/6802/video.m3u8?token=nSeG5DM7LE
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/kinowalk.png",Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
@@ -83,43 +84,50 @@ http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/nonstop.png",КиноНонСтоп
 #EXTGRP: кино
 http://kinowalk.hopto.org/nonestopmovie_live
-#EXTINF:-1,Cinema
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/movietoper.png",MovieToper
 #EXTGRP: кино
-https://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDY5Nzk4MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgwMDkzMTgyLCJzZXNzaW9uX2lkIjoiMjIwNTkwNDJjMGMyYmQyNDUwNTUyOGM0N2E5YzJlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nNznlfjnQBMad457sKJNLeV7yqRebloA5sbzhNAHrAI
-#EXTINF:0,TOP: Cinema HD
+http://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/blockbusterstime.jpg",Blockbusters Time
 #EXTGRP: кино
-http://r.faola.li/6804/video.m3u8?token=nSeG5DM7LE
-#EXTINF:0,viju+ Megahit HD
+http://kinowalk.hopto.org/blockbusterstime_live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/timetomovie.jpg",TimeToMovie
 #EXTGRP: кино
-https://kino.zunotv.workers.dev/viju_plus_megahit_hd/index.m3u8
-#EXTINF:-1,Фантастика HD
+http://kinowalk.hopto.org/timetomovie_live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/scripachtv.png",ScripachTV
 #EXTGRP: кино
-http://jvgnvmin.megatv.fun/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/11070/index.m3u8
+http://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/selecaotv.jpg",SeleCaoTV
+#EXTGRP: кино
+http://kinowalk.hopto.org/selecaotv_live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/videoarsenal.png",VideoArsenal
+#EXTGRP: кино
+http://kinowalk.hopto.org/videoarsenal_live
+
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
 http://cdntv.online/high/734xh9cn6p/1256.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
 http://185.239.141.187:8081/hls/Detskoe_Kino_int/playlist.m3u8
-#EXTINF:0,MM USSR Комедия HD
+#EXTINF:-1,MM USSR Комедия HD
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/RW8PXW2THZMEYN5UDGE37UGZ/13019/manifest.m3u8
-#EXTINF:0,MM USSR Детектив HD
+#EXTINF:-1,MM USSR Детектив HD
 #EXTGRP: кино
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/13096/manifest.m3u8
-#EXTINF:0,MM USSR Драма HD
+#EXTINF:-1,MM USSR Драма HD
 #EXTGRP: кино
 http://jvgnvmin.megatv.fun/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/13022/manifest.m3u8
-#EXTINF:0,MM USSR 1941-1945 HD
+#EXTINF:-1,MM USSR 1941-1945 HD
 #EXTGRP: кино
 http://live.biluspeh.com/8614/video.m3u8?token=CkD9kH5TE2kQ1AFG
-#EXTINF:0,MM USSR Приключения HD
+#EXTINF:-1,MM USSR Приключения HD
 #EXTGRP: кино
 http://live.biluspeh.com/8615/video.m3u8?token=CkD9kH5TE2kQ1AFG
-#EXTINF:0,MM USSR Сказки HD
+#EXTINF:-1,MM USSR Сказки HD
 #EXTGRP: кино
 http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/13021/index.m3u8
-#EXTINF:0,MM USSR Мультфильм HD
+#EXTINF:-1,MM USSR Мультфильм HD
 #EXTGRP: кино
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/13020/manifest.m3u8
 #EXTINF:-1,IPTVPLAY ПАМЯТЬ
@@ -172,7 +180,7 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDY5Nzk4MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgwMDkzMTgyLCJzZXNzaW9uX2lkIjoiMjIwNTkwNDJjMGMyYmQyNDUwNTUyOGM0N2E5YzJlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nNznlfjnQBMad457sKJNLeV7yqRebloA5sbzhNAHrAI
 #EXTINF:-1,BOX СССР 4K
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-47/31625/manifest.m3u8
+http://live.biluspeh.com/8445/video.m3u8?token=CkD9kH5TE2kQ1AFG
 #EXTINF:-1,VF Классика
 #EXTGRP: кино
 http://aczgxdve.socminlt.org/iptv/SS6UGPWGTWWRZ6/10053/index.m3u8
