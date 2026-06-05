@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz, https://iptvx.one/EPG"
 
 #EXTINF:-1,BOX AutoTrend HD
-http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/31654/index.m3u8
+http://di1rh8tk.alfalt.fun/iptv/F5BM9GXMAPYBDK/31654/index.m3u8
 #EXTINF:-1,VF Авто
 http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXX_Lv5pBraKYAWIJYRPFDqHfoeVAhWqi9VmefCiqAqxQQ
 #EXTINF:-1,Россия 24
@@ -51,11 +51,10 @@ http://r.faola.li/6295/video.m3u8?token=nSeG5DM7LE
 http://195.209.212.23:8081/hls/Kino_1_int/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6256.png",Кино 1
 #EXTGRP: кино
-http://jvgnvmin.megatv.fun/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/18069/index.m3u8
+http://aczgxdve.socminlt.org/iptv/SS6UGPWGTWWRZ6/18069/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6257.png",Кино 2
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/RW8PXW2THZMEYN5UDGE37UGZ/18070/index.m3u8
-
 #EXTINF:-1,VHS-ка
 #EXTGRP: кино
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDY5Nzk4MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgwMDkzMTgyLCJzZXNzaW9uX2lkIjoiMjIwNTkwNDJjMGMyYmQyNDUwNTUyOGM0N2E5YzJlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nNznlfjnQBMad457sKJNLeV7yqRebloA5sbzhNAHrAI
