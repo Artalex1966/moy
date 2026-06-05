@@ -4,7 +4,7 @@
 #EXTINF:-1,BOX AutoTrend HD
 http://rvqa5snn.rostelekom.xyz/iptv/76CHCQS48C549R/31654/index.m3u8
 #EXTINF:-1,VF Авто
-http://jvgnvmin.megatv.fun/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/15511/index.m3u8
+http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXX_Lv5pBraKYAWIJYRPFDqHfoeVAhWqi9VmefCiqAqxQQ
 #EXTINF:-1,Россия 24
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
@@ -552,6 +552,9 @@ https://tinyurl.com/aleks-u-romki-47/11055/index.m3u8
 #EXTINF:-1,VF The X-Files
 #EXTGRP: кино
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/17002/index.m3u8
+#EXTINF:-1,VF Игра престолов
+#EXTGRP: кино
+http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXXRW3dJ8H0aK4b5wgVmAVECezLQjE1AA6kWa7Rgj_FIpw
 #EXTINF:-1,VF Доктор Хаус
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-47/17016/index.m3u8
@@ -569,7 +572,7 @@ http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/17006/index.m3u8
 https://tinyurl.com/aleks-u-romki-47/17006/index.m3u
 #EXTINF:-1,VF Гарри Поттер
 #EXTGRP: кино
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1547.m3u8
+http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWO4fFhZfnzZa41q8TfIJHQz3XLbf4yrdgIImhNjzZPMg
 #EXTINF:-1,VF Гарри Поттер
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/RW8PXW2THZMEYN5UDGE37UGZ/14230/index.m3u8
@@ -587,7 +590,7 @@ https://tinyurl.com/aleks-u-romki-47/17013/index.m3u8
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/17013/index.m3u8
 #EXTINF:-1,VF Тайны следствия
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-47/17013/index.m3u8
+http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXUyZjssYBZ0_6Nhp4QROYfVy7qJHcN2FQDqm-m1R6Yr2w
 #EXTINF:-1,VF Тайны следствия
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-47/13082/index.m3u8
