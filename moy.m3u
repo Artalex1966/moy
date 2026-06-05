@@ -48,7 +48,7 @@ http://r.faola.li/6295/video.m3u8?token=nSeG5DM7LE
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6258.png",Кино 1 International
 #EXTGRP: кино
-http://185.239.141.187:8081/hls/Kino_1_int/playlist.m3u8
+http://195.209.212.23:8081/hls/Kino_1_int/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6256.png",Кино 1
 #EXTGRP: кино
 http://jvgnvmin.megatv.fun/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/18069/index.m3u8
@@ -109,7 +109,7 @@ http://cdntv.online/high/734xh9cn6p/1256.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
-http://185.239.141.187:8081/hls/Detskoe_Kino_int/playlist.m3u8
+http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:-1,MM USSR Комедия HD
 #EXTGRP: кино
 http://live.biluspeh.com/8744/video.m3u8?token=CkD9kH5TE2kQ1AFG
@@ -131,6 +131,9 @@ http://live.biluspeh.com/8616/video.m3u8?token=CkD9kH5TE2kQ1AFG
 #EXTINF:-1,MM USSR Мультфильм HD
 #EXTGRP: кино
 http://live.biluspeh.com/8913/video.m3u8?token=CkD9kH5TE2kQ1AFG
+#EXTINF:-1,PG USSR HD
+#EXTGRP: кино
+http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWEkGXn00CeBrULtX-nLxzqRARJ9__XbyLVkYXz9KtMNw
 #EXTINF:-1,IPTVPLAY ПАМЯТЬ
 #EXTGRP: кино
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -169,7 +172,7 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 https://tinyurl.com/aleks-u-romki-47/10083/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6259.png",Военное кино HD
 #EXTGRP: кино
-http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/18072/index.m3u8
+http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWwjDjdy_eW8DtSH1kz2C4L9fAU4hk6dCfS41K0nGve8A
 #EXTINF:-1 tvg-logo="http://1lot.tv/ch/8742.png",Назад в СССР
 #EXTGRP: кино
 http://kinowalk.hopto.org/backtotheussr_live
@@ -776,19 +779,19 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 http://de2.mirror-tv.net:8080/s/s-vq2vgmk2/tip-top-hd.m3u8
 #EXTINF:-1,Музыка 1 International
 #EXTGRP: Музыка
-http://185.239.141.187:8081/hls/Muzyka_1_int/playlist.m3u8
+http://195.209.212.23:8081/hls/Muzyka_1_int/playlist.m3u8
 #EXTINF:-1,Музыка 2 International
 #EXTGRP: Музыка
-http://185.239.141.187:8081/hls/Muzyka_2_int/playlist.m3u8
+http://195.209.212.23:8081/hls/Muzyka_2_int/playlist.m3u8
 #EXTINF:-1,Музыка 2
 #EXTGRP: Музыка
-https://tinyurl.com/aleks-u-romki-47/18079/manifest.m3u8
+http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXU9_NWCf6p1R8tLvOfGFvdGZYFURx0i0Srxgstxp0uD8g
 #EXTINF:-1,Музыка Кино International
 #EXTGRP: Музыка
-http://185.239.141.187:8081/hls/Muzyka_Kino_int/playlist.m3u8
+http://195.209.212.23:8081/hls/Muzyka_Kino_int/playlist.m3u8
 #EXTINF:-1,Музыка Кино
 #EXTGRP: Музыка
-https://tinyurl.com/aleks-u-romki-47/18081/index.m3u8
+http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWNldogx6PSlSWY1_3owaasNeflynmaeDRhv0LmY_DStw
 #EXTINF:-1,Play-x Муз Golden Hits 90s HD
 #EXTGRP: Музыка
 http://cdntv.online/high/734xh9cn6p/2255.m3u8
@@ -827,7 +830,10 @@ http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/19284/index.m3u8
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTINF:-1,Огонь
 #EXTGRP: 999
-http://iptv.prosto.tv:7000/ch331/video.m3u8
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+#EXTINF:-1,Пейзаж
+#EXTGRP: 999
+http://iptv.prosto.tv:7000/ch343/video.m3u8
 #EXTINF:-1,Аквариум
 #EXTGRP: 999
 http://iptv.prosto.tv:7000/ch325/video.m3u8
