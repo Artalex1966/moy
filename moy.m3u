@@ -63,7 +63,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u
 http://cdntv.online/high/6j95s4drt3/1263.m3u8
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
-https://tinyurl.com/2yrs8fx4
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/13037/index.m3u8
 #EXTINF:-1,VHS HD
 #EXTGRP: кино
 http://s.only4.tv/7198/index.m3u8?token=zoCHqBtVEo
@@ -126,10 +126,10 @@ http://s.only4.tv/7133/index.m3u8?token=zoCHqBtVEo
 http://s.only4.tv/7233/index.m3u8?token=zoCHqBtVEo
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-https://tinyurl.com/28l5m3tr
+http://s.only4.tv/7137/index.m3u8?token=zoCHqBtVEo
 #EXTINF:0,MM USSR Мультфильм HD
 #EXTGRP: кино
-https://tinyurl.com/237rh6j4
+http://s.only4.tv/7136/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1,USSR HD
 #EXTGRP: кино
 http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWEkGXn00CeBrULtX-nLxzqRARJ9__XbyLVkYXz9KtMNw
@@ -855,4 +855,5 @@ http://cdntv.online/low/734xh9cn6p/2215.mpeg
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
 http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXUfiT-VMHLUjvQ2WFplavRq2JDhlFAXF-mbCNfHZirNGQ
-
+#EXTINF:-1,Друзья
+http://103.163.132.53/iptv/3W9W7XEYC22NBD/17006/index.m3u
