@@ -205,7 +205,7 @@ http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/10084/index.m3u8
 http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/18125/index.m3u8
 #EXTINF:-1,BCU СССР HD
 #EXTGRP: кино
-https://kino.zunotv.workers.dev/BCU_USSR_HD/index.m3u8
+http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/11026/index.m3u8
 #EXTINF:-1,VF Фильмы СССР
 #EXTGRP: кино
 http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/10085/index.m3u8
@@ -289,7 +289,7 @@ http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/19421/index.m3u8
 http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/13034/11121/manifest.m3u8
 #EXTINF:-1,BCU Catastrophe HD
 #EXTGRP: кино
-https://kino.zunotv.workers.dev/BCU_Catastrophe_HD/index.m3u8
+http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/11028/index.m3u8
 #EXTINF:-1,MM Катастрофа
 #EXTGRP: кино
 http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/13034/manifest.m3u8
@@ -298,10 +298,10 @@ http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/13034/manifest.m3u8
 http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/10080/index.m3u8
 #EXTINF:-1,BCU Cosmo HD
 #EXTGRP: кино
-http://live.biluspeh.com/8480/video.m3u8?token=CkD9kH5TE2kQ1AFG
+http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/17021/index.m3u8
 #EXTINF:-1, BCU Cosmo HDR
 #EXTGRP: кино
-http://live.biluspeh.com/8975/video.m3u8?token=CkD9kH5TE2kQ1AFG
+http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/17022/index.m3u8
 #EXTINF:-1,MM UFO
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-40/13017/index.m3u8
