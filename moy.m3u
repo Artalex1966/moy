@@ -70,6 +70,10 @@ http://s.only4.tv/7198/index.m3u8?token=nSeG5DM7LE
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
 http://cdntv.online/high/734xh9cn6p/2300.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
+#EXTGRP: кино
+http://r.faola.li/6802/video.m3u8?token=zoCHqBtVEo
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
 http://r.faola.li/6802/video.m3u8?token=nSeG5DM7LE
@@ -388,9 +392,7 @@ http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/31624/index.m3u8
 #EXTINF:-1,Кинозал! Сваты
 #EXTGRP: кино
 http://r.faola.li/6825/video.m3u8?token=nSeG5DM7LE
-#EXTINF:-1,Моя Прекрасная Няня
-#EXTGRP: кино
-http://s.only4.tv/10193/index.m3u8?token=nSeG5DM7LE
+
 #EXTINF:-1,VF Реальные пацаны
 #EXTGRP: кино
 http://jvgnvmin.megatv.fun/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/17015/index.m3u8
@@ -548,6 +550,9 @@ http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9D
 #EXTINF:-1,VF Доктор Хаус
 #EXTGRP: кино
 http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/17016/index.m3u8
+#EXTINF:-1,Моя Прекрасная Няня
+#EXTGRP: кино
+http://s.only4.tv/10193/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1,Моя Прекрасная Няня
 #EXTGRP: кино
 http://s.only4.tv/10193/index.m3u8?token=nSeG5DM7LE
