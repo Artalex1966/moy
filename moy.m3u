@@ -196,7 +196,7 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclass
 http://xuxnqv6s.megogo.xyz/iptv/8ED7L5YXSGCCMS/31625/manifest.m3u8
 #EXTINF:-1,VF Классика
 #EXTGRP: кино
-http://aczgxdve.socminlt.org/iptv/SS6UGPWGTWWRZ6/10053/index.m3u8
+http://93.113.203.152/iptv/3W9W7XEYC22NBD/10053/index.m3u8
 #EXTINF:-1,VF Киностудия им. Горького
 #EXTGRP: кино
 http://01acd68e.ottrast.com/iptv/72KTA63QZYEQRS/18122/index.m3u8
@@ -313,7 +313,7 @@ http://93.113.203.152/iptv/3W9W7XEYC22NBD/17022/index.m3u8
 https://tinyurl.com/aleks-u-romki-40/13017/index.m3u8
 #EXTINF:-1,BCU Fantastic HDR
 #EXTGRP: кино
-https://kino.zunotv.workers.dev/BCU_Fantastic_HD/index.m3u8
+http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/11032/index.m3u8
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
 http://01acd68e.ottrast.com/iptv/72KTA63QZYEQRS/11005/index.m3u8
@@ -392,9 +392,6 @@ http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/13080/index.m3u8
 #EXTINF:-1,VF Сваты
 #EXTGRP: кино
 http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/13080/manifest.m3u8
-#EXTINF:-1,VB Сваты HD
-#EXTGRP: кино
-http://01acd68e.ottrast.com/iptv/72KTA63QZYEQRS/31624/index.m3u8
 #EXTINF:-1,Кинозал! Сваты
 #EXTGRP: кино
 http://r.faola.li/6825/video.m3u8?token=zoCHqBtVEo
