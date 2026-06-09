@@ -264,7 +264,7 @@ https://stream-msk-05.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Иллюзион +
 #EXTGRP: кино
-https://kino.zunotv.workers.dev/illyuzion_plus_hd/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=illuzionplus
 #EXTINF:-1,Дом кино
 #EXTGRP: кино
 http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MTMwMjc0MSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgwNjk3OTQxLCJzZXNzaW9uX2lkIjoiZDJmZjM0M2MwNTJkOTc3Yzk4M2NhMDI3ZTY4MjI4ZGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.V1TAQbI2u5y1F-9ULvKXy0R3-19fZp1wQNrbD1TQYLQ
@@ -273,7 +273,7 @@ http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Dom_Kino_premium.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MTMwMjc0MSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgwNjk3OTQxLCJzZXNzaW9uX2lkIjoiZDJmZjM0M2MwNTJkOTc3Yzk4M2NhMDI3ZTY4MjI4ZGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.V1TAQbI2u5y1F-9ULvKXy0R3-19fZp1wQNrbD1TQYLQ
 #EXTINF:-1,Любимое кино
 #EXTGRP: кино
-https://kino.zunotv.workers.dev/nashe_ljubimoe_kino/index.m3u8
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20014/index.m3u8
 #EXTINF:-1,MM Киберпанк HD
 #EXTGRP: кино
 http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/13036/index.m3u8
@@ -388,6 +388,9 @@ http://01acd68e.ottrast.com/iptv/5CTYAY5LBQ4GB4/31624/index.m3u8
 #EXTINF:-1,Кинозал! Сваты
 #EXTGRP: кино
 http://r.faola.li/6825/video.m3u8?token=nSeG5DM7LE
+#EXTINF:-1,Моя Прекрасная Няня
+#EXTGRP: кино
+http://s.only4.tv/10193/index.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,VF Реальные пацаны
 #EXTGRP: кино
 http://jvgnvmin.megatv.fun/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/17015/index.m3u8
@@ -545,6 +548,9 @@ http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9D
 #EXTINF:-1,VF Доктор Хаус
 #EXTGRP: кино
 http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/17016/index.m3u8
+#EXTINF:-1,Моя Прекрасная Няня
+#EXTGRP: кино
+http://s.only4.tv/10193/index.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,TVPlay Друзья HD
 #EXTGRP: кино
 http://r.faola.li/9379/video.m3u8?token=nSeG5DM7LE
