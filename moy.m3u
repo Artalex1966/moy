@@ -57,7 +57,7 @@ http://83.217.12.157:81/udp/239.1.1.206:1234
 http://195.209.212.23:8081/hls/Kino_1_int/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6256.png",Кино 1
 #EXTGRP: кино
-http://93.113.203.152/iptv/3W9W7XEYC22NBD/18069/index.m3u8
+http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/18069/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6257.png",Кино 2
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/RW8PXW2THZMEYN5UDGE37UGZ/18070/index.m3u8
@@ -124,7 +124,7 @@ http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
 http://103.163.132.53/iptv/RW8PXW2THZMEYN5UDGE37UGZ/13019/manifest.m3u8
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-http://93.113.203.152/iptv/3W9W7XEYC22NBD/13096/manifest.m3u8
+http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/13096/manifest.m3u8
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13022/manifest.m3u8
@@ -136,10 +136,10 @@ http://103.163.132.53/iptv/YEXEMMGCRW877K/13018/index.m3u8
 http://103.163.132.53/iptv/QXRPSB7GMN4VWW/13060/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/3W9W7XEYC22NBD/13021/index.m3u8
+http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/13021/index.m3u8
 #EXTINF:0,MM USSR Мультфильм HD
 #EXTGRP: кино
-http://93.113.203.152/iptv/3W9W7XEYC22NBD/13020/index.m3u8
+http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/13020/index.m3u8
 #EXTINF:-1,USSR HD
 #EXTGRP: кино
 http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWEkGXn00CeBrULtX-nLxzqRARJ9__XbyLVkYXz9KtMNw
@@ -196,7 +196,7 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclass
 http://xuxnqv6s.megogo.xyz/iptv/8ED7L5YXSGCCMS/31625/manifest.m3u8
 #EXTINF:-1,VF Классика
 #EXTGRP: кино
-http://93.113.203.152/iptv/3W9W7XEYC22NBD/10053/index.m3u8
+http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/10053/index.m3u8
 #EXTINF:-1,VF Киностудия им. Горького
 #EXTGRP: кино
 http://01acd68e.ottrast.com/iptv/72KTA63QZYEQRS/18122/index.m3u8
@@ -211,7 +211,7 @@ http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/10084/index.m3u8
 http://b114b5a8.edmonst.net/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/18125/index.m3u8
 #EXTINF:-1,BCU СССР HD
 #EXTGRP: кино
-http://93.113.203.152/iptv/3W9W7XEYC22NBD/11026/index.m3u8
+http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/11026/index.m3u8
 #EXTINF:-1,VF Фильмы СССР
 #EXTGRP: кино
 http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/10085/index.m3u8
@@ -295,7 +295,7 @@ http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/19421/index.m3u8
 http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/13034/11121/manifest.m3u8
 #EXTINF:-1,BCU Catastrophe HD
 #EXTGRP: кино
-http://93.113.203.152/iptv/3W9W7XEYC22NBD/11028/index.m3u8
+http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/11028/index.m3u8
 #EXTINF:-1,MM Катастрофа
 #EXTGRP: кино
 http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/13034/manifest.m3u8
@@ -304,10 +304,10 @@ http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/13034/manifest.m3u8
 http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/10080/index.m3u8
 #EXTINF:-1,BCU Cosmo HD
 #EXTGRP: кино
-http://93.113.203.152/iptv/3W9W7XEYC22NBD/17021/index.m3u8
+http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/17021/index.m3u8
 #EXTINF:-1, BCU Cosmo HDR
 #EXTGRP: кино
-http://93.113.203.152/iptv/3W9W7XEYC22NBD/17022/index.m3u8
+http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/17022/index.m3u8
 #EXTINF:-1,MM UFO
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-40/13017/index.m3u8
@@ -711,13 +711,13 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 https://rpn3.bozztv.com/dvrfl07/ushba79/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Щенячий патруль
 #EXTGRP: Детский
-http://93.113.203.152/iptv/3W9W7XEYC22NBD/30167/index.m3u8
+http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/30167/index.m3u8
 #EXTINF:-1,Чудеса на виражах
 #EXTGRP: Детский
-http://93.113.203.152/iptv/3W9W7XEYC22NBD/30192/index.m3u8
+http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/30192/index.m3u8
 #EXTINF:-1,Тимон и Пумба
 #EXTGRP: Детский
-http://93.113.203.152/iptv/3W9W7XEYC22NBD/30164/index.m3u8
+http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/30164/index.m3u8
 #EXTINF:-1,КИНОМУЛЬТ
 #EXTGRP: Детский
 https://stream-msk-17.ott.tricolor.tv/dtv/id944_MSKSG-PVR-1--KinoMult_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MTMwMjc0MSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgwNjk3OTQxLCJzZXNzaW9uX2lkIjoiZDJmZjM0M2MwNTJkOTc3Yzk4M2NhMDI3ZTY4MjI4ZGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.V1TAQbI2u5y1F-9ULvKXy0R3-19fZp1wQNrbD1TQYLQ
