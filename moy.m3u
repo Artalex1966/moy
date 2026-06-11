@@ -82,7 +82,7 @@ http://cdntv.online/high/734xh9cn6p/2300.m3u8
 http://r.faola.li/6802/video.m3u8?token=zoCHqBtVEo
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
-http://r.faola.li/6802/video.m3u8?token=zoCHqBtVEo
+http://r.faola.li/6802/video.m3u8?token=nSeG5DM7LE
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/kinowalk.png",Kino Walk
 #EXTGRP: кино
@@ -553,12 +553,12 @@ http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9D
 #EXTINF:-1,VF Доктор Хаус
 #EXTGRP: кино
 http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/17016/index.m3u8
-#EXTINF:-1,Моя Прекрасная Няня
+#EXTINF:-1 tvg-logo="https://p.rapidnas.org/img/logos/tvplay/moya_nyanya.png",TVPlay Моя Прекрасная Няня
 #EXTGRP: кино
 http://s.only4.tv/10193/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1,Моя Прекрасная Няня
+#EXTINF:-1 tvg-logo="https://p.rapidnas.org/img/logos/tvplay/moya_nyanya.png",TVPlay Моя Прекрасная Няня
 #EXTGRP: кино
-http://s.only4.tv/10193/index.m3u8?token=zoCHqBtVEo
+http://s.only4.tv/10193/index.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,TVPlay Друзья HD
 #EXTGRP: кино
 http://r.faola.li/9379/video.m3u8?token=zoCHqBtVEo
