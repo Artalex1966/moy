@@ -142,6 +142,21 @@ http://ost.ru-tv.site/bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vMTk1LjIxMS4yNy4xNTE6ODA4M
 #EXTGRP: кино
 http://cdn.balelbrus.com/bigteisti13/minimax_ussr_mult/index.m3u8?token=c2tpcHR2eW9zMDA1MXx8VTJsdE1qTXdNVEky
 
+#EXTINF:-1,TEAM Эпоха 60 HD
+#EXTGRP: кино
+https://17.hls.gd/ch3384/mono.m3u8?token=liviuamposta.v2_bN8x1YUpQgl6rGIljaaaQCMir0Kttlx3XCbCZh1PnRiipIo4SaleoexngS4lwJlSfXbVjyRWw3PnRt8OVw
+#EXTINF:-1,TEAM Эпоха 70 HD
+#EXTGRP: кино
+https://17.hls.gd/ch3393/mono.m3u8?token=liviuamposta.v2_Rg6PJ1i6-Wr75BBvPaxxRh4fxkju-NdnZQq8ziE7srBtcJekjohWojz2ht6pLdHCQfUK5tc665MXCCgKgA
+#EXTINF:-1,TEAM Эпоха 80 HD
+#EXTGRP: кино
+https://17.hls.gd/ch3903/mono.m3u8?token=liviuamposta.v2_IbcuZ6kS0cLUOMPgJwVSZsLU1FtMpF4QFv3nEqE5pHqD2I4YTDXHPXQBsiI2Z4m6gziIihffyZZuLc8FGw
+#EXTINF:-1,TEAM Back 90s HD
+#EXTGRP: кино
+https://17.hls.gd/ch3850/mono.m3u8?token=liviuamposta.v2_KHm30ftUk2YEBC2x8pOIXKO3G6rk7Q-8Epi7vdRhrdP5XhNhfPAcWh2d4MTHk5nFPh41yK4JKrnsb9q6oA
+
+
+
 #EXTINF:-1,USSR HD
 #EXTGRP: кино
 http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWEkGXn00CeBrULtX-nLxzqRARJ9__XbyLVkYXz9KtMNw
