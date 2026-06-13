@@ -114,9 +114,6 @@ http://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/kinolampa.png",Kinolampa
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinolampa_live
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/mmaxim0vich.png",ФИЛЬМЫ у Максима
-#EXTGRP: кино
-http://kinowalk.hopto.org/mmaxim0vich_live
 
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
