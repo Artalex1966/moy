@@ -142,20 +142,6 @@ http://103.163.132.53/iptv/F5BM9GXMAPYBDK/13021/index.m3u8
 #EXTGRP: кино
 http://ru.hls.gd/ch1225/mono.m3u8?token=ruslan001.v2_vEaY3hrzyuCeO9jlV70fZzrh9brpo4EPR-4XZbQp4NgNpKPcxVYctj-kJiDvzB6kJ8WDdJsEdc2_Gmk
 
-#EXTINF:-1,TEAM Эпоха 60 HD
-#EXTGRP: кино
-https://17.hls.gd/ch3384/mono.m3u8?token=liviuamposta.v2_bN8x1YUpQgl6rGIljaaaQCMir0Kttlx3XCbCZh1PnRiipIo4SaleoexngS4lwJlSfXbVjyRWw3PnRt8OVw
-#EXTINF:-1,TEAM Эпоха 70 HD
-#EXTGRP: кино
-https://17.hls.gd/ch3393/mono.m3u8?token=liviuamposta.v2_Rg6PJ1i6-Wr75BBvPaxxRh4fxkju-NdnZQq8ziE7srBtcJekjohWojz2ht6pLdHCQfUK5tc665MXCCgKgA
-#EXTINF:-1,TEAM Эпоха 80 HD
-#EXTGRP: кино
-https://17.hls.gd/ch3903/mono.m3u8?token=liviuamposta.v2_IbcuZ6kS0cLUOMPgJwVSZsLU1FtMpF4QFv3nEqE5pHqD2I4YTDXHPXQBsiI2Z4m6gziIihffyZZuLc8FGw
-#EXTINF:-1,TEAM Back 90s HD
-#EXTGRP: кино
-https://17.hls.gd/ch3850/mono.m3u8?token=liviuamposta.v2_KHm30ftUk2YEBC2x8pOIXKO3G6rk7Q-8Epi7vdRhrdP5XhNhfPAcWh2d4MTHk5nFPh41yK4JKrnsb9q6oA
-
-
 
 #EXTINF:-1,USSR HD
 #EXTGRP: кино
@@ -237,7 +223,7 @@ http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/10085/index.m3u8
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,VeleS СССР
 #EXTGRP: кино
-http://01acd68e.ottrast.com/iptv/72KTA63QZYEQRS/31643/index.m3u8
+http://ott.server-iptv.live/1600/video.m3u8?token=S793FB1732
 #EXTINF:-1,LIBERTY СОЮЗ 4K
 #EXTGRP: кино
 http://cdntv.online/high/734xh9cn6p/2034.m3u8
@@ -874,5 +860,7 @@ http://cdntv.online/low/734xh9cn6p/2215.mpeg
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
 http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXUfiT-VMHLUjvQ2WFplavRq2JDhlFAXF-mbCNfHZirNGQ
+
+Проект «Конец света»
 #EXTINF:-1,Друзья
-http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/17006/index.m3u
+https://dlcache4.vibio.tv/6825815f78bae49d53d49fb728129ece/3107/3107901/output.lq.mp4
