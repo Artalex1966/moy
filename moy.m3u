@@ -147,6 +147,12 @@ http://ru.hls.gd/ch1225/mono.m3u8?token=ruslan001.v2_vEaY3hrzyuCeO9jlV70fZzrh9br
 #EXTINF:-1,USSR HD
 #EXTGRP: кино
 http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWEkGXn00CeBrULtX-nLxzqRARJ9__XbyLVkYXz9KtMNw
+#EXTINF:-1 tvg-logo="http://1lot.tv/ch/9375.png" ,TVPlay Советское Кино HD
+#EXTGRP: кино
+http://s.only4.tv/9375/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1 tvg-logo="http://1lot.tv/ch/10852.png" ,TVPlay Детское Кино HD
+#EXTGRP: кино
+http://s.only4.tv/10852/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1,IPTVPLAY ПАМЯТЬ
 #EXTGRP: кино
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -239,7 +245,7 @@ http://r.faola.li/6805/video.m3u8?token=QXpsvpikPn
 http://r.faola.li/6601/video.m3u8?token=QXpsvpikPn
 #EXTINF:-1,Fresh Soviet
 #EXTGRP: кино
-http://cdntv.online/high/734xh9cn6p/1983.m3u8
+http://cdntv.online/high/zjdicprmak64/1983.m3u8
 #EXTINF:-1,KLI СССР HD
 #EXTGRP: кино
 http://r.faola.li/8040/video.m3u8?token=QXpsvpikPn
@@ -266,7 +272,7 @@ http://cdntv.online/hls/9uyzpadbe8/1584.m3u8
 http://cdntv.online/hls/734xh9cn6p/1583.m3u8
 #EXTINF:-1, CineMan CCCP 4K
 #EXTGRP: кино
-http://cdntv.online/high/734xh9cn6p/1682.m3u8
+http://cdntv.online/high/zjdicprmak64/2214.m3u8
 #EXTINF:-1,Venera.TV Советская классика 4K
 #EXTGRP: кино
 http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWs-ZM4dN_M6nsLghNHgdoIe7dQdMhKOwz1VqkKmNLlpQ
@@ -496,7 +502,7 @@ https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 http://cdntv.online/low/734xh9cn6p/118.mpeg
 #EXTINF:-1,Киномикс
 #EXTGRP: кино
-http://176.118.197.101/Kinomix/index.m3u8
+http://iptv46.mcx-ix.ru:8077/kinomix/index.m3u8
 #EXTINF:-1,Киносемья
 #EXTGRP: кино
 https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
@@ -643,13 +649,10 @@ http://cdntv.online/hls/734xh9cn6p/353.m3u8
 http://cdntv.online/hls/734xh9cn6p/448.m3u8
 #EXTINF:-1,Авто 24
 #EXTGRP: Познавательное
-http://de2.mirror-tv.net:8080/s/s-vq2vgmk2/avto-24-hd.m3u8
+http://iptv46.mcx-ix.ru:8077/avto24/index.m3u8
 #EXTINF:-1,Авто плюс
 #EXTGRP: Познавательное
-https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Драйв HD
-#EXTGRP: Познавательное
-http://de2.mirror-tv.net:8080/s/s-vq2vgmk2/drive-hd.m3u8
+http://iptv46.mcx-ix.ru:8077/avto_plus/index.m3u8
 #EXTINF:-1,BOX AutoTrend HD
 #EXTGRP: Познавательное
 http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/31654/index.m3u8
@@ -736,7 +739,7 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MTkwNzU3NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgxMzAyNzc0LCJzZXNzaW9uX2lkIjoiOWY0M2Q3YjVhY2YyNjhjODU3Mzg5ZDA4ZDEwNjRkNWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BZzl7MMKEM8tgbRxkfLkfmkNsrvnGC4Cixz6T-5EOF4
 #EXTINF:-1,O!
 #EXTGRP: Детский
-http://de2.mirror-tv.net:8080/s/s-vq2vgmk2/kanal-o.m3u8
+http://cdn.kubteltv.workers.dev/?ID=270
 #EXTINF:-1,Детский мир
 #EXTGRP: Детский
 http://93.84.115.174:10181/detskimir
@@ -776,15 +779,15 @@ https://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
 #EXTINF:-1,Пингвин Лоло
 #EXTGRP: Детский
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Лёва HD
+#EXTINF:-1,Ani
 #EXTGRP: Детский
-http://de2.mirror-tv.net:8080/s/s-vq2vgmk2/ljova-hd.m3u8
+http://cdn.kubteltv.workers.dev/?ID=367
+#EXTINF:-1,Детский мир
+#EXTGRP: Детский
+http://cdn.kubteltv.workers.dev/?ID=186
 #EXTINF:-1,Мамонтёнок
 #EXTGRP: Детский
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ТипТоп HD
-#EXTGRP: Детский
-http://de2.mirror-tv.net:8080/s/s-vq2vgmk2/tip-top-hd.m3u8
 #EXTINF:-1,Музыка 1 International
 #EXTGRP: Музыка
 http://195.209.212.23:8081/hls/Muzyka_1_int/playlist.m3u8
