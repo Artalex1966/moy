@@ -156,22 +156,22 @@ http://s.only4.tv/10852/index.m3u8?token=zoCHqBtVEo
 #EXTGRP: кино
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,IPTVPLAY МультСказки HD
-#EXTGRP: кино
+#EXTGRP: Детский
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
-#EXTGRP: кино
+#EXTGRP: Детский
 https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MTkwNzU3NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgxMzAyNzc0LCJzZXNzaW9uX2lkIjoiOWY0M2Q3YjVhY2YyNjhjODU3Mzg5ZDA4ZDEwNjRkNWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BZzl7MMKEM8tgbRxkfLkfmkNsrvnGC4Cixz6T-5EOF4
 #EXTINF:-1,Том и Джерри
-#EXTGRP: кино
+#EXTGRP: Детский
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1,Утиные истории
-#EXTGRP: кино
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/utinue.png",Утиные истории
+#EXTGRP: Детский
 http://103.163.132.53/iptv/46WESSTNSDZMFWA784WB73VN/30156/index.m3u8
 #EXTINF:-1, Clarity4K Kинодети CССР
 #EXTGRP: кино
 http://cdntv.online/high/734xh9cn6p/1665.m3u8
 #EXTINF:-1,КИНОМУЛЬТ
-#EXTGRP: кино
+#EXTGRP: Детский
 https://stream-msk-17.ott.tricolor.tv/dtv/id944_MSKSG-PVR-1--KinoMult_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MTkwNzU3NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgxMzAyNzc0LCJzZXNzaW9uX2lkIjoiOWY0M2Q3YjVhY2YyNjhjODU3Mzg5ZDA4ZDEwNjRkNWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.BZzl7MMKEM8tgbRxkfLkfmkNsrvnGC4Cixz6T-5EOF4
 #EXTINF:-1,Наше Наследие
 #EXTGRP: кино
@@ -217,7 +217,7 @@ http://103.163.132.53/iptv/46WESSTNSDZMFWA784WB73VN/18121/index.m3u8
 http://103.163.132.53/iptv/46WESSTNSDZMFWA784WB73VN/10084/index.m3u8
 #EXTINF:-1,VF Беларусьфильм
 #EXTGRP: кино
-http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/18125/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/18125/index.m3u8
 #EXTINF:-1,BCU СССР HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/QE9BZFY7BMQXHF/11026/index.m3u8
