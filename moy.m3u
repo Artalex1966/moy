@@ -68,9 +68,9 @@ http://cdntv.online/high/734xh9cn6p/1263.m3u8
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/USMW4UAHBW2D4N/13037/index.m3u8
-#EXTINF:-1,VHS HD
+#EXTINF:-1,Fresh VHS
 #EXTGRP: кино
-http://s.only4.tv/7198/index.m3u8?token=zoCHqBtVEo
+http://cdntv.online/high/734xh9cn6p/1986.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
 http://cdntv.online/high/734xh9cn6p/2300.m3u8
@@ -140,15 +140,6 @@ http://103.163.132.53/iptv/S6ZRNLK9R3WPTS/13021/index.m3u8
 #EXTGRP: кино
 http://103.163.132.53/iptv/46WESSTNSDZMFWA784WB73VN/13020/index.m3u8
 
-#EXTINF:-1,USSR HD
-#EXTGRP: кино
-http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWEkGXn00CeBrULtX-nLxzqRARJ9__XbyLVkYXz9KtMNw
-#EXTINF:-1 tvg-logo="http://1lot.tv/ch/9375.png" ,TVPlay Советское Кино HD
-#EXTGRP: кино
-http://s.only4.tv/9375/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 tvg-logo="http://1lot.tv/ch/10852.png" ,TVPlay Детское Кино HD
-#EXTGRP: кино
-http://s.only4.tv/10852/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1,IPTVPLAY МультСказки HD
 #EXTGRP: Детский
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
