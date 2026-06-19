@@ -123,25 +123,25 @@ http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-https://12.hls.gd/ch1224/mono.m3u8?token=nnnikkk.v2_hvbDNqLv3C5M-rQpDbnSxawtamRo0Y5WT6qWAcGIykaa8jiDFna-IsCnbGLXonFUTpnhg-ewKIwz
+http://103.163.132.53/iptv/S6ZRNLK9R3WPTS/13019/manifest.m3u8
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-https://12.hls.gd/ch1273/mono.m3u8?token=nnnikkk.v2_AU2LdfVgHh2_-dU49uDDSzNghsaIsfIW8HUd9O5f36YlpunYN1AtCVOONvCl5sX4fCHmDlzyLPAL
+http://103.163.132.53/iptv/4N9GESHLXBUSDA/13096/manifest.m3u8
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-https://12.hls.gd/ch1227/mono.m3u8?token=nnnikkk.v2_uW9oU_LrjeP9ZEVUsK9FvipLLFLSM_J2Lz26lycnAUKEXSERWHvdgl2vZrOHTj-P2xc-A_nJUK-Z
+http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13022/manifest.m3u8
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-https://12.hls.gd/ch1223/mono.m3u8?token=nnnikkk.v2_Pvop_cZW60D9KOT9dkozspBFuL62vW9peDy5aD5K7Nn55p6krfn6Sz2c3cBRW7FHVaZkh5273oJA
+http://103.163.132.53/iptv/S6ZRNLK9R3WPTS/13018/index.m3u8
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-https://12.hls.gd/ch1269/mono.m3u8?token=nnnikkk.v2_Fk9_QQ6zSEjMCh6KJxSyVdqiEgi1r9RxTbPD4exDf1Ig4rHMb4-K9JmJZK5_81kZ9Y0Yl_6wRbpu
+http://103.163.132.53/iptv/QXRPSB7GMN4VWW/13060/index.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-https://12.hls.gd/ch1226/mono.m3u8?token=nnnikkk.v2_9jdQI9IgmXvCMTF1YS7uvv6nlDKuNN06CWmlwkL9WNL1-KVhUuraJTQE_lpQFof2EeF7xVTzCNrI
+http://103.163.132.53/iptv/S6ZRNLK9R3WPTS/13021/index.m3u8
 #EXTINF:0,MM USSR Мультфильм HD
 #EXTGRP: кино
-https://12.hls.gd/ch1225/mono.m3u8?token=nnnikkk.v2_GhBuvz2304D5IXgjrqhdJm0eebLXa83aZnz_138IwsvaVAR-POLFbH1ZtBazkbQeY_XursYge9SY
+http://103.163.132.53/iptv/46WESSTNSDZMFWA784WB73VN/13020/index.m3u8
 
 #EXTINF:-1,IPTVPLAY МультСказки HD
 #EXTGRP: Детский
