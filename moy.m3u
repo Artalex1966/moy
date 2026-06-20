@@ -116,6 +116,9 @@ http://kinowalk.hopto.org/kinolampa_live
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
 http://cdntv.online/high/734xh9cn6p/1256.m3u8
+#EXTINF:-1 tvg-logo="http://ru.epg.one/img2/5118.png",TOP: Mix
+#EXTGRP: кино
+http://s.only4.tv/6806/index.m3u8?token=zoCHqBtVEo
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
@@ -143,6 +146,9 @@ http://103.163.132.53/iptv/S6ZRNLK9R3WPTS/13021/index.m3u8
 #EXTGRP: кино
 http://103.163.132.53/iptv/D75X5Q6FURMZYZ/13020/index.m3u8
 
+#EXTINF:-1,TVPlay Советское Кино HD
+#EXTGRP: Детский
+http://s.only4.tv/9375/index.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,IPTVPLAY МультСказки HD
 #EXTGRP: Детский
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -212,9 +218,6 @@ http://103.163.132.53/iptv/D75X5Q6FURMZYZ/11026/index.m3u8
 #EXTINF:-1,VF Фильмы СССР
 #EXTGRP: кино
 http://103.163.132.53/iptv/D75X5Q6FURMZYZ/10085/index.m3u8
-#EXTINF:-1,Сов.Ком
-#EXTGRP: кино
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,VeleS СССР
 #EXTGRP: кино
 http://ott.server-iptv.live/1600/video.m3u8?token=S793FB1732
