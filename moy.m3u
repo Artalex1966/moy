@@ -704,7 +704,10 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1,Маша и Медведь
 #EXTGRP: Детский
-https://rpn3.bozztv.com/dvrfl07/ushba79/tracks-v1a1/mono.ts.m3u8
+http://ost.ru-tv.site/bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vMTk1LjIxMS4yNy4xNTE6ODA4MC85MDcyL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiI0NjY2ZDlhYiIsInAiOiI0NjY2ZDlhYjNhYzdlMmI2IiwiYyI6IjE1OTIiLCJ0IjoiZDEyZjU2YTkyYjkzMTM5NWQwZTg0ZTRmZDQxODY5Y2EiLCJkIjoiNDk1NzQ2IiwiciI6IjUwNzcwOCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUxLzkwNzIvdmlkZW8ubTN1OD90b2tlbj1/video.m3u8
+#EXTINF:-1,Маша и Медведь
+#EXTGRP: Детский
+http://s.only4.tv/10601/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1,Щенячий патруль
 #EXTGRP: Детский
 http://103.163.132.53/iptv/YEXEMMGCRW877K/30167/index.m3u8
