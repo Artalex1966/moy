@@ -145,6 +145,19 @@ http://103.163.132.53/iptv/LFFZWLLFYSD62386XUN9EBH5/13021/index.m3u8
 #EXTGRP: кино
 http://103.163.132.53/iptv/D75X5Q6FURMZYZ/13020/index.m3u8
 
+#EXTINF:-1,Каламбур
+#EXTGRP: кино
+http://95.216.112.250/0035/index.m3u8
+#EXTINF:-1,PlayX 0072
+#EXTGRP: кино
+http://95.216.112.250/0072/index.m3u8
+#EXTINF:-1,PlayX 0155
+#EXTGRP: кино
+http://95.216.112.250/0155/index.m3u8
+#EXTINF:-1,PlayX PlayX 0340
+#EXTGRP: кино
+http://95.216.112.250/0340/index.m3u8
+
 #EXTINF:-1,TVPlay Советское Кино HD
 #EXTGRP: Детский
 http://s.only4.tv/9375/index.m3u8?token=nSeG5DM7LE
@@ -395,12 +408,31 @@ http://103.163.132.53/iptv/D75X5Q6FURMZYZ/13080/manifest.m3u8
 #EXTGRP: кино
 http://r.faola.li/6825/video.m3u8?token=zoCHqBtVEo
 
+#EXTINF:-1,Одна за всех
+#EXTGRP: кино
+http://95.216.112.250/0324/index.m3u8
+#EXTINF:-1,Городок
+#EXTGRP: кино
+http://95.216.112.250/0327/index.m3u8
+#EXTINF:-1,Папины дочки
+#EXTGRP: кино
+http://95.216.112.250/0335/index.m3u8
+#EXTINF:-1,Маски Щоу
+#EXTGRP: кино
+http://95.216.112.250/0337/index.m3u8
+#EXTINF:-1,Клон
+#EXTGRP: кино
+http://95.216.112.250/0454/index.m3u8
+
 #EXTINF:-1,VF Реальные пацаны
 #EXTGRP: кино
 http://103.163.132.53/iptv/LFFZWLLFYSD62386XUN9EBH5/17015/index.m3u8
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/9233.png",VF Каламбур
 #EXTGRP: кино
 http://103.163.132.53/iptv/D75X5Q6FURMZYZ/31557/index.m3u8
+#EXTINF:-1,Каламбур
+#EXTGRP: кино
+http://95.216.112.250/0035/index.m3u8
 #EXTINF:-1,VF Уральские пельмени
 #EXTGRP: кино
 http://103.163.132.53/iptv/D75X5Q6FURMZYZ/18198/index.m3u8
@@ -558,9 +590,15 @@ http://s.only4.tv/10193/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1 tvg-logo="https://p.rapidnas.org/img/logos/tvplay/moya_nyanya.png",TVPlay Моя Прекрасная Няня
 #EXTGRP: кино
 http://s.only4.tv/10193/index.m3u8?token=nSeG5DM7LE
+#EXTINF:-1,Моя Прекрасная Няня
+#EXTGRP: кино
+http://95.216.112.250/0313/index.m3u8
 #EXTINF:-1,TVPlay Друзья HD
 #EXTGRP: кино
 http://r.faola.li/9379/video.m3u8?token=zoCHqBtVEo
+#EXTINF:-1,PlayX Друзья
+#EXTGRP: кино
+http://95.216.112.250/0372/index.m3u8
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/YEXEMMGCRW877K/17006/index.m3u8
@@ -711,6 +749,12 @@ http://s.only4.tv/10601/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1,Маша и Медведь
 #EXTGRP: Детский
 http://cdntv.online/high/6j95s4drt3/897.m3u8
+#EXTINF:-1,Маша и Медведь
+#EXTGRP: Детский
+http://95.216.112.250/0075/index.m3u8
+#EXTINF:-1,Фиксики
+#EXTGRP: Детский
+http://95.216.112.250/0326/index.m3u8
 #EXTINF:-1,Щенячий патруль
 #EXTGRP: Детский
 http://103.163.132.53/iptv/D75X5Q6FURMZYZ/30167/index.m3u8
