@@ -70,7 +70,7 @@ http://cdntv.online/high/734xh9cn6p/1263.m3u8
 http://103.163.132.53/iptv/LFFZWLLFYSD62386XUN9EBH5/13037/index.m3u8
 #EXTINF:-1,Fresh VHS
 #EXTGRP: кино
-http://cdntv.online/high/734xh9cn6p/1986.m3u8
+http://91.204.123.202:80/428/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
 http://cdntv.online/high/734xh9cn6p/2300.m3u8
@@ -118,7 +118,7 @@ http://kinowalk.hopto.org/kinolampa_live
 
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
-http://cdntv.online/high/734xh9cn6p/1256.m3u8
+http://91.204.123.202:80/350/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
 http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
@@ -737,7 +737,7 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.
 https://fs.uplink.kz/o/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1,Детский мир
 #EXTGRP: Детский
-http://93.84.115.174:10181/detskimir
+https://s70378.cdn.ngenix.net/detskij_mir/2/index.m3u8
 #EXTINF:-1,Карусель
 #EXTGRP: Детский
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
@@ -779,7 +779,7 @@ http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 http://cdn.kubteltv.workers.dev/?ID=367
 #EXTINF:-1,Детский мир
 #EXTGRP: Детский
-http://cdn.kubteltv.workers.dev/?ID=186
+http://158.101.222.193:88/georgia_play.php?id=detskymir
 #EXTINF:-1,Мамонтёнок
 #EXTGRP: Детский
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
