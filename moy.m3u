@@ -115,10 +115,13 @@ http://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/kinolampa.png",Kinolampa
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinolampa_live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/zsmedia.jpg",Kinolampa
+#EXTGRP: кино
+http://kinowalk.hopto.org/zsmedia_live
 
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
-http://91.204.123.202:80/350/index.m3u8
+http://cdntv.online/high/734xh9cn6p/1256.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
 http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
