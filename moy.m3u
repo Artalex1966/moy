@@ -121,10 +121,10 @@ http://kinowalk.hopto.org/zsmedia_live
 
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
-http://cdntv.online/high/734xh9cn6p/1256.m3u8
+http://cdntv.online/high/6j95s4drt3/1256.m3u8
 #EXTINF:-1,CineMan Premium
 #EXTGRP: кино
-http://cdntv.online/high/ierw63qgf1/1426.m3u8
+http://cdntv.online/high/6j95s4drt3/1426.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
 http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
