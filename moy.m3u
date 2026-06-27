@@ -83,7 +83,7 @@ http://u.vipl.one/high/zjdicprmak64/2300.m3u8
 http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13002/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
-http://r.faola.li/6802/video.m3u8?token=nSeG5DM7LE
+http://103.163.132.53/iptv/AQ6XNYBP9ZMSPN/13002/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/kinowalk.png",Kino Walk
 #EXTGRP: кино
@@ -183,9 +183,6 @@ http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m
 #EXTINF:-1,ШЕРЛОК ХОЛМС
 #EXTGRP: кино
 https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MzExODI2NiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgyNTEzNDY2LCJzZXNzaW9uX2lkIjoiNzhhMGVlOGQxNGZjZTY2MDNmMTViZTkxYThiMGQwMzEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.MPifXQyFen9gQyzd9pp-gAkQG2aOzS8XQ8U1RfFK7Es
-#EXTINF:-1,VF Наша победа
-#EXTGRP: кино
-http://103.163.132.53/iptv/HBWPN23GZMELXN/10083/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6259.png",Военное кино HD
 #EXTGRP: кино
 http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWwjDjdy_eW8DtSH1kz2C4L9fAU4hk6dCfS41K0nGve8A
@@ -227,16 +224,16 @@ http://103.163.132.53/iptv/HBWPN23GZMELXN/10085/index.m3u8
 http://as01.plinkspile.cc/21020/index.m3u8?token=NQWxbcfWTYQHhC
 #EXTINF:-1,LIBERTY СОЮЗ 4K
 #EXTGRP: кино
-http://cdntv.online/high/734xh9cn6p/2034.m3u8
+http://as01.plinkspile.cc/8029/index.m3u8?token=bBBHk5ihPDAwYt
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-sssr-fhd.png",CineMan CCCP
 #EXTGRP: кино
 http://cdntv.online/high/734xh9cn6p/2214.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5117.png",TOP USSR HD
 #EXTGRP: кино
-http://s.only4.tv/6805/index.m3u8?token=nSeG5DM7LE
+http://kewsiy0q.rostelekom.xyz/iptv/AQ6XNYBP9ZMSPN/13005/index.m3u8
 #EXTINF:-1,USSR HD
 #EXTGRP: кино
-http://s.only4.tv/6601/mono.m3u8?token=nSeG5DM7LE
+http://kewsiy0q.rostelekom.xyz/iptv/AQ6XNYBP9ZMSPN/11102/index.m3u8
 #EXTINF:-1,Fresh Soviet
 #EXTGRP: кино
 http://cdntv.online/high/zjdicprmak64/1983.m3u8
@@ -245,7 +242,7 @@ http://cdntv.online/high/zjdicprmak64/1983.m3u8
 http://s.only4.tv/8040/index.m3u8?token=nSeG5DM7LE
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4695.png",StrahTV СССР
 #EXTGRP: кино
-http://r.faola.li/6824/video.m3u8?token=nSeG5DM7LE
+http://kewsiy0q.rostelekom.xyz/iptv/AQ6XNYBP9ZMSPN/11061/index.m3u8
 #EXTINF:-1,YOSSO TV Советские фильмы
 #EXTGRP: кино
 http://7ebf9762.ucomist.net/iptv/8P7MBSH7RRPL53/14175/index.m3u8
