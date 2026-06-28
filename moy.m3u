@@ -83,7 +83,7 @@ http://u.vipl.one/high/zjdicprmak64/2300.m3u8
 http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13002/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/AQ6XNYBP9ZMSPN/13002/index.m3u8
+http://103.163.132.53/iptv/6GR5GF8VM4K5NC/13002/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/kinowalk.png",Kino Walk
 #EXTGRP: кино
@@ -121,7 +121,7 @@ http://kinowalk.hopto.org/zsmedia_live
 
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
-http://cdntv.online/high/6j95s4drt3/1256.m3u8
+http://103.163.132.53/iptv/6GR5GF8VM4K5NC/11005/index.m3u8
 #EXTINF:-1,CineMan Premium
 #EXTGRP: кино
 http://cdntv.online/high/6j95s4drt3/1426.m3u8
@@ -167,9 +167,12 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/utinue.png",Утиные истории
 #EXTGRP: Детский
 http://103.163.132.53/iptv/HBWPN23GZMELXN/30156/index.m3u8
-#EXTINF:-1, Clarity4K Kинодети CССР
+#EXTINF:-1,Clarity4K Kинодети CССР
 #EXTGRP: кино
 http://cdntv.online/high/734xh9cn6p/1665.m3u8
+#EXTINF:-1,Oasis Soviet Comedy HD
+#EXTGRP: кино
+http://ch01.plink-pile.ch/20991/mpegts?token=bBBHk5ihPDAwYt
 
 #EXTINF:-1,Наше Наследие
 #EXTGRP: кино
@@ -230,10 +233,10 @@ http://as01.plinkspile.cc/8029/index.m3u8?token=bBBHk5ihPDAwYt
 http://cdntv.online/high/734xh9cn6p/2214.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5117.png",TOP USSR HD
 #EXTGRP: кино
-http://kewsiy0q.rostelekom.xyz/iptv/AQ6XNYBP9ZMSPN/13005/index.m3u8
+http://kewsiy0q.rostelekom.xyz/iptv/6GR5GF8VM4K5NC/13005/index.m3u8
 #EXTINF:-1,USSR HD
 #EXTGRP: кино
-http://kewsiy0q.rostelekom.xyz/iptv/AQ6XNYBP9ZMSPN/11102/index.m3u8
+http://kewsiy0q.rostelekom.xyz/iptv/6GR5GF8VM4K5NC/11102/index.m3u8
 #EXTINF:-1,Fresh Soviet
 #EXTGRP: кино
 http://cdntv.online/high/zjdicprmak64/1983.m3u8
@@ -242,7 +245,7 @@ http://cdntv.online/high/zjdicprmak64/1983.m3u8
 http://s.only4.tv/8040/index.m3u8?token=nSeG5DM7LE
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4695.png",StrahTV СССР
 #EXTGRP: кино
-http://kewsiy0q.rostelekom.xyz/iptv/AQ6XNYBP9ZMSPN/11061/index.m3u8
+http://kewsiy0q.rostelekom.xyz/iptv/6GR5GF8VM4K5NC/11061/index.m3u8
 #EXTINF:-1,YOSSO TV Советские фильмы
 #EXTGRP: кино
 http://7ebf9762.ucomist.net/iptv/8P7MBSH7RRPL53/14175/index.m3u8
