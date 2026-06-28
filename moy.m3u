@@ -76,7 +76,7 @@ http://103.163.132.53/iptv/YYNF7B4CUGPTQY/19293/index.m3u8
 http://cdntv.online/high/734xh9cn6p/2300.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
-http://u.vipl.one/high/zjdicprmak64/2300.m3u8
+http://cdntv.online/high/zjdicprmak64/2300.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
@@ -121,10 +121,7 @@ http://kinowalk.hopto.org/zsmedia_live
 
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
-http://103.163.132.53/iptv/6GR5GF8VM4K5NC/11005/index.m3u8
-#EXTINF:-1,CineMan Premium
-#EXTGRP: кино
-http://cdntv.online/high/6j95s4drt3/1426.m3u8
+http://ost.ru-tv.site/bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vMTk1LjIxMS4yNy4xNTE6ODA4MC84OTU5L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiI0NjY2ZDlhYiIsInAiOiI0NjY2ZDlhYjNhYzdlMmI2IiwiYyI6IjEwOTkiLCJ0IjoiNmY5N2M4ZWQ2ODhkNTI0NTg5ODZiODg5YzhjODk0N2YiLCJkIjoiNDk1NzQ2IiwiciI6IjUwNzcwOCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUxLzg5NTkvdmlkZW8ubTN1OD90b2tlbj1/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
 http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
