@@ -47,7 +47,7 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3
 http://83.217.12.157:81/udp/239.1.1.206:1234
 #EXTINF:-1,Мосфильм. Золотая коллекция (+4)
 #EXTGRP: кино
-http://s.only4.tv/6295/mono.m3u8?token=nSeG5DM7LE
+http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/17022/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6258.png",Кино 1 International
@@ -131,25 +131,25 @@ http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/8P7MBSH7RRPL53/13019/manifest.m3u8
+http://as01.plinkspile.cc/20733/index.m3u8?token=NQWxbcfWTYQHhC
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/YYNF7B4CUGPTQY/13096/manifest.m3u8
+http://as01.plinkspile.cc/20731/index.m3u8?token=NQWxbcfWTYQHhC
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13022/manifest.m3u8
+http://as01.plinkspile.cc/20732/index.m3u8?token=NQWxbcfWTYQHhC
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/13018/index.m3u8
+http://as01.plinkspile.cc/20748/index.m3u8?token=NQWxbcfWTYQHhC
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/QXRPSB7GMN4VWW/13060/index.m3u8
+http://as01.plinkspile.cc/20760/index.m3u8?token=NQWxbcfWTYQHhC
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/ZBE628EP2BYBP5/13021/index.m3u8
+http://as01.plinkspile.cc/20750/index.m3u8?token=NQWxbcfWTYQHhC
 #EXTINF:0,MM USSR Мультфильм HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/HBWPN23GZMELXN/13020/index.m3u8
+http://as01.plinkspile.cc/20849/index.m3u8?token=NQWxbcfWTYQHhC
 
 
 #EXTINF:-1,TVPlay Советское Кино HD
