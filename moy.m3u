@@ -67,7 +67,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u
 http://cdntv.online/high/zjdicprmak64/1263.m3u8
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13037/index.m3u8
+http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/13019/13037/index.m3u8
 #EXTINF:-1,Fresh VHS
 #EXTGRP: кино
 http://103.163.132.53/iptv/YYNF7B4CUGPTQY/19293/index.m3u8
@@ -80,7 +80,7 @@ http://cdntv.online/high/zjdicprmak64/2300.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13002/index.m3u8
+http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/13019/13002/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/6GR5GF8VM4K5NC/13002/index.m3u8
@@ -215,7 +215,7 @@ http://103.163.132.53/iptv/ZBE628EP2BYBP5/10084/index.m3u8
 http://103.163.132.53/iptv/HBWPN23GZMELXN/18125/index.m3u8
 #EXTINF:-1,BCU СССР HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/QE9BZFY7BMQXHF/11026/index.m3u8
+http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/13019/11026/index.m3u8
 #EXTINF:-1,VF Фильмы СССР
 #EXTGRP: кино
 http://103.163.132.53/iptv/HBWPN23GZMELXN/10085/index.m3u8
@@ -377,7 +377,7 @@ http://103.163.132.53/iptv/HBWPN23GZMELXN/13051/index.m3u8
 http://cdntv.online/low/734xh9cn6p/2013.mpeg
 #EXTINF:-1,BCU Сваты HD
 #EXTGRP: кино
-http://jvgnvmin.megatv.fun/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/11047/index.m3u8
+http://jvgnvmin.megatv.fun/iptv/ND5SZ7MVA9TTVS/13019/11047/index.m3u8
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4696.png",StrahTV Сваты
 #EXTGRP: кино
 http://103.163.132.53/iptv/ZBE628EP2BYBP5/11062/index.m3u8
@@ -567,7 +567,7 @@ http://s.only4.tv/9379/mono.m3u8?token=nSeG5DM7LE
 http://7036420a.edmonst.net/iptv/6GR5GF8VM4K5NC/17006/index.m3u8
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
-http://nkhwvlfz.ottclub.xyz/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/17006/index.m3u8
+http://nkhwvlfz.ottclub.xyz/iptv/ND5SZ7MVA9TTVS/13019/17006/index.m3u8
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
 http://103.163.132.53/iptv/HBWPN23GZMELXN/17006/index.m3u
@@ -597,7 +597,7 @@ http://7036420a.edmonst.net/iptv/8P7MBSH7RRPL53/13082/index.m3u8
 http://103.163.132.53/iptv/YEXEMMGCRW877K/13082/index.m3u8
 #EXTINF:-1,VF Тайны следствия
 #EXTGRP: кино
-http://103.163.132.53/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/13082/index.m3u8
+http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/13019/13082/index.m3u8
 
 #EXTINF:-1,VF Воронены
 #EXTGRP: кино
