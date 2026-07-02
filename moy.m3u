@@ -216,9 +216,6 @@ http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/11026/index.m3u8
 #EXTINF:-1,BCU СССР HD
 #EXTGRP: кино
 https://ru.hls.gd/ch789/mono.m3u8?token=conklave.v2_NMUxM09pHLV_Ai8x2Ti5RGQrvEEtP_bEJScxKLBTj6-rWKyuxGi1gp3drlYCw8t9ttEeYqJTGbAY
-#EXTINF:-1,BCU СССР HD
-#EXTGRP: кино
-https://ru.hls.gd/ch790/mono.m3u8?token=conklave.v2_GtU-nvK_6W1mMhdZukJaNJU9Fa1kNHKat0d5eQ_DmZhz2WQdbAefNXqjZcjT1bibSYVs19flGUNw
 #EXTINF:-1,VF Фильмы СССР
 #EXTGRP: кино
 http://103.163.132.53/iptv/AQ6XNYBP9ZMSPN/10085/index.m3u8
