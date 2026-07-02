@@ -552,6 +552,9 @@ http://103.163.132.53/iptv/AQ6XNYBP9ZMSPN/17016/index.m3u8
 #EXTINF:-1,Моя Прекрасная Няня
 #EXTGRP: кино
 https://ru.hls.gd/ch3780/mono.m3u8?token=conklave.v2_awmMrSfz5DyovkW8CNAVu6BzrC1KzKk0cbZb7FmbsF0PU9S6tGYsPDyoIfwRw_oCI4a4iyDJc4Nayg
+#EXTINF:-1,Друзья
+#EXTGRP: кино
+https://ru.hls.gd/ch3851/mono.m3u8?token=conklave.v2_ZrV1nhaGUdQ89m5Il9Y9LR-HMdqAZR4Yd5WF5yzIrVMwjPU4_TRyfa0C9_qoqzpURTvVJeRpHIjB6g
 
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
