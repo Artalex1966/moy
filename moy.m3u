@@ -67,7 +67,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u
 http://cdntv.online/high/zjdicprmak64/1263.m3u8
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/13037/index.m3u8
+https://ru.hls.gd/ch1242/mono.m3u8?token=conklave.v2_4svfOQK5xk3EnFfo7_6zA6xj1dlmOSVF4OGEgqmMGEVLKu2hGAAyGlyJCxptY7a-AO3bPsCi4GPJDg
 #EXTINF:-1,Fresh VHS
 #EXTGRP: кино
 http://103.163.132.53/iptv/YYNF7B4CUGPTQY/19293/index.m3u8
@@ -213,6 +213,12 @@ http://103.163.132.53/iptv/AQ6XNYBP9ZMSPN/18125/index.m3u8
 #EXTINF:-1,BCU СССР HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/11026/index.m3u8
+#EXTINF:-1,BCU СССР HD
+#EXTGRP: кино
+https://ru.hls.gd/ch789/mono.m3u8?token=conklave.v2_NMUxM09pHLV_Ai8x2Ti5RGQrvEEtP_bEJScxKLBTj6-rWKyuxGi1gp3drlYCw8t9ttEeYqJTGbAY
+#EXTINF:-1,BCU СССР HD
+#EXTGRP: кино
+https://ru.hls.gd/ch790/mono.m3u8?token=conklave.v2_GtU-nvK_6W1mMhdZukJaNJU9Fa1kNHKat0d5eQ_DmZhz2WQdbAefNXqjZcjT1bibSYVs19flGUNw
 #EXTINF:-1,VF Фильмы СССР
 #EXTGRP: кино
 http://103.163.132.53/iptv/AQ6XNYBP9ZMSPN/10085/index.m3u8
@@ -543,6 +549,10 @@ https://tinyurl.com/aleks-u-romki-47/18119/index.m3u8
 #EXTGRP: кино
 http://103.163.132.53/iptv/AQ6XNYBP9ZMSPN/17016/index.m3u8
 
+#EXTINF:-1,Моя Прекрасная Няня
+#EXTGRP: кино
+https://ru.hls.gd/ch3780/mono.m3u8?token=conklave.v2_awmMrSfz5DyovkW8CNAVu6BzrC1KzKk0cbZb7FmbsF0PU9S6tGYsPDyoIfwRw_oCI4a4iyDJc4Nayg
+
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/QE9BZFY7BMQXHF/17006/index.m3u8
@@ -848,4 +858,4 @@ http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9D
 
 
 #EXTINF:-1,Няня
-http://95.216.112.250/0313/index.m3u8
+https://ru.hls.gd/ch3780/mono.m3u8?token=conklave.v2_awmMrSfz5DyovkW8CNAVu6BzrC1KzKk0cbZb7FmbsF0PU9S6tGYsPDyoIfwRw_oCI4a4iyDJc4Nayg
