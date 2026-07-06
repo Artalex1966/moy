@@ -134,7 +134,7 @@ http://103.163.132.53/iptv/ZBE628EP2BYBP5/13096/index.m3u
 http://103.163.132.53/iptv/AQ6XNYBP9ZMSPN/13022/index.m3u
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/543/13018/index.m3u
+http://103.163.132.53/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/13018/index.m3u
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/3W9W7XEYC22NBD/13060/index.m3u
@@ -145,10 +145,6 @@ http://103.163.132.53/iptv/ZBE628EP2BYBP5/13021/index.m3u
 #EXTGRP: кино
 http://103.163.132.53/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/13020/index.m3u
 
-
-#EXTINF:-1,TVPlay Советское Кино HD
-#EXTGRP: Детский
-http://s.only4.tv/9375/index.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,IPTVPLAY МультСказки HD
 #EXTGRP: Детский
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -166,7 +162,7 @@ http://103.163.132.53/iptv/ZBE628EP2BYBP5/30156/index.m3u8
 http://cdntv.online/high/734xh9cn6p/1665.m3u8
 #EXTINF:-1,Oasis Soviet Comedy HD
 #EXTGRP: кино
-http://ch01.plink-pile.ch/20991/mpegts?token=472XFELWL7TSLF
+http://ch01.plink-pile.ch/20991/mpegts?token=NQWxbcfWTYQHhC
 
 #EXTINF:-1,Наше Наследие
 #EXTGRP: кино
@@ -194,7 +190,7 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MzcyMjA4NywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgzMTE3Mjg3LCJzZXNzaW9uX2lkIjoiNWVhY2I5NzU4ZDU2YTFiNzVhMmUwMGNmOTVkMDRjMDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.6QIHknjjBBcR0DiEomQRQcYPgK0ggt64ravgt3Q6FDY
 #EXTINF:-1,BOX СССР 4K
 #EXTGRP: кино
-http://as01.plinkspile.cc/21222/index.m3u8?token=472XFELWL7TSLF
+http://as01.plinkspile.cc/21222/index.m3u8?token=NQWxbcfWTYQHhC
 #EXTINF:-1,VF Классика
 #EXTGRP: кино
 http://103.163.132.53/iptv/ZBE628EP2BYBP5/10053/index.m3u8
@@ -215,10 +211,10 @@ http://103.163.132.53/iptv/ZBE628EP2BYBP5/18125/index.m3u8
 http://103.163.132.53/iptv/ZBE628EP2BYBP5/10085/index.m3u8
 #EXTINF:-1,VeleS СССР
 #EXTGRP: кино
-http://as01.plinkspile.cc/21020/index.m3u8?token=472XFELWL7TSLF
+http://as01.plinkspile.cc/21020/index.m3u8?token=NQWxbcfWTYQHhC
 #EXTINF:-1,LIBERTY СОЮЗ 4K
 #EXTGRP: кино
-http://as01.plinkspile.cc/8029/index.m3u8?token=472XFELWL7TSLF
+http://as01.plinkspile.cc/8029/index.m3u8?token=NQWxbcfWTYQHhC
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-sssr-fhd.png",CineMan CCCP
 #EXTGRP: кино
 http://cdntv.online/high/734xh9cn6p/2214.m3u8
@@ -299,7 +295,7 @@ http://7ebf9762.ucomist.net/iptv/P5AREPVG62AQYAZFWGCL79YP/10080/index.m3u8
 http://103.163.132.53/iptv/ZBE628EP2BYBP5/17021/index.m3u8
 #EXTINF:-1, BCU Cosmo HDR
 #EXTGRP: кино
-http://as01.plinkspile.cc/20846/index.m3u8?token=472XFELWL7TSLF
+http://as01.plinkspile.cc/20846/index.m3u8?token=NQWxbcfWTYQHhC
 #EXTINF:-1,MM UFO
 #EXTGRP: кино
 http://103.163.132.53/iptv/ZBE628EP2BYBP5/13017/index.m3u8
@@ -311,7 +307,7 @@ http://103.163.132.53/iptv/ZBE628EP2BYBP5/11032/index.m3u8
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/11005/index.m3u8
 #EXTINF:-1,MM 007
 #EXTGRP: кино
-http://as01.plinkspile.cc/20701/index.m3u8?token=472XFELWL7TSLF
+http://as01.plinkspile.cc/20701/index.m3u8?token=NQWxbcfWTYQHhC
 #EXTINF:-1,MM Боевик Classic HD
 #EXTGRP: кино
 http://7ebf9762.ucomist.net/iptv/P5AREPVG62AQYAZFWGCL79YP/13027/index.m3u8
