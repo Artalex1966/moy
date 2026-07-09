@@ -381,6 +381,8 @@ http://103.163.132.53/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/13080/manifest.m3u8
 #EXTGRP: кино
 http://s.only4.tv/6825/mono.m3u8?token=nSeG5DM7LE
 
+
+
 #EXTINF:-1,VF Реальные пацаны
 #EXTGRP: кино
 http://103.163.132.53/iptv/6GR5GF8VM4K5NC/17015/index.m3u8
@@ -484,6 +486,10 @@ http://103.163.132.53/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/13094/index.m3u8
 #EXTINF:-1,Кинозал! Интерны
 #EXTGRP: кино
 http://s.only4.tv/6823/index.m3u8?token=nSeG5DM7LE
+#EXTINF:-1,Kernel TV Интерны
+#EXTGRP: кино
+http://ru6.hls.gd/ch3248/index.m3u8?token=andrejskalejs.v2_qF_vYLd96p3Tr3F-SxSYjRNZOYWhVQWgP0iQKxQfZw4ufTbISV10Nt09hCtJIOp4jb3K47LbwYSKSbNtADfK
+
 #EXTINF:-1,МАЖОР
 #EXTGRP: кино
 https://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MzcyMjA4NywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgzMTE3Mjg3LCJzZXNzaW9uX2lkIjoiNWVhY2I5NzU4ZDU2YTFiNzVhMmUwMGNmOTVkMDRjMDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.6QIHknjjBBcR0DiEomQRQcYPgK0ggt64ravgt3Q6FDY
@@ -536,6 +542,12 @@ https://tinyurl.com/aleks-u-romki-47/18119/index.m3u8
 #EXTGRP: кино
 http://103.163.132.53/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/17016/index.m3u8
 
+#EXTINF:-1,TVPlay Моя Прекрасная Няня HD
+#EXTGRP: кино
+http://ru6.hls.gd/ch3780/index.m3u8?token=andrejskalejs.v2_YQIFWqVtO1qjsYWGC_GTV9Or5IlDfneQwDBYNMJX7wJ0T9yiyqoyV0QjrQ1GApUhcDf__MR2nWuPVY4wNqeI
+#EXTINF:-1,TVPlay Друзья HD
+#EXTGRP: кино
+http://ru6.hls.gd/ch3776/index.m3u8?token=andrejskalejs.v2_U0tAl-AwL_1frq-sXxWgeNNaycRu1o7su4aQwBS05icp6g5-rBE2E2OAzwEHFrA2iRhwF6CMvOfz0c6fu3Y_
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/6GR5GF8VM4K5NC/17006/index.m3u8
@@ -690,6 +702,9 @@ http://cdntv.online/high/zjdicprmak64/897.m3u8
 #EXTINF:-1,Маша и Медведь
 #EXTGRP: Детский
 http://cdntv.online/high/3h98wcmuyi/897.m3u8
+#EXTINF:-1,Kernel TV Маша и Медведь
+#EXTGRP: Детский
+http://ru6.hls.gd/ch3259/index.m3u8?token=andrejskalejs.v2_lreMBgazTAKRMNgFxZo-lcxzXeyAGUA7v7G4fpbCAFALKlCDyq087Q-6ollu4HZLTH9uBKSMgmRil0GYUlsC
 #EXTINF:-1,Щенячий патруль
 #EXTGRP: Детский
 http://103.163.132.53/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/30167/index.m3u8
