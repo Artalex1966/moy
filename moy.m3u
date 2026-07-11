@@ -54,7 +54,7 @@ http://103.163.132.53/iptv/X3RTSXQY3SXQNLX4R3BN53BD/17022/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6258.png",Кино 1 International
 #EXTGRP: кино
-http://ottlinks.club/hls/z4pevuh5d9/883.m3u8
+http://195.209.212.23:8081/hls/Kino_1_int/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6256.png",Кино 1
 #EXTGRP: кино
 http://77fb8f92.amazzin.pw/iptv/DCC56LFVHZ6LZZ/18069/index.m3u8
