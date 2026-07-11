@@ -49,7 +49,7 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3
 http://83.217.12.157:81/udp/239.1.1.206:1234
 #EXTINF:-1,Мосфильм. Золотая коллекция (+4)
 #EXTGRP: кино
-http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/17022/index.m3u8
+http://103.163.132.53/iptv/X3RTSXQY3SXQNLX4R3BN53BD/17022/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6258.png",Кино 1 International
@@ -69,7 +69,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u
 http://cdntv.online/high/zjdicprmak64/1263.m3u8
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/13037/index.m3u8
+http://as01.plinkspile.cc/20705/index.m3u8?token=NQWxbcfWTYQHhC
 #EXTINF:-1,Fresh VHS
 #EXTGRP: кино
 http://103.163.132.53/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/19293/index.m3u8
@@ -366,7 +366,7 @@ http://103.163.132.53/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/13051/index.m3u8
 http://cdntv.online/low/3h98wcmuyi/2013.mpeg
 #EXTINF:-1,BCU Сваты HD
 #EXTGRP: кино
-http://jvgnvmin.megatv.fun/iptv/ND5SZ7MVA9TTVS/11047/index.m3u8
+http://jvgnvmin.megatv.fun/iptv/X3RTSXQY3SXQNLX4R3BN53BD/11047/index.m3u8
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4696.png",StrahTV Сваты
 #EXTGRP: кино
 http://103.163.132.53/iptv/6GR5GF8VM4K5NC/11062/index.m3u8
@@ -558,7 +558,7 @@ http://ru6.hls.gd/ch3776/index.m3u8?token=andrejskalejs.v2_U0tAl-AwL_1frq-sXxWge
 http://7036420a.edmonst.net/iptv/6GR5GF8VM4K5NC/17006/index.m3u8
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
-http://nkhwvlfz.ottclub.xyz/iptv/ND5SZ7MVA9TTVS/17006/index.m3u8
+http://nkhwvlfz.ottclub.xyz/iptv/X3RTSXQY3SXQNLX4R3BN53BD/17006/index.m3u8
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
 http://103.163.132.53/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/17006/index.m3u
@@ -588,7 +588,7 @@ http://7036420a.edmonst.net/iptv/6GR5GF8VM4K5NC/13082/index.m3u8
 http://103.163.132.53/iptv/N9YR4DUN2M68Q8LLNBQSZBW3/13082/index.m3u8
 #EXTINF:-1,VF Тайны следствия
 #EXTGRP: кино
-http://103.163.132.53/iptv/ND5SZ7MVA9TTVS/13082/index.m3u8
+http://103.163.132.53/iptv/X3RTSXQY3SXQNLX4R3BN53BD/13082/index.m3u8
 
 #EXTINF:-1,VF Воронены
 #EXTGRP: кино
