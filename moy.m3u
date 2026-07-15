@@ -78,7 +78,7 @@ http://103.163.132.53/iptv/RSMK3M249QP2BL/19293/index.m3u8
 http://cdntv.online/high/r2zas3peth/2300.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
-http://ottlinks.club/hls/z4pevuh5d9/2300.m3u8
+http://ottlinks.club/hls/734xh9cn6p/2300.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
@@ -228,7 +228,7 @@ http://s.only4.tv/6805/index.m3u8?token=nSeG5DM7LE
 http://103.163.132.53/iptv/YEXEMMGCRW877K/11102/index.m3u8
 #EXTINF:-1,Fresh Soviet
 #EXTGRP: кино
-http://ottlinks.club/hls/z4pevuh5d9/1983.m3u8
+http://ottlinks.club/hls/zjdicprmak64/1983.m3u8
 #EXTINF:-1,KLI СССР HD
 #EXTGRP: кино
 http://s.only4.tv/8040/index.m3u8?token=nSeG5DM7LE
@@ -255,7 +255,7 @@ http://cdntv.online/hls/9uyzpadbe8/1584.m3u8
 http://cdntv.online/hls/3h98wcmuyi/1583.m3u8
 #EXTINF:-1, CineMan CCCP 4K
 #EXTGRP: кино
-http://ottlinks.club/hls/z4pevuh5d9/1682.m3u8
+http://ottlinks.club/hls/zjdicprmak64/1682.m3u8
 #EXTINF:-1,Любимое HD
 #EXTGRP: кино
 https://stream-msk-05.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4NDMyNjc2MCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgzNzIxOTYwLCJzZXNzaW9uX2lkIjoiYjExMDdhZWEyNDc0Mjc3NDlmNmU3ZDA3YzIyYzBjZTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.-qDmtw-DDUeHRpTvPrQryj4DVJc1-fnLYlepRQxXAc0
@@ -634,10 +634,10 @@ http://cdntv.online/hls/3h98wcmuyi/353.m3u8
 http://cdntv.online/hls/3h98wcmuyi/448.m3u8
 #EXTINF:-1,Авто 24
 #EXTGRP: Познавательное
-http://cdntv.online/high/6j95s4drt3/265.m3u8
+http://158.101.222.193:88/georgia_play.php?id=auto24
 #EXTINF:-1,Авто плюс
 #EXTGRP: Познавательное
-http://cdntv.online/high/6j95s4drt3/266.m3u8
+http://37.186.70.39:40/play/103/index.m3u8
 #EXTINF:-1,BOX AutoTrend HD
 #EXTGRP: Познавательное
 http://103.163.132.53/iptv/RSMK3M249QP2BL/31654/index.m3u8
