@@ -852,10 +852,8 @@ http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/19415/index.m3u8
 #EXTINF:-1, Play-x Тайны Чапман HD
 http://cdntv.online/low/3h98wcmuyi/2215.mpeg
 
-#EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
+#EXTINF:-1,Play-X Старый добрый фильм
 #EXTGRP: кино
-http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXUfiT-VMHLUjvQ2WFplavRq2JDhlFAXF-mbCNfHZirNGQ
-
-
-#EXTINF:-1,Няня
-https://ru.hls.gd/ch3780/mono.m3u8?token=conklave.v2_awmMrSfz5DyovkW8CNAVu6BzrC1KzKk0cbZb7FmbsF0PU9S6tGYsPDyoIfwRw_oCI4a4iyDJc4Nayg
+https://playxapp.play-x.app:2053/0909/index.m3u8?token=play-x.app
+#EXTINF:-1,Play-X Моя прекрасная няня
+https://playxapp.play-x.app:2053/0313/index.m3u8?token=play-x.app
