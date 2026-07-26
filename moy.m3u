@@ -75,7 +75,7 @@ http://as01.plinkspile.cc/20705/index.m3u8?token=NQWxbcfWTYQHhC
 http://103.163.132.53/iptv/VK7YCHHWNDD8XC/19293/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
-http://cdntv.online/high/r2zas3peth/2300.m3u8
+http://cdntv.online/high/3h98wcmuyi/2300.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
 http://ottlinks.club/hls/3h98wcmuyi/2300.m3u8
@@ -120,7 +120,7 @@ http://kinowalk.hopto.org/zsmedia_live
 
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
-http://cdntv.online/high/r2zas3peth/1256.m3u8
+http://cdntv.online/high/3h98wcmuyi/1256.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
 http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
@@ -136,10 +136,10 @@ http://as01.plinkspile.cc/20731/index.m3u8?token=Fmf9pukT2pTQyZ
 http://as01.plinkspile.cc/20732/index.m3u8?token=K7ZBTqYcivNNnr
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-http://as01.plinkspile.cc/20748/index.m3u8?token=Fmf9pukT2pTQyZ
+http://ru6.hls.gd/ch1223/index.m3u8?token=andrejskalejs.v2_lzopBAoLTOvpgco-UWun1UT17Xg2binXMiS_8rgmR3BDP7b-0vOGnxn0O6liZPcvlUR6BrceJVx8K5xyem7n
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-http://as01.plinkspile.cc/20760/index.m3u8?token=K7ZBTqYcivNNnr
+http://ru6.hls.gd/ch1269/index.m3u8?token=andrejskalejs.v2_IXoTHRQWveW5h-fXtlmDBi8rJmyutaX0DCs-dgzOaZ1MjksjwE5VQ0flh9ZeHh4t97J2XgDPqinZ92zMnoG-
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://as01.plinkspile.cc/20750/index.m3u8?token=Fmf9pukT2pTQyZ
@@ -216,7 +216,7 @@ http://as01.plinkspile.cc/21020/index.m3u8?token=K7ZBTqYcivNNnr
 http://as01.plinkspile.cc/8029/index.m3u8?token=NQWxbcfWTYQHhC
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-sssr-fhd.png",CineMan CCCP
 #EXTGRP: кино
-http://cdntv.online/high/r2zas3peth/2214.m3u8
+http://cdntv.online/high/3h98wcmuyi/2214.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5117.png",TOP USSR HD
 #EXTGRP: кино
 http://r.faola.li/6805/video.m3u8?token=nSeG5DM7LE
