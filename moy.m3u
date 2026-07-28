@@ -124,7 +124,7 @@ https://tinyurl.com/aleks-u-romki-40/11005/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
 http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
-#EXTINF:-1  group-title="Детские"  tvg-id="6260"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детское кино HD
+#EXTINF:-1  group-title="Детские"  tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детское кино HD
 https://tinyurl.com/aleks-u-romki-40/18073/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
