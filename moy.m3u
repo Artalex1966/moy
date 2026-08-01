@@ -152,6 +152,9 @@ http://103.163.132.53/iptv/C8HT2KRR3S43HX/13021/index.m3u
 http://103.163.132.53/iptv/VK7YCHHWNDD8XC/13020/index.m3u
 
 
+#EXTINF:0,TEAM Эпоха 70 HD
+#EXTGRP: кино
+http://11.hls.gd/ch3393/mono.m3u8?token=anjelika777.v2_Tiou2p8ZGOCxoURAPaVIQG7WAD-HeHF4ao7o29p3kCUb2zfyHQ4aM7tjCJaFQVyl-p7faxJFqnSkbdiN
 
 #EXTINF:-1,IPTVPLAY МультСказки HD
 #EXTGRP: Детский
@@ -159,6 +162,9 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
 #EXTGRP: Детский
 https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4NjE0NTY3OSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg1NTQwODc5LCJzZXNzaW9uX2lkIjoiMDUwNDliYWJlM2I4Y2Y3YTYzYWFjNmI3ZDcwMzFmMWQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TFU-c0StR6IWzxe5kv8O78E9QX7tLZuPn-hAFSibYHU
+#EXTINF:-1,MM Tom and Jerry HD
+#EXTGRP: Детский
+http://11.hls.gd/ch1221/mono.m3u8?token=anjelika777.v2_zaiFi3QPW7-OoJ7Z5KvkZS1ze_EoUMfKRZYSzqnonHhtYyfpu1nLvt1UzO7W4HAlyvfHdiWKEou1ZKc-
 #EXTINF:-1,Том и Джерри
 #EXTGRP: Детский
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
