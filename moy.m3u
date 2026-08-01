@@ -72,7 +72,7 @@ https://tinyurl.com/aleks-u-romki-40/11012/index.m3u8
 http://as01.plinkspile.cc/20705/index.m3u8?token=Fmf9pukT2pTQyZ
 #EXTINF:-1,Fresh VHS
 #EXTGRP: кино
-http://103.163.132.53/iptv/VK7YCHHWNDD8XC/19293/index.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE5ODYubTN1OA.m3u8?k=12345
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
 http://cdntv.online/high/36m9rn5du2/2300.m3u8
@@ -141,7 +141,7 @@ http://103.163.132.53/iptv/6GR5GF8VM4K5NC/13022/index.m3u
 http://103.163.132.53/iptv/D75X5Q6FURMZYZ/13018/index.m3u
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/3W9W7XEYC22NBD/13060/index.m3u
+http://103.163.132.53/iptv/D75X5Q6FURMZYZ/13060/index.m3u
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/C8HT2KRR3S43HX/13021/index.m3u
@@ -191,6 +191,14 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 #EXTINF:-1,Советская киноклассика
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4NjE0NTY3OSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg1NTQwODc5LCJzZXNzaW9uX2lkIjoiMDUwNDliYWJlM2I4Y2Y3YTYzYWFjNmI3ZDcwMzFmMWQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TFU-c0StR6IWzxe5kv8O78E9QX7tLZuPn-hAFSibYHU
+
+#EXTINF:-1,AlisaTV СССР
+#EXTGRP: кино
+http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3086/stream.m3u8
+#EXTINF:-1,CUB OK СССР
+#EXTGRP: кино
+http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3043/stream.m3u8
+
 #EXTINF:-1,BOX СССР 4K
 #EXTGRP: кино
 http://as01.plinkspile.cc/21222/index.m3u8?token=Fmf9pukT2pTQyZ
