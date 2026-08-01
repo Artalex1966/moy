@@ -120,7 +120,7 @@ http://kinowalk.hopto.org/zsmedia_live
 
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/11005/index.m3u8
+http://103.163.132.53/iptv/C8HT2KRR3S43HX/11005/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
 http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
