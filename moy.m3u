@@ -151,11 +151,6 @@ http://103.163.132.53/iptv/C8HT2KRR3S43HX/13021/index.m3u
 #EXTGRP: кино
 http://103.163.132.53/iptv/VK7YCHHWNDD8XC/13020/index.m3u
 
-
-#EXTINF:0,TEAM Эпоха 70 HD
-#EXTGRP: кино
-http://11.hls.gd/ch3393/mono.m3u8?token=anjelika777.v2_Tiou2p8ZGOCxoURAPaVIQG7WAD-HeHF4ao7o29p3kCUb2zfyHQ4aM7tjCJaFQVyl-p7faxJFqnSkbdiN
-
 #EXTINF:-1,IPTVPLAY МультСказки HD
 #EXTGRP: Детский
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
