@@ -74,7 +74,7 @@ http://11.hls.gd/ch1038/mono.m3u8?token=anjelika777.v2_ys8DkRgdwdH7_WROle-oG0JN1
 http://as01.plinkspile.cc/20705/index.m3u8?token=Fmf9pukT2pTQyZ
 #EXTINF:-1,Fresh VHS
 #EXTGRP: кино
-https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE5ODYubTN1OA.m3u8?k=12345
+https://tinyurl.com/2dlx67s8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
 http://11.hls.gd/ch3925/mono.m3u8?token=anjelika777.v2_IrssHQHBuhVGN8NNOQsKCHYCiWFvoGdqnQjqGaqp4ye0ahvOc38u5HIHNML5NQKzhUMKkpwvQLkalP86
@@ -86,6 +86,9 @@ http://cdntv.online/high/734xh9cn6p/2300.m3u8
 #EXTGRP: кино
 http://s.only4.tv/6802/index.m3u8?token=nSeG5DM7LE
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/vhskino.png", VHS кино
+#EXTGRP: кино
+http://kinowalk.hopto.org/and7610_live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/kinowalk.png",Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
@@ -120,9 +123,12 @@ http://kinowalk.hopto.org/kinolampa_live
 #EXTGRP: кино
 http://kinowalk.hopto.org/zsmedia_live
 
+#EXTINF:-1,VeleS Movie Hits
+#EXTGRP: кино
+https://tinyurl.com/2xpu93sk
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
-http://11.hls.gd/ch1031/mono.m3u8?token=anjelika777.v2_PIQyWBQqOCAFfVrTdM-uFg36LG7rutWLnGCZkqf48wcxnEScE4bbAhTFZzZ1n_X4R0dWiiAcswg_Q_np
+http://ost.ru-tv.site/0b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vMTk1LjIxMS4yNy4xNTE6NDEyOTUvODk1OS90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiNDY4ZTY0ODgiLCJwIjoiNDY4ZTY0ODgxMTM2NDY5MyIsImMiOiIxMDk5IiwidCI6ImI1NzdjMDg5NTgzMTI4MjViODYzZmZlN2IxYTZjNzVlIiwiZCI6IjUwMTg5NCIsInIiOiI1MTM4NTciLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUxOjM1MzA5Lzg5NTkvdmlkZW8ubTN1OD9/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 #EXTGRP: кино
 http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
@@ -194,13 +200,6 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 #EXTINF:-1,Советская киноклассика
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4NjE0NTY3OSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg1NTQwODc5LCJzZXNzaW9uX2lkIjoiMDUwNDliYWJlM2I4Y2Y3YTYzYWFjNmI3ZDcwMzFmMWQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TFU-c0StR6IWzxe5kv8O78E9QX7tLZuPn-hAFSibYHU
-
-#EXTINF:-1,AlisaTV СССР
-#EXTGRP: кино
-http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3086/stream.m3u8
-#EXTINF:-1,CUB OK СССР
-#EXTGRP: кино
-http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3043/stream.m3u8
 
 #EXTINF:-1,BOX СССР 4K
 #EXTGRP: кино
@@ -701,6 +700,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1,Ю
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+
 #EXTINF:-1,В гостях у сказки
 #EXTGRP: Детский
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=V_gostyakh_u_skazki.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4NjE0NTY3OSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg1NTQwODc5LCJzZXNzaW9uX2lkIjoiMDUwNDliYWJlM2I4Y2Y3YTYzYWFjNmI3ZDcwMzFmMWQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TFU-c0StR6IWzxe5kv8O78E9QX7tLZuPn-hAFSibYHU
@@ -715,13 +715,16 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 http://u.vipl.one/high/836mikdr7v/897.m3u8
 #EXTINF:-1,Маша и Медведь
 #EXTGRP: Детский
-http://cdntv.online/high/zjdicprmak64/897.m3u8
-#EXTINF:-1,Маша и Медведь
-#EXTGRP: Детский
 http://cdntv.online/high/734xh9cn6p/897.m3u8
+#EXTINF:-1,Venera.TV Маша и медведь
+#EXTGRP: Детский
+https://tinyurl.com/2ansnvfh
 #EXTINF:-1,Kernel TV Маша и Медведь
 #EXTGRP: Детский
 http://11.hls.gd/ch3259/mono.m3u8?token=anjelika777.v2_LaRsG7DbZuyphvD6UHmPSzeQxlRkgHl8DAiULoFhlRj5nvB4LxkfLEYMXIPlJZJ4XVshY0g2PWi4UChx
+#EXTINF:-1,Kernel TV Маша и Медведь
+#EXTGRP: Детский
+http://ost.ru-tv.site/0b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vMTk1LjIxMS4yNy4xNTE6NDEyOTUvOTA3Mi90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiNDY4ZTY0ODgiLCJwIjoiNDY4ZTY0ODgxMTM2NDY5MyIsImMiOiIxNTkyIiwidCI6ImI1NzdjMDg5NTgzMTI4MjViODYzZmZlN2IxYTZjNzVlIiwiZCI6IjUwMTg5NCIsInIiOiI1MTM4NTciLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUxOjM1MzA5LzkwNzIvdmlkZW8ubTN1OD9/video.m3u8
 #EXTINF:-1,Щенячий патруль
 #EXTGRP: Детский
 http://103.163.132.53/iptv/EBBDX25MF7G6MC/30167/index.m3u8
