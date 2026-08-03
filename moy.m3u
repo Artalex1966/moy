@@ -80,11 +80,11 @@ http://103.163.132.53/iptv/EBBDX25MF7G6MC/19293/index.m3u
 http://11.hls.gd/ch3925/mono.m3u8?token=anjelika777.v2_IrssHQHBuhVGN8NNOQsKCHYCiWFvoGdqnQjqGaqp4ye0ahvOc38u5HIHNML5NQKzhUMKkpwvQLkalP86
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
-http://cdntv.online/high/734xh9cn6p/2300.m3u8
+http://cdntv.online/high/iebm2vwyraj7/2300.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
-http://s.only4.tv/6802/index.m3u8?token=nSeG5DM7LE
+http://103.163.132.53/iptv/3W9W7XEYC22NBD/13002/index.m3u
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/vhskino.png", VHS кино
 #EXTGRP: кино
@@ -172,9 +172,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/utinue.png",Утиные истории
 #EXTGRP: Детский
 http://103.163.132.53/iptv/EBBDX25MF7G6MC/30156/index.m3u8
-#EXTINF:-1,Clarity4K Kинодети CССР
+#EXTINF:-1,Venera.TV Советская классика 4K
 #EXTGRP: кино
-http://cdntv.online/high/734xh9cn6p/1665.m3u8
+http://103.163.132.53/iptv/3W9W7XEYC22NBD/30151/index.m3u
 #EXTINF:-1,Oasis Soviet Comedy HD
 #EXTGRP: кино
 http://ch01.plink-pile.ch/20991/mpegts?token=Fmf9pukT2pTQyZ
@@ -392,7 +392,7 @@ http://103.163.132.53/iptv/6GR5GF8VM4K5NC/13080/index.m3u8
 http://103.163.132.53/iptv/EBBDX25MF7G6MC/13080/manifest.m3u8
 #EXTINF:-1,Кинозал! Сваты
 #EXTGRP: кино
-http://s.only4.tv/6825/mono.m3u8?token=nSeG5DM7LE
+http://103.163.132.53/iptv/3W9W7XEYC22NBD/11062/index.m3u
 
 
 
@@ -496,12 +496,12 @@ https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1,VF Клиника
 #EXTGRP: кино
 http://103.163.132.53/iptv/EBBDX25MF7G6MC/13094/index.m3u8
-#EXTINF:-1,Кинозал! Интерны
+#EXTINF:-1,Интерны
 #EXTGRP: кино
-http://s.only4.tv/6823/index.m3u8?token=nSeG5DM7LE
-#EXTINF:-1,Kernel TV Интерны
+http://103.163.132.53/iptv/3W9W7XEYC22NBD/11060/index.m3u
+#EXTINF:-1,Интерны
 #EXTGRP: кино
-http://ru6.hls.gd/ch3248/index.m3u8?token=andrejskalejs.v2_qF_vYLd96p3Tr3F-SxSYjRNZOYWhVQWgP0iQKxQfZw4ufTbISV10Nt09hCtJIOp4jb3K47LbwYSKSbNtADfK
+http://103.163.132.53/iptv/EBBDX25MF7G6MC/11060/index.m3u
 
 #EXTINF:-1,МАЖОР
 #EXTGRP: кино
@@ -545,9 +545,9 @@ http://103.163.132.53/iptv/EBBDX25MF7G6MC/13094/index.m3u8
 #EXTINF:-1,The X-Files
 #EXTGRP: кино
 http://103.163.132.53/iptv/EBBDX25MF7G6MC/11055/index.m3u8
-#EXTINF:-1,VF The X-Files
+#EXTINF:-1,The X-Files
 #EXTGRP: кино
-http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/17002/index.m3u8
+http://103.163.132.53/iptv/3W9W7XEYC22NBD/11055/index.m3u
 #EXTINF:-1,VF Игра престолов
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-47/18119/index.m3u8
@@ -710,7 +710,10 @@ http://u.vipl.one/high/836mikdr7v/897.m3u8
 http://cdntv.online/high/734xh9cn6p/897.m3u8
 #EXTINF:-1,Venera.TV Маша и медведь
 #EXTGRP: Детский
-https://tinyurl.com/2ansnvfh
+http://103.163.132.53/iptv/3W9W7XEYC22NBD/30180/index.m3u
+#EXTINF:-1,Venera.TV Маша и медведь
+#EXTGRP: Детский
+http://103.163.132.53/iptv/6GR5GF8VM4K5NC/30180/index.m3u
 #EXTINF:-1,Kernel TV Маша и Медведь
 #EXTGRP: Детский
 http://11.hls.gd/ch3259/mono.m3u8?token=anjelika777.v2_LaRsG7DbZuyphvD6UHmPSzeQxlRkgHl8DAiULoFhlRj5nvB4LxkfLEYMXIPlJZJ4XVshY0g2PWi4UChx
