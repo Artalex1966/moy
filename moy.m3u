@@ -68,7 +68,7 @@ http://7036420a.edmonst.net/iptv/6GR5GF8VM4K5NC/18070/index.m3u8
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4NjE0NTY3OSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg1NTQwODc5LCJzZXNzaW9uX2lkIjoiMDUwNDliYWJlM2I4Y2Y3YTYzYWFjNmI3ZDcwMzFmMWQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TFU-c0StR6IWzxe5kv8O78E9QX7tLZuPn-hAFSibYHU
 #EXTINF:-1,CineMan VHS
 #EXTGRP: кино
-http://103.163.132.53/iptv/D75X5Q6FURMZYZ/11012/index.m3u
+http://103.163.132.53/iptv/4RX9EUEFQCUA5P/11012/index.m3u
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
 http://ost.ru-tv.site/0b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vMTk1LjIxMS4yNy4xNTE6NDEyOTUvODc4OS90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiNDY4ZTY0ODgiLCJwIjoiNDY4ZTY0ODgxMTM2NDY5MyIsImMiOiIxNjQ1IiwidCI6ImI1NzdjMDg5NTgzMTI4MjViODYzZmZlN2IxYTZjNzVlIiwiZCI6IjUwMTg5NCIsInIiOiI1MTM4NTciLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUxOjM1MzA5Lzg3ODkvdmlkZW8ubTN1OD9/video.m3u8
@@ -146,7 +146,7 @@ http://103.163.132.53/iptv/C8HT2KRR3S43HX/13096/index.m3u
 http://103.163.132.53/iptv/6GR5GF8VM4K5NC/13022/index.m3u
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/D75X5Q6FURMZYZ/13018/index.m3u
+http://103.163.132.53/iptv/4RX9EUEFQCUA5P/13018/index.m3u
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/8Q77ZPL94T3MA32EADN9V35E/13060/index.m3u
@@ -702,6 +702,9 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1,Том и Джерри
 #EXTGRP: Детский
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1,Маша и Медведь
+#EXTGRP: Детский
+https://lbgo.bozztv.com/07/ushba79/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Маша и Медведь
 #EXTGRP: Детский
 http://u.vipl.one/high/836mikdr7v/897.m3u8
