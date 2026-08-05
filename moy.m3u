@@ -8,7 +8,7 @@ http://103.163.132.53/iptv/6GR5GF8VM4K5NC/31654/index.m3u8
 #EXTINF:-1,VF Авто
 http://103.163.132.53/iptv/EBBDX25MF7G6MC/15511/index.m3u8
 #EXTINF:-1,Clarity4K Avto blog
-http://as01.plinkspile.cc/20925/index.m3u8?token=Fmf9pukT2pTQyZ
+http://as01.plinkspile.cc/20925/index.m3u8?token=NQWxbcfWTYQHhC
 #EXTINF:-1,Россия 24
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
@@ -163,9 +163,9 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
 #EXTGRP: Детский
 https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4NjE0NTY3OSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg1NTQwODc5LCJzZXNzaW9uX2lkIjoiMDUwNDliYWJlM2I4Y2Y3YTYzYWFjNmI3ZDcwMzFmMWQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TFU-c0StR6IWzxe5kv8O78E9QX7tLZuPn-hAFSibYHU
-#EXTINF:-1,MM Tom and Jerry HD
+#EXTINF:-1,Kernel TV Том и Джерри HD
 #EXTGRP: Детский
-http://11.hls.gd/ch1221/mono.m3u8?token=anjelika777.v2_zaiFi3QPW7-OoJ7Z5KvkZS1ze_EoUMfKRZYSzqnonHhtYyfpu1nLvt1UzO7W4HAlyvfHdiWKEou1ZKc-
+http://ost.ru-tv.site/0b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vMTk1LjIxMS4yNy4xNTE6NDEyOTUvOTAzMy90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiNDY4ZTY0ODgiLCJwIjoiNDY4ZTY0ODgxMTM2NDY5MyIsImMiOiIxNjA2IiwidCI6ImI1NzdjMDg5NTgzMTI4MjViODYzZmZlN2IxYTZjNzVlIiwiZCI6IjUwMTg5NCIsInIiOiI1MTM4NTciLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUxOjM1MzA5LzkwMzMvdmlkZW8ubTN1OD9/video.m3u8
 #EXTINF:-1,Том и Джерри
 #EXTGRP: Детский
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
@@ -174,10 +174,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 http://103.163.132.53/iptv/EBBDX25MF7G6MC/30156/index.m3u8
 #EXTINF:-1,Venera.TV Советская классика 4K
 #EXTGRP: кино
-http://103.163.132.53/iptv/3W9W7XEYC22NBD/30151/index.m3u
-#EXTINF:-1,Oasis Soviet Comedy HD
-#EXTGRP: кино
-http://ch01.plink-pile.ch/20991/mpegts?token=Fmf9pukT2pTQyZ
+http://103.163.132.53/iptv/QXRPSB7GMN4VWW/30151/index.m3u
+
 
 #EXTINF:-1,СОВЕТСКИЕ ФИЛЬМЫ
 #EXTGRP: кино
@@ -224,7 +222,7 @@ http://103.163.132.53/iptv/EBBDX25MF7G6MC/18125/index.m3u8
 http://103.163.132.53/iptv/EBBDX25MF7G6MC/10085/index.m3u8
 #EXTINF:-1,VeleS СССР
 #EXTGRP: кино
-http://as01.plinkspile.cc/21020/index.m3u8?token=Fmf9pukT2pTQyZ
+http://57.128.196.99/10327/index.m3u8?token=6AC15D94169C
 #EXTINF:-1,LIBERTY СОЮЗ 4K
 #EXTGRP: кино
 http://as01.plinkspile.cc/8029/index.m3u8?token=B8Z3TRbDpX6b65
@@ -242,7 +240,7 @@ https://tinyurl.com/aleks-u-romki-40/11102/index.m3u8
 http://cdntv.online/low/iebm2vwyraj7/1983.mpeg
 #EXTINF:-1,KLI СССР HD
 #EXTGRP: кино
-http://s.only4.tv/8040/index.m3u8?token=nSeG5DM7LE
+http://57.128.196.99/10285/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4695.png",StrahTV СССР
 #EXTGRP: кино
 http://103.163.132.53/iptv/C8HT2KRR3S43HX/11061/index.m3u8
@@ -308,7 +306,7 @@ https://tinyurl.com/aleks-u-romki-40/10080/index.m3u8
 http://103.163.132.53/iptv/EBBDX25MF7G6MC/17021/index.m3u8
 #EXTINF:-1, BCU Cosmo HDR
 #EXTGRP: кино
-http://as01.plinkspile.cc/20846/index.m3u8?token=Fmf9pukT2pTQyZ
+http://as01.plinkspile.cc/20846/index.m3u8?token=NQWxbcfWTYQHhC
 #EXTINF:-1,MM UFO
 #EXTGRP: кино
 http://103.163.132.53/iptv/EBBDX25MF7G6MC/13017/index.m3u8
@@ -496,12 +494,7 @@ https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1,VF Клиника
 #EXTGRP: кино
 http://103.163.132.53/iptv/EBBDX25MF7G6MC/13094/index.m3u8
-#EXTINF:-1,Интерны
-#EXTGRP: кино
-http://103.163.132.53/iptv/3W9W7XEYC22NBD/11060/index.m3u
-#EXTINF:-1,Интерны
-#EXTGRP: кино
-http://103.163.132.53/iptv/EBBDX25MF7G6MC/11060/index.m3u
+
 
 #EXTINF:-1,МАЖОР
 #EXTGRP: кино
@@ -542,19 +535,25 @@ http://103.163.132.53/iptv/EBBDX25MF7G6MC/15100/index.m3u8
 #EXTINF:-1,VF Клиника
 #EXTGRP: кино
 http://103.163.132.53/iptv/EBBDX25MF7G6MC/13094/index.m3u8
-#EXTINF:-1,The X-Files
-#EXTGRP: кино
-http://103.163.132.53/iptv/EBBDX25MF7G6MC/11055/index.m3u8
-#EXTINF:-1,The X-Files
-#EXTGRP: кино
-http://103.163.132.53/iptv/3W9W7XEYC22NBD/11055/index.m3u
+
 #EXTINF:-1,VF Игра престолов
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-47/18119/index.m3u8
 #EXTINF:-1,VF Доктор Хаус
 #EXTGRP: кино
 http://103.163.132.53/iptv/EBBDX25MF7G6MC/17016/index.m3u8
-
+#EXTINF:-1,The X-Files
+#EXTGRP: кино
+http://103.163.132.53/iptv/EBBDX25MF7G6MC/11055/index.m3u8
+#EXTINF:-1,The X-Files
+#EXTGRP: кино
+http://103.163.132.53/iptv/3W9W7XEYC22NBD/11055/index.m3u
+#EXTINF:-1,Интерны
+#EXTGRP: кино
+http://103.163.132.53/iptv/QXRPSB7GMN4VWW/11060/index.m3u
+#EXTINF:-1,Интерны
+#EXTGRP: кино
+http://103.163.132.53/iptv/EBBDX25MF7G6MC/11060/index.m3u
 
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
