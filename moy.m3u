@@ -74,7 +74,7 @@ http://ost.ru-tv.site/0b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vMTk1LjIxMS4yNy4xN
 http://ost.ru-tv.site/0b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vMTk1LjIxMS4yNy4xNTE6NDEyOTUvODc4OS90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiNDY4ZTY0ODgiLCJwIjoiNDY4ZTY0ODgxMTM2NDY5MyIsImMiOiIxNjQ1IiwidCI6ImI1NzdjMDg5NTgzMTI4MjViODYzZmZlN2IxYTZjNzVlIiwiZCI6IjUwMTg5NCIsInIiOiI1MTM4NTciLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUxOjM1MzA5Lzg3ODkvdmlkZW8ubTN1OD9/video.m3u8
 #EXTINF:-1,Fresh VHS
 #EXTGRP: кино
-http://103.163.132.53/iptv/EBBDX25MF7G6MC/19293/index.m3u
+http://stream.mcquack.net/428/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
 http://cdntv.online/high/97vp2hnijazc/2300.m3u8
@@ -304,18 +304,18 @@ https://tinyurl.com/aleks-u-romki-40/10080/index.m3u8
 #EXTINF:-1,BCU Cosmo HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/EBBDX25MF7G6MC/17021/index.m3u8
-#EXTINF:-1, BCU Cosmo HDR
+#EXTINF:-1,Fresh Fantastic
 #EXTGRP: кино
-http://as01.plinkspile.cc/20846/index.m3u8?token=NQWxbcfWTYQHhC
+http://stream.mcquack.net/429/index.m3u8
 #EXTINF:-1,MM UFO
 #EXTGRP: кино
 http://103.163.132.53/iptv/EBBDX25MF7G6MC/13017/index.m3u8
 #EXTINF:-1,BCU Fantastic HDR
 #EXTGRP: кино
 http://103.163.132.53/iptv/EBBDX25MF7G6MC/11032/index.m3u8
-#EXTINF:-1,CineMan Top
+#EXTINF:-1,Cineman Катастрофы
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/11005/index.m3u8
+http://stream.mcquack.net/471/index.m3u8
 #EXTINF:-1,MM 007
 #EXTGRP: кино
 http://as01.plinkspile.cc/20701/index.m3u8?token=8ZRAvU7tYWu9ic
@@ -325,9 +325,10 @@ http://7ebf9762.ucomist.net/iptv/Q5STBM8EKGPQMU/13027/index.m3u8
 #EXTINF:-1,MM Боевик
 #EXTGRP: кино
 http://103.163.132.53/iptv/EBBDX25MF7G6MC/13028/index.m3u8
-#EXTINF:-1,Fresh VHS
+
+#EXTINF:-1,Fresh Comedy
 #EXTGRP: кино
-http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/19293/index.m3u8
+http://stream.mcquack.net/426/index.m3u8
 #EXTINF:-1,КОМЕДИИ 24/7
 #EXTGRP: кино
 http://kinowalk.hopto.org/cmexye4ku_live
