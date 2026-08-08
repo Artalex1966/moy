@@ -51,7 +51,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m
 http://83.217.12.157:81/udp/239.1.1.206:1234
 #EXTINF:-1,Мосфильм. Золотая коллекция (+4)
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/17022/index.m3u8
+http://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6258.png",Кино 1 International
@@ -373,7 +373,7 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/p
 http://103.163.132.53/iptv/EBBDX25MF7G6MC/13051/index.m3u8
 #EXTINF:-1,LIBERTY Сваты
 #EXTGRP: кино
-http://cdntv.online/low/734xh9cn6p/2013.mpeg
+http://cdntv.online/low/iebm2vwyraj7/2013.mpeg
 #EXTINF:-1,BCU Сваты HD
 #EXTGRP: кино
 http://jvgnvmin.megatv.fun/iptv/X3RTSXQY3SXQNLX4R3BN53BD/11047/index.m3u8
@@ -548,7 +548,7 @@ http://103.163.132.53/iptv/EBBDX25MF7G6MC/17016/index.m3u8
 http://103.163.132.53/iptv/EBBDX25MF7G6MC/11055/index.m3u8
 #EXTINF:-1,The X-Files
 #EXTGRP: кино
-http://103.163.132.53/iptv/3W9W7XEYC22NBD/11055/index.m3u
+http://103.163.132.53/iptv/QXRPSB7GMN4VWW/11055/index.m3u
 #EXTINF:-1,Интерны
 #EXTGRP: кино
 http://103.163.132.53/iptv/QXRPSB7GMN4VWW/11060/index.m3u
@@ -598,10 +598,10 @@ http://103.163.132.53/iptv/4N9GESHLXBUSDA/13082/index.m3u8
 http://103.163.132.53/iptv/EBBDX25MF7G6MC/13083/index.m3u
 #EXTINF:-1,Galaxy
 #EXTGRP: Познавательное
-http://cdntv.online/high/6j95s4drt3/366.m3u8
+http://cdntv.online/high/iebm2vwyraj7/366.m3u8
 #EXTINF:-1,Galaxy
 #EXTGRP: Познавательное
-http://193.25.8.59:8000/galaxy
+https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132505&extension=ts
 #EXTINF:-1,Первый космический
 #EXTGRP: Познавательное
 http://cdntv.online/high/734xh9cn6p/1062.m3u8
