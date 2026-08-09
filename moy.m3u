@@ -51,6 +51,9 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m
 http://83.217.12.157:81/udp/239.1.1.206:1234
 #EXTINF:-1,Мосфильм. Золотая коллекция (+4)
 #EXTGRP: кино
+https://tinyurl.com/aleks-u-romki-40/17022/index.m3u8
+#EXTINF:-1,Мосфильм. Золотая коллекция (-2)
+#EXTGRP: кино
 http://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 
