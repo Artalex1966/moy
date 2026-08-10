@@ -87,7 +87,7 @@ http://ost.ru-tv.site/0b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vMTk1LjIxMS4yNy4xN
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/3W9W7XEYC22NBD/13002/index.m3u
+http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13002/index.m3u
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/vhskino.png", VHS кино
 #EXTGRP: кино
@@ -191,7 +191,7 @@ http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m
 https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Njc0NjAxNCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg2MTQxMjE0LCJzZXNzaW9uX2lkIjoiZjBkYmNjZWNkYmE4MTIwYThmYjM4ZDBmMGIwNzg5ZjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.-bp3oiiqKwn7aWbVwNgKnVTfWTlFx2qGfG9K4gC6kb0
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6259.png",Военное кино HD
 #EXTGRP: кино
-http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWwjDjdy_eW8DtSH1kz2C4L9fAU4hk6dCfS41K0nGve8A
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/18072/index.m3u8
 #EXTINF:-1 tvg-logo="http://1lot.tv/ch/8742.png",Назад в СССР
 #EXTGRP: кино
 http://kinowalk.hopto.org/backtotheussr_live
@@ -385,7 +385,7 @@ http://jvgnvmin.megatv.fun/iptv/X3RTSXQY3SXQNLX4R3BN53BD/11047/index.m3u8
 http://103.163.132.53/iptv/Q5STBM8EKGPQMU/11062/index.m3u8
 #EXTINF:-1,CineMan Сваты
 #EXTGRP: кино
-http://11.hls.gd/ch1040/mono.m3u8?token=anjelika777.v2_5BkN5wwf9ohbrn-tPH7eRJaIHMZx6bGbPZYGxycJleTWhu9dM791WU1y_4yr4K4excyiAPp63w7mtlYW
+http://ost.ru-tv.site/0b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vMTk1LjIxMS4yNy4xNTE6NDEyOTUvODgyNS90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiNDY4ZTY0ODgiLCJwIjoiNDY4ZTY0ODgxMTM2NDY5MyIsImMiOiIxMDk4IiwidCI6ImI1NzdjMDg5NTgzMTI4MjViODYzZmZlN2IxYTZjNzVlIiwiZCI6IjUwMTg5NCIsInIiOiI1MTM4NTciLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUxOjM1MzA5Lzg4MjUvdmlkZW8ubTN1OD9/video.m3u8
 #EXTINF:-1 ,VF Сваты
 #EXTGRP: кино
 http://103.163.132.53/iptv/Q5STBM8EKGPQMU/13080/index.m3u8
@@ -394,7 +394,7 @@ http://103.163.132.53/iptv/Q5STBM8EKGPQMU/13080/index.m3u8
 http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/13080/manifest.m3u8
 #EXTINF:-1,Кинозал! Сваты
 #EXTGRP: кино
-http://103.163.132.53/iptv/3W9W7XEYC22NBD/11062/index.m3u
+http://103.163.132.53/iptv/8ED7L5YXSGCCMS/11062/index.m3u
 
 
 
@@ -716,7 +716,7 @@ http://u.vipl.one/high/836mikdr7v/897.m3u8
 http://cdntv.online/high/734xh9cn6p/897.m3u8
 #EXTINF:-1,Venera.TV Маша и медведь
 #EXTGRP: Детский
-http://103.163.132.53/iptv/3W9W7XEYC22NBD/30180/index.m3u
+http://103.163.132.53/iptv/8ED7L5YXSGCCMS/30180/index.m3u
 #EXTINF:-1,Venera.TV Маша и медведь
 #EXTGRP: Детский
 http://103.163.132.53/iptv/Q5STBM8EKGPQMU/30180/index.m3u
