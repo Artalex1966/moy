@@ -75,6 +75,9 @@ http://103.163.132.53/iptv/QXRPSB7GMN4VWW/11012/index.m3u8
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
 http://ost.ru-tv.site/0b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vMTk1LjIxMS4yNy4xNTE6NDEyOTUvODc4OS90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiYWJmOTFmZmYiLCJwIjoiYWJmOTFmZmZhYmY5MjAxYiIsImMiOiIxNjQ1IiwidCI6IjEyODMwZWVkNTYwOTA5ZWUzMDRlMzEyZGIzMzM3ZjMxIiwiZCI6IjUwNTE5OCIsInIiOiI1MTcxNTYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUxOjM1MzA5Lzg3ODkvdmlkZW8ubTN1OD9/video.m3u8
+#EXTINF:-1,MM Комедия Classic HD
+#EXTGRP: кино
+http://185.221.213.254/live/stream113.php?seg=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOWx6DVpu1Deq6OkESqI1Kw-TmWtWss6liOv56vfj_V0k
 #EXTINF:-1,Fresh VHS
 #EXTGRP: кино
 http://stream.mcquack.net/428/index.m3u8
@@ -883,8 +886,8 @@ http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/19415/index.m3u8
 #EXTINF:-1, Play-x Тайны Чапман HD
 http://cdntv.online/low/734xh9cn6p/2215.mpeg
 
-#EXTINF:-1,Play-X Старый добрый фильм
+#EXTINF:-1,Госфильмофонд. Машина времени HD
 #EXTGRP: кино
-https://playxapp.play-x.app:2053/0909/index.m3u8?token=play-x.app
+http://185.221.213.254/live/stream113.php?seg=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd80OsapFPaD3ZXfEOTb3uPpvyb8sixf4awuyemMIO0gs_2nhxrW355e6y6DPwhHXRs
 #EXTINF:-1,Play-X Моя прекрасная няня
 https://playxapp.play-x.app:2053/0313/index.m3u8?token=play-x.app
