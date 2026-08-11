@@ -167,9 +167,6 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
 #EXTGRP: Детский
 https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Njc0NjAxNCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg2MTQxMjE0LCJzZXNzaW9uX2lkIjoiZjBkYmNjZWNkYmE4MTIwYThmYjM4ZDBmMGIwNzg5ZjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.-bp3oiiqKwn7aWbVwNgKnVTfWTlFx2qGfG9K4gC6kb0
-#EXTINF:-1,Kernel TV Том и Джерри HD
-#EXTGRP: Детский
-http://ost.myrutv.ru/iX3Rva2VuXSIsImEiOiJodHRwOi8vNjYuOTAuOTIuMjc6ODA4MC85MDMzL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzNGQyOTdjNCIsInAiOiIzNGQyOTdjNGY5ODQ5OGNjIiwiYyI6IjE2MDYiLCJ0IjoiMzhiYzAwZjgyMjI0MDYxYzRmNmY4OGMzN2UxMGZlODciLCJkIjoiNTA2NzQ4IiwiciI6IjUxODcwNSIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzY2LjkwLjkyLjI3LzkwMzMvaW5kZXgubTN1OD90b2tlbj1bc3R/index.m3u8
 #EXTINF:-1,Том и Джерри
 #EXTGRP: Детский
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
@@ -386,7 +383,7 @@ http://jvgnvmin.megatv.fun/iptv/X3RTSXQY3SXQNLX4R3BN53BD/11047/index.m3u8
 http://103.163.132.53/iptv/Q5STBM8EKGPQMU/11062/index.m3u8
 #EXTINF:-1,CineMan Сваты
 #EXTGRP: кино
-http://ost.myrutv.ru/iX3Rva2VuXSIsImEiOiJodHRwOi8vNjYuOTAuOTIuMjc6ODA4MC84ODI1L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzNGQyOTdjNCIsInAiOiIzNGQyOTdjNGY5ODQ5OGNjIiwiYyI6IjEwOTgiLCJ0IjoiMzhiYzAwZjgyMjI0MDYxYzRmNmY4OGMzN2UxMGZlODciLCJkIjoiNTA2NzQ4IiwiciI6IjUxODcwNSIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzY2LjkwLjkyLjI3Lzg4MjUvaW5kZXgubTN1OD90b2tlbj1bc3R/index.m3u8
+http://103.163.132.53/iptv/iptv/V5LQDM4CPUCC2C/11014/index.m3u8
 #EXTINF:-1 ,VF Сваты
 #EXTGRP: кино
 http://103.163.132.53/iptv/Q5STBM8EKGPQMU/13080/index.m3u8
@@ -721,9 +718,6 @@ http://103.163.132.53/iptv/8ED7L5YXSGCCMS/30180/index.m3u
 #EXTINF:-1,Venera.TV Маша и медведь
 #EXTGRP: Детский
 http://103.163.132.53/iptv/Q5STBM8EKGPQMU/30180/index.m3u
-#EXTINF:-1,Kernel TV Маша и Медведь
-#EXTGRP: Детский
-http://ost.myrutv.ru/iX3Rva2VuXSIsImEiOiJodHRwOi8vNjYuOTAuOTIuMjc6ODA4MC85MDcyL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzNGQyOTdjNCIsInAiOiIzNGQyOTdjNGY5ODQ5OGNjIiwiYyI6IjE1OTIiLCJ0IjoiMzhiYzAwZjgyMjI0MDYxYzRmNmY4OGMzN2UxMGZlODciLCJkIjoiNTA2NzQ4IiwiciI6IjUxODcwNSIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzY2LjkwLjkyLjI3LzkwNzIvaW5kZXgubTN1OD90b2tlbj1bc3R/index.m3u8
 #EXTINF:-1,Щенячий патруль
 #EXTGRP: Детский
 http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/30167/index.m3u8
@@ -815,13 +809,13 @@ http://195.209.212.23:8081/hls/Muzyka_1_int/playlist.m3u8
 http://195.209.212.23:8081/hls/Muzyka_2_int/playlist.m3u8
 #EXTINF:-1,Музыка 2
 #EXTGRP: Музыка
-http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXU9_NWCf6p1R8tLvOfGFvdGZYFURx0i0Srxgstxp0uD8g
+http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/18079/index.m3u8
 #EXTINF:-1,Музыка Кино International
 #EXTGRP: Музыка
 http://195.209.212.23:8081/hls/Muzyka_Kino_int/playlist.m3u8
 #EXTINF:-1,Музыка Кино
 #EXTGRP: Музыка
-http://185.221.213.254/live/stream112.php?q=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWNldogx6PSlSWY1_3owaasNeflynmaeDRhv0LmY_DStw
+http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/18081/index.m3u8
 #EXTINF:-1,Play-x Муз Golden Hits 90s HD
 #EXTGRP: Музыка
 http://cdntv.online/high/734xh9cn6p/2255.m3u8
