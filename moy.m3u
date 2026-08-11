@@ -145,10 +145,6 @@ http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:-1  group-title="Детские"  tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детское кино HD
 https://tinyurl.com/aleks-u-romki-47/18073/index.m3u8
 
-#EXTINF:0,MM Classic HD
-#EXTGRP: кино
-http://ost.ru-tv.site/0b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vMTk1LjIxMS4yNy4xNTE6NDEyOTUvODYzMi90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiYWJmOTFmZmYiLCJwIjoiYWJmOTFmZmZhYmY5MjAxYiIsImMiOiIxNjQ0IiwidCI6IjEyODMwZWVkNTYwOTA5ZWUzMDRlMzEyZGIzMzM3ZjMxIiwiZCI6IjUwNTE5OCIsInIiOiI1MTcxNTYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUxOjM1MzA5Lzg2MzIvdmlkZW8ubTN1OD9/video.m3u8
-
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/SVAYUTY5LNAF4S/13019/index.m3u
