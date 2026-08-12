@@ -8,7 +8,7 @@ http://103.163.132.53/iptv/Q5STBM8EKGPQMU/31654/index.m3u8
 #EXTINF:-1,VF Авто
 http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/15511/index.m3u8
 #EXTINF:-1,Clarity4K Avto blog
-http://as01.plinkspile.cc/20925/index.m3u8?token=NQWxbcfWTYQHhC
+http://as01.plinkspile.cc/20925/index.m3u8?token=sPT9Weky79BkDb
 #EXTINF:-1,Россия 24
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
@@ -74,7 +74,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u
 http://103.163.132.53/iptv/QXRPSB7GMN4VWW/11012/index.m3u8
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/SVAYUTY5LNAF4S/13037/index.m3u8
+http://s.only4.tv/7153/index.m3u8?token=zoCHqBtVEo
 
 #EXTINF:-1,Fresh VHS
 #EXTGRP: кино
@@ -84,7 +84,7 @@ http://stream.mcquack.net/428/index.m3u8
 http://cdntv.online/high/y36ankzrhc/2300.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
-http://ost.myrutv.ru/iX3Rva2VuXSIsImEiOiJodHRwOi8vNjYuOTAuOTIuMjc6ODA4MC85NDk4L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJhYmY4Yzc4OCIsInAiOiJhYmY4Yzc4ODcwYWFjOGE0IiwiYyI6IjE0NzAiLCJ0IjoiOGE4YmZiNGZlMTc2MGIzNDU5NzkxMjQ1MmY0NWFkZjAiLCJkIjoiNTA1MTY2IiwiciI6IjUxNzEyNSIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzY2LjkwLjkyLjI3Lzk0OTgvaW5kZXgubTN1OD90b2tlbj1bc3R/index.m3u8
+http://s.only4.tv/11466/index.m3u8?token=zoCHqBtVEo
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
@@ -226,22 +226,22 @@ http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/10085/index.m3u8
 http://103.163.132.53/iptv/QXRPSB7GMN4VWW/31643/index.m3u
 #EXTINF:-1,LIBERTY СОЮЗ 4K
 #EXTGRP: кино
-http://as01.plinkspile.cc/8029/index.m3u8?token=8ZRAvU7tYWu9ic
+http://as01.plinkspile.cc/8029/index.m3u8?token=sPT9Weky79BkDb
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-sssr-fhd.png",CineMan CCCP
 #EXTGRP: кино
 http://cdntv.online/high/y36ankzrhc/2214.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5117.png",TOP USSR HD
 #EXTGRP: кино
-http://r.faola.li/6805/video.m3u8?token=nSeG5DM7LE
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13005/index.m3u8
 #EXTINF:-1,USSR HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-40/11102/index.m3u8
 #EXTINF:-1,Fresh Soviet
 #EXTGRP: кино
-http://cdntv.online/low/y36ankzrhc/1983.mpeg
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/19301/index.m3u8
 #EXTINF:-1,KLI СССР HD
 #EXTGRP: кино
-http://r.faola.li/8040/video.m3u8?token=nSeG5DM7LE
+http://s.only4.tv/8040/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4695.png",StrahTV СССР
 #EXTGRP: кино
 http://103.163.132.53/iptv/XSRTQCYT872WD3/11061/index.m3u8
@@ -254,15 +254,6 @@ http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/19435/index.m3u
 #EXTINF:-1,VF Фильмы СССР
 #EXTGRP: кино
 http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/10085/index.m3u8
-#EXTINF:-1,Clarity4K Сделано в СССР
-#EXTGRP: кино
-http://cdntv.online/hls/y36ankzrhc/1559.mpeg
-#EXTINF:-1,Clarity4K Комедия СССР 1
-#EXTGRP: кино
-http://cdntv.online/hls/y36ankzrhc/1584.m3u8
-#EXTINF:-1,Clarity4K Комедия СССР 2
-#EXTGRP: кино
-http://cdntv.online/hls/y36ankzrhc/1583.m3u8
 #EXTINF:-1, CineMan CCCP 4K
 #EXTGRP: кино
 http://ottlinks.club/hls/y36ankzrhc/1682.m3u8
@@ -319,10 +310,10 @@ http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/11032/index.m3u8
 http://stream.mcquack.net/471/index.m3u8
 #EXTINF:-1,MM 007
 #EXTGRP: кино
-http://as01.plinkspile.cc/20701/index.m3u8?token=8ZRAvU7tYWu9ic
+http://103.163.132.53/iptv/DXFYN7NXUXP8Q93Z9GHF9GUP/13009/index.m3u8
 #EXTINF:-1,MM Боевик Classic HD
 #EXTGRP: кино
-http://7ebf9762.ucomist.net/iptv/Q5STBM8EKGPQMU/13027/index.m3u8
+http://103.163.132.53/iptv/Q5STBM8EKGPQMU/13027/index.m3u8
 #EXTINF:-1,MM Боевик
 #EXTGRP: кино
 http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/13028/index.m3u8
@@ -557,6 +548,12 @@ http://103.163.132.53/iptv/QXRPSB7GMN4VWW/11060/index.m3u
 #EXTGRP: кино
 http://103.163.132.53/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/11060/index.m3u
 
+#EXTINF:-1,TVPlay Моя Прекрасная Няня
+#EXTGRP: кино
+http://s.only4.tv/10193/index.m3u8?token=zoCHqBtVEo
+#EXTINF:-1,TVPlay Друзья
+#EXTGRP: кино
+http://s.only4.tv/9379/mono.m3u8?token=zoCHqBtVEo
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/Q5STBM8EKGPQMU/17006/index.m3u8
@@ -611,13 +608,13 @@ http://cdntv.online/high/y36ankzrhc/1062.m3u8
 http://103.163.132.53/iptv/Q5STBM8EKGPQMU/9072/index.m3u8
 #EXTINF:-1,Curiosity Stream
 #EXTGRP: Познавательное
-http://r.faola.li/9670/video.m3u8?token=nSeG5DM7LE
+http://r.faola.li/9670/video.m3u8?token=zoCHqBtVEo
 #EXTINF:-1,Discovery Channel
 #EXTGRP: Познавательное
 http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,National Geographic
 #EXTGRP: Познавательное
-http://s.only4.tv/0203/mono.m3u8?token=nSeG5DM7LE
+http://s.only4.tv/0203/mono.m3u8?token=zoCHqBtVEo
 #EXTINF:-1,Наука 2.0 HD
 #EXTGRP: Познавательное
 http://vod.tuva.ru/nauka2/index.m3u8
