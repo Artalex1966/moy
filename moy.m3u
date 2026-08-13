@@ -74,7 +74,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u
 http://103.163.132.53/iptv/BV4SSQ9PRKF2CW/11012/index.m3u8
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
-http://s.only4.tv/7153/index.m3u8?token=zoCHqBtVEo
+http://s.only4.tv/7153/index.m3u8?token=nSeG5DM7LE
 
 #EXTINF:-1,Fresh VHS
 #EXTGRP: кино
@@ -84,7 +84,7 @@ http://stream.mcquack.net/428/index.m3u8
 http://cdntv.online/high/wn49ab7yv5/2300.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
-http://s.only4.tv/11466/index.m3u8?token=zoCHqBtVEo
+http://s.only4.tv/11466/index.m3u8?token=nSeG5DM7LE
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
@@ -241,7 +241,7 @@ https://tinyurl.com/aleks-u-romki-40/11102/index.m3u8
 http://103.163.132.53/iptv/QE9BZFY7BMQXHF/19301/index.m3u8
 #EXTINF:-1,KLI СССР HD
 #EXTGRP: кино
-http://s.only4.tv/8040/index.m3u8?token=zoCHqBtVEo
+http://s.only4.tv/8040/index.m3u8?token=nSeG5DM7LE
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4695.png",StrahTV СССР
 #EXTGRP: кино
 http://103.163.132.53/iptv/XSRTQCYT872WD3/11061/index.m3u8
@@ -550,10 +550,10 @@ http://103.163.132.53/iptv/RW8PXW2THZMEYN5UDGE37UGZ/11060/index.m3u
 
 #EXTINF:-1,TVPlay Моя Прекрасная Няня
 #EXTGRP: кино
-http://s.only4.tv/10193/index.m3u8?token=zoCHqBtVEo
+http://s.only4.tv/10193/index.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,TVPlay Друзья
 #EXTGRP: кино
-http://s.only4.tv/9379/mono.m3u8?token=zoCHqBtVEo
+http://s.only4.tv/9379/mono.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/BV4SSQ9PRKF2CW/17006/index.m3u8
@@ -608,13 +608,13 @@ http://cdntv.online/high/wn49ab7yv5/1062.m3u8
 http://103.163.132.53/iptv/BV4SSQ9PRKF2CW/9072/index.m3u8
 #EXTINF:-1,Curiosity Stream
 #EXTGRP: Познавательное
-http://r.faola.li/9670/video.m3u8?token=zoCHqBtVEo
+http://r.faola.li/9670/video.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,Discovery Channel
 #EXTGRP: Познавательное
 http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,National Geographic
 #EXTGRP: Познавательное
-http://s.only4.tv/0203/mono.m3u8?token=zoCHqBtVEo
+http://s.only4.tv/0203/mono.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,Наука 2.0 HD
 #EXTGRP: Познавательное
 http://vod.tuva.ru/nauka2/index.m3u8
