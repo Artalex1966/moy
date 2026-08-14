@@ -43,9 +43,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 
-#EXTINF:-1,Мосфильм. Золотая коллекция (-2)
-#EXTGRP: кино
-http://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Njc0NjAxNCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg2MTQxMjE0LCJzZXNzaW9uX2lkIjoiZjBkYmNjZWNkYmE4MTIwYThmYjM4ZDBmMGIwNzg5ZjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.-bp3oiiqKwn7aWbVwNgKnVTfWTlFx2qGfG9K4gC6kb0
@@ -196,6 +193,10 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Njc0NjAxNCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg2MTQxMjE0LCJzZXNzaW9uX2lkIjoiZjBkYmNjZWNkYmE4MTIwYThmYjM4ZDBmMGIwNzg5ZjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.-bp3oiiqKwn7aWbVwNgKnVTfWTlFx2qGfG9K4gC6kb0
 
+#EXTINF:-1,CPS USSR
+#EXTGRP: кино
+http://s.only4.tv/7658/index.m3u8?token=nSeG5DM7LE
+
 #EXTINF:-1,BOX СССР 4K
 #EXTGRP: кино
 http://103.163.132.53/iptv/RW8PXW2THZMEYN5UDGE37UGZ/31625/index.m3u
@@ -250,6 +251,9 @@ https://tinyurl.com/aleks-u-romki-40/14175/index.m3u8
 #EXTINF:-1,YOSSO TV Советские фильмы 4K
 #EXTGRP: кино
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/19435/index.m3u
+#EXTINF:-1,TVPlay Советское Кино HD
+#EXTGRP: кино
+http://s.only4.tv/9375/index.m3u8?token=nSeG5DM7LE
 
 
 #EXTINF:-1,Любимое HD
@@ -872,3 +876,6 @@ http://cdntv.online/low/wn49ab7yv5/2215.mpeg
 http://185.221.213.254/live/stream113.php?seg=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd80OsapFPaD3ZXfEOTb3uPpvyb8sixf4awuyemMIO0gs_2nhxrW355e6y6DPwhHXRs
 #EXTINF:-1,Play-X Моя прекрасная няня
 https://playxapp.play-x.app:2053/0313/index.m3u8?token=play-x.app
+#EXTINF:-1,Мосфильм. Золотая коллекция (+1)
+#EXTGRP: кино
+http://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
