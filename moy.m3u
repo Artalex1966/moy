@@ -43,6 +43,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 
+#EXTINF:-1,Мосфильм. Золотая коллекция (-2)
+#EXTGRP: кино
+http://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1,Мосфильм. Золотая коллекция
 #EXTGRP: кино
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Njc0NjAxNCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg2MTQxMjE0LCJzZXNzaW9uX2lkIjoiZjBkYmNjZWNkYmE4MTIwYThmYjM4ZDBmMGIwNzg5ZjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.-bp3oiiqKwn7aWbVwNgKnVTfWTlFx2qGfG9K4gC6kb0
@@ -52,10 +55,6 @@ http://83.217.12.157:81/udp/239.1.1.206:1234
 #EXTINF:-1,Мосфильм. Золотая коллекция (+4)
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-40/17022/index.m3u8
-#EXTINF:-1,Мосфильм. Золотая коллекция (-2)
-#EXTGRP: кино
-http://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6258.png",Кино 1 International
 #EXTGRP: кино
@@ -133,9 +132,6 @@ http://103.163.132.53/iptv/BV4SSQ9PRKF2CW/31644/index.m3u
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
 http://103.163.132.53/iptv/BV4SSQ9PRKF2CW/11005/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/6261.png",Детское кино International
-#EXTGRP: кино
-http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:-1  group-title="Детские"  tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детское кино HD
 https://tinyurl.com/aleks-u-romki-47/18073/index.m3u8
 
@@ -230,6 +226,9 @@ http://as01.plinkspile.cc/8029/index.m3u8?token=sPT9Weky79BkDb
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-sssr-fhd.png",CineMan CCCP
 #EXTGRP: кино
 http://cdntv.online/high/wn49ab7yv5/2214.m3u8
+#EXTINF:-1, CineMan CCCP 4K
+#EXTGRP: кино
+http://ottlinks.club/hls/wn49ab7yv5/1682.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5117.png",TOP USSR HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13005/index.m3u8
@@ -251,12 +250,8 @@ https://tinyurl.com/aleks-u-romki-40/14175/index.m3u8
 #EXTINF:-1,YOSSO TV Советские фильмы 4K
 #EXTGRP: кино
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/19435/index.m3u
-#EXTINF:-1,VF Фильмы СССР
-#EXTGRP: кино
-http://103.163.132.53/iptv/RW8PXW2THZMEYN5UDGE37UGZ/10085/index.m3u8
-#EXTINF:-1, CineMan CCCP 4K
-#EXTGRP: кино
-http://ottlinks.club/hls/wn49ab7yv5/1682.m3u8
+
+
 #EXTINF:-1,Любимое HD
 #EXTGRP: кино
 https://stream-msk-05.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Njc0NjAxNCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg2MTQxMjE0LCJzZXNzaW9uX2lkIjoiZjBkYmNjZWNkYmE4MTIwYThmYjM4ZDBmMGIwNzg5ZjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.-bp3oiiqKwn7aWbVwNgKnVTfWTlFx2qGfG9K4gC6kb0
@@ -275,6 +270,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Dom_Kino_
 #EXTINF:-1,Любимое кино
 #EXTGRP: кино
 http://dff13dfa.ottrast.com/iptv/BV4SSQ9PRKF2CW/20014/index.m3u8
+
 #EXTINF:-1,MM Киберпанк HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-40/13036/index.m3u8
