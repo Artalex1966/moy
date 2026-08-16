@@ -80,7 +80,7 @@ http://stream.mcquack.net/428/index.m3u8
 http://cdntv.online/high/wn49ab7yv5/2300.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
-http://ost.myrutv.ru/iX3Rva2VuXSIsImEiOiJodHRwOi8vNjYuOTAuOTIuMjc6ODA4MC85NDk4L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJhYmY4Yzc4OCIsInAiOiJhYmY4Yzc4ODcwYWFjOGE0IiwiYyI6IjE0NzAiLCJ0IjoiNjY2ZmQ5NjA3M2NiMDkwMTViYTRmMmZlODQwOWEwOGEiLCJkIjoiNTA1MTY2IiwiciI6IjUxNzEyNSIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzY2LjkwLjkyLjI3Lzk0OTgvaW5kZXgubTN1OD90b2tlbj1bc3R/index.m3u8
+http://cdntv.online/high/3h98wcmuyi/2300.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
@@ -193,9 +193,9 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4NzM1MDc1MSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg2NzQ1OTUxLCJzZXNzaW9uX2lkIjoiYTdjZDcxNmRhNWM0MGVmM2Q2OThiOTMyYmQ4NDMwYmUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bid-n6gYWnUGwU_6kR99F1TUOe50UwNDB3wnFOgomHY
 
-#EXTINF:-1,CPS USSR
+#EXTINF:-1,Oasis Soviet Comedy HD
 #EXTGRP: кино
-http://s.only4.tv/7658/index.m3u8?token=nSeG5DM7LE
+http://nl01.plink-pile.ch/20991/index.m3u8?token=sPT9Weky79BkDb
 
 #EXTINF:-1,BOX СССР 4K
 #EXTGRP: кино
