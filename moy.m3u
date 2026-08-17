@@ -86,9 +86,9 @@ http://ost.myrutv.ru/iX3Rva2VuXSIsImEiOiJodHRwOi8vNjYuOTAuOTIuMjc6ODA4MC85NDk4L3
 #EXTGRP: кино
 http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13002/index.m3u
 
-#EXTINF:-1,Devil TV
+#EXTINF:-1,VF Classic
 #EXTGRP: кино
-https://vsd162.okcdn.ru/hls/16558291946162.m3u8/sig/8C4o7DiA85U/expires/1786961133431/srcIp/46.138.151.128/urls/176.112.172.73/clientType/0/srcAg/CHROME_YA/mid/15162247749298/16558291946162_high/index.m3u8
+http://bbef1860.amazzin.pw/iptv/QXRPSB7GMN4VWW/10054/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/kinowalk.png",Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
