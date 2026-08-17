@@ -80,15 +80,15 @@ http://stream.mcquack.net/428/index.m3u8
 http://cdntv.online/high/wn49ab7yv5/2300.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
-http://cdntv.online/high/3h98wcmuyi/2300.m3u8
+http://ost.myrutv.ru/iX3Rva2VuXSIsImEiOiJodHRwOi8vNjYuOTAuOTIuMjc6ODA4MC85NDk4L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIzNGQyOTdjNCIsInAiOiIzNGQyOTdjNGY5ODQ5OGNjIiwiYyI6IjE0NzAiLCJ0IjoiZmM2OGFkZDIxZjBjNGJiYTVlZmFhMmVlODFlN2M2MjEiLCJkIjoiNTA2NzQ4IiwiciI6IjUxODcwNSIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzY2LjkwLjkyLjI3Lzk0OTgvaW5kZXgubTN1OD90b2tlbj1bc3R/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13002/index.m3u
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/vhskino.png", VHS кино
+#EXTINF:-1,Devil TV
 #EXTGRP: кино
-http://kinowalk.hopto.org/and7610_live
+https://vsd162.okcdn.ru/hls/16558291946162.m3u8/sig/8C4o7DiA85U/expires/1786961133431/srcIp/46.138.151.128/urls/176.112.172.73/clientType/0/srcAg/CHROME_YA/mid/15162247749298/16558291946162_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/kinowalk.png",Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
@@ -119,9 +119,9 @@ http://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/kinolampa.png",Kinolampa
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinolampa_live
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/zsmedia.jpg",Kinolampa
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/filmscope.png",Фильмоскоп
 #EXTGRP: кино
-http://kinowalk.hopto.org/zsmedia_live
+http://kinowalk.hopto.org/filmscope_live
 
 #EXTINF:-1,VeleS Movie Hits
 #EXTGRP: кино
