@@ -86,9 +86,6 @@ http://ost.myrutv.ru/iX3Rva2VuXSIsImEiOiJodHRwOi8vNjYuOTAuOTIuMjc6ODA4MC85NDk4L3
 #EXTGRP: кино
 http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13002/index.m3u
 
-#EXTINF:-1,VF Classic
-#EXTGRP: кино
-http://bbef1860.amazzin.pw/iptv/QXRPSB7GMN4VWW/10054/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/kinowalk.png",Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
@@ -146,7 +143,7 @@ http://103.163.132.53/iptv/BV4SSQ9PRKF2CW/13022/index.m3u
 http://103.163.132.53/iptv/BV4SSQ9PRKF2CW/13018/index.m3u
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/8Q77ZPL94T3MA32EADN9V35E/13060/index.m3u
+http://103.163.132.53/iptv/YEXEMMGCRW877K/13060/index.m3u
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/XSRTQCYT872WD3/13021/index.m3u
