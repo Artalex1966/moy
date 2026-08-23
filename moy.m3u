@@ -71,14 +71,19 @@ http://103.163.132.53/iptv/R3A7B6MZZFDCUL/11012/index.m3u8
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/2DRFP4PXP5RHZT/13037/index.m3u8
+#EXTINF:-1,MM Комедия Classic HD
+#EXTGRP: кино
+http://live.uspeh.my/8789/video.m3u8?token=83z9bwqd1YL1SvLH
 
-
+#EXTINF:-1,Magic VHS
+#EXTGRP: кино
+http://7.hls.gd/ch1563/mono.m3u8?token=rl_b779e17.v2_cmWnfAeQktx0_7GwzKrKaNClwTiLO0IfY6aNfdK-7QJVyo-XA_0LSFMFMyJLL6KNiPSjG9xWpzMzbQlM
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
 http://cdntv.online/high/wn49ab7yv5/2300.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
-http://cdntv.online/high/y36ankzrhc/2300.m3u8
+http://13.hls.gd/ch3925/mono.m3u8?token=kristian5336.v2_KfaprP4recefYUAObG6tQ1fo_s_XmGPvPZFZr9EA6iWWkh3IzS-itnDicKPm9FEfs8ahI2gEvLgr6rpb5eU
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
