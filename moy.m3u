@@ -68,6 +68,9 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u
 #EXTINF:-1,CineMan VHS
 #EXTGRP: кино
 http://103.163.132.53/iptv/R3A7B6MZZFDCUL/11012/index.m3u8
+#EXTINF:-1,Magic VHS HD
+#EXTGRP: кино
+http://185.221.213.254/live/stream113.php?seg=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOi9BObJpH0-BvrCNXvBiQhgAXTyBI6UpEk0O67qdCH30
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/2DRFP4PXP5RHZT/13037/index.m3u8
