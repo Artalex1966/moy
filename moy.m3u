@@ -124,6 +124,10 @@ http://kinowalk.hopto.org/kinolampa_live
 #EXTGRP: кино
 http://kinowalk.hopto.org/filmscope_live
 
+#EXTINF:-1,Фантастика 2.0 HD
+#EXTGRP: кино
+http://185.221.213.254/live/stream113.php?seg=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd80OsapFPaD3ZXfEOTb3uPpl7bu8sjlQxAFn2v9IWeLOnF7togvtZTk0DwJXcN2Za4
+
 #EXTINF:-1,VeleS Movie Hits
 #EXTGRP: кино
 http://103.163.132.53/iptv/R3A7B6MZZFDCUL/31644/index.m3u
@@ -135,7 +139,7 @@ https://tinyurl.com/aleks-u-romki-47/18073/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/C8HT2KRR3S43HX/13019/index.m3u
+http://103.163.132.53/iptv/DZWL85QKSY8Q55/13019/index.m3u
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13096/index.m3u
@@ -147,7 +151,7 @@ http://103.163.132.53/iptv/R3A7B6MZZFDCUL/13022/index.m3u
 http://103.163.132.53/iptv/R3A7B6MZZFDCUL/13018/index.m3u
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/CM97MWV67U6TU3/13060/index.m3u
+http://103.163.132.53/iptv/RW8PXW2THZMEYN5UDGE37UGZ/13060/index.m3u
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13021/index.m3u
@@ -169,7 +173,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 http://103.163.132.53/iptv/RW8PXW2THZMEYN5UDGE37UGZ/30156/index.m3u8
 #EXTINF:-1,Venera.TV Советская классика 4K
 #EXTGRP: кино
-http://103.163.132.53/iptv/C8HT2KRR3S43HX/30151/index.m3u
+http://103.163.132.53/iptv/DZWL85QKSY8Q55/30151/index.m3u
 
 
 #EXTINF:-1,СОВЕТСКИЕ ФИЛЬМЫ
@@ -183,7 +187,7 @@ http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m
 https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6259.png",Военное кино HD
 #EXTGRP: кино
-http://7ebf9762.ucomist.net/iptv/CM97MWV67U6TU3/18072/index.m3u8
+http://7ebf9762.ucomist.net/iptv/728F5YZ69S8B88/18072/index.m3u8
 #EXTINF:-1 tvg-logo="http://1lot.tv/ch/8742.png",Назад в СССР
 #EXTGRP: кино
 http://kinowalk.hopto.org/backtotheussr_live
@@ -375,7 +379,7 @@ http://jvgnvmin.megatv.fun/iptv/X3RTSXQY3SXQNLX4R3BN53BD/11047/index.m3u8
 http://103.163.132.53/iptv/R3A7B6MZZFDCUL/11062/index.m3u8
 #EXTINF:-1,CineMan Сваты
 #EXTGRP: кино
-http://103.163.132.53/iptv/iptv/C8HT2KRR3S43HX/11014/index.m3u8
+http://103.163.132.53/iptv/iptv/DZWL85QKSY8Q55/11014/index.m3u8
 #EXTINF:-1 ,VF Сваты
 #EXTGRP: кино
 http://103.163.132.53/iptv/R3A7B6MZZFDCUL/13080/index.m3u8
@@ -727,13 +731,13 @@ http://103.163.132.53/iptv/RW8PXW2THZMEYN5UDGE37UGZ/30192/index.m3u8
 http://103.163.132.53/iptv/RW8PXW2THZMEYN5UDGE37UGZ/30164/index.m3u8
 #EXTINF:-1,Фиксики
 #EXTGRP: Детский
-http://ultxov4g.streamoras.top/iptv/C8HT2KRR3S43HX/30153/index.m3u8
+http://ultxov4g.streamoras.top/iptv/DZWL85QKSY8Q55/30153/index.m3u8
 #EXTINF:-1,Три кота
 #EXTGRP: Детский
-http://ultxov4g.streamoras.top/iptv/C8HT2KRR3S43HX/30157/index.m3u8
+http://ultxov4g.streamoras.top/iptv/DZWL85QKSY8Q55/30157/index.m3u8
 #EXTINF:-1,Мини-мишки
 #EXTGRP: Детский
-http://ultxov4g.streamoras.top/iptv/C8HT2KRR3S43HX/30178/index.m3u8
+http://ultxov4g.streamoras.top/iptv/DZWL85QKSY8Q55/30178/index.m3u8
 
 
 #EXTINF:-1,КИНОМУЛЬТ
@@ -807,13 +811,13 @@ http://195.209.212.23:8081/hls/Muzyka_1_int/playlist.m3u8
 http://195.209.212.23:8081/hls/Muzyka_2_int/playlist.m3u8
 #EXTINF:-1,Музыка 2
 #EXTGRP: Музыка
-http://ultxov4g.streamoras.top/iptv/C8HT2KRR3S43HX/18079/index.m3u8
+http://ultxov4g.streamoras.top/iptv/DZWL85QKSY8Q55/18079/index.m3u8
 #EXTINF:-1,Музыка Кино International
 #EXTGRP: Музыка
 http://195.209.212.23:8081/hls/Muzyka_Kino_int/playlist.m3u8
 #EXTINF:-1,Музыка Кино
 #EXTGRP: Музыка
-http://ultxov4g.streamoras.top/iptv/C8HT2KRR3S43HX/18081/index.m3u8
+http://ultxov4g.streamoras.top/iptv/DZWL85QKSY8Q55/18081/index.m3u8
 #EXTINF:-1,Play-x Муз Golden Hits 90s HD
 #EXTGRP: Музыка
 http://cdntv.online/high/wn49ab7yv5/2255.m3u8
