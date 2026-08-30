@@ -7,8 +7,7 @@ https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 http://103.163.132.53/iptv/R3A7B6MZZFDCUL/31654/index.m3u8
 #EXTINF:-1,VF Авто
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/15511/index.m3u8
-#EXTINF:-1,Clarity4K Avto blog
-http://as01.plinkspile.cc/20925/index.m3u8?token=sPT9Weky79BkDb
+
 #EXTINF:-1,Россия 24
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
@@ -138,7 +137,7 @@ http://103.163.132.53/iptv/R3A7B6MZZFDCUL/11005/index.m3u8
 #EXTGRP: кино
 http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:-1  group-title="Детские"  tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детское кино HD
-https://tinyurl.com/aleks-u-romki-40/18073/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/18073/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -226,9 +225,7 @@ http://103.163.132.53/iptv/W7KZBRRZFVH9MN/10085/index.m3u8
 #EXTINF:-1,VeleS СССР
 #EXTGRP: кино
 http://103.163.132.53/iptv/R3A7B6MZZFDCUL/31643/index.m3u
-#EXTINF:-1,LIBERTY СОЮЗ 4K
-#EXTGRP: кино
-http://as01.plinkspile.cc/8029/index.m3u8?token=sPT9Weky79BkDb
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-sssr-fhd.png",CineMan CCCP
 #EXTGRP: кино
 http://cdntv.online/high/wn49ab7yv5/2214.m3u8
@@ -240,7 +237,7 @@ http://ottlinks.club/hls/wn49ab7yv5/1682.m3u8
 http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13005/index.m3u8
 #EXTINF:-1,USSR HD
 #EXTGRP: кино
-https://tinyurl.com/aleks-u-romki-40/11102/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/11102/index.m3u8
 #EXTINF:-1,Fresh Soviet
 #EXTGRP: кино
 http://103.163.132.53/iptv/QE9BZFY7BMQXHF/19301/index.m3u8
@@ -255,10 +252,10 @@ http://103.163.132.53/iptv/8ED7L5YXSGCCMS/11061/index.m3u8
 https://tinyurl.com/aleks-u-romki-40/14175/index.m3u8
 #EXTINF:-1,YOSSO TV Советские фильмы 4K
 #EXTGRP: кино
-http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/19435/index.m3u
+http://103.163.132.53/iptv/MHG766HMYBABXR/19435/index.m3u
 #EXTINF:-1,TVPlay Советское Кино HD
 #EXTGRP: кино
-http://s.only4.tv/9375/index.m3u8?token=nSeG5DM7LE
+http://s.only4.tv/9375/index.m3u8?token=zoCHqBtVEo
 
 
 #EXTINF:-1,Любимое HD
