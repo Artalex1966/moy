@@ -67,9 +67,6 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u
 #EXTINF:-1,CineMan VHS
 #EXTGRP: кино
 http://live.uspeh.my/8807/video.m3u8?token=83z9bwqd1YL1SvLH
-#EXTINF:-1,GoldLine VHS HD
-#EXTGRP: кино
-http://live.uspeh.my/9492/video.m3u8?token=83z9bwqd1YL1SvLH
 
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
@@ -84,7 +81,7 @@ http://live.uspeh.my/8789/video.m3u8?token=83z9bwqd1YL1SvLH
 http://cdntv.online/high/wn49ab7yv5/2300.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
-http://cdntv.online/high/47eurvkpm6/2300.m3u8
+http://live.uspeh.my/9498/video.m3u8?token=83z9bwqd1YL1SvLH
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
@@ -136,7 +133,7 @@ http://185.221.213.254/live/stream113.php?seg=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuN
 http://103.163.132.53/iptv/R3A7B6MZZFDCUL/31644/index.m3u
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
-http://103.163.132.53/iptv/R3A7B6MZZFDCUL/11005/index.m3u8
+http://live.uspeh.my/8959/video.m3u8?token=83z9bwqd1YL1SvLH
 #EXTINF:-1,Детское кино International
 #EXTGRP: кино
 http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
