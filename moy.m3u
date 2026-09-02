@@ -66,14 +66,14 @@ http://7036420a.edmonst.net/iptv/R3A7B6MZZFDCUL/18070/index.m3u8
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4ODU2MTI1MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3OTU2NDUyLCJzZXNzaW9uX2lkIjoiYTM3MWQ2ZjdiOTBjNTM4ZWQ5ZDkzOTRkZjM1YTk3NzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.HpGz-IgDm9xI4Cah4F97-jrVIKftPDQqnaNEIzj7u7Q
 #EXTINF:-1,CineMan VHS
 #EXTGRP: кино
-http://live.uspeh.my/8807/video.m3u8?token=83z9bwqd1YL1SvLH
+http://r.faola.li/6842/index.m3u8?token=nSeG5DM7LE
 
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/2DRFP4PXP5RHZT/13037/index.m3u8
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
-http://live.uspeh.my/8789/video.m3u8?token=83z9bwqd1YL1SvLH
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13037/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
@@ -81,7 +81,7 @@ http://live.uspeh.my/8789/video.m3u8?token=83z9bwqd1YL1SvLH
 http://cdntv.online/high/wn49ab7yv5/2300.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
-http://live.uspeh.my/9498/video.m3u8?token=83z9bwqd1YL1SvLH
+http://cdntv.online/high/v6rf4syijn/2300.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
 #EXTGRP: кино
@@ -128,12 +128,9 @@ http://kinowalk.hopto.org/cmexye4ku_live
 #EXTGRP: кино
 http://185.221.213.254/live/stream113.php?seg=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd80OsapFPaD3ZXfEOTb3uPpl7bu8sjlQxAFn2v9IWeLOnF7togvtZTk0DwJXcN2Za4
 
-#EXTINF:-1,VeleS Movie Hits
-#EXTGRP: кино
-http://103.163.132.53/iptv/R3A7B6MZZFDCUL/31644/index.m3u
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
-http://live.uspeh.my/8959/video.m3u8?token=83z9bwqd1YL1SvLH
+http://s.only4.tv/6839/index.m3u8?token=zoCHqBtVEo
 #EXTINF:-1,Детское кино International
 #EXTGRP: кино
 http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
@@ -142,25 +139,25 @@ https://tinyurl.com/aleks-u-romki-47/18073/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://live.uspeh.my/8744/video.m3u8?token=83z9bwqd1YL1SvLH
+http://103.163.132.53/iptv/DZWL85QKSY8Q55/13019/index.m3u
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-http://live.uspeh.my/8656/video.m3u8?token=83z9bwqd1YL1SvLH
+http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13096/index.m3u
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-http://live.uspeh.my/8894/video.m3u8?token=83z9bwqd1YL1SvLH
+http://103.163.132.53/iptv/R3A7B6MZZFDCUL/13022/index.m3u
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-http://live.uspeh.my/8614/video.m3u8?token=83z9bwqd1YL1SvLH
+http://103.163.132.53/iptv/R3A7B6MZZFDCUL/13018/index.m3u
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-http://live.uspeh.my/8615/video.m3u8?token=83z9bwqd1YL1SvLH
+http://103.163.132.53/iptv/RW8PXW2THZMEYN5UDGE37UGZ/13060/index.m3u
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-http://live.uspeh.my/8616/video.m3u8?token=83z9bwqd1YL1SvLH
+http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13021/index.m3u
 #EXTINF:0,MM USSR Мультфильм HD
 #EXTGRP: кино
-http://live.uspeh.my/8913/video.m3u8?token=83z9bwqd1YL1SvLH
+http://103.163.132.53/iptv/RW8PXW2THZMEYN5UDGE37UGZ/13020/index.m3u
 
 
 #EXTINF:-1,IPTVPLAY МультСказки HD
@@ -229,7 +226,7 @@ http://103.163.132.53/iptv/R3A7B6MZZFDCUL/31643/index.m3u
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-sssr-fhd.png",CineMan CCCP
 #EXTGRP: кино
-http://live.uspeh.my/9121/video.m3u8?token=83z9bwqd1YL1SvLH
+http://r.faola.li/10931/index.m3u8?token=nSeG5DM7LE
 #EXTINF:-1, CineMan CCCP 4K
 #EXTGRP: кино
 http://live.uspeh.my/8795/video.m3u8?token=83z9bwqd1YL1SvLH
@@ -377,7 +374,7 @@ http://jvgnvmin.megatv.fun/iptv/X3RTSXQY3SXQNLX4R3BN53BD/11047/index.m3u8
 http://103.163.132.53/iptv/R3A7B6MZZFDCUL/11062/index.m3u8
 #EXTINF:-1,CineMan Сваты
 #EXTGRP: кино
-http://live.uspeh.my/8825/video.m3u8?token=83z9bwqd1YL1SvLH
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/11014/index.m3u8
 #EXTINF:-1 ,VF Сваты
 #EXTGRP: кино
 http://103.163.132.53/iptv/R3A7B6MZZFDCUL/13080/index.m3u8
