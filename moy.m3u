@@ -137,9 +137,9 @@ http://stream.mcquack.net/429/index.m3u8
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
 http://stream.mcquack.net/350/index.m3u8
-#EXTINF:-1,CineMan Premium
+#EXTINF:-1,BCU VHS HD
 #EXTGRP: кино
-http://ott.server-iptv.live/1664/video.m3u8?token=S76379DB41
+http://ott.server-iptv.live/1620/video.m3u8?token=S76379DB41
 #EXTINF:-1,Детское кино International
 #EXTGRP: кино
 http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
