@@ -87,6 +87,12 @@ http://cdntv.online/high/v6rf4syijn/2300.m3u8
 #EXTGRP: кино
 http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13002/index.m3u
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/vhs90e_live.png",ВИДЕОКАССЕТА
+#EXTGRP: кино
+http://kinowalk.hopto.org/vhs90e_live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/skladfilm_live.png",Кладовая Фильмов
+#EXTGRP: кино
+http://kinowalk.hopto.org/skladfilm_live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/kinowalk.png",Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
