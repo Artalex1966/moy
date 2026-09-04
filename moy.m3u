@@ -137,9 +137,7 @@ http://stream.mcquack.net/429/index.m3u8
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
 http://stream.mcquack.net/350/index.m3u8
-#EXTINF:-1,BCU VHS HD
-#EXTGRP: кино
-http://ott.server-iptv.live/1620/video.m3u8?token=S76379DB41
+
 #EXTINF:-1,Детское кино International
 #EXTGRP: кино
 http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
@@ -238,7 +236,7 @@ http://103.163.132.53/iptv/R3A7B6MZZFDCUL/31643/index.m3u
 http://r.faola.li/10931/index.m3u8?token=nSeG5DM7LE
 #EXTINF:-1, CineMan CCCP 4K
 #EXTGRP: кино
-http://ott.server-iptv.live/1602/video.m3u8?token=S76379DB41
+http://ottlinks.club/hls/v6rf4syijn/1682.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5117.png",TOP USSR HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13005/index.m3u8
@@ -262,7 +260,7 @@ https://tinyurl.com/aleks-u-romki-40/14175/index.m3u8
 http://103.163.132.53/iptv/MHG766HMYBABXR/19435/index.m3u
 #EXTINF:-1,TVPlay Советское Кино HD
 #EXTGRP: кино
-http://s.only4.tv/9375/index.m3u8?token=zoCHqBtVEo
+http://s.only4.tv/9375/index.m3u8?token=nSeG5DM7LE
 
 
 #EXTINF:-1,Любимое HD
