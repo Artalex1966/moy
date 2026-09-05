@@ -155,10 +155,10 @@ http://103.163.132.53/iptv/W7KZBRRZFVH9MN/13096/index.m3u
 http://103.163.132.53/iptv/R3A7B6MZZFDCUL/13022/index.m3u
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/R3A7B6MZZFDCUL/13018/index.m3u
+http://103.163.132.53/iptv/MHG766HMYBABXR/13018/index.m3u
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/RW8PXW2THZMEYN5UDGE37UGZ/13060/index.m3u
+http://103.163.132.53/iptv/MHG766HMYBABXR/13060/index.m3u
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/13021/index.m3u
@@ -236,7 +236,7 @@ http://103.163.132.53/iptv/R3A7B6MZZFDCUL/31643/index.m3u
 http://r.faola.li/10931/index.m3u8?token=nSeG5DM7LE
 #EXTINF:-1, CineMan CCCP 4K
 #EXTGRP: кино
-http://ottlinks.club/hls/v6rf4syijn/1682.m3u8
+http://cdntv.online/high/wn49ab7yv5/1682.mpeg
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5117.png",TOP USSR HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13005/index.m3u8
