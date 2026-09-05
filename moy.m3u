@@ -90,9 +90,9 @@ http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13002/index.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/vhs-forever_live.jpg",VHS Forever
 #EXTGRP: кино
 http://kinowalk.hopto.org/vhs-forever_live
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/skladfilm_live.png",Кладовая Фильмов
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/video_prokat_live.png",Video_Prokat
 #EXTGRP: кино
-http://kinowalk.hopto.org/skladfilm_live
+http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/kinowalk.png",Kino Walk
 #EXTGRP: кино
 http://kinowalk.hopto.org/kinowalk_live
@@ -132,11 +132,11 @@ http://kinowalk.hopto.org/cmexye4ku_live
 
 #EXTINF:-1,Fresh Fantastic
 #EXTGRP: кино
-http://stream.mcquack.net/429/index.m3u8
+http://cdntv.online/high/wn49ab7yv5/1985.mpeg
 
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
-http://stream.mcquack.net/350/index.m3u8
+http://cdntv.online/high/wn49ab7yv5/1256.mpeg
 
 #EXTINF:-1,Детское кино International
 #EXTGRP: кино
