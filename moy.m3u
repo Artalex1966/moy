@@ -7,10 +7,13 @@ https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 http://103.163.132.53/iptv/R3A7B6MZZFDCUL/31654/index.m3u8
 #EXTINF:-1,VF Авто
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/15511/index.m3u8
-#EXTINF:-1,Play-X Как это работает?
+
+#EXTINF:-1 tvg-id="1008" tvg-name="Play-X Махинаторы"  group-title="Play-X-VPN",Play-X Махинаторы
+http://playxapp.play-x.app:2095/1008/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0937" tvg-name="Play-X Как это работает?"  group-title="Play-X-VPN",Play-X Как это работает?
 http://playxapp.play-x.app:2095/0937/index.m3u8?token=free_play_x_app_ru_server
-#EXTINF:-1,Play-X Каламбур
-http://playxapp.play-x.app:2095/0035/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0333" tvg-name="Play-X 6 кадров"  group-title="Play-X-VPN",Play-X 6 кадров
+http://playxapp.play-x.app:2095/0333/index.m3u8?token=free_play_x_app_ru_server
 
 #EXTINF:-1,Россия 24
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
