@@ -565,6 +565,9 @@ http://103.163.132.53/iptv/W7KZBRRZFVH9MN/11060/index.m3u
 #EXTINF:-1,TVPlay Моя Прекрасная Няня
 #EXTGRP: кино
 http://s.only4.tv/10193/index.m3u8?token=nSeG5DM7LE
+#EXTINF:-1,Play-X Моя прекрасная няня
+#EXTGRP: кино
+http://playxapp.play-x.app:2095/0313/index.m3u8?token=free_play_x_app_ru_server
 #EXTINF:-1,TVPlay Друзья
 #EXTGRP: кино
 http://s.only4.tv/9379/mono.m3u8?token=nSeG5DM7LE
@@ -577,6 +580,10 @@ https://tinyurl.com/aleks-u-romki-47/17006/index.m3u8
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/17006/index.m3u
+
+#EXTINF:-1,Play-X Клон
+#EXTGRP: кино
+http://playxapp.play-x.app:2095/0454/index.m3u8?token=free_play_x_app_ru_server
 #EXTINF:-1,VF Гарри Поттер
 #EXTGRP: кино
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/14230/index.m3u8
