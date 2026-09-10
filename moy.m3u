@@ -12,7 +12,7 @@ http://103.163.132.53/iptv/W7KZBRRZFVH9MN/15511/index.m3u8
 http://playxapp.play-x.app:2095/1008/index.m3u8?token=free_play_x_app_ru_server
 #EXTINF:-1 tvg-id="0937" tvg-name="Play-X Как это работает?"  group-title="Play-X-VPN",Play-X Как это работает?
 http://playxapp.play-x.app:2095/0937/index.m3u8?token=free_play_x_app_ru_server
-#EXTINF:-1 tvg-id="0333" tvg-name="Play-X 6 кадров"  group-title="Play-X-VPN",Play-X 6 кадров
+#EXTINF:-1 tvg-id="0333" tvg-name="Play-X 6 кадров" tvg-logo="http://playxapp.play-x.app:8080/playxapp/logo.png" group-title="Развлечения Play-X",Play-X 6 кадров
 http://playxapp.play-x.app:2095/0333/index.m3u8?token=free_play_x_app_ru_server
 
 #EXTINF:-1,Россия 24
@@ -729,34 +729,34 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 https://lbgo.bozztv.com/07/ushba79/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Маша и Медведь
 #EXTGRP: Детский
-http://u.vipl.one/high/836mikdr7v/897.m3u8
+http://u.vipl.one/high/wn49ab7yv5/897.mpeg
 #EXTINF:-1,Маша и Медведь
 #EXTGRP: Детский
-http://cdntv.online/high/wn49ab7yv5/897.m3u8
+http://cdntv.online/high/v6rf4syijn/897.m3u8
 #EXTINF:-1,Venera.TV Маша и медведь
 #EXTGRP: Детский
 http://103.163.132.53/iptv/R3A7B6MZZFDCUL/30180/index.m3u
 #EXTINF:-1,Venera.TV Маша и медведь
 #EXTGRP: Детский
-http://103.163.132.53/iptv/W7KZBRRZFVH9MN/30180/index.m3u
+http://103.163.132.53/iptv/DZWL85QKSY8Q55/30180/index.m3u
 #EXTINF:-1,Щенячий патруль
 #EXTGRP: Детский
-http://103.163.132.53/iptv/W7KZBRRZFVH9MN/30167/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/30167/index.m3u8
 #EXTINF:-1,Чудеса на виражах
 #EXTGRP: Детский
-http://103.163.132.53/iptv/W7KZBRRZFVH9MN/30192/index.m3u8
+https://tinyurl.com/aleks-u-romki-40/30192/index.m3u8
 #EXTINF:-1,Тимон и Пумба
 #EXTGRP: Детский
-http://103.163.132.53/iptv/W7KZBRRZFVH9MN/30164/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/30164/index.m3u8
 #EXTINF:-1,Фиксики
 #EXTGRP: Детский
-http://ultxov4g.streamoras.top/iptv/E6RPBPN5RLBP5Z/30153/index.m3u8
+http://ultxov4g.streamoras.top/iptv/DZWL85QKSY8Q55/30153/index.m3u8
 #EXTINF:-1,Три кота
 #EXTGRP: Детский
-http://ultxov4g.streamoras.top/iptv/E6RPBPN5RLBP5Z/30157/index.m3u8
+https://tinyurl.com/aleks-u-romki-40/30157/index.m3u8
 #EXTINF:-1,Мини-мишки
 #EXTGRP: Детский
-http://ultxov4g.streamoras.top/iptv/E6RPBPN5RLBP5Z/30178/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/30178/index.m3u8
 
 
 #EXTINF:-1,КИНОМУЛЬТ
