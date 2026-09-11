@@ -10,7 +10,7 @@ http://103.163.132.53/iptv/W7KZBRRZFVH9MN/15511/index.m3u8
 
 #EXTINF:-1,Play-X Махинаторы
 http://playxapp.play-x.app:2095/1008/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb
-#EXTINF:-1 tvg-id="0937" tvg-name="Play-X Как это работает?"  group-title="Play-X-VPN",Play-X Как это работает?
+#EXTINF:-1,Play-X Как это работает?
 http://playxapp.play-x.app:2095/0937/index.m3u8?token=free_play_x_app_ru_server
 #EXTINF:-1 tvg-logo="http://i125.fastpic.org/big/2025/0728/60/1532942eb53e81190ac801dd5f8c5c60.png",Play-X 6 Кадров
 http://playxapp.play-x.app:2095/0333/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb
@@ -587,6 +587,42 @@ http://103.163.132.53/iptv/W7KZBRRZFVH9MN/17006/index.m3u
 #EXTINF:-1,Play-X Клон
 #EXTGRP: кино
 http://playxapp.play-x.app:2095/0454/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1,Play-X Последний из Магикян
+#EXTGRP: кино
+http://playxapp.play-x.app:2095/0441/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1,Play-X Моя прекрасная няня
+#EXTGRP: кино
+http://playxapp.play-x.app:2095/0313/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1,Play-X Интерны
+#EXTGRP: кино
+http://playxapp.play-x.app:2095/3037/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1,Play-X Физрук
+#EXTGRP: кино
+http://playxapp.play-x.app:2095/0731/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1,Play-X Убойная сила
+#EXTGRP: кино
+http://playxapp.play-x.app:2095/0717/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1,Play-X Улицы разбитых фонарей
+#EXTGRP: кино
+http://playxapp.play-x.app:2095/0930/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1,Play-X Склифасовский
+#EXTGRP: кино
+http://playxapp.play-x.app:2095/0367/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1,Play-X Дальнобойщики
+#EXTGRP: кино
+http://playxapp.play-x.app:2095/0705/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1,Play-X Каменская
+#EXTGRP: кино
+http://playxapp.play-x.app:2095/0320/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1,Play-X ЧОП
+#EXTGRP: кино
+http://playxapp.play-x.app:2095/1400/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1,Play-X Ищейка
+#EXTGRP: кино
+http://playxapp.play-x.app:2095/0390/index.m3u8?token=free_play_x_app_ru_server
+
+
+
 #EXTINF:-1,VF Гарри Поттер
 #EXTGRP: кино
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/14230/index.m3u8
@@ -894,12 +930,16 @@ http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/19412/index.m3u8
 http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/19415/index.m3u8
 #EXTINF:-1, Play-x Тайны Чапман HD
 http://cdntv.online/low/wn49ab7yv5/2215.mpeg
+#EXTINF:-1, Play-X UFO
+http://playxapp.play-x.app:2095/0003/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb
+#EXTINF:-1, Play-X Космический
+http://playxapp.play-x.app:2095/0001/index.m3u8?token=free_play_x_app_ru_server
 
 #EXTINF:-1,Госфильмофонд. Машина времени HD
 #EXTGRP: кино
 http://185.221.213.254/live/stream113.php?seg=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd80OsapFPaD3ZXfEOTb3uPpvyb8sixf4awuyemMIO0gs_2nhxrW355e6y6DPwhHXRs
 #EXTINF:-1,Play-X Моя прекрасная няня
-https://playxapp.play-x.app:2053/0313/index.m3u8?token=play-x.app
+http://playxapp.play-x.app:2095/0313/index.m3u8?token=free_play_x_app_ru_server
 #EXTINF:-1,Мосфильм. Золотая коллекция (+1)
 #EXTGRP: кино
 http://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
