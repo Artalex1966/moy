@@ -155,7 +155,7 @@ https://cdn.kinolar.workers.dev/CineMan-TOP/mono.m3u8?key=halvatv
 #EXTGRP: кино
 http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:-1  group-title="Детские"  tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детское кино HD
-http://103.163.132.53/iptv/3W9W7XEYC22NBD/18073/index.m3u8
+http://103.163.132.53/iptv/QXRPSB7GMN4VWW/18073/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
