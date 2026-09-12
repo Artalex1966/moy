@@ -73,7 +73,7 @@ http://7036420a.edmonst.net/iptv/R3A7B6MZZFDCUL/18070/index.m3u8
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4OTE2NjIyMSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg4NTYxNDIxLCJzZXNzaW9uX2lkIjoiN2JiMjM2ZTE1M2RmYjU3YjdmZDU1N2RmOTFkOWYzMzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.n9Vqp0gbIspTzi5A8W4XmrsRksMQpG8gpJRr1p1jQWQ
 #EXTINF:-1,CineMan VHS
 #EXTGRP: кино
-http://7.hls.gd/ch1038/mono.m3u8?token=rl_b779e17.v2_lSYMI3nuzL5lUngEOL3U8qr3GQS8XTUGEpfO7Vfz5pwMVvZ676kFlSRQl3rFilYePSizCZvzc7vVd0LF
+https://cdn.kinolar.workers.dev/CineMan-VHS/mono.m3u8?key=halvatv
 
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
@@ -81,6 +81,9 @@ http://103.163.132.53/iptv/2DRFP4PXP5RHZT/13037/index.m3u8
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13037/index.m3u8
+#EXTINF:-1,Infinity: Ретро комедии. Европа
+#EXTGRP: кино
+https://cdn.kinolar.workers.dev/inf_retro_eu/mono.m3u8?key=halvatv
 
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
@@ -146,7 +149,7 @@ http://playxapp.play-x.app:2095/0909/index.m3u8?token=free_play_x_app_ru_server
 
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
-http://cdntv.online/high/wn49ab7yv5/1256.mpeg
+https://cdn.kinolar.workers.dev/CineMan-TOP/mono.m3u8?key=halvatv
 
 #EXTINF:-1,Детское кино International
 #EXTGRP: кино
@@ -177,6 +180,10 @@ http://103.163.132.53/iptv/W7KZBRRZFVH9MN/13021/index.m3u
 http://103.163.132.53/iptv/QXRPSB7GMN4VWW/13020/index.m3u
 
 
+
+#EXTINF:0,Clarity4K Kинодети СССР
+#EXTGRP: кино
+https://cdn.kinolar.workers.dev/Clarity4K_Kinodeti_sssr/mono.m3u8?key=halvatv
 #EXTINF:-1,IPTVPLAY МультСказки HD
 #EXTGRP: Детский
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -216,6 +223,9 @@ https://stream-msk-18.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/03/plst
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4OTE2NjIyMSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg4NTYxNDIxLCJzZXNzaW9uX2lkIjoiN2JiMjM2ZTE1M2RmYjU3YjdmZDU1N2RmOTFkOWYzMzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.n9Vqp0gbIspTzi5A8W4XmrsRksMQpG8gpJRr1p1jQWQ
 
+#EXTINF:-1,BCU СССР HD
+#EXTGRP: кино
+https://cdn.kinolar.workers.dev/BCUSSSRHD/mono.m3u8?key=halvatv
 #EXTINF:-1,BOX СССР 4K
 #EXTGRP: кино
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/31625/index.m3u
@@ -297,7 +307,7 @@ http://dff13dfa.ottrast.com/iptv/R3A7B6MZZFDCUL/20014/index.m3u8
 https://tinyurl.com/aleks-u-romki-40/13036/index.m3u8
 #EXTINF:-1,BOX Cyber HD
 #EXTGRP: кино
-http://7ebf9762.ucomist.net/iptv/R3A7B6MZZFDCUL/19421/index.m3u8
+https://cdn.kinolar.workers.dev/box_cyber_hd/mono.m3u8?key=halvatv
 #EXTINF:-1,VF Fantastic
 #EXTGRP: кино
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/13034/11121/manifest.m3u8
@@ -350,9 +360,9 @@ http://7ebf9762.ucomist.net/iptv/R3A7B6MZZFDCUL/13038/index.m3u8
 #EXTINF:-1,VF Комедия
 #EXTGRP: кино
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/10055/index.m3u8
-#EXTINF:-1,BCU Comedy HDR
+#EXTINF:-1,BCU Comedy HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/W7KZBRRZFVH9MN/11031/index.m3u8
+https://cdn.kinolar.workers.dev/BCUComedyHD/mono.m3u8?key=halvatv
 #EXTINF:-1,Комедия
 #EXTGRP: кино
 http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4OTE2NjIyMSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg4NTYxNDIxLCJzZXNzaW9uX2lkIjoiN2JiMjM2ZTE1M2RmYjU3YjdmZDU1N2RmOTFkOWYzMzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.n9Vqp0gbIspTzi5A8W4XmrsRksMQpG8gpJRr1p1jQWQ
@@ -385,7 +395,7 @@ http://103.163.132.53/iptv/W7KZBRRZFVH9MN/13051/index.m3u8
 http://cdntv.online/low/wn49ab7yv5/2013.mpeg
 #EXTINF:-1,BCU Сваты HD
 #EXTGRP: кино
-http://jvgnvmin.megatv.fun/iptv/X3RTSXQY3SXQNLX4R3BN53BD/11047/index.m3u8
+https://cdn.kinolar.workers.dev/BCUSvatiHD/mono.m3u8?key=halvatv
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4696.png",StrahTV Сваты
 #EXTGRP: кино
 http://103.163.132.53/iptv/R3A7B6MZZFDCUL/11062/index.m3u8
@@ -549,6 +559,10 @@ http://103.163.132.53/iptv/W7KZBRRZFVH9MN/13094/index.m3u8
 #EXTINF:-1,VF Игра престолов
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-47/18119/index.m3u8
+#EXTINF:-1,VF Игра престолов
+#EXTGRP: кино
+https://tinyurl.com/aleks-u-romki-40/18119/index.m3u8
+
 #EXTINF:-1,VF Доктор Хаус
 #EXTGRP: кино
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/17016/index.m3u8
@@ -583,7 +597,13 @@ https://tinyurl.com/aleks-u-romki-47/17006/index.m3u8
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/17006/index.m3u
+#EXTINF:-1,Друзі (укр)
+#EXTGRP: кино
+https://cdn.kinolar.workers.dev/jk_Friends/mono.m3u8?key=halvatv
 
+#EXTINF:-1,Infinity: Клон
+#EXTGRP: кино
+https://cdn.kinolar.workers.dev/inf_clone/mono.m3u8?key=halvatv
 #EXTINF:-1,Play-X Клон
 #EXTGRP: кино
 http://playxapp.play-x.app:2095/0454/index.m3u8?token=free_play_x_app_ru_server
@@ -765,7 +785,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 https://lbgo.bozztv.com/07/ushba79/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Маша и Медведь
 #EXTGRP: Детский
-http://u.vipl.one/high/wn49ab7yv5/897.mpeg
+http://cdntv.online/high/wn49ab7yv5/897.mpeg
 #EXTINF:-1,Маша и Медведь
 #EXTGRP: Детский
 http://cdntv.online/high/v6rf4syijn/897.m3u8
@@ -775,6 +795,9 @@ http://103.163.132.53/iptv/R3A7B6MZZFDCUL/30180/index.m3u
 #EXTINF:-1,Venera.TV Маша и медведь
 #EXTGRP: Детский
 http://103.163.132.53/iptv/DZWL85QKSY8Q55/30180/index.m3u
+#EXTINF:-1,Play-X Щенячий патруль
+#EXTGRP: Детский
+http://playxapp.play-x.app:2095/3007/index.m3u8?token=free_play_x_app_ru_server
 #EXTINF:-1,Щенячий патруль
 #EXTGRP: Детский
 https://tinyurl.com/aleks-u-romki-47/30167/index.m3u8
