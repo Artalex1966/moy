@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz, https://iptvx.one/EPG"
 
 #EXTINF:-1,Auto Plus
-https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/186/index.m3u8
 #EXTINF:-1,BOX AutoTrend HD
 http://103.163.132.53/iptv/R3A7B6MZZFDCUL/31654/index.m3u8
 #EXTINF:-1,VF Авто
@@ -181,9 +181,6 @@ http://103.163.132.53/iptv/W7KZBRRZFVH9MN/13021/index.m3u
 #EXTGRP: кино
 http://103.163.132.53/iptv/NPX7LN94ZXW9TN/13020/index.m3u
 
-#EXTINF:0,Oasis Soviet Comedy
-#EXTGRP: кино
-http://3.hls.gd/ch2688/mono.m3u8?token=rl_bbeckffat.v2_TQtBuLtZDhTlo7peZzJN_tR7LYJt90tfPxt22ikibk1ITsb_GLzDA-Z_Aux1U2M0TiGIhYHxux8OXX0sf74
 
 #EXTINF:-1,IPTVPLAY МультСказки HD
 #EXTGRP: Детский
@@ -714,7 +711,7 @@ http://cdntv.online/hls/wn49ab7yv5/448.m3u8
 http://158.101.222.193:88/georgia_play.php?id=auto24
 #EXTINF:-1,Авто плюс
 #EXTGRP: Познавательное
-http://37.186.70.39:40/play/103/index.m3u8
+http://stream.mcquack.net/186/index.m3u8
 #EXTINF:-1,BOX AutoTrend HD
 #EXTGRP: Познавательное
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/31654/index.m3u8
