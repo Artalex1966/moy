@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz, https://iptvx.one/EPG"
 
 #EXTINF:-1,Auto Plus
-http://stream.mcquack.net/186/index.m3u8
+http://31.210.208.171:8080/avto_plus/index.m3u8?token=+W2MSER
 #EXTINF:-1,BOX AutoTrend HD
 http://103.163.132.53/iptv/R3A7B6MZZFDCUL/31654/index.m3u8
 #EXTINF:-1,VF Авто
@@ -73,11 +73,11 @@ http://7036420a.edmonst.net/iptv/R3A7B6MZZFDCUL/18070/index.m3u8
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4OTc3MDcxNSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg5MTY1OTE1LCJzZXNzaW9uX2lkIjoiYTBjNWE4OWVkZmI3YjFlZjBmOTY1NzE1ODBkZTJkMzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ._1APtybH54h8HaE9IKRcnGptLzcAslseuaz8OJftrWo
 #EXTINF:-1,CineMan VHS
 #EXTGRP: кино
-http://live.uspeh.my/8807/video.m3u8?token=g3JhX7WR4kxbeZXD
+http://r.faola.li/6842/index.m3u8?token=nSeG5DM7LE
 
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/2DRFP4PXP5RHZT/13037/index.m3u8
+http://103.163.132.53/iptv/DZWL85QKSY8Q55/13037/index.m3u8
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/2DRFP4PXP5RHZT/13037/index.m3u8
@@ -149,7 +149,7 @@ http://playxapp.play-x.app:2095/0909/index.m3u8?token=free_play_x_app_ru_server
 
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
-http://live.uspeh.my/8959/video.m3u8?token=g3JhX7WR4kxbeZXD
+http://r.faola.li/6839/index.m3u8?token=nSeG5DM7LE
 
 #EXTINF:-1,Детское кино International
 #EXTGRP: кино
