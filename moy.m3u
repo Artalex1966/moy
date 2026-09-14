@@ -14,7 +14,7 @@ http://playxapp.play-x.app:2095/1008/index.m3u8?token=9b5e7b2868a58590ab5ffc5545
 #EXTINF:-1,Play-X Как это работает?
 http://playxapp.play-x.app:2095/0937/index.m3u8?token=free_play_x_app_ru_server
 #EXTINF:-1 tvg-logo="http://i125.fastpic.org/big/2025/0728/60/1532942eb53e81190ac801dd5f8c5c60.png",Play-X 6 Кадров
-http://playxapp.play-x.app:2095/0333/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb
+http://cdntv.online/high/wih4sryefm/2220.m3u8
 
 #EXTINF:-1,Россия 24
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
@@ -74,7 +74,7 @@ http://7036420a.edmonst.net/iptv/E6RPBPN5RLBP5Z/18070/index.m3u8
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4OTc3MDcxNSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg5MTY1OTE1LCJzZXNzaW9uX2lkIjoiYTBjNWE4OWVkZmI3YjFlZjBmOTY1NzE1ODBkZTJkMzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ._1APtybH54h8HaE9IKRcnGptLzcAslseuaz8OJftrWo
 #EXTINF:-1,CineMan VHS
 #EXTGRP: кино
-https://17.hls.gd/ch1038/mono.m3u8?token=arest2026.v2_nfBnCqYqIVhZF8vpZQ1Y7kimqfdEamREBnhuFkD-jawiGPSZOj0HTGccOt3dn157J0GsocsEZ6ueYA
+http://stream.mcquack.net/474/index.m3u8
 
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
@@ -150,7 +150,7 @@ http://playxapp.play-x.app:2095/0909/index.m3u8?token=free_play_x_app_ru_server
 
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
-http://103.163.132.53/iptv/DCC56LFVHZ6LZZ/11005/index.m3u8
+http://stream.mcquack.net/350/index.m3u8
 
 #EXTINF:-1,Детское кино International
 #EXTGRP: кино
@@ -211,7 +211,7 @@ http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m
 https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4OTc3MDcxNSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg5MTY1OTE1LCJzZXNzaW9uX2lkIjoiYTBjNWE4OWVkZmI3YjFlZjBmOTY1NzE1ODBkZTJkMzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ._1APtybH54h8HaE9IKRcnGptLzcAslseuaz8OJftrWo
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6259.png",Военное кино HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/V5LQDM4CPUCC2C/18072/index.m3u8
+http://103.163.132.53/iptv/VK7YCHHWNDD8XC/18072/index.m3u8
 #EXTINF:-1 tvg-logo="http://1lot.tv/ch/8742.png",Назад в СССР
 #EXTGRP: кино
 http://kinowalk.hopto.org/backtotheussr_live
@@ -224,7 +224,7 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclass
 
 #EXTINF:-1,BCU СССР HD
 #EXTGRP: кино
-https://17.hls.gd/ch789/mono.m3u8?token=arest2026.v2_jSC1symbzRh2-hG4cF2eRGF6dOQVFCSwRpxxlHPrQxV0EPflimfHHlO4JE3vVzFeivugHWdJ2Usu
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/11026/index.m3u8
 #EXTINF:-1,BOX СССР 4K
 #EXTGRP: кино
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/31625/index.m3u
