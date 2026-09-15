@@ -9,10 +9,7 @@ http://103.163.132.53/iptv/E6RPBPN5RLBP5Z/31654/index.m3u8
 #EXTINF:-1,VF Авто
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/15511/index.m3u8
 
-#EXTINF:-1,Play-X Махинаторы
-http://playxapp.play-x.app:2095/1008/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb
-#EXTINF:-1,Play-X Как это работает?
-http://playxapp.play-x.app:2095/0937/index.m3u8?token=free_play_x_app_ru_server
+
 #EXTINF:-1 tvg-logo="http://i125.fastpic.org/big/2025/0728/60/1532942eb53e81190ac801dd5f8c5c60.png",Play-X 6 Кадров
 http://cdntv.online/high/wih4sryefm/2220.m3u8
 
@@ -74,7 +71,10 @@ http://7036420a.edmonst.net/iptv/E6RPBPN5RLBP5Z/18070/index.m3u8
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4OTc3MDcxNSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg5MTY1OTE1LCJzZXNzaW9uX2lkIjoiYTBjNWE4OWVkZmI3YjFlZjBmOTY1NzE1ODBkZTJkMzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ._1APtybH54h8HaE9IKRcnGptLzcAslseuaz8OJftrWo
 #EXTINF:-1,CineMan VHS
 #EXTGRP: кино
-http://stream.mcquack.net/474/index.m3u8
+http://ott.server-iptv.live/685/video.m3u8?token=S40EA67AEC
+#EXTINF:-1,Fresh VHS
+#EXTGRP: кино
+http://bpl.online24.pm/play/1640/023D4BF222587EC/video.m3u8
 
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
@@ -92,14 +92,10 @@ https://cdn.kinolar.workers.dev/inf_retro_eu/mono.m3u8?key=halvatv
 http://cdntv.online/high/wn49ab7yv5/2300.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
-http://r.faola.li/11466/index.m3u8?token=nSeG5DM7LE
-#EXTINF:-1,Play-X Дубляж
+http://ott.server-iptv.live/645/video.m3u8?token=S40EA67AEC
+#EXTINF:-1,СМОТРИМ ЗАНОВО
 #EXTGRP: кино
-http://playxapp.play-x.app:2095/0190/index.m3u8?token=free_play_x_app_ru_server
-
-#EXTINF:-1 tvg-logo="http://epg.one/img2/5114.png",TOP 80 S HD
-#EXTGRP: кино
-http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13002/index.m3u
+https://lbgo.bozztv.com/07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/vhs-forever_live.jpg",VHS Forever
 #EXTGRP: кино
@@ -144,13 +140,9 @@ http://kinowalk.hopto.org/filmscope_live
 #EXTGRP: кино
 http://kinowalk.hopto.org/cmexye4ku_live
 
-#EXTINF:-1,Play-X Старый добрый фильм
-#EXTGRP: кино
-http://playxapp.play-x.app:2095/0909/index.m3u8?token=free_play_x_app_ru_server
-
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
-http://stream.mcquack.net/350/index.m3u8
+http://ott.server-iptv.live/683/video.m3u8?token=S40EA67AEC
 
 #EXTINF:-1,Детское кино International
 #EXTGRP: кино
@@ -158,27 +150,27 @@ http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:-1  group-title="Детские"  tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детское кино HD
 http://103.163.132.53/iptv/NPX7LN94ZXW9TN/18073/index.m3u8
 #EXTINF:-1  group-title="Детские"  tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детское кино HD
-http://r.faola.li/10821/index.m3u8?token=nSeG5DM7LE
+http://bpl.online24.pm/play/612/023D4BF222587EC/video.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/W7KZBRRZFVH9MN/13019/index.m3u
+http://bpl.online24.pm/play/6012/023D4BF222587EC/video.m3u8
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13096/index.m3u
+http://bpl.online24.pm/play/6011/023D4BF222587EC/video.m3u8
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/E6RPBPN5RLBP5Z/13022/index.m3u
+http://bpl.online24.pm/play/6015/023D4BF222587EC/video.m3u8
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/E6RPBPN5RLBP5Z/13018/index.m3u
+http://bpl.online24.pm/play/6010/023D4BF222587EC/video.m3u8
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/SVAYUTY5LNAF4S/13060/index.m3u
+http://bpl.online24.pm/play/6013/023D4BF222587EC/video.m3u8
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13021/index.m3u
-#EXTINF:0,MM USSR Мультфильм HD
+http://bpl.online24.pm/play/6014/023D4BF222587EC/video.m3u8
+#EXTINF:0,MM USSR Мультфильм HD#EXTINF:0,MM USSR Мультфильм HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/SVAYUTY5LNAF4S/13020/index.m3u
 
@@ -248,7 +240,7 @@ http://103.163.132.53/iptv/W7KZBRRZFVH9MN/18125/index.m3u8
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/10085/index.m3u8
 #EXTINF:-1,VeleS СССР
 #EXTGRP: кино
-http://103.163.132.53/iptv/E6RPBPN5RLBP5Z/31643/index.m3u
+http://ott.server-iptv.live/1600/video.m3u8?token=S40EA67AEC
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-sssr-fhd.png",CineMan CCCP
 #EXTGRP: кино
