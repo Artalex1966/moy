@@ -154,25 +154,26 @@ http://bpl.online24.pm/play/612/023D4BF222587EC/video.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://ua101.online24.pm:8222/6012/video.m3u8?token=023D4BF222587EC
+https://tinyurl.com/aleks-u-romki-102/13019/index.m3u8o=0?|User-Agent=http-user-agent=Lavf92.241.24
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-http://ua101.online24.pm:8222/6011/video.m3u8?token=023D4BF222587EC
+https://tinyurl.com/aleks-u-romki-102/13096/index.m3u8o=0?|User-Agent=http-user-agent=Lavf92.241.24
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-http://ua101.online24.pm:8222/6015/video.m3u8?token=023D4BF222587EC
+https://tinyurl.com/aleks-u-romki-102/13022/index.m3u8o=0?|User-Agent=http-user-agent=Lavf92.241.24
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-http://ua101.online24.pm:8222/6010/video.m3u8?token=023D4BF222587EC
+https://tinyurl.com/aleks-u-romki-102/13018/index.m3u8o=0?|User-Agent=http-user-agent=Lavf92.241.24
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-http://ua101.online24.pm:8222/6013/video.m3u8?token=023D4BF222587EC
+https://tinyurl.com/aleks-u-romki-102/13060/index.m3u8o=0?|User-Agent=http-user-agent=Lavf92.241.24
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-http://ua101.online24.pm:8222/6014/video.m3u8?token=023D4BF222587EC
-#EXTINF:0,MM USSR Мультфильм HD#EXTINF:0,MM USSR Мультфильм HD
+https://tinyurl.com/aleks-u-romki-102/13021/index.m3u8o=0?|User-Agent=http-user-agent=Lavf92.241.24
+#EXTINF:0,MM USSR Мультфильм HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/SVAYUTY5LNAF4S/13020/index.m3u
+https://tinyurl.com/aleks-u-romki-102/13020/index.m3u8o=0?|User-Agent=http-user-agent=Lavf92.241.24
+
 
 
 #EXTINF:-1,IPTVPLAY МультСказки HD
@@ -590,43 +591,12 @@ https://tinyurl.com/aleks-u-romki-47/17006/index.m3u8
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/17006/index.m3u
 
 
-#EXTINF:-1,Play-X Клон
+#EXTINF:-1,CineMan Комедийные Сериалы
 #EXTGRP: кино
-http://playxapp.play-x.app:2095/0454/index.m3u8?token=free_play_x_app_ru_server
-#EXTINF:-1,Play-X Последний из Магикян
+http://103.163.132.53/iptv/3W9W7XEYC22NBD/31628/index.m3u8
+#EXTINF:-1,CineMan Комедийные Сериалы
 #EXTGRP: кино
-http://playxapp.play-x.app:2095/0441/index.m3u8?token=free_play_x_app_ru_server
-#EXTINF:-1,Play-X Моя прекрасная няня
-#EXTGRP: кино
-http://playxapp.play-x.app:2095/0313/index.m3u8?token=free_play_x_app_ru_server
-#EXTINF:-1,Play-X Интерны
-#EXTGRP: кино
-http://playxapp.play-x.app:2095/3037/index.m3u8?token=free_play_x_app_ru_server
-#EXTINF:-1,Play-X Физрук
-#EXTGRP: кино
-http://playxapp.play-x.app:2095/0731/index.m3u8?token=free_play_x_app_ru_server
-#EXTINF:-1,Play-X Убойная сила
-#EXTGRP: кино
-http://playxapp.play-x.app:2095/0717/index.m3u8?token=free_play_x_app_ru_server
-#EXTINF:-1,Play-X Улицы разбитых фонарей
-#EXTGRP: кино
-http://playxapp.play-x.app:2095/0930/index.m3u8?token=free_play_x_app_ru_server
-#EXTINF:-1,Play-X Склифасовский
-#EXTGRP: кино
-http://playxapp.play-x.app:2095/0367/index.m3u8?token=free_play_x_app_ru_server
-#EXTINF:-1,Play-X Дальнобойщики
-#EXTGRP: кино
-http://playxapp.play-x.app:2095/0705/index.m3u8?token=free_play_x_app_ru_server
-#EXTINF:-1,Play-X Каменская
-#EXTGRP: кино
-http://playxapp.play-x.app:2095/0320/index.m3u8?token=free_play_x_app_ru_server
-#EXTINF:-1,Play-X ЧОП
-#EXTGRP: кино
-http://playxapp.play-x.app:2095/1400/index.m3u8?token=free_play_x_app_ru_server
-#EXTINF:-1,Play-X Ищейка
-#EXTGRP: кино
-http://playxapp.play-x.app:2095/0390/index.m3u8?token=free_play_x_app_ru_server
-
+http://103.163.132.53/iptv/W7KZBRRZFVH9MN/31628/index.m3u8
 
 
 #EXTINF:-1,VF Гарри Поттер
