@@ -154,22 +154,22 @@ http://bpl.online24.pm/play/612/023D4BF222587EC/video.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://bpl.online24.pm/play/6012/023D4BF222587EC/video.m3u8
+http://ua101.online24.pm:8222/6012/video.m3u8?token=023D4BF222587EC
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-http://bpl.online24.pm/play/6011/023D4BF222587EC/video.m3u8
+http://ua101.online24.pm:8222/6011/video.m3u8?token=023D4BF222587EC
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-http://bpl.online24.pm/play/6015/023D4BF222587EC/video.m3u8
+http://ua101.online24.pm:8222/6015/video.m3u8?token=023D4BF222587EC
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-http://bpl.online24.pm/play/6010/023D4BF222587EC/video.m3u8
+http://ua101.online24.pm:8222/6010/video.m3u8?token=023D4BF222587EC
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-http://bpl.online24.pm/play/6013/023D4BF222587EC/video.m3u8
+http://ua101.online24.pm:8222/6013/video.m3u8?token=023D4BF222587EC
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-http://bpl.online24.pm/play/6014/023D4BF222587EC/video.m3u8
+http://ua101.online24.pm:8222/6014/video.m3u8?token=023D4BF222587EC
 #EXTINF:0,MM USSR Мультфильм HD#EXTINF:0,MM USSR Мультфильм HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/SVAYUTY5LNAF4S/13020/index.m3u
