@@ -72,9 +72,6 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u
 #EXTINF:-1,CineMan VHS
 #EXTGRP: кино
 http://ott.server-iptv.live/685/video.m3u8?token=S40EA67AEC
-#EXTINF:-1,Fresh VHS
-#EXTGRP: кино
-http://bpl.online24.pm/play/1640/023D4BF222587EC/video.m3u8
 
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
@@ -150,7 +147,7 @@ http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:-1  group-title="Детские"  tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детское кино HD
 http://103.163.132.53/iptv/NPX7LN94ZXW9TN/18073/index.m3u8
 #EXTINF:-1  group-title="Детские"  tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детское кино HD
-http://bpl.online24.pm/play/612/023D4BF222587EC/video.m3u8
+http://r.faola.li/10821/index.m3u8?token=nSeG5DM7LE
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
