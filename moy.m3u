@@ -955,3 +955,5 @@ http://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1,TVPlay Как это Было
 #EXTGRP: кино
 http://r.faola.li/11180/index.m3u8?token=nSeG5DM7LE
+#EXTINF:-1,Сити Эдем КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
