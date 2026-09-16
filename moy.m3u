@@ -77,10 +77,10 @@ http://ott.server-iptv.live/685/video.m3u8?token=S40EA67AEC
 
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
-http://s.only4.tv/7153/index.m3u8?token=SowFU8pkSB
+http://103.163.132.53/iptv/PV75VQNMKV69RQ/13037/index.m3u8
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/2DRFP4PXP5RHZT/13037/index.m3u8
+http://103.163.132.53/iptv/V5LQDM4CPUCC2C/13037/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
@@ -146,25 +146,25 @@ http://r.faola.li/10821/index.m3u8?token=nSeG5DM7LE
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://s.only4.tv/7135/index.m3u8?token=SowFU8pkSB
+http://103.163.132.53/iptv/PV75VQNMKV69RQ/13019/index.m3u
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
-http://s.only4.tv/7134/index.m3u8?token=SowFU8pkSB
+http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13096/index.m3u
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-http://s.only4.tv/7138/index.m3u8?token=SowFU8pkSB
+http://103.163.132.53/iptv/UB5822TU3WCEY6/13022/index.m3u
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
-http://s.only4.tv/7133/index.m3u8?token=SowFU8pkSB
+http://103.163.132.53/iptv/E6RPBPN5RLBP5Z/13018/index.m3u
 #EXTINF:0,MM USSR Приключения HD
 #EXTGRP: кино
-http://s.only4.tv/7233/index.m3u8?token=SowFU8pkSB
+http://103.163.132.53/iptv/SVAYUTY5LNAF4S/13060/index.m3u
 #EXTINF:0,MM USSR Сказки HD
 #EXTGRP: кино
-http://s.only4.tv/7137/index.m3u8?token=SowFU8pkSB
+http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13021/index.m3u
 #EXTINF:0,MM USSR Мультфильм HD
 #EXTGRP: кино
-http://s.only4.tv/7136/index.m3u8?token=SowFU8pkSB
+http://103.163.132.53/iptv/SVAYUTY5LNAF4S/13020/index.m3u
 
 
 #EXTINF:-1,IPTVPLAY МультСказки HD
@@ -242,13 +242,13 @@ http://r.faola.li/10931/index.m3u8?token=nSeG5DM7LE
 http://cdntv.online/high/wn49ab7yv5/1682.mpeg
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5117.png",TOP USSR HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/2DRFP4PXP5RHZT/13005/index.m3u8
+http://103.163.132.53/iptv/V5LQDM4CPUCC2C/13005/index.m3u8
 #EXTINF:-1,USSR HD
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-47/11102/index.m3u8
 #EXTINF:-1,Fresh Soviet
 #EXTGRP: кино
-http://103.163.132.53/iptv/2DRFP4PXP5RHZT/19301/index.m3u8
+http://103.163.132.53/iptv/V5LQDM4CPUCC2C/19301/index.m3u8
 #EXTINF:-1,KLI СССР HD
 #EXTGRP: кино
 http://s.only4.tv/8040/index.m3u8?token=nSeG5DM7LE
@@ -378,13 +378,13 @@ http://103.163.132.53/iptv/W7KZBRRZFVH9MN/13051/index.m3u8
 http://cdntv.online/low/wn49ab7yv5/2013.mpeg
 #EXTINF:-1,BCU Сваты HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/2DRFP4PXP5RHZT/11047/index.m3u8
+http://103.163.132.53/iptv/V5LQDM4CPUCC2C/11047/index.m3u8
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4696.png",StrahTV Сваты
 #EXTGRP: кино
 http://103.163.132.53/iptv/E6RPBPN5RLBP5Z/11062/index.m3u8
 #EXTINF:-1,CineMan Сваты
 #EXTGRP: кино
-http://103.163.132.53/iptv/2DRFP4PXP5RHZT/11014/index.m3u8
+http://103.163.132.53/iptv/V5LQDM4CPUCC2C/11014/index.m3u8
 #EXTINF:-1 ,VF Сваты
 #EXTGRP: кино
 http://103.163.132.53/iptv/E6RPBPN5RLBP5Z/13080/index.m3u8
