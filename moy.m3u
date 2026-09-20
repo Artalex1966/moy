@@ -142,7 +142,7 @@ http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:-1  group-title="Детские"  tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детское кино HD
 http://103.163.132.53/iptv/NPX7LN94ZXW9TN/18073/index.m3u8
 #EXTINF:-1  group-title="Детские"  tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детское кино HD
-http://r.faola.li/10821/index.m3u8?token=nSeG5DM7LE
+http://103.163.132.53/iptv/V5LQDM4CPUCC2C/18073/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
