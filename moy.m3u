@@ -62,10 +62,10 @@ https://tinyurl.com/aleks-u-romki-40/17022/index.m3u8
 http://195.209.212.23:8081/hls/Kino_1_int/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6256.png",Кино 1
 #EXTGRP: кино
-http://77fb8f92.amazzin.pw/iptv/PV75VQNMKV69RQ/18069/index.m3u8
+http://cdn.balelbrus.com/ottplayer/bigteisti6/08936907/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6257.png",Кино 2
 #EXTGRP: кино
-http://7036420a.edmonst.net/iptv/QGYQF73BAHHMSUTYBC7MLVGX/18070/index.m3u8
+http://cdn.balelbrus.com/ottplayer/bigteisti6/08936909/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
 
 #EXTINF:-1,VHS-ка
 #EXTGRP: кино
@@ -142,7 +142,7 @@ http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:-1  group-title="Детские"  tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детское кино HD
 http://103.163.132.53/iptv/NPX7LN94ZXW9TN/18073/index.m3u8
 #EXTINF:-1  group-title="Детские"  tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детское кино HD
-http://103.163.132.53/iptv/V5LQDM4CPUCC2C/18073/index.m3u8
+http://cdn.balelbrus.com/ottplayer/bigteisti6/08936913/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -236,7 +236,7 @@ http://ott.server-iptv.live/1600/video.m3u8?token=S40EA67AEC
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-sssr-fhd.png",CineMan CCCP
 #EXTGRP: кино
-http://r.faola.li/10931/index.m3u8?token=nSeG5DM7LE
+http://cdn.balelbrus.com/ottplayer/bigteisti2/08946997/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
 #EXTINF:-1, CineMan CCCP 4K
 #EXTGRP: кино
 http://cdntv.online/high/wn49ab7yv5/1682.mpeg
