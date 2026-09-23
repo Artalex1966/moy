@@ -255,6 +255,9 @@ http://s.only4.tv/8040/index.m3u8?token=nSeG5DM7LE
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4695.png",StrahTV СССР
 #EXTGRP: кино
 http://103.163.132.53/iptv/8ED7L5YXSGCCMS/11061/index.m3u8
+#EXTINF:-1,Кинозал! СССР
+#EXTGRP: кино
+http://89.33.29.115:8080/sssr_kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1,YOSSO TV Советские фильмы
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-40/14175/index.m3u8
@@ -623,16 +626,16 @@ http://103.163.132.53/iptv/4N9GESHLXBUSDA/13082/index.m3u8
 http://103.163.132.53/iptv/PV75VQNMKV69RQ/13083/index.m3u
 #EXTINF:-1,Galaxy
 #EXTGRP: Познавательное
-http://cdntv.online/high/wn49ab7yv5/366.m3u8
+http://192.162.64.99:5200/play/a035/index.m3u8
 #EXTINF:-1,Galaxy
 #EXTGRP: Познавательное
-https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132505&extension=ts
+https://mhd116.iptv2022.com/x/Zw29-ZeiSRP5z6GgMjDDGw,1790233306/streaming/taina-galaxy/324/1/index.m3u8
 #EXTINF:-1,Первый космический
 #EXTGRP: Познавательное
 http://cdntv.online/high/wn49ab7yv5/1062.m3u8
 #EXTINF:-1,Curiosity Stream
 #EXTGRP: Познавательное
-http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/9072/index.m3u8
+http://192.162.64.99:5200/play/a02b/index.m3u8
 #EXTINF:-1,Curiosity Stream
 #EXTGRP: Познавательное
 http://r.faola.li/9670/video.m3u8?token=nSeG5DM7LE
@@ -918,3 +921,20 @@ http://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 http://r.faola.li/11180/index.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,Сити Эдем КиноКлассика
 https://cityeden.catcast.tv/content/34185/index.m3u8
+
+
+#EXTINF:-1,Вселенная Гарри Поттера
+https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=N6pIx7Fi--1aRyMicxiNYA&e=2087898209&scheme=https
+#EXTINF:-1,Твой Кинотеатр
+https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=rXoN2H9fvKgm-dRbe0cUHQ&e=2087554610&scheme=https
+#EXTINF:-1,Родное Кино
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031918&extension=ts&play_token=DGx5mjEKFf
+#EXTINF:-1,КИНОХИТ
+http://89.33.29.115:8080/Kinohit/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Liberty Netflix
+http://89.33.29.115:8080/Paramount_Comedy/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Русская история
+http://192.162.64.99:5200/play/a03f/index.m3u8
+#EXTINF:-1,Русская история
+http://192.162.64.99:5200/play/a02b/index.m3u8
+
