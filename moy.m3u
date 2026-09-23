@@ -568,9 +568,9 @@ http://103.163.132.53/iptv/PV75VQNMKV69RQ/11060/index.m3u
 #EXTINF:-1,TVPlay Моя Прекрасная Няня
 #EXTGRP: кино
 http://s.only4.tv/10193/index.m3u8?token=nSeG5DM7LE
-#EXTINF:-1,Play-X Моя прекрасная няня
+#EXTINF:-1,TVPlay Моя Прекрасная няня
 #EXTGRP: кино
-http://playxapp.play-x.app:2095/0313/index.m3u8?token=free_play_x_app_ru_server
+http://66.90.110.10:8080/dTieWvxuEM/index.m3u8?token=CNVkbIWpdNQAUXGC
 #EXTINF:-1,TVPlay Друзья
 #EXTGRP: кино
 http://s.only4.tv/9379/mono.m3u8?token=nSeG5DM7LE
@@ -935,6 +935,6 @@ http://89.33.29.115:8080/Kinohit/tracks-v1a1/mono.m3u8
 http://89.33.29.115:8080/Paramount_Comedy/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Русская история
 http://192.162.64.99:5200/play/a03f/index.m3u8
-#EXTINF:-1,Русская история
+#EXTINF:-1,Curiosity Stream
 http://192.162.64.99:5200/play/a02b/index.m3u8
 
