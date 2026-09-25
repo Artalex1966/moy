@@ -739,34 +739,35 @@ http://cdntv.online/high/wn49ab7yv5/897.mpeg
 #EXTINF:-1,Маша и Медведь
 #EXTGRP: Детский
 http://cdntv.online/high/v6rf4syijn/897.m3u8
-#EXTINF:-1,Venera.TV Маша и медведь
-#EXTGRP: Детский
-http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/30180/index.m3u
-#EXTINF:-1,Venera.TV Маша и медведь
-#EXTGRP: Детский
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/30180/index.m3u
-#EXTINF:-1,Play-X Щенячий патруль
-#EXTGRP: Детский
-http://playxapp.play-x.app:2095/3007/index.m3u8?token=free_play_x_app_ru_server
+
+
 #EXTINF:-1,Щенячий патруль
 #EXTGRP: Детский
-https://tinyurl.com/aleks-u-romki-47/30167/index.m3u8
+http://103.163.132.53/iptv/PV75VQNMKV69RQ/30167/index.m3u8
 #EXTINF:-1,Чудеса на виражах
 #EXTGRP: Детский
-https://tinyurl.com/aleks-u-romki-40/30192/index.m3u8
+http://103.163.132.53/iptv/8ED7L5YXSGCCMS/30192/index.m3u8
 #EXTINF:-1,Тимон и Пумба
 #EXTGRP: Детский
-https://tinyurl.com/aleks-u-romki-47/30164/index.m3u8
-#EXTINF:-1,Фиксики
+http://103.163.132.53/iptv/PV75VQNMKV69RQ/30164/index.m3u8
+#EXTINF:-1,Baby TV
 #EXTGRP: Детский
-http://ultxov4g.streamoras.top/iptv/PV75VQNMKV69RQ/30153/index.m3u8
+http://89.33.29.115:8080/Baby_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Три кота
 #EXTGRP: Детский
-https://tinyurl.com/aleks-u-romki-40/30157/index.m3u8
+http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/30157/index.m3u8
 #EXTINF:-1,Мини-мишки
 #EXTGRP: Детский
-https://tinyurl.com/aleks-u-romki-47/30178/index.m3u8
-
+http://103.163.132.53/iptv/PV75VQNMKV69RQ/30178/index.m3u8
+#EXTINF:-1,Лёва HD
+#EXTGRP: Детский
+http://ott.server-iptv.live/526/video.m3u8?token=S40EA67AEC
+#EXTINF:-1,Ключайка
+#EXTGRP: Детский
+https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
+#EXTINF:-1,C-Cartoon
+#EXTGRP: Детский
+http://66.90.110.10:8080/rwjx6XEsr3/index.m3u8?token=CNVkbIWpdNQAUXGC
 
 #EXTINF:-1,КИНОМУЛЬТ
 #EXTGRP: Детский
@@ -785,7 +786,7 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.
 https://fs.uplink.kz/o/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1,Детский мир
 #EXTGRP: Детский
-https://s70378.cdn.ngenix.net/detskij_mir/2/index.m3u8
+http://ott.server-iptv.live/510/video.m3u8?token=S40EA67AEC
 #EXTINF:-1,Карусель
 #EXTGRP: Детский
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
@@ -804,9 +805,9 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mult_HD.m3u8
 #EXTINF:-1,Мультиландия
 #EXTGRP: Детский
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Multilandiya.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5MDM3ODc2NiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg5NzczOTY2LCJzZXNzaW9uX2lkIjoiMjVlM2M2M2Q2MGVhMGE4NGZlZjI5M2QzNGQ0MDUyMGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.zpa9O30r8vsJpMY25801UNY9VENe_PgzfbJ2lHxUiPI
-#EXTINF:-1,Мультимания
+#EXTINF:-1,Baby TV
 #EXTGRP: Детский
-http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+http://89.33.29.115:8080/Baby_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Мама
 #EXTGRP: Детский
 http://46.32.176.50/mama/index.m3u8
@@ -819,12 +820,12 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=CTC_Kids.m3u
 #EXTINF:-1,TiJi
 #EXTGRP: Детский
 https://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
-#EXTINF:-1,Пингвин Лоло
+#EXTINF:-1,Jim jam
 #EXTGRP: Детский
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+http://89.33.29.115:8080/JimJam/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ani
 #EXTGRP: Детский
-http://cdn.kubteltv.workers.dev/?ID=367
+http://89.33.29.115:8080/ani/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Детский мир
 #EXTGRP: Детский
 http://158.101.222.193:88/georgia_play.php?id=detskymir
