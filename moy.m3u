@@ -152,7 +152,7 @@ http://103.163.132.53/iptv/PV75VQNMKV69RQ/13019/index.m3u
 http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13096/index.m3u
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/2DRFP4PXP5RHZT/13022/index.m3u
+http://103.163.132.53/iptv/PV75VQNMKV69RQ/13022/index.m3u
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/13018/index.m3u
@@ -263,7 +263,7 @@ http://89.33.29.115:8080/sssr_kino/tracks-v1a1/mono.m3u8
 https://tinyurl.com/aleks-u-romki-40/14175/index.m3u8
 #EXTINF:-1,YOSSO TV Советские фильмы 4K
 #EXTGRP: кино
-http://103.163.132.53/iptv/MHG766HMYBABXR/19435/index.m3u
+http://103.163.132.53/iptv/PV75VQNMKV69RQ/19435/index.m3u
 #EXTINF:-1,TVPlay Советское Кино HD
 #EXTGRP: кино
 http://s.only4.tv/9375/index.m3u8?token=nSeG5DM7LE
@@ -610,7 +610,7 @@ http://7ebf9762.ucomist.net/iptv/QGYQF73BAHHMSUTYBC7MLVGX/17015/index.m3u8
 http://103.163.132.53/iptv/PV75VQNMKV69RQ/17013/index.m3u8
 #EXTINF:-1,VF Универ новая общага
 #EXTGRP: кино
-http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/17013/index.m3u8
+http://nkhwvlfz.ottclub.xyz/iptv/PV75VQNMKV69RQ/17013/index.m3u8
 #EXTINF:-1,VF Тайны следствия
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/QGYQF73BAHHMSUTYBC7MLVGX/13082/index.m3u8
@@ -674,7 +674,7 @@ http://stream.mcquack.net/186/index.m3u8
 http://103.163.132.53/iptv/PV75VQNMKV69RQ/31654/index.m3u8
 #EXTINF:-1,VF Авто
 #EXTGRP: Познавательное
-http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/15511/index.m3u8
+http://nkhwvlfz.ottclub.xyz/iptv/PV75VQNMKV69RQ/15511/index.m3u8
 #EXTINF:-1,НТВ Хит
 #EXTGRP: эфир
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
@@ -699,6 +699,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
 #EXTINF:-1,ТНТ
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1,ТНТ -12ч
+#EXTGRP: эфир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-43200
 #EXTINF:-1,ТНТ4
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
@@ -711,9 +714,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1,Пятница
 #EXTGRP: эфир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1,Пятница! International
+#EXTINF:-1,ПЯТНИЦА -10ч
 #EXTGRP: эфир
-http://158.101.222.193:88/georgia_play.php?id=friday
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-36000
 #EXTINF:-1,Че
 #EXTGRP: эфир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
@@ -826,9 +829,7 @@ http://89.33.29.115:8080/JimJam/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ani
 #EXTGRP: Детский
 http://89.33.29.115:8080/ani/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Детский мир
-#EXTGRP: Детский
-http://158.101.222.193:88/georgia_play.php?id=detskymir
+
 #EXTINF:-1,Мамонтёнок
 #EXTGRP: Детский
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
@@ -859,18 +860,10 @@ http://cdntv.online/high/wn49ab7yv5/2257.m3u8
 #EXTINF:-1,FRESH Retro HD
 #EXTGRP: Музыка
 http://dff13dfa.ottrast.com/iptv/QGYQF73BAHHMSUTYBC7MLVGX/18092/index.m3u8
-#EXTINF:-1,Dancehits 80
-#EXTGRP: Музыка
-http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1,Now 70s
-#EXTGRP: Музыка
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1,Now 80s
-#EXTGRP: Музыка
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
 #EXTINF:-1,VeleS Магнитофон
 #EXTGRP: Музыка
-http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/31645/index.m3u8
+http://nkhwvlfz.ottclub.xyz/iptv/PV75VQNMKV69RQ/31645/index.m3u8
 #EXTINF:-1,Gameplay
 #EXTGRP: игры
 https://rpn3.bozztv.com/dvrfl07/ushba31/tracks-v1a1/mono.m3u8
@@ -879,41 +872,23 @@ https://rpn3.bozztv.com/dvrfl07/ushba31/tracks-v1a1/mono.m3u8
 https://rpn3.bozztv.com/dvrfl07/ushba44/index.m3u8
 #EXTINF:-1,BOX Game HD
 #EXTGRP: игры
-http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/19284/index.m3u8
+http://nkhwvlfz.ottclub.xyz/iptv/PV75VQNMKV69RQ/19284/index.m3u8
 #EXTINF:-1,Камин
 #EXTGRP: 999
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-#EXTINF:-1,Огонь
-#EXTGRP: 999
-http://iptv.prosto.tv:7000/ch318/video.m3u8
-#EXTINF:-1,Пейзаж
-#EXTGRP: 999
-http://iptv.prosto.tv:7000/ch343/video.m3u8
-#EXTINF:-1,Аквариум
-#EXTGRP: 999
-http://iptv.prosto.tv:7000/ch325/video.m3u8
-#EXTINF:-1,RELAX THE OCEAN 4K
-#EXTGRP: 999
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=809413&extension=ts
-#EXTINF:-1,RELAX EUROPE TOWNS 4K
-#EXTGRP: 999
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=809422&extension=ts
+
 #EXTINF:-1,MM Experiment HD
-http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/19412/index.m3u8
+http://nkhwvlfz.ottclub.xyz/iptv/PV75VQNMKV69RQ/19412/index.m3u8
 #EXTINF:-1,MM Открытия HD
-http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/19415/index.m3u8
+http://nkhwvlfz.ottclub.xyz/iptv/PV75VQNMKV69RQ/19415/index.m3u8
 #EXTINF:-1, Play-x Тайны Чапман HD
 http://cdntv.online/low/wn49ab7yv5/2215.mpeg
-#EXTINF:-1, Play-X UFO
-http://playxapp.play-x.app:2095/0003/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb
-#EXTINF:-1, Play-X Космический
-http://playxapp.play-x.app:2095/0001/index.m3u8?token=free_play_x_app_ru_server
+
 
 #EXTINF:-1,Госфильмофонд. Машина времени HD
 #EXTGRP: кино
 http://185.221.213.254/live/stream113.php?seg=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd80OsapFPaD3ZXfEOTb3uPpvyb8sixf4awuyemMIO0gs_2nhxrW355e6y6DPwhHXRs
-#EXTINF:-1,Play-X Моя прекрасная няня
-http://playxapp.play-x.app:2095/0313/index.m3u8?token=free_play_x_app_ru_server
+
 #EXTINF:-1,Мосфильм. Золотая коллекция (+1)
 #EXTGRP: кино
 http://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
