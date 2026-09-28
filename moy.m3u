@@ -755,6 +755,9 @@ http://cdntv.online/high/wn49ab7yv5/897.mpeg
 http://cdntv.online/high/v6rf4syijn/897.m3u8
 
 
+#EXTINF:-1,МУЛЬТИМЕЙШН
+#EXTGRP: Детский
+https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=o3CrbphtgNLu6Wqwfp9jOg&e=2088683165&scheme=https
 #EXTINF:-1,Щенячий патруль
 #EXTGRP: Детский
 http://103.163.132.53/iptv/PV75VQNMKV69RQ/30167/index.m3u8
@@ -921,9 +924,9 @@ https://cityeden.catcast.tv/content/34185/index.m3u8
 https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=rXoN2H9fvKgm-dRbe0cUHQ&e=2087554610&scheme=https
 #EXTINF:-1,Родное Кино
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031918&extension=ts&play_token=DGx5mjEKFf
-#EXTINF:-1,КИНОХИТ
-http://89.33.29.115:8080/Kinohit/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Liberty Netflix
-http://89.33.29.115:8080/Paramount_Comedy/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Record Chill-Out
+https://bl.rutube.ru/livestream/6ad623fe9b908f3823c47e77cd981cd4/index.m3u8?s=2VyFVQXhcOLZDgKraCNaZw&e=2075674765&scheme=https
+#EXTINF:-1,Киножелезо
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=ysU34lwaIe3wJ_kwITsqmA&e=2075674722&scheme=https
 
 
