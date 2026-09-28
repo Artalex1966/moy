@@ -176,9 +176,7 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.
 #EXTINF:-1,Том и Джерри
 #EXTGRP: Детский
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/utinue.png",Утиные истории
-#EXTGRP: Детский
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/30156/index.m3u8
+
 #EXTINF:-1,Venera.TV Советская классика 4K
 #EXTGRP: кино
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/30151/index.m3u
@@ -590,7 +588,7 @@ http://103.163.132.53/iptv/PV75VQNMKV69RQ/17006/index.m3u
 
 #EXTINF:-1,CineMan Комедийные Сериалы
 #EXTGRP: кино
-http://103.163.132.53/iptv/3W9W7XEYC22NBD/31628/index.m3u8
+http://103.163.132.53/iptv/8ED7L5YXSGCCMS/31628/index.m3u8
 #EXTINF:-1,CineMan Комедийные Сериалы
 #EXTGRP: кино
 http://103.163.132.53/iptv/PV75VQNMKV69RQ/31628/index.m3u8
@@ -602,6 +600,9 @@ http://103.163.132.53/iptv/PV75VQNMKV69RQ/14230/index.m3u8
 #EXTINF:-1,VF Гарри Поттер
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/QGYQF73BAHHMSUTYBC7MLVGX/14230/index.m3u8
+#EXTINF:-1,Вселенная Гарри Поттера
+#EXTGRP: кино
+https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=N6pIx7Fi--1aRyMicxiNYA&e=2087898209&scheme=https
 #EXTINF:-1,VF Реальные пацаны
 #EXTGRP: кино
 http://103.163.132.53/iptv/PV75VQNMKV69RQ/17015/index.m3u8
@@ -660,6 +661,10 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,История
 #EXTGRP: Познавательное
 https://stream-msk-04.ott.tricolor.tv/dtv/id259_MSKSG-PVR-1--Istoriya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5MDk4MDMxNywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzkwMzc1NTE3LCJzZXNzaW9uX2lkIjoiYWExZGQ3YjFjZmM1ZmI1NTRiZWQ4ODE3NTg1MTdmZGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oxuOtqSpgt9NJsm6u9cxM3Kg1cv9OnL4bbM1GbK5v-k
+#EXTINF:-1,Русская история
+#EXTGRP: Познавательное
+http://192.162.64.99:5200/play/a03f/index.m3u8
+
 #EXTINF:-1,Телепутешествия
 #EXTGRP: Познавательное
 http://cdntv.online/hls/wn49ab7yv5/353.m3u8
@@ -733,6 +738,9 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=V_gostyakh_u
 #EXTINF:-1,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/utinue.png",Утиные истории
+#EXTGRP: Детский
+http://103.163.132.53/iptv/PV75VQNMKV69RQ/30156/index.m3u8
 #EXTINF:-1,Том и Джерри
 #EXTGRP: Детский
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
@@ -756,9 +764,9 @@ http://103.163.132.53/iptv/8ED7L5YXSGCCMS/30192/index.m3u8
 #EXTINF:-1,Тимон и Пумба
 #EXTGRP: Детский
 http://103.163.132.53/iptv/PV75VQNMKV69RQ/30164/index.m3u8
-#EXTINF:-1,Baby TV
+#EXTINF:-1,Малыш
 #EXTGRP: Детский
-http://89.33.29.115:8080/Baby_TV/tracks-v1a1/mono.m3u8
+https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
 #EXTINF:-1,Три кота
 #EXTGRP: Детский
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/30157/index.m3u8
@@ -826,16 +834,22 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=CTC_Kids.m3u
 #EXTINF:-1,TiJi
 #EXTGRP: Детский
 https://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
-#EXTINF:-1,Jim jam
+#EXTINF:-1,Gulli Girl
 #EXTGRP: Детский
-http://89.33.29.115:8080/JimJam/tracks-v1a1/mono.m3u8
+https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
+#EXTINF:-1,JimJam
+#EXTGRP: Детский
+http://stream.mcquack.net/150/index.m3u8
 #EXTINF:-1,Ani
 #EXTGRP: Детский
-http://89.33.29.115:8080/ani/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Мамонтёнок
+http://stream.mcquack.net/306/index.m3u8
+#EXTINF:-1,Cartoons 90
 #EXTGRP: Детский
-http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/484/index.m3u8
+#EXTINF:-1,Cartoons Big
+#EXTGRP: Детский
+http://stream.mcquack.net/348/index.m3u8
+
 #EXTINF:-1,Музыка 1 International
 #EXTGRP: Музыка
 http://195.209.212.23:8081/hls/Muzyka_1_int/playlist.m3u8
@@ -902,8 +916,7 @@ http://r.faola.li/11180/index.m3u8?token=nSeG5DM7LE
 https://cityeden.catcast.tv/content/34185/index.m3u8
 
 
-#EXTINF:-1,Вселенная Гарри Поттера
-https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=N6pIx7Fi--1aRyMicxiNYA&e=2087898209&scheme=https
+
 #EXTINF:-1,Твой Кинотеатр
 https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=rXoN2H9fvKgm-dRbe0cUHQ&e=2087554610&scheme=https
 #EXTINF:-1,Родное Кино
@@ -912,8 +925,5 @@ http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031918&e
 http://89.33.29.115:8080/Kinohit/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Liberty Netflix
 http://89.33.29.115:8080/Paramount_Comedy/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Русская история
-http://192.162.64.99:5200/play/a03f/index.m3u8
-#EXTINF:-1,Curiosity Stream
-http://192.162.64.99:5200/play/a02b/index.m3u8
+
 
