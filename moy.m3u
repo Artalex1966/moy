@@ -92,6 +92,9 @@ http://ott.server-iptv.live/645/video.m3u8?token=S40EA67AEC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/vhs-forever_live.jpg",VHS Forever
 #EXTGRP: кино
 http://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/vhs_store.jpg",VHS store
+#EXTGRP: кино
+http://kinowalk.hopto.org/channel36774366_live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/video_prokat_live.png",Video_Prokat
 #EXTGRP: кино
 http://kinowalk.hopto.org/video_prokat_live
@@ -785,6 +788,9 @@ https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8h
 #EXTINF:-1,C-Cartoon
 #EXTGRP: Детский
 http://66.90.110.10:8080/rwjx6XEsr3/index.m3u8?token=CNVkbIWpdNQAUXGC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/myvhs_live",Мультфильмы VHS
+#EXTGRP: Детский
+http://kinowalk.hopto.org/myvhs_live
 
 #EXTINF:-1,КИНОМУЛЬТ
 #EXTGRP: Детский
@@ -868,6 +874,9 @@ http://195.209.212.23:8081/hls/Muzyka_Kino_int/playlist.m3u8
 #EXTINF:-1,Музыка Кино
 #EXTGRP: Музыка
 http://ultxov4g.streamoras.top/iptv/QGYQF73BAHHMSUTYBC7MLVGX/18081/index.m3u8
+#EXTINF:-1,RetroMusic
+#EXTGRP: Музыка
+http://kinowalk.hopto.org/retromus_live
 #EXTINF:-1,Play-x Муз Golden Hits 90s HD
 #EXTGRP: Музыка
 http://cdntv.online/high/wn49ab7yv5/2255.m3u8
