@@ -24,7 +24,7 @@ https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:-1,НТВ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
-http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1,ТВЦ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer"
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
@@ -424,7 +424,7 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id995_MSKSG-PVR-1--Kinopokaz_2/02/plst
 https://stream-msk-10.ott.tricolor.tv/dtv/id277_MSKSG-PVR-1--Ostrosuzhetnoe/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5MDk4MDMxNywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzkwMzc1NTE3LCJzZXNzaW9uX2lkIjoiYWExZGQ3YjFjZmM1ZmI1NTRiZWQ4ODE3NTg1MTdmZGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oxuOtqSpgt9NJsm6u9cxM3Kg1cv9OnL4bbM1GbK5v-k
 #EXTINF:-1,Кино ТВ
 #EXTGRP: кино
-https://vod.tuva.ru/kinotv/index.m3u8
+http://194.152.35.17/kino-tv/index.m3u8
 #EXTINF:-1,FAN HD
 #EXTGRP: кино
 http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5MDk4MDMxNywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzkwMzc1NTE3LCJzZXNzaW9uX2lkIjoiYWExZGQ3YjFjZmM1ZmI1NTRiZWQ4ODE3NTg1MTdmZGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oxuOtqSpgt9NJsm6u9cxM3Kg1cv9OnL4bbM1GbK5v-k
@@ -491,7 +491,7 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Кинохит
 #EXTGRP: кино
-http://158.101.222.193:88/georgia_play.php?id=kinohit
+http://ott.server-iptv.live/608/video.m3u8?token=S40EA67AEC
 #EXTINF:-1,Киномикс
 #EXTGRP: кино
 http://46.32.176.50/kinomiks/index.m3u8
