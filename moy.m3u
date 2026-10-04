@@ -88,9 +88,7 @@ http://cdntv.online/high/wn49ab7yv5/2300.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
 http://ott.server-iptv.live/645/video.m3u8?token=S40EA67AEC
-#EXTINF:-1,VeleS Кинопленка
-#EXTGRP: кино
-http://nl.hls.gd/ch2592/mono.m3u8?token=zaur2.v2_-rSn3kmCGhLX6bjhsdw1sY-vNWrD0X3xSgVdpPadUoFmHJIiqVjtKZ0Nd7KtNeJbGbSCB9Ne5g
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/vhs-forever_live.jpg",VHS Forever
 #EXTGRP: кино
@@ -141,6 +139,9 @@ http://kinowalk.hopto.org/cmexye4ku_live
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
 http://ott.server-iptv.live/683/video.m3u8?token=S40EA67AEC
+#EXTINF:-1,CineMan Top
+#EXTGRP: кино
+http://stream.mcquack.net/350/index.m3u8
 
 #EXTINF:-1,Детское кино International
 #EXTGRP: кино
