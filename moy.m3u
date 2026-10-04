@@ -105,9 +105,9 @@ http://kinowalk.hopto.org/kinowalk_live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/kinomix.png",KinoMix
 #EXTGRP: кино
 http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/nonstop.png",КиноНонСтоп
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/kinomania_stream_live.png",Тоха Киноман HD
 #EXTGRP: кино
-http://kinowalk.hopto.org/nonestopmovie_live
+http://kinowalk.hopto.org/kinomania_stream_live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/movietoper.png",MovieToper
 #EXTGRP: кино
 http://kinowalk.hopto.org/movietoper_live
@@ -941,5 +941,5 @@ http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031918&e
 https://bl.rutube.ru/livestream/6ad623fe9b908f3823c47e77cd981cd4/index.m3u8?s=2VyFVQXhcOLZDgKraCNaZw&e=2075674765&scheme=https
 #EXTINF:-1,Киножелезо
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=ysU34lwaIe3wJ_kwITsqmA&e=2075674722&scheme=https
-
-
+#EXTINF:-1,ГОСТЕЛЕРАДИОФОНД
+https://glb.bozztv.com/glb/ushba68/index.m3u8
