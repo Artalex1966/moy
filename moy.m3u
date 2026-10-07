@@ -73,7 +73,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u
 
 #EXTINF:-1,CineMan VHS
 #EXTGRP: кино
-http://ott.server-iptv.live/685/video.m3u8?token=S40EA67AEC
+http://live.uspeh-bil.ru/8807/video.m3u8?token=p38CeA56C8wzWCm3
 
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
@@ -87,7 +87,7 @@ http://103.163.132.53/iptv/V5LQDM4CPUCC2C/13037/index.m3u8
 http://cdntv.online/high/wn49ab7yv5/2300.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
-http://ott.server-iptv.live/645/video.m3u8?token=S40EA67AEC
+http://live.uspeh-bil.ru/9498/video.m3u8?token=p38CeA56C8wzWCm3
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/vhs-forever_live.jpg",VHS Forever
@@ -138,7 +138,7 @@ http://kinowalk.hopto.org/cmexye4ku_live
 
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
-http://ott.server-iptv.live/683/video.m3u8?token=S40EA67AEC
+http://live.uspeh-bil.ru/8959/video.m3u8?token=p38CeA56C8wzWCm3
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
 http://r.faola.li/6839/index.m3u8?token=nSeG5DM7LE
@@ -237,14 +237,14 @@ http://103.163.132.53/iptv/PV75VQNMKV69RQ/18125/index.m3u8
 http://103.163.132.53/iptv/PV75VQNMKV69RQ/10085/index.m3u8
 #EXTINF:-1,VeleS СССР
 #EXTGRP: кино
-http://ott.server-iptv.live/1600/video.m3u8?token=S40EA67AEC
+http://ott.server-iptv.live/1600/video.m3u8?token=nSeG5DM7LE
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-sssr-fhd.png",CineMan CCCP
 #EXTGRP: кино
-http://ott.server-iptv.live/655/video.m3u8?token=S40EA67AEC
+http://live.uspeh-bil.ru/9121/video.m3u8?token=p38CeA56C8wzWCm3
 #EXTINF:-1, CineMan CCCP 4K
 #EXTGRP: кино
-http://ott.server-iptv.live/1602/video.m3u8?token=S40EA67AEC
+http://live.uspeh-bil.ru/8795/video.m3u8?token=p38CeA56C8wzWCm3
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5117.png",TOP USSR HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/V5LQDM4CPUCC2C/13005/index.m3u8
@@ -495,7 +495,7 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Кинохит
 #EXTGRP: кино
-http://ott.server-iptv.live/608/video.m3u8?token=S40EA67AEC
+https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
 #EXTINF:-1,Киномикс
 #EXTGRP: кино
 http://46.32.176.50/kinomiks/index.m3u8
@@ -785,7 +785,7 @@ http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/30157/index.m3u8
 http://103.163.132.53/iptv/PV75VQNMKV69RQ/30178/index.m3u8
 #EXTINF:-1,Лёва HD
 #EXTGRP: Детский
-http://ott.server-iptv.live/526/video.m3u8?token=S40EA67AEC
+http://r.faola.li/8600/video.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,Ключайка
 #EXTGRP: Детский
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
@@ -813,7 +813,7 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.
 https://fs.uplink.kz/o/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1,Детский мир
 #EXTGRP: Детский
-http://ott.server-iptv.live/510/video.m3u8?token=S40EA67AEC
+http://195.26.83.96:7007/play/14/index.m3u8
 #EXTINF:-1,Карусель
 #EXTGRP: Детский
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
