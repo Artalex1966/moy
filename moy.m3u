@@ -7,7 +7,7 @@ http://31.210.208.171:8080/avto_plus/index.m3u8?token=+W2MSER
 #EXTINF:-1,BOX AutoTrend HD
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/31654/index.m3u8
 #EXTINF:-1,VF Авто
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/15511/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/15511/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i125.fastpic.org/big/2025/0728/60/1532942eb53e81190ac801dd5f8c5c60.png",Play-X 6 Кадров
@@ -62,7 +62,7 @@ https://tinyurl.com/aleks-u-romki-40/17022/index.m3u8
 http://195.209.212.23:8081/hls/Kino_1_int/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6256.png",Кино 1
 #EXTGRP: кино
-http://77fb8f92.amazzin.pw/iptv/PV75VQNMKV69RQ/18069/index.m3u8
+http://77fb8f92.amazzin.pw/iptv/QE9BZFY7BMQXHF/18069/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6257.png",Кино 2
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/QGYQF73BAHHMSUTYBC7MLVGX/18070/index.m3u8
@@ -77,17 +77,17 @@ http://cdntv.online/high/je3pmashtz/1263.m3u8
 
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/13037/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13037/index.m3u8
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/V5LQDM4CPUCC2C/13037/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
-http://cdntv.online/high/v6rf4syijn/2300.m3u8
+http://cdntv.online/hls/3rtdzbfmw5/2300.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
-http://cdntv.online/high/je3pmashtz/2300.m3u8
+http://cdntv.online/high/57si4hxc2j/2300.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/vhs-forever_live.jpg",VHS Forever
@@ -153,13 +153,13 @@ http://103.163.132.53/iptv/V5LQDM4CPUCC2C/18073/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/13019/index.m3u
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13019/index.m3u
 #EXTINF:0,MM USSR Детектив HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13096/index.m3u
 #EXTINF:0,MM USSR Драма HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/13022/index.m3u
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13022/index.m3u
 #EXTINF:0,MM USSR 1941-1945 HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/13018/index.m3u
@@ -215,7 +215,7 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclass
 http://103.163.132.53/iptv/QE9BZFY7BMQXHF/11026/index.m3u8
 #EXTINF:-1,BOX СССР 4K
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/31625/index.m3u
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/31625/index.m3u
 #EXTINF:-1,VF Классика
 #EXTGRP: кино
 http://103.163.132.53/iptv/8ED7L5YXSGCCMS/10053/index.m3u8
@@ -224,16 +224,16 @@ http://103.163.132.53/iptv/8ED7L5YXSGCCMS/10053/index.m3u8
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/18122/index.m3u8
 #EXTINF:-1,VF Ленфильм
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/18121/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/18121/index.m3u8
 #EXTINF:-1,VF Мосфильм
 #EXTGRP: кино
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/10084/index.m3u8
 #EXTINF:-1,VF Беларусьфильм
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/18125/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/18125/index.m3u8
 #EXTINF:-1,VF Фильмы СССР
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/10085/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/10085/index.m3u8
 #EXTINF:-1,VeleS СССР
 #EXTGRP: кино
 http://ott.server-iptv.live/1600/video.m3u8?token=nSeG5DM7LE
@@ -267,7 +267,7 @@ http://89.33.29.115:8080/sssr_kino/tracks-v1a1/mono.m3u8
 https://tinyurl.com/aleks-u-romki-40/14175/index.m3u8
 #EXTINF:-1,YOSSO TV Советские фильмы 4K
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/19435/index.m3u
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/19435/index.m3u
 #EXTINF:-1,TVPlay Советское Кино HD
 #EXTGRP: кино
 http://s.only4.tv/9375/index.m3u8?token=nSeG5DM7LE
@@ -300,28 +300,28 @@ https://tinyurl.com/aleks-u-romki-40/13036/index.m3u8
 https://cdn.kinolar.workers.dev/box_cyber_hd/mono.m3u8?key=halvatv
 #EXTINF:-1,VF Fantastic
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/13034/11121/manifest.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13034/11121/manifest.m3u8
 #EXTINF:-1,BCU Catastrophe HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/11028/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/11028/index.m3u8
 #EXTINF:-1,MM Катастрофа
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/13034/manifest.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13034/manifest.m3u8
 #EXTINF:-1,VF Катастрофы
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-40/10080/index.m3u8
 #EXTINF:-1,BCU Cosmo HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/17021/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/17021/index.m3u8
 #EXTINF:-1,Fresh Fantastic
 #EXTGRP: кино
 http://stream.mcquack.net/429/index.m3u8
 #EXTINF:-1,MM UFO
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/13017/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13017/index.m3u8
 #EXTINF:-1,BCU Fantastic HDR
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/11032/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/11032/index.m3u8
 #EXTINF:-1,Cineman Катастрофы
 #EXTGRP: кино
 http://stream.mcquack.net/471/index.m3u8
@@ -333,7 +333,7 @@ http://103.163.132.53/iptv/DXFYN7NXUXP8Q93Z9GHF9GUP/13009/index.m3u8
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/13027/index.m3u8
 #EXTINF:-1,MM Боевик
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/13028/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13028/index.m3u8
 
 #EXTINF:-1,Fresh Comedy
 #EXTGRP: кино
@@ -343,13 +343,13 @@ http://stream.mcquack.net/426/index.m3u8
 http://kinowalk.hopto.org/cmexye4ku_live
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/13037/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13037/index.m3u8
 #EXTINF:-1,MM Комедия HD
 #EXTGRP: кино
 http://7ebf9762.ucomist.net/iptv/QGYQF73BAHHMSUTYBC7MLVGX/13038/index.m3u8
 #EXTINF:-1,VF Комедия
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/10055/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/10055/index.m3u8
 #EXTINF:-1,BCU Comedy HD
 #EXTGRP: кино
 https://cdn.kinolar.workers.dev/BCUComedyHD/mono.m3u8?key=halvatv
@@ -379,7 +379,7 @@ http://cdntv.online/high/v6rf4syijn/2220.mpeg
 https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5MjE5MTc4MCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzkxNTg2OTgwLCJzZXNzaW9uX2lkIjoiMGI3ZTlkNGJmZGVhYzM3Y2ZlY2RhMmNjN2Y5YzUzMjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.W0Or1b5S8SKNIzrU-FCZE0pSeNP5R_DcJmz6wOpZW88
 #EXTINF:-1,MM Сваты HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/13051/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13051/index.m3u8
 #EXTINF:-1,LIBERTY Сваты
 #EXTGRP: кино
 http://cdntv.online/low/v6rf4syijn/2013.mpeg
@@ -397,7 +397,7 @@ http://103.163.132.53/iptv/V5LQDM4CPUCC2C/11014/index.m3u8
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/13080/index.m3u8
 #EXTINF:-1,VF Сваты
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/13080/manifest.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13080/manifest.m3u8
 #EXTINF:-1,Кинозал! Сваты
 #EXTGRP: кино
 http://103.163.132.53/iptv/8ED7L5YXSGCCMS/11062/index.m3u
@@ -409,10 +409,10 @@ http://103.163.132.53/iptv/8ED7L5YXSGCCMS/11062/index.m3u
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/17015/index.m3u8
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/9233.png",VF Каламбур
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/31557/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/31557/index.m3u8
 #EXTINF:-1,VF Уральские пельмени
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/18198/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/18198/index.m3u8
 #EXTINF:-1,Кинопоказ HD
 #EXTGRP: кино
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinopokaz_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5MjE5MTc4MCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzkxNTg2OTgwLCJzZXNzaW9uX2lkIjoiMGI3ZTlkNGJmZGVhYzM3Y2ZlY2RhMmNjN2Y5YzUzMjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.W0Or1b5S8SKNIzrU-FCZE0pSeNP5R_DcJmz6wOpZW88
@@ -454,13 +454,13 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/p
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/13024/index.m3u
 #EXTINF:-1,MM Агата Кристи HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/13024/index.m3u
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13024/index.m3u
 #EXTINF:-1,ЗАГОДОЧНЫЕ УБИЙСТВА АГАТЫ КРИСТИ
 #EXTGRP: кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id929_MSKSG-PVR-1--Kinozal_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5MjE5MTc4MCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzkxNTg2OTgwLCJzZXNzaW9uX2lkIjoiMGI3ZTlkNGJmZGVhYzM3Y2ZlY2RhMmNjN2Y5YzUzMjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.W0Or1b5S8SKNIzrU-FCZE0pSeNP5R_DcJmz6wOpZW88
 #EXTINF:-1,КОЛОМБО
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/31713/index.m3u
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/31713/index.m3u
 #EXTINF:-1,Cinema
 #EXTGRP: кино
 https://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5MjE5MTc4MCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzkxNTg2OTgwLCJzZXNzaW9uX2lkIjoiMGI3ZTlkNGJmZGVhYzM3Y2ZlY2RhMmNjN2Y5YzUzMjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.W0Or1b5S8SKNIzrU-FCZE0pSeNP5R_DcJmz6wOpZW88
@@ -503,7 +503,7 @@ http://46.32.176.50/kinomiks/index.m3u8
 https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1,VF Клиника
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/13094/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13094/index.m3u8
 
 
 #EXTINF:-1,МАЖОР
@@ -541,10 +541,10 @@ https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1,CineMan Скорая помощь
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/15100/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/15100/index.m3u8
 #EXTINF:-1,VF Клиника
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/13094/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13094/index.m3u8
 
 #EXTINF:-1,VF Игра престолов
 #EXTGRP: кино
@@ -555,10 +555,10 @@ https://tinyurl.com/aleks-u-romki-40/18119/index.m3u8
 
 #EXTINF:-1,VF Доктор Хаус
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/17016/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/17016/index.m3u8
 #EXTINF:-1,The X-Files
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/11055/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/11055/index.m3u8
 #EXTINF:-1,The X-Files
 #EXTGRP: кино
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/11055/index.m3u
@@ -567,7 +567,7 @@ http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/11055/index.m3u
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/11060/index.m3u
 #EXTINF:-1,Интерны
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/11060/index.m3u
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/11060/index.m3u
 
 #EXTINF:-1,TVPlay Моя Прекрасная Няня
 #EXTGRP: кино
@@ -589,7 +589,7 @@ http://7036420a.edmonst.net/iptv/QGYQF73BAHHMSUTYBC7MLVGX/17006/index.m3u8
 https://tinyurl.com/aleks-u-romki-47/17006/index.m3u8
 #EXTINF:-1,VF Друзья
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/17006/index.m3u
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/17006/index.m3u
 
 
 #EXTINF:-1,CineMan Комедийные Сериалы
@@ -597,12 +597,12 @@ http://103.163.132.53/iptv/PV75VQNMKV69RQ/17006/index.m3u
 http://103.163.132.53/iptv/8ED7L5YXSGCCMS/31628/index.m3u8
 #EXTINF:-1,CineMan Комедийные Сериалы
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/31628/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/31628/index.m3u8
 
 
 #EXTINF:-1,VF Гарри Поттер
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/14230/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/14230/index.m3u8
 #EXTINF:-1,VF Гарри Поттер
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/QGYQF73BAHHMSUTYBC7MLVGX/14230/index.m3u8
@@ -611,29 +611,29 @@ http://7036420a.edmonst.net/iptv/QGYQF73BAHHMSUTYBC7MLVGX/14230/index.m3u8
 https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=N6pIx7Fi--1aRyMicxiNYA&e=2087898209&scheme=https
 #EXTINF:-1,VF Реальные пацаны
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/17015/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/17015/index.m3u8
 #EXTINF:-1,VF Реальные пацаны
 #EXTGRP: кино
 http://7ebf9762.ucomist.net/iptv/QGYQF73BAHHMSUTYBC7MLVGX/17015/index.m3u8
 #EXTINF:-1,VF Универ новая общага
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/17013/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/17013/index.m3u8
 #EXTINF:-1,VF Универ новая общага
 #EXTGRP: кино
-http://nkhwvlfz.ottclub.xyz/iptv/PV75VQNMKV69RQ/17013/index.m3u8
+http://nkhwvlfz.ottclub.xyz/iptv/QE9BZFY7BMQXHF/17013/index.m3u8
 #EXTINF:-1,VF Тайны следствия
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/QGYQF73BAHHMSUTYBC7MLVGX/13082/index.m3u8
 #EXTINF:-1,VF Тайны следствия
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/13082/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13082/index.m3u8
 #EXTINF:-1,VF Тайны следствия
 #EXTGRP: кино
 http://103.163.132.53/iptv/4N9GESHLXBUSDA/13082/index.m3u8
 
 #EXTINF:-1,VF Воронены
 #EXTGRP: кино
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/13083/index.m3u
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13083/index.m3u
 #EXTINF:-1,Galaxy
 #EXTGRP: Познавательное
 http://192.162.64.99:5200/play/a035/index.m3u8
@@ -685,10 +685,10 @@ http://158.101.222.193:88/georgia_play.php?id=auto24
 http://stream.mcquack.net/186/index.m3u8
 #EXTINF:-1,BOX AutoTrend HD
 #EXTGRP: Познавательное
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/31654/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/31654/index.m3u8
 #EXTINF:-1,VF Авто
 #EXTGRP: Познавательное
-http://nkhwvlfz.ottclub.xyz/iptv/PV75VQNMKV69RQ/15511/index.m3u8
+http://nkhwvlfz.ottclub.xyz/iptv/QE9BZFY7BMQXHF/15511/index.m3u8
 #EXTINF:-1,НТВ Хит
 #EXTGRP: эфир
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
@@ -746,7 +746,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=V_gostyakh_u
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/utinue.png",Утиные истории
 #EXTGRP: Детский
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/30156/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/30156/index.m3u8
 #EXTINF:-1,Том и Джерри
 #EXTGRP: Детский
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
@@ -766,13 +766,13 @@ http://cdntv.online/high/v6rf4syijn/897.m3u8
 https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=o3CrbphtgNLu6Wqwfp9jOg&e=2088683165&scheme=https
 #EXTINF:-1,Щенячий патруль
 #EXTGRP: Детский
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/30167/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/30167/index.m3u8
 #EXTINF:-1,Чудеса на виражах
 #EXTGRP: Детский
 http://103.163.132.53/iptv/8ED7L5YXSGCCMS/30192/index.m3u8
 #EXTINF:-1,Тимон и Пумба
 #EXTGRP: Детский
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/30164/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/30164/index.m3u8
 #EXTINF:-1,Малыш
 #EXTGRP: Детский
 https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
@@ -781,7 +781,7 @@ https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/30157/index.m3u8
 #EXTINF:-1,Мини-мишки
 #EXTGRP: Детский
-http://103.163.132.53/iptv/PV75VQNMKV69RQ/30178/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/30178/index.m3u8
 #EXTINF:-1,Лёва HD
 #EXTGRP: Детский
 http://r.faola.li/8600/video.m3u8?token=nSeG5DM7LE
@@ -895,7 +895,7 @@ http://dff13dfa.ottrast.com/iptv/QGYQF73BAHHMSUTYBC7MLVGX/18092/index.m3u8
 
 #EXTINF:-1,VeleS Магнитофон
 #EXTGRP: Музыка
-http://nkhwvlfz.ottclub.xyz/iptv/PV75VQNMKV69RQ/31645/index.m3u8
+http://nkhwvlfz.ottclub.xyz/iptv/QE9BZFY7BMQXHF/31645/index.m3u8
 #EXTINF:-1,Gameplay
 #EXTGRP: игры
 https://rpn3.bozztv.com/dvrfl07/ushba31/tracks-v1a1/mono.m3u8
@@ -904,15 +904,15 @@ https://rpn3.bozztv.com/dvrfl07/ushba31/tracks-v1a1/mono.m3u8
 https://rpn3.bozztv.com/dvrfl07/ushba44/index.m3u8
 #EXTINF:-1,BOX Game HD
 #EXTGRP: игры
-http://nkhwvlfz.ottclub.xyz/iptv/PV75VQNMKV69RQ/19284/index.m3u8
+http://nkhwvlfz.ottclub.xyz/iptv/QE9BZFY7BMQXHF/19284/index.m3u8
 #EXTINF:-1,Камин
 #EXTGRP: 999
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
 #EXTINF:-1,MM Experiment HD
-http://nkhwvlfz.ottclub.xyz/iptv/PV75VQNMKV69RQ/19412/index.m3u8
+http://nkhwvlfz.ottclub.xyz/iptv/QE9BZFY7BMQXHF/19412/index.m3u8
 #EXTINF:-1,MM Открытия HD
-http://nkhwvlfz.ottclub.xyz/iptv/PV75VQNMKV69RQ/19415/index.m3u8
+http://nkhwvlfz.ottclub.xyz/iptv/QE9BZFY7BMQXHF/19415/index.m3u8
 #EXTINF:-1, Play-x Тайны Чапман HD
 http://cdntv.online/low/v6rf4syijn/2215.mpeg
 
