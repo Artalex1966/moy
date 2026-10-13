@@ -81,6 +81,9 @@ http://cdntv.online/high/3rtdzbfmw5/1263.m3u8
 #EXTINF:-1,BCU VHS HD
 #EXTGRP: кино
 http://ch01.plinkspile.cc/20822/index.m3u8?token=XnuYQbT9Ly8nDX
+#EXTINF:-1,Fresh VHS
+#EXTGRP: кино
+http://stream.mcquack.net/428/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
