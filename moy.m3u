@@ -77,7 +77,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u
 
 #EXTINF:-1,CineMan VHS
 #EXTGRP: кино
-http://cdntv.online/high/je3pmashtz/1263.m3u8
+http://cdntv.online/high/3rtdzbfmw5/1263.m3u8
 #EXTINF:-1,BCU VHS HD
 #EXTGRP: кино
 http://ch01.plinkspile.cc/20822/index.m3u8?token=3xtKN7CTC8bRns
@@ -145,7 +145,7 @@ http://kinowalk.hopto.org/cmexye4ku_live
 
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
-http://cdntv.online/high/je3pmashtz/1256.m3u8
+http://cdntv.online/high/3rtdzbfmw5/1256.m3u8
 #EXTINF:-1,CineMan Top
 #EXTGRP: кино
 http://r.faola.li/6839/index.m3u8?token=nSeG5DM7LE
@@ -249,10 +249,10 @@ http://ch01.plinkspile.cc/21020/index.m3u8?token=3xtKN7CTC8bRns
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-sssr-fhd.png",CineMan CCCP
 #EXTGRP: кино
-http://cdntv.online/high/je3pmashtz/2214.m3u8
+http://cdntv.online/high/3rtdzbfmw5/2214.m3u8
 #EXTINF:-1, CineMan CCCP 4K
 #EXTGRP: кино
-http://cdntv.online/high/je3pmashtz/1682.m3u8
+http://cdntv.online/high/3rtdzbfmw5/1682.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5117.png",TOP USSR HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/V5LQDM4CPUCC2C/13005/index.m3u8
