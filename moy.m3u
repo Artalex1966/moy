@@ -67,9 +67,7 @@ http://77fb8f92.amazzin.pw/iptv/QE9BZFY7BMQXHF/18069/index.m3u8
 #EXTGRP: кино
 http://7036420a.edmonst.net/iptv/QGYQF73BAHHMSUTYBC7MLVGX/18070/index.m3u8
 
-#EXTINF:-1,312 Кино
-#EXTGRP: кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
+
 #EXTINF:-1,Cinema
 #EXTGRP: кино
 https://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5MjE5MTc4MCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzkxNTg2OTgwLCJzZXNzaW9uX2lkIjoiMGI3ZTlkNGJmZGVhYzM3Y2ZlY2RhMmNjN2Y5YzUzMjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.W0Or1b5S8SKNIzrU-FCZE0pSeNP5R_DcJmz6wOpZW88
@@ -921,19 +919,13 @@ http://nkhwvlfz.ottclub.xyz/iptv/QE9BZFY7BMQXHF/19412/index.m3u8
 #EXTINF:-1,MM Открытия HD
 http://nkhwvlfz.ottclub.xyz/iptv/QE9BZFY7BMQXHF/19415/index.m3u8
 #EXTINF:-1, Play-x Тайны Чапман HD
-http://cdntv.online/low/h3pz69ctr7m5/2215.mpeg
+http://cdntv.online/low/57si4hxc2j/2215.mpeg
 
 
-#EXTINF:-1,Госфильмофонд. Машина времени HD
-#EXTGRP: кино
-http://185.221.213.254/live/stream113.php?seg=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd80OsapFPaD3ZXfEOTb3uPpvyb8sixf4awuyemMIO0gs_2nhxrW355e6y6DPwhHXRs
-#EXTINF:-1,ГОСТЕЛЕРАДИОФОНД
-#EXTGRP: кино
-https://glb.bozztv.com/glb/ushba68/index.m3u8
 
-#EXTINF:-1,Мосфильм. Золотая коллекция (+1)
+#EXTINF:-1,Мосфильм. Золотая коллекция
 #EXTGRP: кино
-http://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://31.210.208.171:8080/mosfilm/index.m3u8?token=+W2MSER
 #EXTINF:-1,TVPlay Как это Было
 #EXTGRP: кино
 http://r.faola.li/11180/index.m3u8?token=nSeG5DM7LE
