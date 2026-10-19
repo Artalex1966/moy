@@ -814,7 +814,7 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5Mjc5NTkzMywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzkyMTkxMTMzLCJzZXNzaW9uX2lkIjoiYWZmMzliZjY4MzRmNjJkZjg3NjdiMWQ1MjVmZGRiYTMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.s0bK9uleiwAw3KZivLNr2rPIo_ESuvtOMka9oeD65ro
 #EXTINF:-1,O!
 #EXTGRP: Детский
-https://fs.uplink.kz/o/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://stream.mcquack.net/60/index.m3u8
 #EXTINF:-1,Детский мир
 #EXTGRP: Детский
 http://195.26.83.96:7007/play/14/index.m3u8
