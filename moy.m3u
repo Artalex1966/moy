@@ -8,9 +8,9 @@ http://31.210.208.171:8080/avto_plus/index.m3u8?token=+W2MSER
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/31654/index.m3u8
 #EXTINF:-1,VF Авто
 http://103.163.132.53/iptv/QE9BZFY7BMQXHF/15511/index.m3u8
-#EXTINF:-1,MiniMax Experiment HD
+#EXTINF:-1,MM Experiment HD
 http://nl01.plinkspile.cc/20783/index.m3u8?token=XnuYQbT9Ly8nDX
-#EXTINF:-1,MiniMax Открытия HD
+#EXTINF:-1,MM Открытия HD
 http://nl01.plinkspile.cc/20785/index.m3u8?token=XnuYQbT9Ly8nDX
 #EXTINF:-1,LIBERTY НАУКА FHD
 http://nl01.plinkspile.cc/8041/index.m3u8?token=XnuYQbT9Ly8nDX
@@ -181,6 +181,10 @@ http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13021/index.m3u
 #EXTINF:0,MM USSR Мультфильм HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/SVAYUTY5LNAF4S/13020/index.m3u
+
+#EXTINF:0,Легенда HD
+#EXTGRP: кино
+http://ro01.plink-pile.ch/150/index.m3u8?token=F3DwiU327mxxCr
 
 #EXTINF:-1,IPTVPLAY МультСказки HD
 #EXTGRP: Детский
