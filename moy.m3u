@@ -83,21 +83,21 @@ http://cdntv.online/high/3rtdzbfmw5/1263.m3u8
 http://nl01.plinkspile.cc/20822/index.m3u8?token=XnuYQbT9Ly8nDX
 #EXTINF:-1,VeleS Киноплёнка
 #EXTGRP: кино
-http://ro01.plink-pile.ch/21014/index.m3u8?token=F3DwiU327mxxCr
+http://ro01.plink-pile.ch/21014/index.m3u8?token=XnuYQbT9Ly8nDX
 
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13037/index.m3u8
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/V5LQDM4CPUCC2C/13037/index.m3u8
+http://103.163.132.53/iptv/4N4BPXK9GTU8SE/13037/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
 http://cdntv.online/hls/3rtdzbfmw5/2300.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
-http://cdntv.online/high/57si4hxc2j/2300.m3u8
+http://cdntv.online/high/9bpaycj4dk/2300.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/vhs-forever_live.jpg",VHS Forever
@@ -161,7 +161,7 @@ http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:-1  group-title="Детские"  tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детское кино HD
 http://103.163.132.53/iptv/NPX7LN94ZXW9TN/18073/index.m3u8
 #EXTINF:-1  group-title="Детские"  tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детское кино HD
-http://103.163.132.53/iptv/V5LQDM4CPUCC2C/18073/index.m3u8
+http://103.163.132.53/iptv/4N4BPXK9GTU8SE/18073/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP: кино
@@ -188,7 +188,7 @@ http://ch01.plinkspile.cc/20849/index.m3u8?token=XnuYQbT9Ly8nDX
 
 #EXTINF:0,Легенда HD
 #EXTGRP: кино
-http://ro01.plink-pile.ch/150/index.m3u8?token=F3DwiU327mxxCr
+http://ro01.plink-pile.ch/150/index.m3u8?token=XnuYQbT9Ly8nDX
 
 #EXTINF:-1,IPTVPLAY МультСказки HD
 #EXTGRP: Детский
@@ -263,13 +263,13 @@ http://cdntv.online/high/3rtdzbfmw5/2214.m3u8
 http://cdntv.online/high/3rtdzbfmw5/1682.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5117.png",TOP USSR HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/V5LQDM4CPUCC2C/13005/index.m3u8
+http://103.163.132.53/iptv/4N4BPXK9GTU8SE/13005/index.m3u8
 #EXTINF:-1,USSR HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/8ED7L5YXSGCCMS/11102/index.m3u8
 #EXTINF:-1,Fresh Soviet
 #EXTGRP: кино
-http://103.163.132.53/iptv/V5LQDM4CPUCC2C/19301/index.m3u8
+http://103.163.132.53/iptv/4N4BPXK9GTU8SE/19301/index.m3u8
 #EXTINF:-1,KLI СССР HD
 #EXTGRP: кино
 http://s.only4.tv/8040/index.m3u8?token=nSeG5DM7LE
@@ -402,13 +402,13 @@ http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13051/index.m3u8
 http://cdntv.online/low/v6rf4syijn/2013.mpeg
 #EXTINF:-1,BCU Сваты HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/V5LQDM4CPUCC2C/11047/index.m3u8
+http://103.163.132.53/iptv/4N4BPXK9GTU8SE/11047/index.m3u8
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4696.png",StrahTV Сваты
 #EXTGRP: кино
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/11062/index.m3u8
 #EXTINF:-1,CineMan Сваты
 #EXTGRP: кино
-http://103.163.132.53/iptv/V5LQDM4CPUCC2C/11014/index.m3u8
+http://103.163.132.53/iptv/4N4BPXK9GTU8SE/11014/index.m3u8
 #EXTINF:-1 ,VF Сваты
 #EXTGRP: кино
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/13080/index.m3u8
@@ -773,7 +773,7 @@ https://lbgo.bozztv.com/07/ushba79/tracks-v1a1/mono.m3u8
 http://cdntv.online/high/h3pz69ctr7m5/897.mpeg
 #EXTINF:-1,Маша и Медведь
 #EXTGRP: Детский
-http://cdntv.online/high/57si4hxc2j/897.m3u8
+http://cdntv.online/high/9bpaycj4dk/897.m3u8
 
 
 #EXTINF:-1,МУЛЬТИМЕЙШН
@@ -929,7 +929,7 @@ http://nkhwvlfz.ottclub.xyz/iptv/QE9BZFY7BMQXHF/19412/index.m3u8
 #EXTINF:-1,MM Открытия HD
 http://nkhwvlfz.ottclub.xyz/iptv/QE9BZFY7BMQXHF/19415/index.m3u8
 #EXTINF:-1, Play-x Тайны Чапман HD
-http://cdntv.online/low/57si4hxc2j/2215.mpeg
+http://cdntv.online/low/9bpaycj4dk/2215.mpeg
 
 
 
