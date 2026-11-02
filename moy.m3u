@@ -94,10 +94,10 @@ http://103.163.132.53/iptv/4N4BPXK9GTU8SE/13037/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
-http://cdntv.online/hls/3rtdzbfmw5/2300.m3u8
+http://r.faola.li/11466/index.m3u8?token=nSeG5DM7LE
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP: кино
-http://cdntv.online/high/9bpaycj4dk/2300.m3u8
+http://cdntv.online/hls/3b4sxj5auv/2300.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/vhs-forever_live.jpg",VHS Forever
@@ -203,7 +203,15 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1,Venera.TV Советская классика 4K
 #EXTGRP: кино
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/30151/index.m3u
-
+#EXTINF:-1,Clarity4K Комедия СССР 1
+#EXTGRP: кино
+http://ch01.plinkspile.cc/20947/index.m3u8?token=XnuYQbT9Ly8nDX
+#EXTINF:-1,Clarity4K Комедия СССР 2
+#EXTGRP: кино
+http://ch01.plinkspile.cc/20948/index.m3u8?token=XnuYQbT9Ly8nDX
+#EXTINF:-1,Clarity4K Kинодети СССР
+#EXTGRP: кино
+http://ch01.plinkspile.cc/20933/index.m3u8?token=XnuYQbT9Ly8nDX
 
 #EXTINF:-1,СОВЕТСКИЕ ФИЛЬМЫ
 #EXTGRP: кино
@@ -247,10 +255,10 @@ http://103.163.132.53/iptv/QE9BZFY7BMQXHF/18121/index.m3u8
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/10084/index.m3u8
 #EXTINF:-1,VF Беларусьфильм
 #EXTGRP: кино
-http://103.163.132.53/iptv/EBBDX25MF7G6MC/18125/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/18125/index.m3u8
 #EXTINF:-1,VF Фильмы СССР
 #EXTGRP: кино
-http://103.163.132.53/iptv/QE9BZFY7BMQXHF/10085/index.m3u8
+http://103.163.132.53/iptv/8ED7L5YXSGCCMS/10085/index.m3u8
 #EXTINF:-1,VeleS СССР
 #EXTGRP: кино
 http://ch01.plinkspile.cc/21020/index.m3u8?token=XnuYQbT9Ly8nDX
@@ -270,24 +278,16 @@ http://103.163.132.53/iptv/8ED7L5YXSGCCMS/11102/index.m3u8
 #EXTINF:-1,Fresh Soviet
 #EXTGRP: кино
 http://103.163.132.53/iptv/4N4BPXK9GTU8SE/19301/index.m3u8
-#EXTINF:-1,KLI СССР HD
-#EXTGRP: кино
-http://s.only4.tv/8040/index.m3u8?token=nSeG5DM7LE
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4695.png",StrahTV СССР
 #EXTGRP: кино
 http://103.163.132.53/iptv/8ED7L5YXSGCCMS/11061/index.m3u8
-#EXTINF:-1,Кинозал! СССР
-#EXTGRP: кино
-http://s.only4.tv/6824/index.m3u8?token=nSeG5DM7LE
+
 #EXTINF:-1,YOSSO TV Советские фильмы
 #EXTGRP: кино
 https://tinyurl.com/aleks-u-romki-40/14175/index.m3u8
 #EXTINF:-1,YOSSO TV Советские фильмы 4K
 #EXTGRP: кино
 http://103.163.132.53/iptv/QE9BZFY7BMQXHF/19435/index.m3u
-#EXTINF:-1,TVPlay Советское Кино HD
-#EXTGRP: кино
-http://s.only4.tv/9375/index.m3u8?token=nSeG5DM7LE
 
 
 #EXTINF:-1,Любимое HD
