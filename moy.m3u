@@ -203,15 +203,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1,Venera.TV Советская классика 4K
 #EXTGRP: кино
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/30151/index.m3u
-#EXTINF:-1,Clarity4K Комедия СССР 1
-#EXTGRP: кино
-http://ch01.plinkspile.cc/20947/index.m3u8?token=XnuYQbT9Ly8nDX
-#EXTINF:-1,Clarity4K Комедия СССР 2
-#EXTGRP: кино
-http://ch01.plinkspile.cc/20948/index.m3u8?token=XnuYQbT9Ly8nDX
-#EXTINF:-1,Clarity4K Kинодети СССР
-#EXTGRP: кино
-http://ch01.plinkspile.cc/20933/index.m3u8?token=XnuYQbT9Ly8nDX
+
 
 #EXTINF:-1,СОВЕТСКИЕ ФИЛЬМЫ
 #EXTGRP: кино
