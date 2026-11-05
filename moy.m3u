@@ -100,7 +100,7 @@ http://ro01.plink-pile.ch/21014/index.m3u8?token=XnuYQbT9Ly8nDX
 http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13037/index.m3u8
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP:кино
-http://103.163.132.53/iptv/4N4BPXK9GTU8SE/13037/index.m3u8
+http://103.163.132.53/iptv/RKD6597RYVF5L6/13037/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP:кино
@@ -171,7 +171,7 @@ http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:-1  group-title="кино"  tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детскоекино HD
 http://103.163.132.53/iptv/NPX7LN94ZXW9TN/18073/index.m3u8
 #EXTINF:-1  group-title="кино"  tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детскоекино HD
-http://103.163.132.53/iptv/4N4BPXK9GTU8SE/18073/index.m3u8
+http://103.163.132.53/iptv/RKD6597RYVF5L6/18073/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP:кино
@@ -273,13 +273,13 @@ http://cdntv.online/high/3rtdzbfmw5/2214.m3u8
 http://cdntv.online/high/3rtdzbfmw5/1682.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5117.png",TOP USSR HD
 #EXTGRP:кино
-http://103.163.132.53/iptv/4N4BPXK9GTU8SE/13005/index.m3u8
+http://103.163.132.53/iptv/RKD6597RYVF5L6/13005/index.m3u8
 #EXTINF:-1,USSR HD
 #EXTGRP:кино
 http://103.163.132.53/iptv/8ED7L5YXSGCCMS/11102/index.m3u8
 #EXTINF:-1,Fresh Soviet
 #EXTGRP:кино
-http://103.163.132.53/iptv/4N4BPXK9GTU8SE/19301/index.m3u8
+http://103.163.132.53/iptv/RKD6597RYVF5L6/19301/index.m3u8
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4695.png",StrahTV СССР
 #EXTGRP:кино
 http://103.163.132.53/iptv/8ED7L5YXSGCCMS/11061/index.m3u8
@@ -404,13 +404,13 @@ http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13051/index.m3u8
 http://cdntv.online/low/v6rf4syijn/2013.mpeg
 #EXTINF:-1,BCU Сваты HD
 #EXTGRP:кино
-http://103.163.132.53/iptv/4N4BPXK9GTU8SE/11047/index.m3u8
+http://103.163.132.53/iptv/RKD6597RYVF5L6/11047/index.m3u8
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4696.png",StrahTV Сваты
 #EXTGRP:кино
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/11062/index.m3u8
 #EXTINF:-1,CineMan Сваты
 #EXTGRP:кино
-http://103.163.132.53/iptv/4N4BPXK9GTU8SE/11014/index.m3u8
+http://103.163.132.53/iptv/RKD6597RYVF5L6/11014/index.m3u8
 #EXTINF:-1 ,VF Сваты
 #EXTGRP:кино
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/13080/index.m3u8
