@@ -97,10 +97,10 @@ http://ro01.plink-pile.ch/21014/index.m3u8?token=XnuYQbT9Ly8nDX
 
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP:кино
-http://103.163.132.53/iptv/8ED7L5YXSGCCMS/13037/index.m3u8
+http://cdn.balelbrus.com/bigteisti13/minimax_comedy_classic/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP:кино
-http://103.163.132.53/iptv/RKD6597RYVF5L6/13037/index.m3u8
+http://103.163.132.53/iptv/QL63XCPSAXD83XW54XEES2PB/13037/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP:кино
@@ -108,6 +108,10 @@ http://r.faola.li/11466/index.m3u8?token=nSeG5DM7LE
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP:кино
 http://cdntv.online/hls/3b4sxj5auv/2300.m3u8
+
+#EXTINF:-1,MM Classic HD
+#EXTGRP:кино
+http://cdn.balelbrus.com/bigteisti13/minimax_classic/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/vhs-forever_live.jpg",VHS Forever
