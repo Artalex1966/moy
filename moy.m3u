@@ -97,21 +97,17 @@ http://ro01.plink-pile.ch/21014/index.m3u8?token=XnuYQbT9Ly8nDX
 
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP:кино
-http://cdn.balelbrus.com/bigteisti13/minimax_comedy_classic/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+http://live.uspeh-bil.ru/8789/video.m3u8?token=p38CeA56C8wzWCm3
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP:кино
-http://103.163.132.53/iptv/KSKRCX75EL4VFTSHWYUKQUGB/13037/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13037/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP:кино
-http://cdntv.online/high/9bpaycj4dk/2300.m3u8
+http://live.uspeh-bil.ru/9498/video.m3u8?token=p38CeA56C8wzWCm3
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP:кино
 http://cdntv.online/hls/3b4sxj5auv/2300.m3u8
-
-#EXTINF:-1,MM Classic HD
-#EXTGRP:кино
-http://cdn.balelbrus.com/bigteisti13/minimax_classic/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/vhs-forever_live.jpg",VHS Forever
@@ -173,9 +169,9 @@ http://r.faola.li/6839/index.m3u8?token=nSeG5DM7LE
 #EXTGRP:кино
 http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:-1  group-title="кино"  tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детскоекино HD
-http://103.163.132.53/iptv/NPX7LN94ZXW9TN/18073/index.m3u8
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/18073/index.m3u8
 #EXTINF:-1  group-title="кино"  tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детскоекино HD
-http://103.163.132.53/iptv/RKD6597RYVF5L6/18073/index.m3u8
+http://103.163.132.53/iptv/WCCXLCW7ZS8NZH/18073/index.m3u8
 
 #EXTINF:0,MM USSR Комедия HD
 #EXTGRP:кино
@@ -200,13 +196,9 @@ http://ch01.plinkspile.cc/20750/index.m3u8?token=XnuYQbT9Ly8nDX
 http://ch01.plinkspile.cc/20849/index.m3u8?token=XnuYQbT9Ly8nDX
 
 
-#EXTINF:0,Легенда HD
-#EXTGRP:кино
-http://ro01.plink-pile.ch/150/index.m3u8?token=XnuYQbT9Ly8nDX
-
 #EXTINF:-1,IPTVPLAY МультСказки HD
 #EXTGRP: Детский
-http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+http://r.faola.li/10852/video.m3u8?token=nSeG5DM7LE
 #EXTINF:-1,СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
 #EXTGRP: Детский
 https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDYwOTAwMCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MDA0MjAwLCJzZXNzaW9uX2lkIjoiNjZiYzU5NGQ1MDViODg0ZDY3Yzc2YjU1NzAzMDliMjgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.n6QwnwxyDE3wxRjXZOEnK8-9ZUWArjchZX4Y75vbJXI
@@ -241,9 +233,6 @@ https://stream-msk-18.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/03/plst
 #EXTGRP:кино
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDYwOTAwMCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MDA0MjAwLCJzZXNzaW9uX2lkIjoiNjZiYzU5NGQ1MDViODg0ZDY3Yzc2YjU1NzAzMDliMjgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.n6QwnwxyDE3wxRjXZOEnK8-9ZUWArjchZX4Y75vbJXI
 
-#EXTINF:-1,BCU СССР HD
-#EXTGRP:кино
-http://103.163.132.53/iptv/QE9BZFY7BMQXHF/11026/index.m3u8
 #EXTINF:-1,BOX СССР 4K
 #EXTGRP:кино
 http://103.163.132.53/iptv/R3A7B6MZZFDCUL/31625/index.m3u
@@ -277,13 +266,13 @@ http://cdntv.online/high/3rtdzbfmw5/2214.m3u8
 http://cdntv.online/high/3rtdzbfmw5/1682.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5117.png",TOP USSR HD
 #EXTGRP:кино
-http://103.163.132.53/iptv/RKD6597RYVF5L6/13005/index.m3u8
+http://103.163.132.53/iptv/WCCXLCW7ZS8NZH/13005/index.m3u8
 #EXTINF:-1,USSR HD
 #EXTGRP:кино
 http://103.163.132.53/iptv/WCCXLCW7ZS8NZH/11102/index.m3u8
 #EXTINF:-1,Fresh Soviet
 #EXTGRP:кино
-http://103.163.132.53/iptv/RKD6597RYVF5L6/19301/index.m3u8
+http://103.163.132.53/iptv/WCCXLCW7ZS8NZH/19301/index.m3u8
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4695.png",StrahTV СССР
 #EXTGRP:кино
 http://103.163.132.53/iptv/WCCXLCW7ZS8NZH/11061/index.m3u8
@@ -408,13 +397,13 @@ http://103.163.132.53/iptv/QE9BZFY7BMQXHF/13051/index.m3u8
 http://cdntv.online/low/v6rf4syijn/2013.mpeg
 #EXTINF:-1,BCU Сваты HD
 #EXTGRP:кино
-http://103.163.132.53/iptv/RKD6597RYVF5L6/11047/index.m3u8
+http://103.163.132.53/iptv/WCCXLCW7ZS8NZH/11047/index.m3u8
 #EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4696.png",StrahTV Сваты
 #EXTGRP:кино
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/11062/index.m3u8
 #EXTINF:-1,CineMan Сваты
 #EXTGRP:кино
-http://103.163.132.53/iptv/RKD6597RYVF5L6/11014/index.m3u8
+http://103.163.132.53/iptv/WCCXLCW7ZS8NZH/11014/index.m3u8
 #EXTINF:-1 ,VF Сваты
 #EXTGRP:кино
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/13080/index.m3u8
