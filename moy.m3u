@@ -766,7 +766,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 
 #EXTINF:-1,В гостях у сказки
 #EXTGRP: Детский
-https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv2
+http://185.46.16.239:8000/V_gostyakh_u_skazki
 #EXTINF:-1,Чип и Дейл
 #EXTGRP: Детский
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
@@ -776,9 +776,12 @@ http://103.163.132.53/iptv/QE9BZFY7BMQXHF/30156/index.m3u8
 #EXTINF:-1,Том и Джерри
 #EXTGRP: Детский
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1,Маша и Медведь (Eng)
+#EXTGRP: Детский
+https://rpn3.bozztv.com/dvrfl07/ushba78/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Маша и Медведь
 #EXTGRP: Детский
-https://lbgo.bozztv.com/07/ushba79/tracks-v1a1/mono.m3u8
+https://rpn3.bozztv.com/dvrfl07/ushba79/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Маша и Медведь
 #EXTGRP: Детский
 http://cdntv.online/high/h3pz69ctr7m5/897.mpeg
