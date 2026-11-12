@@ -112,6 +112,18 @@ http://live.uspeh-bil.ru/9498/video.m3u8?token=p38CeA56C8wzWCm3
 #EXTGRP:кино
 http://cdntv.online/hls/3b4sxj5auv/2300.m3u8
 
+#EXTINF:-1,Лучшие экшн фильмы
+#EXTGRP:кино
+https://bl.rutube.ru/livestream/1786622e52a6864eb3fd66b83733fef5/index.m3u8?s=myQrAgKiGTDGhOF0qvWI-w&e=2093635375&scheme=https
+#EXTINF:-1,Лучшие фантастические фильмы
+#EXTGRP:кино
+https://bl.rutube.ru/livestream/54de765aeea96a73d23a24b4e2cab07d/index.m3u8?s=uhwmkMiHbWul8lsiCXtZzQ&e=2093635301&scheme=https
+#EXTINF:-1,Лучшие комедийные сериалы
+#EXTGRP:кино
+https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=bc7lIzRmSEzK6u8bhfl1RA&e=2087404289&scheme=https
+#EXTINF:-1, TVON ACTION
+#EXTGRP:кино
+http://188.208.197.173:2580/tvonfilm/video.m3u8?token=or1g1nall
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/vhs-forever_live.jpg",VHS Forever
 #EXTGRP:кино
@@ -211,7 +223,7 @@ http://r.faola.li/10852/video.m3u8?token=nSeG5DM7LE
 https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
 #EXTINF:-1,Том и Джерри
 #EXTGRP: Детский
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+https://rpn3.bozztv.com/dvrfl07/giatv-208314/playlist.m3u8
 
 #EXTINF:-1,Venera.TV Советская классика 4K
 #EXTGRP:кино
@@ -775,7 +787,10 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 http://103.163.132.53/iptv/QE9BZFY7BMQXHF/30156/index.m3u8
 #EXTINF:-1,Том и Джерри
 #EXTGRP: Детский
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+https://rpn3.bozztv.com/dvrfl07/giatv-208314/playlist.m3u8
+#EXTINF:-1,Волк и Заяц
+#EXTGRP: Детский
+https://sirius.movify.tv/VilksUnZakis_Mpeg4/video.m3u8
 #EXTINF:-1,Маша и Медведь (Eng)
 #EXTGRP: Детский
 https://rpn3.bozztv.com/dvrfl07/ushba78/tracks-v1a1/mono.ts.m3u8
@@ -811,18 +826,21 @@ http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/30157/index.m3u8
 #EXTINF:-1,Мини-мишки
 #EXTGRP: Детский
 http://103.163.132.53/iptv/YEXEMMGCRW877K/30178/index.m3u8
-#EXTINF:-1,Лёва HD
+#EXTINF:-1,Пингвин
 #EXTGRP: Детский
-http://r.faola.li/8600/video.m3u8?token=nSeG5DM7LE
+https://venera.movify.tv/PingvinRu/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Ключайка
 #EXTGRP: Детский
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
-#EXTINF:-1,C-Cartoon
+#EXTINF:-1,Мамонтенок ТВ
 #EXTGRP: Детский
-http://66.90.110.10:8080/rwjx6XEsr3/index.m3u8?token=CNVkbIWpdNQAUXGC
+https://venera.movify.tv/MamontRu/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/myvhs_live",Мультфильмы VHS
 #EXTGRP: Детский
 http://kinowalk.hopto.org/myvhs_live
+#EXTINF:-1,TVON KIDS
+#EXTGRP: Детский
+http://188.208.197.173:2580/tvonkids/video.m3u8?token=or1g1nall
 
 #EXTINF:-1,КИНОМУЛЬТ
 #EXTGRP: Детский
@@ -962,3 +980,5 @@ https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=rX
 
 #EXTINF:-1,Киножелезо
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=ysU34lwaIe3wJ_kwITsqmA&e=2075674722&scheme=https
+#EXTINF:-1,Phaztil
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.U0tZwUmIDmYb.m3u8
