@@ -99,7 +99,7 @@ http://103.163.132.53/iptv/9MW24R6R8ABV7XHEF9LPB8XN/13037/index.m3u8
 #EXTGRP:кино
 http://103.163.132.53/iptv/94LBT2DXEHGXHL/13037/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
+#EXTINF:-1 tvg-id="CineMan Дубляж СССР" tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",CineMan Дубляж СССР
 #EXTGRP:кино
 http://cdntv.online/hls/5c24skzmbrx9/2300.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
@@ -233,7 +233,7 @@ http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m
 #EXTINF:-1,ШЕРЛОК ХОЛМС
 #EXTGRP:кино
 https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NTQ3MTEwMSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0ODY2MzAxLCJzZXNzaW9uX2lkIjoiYmVjY2ZiMDQ4M2QwM2VkMTAyNTc3YTY5ZWIyNGRmZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.n_Bf689su8HZVgVA3pRbzfB862R8Cf9xJzZuDOt7UKc
-#EXTINF:-1 tvg-logo="http://epg.one/img2/6259.png",Военноекино HD
+#EXTINF:-1 tvg-logo="http://epg.one/img2/6259.png",Военное кино HD
 #EXTGRP:кино
 http://103.163.132.53/iptv/94LBT2DXEHGXHL/18072/index.m3u8
 #EXTINF:-1 tvg-logo="http://1lot.tv/ch/8742.png",Назад в СССР
