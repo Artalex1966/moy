@@ -804,6 +804,9 @@ https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=o3
 #EXTINF:-1,Щенячий патруль
 #EXTGRP: Детский
 http://103.163.132.53/iptv/94LBT2DXEHGXHL/30167/index.m3u8
+#EXTINF:-1,Щенячий патруль
+#EXTGRP: Детский
+http://103.163.132.53/iptv/4N4BPXK9GTU8SE/30167/index.m3u8
 #EXTINF:-1,Чудеса на виражах
 #EXTGRP: Детский
 http://103.163.132.50/iptv/4N4BPXK9GTU8SE/30192/index.m3u8
