@@ -99,10 +99,10 @@ http://103.163.132.53/iptv/9MW24R6R8ABV7XHEF9LPB8XN/13037/index.m3u8
 #EXTGRP:кино
 http://103.163.132.53/iptv/94LBT2DXEHGXHL/13037/index.m3u8
 
-#EXTINF:-1 tvg-id="CineMan Дубляж СССР" tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",CineMan Дубляж СССР
+#EXTINF:-1 tvg-id="CineMan Дубляж СССР" tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP:кино
 http://cdntv.online/hls/5c24skzmbrx9/2300.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
+#EXTINF:-1 tvg-id="CineMan Дубляж СССР" tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP:кино
 http://cdntv.online/hls/6kwispjyn892/2300.m3u8
 
