@@ -65,7 +65,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m
 #EXTINF:-1,Мосфильм. Золотая коллекция
 #EXTGRP:кино
 http://185.121.1.163:8083/Mosfilm/index.m3u8
-#EXTINF:-1 tvg-id="Мосфильм. Золотая коллекция (+4)",Мосфильм. Золотая коллекция (+4)
+#EXTINF:-1 tvg-id="Мосфильм. Золотая коллекция (+4)" tvg-id="mosfilm-pl4",Мосфильм. Золотая коллекция (+4)
 #EXTGRP:кино
 http://103.163.132.53/iptv/94LBT2DXEHGXHL/17022/index.m3u8
 
