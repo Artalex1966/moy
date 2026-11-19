@@ -1,0 +1,1019 @@
+#EXTM3U
+#PLAYLIST:Аудио_Сказки
+
+#EXTINF:-1 group-title="Релакс",Камин ТВ
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
+
+#EXTINF:-1 group-title="Восточные сказки",В городе змей
+https://mp3tales.info/audio/v_gorode_zmej.mp3
+#EXTINF:-1 group-title="Восточные сказки",Вкус халвы
+https://mp3tales.info/audio/vkus_halvy.mp3
+#EXTINF:-1 group-title="Восточные сказки",Волшебная лампа Аладдина
+https://mp3tales.info/audio/volshebnaja_lampa_aladdina.mp3
+#EXTINF:-1 group-title="Восточные сказки",Гора Кёсе
+https://mp3tales.info/audio/gora_kyose.mp3
+#EXTINF:-1 group-title="Восточные сказки",Добрый Дхир Синх
+https://mp3tales.info/audio/dobryj_dhir_sinh.mp3
+#EXTINF:-1 group-title="Восточные сказки",Золотая антилопа
+https://mp3tales.info/audio/zolotaja_antilopa.mp3
+#EXTINF:-1 group-title="Восточные сказки",История Абдуллы - нищего слепца
+https://mp3tales.info/audio/istorija_abdully_nischego_slepca.mp3
+#EXTINF:-1 group-title="Восточные сказки",Как достать живую обезьяну
+https://mp3tales.info/audio/kak_dostat_zhivuju_obezjanu.mp3
+#EXTINF:-1 group-title="Восточные сказки",Маленький Мук
+https://mp3tales.info/audio/malenkij_muk.mp3
+#EXTINF:-1 group-title="Восточные сказки",Мышонок, который был кошкой, собакой и тигром
+https://mp3tales.info/audio/myshonok_kotoryj_byl_koshkoj_sobakoj_i_tigrom.mp3
+#EXTINF:-1 group-title="Восточные сказки",Портной и джинны
+https://mp3tales.info/audio/portnoj_i_dzhinny.mp3
+#EXTINF:-1 group-title="Восточные сказки",Разыскивается Ходжа Насреддин
+https://mp3tales.info/audio/razyskivaetsja_hodzha_nasreddin.mp3
+#EXTINF:-1 group-title="Восточные сказки",Рамаяна
+https://mp3tales.info/audio/ramajana.mp3
+#EXTINF:-1 group-title="Восточные сказки",Синдбад-мореход
+https://mp3tales.info/audio/sindbad_morehod.mp3
+#EXTINF:-1 group-title="Восточные сказки",Тут-тук-тук, открой дверь
+https://mp3tales.info/audio/tuk_tuk_tuk_otkroy_dver.mp3
+#EXTINF:-1 group-title="Восточные сказки",Ходжа Бу-Али
+https://mp3tales.info/audio/hodzha_bu_ali.mp3
+#EXTINF:-1 group-title="Восточные сказки",Чудесная миска
+https://mp3tales.info/audio/chudesnaja_miska.mp3
+
+#EXTINF:-1 group-title="Колыбельные",Баю-баюшки-баю, не ложися на краю…
+https://mp3tales.info/audio/bayu_bayushki_bayu.mp3
+#EXTINF:-1 group-title="Колыбельные",Долгий день (Калыханка)
+https://mp3tales.info/audio/kalyhanka.mp3
+#EXTINF:-1 group-title="Колыбельные",Ноченька (Колискова)
+https://mp3tales.info/audio/ukrainskaya_goyda.mp3
+#EXTINF:-1 group-title="Колыбельные",Сказки перед сном
+https://mp3tales.info/audio/skazki_pered_snom.mp3
+#EXTINF:-1 group-title="Колыбельные",Спи, моя радость, усни...
+https://mp3tales.info/audio/spi_moya_radost_usni.mp3
+#EXTINF:-1 group-title="Колыбельные",Спят усталые игрушки
+https://mp3tales.info/audio/spjat_ustalye_igrushki.mp3
+
+#EXTINF:-1 group-title="Музыкальные сказки",А может быть, ворона...
+https://mp3tales.info/audio/a_mozhet_byt_vorona_.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Аз, Буки, Веди
+https://mp3tales.info/audio/az_buki_vedi.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Али-Баба и сорок разбойников
+https://mp3tales.info/audio/ali_baba_i_sorok_razbojnikov.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Баю-баюшки-баю, не ложися на краю…
+https://mp3tales.info/audio/bayu_bayushki_bayu.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Большой хоровод
+https://mp3tales.info/audio/bolshoj_horovod.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Будьте добры!
+https://mp3tales.info/audio/budte_dobry.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Буква Я
+https://mp3tales.info/audio/bukva_ja.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",В мире много сказок
+https://mp3tales.info/audio/v_mire_mnogo_skazok.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",В порту
+https://mp3tales.info/audio/v_portu.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",В стране Домашних Животных
+https://mp3tales.info/audio/v_strane_domashnih_zhivotnyh.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Веселый Карандаш
+https://mp3tales.info/audio/veselyj_karandash.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Вкус халвы
+https://mp3tales.info/audio/vkus_halvy.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Волк и семеро козлят на новый лад
+https://mp3tales.info/audio/volk_i_semero_kozljat_na_novyj_lad.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Волшебник мастер Фло
+https://mp3tales.info/audio/volshebnik_master_flo.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Все вокруг поет
+https://mp3tales.info/audio/vse_vokrug_poet.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Всем, всем, всем...
+https://mp3tales.info/audio/vsem_vsem_vsem.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Голубой щенок
+https://mp3tales.info/audio/goluboj_schenok.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Давайте любимые книжки откроем
+https://mp3tales.info/audio/davajte_ljubimye_knizhki_otkroem.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Дважды два - четыре
+https://mp3tales.info/audio/dvazhdy_dva_chetyre.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Детский альбом
+https://mp3tales.info/audio/detskij_albom.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Для Вас, Почемучки! Веселые Песенки
+https://mp3tales.info/audio/dlja_vas_pochemuchki_veselye_pesenki.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Доктор Айболит (версия 2)
+https://mp3tales.info/audio/doktor_ajbolit_mult.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Долгий день (Калыханка)
+https://mp3tales.info/audio/kalyhanka.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Жигули
+https://mp3tales.info/audio/zhiguli.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Жил-был на свете серенький козлик (версия 1)
+https://mp3tales.info/audio/zhil_byl_na_svete_serenkij_kozlik.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Жили-были Джим и Билли
+https://mp3tales.info/audio/zhili_byli_dzhim_i_billi.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",За скрипичным ключом
+https://mp3tales.info/audio/za_skripichnym_kluchom.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Зеленая лошадь и красная мышь
+https://mp3tales.info/audio/zelenaja_loshad_i_krasnaja_mysh.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Золушка (версия 2)
+https://mp3tales.info/audio/zolushka_2.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Золушка (версия 5)
+https://mp3tales.info/audio/zolushka_5.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Как игрушки пошли учиться
+https://mp3tales.info/audio/kak_igrushki_poshli_uchitsja.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Караван - Баши
+https://mp3tales.info/audio/karavan_bashi.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Когда мои друзья со мной
+https://mp3tales.info/audio/kogda_moi_druzja_so_mnoj.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Колобок (версия 3)
+https://mp3tales.info/audio/kolobok_versija_3.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Конек-Горбунок (версия 4)
+https://mp3tales.info/audio/konek_gorbunok_4.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Кошкин дом
+https://mp3tales.info/audio/koshkin_dom.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Курочка и петушок
+https://mp3tales.info/audio/kurochka_i_petushok.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Курочка Ряба (музыкальная сказка)
+https://mp3tales.info/audio/kurochka_rjaba_muzykalnaja_skazka.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Курочка Ряба. Репка
+https://mp3tales.info/audio/kurochka_rjaba_repka.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Лебединое озеро
+https://mp3tales.info/audio/lebedinoe_ozero.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Лесной выдумщик
+https://mp3tales.info/audio/lesnoj_vydumschik.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Летучий корабль (версия 1)
+https://mp3tales.info/audio/letuchij_korabl.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Летучий корабль (версия 2)
+https://mp3tales.info/audio/letuchij_korabl_2.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Лиса и лапоть
+https://mp3tales.info/audio/lisa_i_lapot.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Лунная соната
+https://mp3tales.info/audio/lunnaja_sonata.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Мария, Мирабела
+https://mp3tales.info/audio/marija_mirabela.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Мария, Мирабела (музыка из фильма)
+https://mp3tales.info/audio/marija_mirabela_muzyka_iz_filma.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Маша и Витя против "Диких Гитар"
+https://mp3tales.info/audio/masha_i_vitja_protiv_dikih_gitar.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Мойдодыр (опера)
+https://mp3tales.info/audio/mojdodyr_opera.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Муха-Цокотуха (симфоническая сказка)
+https://mp3tales.info/audio/muha_cokotuha_simfonicheskaja_skazka.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Наш друг - Буратино
+https://mp3tales.info/audio/nash_drug_buratino.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Невероятные приключения Буратино
+https://mp3tales.info/audio/neverojatnye_prikljuchenija_buratino.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Необыкновенные туристы
+https://mp3tales.info/audio/neobyknovennye_turisty.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Ноченька (Колискова)
+https://mp3tales.info/audio/ukrainskaya_goyda.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Остров сокровищ (версия 2)
+https://mp3tales.info/audio/ostrov_sokrovisch_2.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Пеппи Длинный Чулок
+https://mp3tales.info/audio/peppi_dlinnyj_chulok.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Пес в сапогах
+https://mp3tales.info/audio/pes_v_sapogah.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Песенка в лесу
+https://mp3tales.info/audio/pesenka_v_lesu.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Песенка Крокодила Гены
+https://mp3tales.info/audio/pesenka_krokodila_geny.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Песенки для Ани
+https://mp3tales.info/audio/pesenki_dlja_ani.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Песенки для самых маленьких
+https://mp3tales.info/audio/pesenki_dlja_samyh_malenkih.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Петя и Волк
+https://mp3tales.info/audio/petja_i_volk.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Питер Пэн и Венди
+https://mp3tales.info/audio/piter_pen_i_vendi.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Площадь картонных часов
+https://mp3tales.info/audio/ploschad_kartonnyh_chasov.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Плут-малыш
+https://mp3tales.info/audio/plut_malysh.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",По щучьему велению (версия 1)
+https://mp3tales.info/audio/po_schuchemu_veleniju_1.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Пони бегает по кругу
+https://mp3tales.info/audio/poni_begaet_po_krugu.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Приключения желторотого разбойника
+https://mp3tales.info/audio/prikljuchenija_zheltorotogo_razbojnika.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Приключения капитана Врунгеля
+https://mp3tales.info/audio/prikljuchenija_kapitana_vrungelja.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Приключения поросенка Фунтика
+https://mp3tales.info/audio/prikljuchenija_porosenka_funtika.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Приключения Тяпа
+https://mp3tales.info/audio/prikljuchenija_tjapa.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Принц и нищий
+https://mp3tales.info/audio/princ_i_nischij.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Про козу-дерезу
+https://mp3tales.info/audio/pro_kozu_derezu.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Про Красную Шапочку
+https://mp3tales.info/audio/pro_krasnuju_shapochku.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Про Фому да Ерему
+https://mp3tales.info/audio/pro_fomu_da_eremu.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Происшествие в стране Мульти-Пульти
+https://mp3tales.info/audio/proisshestvie_v_strane_multi_pulti.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Птичьи разговоры
+https://mp3tales.info/audio/ptichi_razgovory.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Разноцветная снежинка
+https://mp3tales.info/audio/raznocvetnaja_snezhinka.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Ребята, давайте жить дружно!
+https://mp3tales.info/audio/rebjata_davajte_zhit_druzhno.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Репка
+https://mp3tales.info/audio/repka.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Робин Бобин Барабек
+https://mp3tales.info/audio/robin_bobin_barabek.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Робин Гуд
+https://mp3tales.info/audio/robin_gud.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Робинзон
+https://mp3tales.info/audio/robinzon_kruzo.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Руслан и Людмила
+https://mp3tales.info/audio/ruslan_i_ljudmila.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Самый лучший Дед Мороз
+https://mp3tales.info/audio/samyj_luchshij_ded_moroz.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Синяя птица (версия 1)
+https://mp3tales.info/audio/sinjaja_ptica_versija_1.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Синяя птица (версия 2)
+https://mp3tales.info/audio/sinjaja_ptica_versija_2.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Сказка о Попе и работнике его Балде (версия 1)
+https://mp3tales.info/audio/skazka_o_pope_i_rabotnike_ego_balde_1.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Сказка про веселых и ловких зайчат
+https://mp3tales.info/audio/skazka_pro_veselyh_i_lovkih_zajchat.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Сказка, рассказанная флейтой
+https://mp3tales.info/audio/skazka_rasskazannaja_flejtoj.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Снегурочка (версия 1)
+https://mp3tales.info/audio/snegurochka.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Снежная королева (версия 5)
+https://mp3tales.info/audio/snezhnaja_koroleva_versija_5.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Сокровища капитана Флинта
+https://mp3tales.info/audio/sokrovischa_kapitana_flinta.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Сон дождя, или Новые приключения Дюймовочки
+https://mp3tales.info/audio/son_dozhdja_ili_novye_prikljuchenija_djujmovochki.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Спи, моя радость, усни...
+https://mp3tales.info/audio/spi_moya_radost_usni.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Спят усталые игрушки
+https://mp3tales.info/audio/spjat_ustalye_igrushki.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Сто фантазий
+https://mp3tales.info/audio/sto_fantazij.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Таинственный сундук
+https://mp3tales.info/audio/tainstvennyj_sunduk.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Тайна синей пантеры
+https://mp3tales.info/audio/tajna_sinej_pantery.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Тайна Снежной королевы
+https://mp3tales.info/audio/tajna_snezhnoj_korolevy.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Тайна царя Гороха
+https://mp3tales.info/audio/tajna_carja_goroha.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Телефон (опера)
+https://mp3tales.info/audio/telefon_opera.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Том Сойер. Безумное воскресение
+https://mp3tales.info/audio/tom_sojer_bezumnoe_voskresenie.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Три мушкетера
+https://mp3tales.info/audio/tri_mushketera.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Три поросенка (версия 1)
+https://mp3tales.info/audio/tri_porosenka_1.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Три поросенка (версия 2)
+https://mp3tales.info/audio/tri_porosenka_2.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Уики-вэки-воки
+https://mp3tales.info/audio/uiki_veki_voki.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Ухти-Тухти
+https://mp3tales.info/audio/uhti_tuhti.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Хоттабыч!
+https://mp3tales.info/audio/hottabych_1.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Цирк, цирк, цирк!
+https://mp3tales.info/audio/cirk_cirk_cirk_.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Щелкунчик (версия 2)
+https://mp3tales.info/audio/schelkunchik_2.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Я и мама
+https://mp3tales.info/audio/ja_i_mama.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Бременские музыканты - Бременские музыканты
+https://mp3tales.info/audio/bremenskie_muzykanty.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Бременские музыканты - Новые Бременские
+https://mp3tales.info/audio/novye_bremenskie.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Бременские музыканты - По следам Бременских музыкантов
+https://mp3tales.info/audio/po_sledam_bremenskih_muzykantov.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",В стране музыкальных волшебников - В Танцграде
+https://mp3tales.info/audio/v_tancgrade.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",В стране музыкальных волшебников - В царстве ритма
+https://mp3tales.info/audio/v_carstve_ritma.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",В стране музыкальных волшебников - Мелодии города колокольчиков
+https://mp3tales.info/audio/melodii_goroda_kolokolchikov.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",В стране музыкальных волшебников - Чудесные краски
+https://mp3tales.info/audio/chudesnye_kraski.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Кузнечик Кузя - Кузнечик Кузя на планете Туами
+https://mp3tales.info/audio/kuznechik_kuzja_na_planete_tuami.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Кузнечик Кузя - Новые приключения кузнечика Кузи
+https://mp3tales.info/audio/novye_prikljuchenija_kuznechika_kuzi.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Кузнечик Кузя - Приключения кузнечика Кузи
+https://mp3tales.info/audio/prikljuchenija_kuznechika_kuzi.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Поющие светофоры - Когда поют светофоры
+https://mp3tales.info/audio/kogda_pojut_svetofory.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Поющие светофоры - Новые приключения в городе поющих светофоров
+https://mp3tales.info/audio/novye_prikljuchenija_v_gorode_pojuschih_svetoforov.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Приключения Петрова и Васечкина, обыкновенные и невероятные - К нам едет хулиган
+https://mp3tales.info/audio/k_nam_edet_huligan.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Приключения Петрова и Васечкина, обыкновенные и невероятные - Рыцарь
+https://mp3tales.info/audio/rycar.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Приключения Петрова и Васечкина, обыкновенные и невероятные - Укрощение строптивой
+https://mp3tales.info/audio/ukroschenie_stroptivoj.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Радионяня - Лучшие песни
+https://mp3tales.info/audio/luchshie_pesni.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Сказки про Африку - Как Львенок и Черепаха пели песню
+https://mp3tales.info/audio/kak_lvenok_i_cherepaha_peli_pesnju.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Чудетство - Чудетство (сторона 1)
+https://mp3tales.info/audio/chudetstvo_storona_1.mp3
+#EXTINF:-1 group-title="Музыкальные сказки",Чудетство - Чудетство (сторона 2)
+https://mp3tales.info/audio/chudetstvo_storona_2.mp3
+
+#EXTINF:-1 group-title="Радионяня",Всем ребятам-трулялятам. Веселый концерт
+https://mp3tales.info/audio/vsem_rebjatam_truljaljatam_veselyj_koncert.mp3
+#EXTINF:-1 group-title="Радионяня",Веселая грамматика 1
+https://mp3tales.info/audio/veselaya_grammatika_1.mp3
+#EXTINF:-1 group-title="Радионяня",Веселая грамматика 2
+https://mp3tales.info/audio/veselaya_grammatika_2.mp3
+#EXTINF:-1 group-title="Радионяня",Веселая грамматика 3
+https://mp3tales.info/audio/veselaya_grammatika_3.mp3
+#EXTINF:-1 group-title="Радионяня",Занимательная грамматика
+https://mp3tales.info/audio/zanimatelnaya_grammatika.mp3
+#EXTINF:-1 group-title="Радионяня",Как себя вести
+https://mp3tales.info/audio/kak_sebya_vesti.mp3
+#EXTINF:-1 group-title="Радионяня",Лучшие песни
+https://mp3tales.info/audio/luchshie_pesni.mp3
+#EXTINF:-1 group-title="Радионяня",Мамины помощники
+https://mp3tales.info/audio/maminy_pomoschniki.mp3
+#EXTINF:-1 group-title="Радионяня",Правила хорошего тона
+https://mp3tales.info/audio/pravila_horoshego_tona.mp3
+#EXTINF:-1 group-title="Радионяня",Смешные рассказы
+https://mp3tales.info/audio/smeshnye_rasskazy.mp3
+
+#EXTINF:-1 group-title="Русские народные сказки",Баба Яга
+https://mp3tales.info/audio/baba_jaga.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Баю-баюшки-баю, не ложися на краю…
+https://mp3tales.info/audio/bayu_bayushki_bayu.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Братец Иванушка и сестрица Аленушка
+https://mp3tales.info/audio/bratec_ivanushka_i_sestrica_alenushka.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Былина о Дунае, Добрыне и Владимире Красно Солнышко
+https://mp3tales.info/audio/bylina_o_dunae_dobryne_i_vladimire_krasno_solnyshko.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Ванюшка и Царевна
+https://mp3tales.info/audio/vanjushka_i_carevna.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Василиса Прекрасная
+https://mp3tales.info/audio/vasilisa_prekrasnaja.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Верлиока
+https://mp3tales.info/audio/verlioka.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Волк и семеро козлят
+https://mp3tales.info/audio/volk_i_semero_kozljat.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Волшебное колечко
+https://mp3tales.info/audio/volshebnoe_kolechko.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Волшебное яблочко
+https://mp3tales.info/audio/volshebnoe_jablochko.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Вороватый мужик
+https://mp3tales.info/audio/vorovatyj_muzhik.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Глиняный Иванушка
+https://mp3tales.info/audio/glinjanyj_ivanushka.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Горе не беда
+https://mp3tales.info/audio/gore_ne_beda.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Гуси-лебеди
+https://mp3tales.info/audio/gusi_lebedi.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Два козлика
+https://mp3tales.info/audio/dva_kozlika.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Диво дивное
+https://mp3tales.info/audio/divo_divnoe.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Загадки
+https://mp3tales.info/audio/zagadki.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Иван - крестьянский сын и Чудо-Юдо
+https://mp3tales.info/audio/ivan_krestjanskij_syn_i_chudo_judo.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Иван царевич и Белый полянин
+https://mp3tales.info/audio/ivan_carevich_i_belyj_poljanin.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Илья Муромец и Соловей-разбойник
+https://mp3tales.info/audio/ilja_muromec_i_solovej_razbojnik.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Кащей Бессмертный
+https://mp3tales.info/audio/kaschej_bessmertnyj.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Коза-Дереза
+https://mp3tales.info/audio/koza_dereza.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Колобок (версия 1)
+https://mp3tales.info/audio/kolobok_versija_1.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Колобок (версия 2)
+https://mp3tales.info/audio/kolobok_versija_2.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Колобок (версия 3)
+https://mp3tales.info/audio/kolobok_versija_3.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Кот и лиса
+https://mp3tales.info/audio/kot_i_lisa.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Кот, петух и лиса (версия 1)
+https://mp3tales.info/audio/kot_petuh_i_lisa_versija_1.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Кот, петух и лиса (версия 2)
+https://mp3tales.info/audio/kot_petuh_i_lisa_versija_2.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Крошечка-Хаврошечка (версия 1)
+https://mp3tales.info/audio/kroshechka_havroshechka.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Крошечка-Хаврошечка (версия 2)
+https://mp3tales.info/audio/kroshechka_havroshechka_2.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Курочка Ряба
+https://mp3tales.info/audio/kurochka_rjaba.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Курочка Ряба (музыкальная сказка)
+https://mp3tales.info/audio/kurochka_rjaba_muzykalnaja_skazka.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Курочка Ряба. Репка
+https://mp3tales.info/audio/kurochka_rjaba_repka.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Летучий корабль (версия 1)
+https://mp3tales.info/audio/letuchij_korabl.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Летучий корабль (версия 2)
+https://mp3tales.info/audio/letuchij_korabl_2.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Лиса и волк
+https://mp3tales.info/audio/lisa_i_volk.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Лиса и лапоть
+https://mp3tales.info/audio/lisa_i_lapot.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Лисичка со скалочкой
+https://mp3tales.info/audio/lisichka_so_skalochkoj.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Лисичка-сестричка и серый волк
+https://mp3tales.info/audio/lisichka_sestrichka_i_seryj_volk.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Марья Моревна
+https://mp3tales.info/audio/marja_morevna.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Маша и медведь
+https://mp3tales.info/audio/masha_i_medved.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Медный лоб
+https://mp3tales.info/audio/mednyj_lob.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Микула Селянинович
+https://mp3tales.info/audio/mikula_siljanovich.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Мороз Иванович
+https://mp3tales.info/audio/moroz_ivanovich.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Наказанная царевна
+https://mp3tales.info/audio/nakazannaja_carevna.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Народные праздники, обряды и времена года в песнях и сказках
+https://mp3tales.info/audio/narodnye_prazdniki_obryady.mp3
+#EXTINF:-1 group-title="Русские народные сказки",О наливном яблочке и серебряном блюдечке
+https://mp3tales.info/audio/o_nalivnom_jablochke_i_serebrjanom_bljudechke.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Петушок - Золотой Гребешок
+https://mp3tales.info/audio/petushok_zolotoj_grebeshok.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Петушок и бобовое зернышко
+https://mp3tales.info/audio/petushok_i_bobovoe_zernyshko.mp3
+#EXTINF:-1 group-title="Русские народные сказки",По щучьему велению (версия 1)
+https://mp3tales.info/audio/po_schuchemu_veleniju_1.mp3
+#EXTINF:-1 group-title="Русские народные сказки",По щучьему велению (версия 2)
+https://mp3tales.info/audio/po_schuchemu_veleniju_2.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Поди туда - не знаю куда, принеси то - не знаю что (версия 1)
+https://mp3tales.info/audio/podi_tuda_ne_znaju_kuda_ppinesi_to_ne_znaju_chto.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Поди туда - не знаю куда, принеси то - не знаю что (версия 2)
+https://mp3tales.info/audio/podi_tuda_ne_znaju_kuda_prinesi_to_ne_znaju_chto.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Почему у зайца хвост короткий
+https://mp3tales.info/audio/pochemu_u_zajca_hvost_korotkij.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Про козу-дерезу
+https://mp3tales.info/audio/pro_kozu_derezu.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Про храброго зайца
+https://mp3tales.info/audio/pro_hrabrogo_zajca.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Про щуку зубастую и Емелю-дурачка
+https://mp3tales.info/audio/pro_schuku_zubastuju_i_emelju_durachka.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Пузырь, Соломинка и Лапоть
+https://mp3tales.info/audio/puzyr_solominka_i_lapot.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Сказка про Иванушку-дурачка
+https://mp3tales.info/audio/skazka_pro_ivanushku_durachka.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Сказка про кикимору
+https://mp3tales.info/audio/skazka_pro_kikimoru.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Сказка про русского солдата
+https://mp3tales.info/audio/skazka_pro_russkogo_soldata.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Снегурочка (версия 1)
+https://mp3tales.info/audio/snegurochka.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Снегурочка (версия 2)
+https://mp3tales.info/audio/snegurochka_versija_2.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Солдат избавляет царевну
+https://mp3tales.info/audio/soldat_izbavljaet_carevnu.mp3
+#EXTINF:-1 group-title="Русские народные сказки",У страха глаза велики
+https://mp3tales.info/audio/u_straha_glaza_veliki.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Фома Беренников
+https://mp3tales.info/audio/foma_berennikov.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Хрустальная гора
+https://mp3tales.info/audio/hrustalnaja_gora.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Царевна-лягушка (версия 1)
+https://mp3tales.info/audio/carevna_ljagushka_versija_1.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Царевна-лягушка (версия 2)
+https://mp3tales.info/audio/carevna_ljagushka_versija_2.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Чудесные лапоточки
+https://mp3tales.info/audio/chudesnye_lapotochki.mp3
+#EXTINF:-1 group-title="Русские народные сказки",Чудесный мальчик
+https://mp3tales.info/audio/chudesnyj_malchik.mp3
+
+#EXTINF:-1 group-title="Сказки Андерсена",Гадкий утенок (версия 1)
+https://mp3tales.info/audio/gadkij_utenok.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Гадкий утенок (версия 2)
+https://mp3tales.info/audio/gadkij_utenok_2.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Девочка со спичками
+https://mp3tales.info/audio/devochka_so_spichkami.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Дикие лебеди
+https://mp3tales.info/audio/dikie_lebedi.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Дочь болотного царя
+https://mp3tales.info/audio/doch_bolotnogo_carja.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Дюймовочка (версия 1)
+https://mp3tales.info/audio/djujmovochka_1.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Дюймовочка (версия 2)
+https://mp3tales.info/audio/djujmovochka_2.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Елочка
+https://mp3tales.info/audio/elochka.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Калоши счастья
+https://mp3tales.info/audio/kaloshi_schastja.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Новое платье короля
+https://mp3tales.info/audio/novoe_plate_korolja.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Новый наряд короля
+https://mp3tales.info/audio/novyj_narjad_korolja.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",О том, как буря перевесила вывески
+https://mp3tales.info/audio/o_tom_kak_burja_perevesila_vyveski.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Огниво (версия 1)
+https://mp3tales.info/audio/ognivo_1.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Огниво (версия 2)
+https://mp3tales.info/audio/ognivo_2.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Оле-Лукойе
+https://mp3tales.info/audio/ole_lukoje.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Принцесса на горошине (версия 1)
+https://mp3tales.info/audio/princessa_na_goroshine.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Принцесса на горошине (версия 2)
+https://mp3tales.info/audio/princessa_na_goroshine_versija_2.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Профессор и блоха
+https://mp3tales.info/audio/professor_i_bloha.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Прыгуны
+https://mp3tales.info/audio/pryguny.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Пятеро из одного стручка
+https://mp3tales.info/audio/pjatero_iz_odnogo_struchka.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Русалочка (версия 1)
+https://mp3tales.info/audio/rusalochka_1.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Русалочка (версия 2)
+https://mp3tales.info/audio/rusalochka_2.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Русалочка (версия 3)
+https://mp3tales.info/audio/rusalochka_3.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Русалочка (версия 4)
+https://mp3tales.info/audio/rusalochka_4.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Свинопас
+https://mp3tales.info/audio/svinopas.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Снежная королева (версия 1)
+https://mp3tales.info/audio/snezhnaja_koroleva_1.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Снежная королева (версия 2)
+https://mp3tales.info/audio/snezhnaja_koroleva_2.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Снежная королева (версия 3)
+https://mp3tales.info/audio/snezhnaja_koroleva_3.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Снежная королева (версия 4)
+https://mp3tales.info/audio/snezhnaja_koroleva_4.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Соловей
+https://mp3tales.info/audio/solovej.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Соловей, принцесса и горшок каши
+https://mp3tales.info/audio/solovej_princessa_i_gorshok_kashi.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Стойкий оловянный солдатик (версия 1)
+https://mp3tales.info/audio/stojkij_olovjannyj_soldatik_1.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Стойкий оловянный солдатик (версия 2)
+https://mp3tales.info/audio/stojkij_olovjannyj_soldatik_2.mp3
+#EXTINF:-1 group-title="Сказки Андерсена",Стойкий оловянный солдатик (версия 3)
+https://mp3tales.info/audio/stojkij_olovjannyj_soldatik_3.mp3
+
+#EXTINF:-1 group-title="Сказки Астрид Линдгрен",Дом на краю моря
+https://mp3tales.info/audio/dom_na_kraju_morja.mp3
+#EXTINF:-1 group-title="Сказки Астрид Линдгрен",Колбаска, боцман и другие
+https://mp3tales.info/audio/kolbaska_botsman_i_drugie.mp3
+#EXTINF:-1 group-title="Сказки Астрид Линдгрен",Малыш и Карлсон, который живет на крыше
+https://mp3tales.info/audio/malysh_i_karlson_kotoryj_zhivet_na_kryshe.mp3
+#EXTINF:-1 group-title="Сказки Астрид Линдгрен",Мио, мой Мио!
+https://mp3tales.info/audio/mio_moy_mio.mp3
+#EXTINF:-1 group-title="Сказки Астрид Линдгрен",Пеппи Длинный Чулок
+https://mp3tales.info/audio/peppi_dlinnyj_chulok.mp3
+#EXTINF:-1 group-title="Сказки Астрид Линдгрен",Приключения Калле-сыщика
+https://mp3tales.info/audio/prikljuchenija_kalle_syschika.mp3
+#EXTINF:-1 group-title="Сказки Астрид Линдгрен",Расмус-бродяга
+https://mp3tales.info/audio/rasmus_brodyaga.mp3
+#EXTINF:-1 group-title="Сказки Астрид Линдгрен",Малыш и Карлсон - Карлсон вернулся
+https://mp3tales.info/audio/karlson_vernulsja.mp3
+#EXTINF:-1 group-title="Сказки Астрид Линдгрен",Малыш и Карлсон - Малыш и Карлсон
+https://mp3tales.info/audio/malysh_i_karlson.mp3
+#EXTINF:-1 group-title="Сказки Астрид Линдгрен",Сказки Барбары - Мирабэль
+https://mp3tales.info/audio/mirabel.mp3
+#EXTINF:-1 group-title="Сказки Астрид Линдгрен",Сказки Барбары - Однажды ночью в мае
+https://mp3tales.info/audio/odnazhdy_nochju_v_mae.mp3
+#EXTINF:-1 group-title="Сказки Астрид Линдгрен",Сказки Ёрана - В сумеречной стране
+https://mp3tales.info/audio/v_sumerechnoj_strane.mp3
+#EXTINF:-1 group-title="Сказки Астрид Линдгрен",Сказки Ёрана - Крошка Нильс Карлсон
+https://mp3tales.info/audio/kroshka_nils_karlson.mp3
+#EXTINF:-1 group-title="Сказки Астрид Линдгрен",Сказки Ёрана - Нет в лесу никаких разбойников
+https://mp3tales.info/audio/net_v_lesu_nikakih_razbojnikov.mp3
+#EXTINF:-1 group-title="Сказки Астрид Линдгрен",Сказки Ёрана - Петер и Петра
+https://mp3tales.info/audio/peter_i_petra.mp3
+
+#EXTINF:-1 group-title="Сказки Бажова",Айлып и Золотой Волос
+https://mp3tales.info/audio/ajlyp_i_zolotoj_volos.mp3
+#EXTINF:-1 group-title="Сказки Бажова",Голубая змейка
+https://mp3tales.info/audio/golubaja_zmejka.mp3
+#EXTINF:-1 group-title="Сказки Бажова",Каменный цветок (версия 1)
+https://mp3tales.info/audio/kamennyj_cvetok.mp3
+#EXTINF:-1 group-title="Сказки Бажова",Каменный цветок (версия 2)
+https://mp3tales.info/audio/kamennyj_cvetok_versija_2.mp3
+#EXTINF:-1 group-title="Сказки Бажова",Малахитовая шкатулка
+https://mp3tales.info/audio/malahitovaja_shkatulka.mp3
+#EXTINF:-1 group-title="Сказки Бажова",Огневушка-поскакушка
+https://mp3tales.info/audio/ognevushka_poskakushka.mp3
+#EXTINF:-1 group-title="Сказки Бажова",Серебряное копытце
+https://mp3tales.info/audio/serebrjannoe_kopytce.mp3
+#EXTINF:-1 group-title="Сказки Бажова",Синюшкин колодец
+https://mp3tales.info/audio/sinjushkin_kolodec.mp3
+
+#EXTINF:-1 group-title="Сказки братьев Гримм",Бабушка Метелица
+https://mp3tales.info/audio/babushka_metelica.mp3
+#EXTINF:-1 group-title="Сказки братьев Гримм",Бедный работник с мельницы
+https://mp3tales.info/audio/bednyj_rabotnik_s_melnicy.mp3
+#EXTINF:-1 group-title="Сказки братьев Гримм",Белоснежка и семь гномов
+https://mp3tales.info/audio/belosnezhka_i_sem_gnomov.mp3
+#EXTINF:-1 group-title="Сказки братьев Гримм",Беляночка и Розочка
+https://mp3tales.info/audio/beljanochka_i_rozochka.mp3
+#EXTINF:-1 group-title="Сказки братьев Гримм",Гензель и Гретель
+https://mp3tales.info/audio/genzel_i_gretel.mp3
+#EXTINF:-1 group-title="Сказки братьев Гримм",Дух в бутылке
+https://mp3tales.info/audio/duh_v_butylke.mp3
+#EXTINF:-1 group-title="Сказки братьев Гримм",Живая вода
+https://mp3tales.info/audio/zhivaja_voda.mp3
+#EXTINF:-1 group-title="Сказки братьев Гримм",Жили-были ежики
+https://mp3tales.info/audio/zhili_byli_ezhiki.mp3
+#EXTINF:-1 group-title="Сказки братьев Гримм",Король Дроздовик
+https://mp3tales.info/audio/korol_i_drozdovik.mp3
+#EXTINF:-1 group-title="Сказки братьев Гримм",Лесная избушка
+https://mp3tales.info/audio/lesnaja_izbushka.mp3
+#EXTINF:-1 group-title="Сказки братьев Гримм",Счастливый Ганс
+https://mp3tales.info/audio/schastlivyj_gans.mp3
+#EXTINF:-1 group-title="Сказки братьев Гримм",Удачная торговля
+https://mp3tales.info/audio/udachnaja_torgovlja.mp3
+#EXTINF:-1 group-title="Сказки братьев Гримм",Храбрый портной (версия 1)
+https://mp3tales.info/audio/hrabryj_portnoj.mp3
+#EXTINF:-1 group-title="Сказки братьев Гримм",Храбрый портной (версия 2)
+https://mp3tales.info/audio/hrabryj_portnoj_2.mp3
+#EXTINF:-1 group-title="Сказки братьев Гримм",Храбрый портняжка
+https://mp3tales.info/audio/hrabryj_portnjazhka.mp3
+#EXTINF:-1 group-title="Сказки братьев Гримм",Бременские музыканты
+https://mp3tales.info/audio/bremenskie_muzykanty.mp3
+
+#EXTINF:-1 group-title="Сказки в стихах",Азбука для малышей
+https://mp3tales.info/audio/azbuka_dlja_malyshej.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Бармалей
+https://mp3tales.info/audio/barmalej.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Белочка-умелочка
+https://mp3tales.info/audio/belochka_umelochka.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Бом-бом-бом открывается альбом
+https://mp3tales.info/audio/bom_bom_bom_otkryvaetsja_albom.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Бука
+https://mp3tales.info/audio/buka.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Буква Я
+https://mp3tales.info/audio/bukva_ja.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Была бы охота
+https://mp3tales.info/audio/byla_by_ohota.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Вольт Суслов. Откуда приходят стихи
+https://mp3tales.info/audio/volt_suslov_otkuda_prihodjat_stihi.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Всем ребятам-трулялятам. Веселый концерт
+https://mp3tales.info/audio/vsem_rebjatam_truljaljatam_veselyj_koncert.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Дядя Степа
+https://mp3tales.info/audio/djadja_stepa.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Если бы да кабы. Стихи югославских поэтов для детей
+https://mp3tales.info/audio/esli_by_da_kaby_stihi_jugoslavskih_poetov_dlja_detej.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Жил-был на свете серенький козлик (версия 2)
+https://mp3tales.info/audio/zhil_byl_na_svete_serenkij_kozlik_2.mp3
+#EXTINF:-1 group-title="Сказки в стихах",З. Александрова. Стихи для детей
+https://mp3tales.info/audio/z_aleksandrova_stihi_dlja_detej.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Заветное желание
+https://mp3tales.info/audio/zavetnoe_zhelanie.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Из дома вышел человек
+https://mp3tales.info/audio/iz_doma_vyshel_chelovek.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Картинки в лужах
+https://mp3tales.info/audio/kartinki_v_luzhah.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Книжкин дом
+https://mp3tales.info/audio/knizhkin_dom.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Конек-Горбунок (версия 1)
+https://mp3tales.info/audio/konek_gorbunok_1.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Кот в сапогах (в стихах)
+https://mp3tales.info/audio/kot_v_sapogah_v_stihah.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Ленин и печник
+https://mp3tales.info/audio/lenin_i_pechnik.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Леонид Куликов. Стихи
+https://mp3tales.info/audio/leonid_kulikov_stihi.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Лунный мальчик
+https://mp3tales.info/audio/lunnyj_malchik.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Мистер Сноу и другие
+https://mp3tales.info/audio/mister_snou_i_drugie.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Мистер Твистер
+https://mp3tales.info/audio/mister_tvister.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Мой приятель - воробей
+https://mp3tales.info/audio/moj_prijatel_vorobej.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Мойдодыр
+https://mp3tales.info/audio/mojdodyr.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Муха-Цокотуха (версия 2)
+https://mp3tales.info/audio/muha_cokotuha_versija_2.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Научусь-ка я читать
+https://mp3tales.info/audio/nauchus_ka_ja_chitat.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Нельсон и курочка
+https://mp3tales.info/audio/nelson_i_kurochka.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Необыкновенные истории про муравья и крокодила, кузнечика и черепаху
+https://mp3tales.info/audio/neobyknovennye_istorii_pro_muravja_i_krokodila_kuznechika_i_cherepahu.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Необыкновенные туристы
+https://mp3tales.info/audio/neobyknovennye_turisty.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Пан спросил у пана
+https://mp3tales.info/audio/pan_sprosil_u_pana.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Песнь о Гайавате
+https://mp3tales.info/audio/pesn_o_gajavate.mp3
+#EXTINF:-1 group-title="Сказки в стихах",По щучьему велению (версия 1)
+https://mp3tales.info/audio/po_schuchemu_veleniju_1.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Почему киты молчат?
+https://mp3tales.info/audio/pochemu_kity_molchat.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Приключения Бибигона
+https://mp3tales.info/audio/prikljuchenija_bibigona.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Про полисмена Артура
+https://mp3tales.info/audio/pro_polismena_artura.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Про тигренка Бинки
+https://mp3tales.info/audio/pro_tigrenka_binki.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Прогулка верхом
+https://mp3tales.info/audio/progulka_verhom.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Путешествие по квартире
+https://mp3tales.info/audio/puteshestvie_po_kvartire.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Рина Зеленая. Лучшие стихи для детей
+https://mp3tales.info/audio/rina_zelenaja_luchshie_stihi_dlja_detej.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Самуил Маршак. Читает автор
+https://mp3tales.info/audio/samuil_marshak_chitaet_avtor.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Сказка о Иване Царевиче и Сером Волке
+https://mp3tales.info/audio/skazka_o_ivane_careviche_i_serom_volke.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Сказка о хрустальном сердце
+https://mp3tales.info/audio/skazka_o_hrustalnom_serdtse.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Сказки перед сном
+https://mp3tales.info/audio/skazki_pered_snom.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Славные сказки
+https://mp3tales.info/audio/slavnye_skazki_bombitsky.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Слон Хортон высиживает яйцо
+https://mp3tales.info/audio/slon_horton_vysizhivaet_jajco.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Смешные человечки
+https://mp3tales.info/audio/smeshnye_chelovechki.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Стихи Агнии Барто
+https://mp3tales.info/audio/stihi_agnii_barto.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Стихи для детей
+https://mp3tales.info/audio/stihi_dlja_detej.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Стихи для детей читает Игорь Ильинский
+https://mp3tales.info/audio/stihi_dlja_detej_chitaet_igor_ilinskij.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Стихи из книжки "Кошки-мышки"
+https://mp3tales.info/audio/stihi_iz_knizhki_koshki_myshki.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Сто фантазий
+https://mp3tales.info/audio/sto_fantazij.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Таинственный сундук
+https://mp3tales.info/audio/tainstvennyj_sunduk.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Тараканище (версия 1)
+https://mp3tales.info/audio/tarakanische.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Тараканище (версия 2)
+https://mp3tales.info/audio/tarakanische_versija_2.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Теплая тропинка
+https://mp3tales.info/audio/teplaja_tropinka.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Теремок
+https://mp3tales.info/audio/teremok.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Торопей
+https://mp3tales.info/audio/toropej.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Ух!
+https://mp3tales.info/audio/uh.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Федорино горе
+https://mp3tales.info/audio/fedorino_gore.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Черепаха Эртель
+https://mp3tales.info/audio/cherepaha_ertel.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Читают Натан Эфрос и Петр Ярославцев
+https://mp3tales.info/audio/chitajut_natan_efros_i_petr_jaroslavcev.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Чудаки
+https://mp3tales.info/audio/chudaki.mp3
+#EXTINF:-1 group-title="Сказки в стихах",Энык-Бенык знает все
+https://mp3tales.info/audio/enyk_benyk_znaet_vse.mp3
+
+#EXTINF:-1 group-title="Сказки Киплинга",Как было написано первое письмо
+https://mp3tales.info/audio/kak_bylo_napisano_pervoe_pismo.mp3
+#EXTINF:-1 group-title="Сказки Киплинга",Кошка, гулявшая сама по себе
+https://mp3tales.info/audio/koshka_guljavshaja_sama_po_sebe.mp3
+#EXTINF:-1 group-title="Сказки Киплинга",Маугли (версия 1)
+https://mp3tales.info/audio/maugli_1.mp3
+#EXTINF:-1 group-title="Сказки Киплинга",Маугли (версия 2)
+https://mp3tales.info/audio/maugli_2.mp3
+#EXTINF:-1 group-title="Сказки Киплинга",Откуда взялись броненосцы
+https://mp3tales.info/audio/otkuda_vzjalis_bronenoscy.mp3
+#EXTINF:-1 group-title="Сказки Киплинга",Откуда у кита такая глотка
+https://mp3tales.info/audio/otkuda_u_kita_takaja_golova.mp3
+#EXTINF:-1 group-title="Сказки Киплинга",Отчего у верблюда горб
+https://mp3tales.info/audio/otchego_u_verbljuda_gorb.mp3
+#EXTINF:-1 group-title="Сказки Киплинга",Пёс Бутс
+https://mp3tales.info/audio/pyos_buts.mp3
+#EXTINF:-1 group-title="Сказки Киплинга",Рикки-Тикки-Тави
+https://mp3tales.info/audio/rikki_tikki_tavi.mp3
+#EXTINF:-1 group-title="Сказки Киплинга",Слоненок (версия 1)
+https://mp3tales.info/audio/slonenok.mp3
+#EXTINF:-1 group-title="Сказки Киплинга",Слоненок (версия 2)
+https://mp3tales.info/audio/slonenok_2.mp3
+
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Айболит
+https://mp3tales.info/audio/ajbolit.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Айболит и Пента
+https://mp3tales.info/audio/ajbolit_i_penta.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Бармалей
+https://mp3tales.info/audio/barmalej.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Доктор Айболит (версия 1)
+https://mp3tales.info/audio/doktor_ajbolit.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Доктор Айболит (версия 2)
+https://mp3tales.info/audio/doktor_ajbolit_mult.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Загадки и отгадки
+https://mp3tales.info/audio/zagadki_o_otgadki.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Краденое солнце
+https://mp3tales.info/audio/kradenoe_solnce.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Крокодил
+https://mp3tales.info/audio/krokodil.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Мойдодыр
+https://mp3tales.info/audio/mojdodyr.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Мойдодыр (опера)
+https://mp3tales.info/audio/mojdodyr_opera.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Муха-Цокотуха (версия 1)
+https://mp3tales.info/audio/muha_cokotuha.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Муха-Цокотуха (версия 2)
+https://mp3tales.info/audio/muha_cokotuha_versija_2.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Муха-Цокотуха (симфоническая сказка)
+https://mp3tales.info/audio/muha_cokotuha_simfonicheskaja_skazka.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Муха-Цокотуха и другие смешные сказки для ребят-трулялят
+https://mp3tales.info/audio/muha_cokotuha_i_drugie_smeshnye_skazki_dlja_rebjat_truljaljat.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Приключения Бибигона
+https://mp3tales.info/audio/prikljuchenija_bibigona.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Путаница
+https://mp3tales.info/audio/putanica.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Робин Бобин Барабек
+https://mp3tales.info/audio/robin_bobin_barabek.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Тараканище (версия 1)
+https://mp3tales.info/audio/tarakanische.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Тараканище (версия 2)
+https://mp3tales.info/audio/tarakanische_versija_2.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Телефон
+https://mp3tales.info/audio/telefon.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Телефон (опера)
+https://mp3tales.info/audio/telefon_opera.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Федорино горе
+https://mp3tales.info/audio/fedorino_gore.mp3
+#EXTINF:-1 group-title="Сказки Корнея Чуковского",Чудо-дерево
+https://mp3tales.info/audio/chudo_derevo.mp3
+
+#EXTINF:-1 group-title="Сказки Носова",Бобик в гостях у Барбоса
+https://mp3tales.info/audio/bobik_v_gostjah_u_barbosa.mp3
+#EXTINF:-1 group-title="Сказки Носова",Как на Незнайку упал кусок солнца
+https://mp3tales.info/audio/kak_na_neznajku_upal_kusok_solnca.mp3
+#EXTINF:-1 group-title="Сказки Носова",Карасик
+https://mp3tales.info/audio/karasik.mp3
+#EXTINF:-1 group-title="Сказки Носова",Приключения Незнайки. Незнайка - путешественник
+https://mp3tales.info/audio/prikljuchenija_neznajki_neznajka_puteshestvennik.mp3
+#EXTINF:-1 group-title="Сказки Носова",Приключения Толи Клюквина
+https://mp3tales.info/audio/prikljuchenija_toli_kljukvina.mp3
+#EXTINF:-1 group-title="Сказки Носова",Ребята с нашего двора
+https://mp3tales.info/audio/rebyata_s_nashego_dvora.mp3
+#EXTINF:-1 group-title="Сказки Носова",Фантазеры
+https://mp3tales.info/audio/fantazery.mp3
+
+#EXTINF:-1 group-title="Сказки Перро",Золушка (версия 1)
+https://mp3tales.info/audio/zolushka_1.mp3
+#EXTINF:-1 group-title="Сказки Перро",Золушка (версия 2)
+https://mp3tales.info/audio/zolushka_2.mp3
+#EXTINF:-1 group-title="Сказки Перро",Золушка (версия 3)
+https://mp3tales.info/audio/zolushka_3.mp3
+#EXTINF:-1 group-title="Сказки Перро",Золушка (версия 4)
+https://mp3tales.info/audio/zolushka_4.mp3
+#EXTINF:-1 group-title="Сказки Перро",Золушка (версия 5)
+https://mp3tales.info/audio/zolushka_5.mp3
+#EXTINF:-1 group-title="Сказки Перро",Золушка (версия 6)
+https://mp3tales.info/audio/zolushka_6.mp3
+#EXTINF:-1 group-title="Сказки Перро",Кот в сапогах
+https://mp3tales.info/audio/kot_v_sapogah.mp3
+#EXTINF:-1 group-title="Сказки Перро",Кот в сапогах (в стихах)
+https://mp3tales.info/audio/kot_v_sapogah_v_stihah.mp3
+#EXTINF:-1 group-title="Сказки Перро",Красная шапочка (версия 1)
+https://mp3tales.info/audio/krasnaja_shapochka_1.mp3
+#EXTINF:-1 group-title="Сказки Перро",Красная шапочка (версия 2)
+https://mp3tales.info/audio/krasnaja_shapochka_2.mp3
+#EXTINF:-1 group-title="Сказки Перро",Мальчик с пальчик
+https://mp3tales.info/audio/malchik_s_palchik.mp3
+#EXTINF:-1 group-title="Сказки Перро",Рике с хохолком
+https://mp3tales.info/audio/rike_s_hoholkom.mp3
+#EXTINF:-1 group-title="Сказки Перро",Синяя Борода
+https://mp3tales.info/audio/sinjaja_boroda.mp3
+#EXTINF:-1 group-title="Сказки Перро",Спящая красавица (версия 1)
+https://mp3tales.info/audio/spjaschaja_krasavica.mp3
+#EXTINF:-1 group-title="Сказки Перро",Спящая красавица (версия 2)
+https://mp3tales.info/audio/spjaschaja_krasavica_versija_2.mp3
+
+#EXTINF:-1 group-title="Сказки по мультфильмам",Бобик в гостях у Барбоса
+https://mp3tales.info/audio/bobik_v_gostjah_u_barbosa.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",В стране невыученных уроков
+https://mp3tales.info/audio/v_strane_nevyuchennyh_urokov.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Верните Рекса
+https://mp3tales.info/audio/vernite_reksa.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Вовка в тридевятом царстве
+https://mp3tales.info/audio/vovka_v_tridevjatom_carstve.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Всем, всем, всем...
+https://mp3tales.info/audio/vsem_vsem_vsem.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Горе не беда
+https://mp3tales.info/audio/gore_ne_beda.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Двенадцать месяцев
+https://mp3tales.info/audio/dvenadcat_mesjacev.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Дед Мороз и лето
+https://mp3tales.info/audio/ded_moroz_i_leto.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Дед Мороз и серый волк
+https://mp3tales.info/audio/ded_moroz_i_seryj_volk.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Доктор Айболит (версия 2)
+https://mp3tales.info/audio/doktor_ajbolit_mult.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Жил у бабушки козел
+https://mp3tales.info/audio/zhil_u_babushki_kozel.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Летучий корабль (версия 1)
+https://mp3tales.info/audio/letuchij_korabl.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Летучий корабль (версия 2)
+https://mp3tales.info/audio/letuchij_korabl_2.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Мария, Мирабела
+https://mp3tales.info/audio/marija_mirabela.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Мистер Пронька
+https://mp3tales.info/audio/mister_pronka.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Наш друг Пишичитай
+https://mp3tales.info/audio/nash_drug_pishichitaj.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Остров сокровищ (версия 2)
+https://mp3tales.info/audio/ostrov_sokrovisch_2.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Осьминожки
+https://mp3tales.info/audio/osminozhki.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Паровозик из Ромашково
+https://mp3tales.info/audio/parovozik_iz_romashkovo.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Пес в сапогах
+https://mp3tales.info/audio/pes_v_sapogah.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Приключения Васи Куролесова
+https://mp3tales.info/audio/prikljuchenija_vasi_kurolesova.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Приключения поросенка Фунтика
+https://mp3tales.info/audio/prikljuchenija_porosenka_funtika.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Ребята, давайте жить дружно!
+https://mp3tales.info/audio/rebjata_davajte_zhit_druzhno.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Русалочка (версия 3)
+https://mp3tales.info/audio/rusalochka_3.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Седой медведь
+https://mp3tales.info/audio/sedoj_medved.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Сладкая сказка
+https://mp3tales.info/audio/sladkaja_skazka.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Снегурочка (версия 1)
+https://mp3tales.info/audio/snegurochka.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Тайна третьей планеты
+https://mp3tales.info/audio/tajna_tretej_planety.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Трое из Простоквашино (версия 1)
+https://mp3tales.info/audio/troe_iz_prostokvashino_1.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Чучело-мяучело
+https://mp3tales.info/audio/chuchelo_mjauchelo.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",38 попугаев - 38 попугаев
+https://mp3tales.info/audio/38_popugaev.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",38 попугаев - А вдруг получится
+https://mp3tales.info/audio/a_vdrug_poluchitsja.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",38 попугаев - Великое закрытие
+https://mp3tales.info/audio/velikoe_zakrytie.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",38 попугаев - Завтра будет завтра
+https://mp3tales.info/audio/zavtra_budet_zavtra.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",38 попугаев - Зарядка для хвоста
+https://mp3tales.info/audio/zarjadka_dlja_hvosta.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",38 попугаев - Как лечить удава
+https://mp3tales.info/audio/kak_lechit_udava.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",38 попугаев - Привет мартышке
+https://mp3tales.info/audio/privet_martyshke.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Винни-Пух - Винни-Пух
+https://mp3tales.info/audio/vinni_puh.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Винни-Пух - Винни-Пух и день забот
+https://mp3tales.info/audio/vinni_puh_i_den_zabot.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Винни-Пух - Винни-Пух идет в гости
+https://mp3tales.info/audio/vinni_puh_idet_v_gosti.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Возвращение блудного попугая - Весна
+https://mp3tales.info/audio/bl_vesna.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Возвращение блудного попугая - Зима
+https://mp3tales.info/audio/bl_zima.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Возвращение блудного попугая - Лето
+https://mp3tales.info/audio/bl_leto.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Малыш и Карлсон - Карлсон вернулся
+https://mp3tales.info/audio/karlson_vernulsja.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Малыш и Карлсон - Малыш и Карлсон
+https://mp3tales.info/audio/malysh_i_karlson.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Умка - Умка
+https://mp3tales.info/audio/umka.mp3
+#EXTINF:-1 group-title="Сказки по мультфильмам",Умка - Умка ищет друга
+https://mp3tales.info/audio/umka_ischet_druga.mp3
+
+#EXTINF:-1 group-title="Сказки Пушкина",Пиковая дама
+https://mp3tales.info/audio/pikovaya_dama.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Руслан и Людмила
+https://mp3tales.info/audio/ruslan_i_ljudmila.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Сказка о золотом петушке (версия 1)
+https://mp3tales.info/audio/skazka_o_zolotom_petushke.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Сказка о золотом петушке (версия 2)
+https://mp3tales.info/audio/skazka_o_zolotom_petushke_2.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Сказка о мертвой царевне и семи богатырях (версия 1)
+https://mp3tales.info/audio/skazka_o_mertvoj_carevne_i_semi_bogatyrjah_1.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Сказка о мертвой царевне и семи богатырях (версия 2)
+https://mp3tales.info/audio/skazka_o_mertvoj_carevne_i_semi_bogatyrjah_2.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Сказка о мертвой царевне и семи богатырях (версия 3)
+https://mp3tales.info/audio/skazka_o_mertvoj_carevne_i_semi_bogatyrjah_3.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Сказка о мертвой царевне и семи богатырях (версия 4)
+https://mp3tales.info/audio/skazka_o_mertvoj_carevne_i_semi_bogatyrjah_4.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Сказка о мертвой царевне и семи богатырях (версия 5)
+https://mp3tales.info/audio/skazka_o_mertvoj_carevne_i_semi_bogatyrjah_5.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Сказка о Попе и работнике его Балде (версия 1)
+https://mp3tales.info/audio/skazka_o_pope_i_rabotnike_ego_balde_1.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Сказка о Попе и работнике его Балде (версия 2)
+https://mp3tales.info/audio/skazka_o_pope_i_rabotnike_ego_balde_2.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Сказка о Попе и работнике его Балде (версия 3)
+https://mp3tales.info/audio/skazka_o_pope_i_rabotnike_ego_balde_3.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Сказка о Попе и работнике его Балде (версия 4)
+https://mp3tales.info/audio/skazka_o_pope_i_rabotnike_ego_balde_4.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Сказка о Попе и работнике его Балде (версия 5)
+https://mp3tales.info/audio/skazka_o_pope_i_rabotnike_ego_balde_5.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Сказка о рыбаке и рыбке (версия 1)
+https://mp3tales.info/audio/skazka_o_rybake_i_rybke_1.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Сказка о рыбаке и рыбке (версия 2)
+https://mp3tales.info/audio/skazka_o_rybake_i_rybke_2.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Сказка о рыбаке и рыбке (версия 3)
+https://mp3tales.info/audio/skazka_o_rybake_i_rybke_3.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Сказка о рыбаке и рыбке (версия 4)
+https://mp3tales.info/audio/skazka_o_rybake_i_rybke_4.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Сказка о Царе Салтане (версия 1)
+https://mp3tales.info/audio/skazka_o_care_saltane_1.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Сказка о Царе Салтане (версия 2)
+https://mp3tales.info/audio/skazka_o_care_saltane_2.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Сказка о Царе Салтане (версия 3)
+https://mp3tales.info/audio/skazka_o_care_saltane_3.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",Сказка о Царе Салтане (версия 4)
+https://mp3tales.info/audio/skazka_o_care_saltane_4.mp3
+#EXTINF:-1 group-title="Сказки Пушкина",У Лукоморья дуб зеленый
+https://mp3tales.info/audio/u_lukomorja_dub_zelenyj.mp3
