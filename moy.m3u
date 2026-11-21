@@ -201,11 +201,11 @@ http://103.163.132.53/iptv/94LBT2DXEHGXHL/13020/index.m3u
 #EXTGRP: кино
 https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3915.m3u8
 
-#EXTINF:-1tvg-logo="http://i124.fastpic.org/big/2025/0331/d2/e5f1757464664ac96703393b95dff9d2.png",IPTVPLAY МультСказки HD
+#EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0331/d2/e5f1757464664ac96703393b95dff9d2.png",IPTVPLAY МультСказки HD
 #EXTGRP: Детский
 https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3920.m3u8
 
-#EXTINF:-1,СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
+#EXTINF:-1  tvg-logo="http://epg.cdntv.online/img/165.png",СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
 #EXTGRP: Детский
 https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NTQ3MTEwMSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0ODY2MzAxLCJzZXNzaW9uX2lkIjoiYmVjY2ZiMDQ4M2QwM2VkMTAyNTc3YTY5ZWIyNGRmZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.n_Bf689su8HZVgVA3pRbzfB862R8Cf9xJzZuDOt7UKc
 #EXTINF:-1,Том и Джерри
