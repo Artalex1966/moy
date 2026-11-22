@@ -796,13 +796,19 @@ http://103.163.132.53/iptv/PR5ML8LT75UHRF/30167/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/schenachiy-patrul-ua.png",Щенячий патруль
 #EXTGRP: Детский
 http://103.163.132.53/iptv/4RX9EUEFQCUA5P/30167/index.m3u8
-#EXTINF:-1 tvg-logo="",Вспыш и чудо-машинки
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/vspush.png",Вспыш и чудо-машинки
 #EXTGRP: Детский
 http://103.163.132.53/iptv/PR5ML8LT75UHRF/30155/index.m3u8
-#EXTINF:-1 tvg-logo="",Фиксики
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/vspush.png",Вспыш и чудо-машинки
+#EXTGRP: Детский
+http://103.163.132.53/iptv/RKD6597RYVF5L6/30155/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/fiksiki.png",Фиксики
 #EXTGRP: Детский
 http://103.163.132.53/iptv/PR5ML8LT75UHRF/30153/index.m3u8
-#EXTINF:-1 tvg-logo="",Смешарики
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/fiksiki.png",Фиксики
+#EXTGRP: Детский
+http://103.163.132.53/iptv/RKD6597RYVF5L6/30153/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/smeshariki.png",Смешарики
 #EXTGRP: Детский
 http://103.163.132.53/iptv/PR5ML8LT75UHRF/30168/index.m3u8
 
