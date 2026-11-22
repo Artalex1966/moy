@@ -90,7 +90,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u
 
 #EXTINF:-1,CineMan VHS
 #EXTGRP:кино
-http://cdntv.online/high/5c24skzmbrx9/1263.m3u8
+http://cdntv.online/high/8mab9e6src/1263.m3u8
 
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP:кино
@@ -101,7 +101,7 @@ http://103.163.132.53/iptv/PR5ML8LT75UHRF/13037/index.m3u8
 
 #EXTINF:-1 tvg-id="CineMan Дубляж СССР" tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP:кино
-http://cdntv.online/hls/5c24skzmbrx9/2300.m3u8
+http://cdntv.online/hls/8mab9e6src/2300.m3u8
 #EXTINF:-1 tvg-id="CineMan Дубляж СССР" tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP:кино
 http://cdntv.online/hls/6kwispjyn892/2300.m3u8
@@ -177,7 +177,7 @@ http://103.163.132.53/iptv/PR5ML8LT75UHRF/18073/index.m3u8
 
 #EXTINF:-1,MM USSR Комедия HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/BV4SSQ9PRKF2CW/index.m3u
+http://103.163.132.50/iptv/4RX9EUEFQCUA5P/13019/index.m3u
 #EXTINF:-1,MM USSR Детектив HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/94LBT2DXEHGXHL/13096/index.m3u
@@ -277,7 +277,7 @@ http://ch01.plinkspile.cc/21020/index.m3u8?token=XnuYQbT9Ly8nDX
 http://cdntv.online/high/3rtdzbfmw5/2214.m3u8
 #EXTINF:-1, CineMan CCCP 4K
 #EXTGRP:кино
-http://cdntv.online/low/5c24skzmbrx9/1682.mpeg
+http://cdntv.online/low/8mab9e6src/1682.mpeg
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5117.png",TOP USSR HD
 #EXTGRP:кино
 http://103.163.132.53/iptv/PR5ML8LT75UHRF/13005/index.m3u8
@@ -779,7 +779,7 @@ https://rpn3.bozztv.com/dvrfl07/ushba78/tracks-v1a1/mono.ts.m3u8
 https://rpn3.bozztv.com/dvrfl07/ushba79/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Маша и Медведь
 #EXTGRP: Детский
-http://cdntv.online/high/5c24skzmbrx9/897.mpeg
+http://cdntv.online/high/8mab9e6src/897.mpeg
 #EXTINF:-1,Маша и Медведь
 #EXTGRP: Детский
 http://cdntv.online/high/9bpaycj4dk/897.m3u8
