@@ -170,7 +170,7 @@ http://r.faola.li/6839/index.m3u8?token=nSeG5DM7LE
 http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:-1 tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детское кино HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/4N4BPXK9GTU8SE/18073/index.m3u8
+http://103.163.132.53/iptv/4RX9EUEFQCUA5P/18073/index.m3u8
 #EXTINF:-1 tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детское кино HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/PR5ML8LT75UHRF/18073/index.m3u8
@@ -641,7 +641,7 @@ http://103.163.132.53/iptv/PR5ML8LT75UHRF/17013/index.m3u8
 http://nkhwvlfz.ottclub.xyz/iptv/PR5ML8LT75UHRF/17013/index.m3u8
 #EXTINF:-1,VF Тайны следствия
 #EXTGRP:кино
-http://103.163.132.53/iptv/4N4BPXK9GTU8SE/13082/index.m3u8
+http://103.163.132.53/iptv/4RX9EUEFQCUA5P/13082/index.m3u8
 #EXTINF:-1,VF Тайны следствия
 #EXTGRP:кино
 http://103.163.132.53/iptv/PR5ML8LT75UHRF/13082/index.m3u8
@@ -795,7 +795,7 @@ https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=o3
 http://103.163.132.53/iptv/PR5ML8LT75UHRF/30167/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/schenachiy-patrul-ua.png",Щенячий патруль
 #EXTGRP: Детский
-http://103.163.132.53/iptv/4N4BPXK9GTU8SE/30167/index.m3u8
+http://103.163.132.53/iptv/4RX9EUEFQCUA5P/30167/index.m3u8
 #EXTINF:-1 tvg-logo="",Вспыш и чудо-машинки
 #EXTGRP: Детский
 http://103.163.132.53/iptv/PR5ML8LT75UHRF/30155/index.m3u8
@@ -811,7 +811,7 @@ http://103.163.132.53/iptv/PR5ML8LT75UHRF/30168/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/chudesa.png",Чудеса на виражах
 #EXTGRP: Детский
-http://103.163.132.50/iptv/4N4BPXK9GTU8SE/30192/index.m3u8
+http://103.163.132.50/iptv/4RX9EUEFQCUA5P/30192/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/timonpumba.png",Тимон и Пумба
 #EXTGRP: Детский
 http://103.163.132.53/iptv/PR5ML8LT75UHRF/30164/index.m3u8
