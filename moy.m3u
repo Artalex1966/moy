@@ -170,14 +170,14 @@ http://r.faola.li/6839/index.m3u8?token=nSeG5DM7LE
 http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:-1 tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детское кино HD
 #EXTGRP: кино
-http://103.163.132.53/iptv/AUEE8M23ZRE6UP/18073/index.m3u8
+http://103.163.132.53/iptv/T9H75A85UBLDTFZDN74YZ4G6/18073/index.m3u8
 #EXTINF:-1 tvg-id="detkino-tviksel"  tvg-logo="http://epg.one/img2/6260.png"   tvg-rec="0",Детское кино HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/USLRX7Q7NQNPL5/18073/index.m3u8
 
 #EXTINF:-1,MM USSR Комедия HD
 #EXTGRP: кино
-http://103.163.132.50/iptv/AUEE8M23ZRE6UP/13019/index.m3u
+http://103.163.132.50/iptv/T9H75A85UBLDTFZDN74YZ4G6/13019/index.m3u
 #EXTINF:-1,MM USSR Детектив HD
 #EXTGRP: кино
 http://103.163.132.53/iptv/USLRX7Q7NQNPL5/13096/index.m3u
@@ -253,7 +253,7 @@ http://cdntv.online/low/wn49ab7yv5/1583.mpeg
 http://45.156.223.200/iptv/USLRX7Q7NQNPL5/31625/index.m3u
 #EXTINF:-1,VF Классика
 #EXTGRP:кино
-http://103.163.132.53/iptv/AUEE8M23ZRE6UP/10053/index.m3u8
+http://103.163.132.53/iptv/T9H75A85UBLDTFZDN74YZ4G6/10053/index.m3u8
 #EXTINF:-1,VF киностудия им. Горького
 #EXTGRP:кино
 http://103.163.132.53/iptv/KSKRCX75EL4VFTSHWYUKQUGB/18122/index.m3u8
@@ -265,7 +265,7 @@ http://103.163.132.53/iptv/9TEF53NVQBBLQZDGQSTSR6ZD/18121/index.m3u8
 http://103.163.132.53/iptv/USLRX7Q7NQNPL5/10084/index.m3u8
 #EXTINF:-1,VF Беларусьфильм
 #EXTGRP:кино
-http://103.163.132.53/iptv/AUEE8M23ZRE6UP/18125/index.m3u8
+http://103.163.132.53/iptv/T9H75A85UBLDTFZDN74YZ4G6/18125/index.m3u8
 #EXTINF:-1,VF Фильмы СССР
 #EXTGRP:кино
 http://103.163.132.53/iptv/9TEF53NVQBBLQZDGQSTSR6ZD/10085/index.m3u8
@@ -641,7 +641,7 @@ http://103.163.132.53/iptv/USLRX7Q7NQNPL5/17013/index.m3u8
 http://nkhwvlfz.ottclub.xyz/iptv/94LBT2DXEHGXHL/17013/index.m3u8
 #EXTINF:-1,VF Тайны следствия
 #EXTGRP:кино
-http://103.163.132.53/iptv/AUEE8M23ZRE6UP/13082/index.m3u8
+http://103.163.132.53/iptv/T9H75A85UBLDTFZDN74YZ4G6/13082/index.m3u8
 #EXTINF:-1,VF Тайны следствия
 #EXTGRP:кино
 http://103.163.132.53/iptv/USLRX7Q7NQNPL5/13082/index.m3u8
@@ -817,7 +817,7 @@ http://103.163.132.53/iptv/USLRX7Q7NQNPL5/30168/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/chudesa.png",Чудеса на виражах
 #EXTGRP: Детский
-http://103.163.132.50/iptv/AUEE8M23ZRE6UP/30192/index.m3u8
+http://103.163.132.50/iptv/T9H75A85UBLDTFZDN74YZ4G6/30192/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/timonpumba.png",Тимон и Пумба
 #EXTGRP: Детский
 http://103.163.132.53/iptv/USLRX7Q7NQNPL5/30164/index.m3u8
