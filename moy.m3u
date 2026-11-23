@@ -90,18 +90,18 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u
 
 #EXTINF:-1,CineMan VHS
 #EXTGRP:кино
-http://cdntv.online/high/je3pmashtz/1263.m3u8
+http://cdntv.online/high/wn49ab7yv5/1263.m3u8
 
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP:кино
-http://103.163.132.53/iptv/RKD6597RYVF5L6/13037/index.m3u8
+http://103.163.132.53/iptv/94LBT2DXEHGXHL/13037/index.m3u8
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP:кино
 http://103.163.132.53/iptv/USLRX7Q7NQNPL5/13037/index.m3u8
 
 #EXTINF:-1 tvg-id="CineMan Дубляж СССР" tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP:кино
-http://cdntv.online/hls/je3pmashtz/2300.m3u8
+http://cdntv.online/hls/wn49ab7yv5/2300.m3u8
 #EXTINF:-1 tvg-id="CineMan Дубляж СССР" tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP:кино
 http://cdntv.online/hls/6kwispjyn892/2300.m3u8
@@ -158,7 +158,7 @@ http://kinowalk.hopto.org/cmexye4ku_live
 
 #EXTINF:-1,CineMan Top
 #EXTGRP:кино
-http://cdntv.online/high/je3pmashtz/1256.m3u8
+http://cdntv.online/high/wn49ab7yv5/1256.m3u8
 #EXTINF:-1,CineMan Top
 #EXTGRP:кино
 http://r.faola.li/6839/index.m3u8?token=nSeG5DM7LE
@@ -278,7 +278,7 @@ http://ch01.plinkspile.cc/21020/index.m3u8?token=XnuYQbT9Ly8nDX
 http://cdntv.online/high/3rtdzbfmw5/2214.m3u8
 #EXTINF:-1, CineMan CCCP 4K
 #EXTGRP:кино
-http://cdntv.online/low/je3pmashtz/1682.mpeg
+http://cdntv.online/low/wn49ab7yv5/1682.mpeg
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5117.png",TOP USSR HD
 #EXTGRP:кино
 http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/13005/index.m3u8
@@ -780,7 +780,7 @@ https://rpn3.bozztv.com/dvrfl07/ushba78/tracks-v1a1/mono.ts.m3u8
 https://rpn3.bozztv.com/dvrfl07/ushba79/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Маша и Медведь
 #EXTGRP: Детский
-http://cdntv.online/high/je3pmashtz/897.mpeg
+http://cdntv.online/high/wn49ab7yv5/897.mpeg
 #EXTINF:-1,Маша и Медведь
 #EXTGRP: Детский
 http://cdntv.online/high/wn49ab7yv5/897.m3u8
@@ -801,13 +801,13 @@ http://103.163.132.53/iptv/94LBT2DXEHGXHL/30167/index.m3u8
 http://103.163.132.53/iptv/USLRX7Q7NQNPL5/30155/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/vspush.png",Вспыш и чудо-машинки
 #EXTGRP: Детский
-http://103.163.132.53/iptv/RKD6597RYVF5L6/30155/index.m3u8
+http://103.163.132.53/iptv/94LBT2DXEHGXHL/30155/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/fiksiki.png",Фиксики
 #EXTGRP: Детский
 http://103.163.132.53/iptv/USLRX7Q7NQNPL5/30153/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/fiksiki.png",Фиксики
 #EXTGRP: Детский
-http://103.163.132.53/iptv/RKD6597RYVF5L6/30153/index.m3u8
+http://103.163.132.53/iptv/94LBT2DXEHGXHL/30153/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/smeshariki.png",Смешарики
 #EXTGRP: Детский
 http://103.163.132.53/iptv/USLRX7Q7NQNPL5/30168/index.m3u8
