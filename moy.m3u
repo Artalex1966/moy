@@ -91,7 +91,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u
 
 #EXTINF:-1,CineMan VHS
 #EXTGRP:кино
-https://16.hls.gd/ch1038/mono.m3u8?token=skynex.v2_ofp7kScp5CTyjlfbL-H47Ix2ndWEgqnALLxdWQrYrEZmHyh8vptX5frTrMmIcn70X3cL66jwWQ&nostub=1
+http://rr2.1ott.net/~109ffaadfcab2eb91a146eee176a1e38d2b/59429/hlsx/pl.m3u8
 
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP:кино
@@ -105,7 +105,7 @@ http://103.163.132.53/iptv/9MSM7C9DAAU53WUVEM8CLGCG/13037/index.m3u8
 http://cdntv.online/hls/kf28bzwndi/2300.m3u8
 #EXTINF:-1 tvg-id="CineMan Дубляж СССР" tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP:кино
-https://16.hls.gd/ch3925/mono.m3u8?token=skynex.v2_0ZOQKqa-P_Y5lvW4j0KcVOXL2xHXfftR3YpGTyedM0-IqZVzJ3qq8ebbYbYNS_GV6y5HOq11Mw&nostub=1
+http://rr2.1ott.net/~109ffaadfcab2eb91a146eee176a1e38d2b/63729/hlsx/pl.m3u8
 
 
 
@@ -818,8 +818,12 @@ http://103.163.132.53/iptv/94LBT2DXEHGXHL/30153/index.m3u8
 #EXTGRP: Детский
 http://103.163.132.53/iptv/9MSM7C9DAAU53WUVEM8CLGCG/30168/index.m3u8
 
-
-
+#EXTINF:-1,Сонник Бум
+#EXTGRP: Детский
+http://live.myrutv.ru/9082/video.m3u8?token=4CUjq4a36igU27QP
+#EXTINF:-1,Царевны
+#EXTGRP: Детский
+http://live.uspeh-bil.ru/9091/video.m3u8?token=4SDtjpLPSPw4Srqp
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/chudesa.png",Чудеса на виражах
 #EXTGRP: Детский
