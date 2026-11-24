@@ -78,7 +78,7 @@ http://195.209.212.23:8081/hls/Kino_1_int/playlist.m3u8
 http://77fb8f92.amazzin.pw/iptv/TZT2YUHDYRRDRM/18069/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6257.png",Кино 2
 #EXTGRP:кино
-http://7036420a.edmonst.net/iptv/R3A7B6MZZFDCUL/18070/index.m3u8
+http://7036420a.edmonst.net/iptv/CN5Y444G9H77QSKXU2V6SEW7/18070/index.m3u8
 
 
 #EXTINF:-1,Cinema
@@ -178,25 +178,25 @@ http://103.163.132.53/iptv/TZT2YUHDYRRDRM/18073/index.m3u8
 
 #EXTINF:-1,MM USSR Комедия HD
 #EXTGRP: кино
-http://45.156.223.202/iptv/V5LQDM4CPUCC2C/13019/index.m3u
+https://16.hls.gd/ch1224/mono.m3u8?token=skynex.v2_CNeVL1xSHKoSUGGMdn6uS5g1AzLyHzWjqyaAO338UIfmjqn_cYNguCkWV2m0ws5yRlRsxlEdgw&nostub=1
 #EXTINF:-1,MM USSR Детектив HD
 #EXTGRP: кино
-http://45.156.223.202/iptv/QE9BZFY7BMQXHF/13096/index.m3u
+https://16.hls.gd/ch1273/mono.m3u8?token=skynex.v2_0LraQvyHNn3MAAc_xaf6SbqKxar4ExTBHmBMoVXgB563rqXmqV089d8A1vv9-4ttIexeFbHjFg&nostub=1
 #EXTINF:-1,MM USSR Драма HD
 #EXTGRP: кино
-http://45.156.223.202/iptv/PN72TRC6UNHLF9/13022/index.m3u
+https://16.hls.gd/ch1227/mono.m3u8?token=skynex.v2_gsLodeqS6Wj2-9nXEf3nH6ZzYKLLzmvf_XOZYFRjcI3ngHbY0Q_-gnJQmnltYdNMSjsUTTzkVg&nostub=1
 #EXTINF:-1,MM USSR 1941-1945 HD
 #EXTGRP: кино
-http://45.156.223.202/iptv/W3PLF7YX827A3SN2PX8UKD8M/13018/index.m3u
+https://16.hls.gd/ch1223/mono.m3u8?token=skynex.v2_TsO_CZ3eCkEimFs7Q2KQjQM1PDIGsVcjqzLMO9xIRvmxHhCukadVKRhHi3s0g0mnmFRTM-EKyQ&nostub=1
 #EXTINF:-1,MM USSR Приключения HD
 #EXTGRP: кино
-http://45.156.223.202/iptv/8GZZTZ8XQFZG4X/13060/index.m3u
+https://16.hls.gd/ch1269/mono.m3u8?token=skynex.v2_eHLMzwdrvICaP2FSQgSzgymWqe1SmZsdyssQNto8UtUvmTSISOS_YFdYVI1XFud4e3HGp3Zmgw&nostub=1
 #EXTINF:-1,MM USSR Сказки HD
 #EXTGRP: кино
-http://45.156.223.202/iptv/9TEF53NVQBBLQZDGQSTSR6ZD/13021/index.m3u
+http://103.163.132.53/iptv/35FM8P753YUGHTYWHVBFNQHG/13021/index.m3u
 #EXTINF:-1,MM USSR Мультфильм HD
 #EXTGRP: кино
-http://45.156.223.202/iptv/WCCXLCW7ZS8NZH/13020/index.m3u
+http://103.163.132.53/iptv/CN5Y444G9H77QSKXU2V6SEW7/13020/index.m3u
 
 
 #EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0331/3d/26621b89b1f6365733d3b5021b259f3d.png",IPTVPLAY ПАМЯТЬ HD
