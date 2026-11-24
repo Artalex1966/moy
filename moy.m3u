@@ -78,7 +78,7 @@ http://195.209.212.23:8081/hls/Kino_1_int/playlist.m3u8
 http://77fb8f92.amazzin.pw/iptv/TZT2YUHDYRRDRM/18069/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6257.png",Кино 2
 #EXTGRP:кино
-http://7036420a.edmonst.net/iptv/TZT2YUHDYRRDRM/18070/index.m3u8
+http://7036420a.edmonst.net/iptv/R3A7B6MZZFDCUL/18070/index.m3u8
 
 
 #EXTINF:-1,Cinema
@@ -91,7 +91,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u
 
 #EXTINF:-1,CineMan VHS
 #EXTGRP:кино
-http://cdntv.online/high/kf28bzwndi/1263.m3u8
+https://16.hls.gd/ch1038/mono.m3u8?token=skynex.v2_ofp7kScp5CTyjlfbL-H47Ix2ndWEgqnALLxdWQrYrEZmHyh8vptX5frTrMmIcn70X3cL66jwWQ&nostub=1
 
 #EXTINF:-1,MM Комедия Classic HD
 #EXTGRP:кино
@@ -105,7 +105,7 @@ http://103.163.132.53/iptv/TZT2YUHDYRRDRM/13037/index.m3u8
 http://cdntv.online/hls/kf28bzwndi/2300.m3u8
 #EXTINF:-1 tvg-id="CineMan Дубляж СССР" tvg-logo="https://iptvx.one/picons/cineman-dub-ssr.png",Дубляж СССР
 #EXTGRP:кино
-http://cdntv.online/hls/6kwispjyn892/2300.m3u8
+https://16.hls.gd/ch3925/mono.m3u8?token=skynex.v2_0ZOQKqa-P_Y5lvW4j0KcVOXL2xHXfftR3YpGTyedM0-IqZVzJ3qq8ebbYbYNS_GV6y5HOq11Mw&nostub=1
 
 
 
@@ -162,7 +162,7 @@ http://kinowalk.hopto.org/cmexye4ku_live
 http://cdntv.online/high/kf28bzwndi/1256.m3u8
 #EXTINF:-1,CineMan Top
 #EXTGRP:кино
-http://r.faola.li/6839/index.m3u8?token=nSeG5DM7LE
+https://16.hls.gd/ch1031/mono.m3u8?token=skynex.v2_PeoPWBeR-AoI6eQ6ISuu7F_xb9KRSD_PUgBb8hx7T9EBA2zjliBmWxuA442cSdyaBNIiBg5H6g&nostub=1
 
 
 
@@ -206,6 +206,9 @@ https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtL
 #EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0331/d2/e5f1757464664ac96703393b95dff9d2.png",IPTVPLAY МультСказки HD
 #EXTGRP: Детский
 https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3920.m3u8
+#EXTINF:-1,TVPlay Советское Кино HD
+#EXTGRP: кино
+https://16.hls.gd/ch3750/mono.m3u8?token=skynex.v2_o3Zur024tP9lEmAPWAelbm-ZYY0p39OqNc9oDmwqzd9ng0pkp8_8IXJ9vHSB20328DD2NQxVAA&nostub=1
 
 #EXTINF:-1  tvg-logo="http://epg.cdntv.online/img/165.png",СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
 #EXTGRP: Детский
@@ -653,6 +656,8 @@ http://103.163.132.50/iptv/ERBKZ3RFUNY54C/13082/index.m3u8
 #EXTINF:-1,Детективы каждый день
 #EXTGRP:кино
 https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=kRMnWT3L1BYMHuLVb8w1sQ&e=2091270838&scheme=https
+
+
 
 #EXTINF:-1,Galaxy
 #EXTGRP: Познавательное
