@@ -5,9 +5,9 @@
 #EXTINF:-1,Авто плюс
 http://195.64.140.147:10029/29
 #EXTINF:-1,BOX AutoTrend HD
-http://103.163.132.53/iptv/V5LQDM4CPUCC2C/31654/index.m3u8
+http://103.163.132.53/iptv/8ED7L5YXSGCCMS/index.m3u8
 #EXTINF:-1,VF Авто
-http://103.163.132.53/iptv/6PDMKG55BKEG7A/15511/index.m3u8
+http://103.163.132.53/iptv/2DRFP4PXP5RHZT/index.m3u8
 #EXTINF:-1,MM Experiment HD
 http://nl01.plinkspile.cc/20783/index.m3u8?token=Hbu9XiuczkAn8N
 #EXTINF:-1,MM Открытия HD
@@ -78,7 +78,7 @@ http://195.209.212.23:8081/hls/Kino_1_int/playlist.m3u8
 http://77fb8f92.amazzin.pw/iptv/V5LQDM4CPUCC2C/18069/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6257.png",Кино 2
 #EXTGRP:кино
-http://7036420a.edmonst.net/iptv/V5LQDM4CPUCC2C/18070/index.m3u8
+http://7036420a.edmonst.net/iptv/SVAYUTY5LNAF4S/18070/index.m3u8
 
 
 #EXTINF:-1,Cinema
@@ -714,7 +714,7 @@ http://r.faola.li/702/video.m3u8?token=nSeG5DM7LE
 http://stream.mcquack.net/186/index.m3u8
 #EXTINF:-1,BOX AutoTrend HD
 #EXTGRP: Познавательное
-http://103.163.132.53/iptv/V5LQDM4CPUCC2C/31654/index.m3u8
+http://103.163.132.53/iptv/8ED7L5YXSGCCMS/index.m3u8
 #EXTINF:-1,VF Авто
 #EXTGRP: Познавательное
 http://nkhwvlfz.ottclub.xyz/iptv/V5LQDM4CPUCC2C/15511/index.m3u8
