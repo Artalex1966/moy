@@ -619,12 +619,12 @@ http://103.163.132.53/iptv/CN5Y444G9H77QSKXU2V6SEW7/17006/index.m3u
 http://bpl.seeetv.cc/play/50131/E95443E0AD5D783/mpegts
 
 
-#EXTINF:-1,CineMan Комедийные Сериалы
+#EXTINF:-1,Экстрасенсы
 #EXTGRP:кино
-http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/31628/index.m3u8
-#EXTINF:-1,CineMan Комедийные Сериалы
+http://103.163.132.53/iptv/QE9BZFY7BMQXHF/30190/index.m3u8
+#EXTINF:-1,Экстрасенсы
 #EXTGRP:кино
-http://103.163.132.53/iptv/CN5Y444G9H77QSKXU2V6SEW7/31628/index.m3u8
+http://103.163.132.53/iptv/QGYQF73BAHHMSUTYBC7MLVGX/30190/index.m3u8
 
 
 #EXTINF:-1,VF Гарри Поттер
