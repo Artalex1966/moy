@@ -78,7 +78,7 @@ http://195.209.212.23:8081/hls/Kino_1_int/playlist.m3u8
 http://77fb8f92.amazzin.pw/iptv/W3PLF7YX827A3SN2PX8UKD8M/18069/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/6257.png",Кино 2
 #EXTGRP:кино
-http://7036420a.edmonst.net/iptv/SVAYUTY5LNAF4S/18070/index.m3u8
+http://7036420a.edmonst.net/iptv/DDUM35BDF2VLMB/18070/index.m3u8
 
 
 #EXTINF:-1,Cinema
@@ -826,9 +826,14 @@ http://103.163.132.53/iptv/W3PLF7YX827A3SN2PX8UKD8M/30168/index.m3u8
 #EXTINF:-1,Сонник Бум
 #EXTGRP: Детский
 http://live.myrutv.ru/9082/video.m3u8?token=4CUjq4a36igU27QP
+#EXTINF:-1,Сонник Бум
+#EXTGRP: Детский
+https://live.uspeh.my/9082/video.m3u8?token=NoiaE81zpgPENXrC
 #EXTINF:-1,Царевны
 #EXTGRP: Детский
 http://live.uspeh-bil.ru/9091/video.m3u8?token=p38CeA56C8wzWCm3
+
+https://live.uspeh.my/9091/video.m3u8?token=NoiaE81zpgPENXrC
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Artalex1966/moy/refs/heads/master/icon/chudesa.png",Чудеса на виражах
 #EXTGRP: Детский
@@ -1006,4 +1011,23 @@ https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=bc
 #EXTINF:-1, TVON ACTION
 #EXTGRP:кино
 http://188.208.197.173:2580/tvonfilm/video.m3u8?token=or1g1nall
+
+#EXTINF:-1,TEAM Эпоха 70 HD
+#EXTGRP:кино
+http://5.hls.gd/ch3393/mono.m3u8?token=1981mx.v2_A3Gp2P0nJkVWGvd29K9IMH3PSpo7d2uQKO3yjfv1FWm9H3hgvOUcrNWBOgEXDf8KHXYvCGGi6CU
+#EXTINF:-1,TEAM Эпоха 80 HD
+#EXTGRP:кино
+http://5.hls.gd/ch3903/mono.m3u8?token=1981mx.v2_bu2K2t_UiN7i6ZwZvnRo50z1c07_uWfBAWEoSUtcMpOttsCR9sf7PtU40TyWWnFopVG21vLiiSg
+#EXTINF:-1,TEAM Эпоха 80 HD
+#EXTGRP:кино
+http://5.hls.gd/ch3850/mono.m3u8?token=1981mx.v2_FVz8W_oIVqr3hgyk0DbzX7rohqriKjXrzD7Qj704aAbOOjJnY2aEL_hverLvpTF7pTkkkmvdzvk
+#EXTINF:-1,TEAM Кино СССР HD
+#EXTGRP:кино
+http://5.hls.gd/ch4156/mono.m3u8?token=1981mx.v2_gvFQfnfE7nM9eIOcWnvXxavcgzjYS3kCqMlgiyQwF-2WwphwEP0jjEvs2Z7k3et9_VaEFQrpnCc
+#EXTINF:-1,TEAM НЛС-ТВ HD
+#EXTGRP:кино
+http://5.hls.gd/ch4167/mono.m3u8?token=1981mx.v2_X9JbglUAz7Tmm4Kqb7OTJDVvCNZSoeLSr21aBER60AFBmvcxeGtHWIz2_pG5X3Gk9MyY5tV7L2g
+
+
+
 
